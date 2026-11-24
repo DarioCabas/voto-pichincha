@@ -1,0 +1,89 @@
+{
+  "canton": "PUERTO QUITO",
+  "candidatos": [
+    {
+      "codFormulario": 7225,
+      "enfoque": "Plan que transcribe las atribuciones del Concejo (COOTAD art. 57) y repite los doce ejes del plan de alcaldía de su alianza, sin propuestas propias de concejalía.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Regular tributos, tasas y contribuciones por ordenanza; aprobar el PDOT y el presupuesto; fiscalizar al alcalde", "v": "alta", "n": "Son atribuciones legales del Concejo; el plan no concreta qué hará con ellas." },
+          { "t": "Modernizar la gestión municipal con herramientas digitales y seguimiento de obras", "v": "media", "n": "La implementación corresponde a la Alcaldía." }
+        ],
+        "urbano": [
+          { "t": "Expedir la ordenanza de construcciones y regular el uso del suelo", "v": "alta", "n": "Atribución del Concejo; sin propuesta concreta." }
+        ],
+        "servicios": [
+          { "t": "Mejorar agua, saneamiento, residuos y espacios públicos", "v": "baja", "n": "Plantea prestar servicios, función del ejecutivo." }
+        ],
+        "economia": [
+          { "t": "Producción, turismo, arte, deporte, educación superior y juventud (ejes del plan de alcaldía)", "v": "media", "n": "El concejal solo puede impulsarlos." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["La matriz plurianual coincide con la del plan de alcaldía de la lista 2-8 (formulario 7220)."]
+    },
+    {
+      "codFormulario": 8074,
+      "enfoque": "Plan legislativo con reforma y codificación del Código Municipal, agenda anual de ordenanzas y fiscalización con metodología y línea base.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Reforma y actualización del Código Municipal: inventario, eliminación de duplicidades y codificación", "v": "alta", "n": "Iniciativa normativa propia del Concejo." },
+          { "t": "Agenda anual priorizada de ordenanzas y reformas", "v": "alta", "n": "Planificación legislativa." },
+          { "t": "Plan anual de fiscalización de presupuesto, POA, contratación, obras y talento humano con línea base", "v": "alta", "n": "Función directa del concejal." },
+          { "t": "Fortalecer el Sistema Cantonal de Participación con reglamento, cabildos y sesiones itinerantes", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "economia": [
+          { "t": "Ordenanza que articule producción y economía con mesas de productores, y normativa que simplifique trámites para emprender", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "ambiente": [
+          { "t": "Ordenanzas para la protección de fuentes de agua", "v": "alta", "n": "Iniciativa normativa en competencia municipal." }
+        ],
+        "social": [
+          { "t": "Políticas públicas y ordenanzas de inclusión para grupos de atención prioritaria", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["Agenda anual de ordenanzas, Código Municipal codificado y plan anual de fiscalización; sin cifras."],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 6072,
+      "enfoque": "Plan genérico que describe las funciones del concejal (presentar ordenanzas, fiscalizar, participar en comisiones) sin propuestas concretas.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Presentar reformas normativas según las necesidades identificadas y dar seguimiento a su tratamiento", "v": "alta", "n": "Atribución del concejal; no identifica ninguna ordenanza." },
+          { "t": "Fiscalizar la ejecución presupuestaria y la gestión del ejecutivo", "v": "alta", "n": "Función directa del concejal." },
+          { "t": "Espacios ciudadanos para recoger propuestas normativas en barrios y recintos", "v": "alta", "n": "Representación de bajo costo." }
+        ]
+      },
+      "metas": ["Indicadores de proceso (número de ordenanzas presentadas, de fiscalizaciones), sin valores meta."],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 2679,
+      "enfoque": "Plan por años que mezcla diagnóstico y priorización con programas de ejecución (ambientales, sociales, de infraestructura) que corresponden a la Alcaldía.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Diagnóstico actualizado y mapa de prioridades de inversión municipal en el primer año", "v": "media", "n": "El concejal puede impulsarlo; la planificación la elabora el ejecutivo." },
+          { "t": "Mecanismos de participación para priorizar la inversión", "v": "alta", "n": "Atribución de representación." }
+        ],
+        "urbano": [
+          { "t": "Mejora progresiva de infraestructura, espacios públicos, vialidad cantonal y servicios básicos", "v": "baja", "n": "Plantea ejecutar obras." }
+        ],
+        "servicios": [
+          { "t": "Gestión interinstitucional para agua potable, saneamiento y alcantarillado", "v": "media", "n": "Gestión que depende del ejecutivo y de otros niveles." }
+        ],
+        "ambiente": [
+          { "t": "Campañas de limpieza, reciclaje, reforestación y protección de fuentes", "v": "baja", "n": "Programas de ejecución." }
+        ],
+        "economia": [
+          { "t": "Registro municipal de emprendimientos y prestadores turísticos y mesas con productores", "v": "media", "n": "El registro lo crea la Alcaldía; el concejal puede proponerlo." }
+        ],
+        "social": [
+          { "t": "Programas deportivos, culturales e inclusivos para niñez, juventud, mujeres y adultos mayores", "v": "baja", "n": "Ejecución de programas." }
+        ]
+      },
+      "metas": ["Año 1: diagnóstico y mapa de prioridades; los siguientes años sin cifras."],
+      "notas": ["El texto proviene de OCR."]
+    }
+  ]
+}

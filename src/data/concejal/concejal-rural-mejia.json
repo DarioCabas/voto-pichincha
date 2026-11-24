@@ -1,0 +1,189 @@
+{
+  "canton": "MEJIA",
+  "candidatos": [
+    {
+      "codFormulario": 6829,
+      "enfoque": "Plan rural con fichas por propuesta: PDOT y PUGS con enfoque rural, ordenanza de regularización de construcciones rurales y plan anual de control político sobre obras rurales.",
+      "tabla": {
+        "urbano": [
+          { "t": "Actualizar el PDOT y el PUGS con enfoque rural y ordenanza de regularización de construcciones en suelo rural", "v": "alta", "n": "Uso del suelo es competencia municipal regulable por ordenanza." }
+        ],
+        "ambiente": [
+          { "t": "Proteger fuentes hídricas y áreas de recarga mediante normativa, con mesa técnica comunitaria", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "servicios": [
+          { "t": "Promover y fiscalizar normativa y proyectos de agua potable, alcantarillado y residuos en zonas rurales", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "economia": [
+          { "t": "Marco normativo para desarrollo agropecuario, comercialización, ferias rurales, turismo sostenible y soberanía alimentaria", "v": "alta", "n": "Iniciativa normativa; las ferias las organiza la Alcaldía." }
+        ],
+        "gobierno": [
+          { "t": "Plan Anual de Control Político documentado sobre presupuesto, contratación y obras rurales", "v": "alta", "n": "Función directa del concejal." },
+          { "t": "Mesas mensuales con presidentes de juntas parroquiales, cabildos rurales rotativos y portal de datos abiertos", "v": "alta", "n": "Representación de bajo costo." }
+        ]
+      },
+      "metas": ["PDOT y PUGS con enfoque rural actualizados; ordenanza de regularización de construcciones rurales aprobada."],
+      "notas": ["El contenido comparte estructura con el plan de concejales urbanos del mismo movimiento (formulario 6625)."]
+    },
+    {
+      "codFormulario": 7070,
+      "enfoque": "Agenda legislativa rural con ordenanzas de seguridad ('Mejía Segura'), crecimiento ordenado y protección de Santa Catalina, junto con programas de salud y apoyo social que exceden la función del concejal.",
+      "tabla": {
+        "seguridad": [
+          { "t": "Ordenanza 'Mejía Segura' y sistema 'Mejía Segura 360' con alarmas comunitarias y botones de auxilio conectados a las instituciones", "v": "media", "n": "La ordenanza es viable; instalar equipos lo ejecuta la Alcaldía y la seguridad es nacional." },
+          { "t": "Comités barriales y parroquiales de seguridad", "v": "alta", "n": "Organización comunitaria que el Concejo puede institucionalizar." }
+        ],
+        "urbano": [
+          { "t": "Ordenanza de Crecimiento Ordenado para urbanizaciones y protección de fronteras agrícolas", "v": "alta", "n": "Uso del suelo es competencia municipal." }
+        ],
+        "ambiente": [
+          { "t": "Plan de protección y recuperación de Santa Catalina con control de actividades y reforestación", "v": "media", "n": "El concejal puede impulsarlo; la ejecución es del ejecutivo." }
+        ],
+        "social": [
+          { "t": "Fortalecer el Hospital Básico de Machachi y los centros de salud parroquiales", "v": "baja", "n": "La salud es competencia del MSP." },
+          { "t": "Programa 'Mejía Saludable' y apoyo a personas con discapacidad y enfermedades catastróficas", "v": "baja", "n": "Plantea ejecutar programas, función de la Alcaldía." }
+        ],
+        "gobierno": [
+          { "t": "Fiscalización mediante pedidos de información, inspecciones de campo, comparecencias y mesas de trabajo", "v": "alta", "n": "Atribuciones de fiscalización del concejal." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["El texto proviene de OCR; gran parte del documento transcribe normas legales."]
+    },
+    {
+      "codFormulario": 8046,
+      "enfoque": "Plan breve de normativa para desarrollo social, seguridad, economía y ambiente, con acciones generales.",
+      "tabla": {
+        "seguridad": [
+          { "t": "Reformar la ordenanza vigente de seguridad para mejorar el tiempo de respuesta ante emergencias", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "social": [
+          { "t": "Ordenanzas para el desarrollo social e intercultural", "v": "alta", "n": "Iniciativa normativa; no detalla cuáles." }
+        ],
+        "economia": [
+          { "t": "Normativa para el desarrollo económico y productivo", "v": "media", "n": "El concejal solo impulsa; el fomento es concurrente." }
+        ],
+        "ambiente": [
+          { "t": "Normativa de protección ambiental y ordenamiento sostenible", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 11022,
+      "enfoque": "Plan que combina revisión normativa con gestiones de obra (vialidad, regeneración de Machachi, paradas de bus) que dependen del ejecutivo.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Revisar, actualizar y fortalecer la normativa cantonal y consensuar ordenanzas con los demás concejales", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "movilidad": [
+          { "t": "Gestionar proyectos de infraestructura vial y el mantenimiento de paradas de buses", "v": "baja", "n": "Plantea obras que ejecuta la Alcaldía." }
+        ],
+        "urbano": [
+          { "t": "Gestionar la regeneración urbana de Machachi", "v": "media", "n": "El concejal puede impulsarla en el presupuesto." }
+        ],
+        "ambiente": [
+          { "t": "Revisar la normativa ambiental y promover prácticas productivas que preserven la biodiversidad", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 5370,
+      "enfoque": "Plan rural detallado con cuatro ordenanzas concretas (equidad territorial, vialidad comunitaria, fuentes hídricas, fomento rural) y sistemas públicos de seguimiento de obras.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Ordenanza de Equidad Territorial Rural con criterios técnicos para priorizar la inversión en parroquias rurales", "v": "alta", "n": "Iniciativa normativa y atribución presupuestaria del Concejo." },
+          { "t": "Seguimiento a los presupuestos participativos rurales con informes trimestrales y sistema público de seguimiento de obras", "v": "alta", "n": "Fiscalización verificable." }
+        ],
+        "movilidad": [
+          { "t": "Ordenanza de gestión y mantenimiento de vialidad comunitaria y Plan de Mantenimiento Vial Rural Preventivo con cronograma por parroquia", "v": "media", "n": "La ordenanza es viable; la vialidad rural es concurrente con la Prefectura." }
+        ],
+        "ambiente": [
+          { "t": "Ordenanza de Protección de Fuentes Hídricas, Quebradas y Páramos", "v": "alta", "n": "Iniciativa normativa en competencia municipal." },
+          { "t": "Fiscalización ambiental rural y de actividades extractivas y movimientos de tierra", "v": "alta", "n": "Áridos y pétreos son competencia municipal fiscalizable." },
+          { "t": "Plan de reforestación comunitaria, alerta de riesgos y gestión de residuos rurales", "v": "media", "n": "Programas que ejecuta la Alcaldía." }
+        ],
+        "urbano": [
+          { "t": "Mesa cantonal de regularización territorial con GAD parroquiales y comunidades", "v": "alta", "n": "Espacio de coordinación de bajo costo." }
+        ],
+        "economia": [
+          { "t": "Ordenanza de Fomento a la Producción Rural y Economía Popular y Solidaria; red de ferias rurales y mercados campesinos", "v": "alta", "n": "Iniciativa normativa; las ferias las ejecuta la Alcaldía." },
+          { "t": "Fiscalizar el Centro de Comercialización de Productores Agrícolas", "v": "alta", "n": "Fiscalización." },
+          { "t": "Programas de capacitación productiva y valor agregado rural", "v": "media", "n": "Ejecución de la Alcaldía." }
+        ]
+      },
+      "metas": ["Informes trimestrales de presupuestos participativos rurales; cuatro ordenanzas propuestas."],
+      "notas": []
+    },
+    {
+      "codFormulario": 8743,
+      "enfoque": "Plan con funciones generales del concejal y una ordenanza integral ambiental, más exigencias al ejecutivo sobre saneamiento y vialidad.",
+      "tabla": {
+        "ambiente": [
+          { "t": "Aprobar la Ordenanza Integral de Protección Ambiental, Manejo de Residuos y Fuentes de Agua", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Exigir la actualización de los planes de emergencia parroquiales", "v": "alta", "n": "Fiscalización." }
+        ],
+        "servicios": [
+          { "t": "Priorizar en el POA la inversión en saneamiento y agua segura; exigir planes de mantenimiento vial", "v": "alta", "n": "El Concejo aprueba el presupuesto y puede exigir informes." }
+        ],
+        "urbano": [
+          { "t": "Fiscalizar el PDOT y el PUGS con las juntas parroquiales y presupuestos equitativos para la ruralidad", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "economia": [
+          { "t": "Ordenanzas de fomento productivo y encadenamientos agroindustriales", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "gobierno": [
+          { "t": "Silla vacía y asambleas cantonales; seguimiento y evaluación de proyectos", "v": "alta", "n": "Mecanismos legales." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": []
+    },
+    {
+      "codFormulario": 11363,
+      "enfoque": "Plan con indicadores y metas legislativas concretas: 10 proyectos de ordenanza presentados, 6 aprobados y 60 % de obras rurales fiscalizadas.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Presentar 10 proyectos de ordenanza y lograr 6 aprobadas en beneficio del sector rural", "v": "media", "n": "Presentar es viable; aprobarlas depende de la mayoría del Concejo." },
+          { "t": "Fiscalizar el 60 % de las obras y proyectos rurales, con informes trimestrales", "v": "alta", "n": "Fiscalización verificable." },
+          { "t": "Monitorear el POA y fiscalizar la contratación pública", "v": "alta", "n": "Función directa del concejal." }
+        ],
+        "ambiente": [
+          { "t": "Ordenanzas para iniciativas ambientales y reducción de la contaminación", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "seguridad": [
+          { "t": "Actualizar el marco normativo de seguridad ciudadana", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["10 proyectos de ordenanza presentados y 6 aprobados; 60 % de obras rurales fiscalizadas; informes trimestrales y semestrales."],
+      "notas": ["El contenido comparte estructura con el plan urbano del mismo movimiento (formulario 11364)."]
+    },
+    {
+      "codFormulario": 1377,
+      "enfoque": "Plan rural con metas de proceso (mesas de trabajo, procesos de fiscalización por año) en agricultura, hábitat, vialidad, riesgos y turismo.",
+      "tabla": {
+        "economia": [
+          { "t": "Políticas locales para agricultura, ganadería y economía popular, con al menos 4 procesos de fiscalización", "v": "alta", "n": "Legislar y fiscalizar." },
+          { "t": "Políticas de turismo rural, comunitario y agroturismo y preservación del patrimonio", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "movilidad": [
+          { "t": "Presentar y dar seguimiento a propuestas de vialidad rural y seguridad vial", "v": "media", "n": "La vialidad rural es concurrente con la Prefectura." }
+        ],
+        "urbano": [
+          { "t": "Fiscalizar los planes de hábitat con al menos 2 procesos por año", "v": "alta", "n": "Fiscalización." }
+        ],
+        "seguridad": [
+          { "t": "Políticas de prevención y gestión de riesgos con enfoque comunitario", "v": "alta", "n": "Riesgos es competencia municipal." }
+        ],
+        "social": [
+          { "t": "Iniciativas de inclusión para jóvenes, mujeres y personas con discapacidad, con al menos 4 procesos de seguimiento", "v": "alta", "n": "Legislar y fiscalizar." }
+        ]
+      },
+      "metas": ["Al menos 4 procesos de fiscalización en desarrollo rural; 2 por año en hábitat; 4 de seguimiento en inclusión."],
+      "notas": ["El texto proviene de OCR y la matriz está desordenada."]
+    }
+  ]
+}

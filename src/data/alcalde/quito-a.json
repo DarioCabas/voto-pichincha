@@ -1,0 +1,264 @@
+{
+  "canton": "QUITO",
+  "contexto": [
+    {
+      "titulo": "Presupuesto municipal 2026",
+      "valor": "USD 1.041,86 M",
+      "detalle": "El Concejo Metropolitano aprobó el 9 de diciembre de 2025 un presupuesto de USD 1.041.860.028, con alertas por la baja ejecución de 2025 (62 % hasta noviembre). Las proyecciones de febrero de 2026 situaban unos USD 612 M en inversión.",
+      "fuente": "El Comercio",
+      "url": "https://www.elcomercio.com/actualidad/quito/quito-aprueba-presupuesto-2026-alertas-baja-ejecucion/"
+    },
+    {
+      "titulo": "Reforma al COOTAD (2026)",
+      "valor": "Ajuste estimado de USD 459 M",
+      "detalle": "Según el alcalde, la reforma a la Ley de los GAD obligaría a ajustar cerca de USD 459 M del presupuesto ya aprobado; el Concejo resolvió demandar la reforma ante la Corte Constitucional. La cifra es una proyección municipal, no un cálculo oficial independiente.",
+      "fuente": "El Comercio",
+      "url": "https://www.elcomercio.com/actualidad/quito/quito-tendria-ajuste-459-millones-dolares-ley-gad-segun-pabel-munoz/"
+    }
+  ],
+  "candidatos": [
+    {
+      "codFormulario": 4726,
+      "enfoque": "Plan de 32 propuestas en seis ejes, con ficha por propuesta y metas mayormente de proceso; destaca dejar financiada la extensión del Metro al norte y reorganizar las rutas de buses.",
+      "estructura": "6 ejes · 32 propuestas con problema, estrategia, meta, indicador y plazo · matriz plurianual",
+      "tabla": {
+        "movilidad": [
+          { "t": "Dejar financiada y en ejecución la extensión del Metro hacia el norte e integrarlo física y tarifariamente con Trolebús, Ecovía y alimentadores", "v": "media", "n": "Competencia municipal, pero una extensión del Metro requiere crédito multilateral y aval del Gobierno central; el presupuesto 2026 es de USD 1.041,86 M." },
+          { "t": "'Quito 360°': nuevo mapa de rutas por demanda, mayor gestión pública del transporte y Centro Metropolitano de Control de Rutas y Frecuencias", "v": "media", "n": "Competencia propia; implica renegociar con operadores privados." }
+        ],
+        "servicios": [
+          { "t": "Ampliar agua, alcantarillado y tratamiento de aguas residuales en periferia y ruralidad; potenciar sistemas del noroccidente y optimizar Quitumbe", "v": "alta", "n": "Competencia municipal vía EPMAPS; meta progresiva sin cifra." },
+          { "t": "Separar en la tasa los componentes de saneamiento y de recolección de residuos", "v": "alta", "n": "Decisión normativa municipal." }
+        ],
+        "ambiente": [
+          { "t": "'Quito Circular': separación en la fuente, compostaje de orgánicos de mercados, reciclaje y tasa de residuos según generación", "v": "alta", "n": "Los residuos son competencia municipal." }
+        ],
+        "seguridad": [
+          { "t": "Gestión de riesgos: Quito Previene, Plan de Laderas y Quebradas, Quito Alerta 24/7, Bomberos 2030, brigadas barriales y 'Ciudad Esponja'", "v": "alta", "n": "Riesgos e incendios son competencias municipales." },
+          { "t": "'Quito seguro 360°' y 'Quito protege': prevención, barrios y corredores seguros, luminarias", "v": "media", "n": "La seguridad ciudadana es nacional; el municipio aporta prevención y espacio público." },
+          { "t": "'Quito Erradica': rutas de prevención y atención de la violencia de género en todo el DMQ", "v": "alta", "n": "Protección de derechos es atribución municipal." }
+        ],
+        "urbano": [
+          { "t": "Ordenamiento territorial para una ciudad compacta y regularización de barrios", "v": "alta", "n": "Uso del suelo es competencia exclusiva." },
+          { "t": "'Volver a habitar UIO': vivienda de interés social, rehabilitación de inmuebles y repoblamiento del centro", "v": "media", "n": "Depende de alianzas público-privadas y financiamiento de vivienda." }
+        ],
+        "economia": [
+          { "t": "Red metropolitana de empleo, red de apoyo empresarial en las administraciones zonales y cadenas productivas en las 33 parroquias rurales", "v": "media", "n": "El municipio puede facilitar; el empleo depende de la economía nacional." },
+          { "t": "'Quito Turismo 365', al menos 10 corredores turísticos y culturales ('Pasaporte Quiteño') y calendario de grandes eventos", "v": "alta", "n": "Promoción turística de competencia municipal." }
+        ],
+        "social": [
+          { "t": "Modernizar el 100 % de las instituciones educativas municipales y mejorar los servicios municipales de salud", "v": "alta", "n": "El DMQ administra su propia red educativa y de salud." },
+          { "t": "Modelo único de inclusión social, sistema de protección de derechos con menos tiempos de atención, Quito Joven, bienestar animal y deporte en todas las zonas", "v": "alta", "n": "Atribuciones metropolitanas existentes." }
+        ],
+        "gobierno": [
+          { "t": "Reingeniería de las empresas públicas metropolitanas para eliminar estructuras duplicadas hasta 2030", "v": "media", "n": "Decisión del Concejo, con resistencia institucional previsible." },
+          { "t": "'¡No más filas!': 100 % de trámites digitalizables en línea; plataforma metropolitana de datos", "v": "alta", "n": "Gestión interna." },
+          { "t": "Al menos 20 acuerdos de cooperación, agenda intergubernamental anual y reducción del gasto administrativo", "v": "alta", "n": "Metas de gestión verificables." }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "Extensión del Metro al norte financiada y en ejecución al 2031.",
+        "100 % de trámites digitalizables en línea; 100 % de escuelas municipales modernizadas.",
+        "Al menos 10 corredores turísticos y culturales; al menos 20 acuerdos de cooperación.",
+        "Las demás metas son de implementación progresiva, sin cifra."
+      ],
+      "inversion": "Sin montos.",
+      "primeros100": null,
+      "notas": []
+    },
+    {
+      "codFormulario": 10443,
+      "enfoque": "Plan de continuidad de la administración en curso, en seis ejes ('Quito Seguro', 'Sostenible', 'Integra', 'Productivo', 'Cuida', 'Crea'), con líneas de acción y un banco de 26 proyectos sin metas numéricas.",
+      "estructura": "6 ejes · líneas de acción por eje · banco de 26 proyectos · rendición de logros 2023-2026",
+      "tabla": {
+        "seguridad": [
+          { "t": "Datos y cámaras con modelos predictivos; presencia de todo el personal municipal de control en los 'puntos rojos', guiada por datos de la Policía y el Observatorio", "v": "media", "n": "El municipio coordina y aporta personal de control; la seguridad ciudadana es nacional." },
+          { "t": "Prevención del reclutamiento criminal de niñas, niños y adolescentes, con salud mental como respaldo", "v": "alta", "n": "Programas sociales de escala metropolitana." },
+          { "t": "Transporte seguro y cero tolerancia al acoso: presencia operativa, iluminación y monitoreo en corredores, estaciones y paradas", "v": "alta", "n": "El transporte es competencia municipal." },
+          { "t": "Obras de mitigación, recuperación de quebradas, relocalización de familias en riesgo y Sistema Metropolitano de Alerta Temprana", "v": "alta", "n": "Riesgos es competencia municipal." },
+          { "t": "Fortalecer los Centros de Equidad y Justicia y las Juntas de Protección de Derechos", "v": "alta", "n": "Servicios metropolitanos existentes." }
+        ],
+        "servicios": [
+          { "t": "'Quito Azul': nuevos sistemas de agua potable en zonas priorizadas y repotenciación de los existentes", "v": "alta", "n": "Competencia municipal vía EPMAPS." },
+          { "t": "Estrategia de Descontaminación de Ríos: interceptores, PTAR rurales y estudios de PTAR urbanas de mayor capacidad", "v": "media", "n": "Las PTAR urbanas solo llegan a estudios; requieren crédito multilateral." }
+        ],
+        "ambiente": [
+          { "t": "Complejo Ambiental para la gestión integral de residuos con reciclaje inclusivo y aprovechamiento energético", "v": "media", "n": "Competencia municipal; obra de gran escala sin monto declarado." },
+          { "t": "Infraestructura verde-azul, arbolado, parques de bolsillo, zonas bajas en emisiones y soluciones basadas en la naturaleza", "v": "alta", "n": "Acciones escalables." },
+          { "t": "Cumplir la consulta 'Quito sin minería metálica' mediante control del uso del suelo y de las LUAE", "v": "alta", "n": "Uso del suelo es competencia metropolitana." }
+        ],
+        "urbano": [
+          { "t": "'Quito Habita': vivienda de interés social, reciclaje de edificios y alquiler para grupos prioritarios", "v": "media", "n": "Depende de financiamiento y del Banco Metropolitano de Suelo." },
+          { "t": "Culminar la regularización de barrios y prevenir nuevos asentamientos informales; red de espacio público y equipamientos", "v": "alta", "n": "Competencias propias." }
+        ],
+        "movilidad": [
+          { "t": "Control de frecuencias y desempeño del transporte público; integración de modos y red ciclista y peatonal", "v": "alta", "n": "Competencia municipal; el plan no menciona nuevas líneas de Metro." },
+          { "t": "Programa permanente urbano y rural de mantenimiento vial, bacheo y aceras; gestión de velocidad", "v": "alta", "n": "Vialidad urbana es competencia exclusiva." }
+        ],
+        "economia": [
+          { "t": "Capital semilla, capacitación y empleo joven; Economía Popular y Solidaria Innovadora; centralidades productivas urbano-rurales", "v": "media", "n": "El municipio facilita; la escala de los fondos no se declara." },
+          { "t": "Repotenciar la red de mercados municipales y crear nueva infraestructura comercial", "v": "alta", "n": "Mercados son competencia municipal." },
+          { "t": "'Visit Quito': promoción turística y gastronómica; polígonos industriales y redes de logística", "v": "alta", "n": "Promoción y uso del suelo son atribuciones municipales." }
+        ],
+        "social": [
+          { "t": "Red Municipal de Salud con atención primaria, salud mental y prevención del consumo", "v": "alta", "n": "El DMQ opera su propia red de salud." },
+          { "t": "Casas de acogida, protección especial, ollas populares y comedores comunitarios; 'Tiempo de Cuidados'", "v": "alta", "n": "Servicios sociales existentes." },
+          { "t": "Red de infraestructura comunitaria (Quitopía, Casas Somos) y Sistema Distrital de Cultura; preparación de los 200 años de Quito capital", "v": "alta", "n": "Atribuciones metropolitanas." },
+          { "t": "Bienestar animal con estrategia atrapar-esterilizar-retornar", "v": "alta", "n": "Fauna urbana es competencia municipal." }
+        ],
+        "gobierno": [
+          { "t": "Simplificar y automatizar trámites consolidando la Sede Electrónica Municipal", "v": "alta", "n": "Gestión interna." }
+        ],
+        "otros": []
+      },
+      "metas": ["No fija metas cuantitativas para 2027-2031; las cifras del documento describen logros de la gestión 2023-2026."],
+      "inversion": "El plan estima administrar unos USD 6.000 M en cuatro años y cita un presupuesto de la corporación municipal (con empresas) de unos USD 1.600 M en 2026; no asigna montos por proyecto.",
+      "primeros100": null,
+      "notas": ["El candidato es el alcalde en funciones; buena parte del documento rinde cuentas de su gestión actual."]
+    },
+    {
+      "codFormulario": 1610,
+      "enfoque": "Plan en cuatro fases ('orden', 'trabajo', 'corazón', 'sostenibilidad') con la digitalización al estilo de Estonia como eje transversal y metas verificables por fase.",
+      "estructura": "4 fases · 8 programas insignia · metas por fase · marco de competencias",
+      "tabla": {
+        "gobierno": [
+          { "t": "Ordenanza de simplificación por nivel de riesgo: declaración jurada y control posterior en trámites de bajo riesgo, con silencio administrativo automático", "v": "alta", "n": "Facultad normativa municipal; costo organizacional más que de infraestructura." },
+          { "t": "'Once-Only': suprimir requisitos que el Municipio ya tiene y capa municipal de datos con software libre tipo X-Road", "v": "alta", "n": "El plan delimita que la capa nacional es del MINTEL y solo construye la municipal." },
+          { "t": "Expediente Único de Edificación con reloj público y asiento catastral automático, incluido módulo patrimonial", "v": "alta", "n": "Competencia municipal de uso de suelo y edificación." },
+          { "t": "Auditoría de contratos y convenios al inicio; reordenar el presupuesto; tablero público de ejecución y de trámites", "v": "alta", "n": "Decisiones administrativas." }
+        ],
+        "seguridad": [
+          { "t": "Reponderar los Puestos de Mando Operativo e instalar los 8 pendientes en zonas de riesgo alto (La Delicia, Quitumbe, Eloy Alfaro, Calderón)", "v": "alta", "n": "Infraestructura municipal de apoyo a la seguridad." },
+          { "t": "Red C5Q: catastro obligatorio de cámaras e integración de cámaras privadas a cambio de descuento en la Tasa de Seguridad", "v": "media", "n": "Bajo costo, pero requiere ordenanza y adhesión privada." },
+          { "t": "Carrera, escala salarial y cámaras corporales para agentes de control; impulsar su armonización con el COESCOP", "v": "media", "n": "La reforma del COESCOP es competencia de la Asamblea; el plan lo plantea como impulso técnico." },
+          { "t": "Reducir 20 % la violencia intrafamiliar en los núcleos críticos (Plan Suroccidente / La Delicia)", "v": "media", "n": "Meta medible, pero depende de factores fuera del control municipal." },
+          { "t": "Sensores de alerta temprana y medición satelital de hundimiento del suelo en Solanda y Turubamba", "v": "alta", "n": "Gestión de riesgos de bajo costo." }
+        ],
+        "movilidad": [
+          { "t": "Autoridad Metropolitana de Transporte sin nómina nueva, tarifa técnica y pago por kilómetro; 'Cuenta Ciudad' que paga el subsidio a la persona", "v": "media", "n": "Competencia municipal; el cambio del modelo de pago exige renegociar con operadores." },
+          { "t": "Prioridad al bus y carril de alta ocupación en Av. Simón Bolívar, Panamericana Norte y fiscalización del Trolebús en Av. Maldonado", "v": "alta", "n": "Gestión de tránsito de costo moderado." },
+          { "t": "Estructurar el financiamiento de la extensión del Metro", "v": "media", "n": "Solo compromete la estructuración, no la obra." }
+        ],
+        "economia": [
+          { "t": "Licencias de actividad económica en 72 horas con tasa cero el primer año en zonas de mayor informalidad", "v": "alta", "n": "Competencia municipal; reduce ingresos por tasas de forma acotada." },
+          { "t": "Suelo productivo por alianza público-privada, formación dual y distrito financiero-tecnológico con incentivos en patente y predial", "v": "media", "n": "Los incentivos tributarios reducen ingresos propios." }
+        ],
+        "urbano": [
+          { "t": "Titularizar asentamientos regularizables: 10.000 escrituras en tres años", "v": "media", "n": "Competencia propia; la meta es alta para tres años." },
+          { "t": "Cesión de suelo verde o pago compensatorio por edificabilidad para un Fondo de Espacio Público; Administración Zonal Chocó Andino con presupuesto propio", "v": "alta", "n": "Instrumentos de gestión del suelo municipales." }
+        ],
+        "ambiente": [
+          { "t": "Interceptores sanitarios en el Machángara y el Monjas antes de nuevas plantas; acelerar el Cubeto 1 de El Inga con veeduría", "v": "media", "n": "Competencia municipal; obras de alto costo sin monto." }
+        ],
+        "social": [
+          { "t": "Ampliar la Red Metropolitana de Protección Social a zonas rurales y periféricas; salud mental comunitaria con el MSP", "v": "alta", "n": "Servicios municipales existentes." }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "Fase 1: ordenanza de simplificación aprobada y catálogo de trámites clasificado por riesgo.",
+        "Fase 2: licencias de actividad económica en 72 horas en tres zonas prioritarias; 8 Puestos de Mando Operativo instalados.",
+        "Fase 3: 20 % menos violencia intrafamiliar en núcleos críticos; 10.000 escrituras en tres años.",
+        "Fase 4: reporte público de sistemas integrados a la capa de datos y PMDOT actualizado."
+      ],
+      "inversion": "Sin montos por proyecto. Toma como referencia el presupuesto 2026 de USD 1.041,86 M y propone financiar la digitalización con ahorro de gasto administrativo.",
+      "primeros100": null,
+      "notas": ["El plan menciona tres ejes (Trabajo, Orden y Corazón) en la rendición de cuentas y cuatro ejes temáticos en la sección de tecnología."]
+    },
+    {
+      "codFormulario": 3766,
+      "enfoque": "Plan en ocho ejes con costo referencial por eje (total USD 510-1.090 M) que propone trenes elevados, segundo túnel Guayasamín, seis megacentralidades y una ruta hacia la cantonización.",
+      "estructura": "8 ejes con propuesta, estrategia, indicador, meta 2031 y costo · programación anual referencial",
+      "tabla": {
+        "seguridad": [
+          { "t": "Sala Metropolitana de Comando y Control y red de cámaras con lectura de placas, coordinadas con ECU 911 y Policía (USD 60-120 M)", "v": "media", "n": "Inversión de apoyo posible; la meta de bajar los homicidios a un dígito depende de la Policía Nacional." },
+          { "t": "Red de Apoyo y Rescate Infantil y Juvenil y Sistema Metropolitano de Prevención de Adicciones", "v": "alta", "n": "Programas sociales metropolitanos." }
+        ],
+        "movilidad": [
+          { "t": "Plan maestro de expansión del Metro con ramales al sur, norte y valles mediante tren elevado (unos USD 450 M por concesión internacional)", "v": "baja", "n": "Escala superior a la inversión anual del DMQ (unos USD 612 M proyectados en 2026); el propio plan reconoce que excede un período." },
+          { "t": "Segundo túnel Guayasamín y ampliación parcial de la Av. Simón Bolívar", "v": "media", "n": "Vialidad urbana es municipal, pero son obras mayores sin estudios citados." },
+          { "t": "Integración física y tarifaria con pago unificado; aceras, ciclovías y pavimentación barrial y rural (USD 170-380 M el eje)", "v": "media", "n": "Competencia municipal; meta de viaje ruralidad–hipercentro de máximo 60 minutos." }
+        ],
+        "ambiente": [
+          { "t": "Contenerización inteligente con control de recolección en tiempo real; reciclaje con recicladores de base", "v": "alta", "n": "Los residuos son competencia municipal." },
+          { "t": "Descontaminar Machángara, Monjas y San Pedro; proteger microcuencas de Antisana, Pita, Papallacta y Oyacachi (USD 70-155 M el eje)", "v": "media", "n": "Requiere crédito multilateral." }
+        ],
+        "urbano": [
+          { "t": "Seis megacentralidades (Calderón, Ilaló-Tumbaco, Los Chillos, eje equinoccial, noroccidente) con ventanilla única y presupuesto territorializado (USD 70-140 M)", "v": "media", "n": "Es posible desconcentrar por ordenanza; las sedes nuevas requieren inversión alta." },
+          { "t": "Ruta hacia la cantonización con estudios de viabilidad y consulta popular", "v": "baja", "n": "La creación de cantones la decide la Asamblea Nacional, no el municipio." },
+          { "t": "Rehabilitar y repoblar el Centro Histórico, vivienda de interés social y programa 'Regula tu barrio'", "v": "media", "n": "Depende del financiamiento de vivienda." }
+        ],
+        "economia": [
+          { "t": "Parque tecnológico, puerto seco y zona franca en predios del nuevo aeropuerto, por concesión", "v": "baja", "n": "Las zonas francas las autoriza el Gobierno central." },
+          { "t": "Simplificar trámites productivos, apoyo al emprendedor, plan de turismo y modernización de mercados (USD 45-100 M)", "v": "alta", "n": "Atribuciones municipales." }
+        ],
+        "social": [
+          { "t": "Crear una Universidad Tecnológica para el sur de Quito (USD 35-70 M con cultura y deporte)", "v": "baja", "n": "Las universidades las crea el sistema nacional de educación superior." },
+          { "t": "Red de canchas barriales en la periferia, atención al adulto mayor, erradicación del trabajo infantil y redes contra la violencia de género (USD 38-76 M)", "v": "alta", "n": "Programas metropolitanos existentes." }
+        ],
+        "gobierno": [
+          { "t": "Plataforma única de trámites, portal de transparencia 'cada dólar con nombre y destino' y presupuestos participativos por megacentralidad (USD 25-50 M)", "v": "alta", "n": "Gestión interna." }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "Tasa de homicidios a un dígito por cada 100.000 habitantes.",
+        "Tiempo de viaje ruralidad–hipercentro no mayor a 60 minutos; estudios de ramales del Metro concluidos; integración tarifaria operando.",
+        "Seis megacentralidades en construcción; estudios de cantonización publicados.",
+        "Presupuesto participativo ejecutado al 100 % por polo."
+      ],
+      "inversion": "USD 510-1.090 M referenciales en 2027-2031 sumando los ocho ejes, sin incluir la construcción integral de nuevos ramales del Metro. Fuentes: presupuesto municipal, tasa de seguridad, crédito multilateral, cooperación y alianzas público-privadas.",
+      "primeros100": null,
+      "notas": ["El texto proviene de OCR; algunos costos unitarios de la tabla son poco legibles."]
+    },
+    {
+      "codFormulario": 567,
+      "enfoque": "Plan en cinco lineamientos con programas y una tabla de metas cuantificadas con línea base, entre ellas 400 parques recuperados, 1.000 km de vías rehabilitadas y 30.000 empleos.",
+      "estructura": "5 lineamientos · 20 programas · banco de 15 proyectos · 6 proyectos emblemáticos · metas con línea base",
+      "tabla": {
+        "seguridad": [
+          { "t": "'Quito Seguro 360': videovigilancia con inteligencia artificial integrada al ECU 911, Plan Quito Iluminado LED y corredores escolares seguros", "v": "media", "n": "Inversión de apoyo posible; la meta de reducir 40 % los delitos de mayor impacto depende de la Policía." },
+          { "t": "Reducir de 18 a 10 minutos el tiempo de respuesta de emergencias municipales", "v": "alta", "n": "Depende de servicios municipales (Bomberos, agentes)." },
+          { "t": "Centros juveniles, casas de la mujer, red psicosocial y fortalecimiento del Cuerpo de Bomberos", "v": "alta", "n": "Competencias metropolitanas." }
+        ],
+        "movilidad": [
+          { "t": "Integración tarifaria y operacional del Metro con buses, estacionamientos de intercambio y rediseño de rutas", "v": "alta", "n": "Competencia municipal sobre sistemas existentes." },
+          { "t": "Carriles exclusivos de 92 a 150 km y tiempo promedio de viaje de 74 a 60 minutos", "v": "media", "n": "Meta exigente para cuatro años." },
+          { "t": "Rehabilitar 1.000 km de vías, eliminar el 90 % de baches críticos y llevar las vías en buen estado de 63 % a 85 %", "v": "media", "n": "Vialidad urbana es municipal; el presupuesto de movilidad 2026 fue de USD 323 M (El Comercio), compartido con el Metro." },
+          { "t": "Renovación de flota, recaudo integrado y pasos deprimidos priorizados", "v": "media", "n": "La renovación de flota depende de operadores privados." }
+        ],
+        "urbano": [
+          { "t": "Recuperar 400 parques adicionales y llevar la iluminación LED de espacios públicos de 58 % a 95 %", "v": "media", "n": "Competencia municipal; el alumbrado depende de la Empresa Eléctrica Quito." }
+        ],
+        "economia": [
+          { "t": "Crear 30.000 empleos y fortalecer 25.000 emprendimientos con un Fondo Quito Emprende e incubadoras", "v": "baja", "n": "La creación de empleo depende de la economía nacional; el municipio solo facilita." },
+          { "t": "Visitantes de 820.000 a más de 1,2 millones y permanencia de 2,4 a 3,5 noches; Marca Ciudad", "v": "media", "n": "Promoción turística municipal; metas ambiciosas." },
+          { "t": "Ventanilla única de inversiones, licencias digitales y modernización de mercados", "v": "alta", "n": "Atribuciones municipales." }
+        ],
+        "ambiente": [
+          { "t": "Restaurar 3.000 hectáreas y sembrar 500.000 árboles con supervivencia superior al 80 %", "v": "media", "n": "Escalable, pero triplica el ritmo actual de 350 ha/año que reporta el plan." },
+          { "t": "'Quito sin quebradas contaminadas', ampliar el tratamiento de aguas residuales y reducir pérdidas de agua", "v": "media", "n": "Competencia municipal; tratamiento a gran escala requiere crédito." },
+          { "t": "Separación domiciliaria, reciclaje inclusivo y valorización energética de residuos", "v": "alta", "n": "Competencia municipal." }
+        ],
+        "gobierno": [
+          { "t": "Trámites digitalizados de 68 % a 95 %, resolución de 15 a 5 días y App Quito única", "v": "alta", "n": "Gestión interna con metas verificables." },
+          { "t": "Datos abiertos de 35 % a 100 %, presupuesto participativo de 4 % a 15 % y asambleas de 70 a 150 por año", "v": "alta", "n": "Decisiones municipales." },
+          { "t": "Evaluación por resultados y gobierno corporativo en las empresas metropolitanas", "v": "alta", "n": "Gestión interna." }
+        ],
+        "social": [],
+        "otros": []
+      },
+      "metas": [
+        "Delitos de mayor impacto −40 % y homicidios a 10 por cada 100.000 habitantes.",
+        "Tiempos de desplazamiento −20 %; 1.000 km de vías rehabilitadas; carriles exclusivos a 150 km.",
+        "400 parques recuperados; iluminación LED al 95 % de espacios públicos.",
+        "30.000 empleos y 25.000 emprendimientos; flujo turístico +50 %.",
+        "3.000 ha restauradas y 500.000 árboles; 95 % de trámites digitales; 100 % en transparencia y datos abiertos."
+      ],
+      "inversion": "Sin montos por programa.",
+      "primeros100": null,
+      "notas": ["Las líneas base de las metas las aporta el plan; no se verificaron con fuentes independientes."]
+    }
+  ]
+}

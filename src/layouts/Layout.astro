@@ -1,0 +1,77 @@
+---
+import { DIGNIDADES } from '../data/dignidades.js';
+interface Props { title: string; activo?: string }
+const { title, activo } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+---
+
+<html lang="es">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
+    <title>{title} · Voto Informado Pichincha</title>
+  </head>
+  <body>
+    <header class="site">
+      <div class="wrap row">
+        <a class="brand" href={`${base}/`}>Voto Informado <span>Pichincha 2027</span></a>
+        <nav class="dign" aria-label="Dignidades">
+          {DIGNIDADES.map((d) => (
+            <a href={`${base}/${d.slug}/`} class:list={{ on: activo === d.slug }} aria-current={activo === d.slug ? 'page' : undefined}>{d.nombre}</a>
+          ))}
+        </nav>
+      </div>
+    </header>
+    <main class="wrap"><slot /></main>
+    <footer class="wrap foot">
+      Datos: planes de trabajo publicados por el CNE (proceso 140), con hash verificado. Viabilidad: señal orientativa, no dictamen jurídico.
+      <a href={`${base}/metodologia/`}>Metodología</a>
+    </footer>
+  </body>
+</html>
+
+<style is:global>
+  :root {
+    --bg: #f6f5f1; --surface: #fff; --ink: #1c1c1a; --muted: #6b6a63; --line: #e2e0d8; --head: #efede6;
+    --accent: #1f4e8c; --alta: #2e7d4f; --media: #c08510; --baja: #b3402e;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root:not([data-theme='light']) {
+      --bg: #131312; --surface: #1c1c1a; --ink: #ecebe5; --muted: #a2a198; --line: #33322e; --head: #23221f;
+      --accent: #8db4ea; --alta: #5cbf86; --media: #e3ae3e; --baja: #e2715e;
+    }
+  }
+  * { box-sizing: border-box; }
+  html { scroll-behavior: smooth; }
+  body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.5 ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif; }
+  a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 2px; }
+  .wrap { max-width: 1320px; margin: 0 auto; padding: 0 16px; }
+  .muted { color: var(--muted); }
+  .small { font-size: 13px; }
+  h1 { font-size: clamp(24px, 3.4vw, 34px); margin: 24px 0 4px; letter-spacing: -.01em; }
+  h2 { font-size: 18px; margin: 32px 0 12px; }
+  .sub { color: var(--muted); margin: 0 0 16px; max-width: 70ch; }
+
+  header.site { position: sticky; top: 0; z-index: 20; background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); }
+  header.site .row { display: flex; align-items: center; gap: 16px; min-height: 56px; flex-wrap: wrap; padding-top: 6px; padding-bottom: 6px; }
+  .brand { font-weight: 700; color: var(--ink); text-decoration: none; white-space: nowrap; }
+  .brand span { font-weight: 400; color: var(--muted); margin-left: 4px; }
+  .dign { display: flex; gap: 4px; overflow-x: auto; scrollbar-width: none; max-width: 100%; }
+  .dign a { white-space: nowrap; text-decoration: none; color: var(--muted); padding: 6px 10px; border-radius: 8px; font-size: 14px; }
+  .dign a:hover { background: var(--head); color: var(--ink); }
+  .dign a.on { background: var(--ink); color: var(--bg); }
+
+  .pills { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0 16px; }
+  .pills a, .pill { font-size: 13.5px; text-decoration: none; color: var(--ink); border: 1px solid var(--line); background: var(--surface); padding: 5px 11px; border-radius: 999px; }
+  .pills a:hover { border-color: var(--ink); }
+  .pills a.on { background: var(--ink); color: var(--bg); border-color: var(--ink); }
+  .pills .n { color: var(--muted); margin-left: 4px; font-size: 12px; }
+  .pills a.on .n { color: inherit; opacity: .7; }
+
+  .dot { display: inline-block; width: 9px; height: 9px; border-radius: 50%; flex: none; }
+  .dot.alta { background: var(--alta); } .dot.media { background: var(--media); } .dot.baja { background: var(--baja); }
+  .foot { color: var(--muted); font-size: 13px; padding: 32px 16px 48px; }
+  .foot a { margin-left: 6px; }
+  code { font-size: 12.5px; }
+</style>

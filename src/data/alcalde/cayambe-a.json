@@ -1,0 +1,226 @@
+{
+  "canton": "CAYAMBE",
+  "contexto": [],
+  "candidatos": [
+    {
+      "codFormulario": 11370,
+      "enfoque": "Plan plurianual con diez objetivos: seguridad, agua y saneamiento, movilidad, educación, cultura, economía, bienestar, ordenamiento, gestión municipal y ambiente.",
+      "estructura": "10 objetivos específicos · matriz de actividades 2027-2031",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Ejecutar el Plan Integral de Movilidad y Conectividad; pavimentar, adoquinar y rehabilitar calles y vías de centros poblados",
+            "v": "media",
+            "n": "La vialidad urbana es municipal; la rural es concurrente con la Prefectura."
+          },
+          {
+            "t": "Construir puentes, cunetas, drenajes y obras de estabilización; mejorar señalización, ciclovías, accesibilidad y mantenimiento vial",
+            "v": "media",
+            "n": "La vialidad urbana es municipal; la rural es concurrente con la Prefectura."
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Ejecutar el Plan Maestro de Agua Potable y Alcantarillado; construir, ampliar y rehabilitar redes y plantas de tratamiento",
+            "v": "media",
+            "n": "Agua y alcantarillado son competencia municipal; obra de escala sin monto declarado."
+          },
+          {
+            "t": "Reducir pérdidas de distribución mediante sectorización y renovación de tuberías; fortalecer juntas de agua y monitorear la calidad",
+            "v": "alta",
+            "n": "Acción de eficiencia de la empresa de agua, escalable."
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Proteger páramos, microcuencas, recargas hídricas, áreas agrícolas y ecosistemas; restaurar y reforestar con especies nativas",
+            "v": "media",
+            "n": "Requiere acuerdos con comunidades y MAATE."
+          },
+          {
+            "t": "Fortalecer residuos sólidos, reciclaje y economía circular; educación ambiental, monitoreo ambiental, gestión de riesgos y eficiencia energética municipal",
+            "v": "alta",
+            "n": "Residuos, ambiente local y riesgos son competencias municipales."
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Actualizar el PUGS, modernizar el catastro multifinalitario, regularizar asentamientos y controlar ocupaciones en zonas de riesgo",
+            "v": "alta",
+            "n": "Uso del suelo, catastro y regularización son competencias propias."
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Plan integral de seguridad preventiva, comunitaria e institucional; cámaras inteligentes conectadas al SIS ECU 911 y comités barriales",
+            "v": "media",
+            "n": "La seguridad ciudadana es nacional; el municipio coordina y aporta equipos y espacio público."
+          },
+          {
+            "t": "Ampliar alumbrado público y recuperar parques, plazas y espacios públicos para deporte, cultura y recreación",
+            "v": "alta",
+            "n": "Espacio público es competencia municipal; el alumbrado depende de la empresa eléctrica."
+          }
+        ],
+        "social": [
+          {
+            "t": "Programas de prevención y atención complementaria: salud mental, brigadas médicas y odontológicas, prevención de violencia y casa para personas mayores y población vulnerable",
+            "v": "media",
+            "n": "La salud es del MSP; el municipio complementa."
+          },
+          {
+            "t": "Patrullas educativas, prevención del embarazo adolescente, transporte escolar interparroquial, bibliotecas virtuales, becas, innovación y alfabetización digital",
+            "v": "media",
+            "n": "El transporte escolar y las becas requieren recursos no cuantificados."
+          },
+          {
+            "t": "Recuperar el Centro Cultural Espinoza Jarrín; proteger Puntiatzil, Qhapaq Ñan y Pucarás; escuelas artísticas y escenarios deportivos",
+            "v": "alta",
+            "n": "Patrimonio y cultura son competencias municipales."
+          }
+        ],
+        "economia": [
+          {
+            "t": "Fortalecer mercados y circuitos cortos; emprendimientos de mujeres y jóvenes, cadenas agropecuarias, riego tecnificado, centros de acopio y valor agregado",
+            "v": "media",
+            "n": "Mercados son municipales; el riego tecnificado es competencia de la Prefectura."
+          },
+          {
+            "t": "Impulsar turismo gastronómico, de aventura, agroturismo y ecoturismo; rutas culturales y arqueológicas",
+            "v": "alta",
+            "n": "Promoción turística de escala municipal."
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Implementar gobierno digital, ventanilla única, datos abiertos, presupuestos participativos, rendición de cuentas y cooperación para proyectos estratégicos",
+            "v": "alta",
+            "n": "Gestión interna de bajo costo."
+          }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "Agua potable y saneamiento: alcanzar cobertura de 95 % en área urbana y 85 % en área rural al 2031.",
+        "Movilidad: implementar el 100 % del Plan Integral de Movilidad y Conectividad urbana y rural al 2031.",
+        "Las restantes metas se formulan como contribución o fortalecimiento, sin una cifra de resultado comprometida."
+      ],
+      "inversion": "Sin montos ni fuentes de financiamiento desagregadas.",
+      "primeros100": null,
+      "detalle": [
+        {
+          "titulo": "Objetivo 1 · Seguridad ciudadana",
+          "items": [
+            "Plan integral de seguridad ciudadana con enfoque preventivo, comunitario e institucional.",
+            "Sistema Integral de Seguridad Ciudadana con cámaras inteligentes conectadas al SIS ECU 911.",
+            "Modernizar y ampliar el alumbrado público en barrios y comunidades.",
+            "Recuperar parques, plazas y espacios públicos para actividades deportivas, culturales y recreativas.",
+            "Crear comités barriales y comunitarios de seguridad.",
+            "Coordinar con Policía Nacional y organismos de emergencia.",
+            "Campañas de prevención de violencia, consumo de drogas y violencia intrafamiliar; mediación comunitaria y cultura de paz."
+          ]
+        },
+        {
+          "titulo": "Objetivo 2 · Agua potable y saneamiento",
+          "items": [
+            "Ejecutar el Plan Maestro de Agua Potable y Alcantarillado.",
+            "Construir, ampliar y rehabilitar sistemas urbanos y rurales de agua potable y alcantarillado.",
+            "Construir y optimizar plantas de tratamiento de agua potable y aguas residuales.",
+            "Sectorizar redes y renovar tuberías para reducir pérdidas de distribución.",
+            "Fortalecer técnica y administrativamente a las juntas de agua y monitorear permanentemente la calidad.",
+            "Proteger páramos, microcuencas y zonas de recarga por reforestación y acuerdos de conservación.",
+            "Gestionar nuevas fuentes de abastecimiento."
+          ]
+        },
+        {
+          "titulo": "Objetivo 3 · Movilidad y conectividad",
+          "items": [
+            "Ejecutar el Plan Integral de Movilidad y Conectividad Urbana y Rural.",
+            "Pavimentar, adoquinar y rehabilitar calles urbanas y vías rurales de centros poblados.",
+            "Construir puentes, cunetas, drenajes y obras de estabilización.",
+            "Mejorar señalización horizontal y vertical; implementar ciclovías y espacios seguros para peatones.",
+            "Mejorar accesibilidad para personas con discapacidad y gestionar mantenimiento permanente de la red vial cantonal."
+          ]
+        },
+        {
+          "titulo": "Objetivo 4 · Educación",
+          "items": [
+            "Patrullas educativas con visitas domiciliarias junto a comités de padres y DECE.",
+            "Campañas de prevención del embarazo adolescente y transporte escolar interparroquial.",
+            "Modernizar la Unidad Educativa Municipal con metodologías innovadoras y tecnología.",
+            "Red Cantonal de Bibliotecas Virtuales 'Cayambe Lee', bibliotecas comunitarias y espacios de lectura.",
+            "Centros de innovación, robótica y alfabetización digital; becas y estímulos al mérito académico.",
+            "Capacitación digital a docentes y emprendedores; ferias científicas, tecnológicas y de innovación."
+          ]
+        },
+        {
+          "titulo": "Objetivo 5 · Cultura, patrimonio, deporte y recreación",
+          "items": [
+            "Recuperar y equipar el Centro Cultural Espinoza Jarrín; fortalecer museo, archivos y salas de exposición.",
+            "Proteger la Pirámide de Puntiatzil, el Qhapaq Ñan y los Pucarás de Cangahua.",
+            "Rutas de turismo cultural y arqueológico.",
+            "Escuelas permanentes de música, danza, teatro y artes plásticas.",
+            "Construir y rehabilitar escenarios deportivos y recreativos.",
+            "Festivales culturales, deportivos y de identidad cayambeña, incluidos los de población migrante residente."
+          ]
+        },
+        {
+          "titulo": "Objetivo 6 · Economía local",
+          "items": [
+            "Fortalecer mercados y circuitos cortos de comercialización con el área rural.",
+            "Apoyo a emprendimientos juveniles y de mujeres; capacitación productiva y en cooperativismo.",
+            "Turismo gastronómico urbano y rural, turismo de aventura, agroturismo y ecoturismo.",
+            "Exonerar por ordenanza tributos municipales aplicables a nuevos emprendimientos durante su primer año.",
+            "Asistencia técnica e innovación agropecuaria; riego tecnificado y cosecha de agua.",
+            "Centros de acopio y plantas de valor agregado.",
+            "Asistencia técnica, capacitación, cofinanciamiento y transformación digital para productores, en articulación con Prefectura y MAG."
+          ]
+        },
+        {
+          "titulo": "Objetivo 7 · Salud y bienestar",
+          "items": [
+            "Atención a personas mayores, personas con discapacidad, mujeres, niñas, niños y jóvenes.",
+            "Campañas de nutrición, vacunación y prevención de enfermedades.",
+            "Programas de salud mental y prevención del suicidio; brigadas médicas y odontológicas itinerantes.",
+            "Espacios comunitarios de recreación e integración; prevención de violencia de género y protección de derechos.",
+            "Casa de la persona adulta mayor y población vulnerable; espacios sociales para población migrante interna y externa."
+          ]
+        },
+        {
+          "titulo": "Objetivo 8 · Ordenamiento territorial",
+          "items": [
+            "Actualizar el Plan de Uso y Gestión del Suelo (PUGS).",
+            "Modernizar el catastro multifinalitario y regularizar asentamientos humanos consolidados.",
+            "Controlar ocupaciones en zonas de riesgo y proteger áreas agrícolas y ecosistemas estratégicos.",
+            "Planificación urbana con sostenibilidad y accesibilidad universal; infraestructura verde y espacios públicos de calidad."
+          ]
+        },
+        {
+          "titulo": "Objetivo 9 · Fortalecimiento institucional",
+          "items": [
+            "Gobierno digital y ventanilla única; digitalización de procesos administrativos y catastros.",
+            "Fortalecer planificación, seguimiento y evaluación institucional.",
+            "Presupuestos participativos y mecanismos permanentes de rendición de cuentas.",
+            "Gestionar cooperación nacional e internacional para proyectos estratégicos; capacitar al talento humano.",
+            "Datos abiertos, publicación de indicadores de gestión y evaluación de desempeño de funcionarios.",
+            "Crear Secretaría de Financiamiento y Cooperación para obtener recursos externos."
+          ]
+        },
+        {
+          "titulo": "Objetivo 10 · Ambiente",
+          "items": [
+            "Programa integral de restauración de páramos y microcuencas.",
+            "Incrementar cobertura forestal con reforestación de especies nativas.",
+            "Educación ambiental en instituciones educativas y comunidades.",
+            "Fortalecer manejo integral de residuos sólidos, reciclaje y economía circular.",
+            "Planes de adaptación y mitigación frente al cambio climático; monitoreo ambiental y gestión de riesgos.",
+            "Energías renovables y eficiencia energética en infraestructura municipal."
+          ]
+        }
+      ],
+      "notas": [
+        "El texto proviene de OCR; la matriz inicia con parte de las actividades de agua fuera del encabezado de la tabla."
+      ]
+    }
+  ]
+}

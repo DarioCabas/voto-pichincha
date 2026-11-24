@@ -1,0 +1,21 @@
+{
+  "name": "voto-informado-pichincha",
+  "type": "module",
+  "version": "0.0.1",
+  "engines": {
+    "node": ">=22.23.4"
+  },
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^5.18.2"
+  },
+  "devDependencies": {
+    "puppeteer-core": "^23.11.1",
+    "unpdf": "^1.4.0"
+  }
+}

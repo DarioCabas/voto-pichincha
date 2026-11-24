@@ -1,0 +1,197 @@
+{
+  "canton": "PEDRO VICENTE MALDONADO",
+  "contexto": [],
+  "candidatos": [
+    {
+      "codFormulario": 4720,
+      "enfoque": "Plan por componentes del PDOT con obras puntuales (relleno sanitario, terminal, camposanto, camal, plaza comercial) y metas expresadas como número de proyectos.",
+      "estructura": "5 propuestas por componente · matriz plurianual de 5 objetivos · metas en número de proyectos",
+      "tabla": {
+        "servicios": [
+          { "t": "Ejecutar el plan maestro de alcantarillado pluvial y sanitario con plantas de tratamiento en la cabecera cantonal", "v": "media", "n": "Competencia municipal, pero el plan no da monto ni fuente y es obra de gran escala para un cantón pequeño." },
+          { "t": "Ampliar agua potable y alcantarillado; gestionar con gobiernos extranjeros el financiamiento del agua rural", "v": "media", "n": "Competencia propia; la parte rural depende de cooperación externa." }
+        ],
+        "ambiente": [
+          { "t": "Diseño y construcción del nuevo relleno sanitario", "v": "media", "n": "Competencia municipal; requiere estudios, licencia ambiental y crédito." },
+          { "t": "Plan de reforestación de cuencas y zonas de captación; catastro minero cantonal", "v": "alta", "n": "Áridos y pétreos y protección de fuentes caben en la competencia municipal." }
+        ],
+        "movilidad": [
+          { "t": "Plan de asfaltado y adoquinado de avenidas y calles de la ciudad; mejora de señalización", "v": "alta", "n": "Vialidad urbana es competencia exclusiva." },
+          { "t": "Diseño y construcción del Terminal Terrestre", "v": "media", "n": "Competencia municipal de transporte, sin monto ni financiamiento declarado." },
+          { "t": "Gestionar con la Prefectura un plan de mantenimiento de la red vial rural", "v": "media", "n": "La vialidad rural es de la Prefectura." }
+        ],
+        "urbano": [
+          { "t": "Diseño y construcción del nuevo camposanto", "v": "alta", "n": "Cementerios son competencia municipal." },
+          { "t": "Plaza Comercial Municipal y áreas para ferias libres", "v": "alta", "n": "Mercados son competencia municipal." },
+          { "t": "Planta de faenamiento de animales", "v": "media", "n": "Competencia municipal; requiere inversión y cumplimiento sanitario y ambiental." },
+          { "t": "Vivienda de interés social en la Comuna San Vicente de Andoas y la cabecera", "v": "media", "n": "Depende de suelo y programas nacionales de vivienda." }
+        ],
+        "economia": [
+          { "t": "Plan de Desarrollo Turístico y promoción de sitios turísticos", "v": "alta", "n": "Promoción local de bajo costo." },
+          { "t": "Gestionar capacitación técnica (MAG, FAO) y apoyo a exportación de pitahaya", "v": "media", "n": "Depende de entidades nacionales e internacionales." }
+        ],
+        "social": [
+          { "t": "Áreas de recreación y cultura física; inventario del patrimonio cultural", "v": "alta", "n": "Equipamientos y patrimonio son competencia municipal." },
+          { "t": "Campañas de prevención del embarazo adolescente; alfabetización; servicios para adultos mayores y personas con discapacidad", "v": "alta", "n": "Programas sociales de escala municipal." },
+          { "t": "Gestionar la construcción de un hospital público", "v": "baja", "n": "La salud es competencia del MSP; el municipio solo puede gestionar." }
+        ],
+        "seguridad": [
+          { "t": "Elaborar e implementar el Plan de Seguridad Cantonal", "v": "media", "n": "La seguridad es nacional; el municipio coordina." }
+        ],
+        "gobierno": [
+          { "t": "Ventanillas ciudadanas, veedurías, informes semestrales y anuales en web y medios", "v": "alta", "n": "Obligaciones de transparencia de bajo costo." }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "Biofísico: 4 proyectos y 4 talleres; económico-productivo: 5 proyectos al 2031; movilidad: 5 proyectos; sociocultural: 2 proyectos."
+      ],
+      "inversion": "Sin montos.",
+      "primeros100": null,
+      "notas": []
+    },
+    {
+      "codFormulario": 10753,
+      "enfoque": "Plan de continuidad ('seguir', 'continuar') con proyectos en marcha en ambiente, vialidad urbana, camposanto y plaza comercial, y gestión ante otros niveles.",
+      "estructura": "5 ejes del PDOT · matriz de metas al 2031 con modalidad de gestión",
+      "tabla": {
+        "ambiente": [
+          { "t": "Continuar el Plan de Manejo Ambiental, el plan de descontaminación de ríos por aguas servidas y la reforestación de cuencas", "v": "media", "n": "La descontaminación exige plantas de tratamiento; el plan la apoya en cooperación internacional." }
+        ],
+        "servicios": [
+          { "t": "Incrementar la cobertura de agua potable y alcantarillado e implementar plantas de tratamiento", "v": "media", "n": "Competencia propia, sin monto; se apoya en cooperación internacional." },
+          { "t": "Gestionar financiamiento de gobiernos extranjeros para agua potable rural", "v": "media", "n": "Depende de terceros." }
+        ],
+        "movilidad": [
+          { "t": "Continuar el plan de asfaltado y adoquinado de calles de la ciudad", "v": "alta", "n": "Vialidad urbana es competencia exclusiva." },
+          { "t": "Implementar el terminal terrestre al 2031", "v": "media", "n": "Sin monto ni estudios citados." },
+          { "t": "Gestión con la Prefectura para mantener e incrementar la red vial rural", "v": "media", "n": "Competencia provincial." }
+        ],
+        "urbano": [
+          { "t": "Continuar el diseño y construcción del nuevo camposanto (el actual está al límite) en 2027", "v": "alta", "n": "Competencia municipal y obra ya iniciada según el plan." },
+          { "t": "Plaza Comercial Municipal fase 2 y áreas para ferias libres", "v": "alta", "n": "Mercados son competencia municipal." }
+        ],
+        "economia": [
+          { "t": "Plan de Desarrollo Turístico y posicionar al cantón como 'Capital Mundial del Palmito'", "v": "alta", "n": "Promoción local." }
+        ],
+        "social": [
+          { "t": "Readecuar áreas de recreación y cultura física; fortalecer actividades culturales", "v": "alta", "n": "Equipamientos de competencia municipal." },
+          { "t": "Prevención del embarazo adolescente vía Consejo de Protección de Derechos; servicios a adultos mayores y discapacidad con ONG", "v": "alta", "n": "Atribuciones municipales de protección de derechos." },
+          { "t": "Impulsar y gestionar la atención de salud pública", "v": "baja", "n": "Competencia del MSP." }
+        ],
+        "seguridad": [
+          { "t": "Plan de Seguridad Cantonal para reducir el índice de delincuencia", "v": "baja", "n": "La reducción del delito depende de la Policía Nacional; el plan no fija cifra." }
+        ],
+        "gobierno": [
+          { "t": "Continuar la automatización del gobierno municipal (meta 2027)", "v": "alta", "n": "Gestión interna." },
+          { "t": "Programa 'Pedro Vicente Digital': zonas wifi y gestión con operadoras para mejorar la señal móvil", "v": "media", "n": "La cobertura móvil depende de las operadoras." },
+          { "t": "Audiencias públicas, veedurías, observatorio ciudadano, presupuestos participativos y asamblea cantonal", "v": "alta", "n": "Mecanismos legales de bajo costo." }
+        ],
+        "otros": []
+      },
+      "metas": ["Metas cualitativas al 2031; el camposanto y la automatización municipal tienen meta 2027. No fija cifras."],
+      "inversion": "Sin montos. Modalidades: gestión institucional directa, cooperación interinstitucional e internacional.",
+      "primeros100": null,
+      "notas": [
+        "El texto proviene de OCR.",
+        "Varias propuestas repiten literalmente la redacción del plan de la lista 1 (formulario 4720) para el mismo cantón."
+      ]
+    },
+    {
+      "codFormulario": 8071,
+      "enfoque": "Plan amplio en seis ejes con muchos proyectos con nombre propio y fuerte apuesta por la cooperación internacional; metas sobre línea base aún por levantar.",
+      "estructura": "6 ejes estratégicos · 28 programas · unos 45 proyectos · indicadores con línea base 'diagnóstico'",
+      "tabla": {
+        "servicios": [
+          { "t": "Plan Maestro de Agua Potable: renovación de redes, reducción de pérdidas, micromedidores y protección de fuentes", "v": "alta", "n": "Competencia municipal; sin monto." },
+          { "t": "Saneamiento ambiental: ampliar alcantarillado (cobertura actual 41,5 %) y plan cantonal de drenaje pluvial", "v": "media", "n": "Competencia propia, pero el plan busca financiar plantas y alcantarillado con cooperación (JICA, UE, BID, CAF)." }
+        ],
+        "movilidad": [
+          { "t": "'Pavimentación Participativa' con aporte vecinal y mantenimiento de caminos rurales", "v": "media", "n": "La vialidad urbana es propia; los caminos rurales son de la Prefectura." }
+        ],
+        "urbano": [
+          { "t": "'Mi Barrio se Transforma' y recuperación integral de espacios públicos; accesibilidad universal", "v": "alta", "n": "Espacio público es competencia municipal." },
+          { "t": "Alumbrado LED 'Pedro Vicente Maldonado Iluminado'", "v": "media", "n": "El alumbrado depende de la empresa eléctrica (CNEL); el municipio puede cofinanciar." },
+          { "t": "Nuevo cementerio municipal", "v": "alta", "n": "Competencia municipal." }
+        ],
+        "ambiente": [
+          { "t": "Nuevo relleno sanitario, reciclaje inclusivo con asociaciones de recicladores y 'Ciudad Limpia'", "v": "media", "n": "Competencia municipal; el relleno requiere crédito y licencia." },
+          { "t": "Recuperación de microcuencas, reforestación y plan de adaptación climática; monitoreo ambiental participativo", "v": "media", "n": "Concurrente con MAATE y Prefectura." },
+          { "t": "Sistema Municipal de Gestión del Riesgo y planes comunitarios de emergencia", "v": "alta", "n": "Riesgos es competencia municipal." }
+        ],
+        "economia": [
+          { "t": "Mercado del Productor, ferias productivas (al menos 4 por año) y asistencia técnica agroproductiva", "v": "alta", "n": "Mercados y ferias son atribuciones municipales." },
+          { "t": "Ruta de Cascadas y Naturaleza, turismo comunitario y observatorio turístico", "v": "alta", "n": "Promoción turística local." },
+          { "t": "Incubadora Municipal de Emprendimientos, 'Mujer Emprende', bolsa de empleo y 'Pedro Vicente Invierte'", "v": "media", "n": "Fomento productivo de apoyo; el empleo depende de la economía nacional." }
+        ],
+        "social": [
+          { "t": "Centro Integral para Adultos Mayores, centro para personas con discapacidad y programa Primera Infancia", "v": "alta", "n": "Atención a grupos prioritarios en convenio con MIES, competencia habitual de municipios." },
+          { "t": "Brigadas municipales de salud y clínica móvil rural (con cooperación internacional)", "v": "media", "n": "La salud es del MSP; el municipio solo complementa." },
+          { "t": "Escuelas municipales de arte y deporte, agenda cultural, juegos barriales y casas comunales inteligentes", "v": "alta", "n": "Programas de escala municipal." },
+          { "t": "Bienestar animal y tenencia responsable", "v": "alta", "n": "Fauna urbana es competencia municipal." }
+        ],
+        "seguridad": [
+          { "t": "Centro de Atención y Vigilancia Comunitaria con motocicletas y equipamiento para la Policía Municipal", "v": "media", "n": "El municipio puede equipar a su comisaría; la seguridad ciudadana es nacional." }
+        ],
+        "gobierno": [
+          { "t": "Digitalizar el 100 % de trámites prioritarios, reducir 50 % los tiempos de atención y app 'Municipio en tus Manos' con 60 % de contribuyentes", "v": "alta", "n": "Gestión interna con metas verificables." },
+          { "t": "Catastro digital, Sistema de Información Geográfica y observatorio de indicadores del PDOT", "v": "alta", "n": "Competencias propias." },
+          { "t": "Jefatura de Cooperación Internacional para financiar agua, saneamiento, residuos y salud", "v": "media", "n": "Crear la unidad es viable; obtener los fondos no está asegurado." },
+          { "t": "Plataforma Municipal de Servicios del Estado (CNE, CNT y otras entidades en un solo lugar)", "v": "media", "n": "Depende de convenios con entidades nacionales." },
+          { "t": "Portal de Gobierno Abierto, informes semestrales, observatorio ciudadano y presupuesto participativo", "v": "alta", "n": "Mecanismos de bajo costo." }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "Digitalizar el 100 % de trámites prioritarios y reducir al menos 50 % los tiempos de atención al 2031.",
+        "App municipal con al menos 60 % de los contribuyentes registrados; 100 % de información obligatoria publicada.",
+        "Al menos 4 ferias productivas por año; las demás metas son 'incremento progresivo' sobre una línea base por levantar."
+      ],
+      "inversion": "Sin montos. Prioriza cooperación internacional (Embajada de Japón, UE, BID, CAF, Banco Mundial, JICA, GIZ).",
+      "primeros100": null,
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 1978,
+      "enfoque": "Plan 'Cantón Imparable' centrado en cultura ciudadana, organización comunitaria y gobierno abierto, con pocas obras concretas y metas expresadas como índices.",
+      "estructura": "2 programas estratégicos · 4 proyectos (Cultura Ciudadana, Recinto, Municipio Confiable, Municipio que Inspira) · secuencia por año",
+      "tabla": {
+        "movilidad": [
+          { "t": "Diagnóstico vial y mantenimiento, lastrado y drenaje de vías rurales priorizadas antes del invierno, hasta una red rural que conecte todos los recintos", "v": "media", "n": "La vialidad rural es competencia de la Prefectura; el plan la presenta como competencia municipal." }
+        ],
+        "servicios": [
+          { "t": "Levantar la cobertura de agua y saneamiento por recinto y cerrar brechas hasta cobertura universal en los recintos priorizados", "v": "media", "n": "Competencia municipal; meta ambiciosa sin monto." }
+        ],
+        "urbano": [
+          { "t": "Recuperar parques, canchas y espacios comunitarios en la cabecera y los recintos", "v": "alta", "n": "Espacio público es competencia municipal." }
+        ],
+        "economia": [
+          { "t": "Modernizar la feria ganadera y agrícola; ferias directas y asociatividad en palmito, cacao, pitahaya, café y palma", "v": "media", "n": "Ferias son municipales; el fomento agropecuario es concurrente." },
+          { "t": "Señalización turística, circuitos de cascadas y alianzas con hosterías", "v": "alta", "n": "Promoción turística local." },
+          { "t": "Formación en emprendimiento agropecuario, turístico y comercial por cohortes", "v": "alta", "n": "Programas de capacitación de bajo costo." }
+        ],
+        "ambiente": [
+          { "t": "Reforestación de riberas e identificación de fuentes de agua y zonas de riesgo", "v": "alta", "n": "Gestión de riesgos es competencia municipal." }
+        ],
+        "social": [
+          { "t": "Mapeo de grupos de atención prioritaria por recinto y redes de cuidado e inclusión", "v": "alta", "n": "Atribución municipal de protección de derechos." },
+          { "t": "Redes de voluntariado, escuelas de liderazgo comunitario y campaña de integridad y cultura de legalidad", "v": "alta", "n": "Programas de bajo costo." },
+          { "t": "Alfabetización digital y espacios de innovación juvenil", "v": "alta", "n": "Escala municipal." }
+        ],
+        "seguridad": [
+          { "t": "Recuperación de espacio público con enfoque de seguridad, articulada con la Policía Nacional", "v": "media", "n": "El municipio solo aporta prevención situacional." }
+        ],
+        "gobierno": [
+          { "t": "Plataforma de Gobierno Abierto y datos abiertos, cabildos permanentes por recinto y veedurías en contratación", "v": "alta", "n": "Mecanismos de bajo costo." },
+          { "t": "Simplificar y digitalizar trámites, trazabilidad digital de trámites y obras, puntos de atención itinerante en recintos", "v": "alta", "n": "Gestión interna." },
+          { "t": "Profesionalización y capacitación continua del personal municipal", "v": "alta", "n": "Gestión interna." }
+        ],
+        "otros": []
+      },
+      "metas": ["No fija metas cuantitativas: los indicadores son índices (confianza ciudadana, desarrollo territorial equilibrado, satisfacción) sin línea base ni valor meta."],
+      "inversion": "Sin montos.",
+      "primeros100": null,
+      "notas": ["El título de la sección del plan plurianual dice 'San Miguel de los Bancos', aunque el resto del documento se refiere a Pedro Vicente Maldonado."]
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "canton": "CAYAMBE",
+  "contexto": [],
+  "candidatos": [
+    {
+      "codFormulario": 7519,
+      "enfoque": "Propuesta que articula proyectos del PDOT/PUGS, planes complementarios y seis problemas adicionales planteados por la candidatura; condiciona los macroproyectos a estudios, factibilidad y acuerdos interinstitucionales.",
+      "estructura": "Proyectos de planes complementarios + 6 proyectos nuevos · modelo de gestión institucional",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Plan de Movilidad Sostenible e intervenciones de vialidad, transporte, estacionamiento, terminal y accesibilidad",
+            "v": "alta",
+            "n": "Tránsito y vialidad urbana son competencias municipales."
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Ampliar y mejorar sistemas de agua potable y alcantarillado comunitarios; tratamiento de aguas residuales y gestión de residuos",
+            "v": "media",
+            "n": "Agua y alcantarillado son competencia municipal; obra de escala sin monto declarado."
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Conservación del Qhapaq Ñan, patrimonio cultural y arqueológico; restauración ecológica y protección de áreas hídricas",
+            "v": "alta",
+            "n": "Patrimonio y protección de fuentes son competencias municipales."
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Centro Cultural, Biblioteca y Teatro Intercultural; rehabilitación de estadios, parques y espacios públicos",
+            "v": "media",
+            "n": "Equipamientos culturales de competencia municipal, de costo alto sin monto."
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Cayambe Seguro: plan de seguridad, videovigilancia y alumbrado público en barrios, comunidades, vías y espacios priorizados",
+            "v": "media",
+            "n": "La seguridad ciudadana es nacional; el municipio coordina y aporta equipos y espacio público."
+          }
+        ],
+        "social": [
+          {
+            "t": "Centro hospitalario de segundo nivel y brigadas médicas territoriales, mediante gestión interinstitucional",
+            "v": "baja",
+            "n": "El hospital depende del MSP; el municipio solo gestiona."
+          }
+        ],
+        "economia": [
+          {
+            "t": "Parque Industrial Ecoeficiente y Centro de Innovación y Fomento Empresarial, sujetos a estudios técnicos, ambientales y financieros",
+            "v": "media",
+            "n": "El propio plan lo condiciona a estudios técnicos y financieros."
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Reestructurar el municipio, separar planificación territorial de seguimiento institucional, digitalizar trámites y aplicar gestión por resultados",
+            "v": "alta",
+            "n": "Gestión interna de bajo costo."
+          }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "Los macroproyectos se ejecutarían por fases y se incorporarían anualmente según estudios, factibilidad técnica y financiera, presupuesto y acuerdos interinstitucionales."
+      ],
+      "inversion": "Sin montos.",
+      "primeros100": [
+        "Evaluación jurídica, funcional, financiera y de cargas de trabajo del Estatuto Orgánico de Gestión Organizacional por Procesos."
+      ],
+      "detalle": [
+        {
+          "titulo": "Proyectos de planes complementarios",
+          "items": [
+            "Gestión y manejo del Centro Histórico de Cayambe, conservación y puesta en valor del patrimonio tangible, intangible y arqueológico.",
+            "Ejecución del Plan Maestro de Agua Potable y Alcantarillado y Plan de Movilidad Sostenible.",
+            "Fortalecimiento de manifestaciones deportivas; protección integral para evaluación del Qhapaq Ñan como Patrimonio Mundial UNESCO.",
+            "Plan de Seguridad Cantonal y Cayambe Seguro: prevención articulada con Policía Nacional.",
+            "Centro de Innovación y Fomento Empresarial; fortalecimiento de cadenas de valor y desarrollo de pequeñas empresas.",
+            "Actualización e implementación del Plan Sostenible de Turismo, con productos e iniciativas públicas, privadas y comunitarias.",
+            "Restauración ecológica y protección de áreas de protección hídrica; Plan Cantonal de Gestión de Riesgos y Adaptación al Cambio Climático.",
+            "Gestión de fondos nacionales e internacionales para gestión integral de residuos sólidos.",
+            "Rehabilitación, mantenimiento y construcción de equipamientos y espacios públicos, incluido polideportivo y plaza de toros."
+          ]
+        },
+        {
+          "titulo": "Nuevos proyectos ante problemas identificados",
+          "items": [
+            "Gestionar construcción, equipamiento y operación de un hospital de segundo nivel en Cayambe e implementar brigadas médicas territoriales.",
+            "Planificar, diseñar, construir y equipar Centro Cultural, Biblioteca y Teatro Intercultural.",
+            "Estudiar, planificar e implementar progresivamente un Parque Industrial Ecoeficiente y Centro de Innovación y Fomento Empresarial.",
+            "Rehabilitar, mantener y construir progresivamente estadios, parques, espacios públicos e infraestructura deportiva comunitaria.",
+            "Planificar, diseñar e implementar intervenciones integrales de movilidad, conectividad y descongestión vial.",
+            "Ampliar y mejorar agua potable, alcantarillado y tratamiento de aguas residuales; implementar gestión integral de residuos sólidos y plan de fauna urbana.",
+            "Implementar y fortalecer alumbrado público y videovigilancia en barrios, comunidades, vías y espacios priorizados; ejecutar Cayambe Seguro con Policía Nacional."
+          ]
+        },
+        {
+          "titulo": "Modelo de gestión",
+          "items": [
+            "Reformar el Estatuto Orgánico sin aumentar burocracia ni duplicar unidades; redistribuir atribuciones de Desarrollo Integral del Territorio.",
+            "Separar la planificación territorial (PDOT/PUGS) del seguimiento y evaluación institucional.",
+            "Mantener procesos diferenciados de catastro, obras públicas, desarrollo económico y turístico, ambiente, movilidad, tecnología, desarrollo intercultural y participación ciudadana.",
+            "Actualizar estatuto, manual de puestos, productos institucionales, flujos de coordinación, indicadores e interoperabilidad; reasignar talento humano antes de crear cargos.",
+            "Implementar diagnóstico y diseño en los primeros 100 días, transición en el primer año y gestión por resultados, trámites simplificados, datos abiertos y evaluación entre los años 2 y 4."
+          ]
+        }
+      ],
+      "notas": [
+        "PDF procesado por OCR. Se conservaron acciones legibles; varias tablas de la matriz tienen texto deteriorado."
+      ]
+    }
+  ]
+}

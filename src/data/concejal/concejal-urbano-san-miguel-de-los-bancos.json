@@ -1,0 +1,88 @@
+{
+  "canton": "SAN MIGUEL DE LOS BANCOS",
+  "candidatos": [
+    {
+      "codFormulario": 11027,
+      "enfoque": "Plan extenso de cuatro programas que traduce el plan de alcaldía de su alianza en ordenanzas y fiscalización con líneas base, cuidando el límite de competencias del concejal.",
+      "tabla": {
+        "urbano": [
+          { "t": "Revisar y armonizar la normativa de delimitación urbana, PUGS, fraccionamientos, construcciones y control territorial", "v": "alta", "n": "Uso del suelo se regula por ordenanza." }
+        ],
+        "movilidad": [
+          { "t": "Ordenanza o reforma de movilidad y accesibilidad universal con estándares para aceras, rampas, cruces y señalización", "v": "alta", "n": "Iniciativa normativa en competencia municipal." },
+          { "t": "Fiscalizar vialidad urbana, aceras, drenaje y su vínculo con el PDOT, el PUGS y el Plan de Movilidad", "v": "alta", "n": "Fiscalización directa." }
+        ],
+        "servicios": [
+          { "t": "Fiscalizar coberturas de agua, alcantarillado y recolección con líneas base, y los sistemas de tratamiento de aguas residuales", "v": "alta", "n": "Fiscalización verificable." }
+        ],
+        "ambiente": [
+          { "t": "Reformas normativas para proteger riberas, quebradas y fuentes; normativa de reciclaje y disposición final", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Ordenanzas y resoluciones de prevención ante deslizamientos, lluvias, inundaciones e incendios", "v": "alta", "n": "Riesgos es competencia municipal." }
+        ],
+        "economia": [
+          { "t": "Modernizar las ordenanzas de actividades económicas, uso comercial del espacio público, ferias y turismo", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Fiscalizar programas agroproductivos, ferias y promoción turística del plan de gobierno", "v": "alta", "n": "Fiscalización." }
+        ],
+        "social": [
+          { "t": "Ordenanzas que fortalezcan el sistema cantonal de protección integral; fiscalizar criterios y resultados de programas sociales", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "gobierno": [
+          { "t": "Seguimiento público del PDOT y de la inversión; Sistema de Información Local y gobierno digital", "v": "alta", "n": "Fiscalización y transparencia." }
+        ]
+      },
+      "metas": ["Indicadores con línea base por programa; no fija valores meta."],
+      "notas": []
+    },
+    {
+      "codFormulario": 8067,
+      "enfoque": "Plan que 'acompaña y fiscaliza' cada propuesta del plan de alcaldía de su partido: centro de faenamiento, Plan Integral de Vialidad, terminal terrestre, agua y ganadería.",
+      "tabla": {
+        "urbano": [
+          { "t": "Metodología permanente de fiscalización de obras con inspecciones e informes técnicos y financieros", "v": "alta", "n": "Función directa del concejal." },
+          { "t": "Fiscalizar los estudios y el modelo de gestión para modernizar o reubicar el centro de faenamiento", "v": "alta", "n": "Fiscalización de un proyecto municipal." },
+          { "t": "Acompañar la aprobación y fiscalizar el Terminal Terrestre, sujeto a estudios", "v": "alta", "n": "Aprobación y fiscalización en el Concejo." }
+        ],
+        "movilidad": [
+          { "t": "Fiscalizar el Plan Integral de Vialidad Urbana: asfaltado, aceras, bordillos y señalización", "v": "alta", "n": "Fiscalización." }
+        ],
+        "servicios": [
+          { "t": "Fiscalizar la mejora de agua potable, alcantarillado y drenaje y el mantenimiento de los sistemas", "v": "alta", "n": "Fiscalización." }
+        ],
+        "economia": [
+          { "t": "Acompañar el fortalecimiento ganadero con el Centro Agrícola Cantonal y la articulación con MAG y Agrocalidad", "v": "media", "n": "Fomento agropecuario concurrente; el concejal solo acompaña." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["El texto proviene de OCR.", "Las propuestas siguen una a una las del plan de alcaldía de la lista 7 (formulario 8066)."]
+    },
+    {
+      "codFormulario": 10863,
+      "enfoque": "Plan que conserva los programas del plan de alcaldía de su alianza y los convierte en tareas de normativa y fiscalización.",
+      "tabla": {
+        "seguridad": [
+          { "t": "Viabilizar y controlar las políticas de prevención y convivencia de la Alcaldía", "v": "media", "n": "La seguridad pública es del Estado; el plan reconoce el límite preventivo." }
+        ],
+        "social": [
+          { "t": "Respaldar normativamente programas para juventudes, deporte, cultura y envejecimiento activo; fiscalizar escuelas y escenarios", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "movilidad": [
+          { "t": "Fiscalizar convenios viales, mantenimiento, maquinaria y proyectos estratégicos", "v": "alta", "n": "Fiscalización." }
+        ],
+        "servicios": [
+          { "t": "Fiscalizar agua, alcantarillado y plantas de tratamiento, y los convenios con BDE y MAATE", "v": "alta", "n": "Fiscalización." }
+        ],
+        "urbano": [
+          { "t": "Actualizar ordenanzas de suelo, accesibilidad y barrios; seguir los expedientes de lotizaciones y escrituras", "v": "alta", "n": "Iniciativa normativa en competencia municipal." }
+        ],
+        "economia": [
+          { "t": "Ordenanzas para ferias, incentivos y una red local de delivery; regular uso de espacios para eventos", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "ambiente": [
+          { "t": "Fiscalizar convenios y cofinanciamiento de cooperación para agua, bosques y adaptación climática", "v": "alta", "n": "Fiscalización." }
+        ]
+      },
+      "metas": ["Control semestral y evaluación anual de programas; sin cifras."],
+      "notas": ["El texto proviene de OCR.", "El propio plan indica que mantiene la denominación de los programas del plan de alcaldía de la lista 79-23 (formulario 10832)."]
+    }
+  ]
+}

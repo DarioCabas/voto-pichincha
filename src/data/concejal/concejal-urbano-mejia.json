@@ -1,0 +1,178 @@
+{
+  "canton": "MEJIA",
+  "candidatos": [
+    {
+      "codFormulario": 6625,
+      "enfoque": "Plan normativo: depurar y codificar las ordenanzas en un Código Municipal, expedir un Código de Edificación y fiscalizar con un plan anual documentado.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Programa de depuración, consolidación y codificación normativa para integrar un Código Municipal", "v": "alta", "n": "Iniciativa normativa propia del Concejo (COOTAD art. 57-58)." },
+          { "t": "Plan Anual de Control Político documentado: presupuesto, compras públicas, obras y calidad de EPAAGE-Mejía, con al menos 4 informes al año", "v": "alta", "n": "Fiscalizar al ejecutivo y a sus empresas es atribución directa del concejal." },
+          { "t": "Cabildo territorial mensual, mesa legislativa previa a cada ordenanza y boletín público de votaciones", "v": "alta", "n": "Mecanismos de bajo costo." }
+        ],
+        "urbano": [
+          { "t": "Código de Edificación y Control Urbano que sustituya las ordenanzas de construcciones, urbanizaciones y propiedad horizontal (2027-2028)", "v": "alta", "n": "Uso del suelo y edificación son competencia municipal regulable por ordenanza." }
+        ]
+      },
+      "metas": ["Código de Edificación presentado en 2027-2028; al menos 4 informes de fiscalización por año con tablero trimestral."],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 8044,
+      "enfoque": "Plan para la parroquia urbana de Machachi centrado en fiscalización de obras, mercados y movilidad, con propuestas de ordenanza puntuales.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Sesiones de concejo públicas y convocadas con anticipación por redes y web", "v": "media", "n": "El concejal puede pedirlo; la convocatoria la hace el alcalde." },
+          { "t": "Ordenanzas de actualización de tasas y patentes acordes a la realidad del comerciante local", "v": "alta", "n": "Regular tributos municipales por ordenanza es atribución del Concejo." },
+          { "t": "Informar a los mandantes, con evidencias, el estado de los proyectos", "v": "alta", "n": "Rendición de cuentas." }
+        ],
+        "urbano": [
+          { "t": "Fiscalizar obras de vialidad, alcantarillado, agua potable y mercados en Machachi", "v": "alta", "n": "Función directa del concejal." },
+          { "t": "Vigilar la modernización del mercado municipal y la feria libre con visitas periódicas", "v": "alta", "n": "Fiscalización de servicios municipales." },
+          { "t": "Mesas con barrios y comerciantes para actualizar las ordenanzas de uso de espacio público", "v": "alta", "n": "Iniciativa normativa participativa." }
+        ],
+        "economia": [
+          { "t": "Fiscalizar y actualizar la ordenanza de fomento productivo y pedir informes del fondo de fomento productivo", "v": "alta", "n": "Legislar y fiscalizar." },
+          { "t": "Ordenanzas que faciliten el emprendimiento turístico y mesas con operadores y hosterías", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "movilidad": [
+          { "t": "Impulsar la actualización del Plan de Movilidad y pedir informes sobre congestión en el cruce de la Panamericana por Machachi", "v": "alta", "n": "Fiscalización y pedidos de información." },
+          { "t": "Ordenanza de aceras accesibles y movilidad peatonal segura en los barrios de la cabecera", "v": "alta", "n": "Iniciativa normativa; la obra la ejecuta la Alcaldía." },
+          { "t": "Fiscalizar el transporte urbano, paradas y la zona azul de Machachi", "v": "alta", "n": "Función de fiscalización." }
+        ],
+        "seguridad": [
+          { "t": "Impulsar que el Consejo Cantonal de Seguridad se convoque periódicamente y dar seguimiento a los planes de prevención", "v": "media", "n": "El concejal puede impulsarlo; la convocatoria es del alcalde y la seguridad es nacional." },
+          { "t": "Proponer un plan progresivo de cámaras y luminarias priorizando barrios periféricos", "v": "media", "n": "Depende del presupuesto que ejecute la Alcaldía y de la empresa eléctrica." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas; las actividades se programan para los cuatro años."],
+      "notas": []
+    },
+    {
+      "codFormulario": 8045,
+      "enfoque": "Plan breve de normativa para desarrollo económico, ambiente y gobernanza, con acciones generales.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Fiscalizar la gestión del alcalde y las obras municipales", "v": "alta", "n": "Función directa del concejal." },
+          { "t": "Ordenanzas que regulen la administración y la aplicación de tributos municipales", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "economia": [
+          { "t": "Normativa para el desarrollo económico, el turismo y los emprendimientos de economía popular y solidaria", "v": "media", "n": "El concejal solo puede impulsarlo; el fomento productivo es concurrente." }
+        ],
+        "ambiente": [
+          { "t": "Normativa para la protección del ambiente y el ordenamiento sostenible del territorio", "v": "alta", "n": "Iniciativa normativa; no detalla ordenanzas." }
+        ],
+        "social": [
+          { "t": "Implementar programas para mujeres, jóvenes, adultos mayores y personas con discapacidad", "v": "baja", "n": "Plantea ejecutar programas, que es función de la Alcaldía." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": [
+        "El texto proviene de OCR.",
+        "La portada corresponde a Machachi (Mejía), pero una sección intermedia se titula 'Concejalías Rurales · Cantón: Cayambe' y describe Cayambe; parece copiada de otro plan."
+      ]
+    },
+    {
+      "codFormulario": 11043,
+      "enfoque": "Plan que critica la poca producción legislativa del Concejo actual y propone tres ordenanzas concretas: incentivos a la producción local, valoración predial y tasa de residuos.",
+      "tabla": {
+        "economia": [
+          { "t": "Ordenanza de Incentivos a la Producción y Comercialización Local, articulada al PUGS, con incentivos tributarios a productores y protección de zonas de recarga", "v": "alta", "n": "Iniciativa normativa en competencia municipal; reduce ingresos propios." }
+        ],
+        "urbano": [
+          { "t": "Reforma a la Ordenanza de Valoración de Predios Urbanos y Rurales para corregir avalúos que perjudican al pequeño propietario rural", "v": "alta", "n": "El avalúo y el predial se regulan por ordenanza municipal." }
+        ],
+        "ambiente": [
+          { "t": "Ordenanza sustitutiva de la tasa de residuos sólidos con tarifa según capacidad de pago, generación y zona urbana o rural", "v": "alta", "n": "Regular tasas municipales es atribución del Concejo." }
+        ],
+        "gobierno": [
+          { "t": "Consultas y estudios técnicos previos y consensos con los demás concejales para aprobar ordenanzas", "v": "alta", "n": "Práctica legislativa." },
+          { "t": "Ejercer el control político sobre obras cuestionadas, como la segunda fase de la avenida Amazonas y la vía San Alfonso", "v": "alta", "n": "Fiscalización directa." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 8730,
+      "enfoque": "Plan breve de funciones del concejal (legislar, fiscalizar, aprobar PDOT y presupuesto), con dos propuestas de obra que no le corresponden.",
+      "tabla": {
+        "servicios": [
+          { "t": "Ampliar las redes de agua potable, alcantarillado y drenaje pluvial y el mantenimiento sanitario", "v": "baja", "n": "Plantea ejecutar obras; el concejal no ejecuta, solo puede impulsarlas en el presupuesto." }
+        ],
+        "gobierno": [
+          { "t": "Fiscalizar al ejecutivo, las obras, los contratos y el presupuesto", "v": "alta", "n": "Función directa del concejal." },
+          { "t": "Aprobar con criterio técnico el PDOT y el presupuesto; impulsar el presupuesto participativo y la equidad urbano-rural", "v": "alta", "n": "Votar el PDOT y el presupuesto es atribución del Concejo." },
+          { "t": "Revisar y actualizar la normativa tributaria municipal con criterios de equidad", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Transparentar la asistencia y las votaciones de cada concejal; asambleas ciudadanas periódicas", "v": "alta", "n": "Compromiso verificable de bajo costo." }
+        ],
+        "economia": [
+          { "t": "Ordenanzas de incentivo productivo, empleo y protección de grupos prioritarios", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "movilidad": [
+          { "t": "Ordenanzas de servicios públicos, uso del suelo, ambiente y movilidad", "v": "alta", "n": "Iniciativa normativa; no detalla cuáles." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": []
+    },
+    {
+      "codFormulario": 3439,
+      "enfoque": "Plan con programas de ejecución ('Mejía Produce', 'Mujer Emprende', capital semilla, becas, centro de innovación) que exceden las funciones de un concejal.",
+      "tabla": {
+        "economia": [
+          { "t": "Programas 'Mejía Produce' y 'Mujer Emprende Mejía', ferias permanentes y marca 'Hecho en Mejía'", "v": "media", "n": "El concejal puede impulsarlos en el presupuesto; la ejecución es de la Alcaldía." },
+          { "t": "Entrega de capital semilla a emprendimientos de mujeres y créditos productivos con entidades financieras", "v": "baja", "n": "El concejal no entrega recursos ni gestiona créditos." },
+          { "t": "Ruta turística integral y plataforma digital de promoción", "v": "media", "n": "Depende de la Alcaldía y la Dirección de Turismo." }
+        ],
+        "social": [
+          { "t": "Becas técnicas y universitarias, centro de innovación juvenil y formación gratuita en inglés y tecnología", "v": "baja", "n": "Ejecución directa que corresponde a la Alcaldía o a entidades nacionales." },
+          { "t": "Convenios de atención psicológica y legal gratuita a mujeres víctimas de violencia", "v": "media", "n": "El Concejo puede aprobar convenios; los firma y ejecuta el alcalde." },
+          { "t": "Escuelas deportivas, olimpiadas estudiantiles y bibliotecas y centros digitales en las parroquias", "v": "baja", "n": "Plantea ejecutar programas y equipamientos." }
+        ],
+        "seguridad": [
+          { "t": "Alarmas comunitarias inteligentes, ampliación de videovigilancia y brigadas barriales", "v": "baja", "n": "Instalar equipos es ejecución; la seguridad es nacional." }
+        ],
+        "gobierno": [
+          { "t": "Concejalía itinerante, rendición de cuentas semestral, observatorio ciudadano y plataforma de propuestas", "v": "alta", "n": "Representación y rendición de cuentas de bajo costo." }
+        ]
+      },
+      "metas": ["Cronograma por años (2027 diagnóstico y 100 primeros días; 2028 producción y turismo; 2029 juventud y seguridad; 2030 consolidación; 2031 evaluación), sin cifras."],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 11364,
+      "enfoque": "Plan con amplio diagnóstico y compromisos generales de fiscalización, transparencia y participación, sin ordenanzas identificadas.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Monitorear el cumplimiento del POA y fiscalizar la contratación pública y las obras urbanas con participación ciudadana", "v": "alta", "n": "Función directa del concejal." },
+          { "t": "Presentar proyectos de ordenanza en el ámbito de competencias municipales", "v": "alta", "n": "Atribución del concejal; no detalla cuáles." },
+          { "t": "Transparencia conforme a la LOTAIP e informes de evaluación en la rendición de cuentas", "v": "alta", "n": "Obligación legal." },
+          { "t": "Elaborar modelos de gestión, POA y presupuestos de inversión", "v": "baja", "n": "Es función del ejecutivo; el concejal los aprueba o fiscaliza." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": []
+    },
+    {
+      "codFormulario": 1375,
+      "enfoque": "Plan por componentes del PDOT con objetivos generales de legislación y fiscalización, sin propuestas específicas.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Legislación y fiscalización eficientes y transparentes; seguimiento a la planificación y ordenamiento territorial", "v": "alta", "n": "Función directa del concejal." }
+        ],
+        "economia": [
+          { "t": "Políticas públicas locales de fomento productivo y reactivación económica", "v": "media", "n": "El concejal solo puede impulsarlas; no detalla instrumentos." }
+        ],
+        "movilidad": [
+          { "t": "Normativa local para infraestructura vial y modernización del transporte", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "social": [
+          { "t": "Normativa de equidad territorial y participación inclusiva de actores sociales y culturales", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["El texto proviene de OCR."]
+    }
+  ]
+}

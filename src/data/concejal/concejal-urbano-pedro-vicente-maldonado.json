@@ -1,0 +1,104 @@
+{
+  "canton": "PEDRO VICENTE MALDONADO",
+  "candidatos": [
+    {
+      "codFormulario": 7251,
+      "enfoque": "Plan que antepone 'legislación y fiscalización' a las mismas obras del plan de alcaldía de su partido (alcantarillado, camposanto, camal, plaza comercial, terminal).",
+      "tabla": {
+        "servicios": [
+          { "t": "Legislar y fiscalizar el plan maestro de alcantarillado con plantas de tratamiento y la ampliación de agua potable", "v": "alta", "n": "Fiscalizar obras municipales es atribución directa del concejal." }
+        ],
+        "urbano": [
+          { "t": "Fiscalizar el diseño y construcción del nuevo camposanto, la Plaza Comercial Municipal, la planta de faenamiento y vivienda social en San Vicente de Andoas", "v": "alta", "n": "Función de fiscalización sobre obras del ejecutivo." }
+        ],
+        "movilidad": [
+          { "t": "Fiscalizar el plan de asfaltado y adoquinado de la ciudad; gestionar con la Prefectura la red vial rural", "v": "alta", "n": "Fiscalizar es directo; la gestión rural depende de la Prefectura." }
+        ],
+        "economia": [
+          { "t": "Legislar y fiscalizar el Plan de Desarrollo Turístico; gestionar capacitación con MAG y FAO", "v": "media", "n": "La gestión ante entidades nacionales no depende del concejal." }
+        ],
+        "social": [
+          { "t": "Gestionar alfabetización, campañas de prevención del embarazo adolescente y servicios para adultos mayores", "v": "media", "n": "El concejal solo gestiona; ejecutan la Alcaldía o el Estado." },
+          { "t": "Impulsar la construcción de un hospital", "v": "baja", "n": "La salud es competencia del MSP." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["La redacción reproduce el plan de alcaldía de la misma organización (lista 1) anteponiendo 'legislación y fiscalización'."]
+    },
+    {
+      "codFormulario": 6972,
+      "enfoque": "Plan extenso con una agenda normativa de dieciocho ordenanzas y reformas priorizadas, auditoría normativa en los primeros 180 días y blindaje presupuestario para la protección de derechos.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Auditoría normativa en los primeros 180 días: inventario de ordenanzas vigentes e identificación de las derogables", "v": "alta", "n": "Iniciativa normativa propia del Concejo." },
+          { "t": "Ordenanza de compras públicas locales con preferencia a proveedores del cantón y a la economía popular y solidaria", "v": "media", "n": "Viable dentro de los márgenes de la Ley de Contratación Pública." },
+          { "t": "Ordenanza de cooperación internacional descentralizada y reforma de la ordenanza de funcionamiento del Concejo y sus comisiones", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "social": [
+          { "t": "Ordenanza de blindaje presupuestario para el Consejo y la Junta Cantonal de Protección de Derechos", "v": "alta", "n": "El Concejo aprueba el presupuesto y puede fijar asignaciones mínimas por ordenanza." },
+          { "t": "Sistema Cantonal de Cultura por ordenanza y fomento a la autonomía económica de mujeres rurales", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "seguridad": [
+          { "t": "Declarar 'Cantón de Paz' por ordenanza y activar el Consejo Cantonal de Seguridad Ciudadana", "v": "alta", "n": "Crear o activar el consejo por ordenanza es viable; la seguridad operativa es nacional." }
+        ],
+        "servicios": [
+          { "t": "Programa Rural de Agua Segura con fortalecimiento de juntas administradoras", "v": "media", "n": "El concejal puede legislar y asignar presupuesto; ejecuta la Alcaldía." }
+        ],
+        "economia": [
+          { "t": "Ferias de artesanía y gastronomía y encadenamiento con el turismo del Chocó Andino", "v": "media", "n": "Ejecución de la Alcaldía." }
+        ]
+      },
+      "metas": ["Agenda de 18 ordenanzas y reformas en cuatro años; auditoría normativa en 180 días."],
+      "notas": ["El texto proviene de OCR de baja calidad; algunos nombres de ordenanza se reconstruyeron por contexto."]
+    },
+    {
+      "codFormulario": 8072,
+      "enfoque": "Plan con un paquete de ordenanzas de transparencia, participación y servicios, más el seguimiento de obras viales, de agua y de espacios públicos.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Reforma a la Ordenanza de Participación Ciudadana y nuevas ordenanzas de Datos Abiertos, Simplificación Administrativa y Control Social y Veedurías", "v": "alta", "n": "Iniciativa normativa propia del Concejo." },
+          { "t": "Ordenanza de modernización de servicios municipales con herramientas tecnológicas", "v": "alta", "n": "Iniciativa normativa; la implementación la hace la Alcaldía." },
+          { "t": "Sesiones itinerantes e informes públicos de la labor de los concejales", "v": "alta", "n": "Rendición de cuentas." }
+        ],
+        "servicios": [
+          { "t": "Reforma a la Ordenanza de Gestión Integral del Agua Potable y Alcantarillado; Ordenanza de Protección de Fuentes Hídricas", "v": "alta", "n": "Iniciativa normativa en competencia municipal." },
+          { "t": "Seguimiento a la ampliación y mejora de los sistemas de agua y alcantarillado", "v": "alta", "n": "Fiscalización." }
+        ],
+        "movilidad": [
+          { "t": "Fiscalizar el mantenimiento vial urbano y rural y actualizar la normativa de tránsito y seguridad vial", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "urbano": [
+          { "t": "Ordenanza de mantenimiento preventivo de infraestructura pública y seguimiento a parques y equipamientos", "v": "alta", "n": "Iniciativa normativa y fiscalización." }
+        ],
+        "economia": [
+          { "t": "Fiscalizar los proyectos estratégicos productivos y turísticos", "v": "alta", "n": "Fiscalización." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 11964,
+      "enfoque": "Plan que promete fiscalizar con independencia del alcalde, incluso si es de su propio partido, con tablero público del concejal y revisión de tasas y normativa de suelo.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Fiscalizar la calidad del gasto (no solo el porcentaje de ejecución), contratos, obras y convenios", "v": "alta", "n": "Función directa del concejal." },
+          { "t": "Tablero Público del Concejal con asistencia, votaciones, legislación y fiscalización", "v": "alta", "n": "Compromiso verificable de bajo costo." },
+          { "t": "Revisar tasas y servicios con criterios de costo, proporcionalidad y calidad", "v": "alta", "n": "Regular tasas es atribución del Concejo." },
+          { "t": "Reformar el sistema normativo de participación para dar trazabilidad a las prioridades territoriales", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "urbano": [
+          { "t": "Actualizar la normativa de uso del suelo, fraccionamientos, expansión, riesgos, catastro y espacio público", "v": "alta", "n": "Competencias municipales regulables por ordenanza." }
+        ],
+        "servicios": [
+          { "t": "Revisar el marco local de agua, saneamiento, descargas y coordinación con sistemas comunitarios", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "economia": [
+          { "t": "Revisar barreras municipales y reglas de ferias, mercados, permisos y circuitos cortos", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["Al menos una ronda territorial integral por año con retorno de información."],
+      "notas": []
+    }
+  ]
+}

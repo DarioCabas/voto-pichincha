@@ -1,0 +1,126 @@
+{
+  "canton": "CAYAMBE",
+  "candidatos": [
+    {
+      "codFormulario": 7659,
+      "enfoque": "Concejalía centrada en fiscalizar el presupuesto y codificar ordenanzas, con metas numéricas de informes, cabildos y proyectos de ordenanza.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Pedir cada semestre a la Dirección Financiera el informe de gasto corriente frente a inversión y revisar la regla 70-30", "v": "alta", "n": "Fiscalizar al ejecutivo es atribución directa del concejal (COOTAD art. 58)." },
+          { "t": "12 informes de fiscalización presupuestaria y de obras con inspecciones in situ a los proyectos de mayor monto", "v": "alta", "n": "Función de fiscalización con meta verificable." },
+          { "t": "Codificar 3 cuerpos normativos y publicar un Catálogo Digital de Ordenanzas en la web municipal", "v": "alta", "n": "Iniciativa normativa propia del Concejo." },
+          { "t": "Actualizar el 20 % de las ordenanzas internas, revisar el Estatuto Orgánico e impulsar evaluación por metas de directores y técnicos", "v": "media", "n": "El concejal puede proponerlo; la evaluación del personal la ejecuta la Alcaldía." },
+          { "t": "Analizar y votar de forma informada los empréstitos y fiscalizar su destino", "v": "alta", "n": "Votar el endeudamiento es atribución del Concejo." },
+          { "t": "8 cabildos informativos (2 por año) y mesas de seguimiento de ordenanzas", "v": "alta", "n": "Actividad de representación de bajo costo." }
+        ],
+        "seguridad": [
+          { "t": "Presentar la 'Ordenanza para la Implementación del Plan Integral de Seguridad' y evaluarlo dos veces al año", "v": "alta", "n": "Presentar ordenanzas es atribución del concejal; la ejecución del plan depende del alcalde y la Policía." }
+        ],
+        "social": [
+          { "t": "Dos proyectos de ordenanza para grupos vulnerables y población migrante: casa del migrante, espacio para el adulto mayor y mesa cantonal", "v": "media", "n": "La ordenanza es viable; abrir las casas requiere presupuesto que asigna la Alcaldía." }
+        ],
+        "movilidad": [
+          { "t": "Dos proyectos de ordenanza y fiscalización del Plan Integral de Movilidad, con transportistas", "v": "alta", "n": "Legislar y fiscalizar en tránsito, competencia municipal." }
+        ]
+      },
+      "metas": [
+        "12 informes de fiscalización y 8 cabildos informativos al 2031.",
+        "3 cuerpos normativos codificados y catálogo digital de ordenanzas publicado.",
+        "20 % de ordenanzas internas actualizadas; ordenanza del Plan Integral de Seguridad presentada; 2 ordenanzas de movilidad y 2 para grupos vulnerables."
+      ],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 3840,
+      "enfoque": "Plan organizado en tres funciones (legislar, fiscalizar, representar) aplicadas a cinco ejes, con acciones generales y sin ordenanzas identificadas.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Controlar la ejecución del presupuesto y la inversión, fiscalizar obras y servicios y verificar el cumplimiento de planes y ordenanzas", "v": "alta", "n": "Función directa del concejal (COOTAD art. 58)." },
+          { "t": "Llevar las demandas ciudadanas al Concejo y rendir cuentas periódicamente", "v": "alta", "n": "Función de representación." }
+        ],
+        "ambiente": [
+          { "t": "Normativa municipal para proteger ambiente, agua y territorio; seguimiento a la gestión ambiental", "v": "alta", "n": "Iniciativa normativa en competencia municipal; no especifica qué ordenanza." }
+        ],
+        "urbano": [
+          { "t": "Impulsar políticas de vivienda, hábitat y servicios públicos", "v": "media", "n": "El concejal puede proponer normativa; la ejecución depende del alcalde." }
+        ],
+        "social": [
+          { "t": "Normativa con enfoque de interculturalidad, equidad de género, inclusión y protección de derechos", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "economia": [
+          { "t": "Promover el desarrollo productivo, agroecológico, turístico y comunitario", "v": "media", "n": "Fomento productivo concurrente; el concejal solo puede impulsarlo." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 8030,
+      "enfoque": "Plan breve centrado en ordenanzas de calidad de vida, bienestar animal y turismo, con acciones generales.",
+      "tabla": {
+        "ambiente": [
+          { "t": "Ordenanzas y campañas a favor de perros y gatos: educación, esterilización y adopción responsable", "v": "alta", "n": "Fauna urbana es competencia municipal; la ordenanza es viable y las campañas dependen del presupuesto." }
+        ],
+        "gobierno": [
+          { "t": "Fiscalizar las obras para que se ejecuten de manera adecuada; transparencia y control social", "v": "alta", "n": "Función directa del concejal." },
+          { "t": "Convocar periódicamente a barrios y organizaciones para informar la gestión", "v": "alta", "n": "Representación de bajo costo." }
+        ],
+        "economia": [
+          { "t": "Promover a Cayambe como ciudad turística y apoyar emprendimientos de economía popular y solidaria", "v": "media", "n": "El concejal solo puede impulsarlo con normativa o en el presupuesto." }
+        ],
+        "social": [
+          { "t": "Programas para mujeres, jóvenes, adultos mayores y personas con discapacidad", "v": "baja", "n": "Plantea implementar programas, algo que ejecuta la Alcaldía, no el concejal." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 4349,
+      "enfoque": "Agenda legislativa 'prudente': primero controlar que se cumplan las ordenanzas vigentes y legislar solo donde haya vacíos, con propuestas normativas concretas.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Ordenanza para el Seguimiento, Evaluación y Cumplimiento de las Ordenanzas Municipales", "v": "alta", "n": "Iniciativa normativa propia del Concejo." },
+          { "t": "Evaluación progresiva de las ordenanzas de mayor impacto ciudadano", "v": "alta", "n": "Función de fiscalización." },
+          { "t": "Seguimiento periódico al presupuesto, al POA y a las empresas municipales con pedidos de información documentados", "v": "alta", "n": "Función directa del concejal." },
+          { "t": "Regulación de gobierno digital: trámites en línea, expediente electrónico y simplificación", "v": "alta", "n": "Iniciativa normativa; la implementación técnica la ejecuta la Alcaldía." }
+        ],
+        "urbano": [
+          { "t": "Ordenanza que regule vallas, pantallas, rótulos y publicidad visible desde el espacio público", "v": "alta", "n": "Uso del espacio público es competencia municipal regulable por ordenanza." },
+          { "t": "Revisar la normativa de ruido, comercio, espacio público y convivencia, y codificarla o reformarla", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "ambiente": [
+          { "t": "Evaluar la normativa ambiental y reformarla para proteger fuentes hídricas", "v": "alta", "n": "Iniciativa normativa en competencia municipal." }
+        ],
+        "social": [
+          { "t": "Fiscalizar los recursos para igualdad y grupos prioritarios y las rutas de atención a la violencia contra las mujeres", "v": "alta", "n": "Función de fiscalización." },
+          { "t": "Analizar el impacto diferenciado de las ordenanzas sobre mujeres y hombres", "v": "alta", "n": "Práctica legislativa de bajo costo." }
+        ]
+      },
+      "metas": ["Presentar la Ordenanza de Seguimiento y Cumplimiento de Ordenanzas; el resto son metas de proceso por año."],
+      "notas": ["El texto proviene de OCR; las matrices están parcialmente desordenadas."]
+    },
+    {
+      "codFormulario": 2327,
+      "enfoque": "Plan genérico de legislación, fiscalización y representación en tres líneas, con un sistema de fiscalización preventiva y fases anuales, sin ordenanzas concretas.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Sistema de Fiscalización Preventiva sobre presupuesto, contratos, obras, servicios y resoluciones municipales", "v": "alta", "n": "Función directa del concejal." },
+          { "t": "Revisar, simplificar y codificar la normativa municipal con datos y consulta ciudadana", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Presentación pública anual de resultados legislativos y de fiscalización", "v": "alta", "n": "Rendición de cuentas." }
+        ],
+        "urbano": [
+          { "t": "Reformas a la normativa de fiscalización urbana, espacio público y ordenamiento", "v": "alta", "n": "Iniciativa normativa en competencia municipal." }
+        ],
+        "economia": [
+          { "t": "Normativa que simplifique procesos y reduzca barreras para emprendimiento e innovación", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "social": [
+          { "t": "Marco normativo para igualdad de oportunidades, inclusión y participación en los barrios", "v": "alta", "n": "Iniciativa normativa; no detalla ordenanzas." }
+        ]
+      },
+      "metas": ["Fases: 2027 diagnóstico y reformas prioritarias; 2028 diseño; 2029-2030 fiscalización y control político; 2031 evaluación. Sin cifras."],
+      "notas": ["El texto proviene de OCR; la matriz está fragmentada."]
+    }
+  ]
+}

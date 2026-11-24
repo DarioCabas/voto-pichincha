@@ -1,0 +1,81 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { DIGNIDADES } from '../data/dignidades.js';
+import { candidatos as prefectos } from '../data/prefecto.js';
+import { dignidadesLocales, territorios, titulo } from '../lib/datos.js';
+
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const indice = prefectos.map((c) => ({ n: `${c.prefecto} / ${c.vice}`, p: c.partido, l: c.lista, d: 'Prefectura', u: `/prefectura/#f-l${c.lista.replace(/\W/g, '')}` }));
+const resumen = { prefectura: { listas: prefectos.length, terr: 'Provincia' } };
+for (const d of dignidadesLocales) {
+  const ts = territorios(d);
+  resumen[d.slug] = { listas: ts.reduce((a, t) => a + t.n, 0), terr: `${ts.length} ${d.territorio === 'sub' ? (d.slug === 'junta-parroquial' ? 'parroquias' : 'circunscripciones') : 'cantones'}` };
+  for (const t of ts) for (const c of t.cands)
+    indice.push({ n: (c.personas ?? []).map((p) => p.nombre).join(', ') || c.titulo, p: c.partido, l: c.lista, d: `${d.nombre} · ${titulo(t.sub ?? t.canton)}`, u: `/${d.slug}/${t.path}/#${'f-' + c.id}` });
+}
+---
+
+<Layout title="Inicio">
+  <section class="hero">
+    <h1>¿Qué proponen tus candidatos?</h1>
+    <p class="sub">Los planes de trabajo entregados al CNE, comparados lado a lado y con una señal de viabilidad.</p>
+    <div class="search">
+      <input id="q" type="search" placeholder="Busca un candidato, partido o parroquia…" autocomplete="off" aria-label="Buscar" />
+      <ul id="res" role="listbox"></ul>
+    </div>
+  </section>
+
+  <div class="grid">
+    {DIGNIDADES.map((d) => (
+      <a class="card" href={`${base}/${d.slug}/`}>
+        <span class="t">{d.nombre}</span>
+        <span class="m">{resumen[d.slug]?.listas ?? 0} listas · {resumen[d.slug]?.terr}</span>
+        <span class="tag" class:list={{ auto: d.modo === 'auto' }}>{d.modo === 'auto' ? 'Clasificación automática' : 'Resumen revisado'}</span>
+      </a>
+    ))}
+  </div>
+
+  <script type="application/json" id="idx" set:html={JSON.stringify(indice)} />
+  <script define:vars={{ base }}>
+    const idx = JSON.parse(document.getElementById('idx').textContent);
+    const norm = (s) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '');
+    const hay = idx.map((x) => norm(`${x.n} ${x.p} ${x.d} lista ${x.l}`));
+    const q = document.getElementById('q'), res = document.getElementById('res');
+    q.addEventListener('input', () => {
+      const terms = norm(q.value).split(/\s+/).filter(Boolean);
+      res.innerHTML = '';
+      if (!terms.length) return;
+      const hits = idx.filter((_, i) => terms.every((t) => hay[i].includes(t))).slice(0, 12);
+      for (const h of hits) {
+        const li = document.createElement('li');
+        li.innerHTML = `<a href="${base}${h.u}"><b></b><span></span></a>`;
+        li.querySelector('b').textContent = h.n;
+        li.querySelector('span').textContent = `${h.d} · Lista ${h.l} · ${h.p}`;
+        res.append(li);
+      }
+      if (!hits.length) res.innerHTML = '<li class="none">Sin resultados</li>';
+    });
+  </script>
+</Layout>
+
+<style>
+  .hero { padding: 32px 0 8px; }
+  .hero h1 { font-size: clamp(28px, 4.4vw, 44px); }
+  .search { position: relative; max-width: 640px; }
+  #q { width: 100%; font: inherit; font-size: 16px; padding: 12px 14px; border-radius: 12px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
+  #q:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
+  #res { list-style: none; margin: 6px 0 0; padding: 0; background: var(--surface); border-radius: 12px; overflow: hidden; }
+  #res:not(:empty) { border: 1px solid var(--line); }
+  #res :global(a) { display: block; padding: 9px 14px; text-decoration: none; color: var(--ink); border-bottom: 1px solid var(--line); }
+  #res :global(a:hover) { background: var(--head); }
+  #res :global(b) { display: block; font-weight: 600; font-size: 14px; }
+  #res :global(span) { font-size: 12.5px; color: var(--muted); }
+  #res :global(.none) { padding: 10px 14px; color: var(--muted); }
+  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; margin-top: 28px; }
+  .card { display: flex; flex-direction: column; gap: 4px; padding: 16px; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; text-decoration: none; color: var(--ink); }
+  .card:hover { border-color: var(--ink); }
+  .card .t { font-size: 17px; font-weight: 650; }
+  .card .m { color: var(--muted); font-size: 13.5px; }
+  .tag { align-self: flex-start; margin-top: 8px; font-size: 11.5px; padding: 2px 8px; border-radius: 999px; background: color-mix(in srgb, var(--alta) 16%, transparent); }
+  .tag.auto { background: color-mix(in srgb, var(--media) 18%, transparent); }
+</style>

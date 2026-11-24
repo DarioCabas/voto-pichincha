@@ -1,0 +1,190 @@
+{
+  "canton": "PEDRO MONCAYO",
+  "candidatos": [
+    {
+      "codFormulario": 6920,
+      "enfoque": "Plan breve de políticas generales (ambiente, residuos, grupos prioritarios, patrimonio) y espacios de diálogo, sin ordenanzas concretas.",
+      "tabla": {
+        "ambiente": [
+          { "t": "Políticas para proteger fuentes de agua, páramos, bosques y patrimonio natural; mejorar la gestión de residuos y el reciclaje", "v": "alta", "n": "El concejal puede impulsarlas por ordenanza; no detalla cuáles." }
+        ],
+        "social": [
+          { "t": "Políticas locales para adultos mayores, personas con discapacidad, niñez y población vulnerable; ordenanzas para reducir brechas", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Normativa de protección del patrimonio arquitectónico", "v": "alta", "n": "Patrimonio es competencia municipal regulable por ordenanza." }
+        ],
+        "gobierno": [
+          { "t": "Espacios permanentes de diálogo, agenda de atención ciudadana y rendición de cuentas accesible", "v": "alta", "n": "Representación de bajo costo." },
+          { "t": "Solicitar información técnica antes de votar en el Concejo", "v": "alta", "n": "Práctica de fiscalización." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 8058,
+      "enfoque": "Plan amplio por ejes con decenas de líneas de 'promover' e 'impulsar', que mezcla ordenanzas y fiscalización con programas que ejecuta la Alcaldía.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Fortalecer y fiscalizar el Sistema Cantonal de Protección Integral de Derechos", "v": "alta", "n": "Fiscalización de un sistema municipal." },
+          { "t": "Procedimientos técnicos y transparentes para analizar la regularización de barrios y edificaciones; mejorar el catastro", "v": "alta", "n": "Uso del suelo y catastro se regulan por ordenanza." }
+        ],
+        "social": [
+          { "t": "Programas permanentes de inclusión, envejecimiento activo, cuidado y política municipal de juventud", "v": "media", "n": "El concejal puede impulsarlos en el presupuesto; los ejecuta la Alcaldía." }
+        ],
+        "seguridad": [
+          { "t": "Prevención de violencia, trabajo infantil, consumo de sustancias y embarazo adolescente", "v": "media", "n": "Competencias compartidas con el Gobierno nacional." }
+        ],
+        "economia": [
+          { "t": "Fortalecer espacios municipales de comercialización, ferias y un sistema de apoyo a emprendimientos", "v": "media", "n": "Mercados son municipales; el concejal solo impulsa." },
+          { "t": "Participación de proveedores locales en la contratación pública y capacitación en el SERCOP", "v": "media", "n": "Depende de la Alcaldía y de la ley de contratación." },
+          { "t": "Marca territorial y promoción turística de las cinco parroquias, incluido uso sostenible de Mojanda", "v": "media", "n": "Promoción que ejecuta la Alcaldía." }
+        ],
+        "ambiente": [
+          { "t": "Relación equilibrada entre la floricultura, las comunidades y el ambiente; protección de quebradas y zonas de recarga", "v": "alta", "n": "El Concejo puede regular por ordenanza." },
+          { "t": "Reducción, separación, reciclaje y disposición adecuada de residuos", "v": "media", "n": "El servicio lo presta la Alcaldía; el concejal fiscaliza o legisla." }
+        ],
+        "urbano": [
+          { "t": "Recuperación y uso seguro de parques, plazas y casas comunales", "v": "media", "n": "Obra que ejecuta la Alcaldía." }
+        ]
+      },
+      "metas": ["Fases: implementación inicial, ampliación a las cinco parroquias y evaluación en 2031. Sin cifras."],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 8169,
+      "enfoque": "Plan en matriz con metas porcentuales que en su mayoría describen obras y servicios (agua, asfaltado, espacios comunitarios, energía) propios del ejecutivo.",
+      "tabla": {
+        "servicios": [
+          { "t": "Construir y ampliar redes de agua y alcantarillado para aumentar la cobertura", "v": "baja", "n": "Plantea ejecutar obras; el concejal no ejecuta." }
+        ],
+        "movilidad": [
+          { "t": "Asfaltado y mantenimiento vial anual con MTOP y Prefectura", "v": "baja", "n": "Obra que ejecuta el municipio u otros niveles, no el concejal." },
+          { "t": "Señalización y campañas de educación vial para reducir accidentes", "v": "media", "n": "El concejal puede impulsarlo en el presupuesto." }
+        ],
+        "urbano": [
+          { "t": "Construcción, adecuación y mantenimiento de espacios comunitarios", "v": "baja", "n": "Ejecución de obra." }
+        ],
+        "ambiente": [
+          { "t": "Campañas ambientales en escuelas y restauración de áreas degradadas", "v": "media", "n": "Depende de la Alcaldía." }
+        ],
+        "social": [
+          { "t": "Convenios con MSP y MINEDUC para ampliar el acceso a salud y educación", "v": "baja", "n": "Salud y educación son competencias nacionales." }
+        ],
+        "economia": [
+          { "t": "Asistencia técnica agropecuaria y diversificación con turismo", "v": "media", "n": "Fomento concurrente; el concejal solo impulsa." }
+        ],
+        "gobierno": [
+          { "t": "Digitalización administrativa con plataformas tecnológicas", "v": "media", "n": "La ejecuta la Alcaldía." },
+          { "t": "Informe anual de gestión del cumplimiento del plan", "v": "alta", "n": "Rendición de cuentas." }
+        ],
+        "otros": [
+          { "t": "Proyectos de cobertura y energía eléctrica con la Empresa Eléctrica", "v": "baja", "n": "La electrificación es competencia de la empresa eléctrica." }
+        ]
+      },
+      "metas": ["La matriz fija metas porcentuales (por ejemplo, 80 % de instituciones educativas capacitadas), pero el OCR de la tabla es poco legible."],
+      "notas": ["El texto proviene de OCR y las tablas están desordenadas.", "El documento repite la estructura del plan de alcaldía del mismo partido."]
+    },
+    {
+      "codFormulario": 7084,
+      "enfoque": "Plan con propuestas normativas concretas para Tabacundo: plan físico territorial, ferias del productor, incentivos a emprendedores, cultura y reciclaje inclusivo.",
+      "tabla": {
+        "urbano": [
+          { "t": "Actualizar la ordenanza del Plan Físico Territorial del cantón", "v": "alta", "n": "Iniciativa normativa en competencia municipal." },
+          { "t": "Plan maestro de regeneración de espacios públicos, mercados y ordenamiento del tránsito", "v": "media", "n": "El concejal puede impulsarlo; lo ejecuta la Alcaldía." }
+        ],
+        "economia": [
+          { "t": "Fortalecer la ordenanza de ferias cantonales permanentes 'del productor al consumidor'", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Ordenanza de incentivos tributarios y simplificación de patentes para emprendedores", "v": "alta", "n": "Regular tributos municipales es atribución del Concejo." }
+        ],
+        "social": [
+          { "t": "Ordenanza de atención integral para adultos mayores, personas con discapacidad y niñez", "v": "alta", "n": "Iniciativa normativa; los programas los ejecuta la Alcaldía." },
+          { "t": "Ordenanza de Cultura y Patrimonio y agenda cultural itinerante", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Mesa intercultural de coordinación de justicia entre el municipio, la justicia ordinaria y autoridades indígenas", "v": "media", "n": "Requiere acuerdo con otras instituciones." },
+          { "t": "Capital semilla y capacitación para mujeres y jóvenes; escuelas deportivas municipales", "v": "media", "n": "El concejal solo puede proponerlo en el presupuesto." }
+        ],
+        "ambiente": [
+          { "t": "Fortalecer la ordenanza con un plan de reciclaje inclusivo y clasificación en la fuente", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "seguridad": [
+          { "t": "Fortalecer el Consejo de Seguridad Ciudadana y gestionar con EMELNORTE iluminación LED y alertas comunitarias", "v": "media", "n": "Coordinación; la seguridad es nacional y el alumbrado de la empresa eléctrica." }
+        ],
+        "gobierno": [
+          { "t": "Informes públicos semestrales de fiscalización de obras y contratos", "v": "alta", "n": "Fiscalización verificable." }
+        ]
+      },
+      "metas": ["Informes semestrales de fiscalización; el resto sin cifras."],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 2627,
+      "enfoque": "Plan que vincula cada competencia municipal con una ordenanza a impulsar (PUGS, agua, residuos, riesgos, fomento productivo) y la fiscalización del PAI vial.",
+      "tabla": {
+        "urbano": [
+          { "t": "Aprobar y actualizar el PDOT-PUGS y la ordenanza de uso y gestión del suelo", "v": "alta", "n": "Atribución del Concejo." }
+        ],
+        "servicios": [
+          { "t": "Ordenanza tarifaria y de gestión del agua", "v": "alta", "n": "Regular tasas por ordenanza es atribución del Concejo." }
+        ],
+        "movilidad": [
+          { "t": "Ordenanzas y fiscalización del plan anual de inversiones vial urbano", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "ambiente": [
+          { "t": "Ordenanzas de residuos y economía circular, protección ambiental, gestión de riesgos y adaptación climática", "v": "alta", "n": "Iniciativa normativa en competencias municipales." }
+        ],
+        "economia": [
+          { "t": "Ordenanza de fomento productivo y turístico y de articulación con MAG y Prefectura", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "gobierno": [
+          { "t": "Legislar y fiscalizar la transformación digital y los presupuestos participativos", "v": "alta", "n": "Función del concejal." },
+          { "t": "Resoluciones habilitantes para convenios de cooperación no reembolsable", "v": "alta", "n": "El Concejo autoriza convenios." },
+          { "t": "Al menos una asamblea cantonal anual de rendición de cuentas con transmisión y actas públicas", "v": "alta", "n": "Compromiso verificable." }
+        ]
+      },
+      "metas": ["Al menos una asamblea anual de rendición de cuentas; el resto son metas de proceso."],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 10811,
+      "enfoque": "Plan extenso con matriz de inversión y metas 'de concejalía' (revisar y actualizar ordenanzas, fiscalizar) por tema, aunque el OCR de las tablas es muy deficiente.",
+      "tabla": {
+        "ambiente": [
+          { "t": "Proponer y actualizar la normativa de gestión integral de residuos y fiscalizar el control ambiental", "v": "alta", "n": "Legislar y fiscalizar." },
+          { "t": "Revisar y actualizar la ordenanza de fauna urbana y fiscalizar el refugio municipal", "v": "alta", "n": "Iniciativa normativa en competencia municipal." },
+          { "t": "Normativa de protección y recuperación de áreas verdes", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "economia": [
+          { "t": "Ordenanzas de incentivos para la diversificación productiva y promoción turística y cultural", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "gobierno": [
+          { "t": "Fiscalización sistemática del PDOT, POA, presupuesto, contratación y alumbrado", "v": "alta", "n": "Función directa del concejal." }
+        ],
+        "seguridad": [
+          { "t": "Fiscalizar los recursos municipales de seguridad ciudadana; actualizar la normativa de movilidad y ordenamiento vial", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "social": [
+          { "t": "Apoyo a deportistas, clubes y organizaciones deportivas", "v": "media", "n": "Depende del presupuesto que ejecute la Alcaldía." }
+        ]
+      },
+      "metas": ["Metas por tema 'hasta 2029' (revisar una ordenanza, fiscalizar, publicar reportes); el OCR no permite leerlas con precisión."],
+      "notas": ["El texto proviene de OCR y las matrices son casi ilegibles."]
+    },
+    {
+      "codFormulario": 6525,
+      "enfoque": "Plan breve con ordenanzas concretas sobre floricultura, propiedad horizontal y empadronamiento de trabajadores, y auditorías a la planta de residuos.",
+      "tabla": {
+        "economia": [
+          { "t": "Ordenanza que regule la actividad florícola con mesas de trabajo con el sector (2028)", "v": "alta", "n": "Uso del suelo y control ambiental se regulan por ordenanza." },
+          { "t": "Ordenanza de corresponsabilidad empresarial que incentive el empadronamiento local de los trabajadores, para aumentar las asignaciones del Estado", "v": "media", "n": "La ordenanza es viable; su efecto en las transferencias depende de normas nacionales y del censo." }
+        ],
+        "urbano": [
+          { "t": "Reforma de la ordenanza de propiedad horizontal para ordenar el crecimiento en las cabeceras parroquiales (2027)", "v": "alta", "n": "Iniciativa normativa en competencia municipal." }
+        ],
+        "ambiente": [
+          { "t": "Auditoría a la planta de tratamiento de residuos: pozos de disposición, chimeneas, lixiviados y tratamiento de orgánicos", "v": "alta", "n": "Fiscalizar un servicio municipal es atribución del concejal." }
+        ]
+      },
+      "metas": ["Al menos una ordenanza promulgada y tres trámites legislativos superados en el Concejo."],
+      "notas": ["El texto proviene de OCR."]
+    }
+  ]
+}

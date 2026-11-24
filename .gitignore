@@ -1,0 +1,43 @@
+# build output
+dist/
+# generated types
+.astro/
+
+# dependencies
+node_modules/
+
+# logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+
+# environment variables
+.env
+.env.production
+
+# macOS-specific files
+.DS_Store
+
+# jetbrains setting folder
+.idea/
+
+# --- No se sube al repositorio ---
+# PDFs originales del CNE (~533 MB): se descargan con scripts/scrape*.cjs
+public/planes/
+# Intermedios de extracción/OCR y logs del scraping
+data/txt/
+data/ocr-pendiente-*.txt
+*.log
+# Notas internas y configuración de herramientas/agentes (contienen rutas locales)
+docs/
+AGENTS.md
+CLAUDE.md
+.claude/
+.vscode/
+# Credenciales y entornos
+.env*
+*.pem
+*.key
+.npmrc

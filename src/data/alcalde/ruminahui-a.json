@@ -1,0 +1,651 @@
+{
+  "canton": "RUMIÑAHUI",
+  "contexto": [
+    {
+      "titulo": "Presupuesto municipal 2025 y su ejecución",
+      "valor": "USD 81,08 M codificado · 51,65 % ejecutado",
+      "detalle": "Según el informe de rendición de cuentas 2025 del GADMUR, el presupuesto codificado fue de USD 81.083.271 y el devengado de USD 41.876.653 (51,65 %). El presupuesto 2026 se aprobó con la Ordenanza 021-2025, pero su texto público no indica el monto total.",
+      "fuente": "GAD Municipal de Rumiñahui, Informe de Rendición de Cuentas 2025",
+      "url": "https://www.ruminahui.gob.ec/wp-content/uploads/2026/06/INFORME-FINAL-RENDICION-DE-CUENTAS-2025-VF-06-signed.pdf"
+    },
+    {
+      "titulo": "Baja ejecución de la inversión (2025)",
+      "valor": "USD 26,0 M de USD 59,8 M (43,48 %)",
+      "detalle": "En 2025 el gasto de inversión codificado fue de USD 59,79 M y el devengado de USD 26,0 M. El gasto corriente se ejecutó al 81,59 %. Los ingresos de financiamiento representaron el 55,98 % de los ingresos codificados (USD 45,39 M), y el PGE asignó USD 10,90 M al cantón.",
+      "fuente": "GAD Municipal de Rumiñahui, Informe de Rendición de Cuentas 2025",
+      "url": "https://www.ruminahui.gob.ec/wp-content/uploads/2026/06/INFORME-FINAL-RENDICION-DE-CUENTAS-2025-VF-06-signed.pdf"
+    },
+    {
+      "titulo": "Proyecto de agua potable Cóndor Machay",
+      "valor": "Captación de 90 l/s · plazo de 540 días",
+      "detalle": "Se adjudicó por licitación internacional (LPI-GADMUR-2025-001) con crédito del BDE y recursos del Banco Europeo de Inversiones. Abastecerá los sistemas Sangolquí, Cotogchoa, Cashapamba, Loreto-San Fernando y La Moca-Rumipamba. En la rendición de cuentas 2025 el municipio lo reporta en ejecución, con una inversión aproximada de USD 8 M y más de 90.000 beneficiarios.",
+      "fuente": "GADMUR, convocatoria publicada en Diario Expreso (mayo 2025)",
+      "url": "https://services.expreso.ec/pdf/convocatoriagadmur.pdf"
+    },
+    {
+      "titulo": "Solución Vial Bicentenario (conexión Quito–Valle de los Chillos)",
+      "valor": "Más de USD 350 M (Prefectura de Pichincha)",
+      "detalle": "La Prefectura abrió en agosto de 2026 un tercer concurso para elegir un aliado estratégico, con adjudicación prevista para el 20 de noviembre de 2026. El objetivo es descongestionar la Autopista General Rumiñahui. La obra no es municipal: Rumiñahui solo puede coordinar en sus accesos (El Triángulo, El Colibrí).",
+      "fuente": "Diario Expreso (19-ago-2026)",
+      "url": "https://www.expreso.ec/quito/solucion-vial-bicentenario-pichincha-abre-concurso-350-millones-292995.html"
+    }
+  ],
+  "candidatos": [
+    {
+      "codFormulario": 4682,
+      "enfoque": "Gestión municipal por resultados en ocho propuestas: seguridad preventiva, movilidad, vialidad, producción, ambiente, municipio digital, red social y turismo. Condiciona las obras mayores a estudios, predios y financiamiento.",
+      "estructura": "8 propuestas (ejes) · 10 objetivos específicos · matriz plurianual de 8 objetivos con metas por año",
+      "tabla": {
+        "movilidad": [
+          { "t": "Actualizar el Plan de Movilidad (estudios origen-destino) e implementar más de 20 km de infraestructura priorizada (ciclovías) y 25 entornos seguros", "v": "alta", "n": "Tránsito, transporte y vialidad urbana son competencia municipal. Las metas tienen una escala modesta frente a los USD 59,8 M de inversión codificada en 2025." },
+          { "t": "Terminal de transporte y rediseño de intersecciones y nudos críticos, según factibilidad", "v": "media", "n": "Es competencia propia, pero el plan lo condiciona a factibilidad y no da monto. Las intersecciones con la E35 requieren coordinar con el MTOP y la Prefectura." },
+          { "t": "Semaforización, rutas escolares y seguridad vial", "v": "alta", "n": "Son acciones de bajo costo dentro de la competencia de tránsito." },
+          { "t": "Programa anual de mantenimiento vial con al menos 90 % de cumplimiento; corredores y puentes según madurez de estudios", "v": "media", "n": "La vialidad urbana es municipal. En 2025 la inversión se ejecutó solo al 43,48 %, lo que pone en duda que se alcance el 90 %, y los puentes dependen de predios y estudios." }
+        ],
+        "servicios": [
+          { "t": "Atender brechas de servicios básicos y drenaje en sectores específicos (diagnóstico)", "v": "media", "n": "El diagnóstico identifica el problema, pero el plan no formula un programa ni una meta concreta de agua o alcantarillado." }
+        ],
+        "ambiente": [
+          { "t": "Estación de transferencia de residuos para reducir recorridos a El Inga y renovar la flota de EPAR por fases", "v": "media", "n": "Los residuos son competencia municipal. La estación requiere estudio, sitio y financiamiento (BDE), sin monto declarado." },
+          { "t": "Reciclaje inclusivo con formalización de 120-150 recicladores, centros de acopio y aprovechamiento de orgánicos (compost)", "v": "alta", "n": "Competencia propia con escala acotada." },
+          { "t": "Restauración de ríos y quebradas por microcuencas, parques y educación ambiental semanal", "v": "media", "n": "La restauración de cauces es concurrente con el MAATE y depende del saneamiento de las descargas." }
+        ],
+        "urbano": [
+          { "t": "Tres espacios polifuncionales", "v": "alta", "n": "Los espacios públicos son competencia municipal y la meta tiene una escala acotada." },
+          { "t": "Proyecto de vivienda de interés social de unas 200 unidades, si la factibilidad lo confirma", "v": "media", "n": "Requiere suelo, un modelo financiero y articulación con MIDUVI/BDE. El plan lo condiciona a un estudio de demanda." },
+          { "t": "Inventario vial, catastro/SIG y actualización del PDOT/PUGS", "v": "alta", "n": "La planificación, el uso del suelo y el catastro son competencias propias." }
+        ],
+        "seguridad": [
+          { "t": "Actualizar el Plan Local de Seguridad, auditar las cámaras y desplegar un sistema tecnológico por prioridades (cámaras y alarmas)", "v": "media", "n": "La seguridad ciudadana es nacional. El municipio aporta tecnología y coordina con la Policía y el ECU 911, como reconoce el propio plan." },
+          { "t": "20 espacios recuperados con enfoque CPTED, 96 capacitaciones y brigadas comunitarias", "v": "alta", "n": "Recuperar espacio público y hacer prevención está dentro del ámbito municipal, con metas cuantificadas." },
+          { "t": "Gestión integral de riesgos (prevención, mitigación y respuesta)", "v": "alta", "n": "La gestión de riesgos y los bomberos son competencia municipal." }
+        ],
+        "social": [
+          { "t": "Red social integral: Observatorio, registro único de beneficiarios y programas Vital (geriatría), Rehabilita, Red Activa, Sonríe (odontología), Te Acompaña (salud mental) y centro diurno", "v": "media", "n": "Complementa al MSP y el MIES mediante convenios. El presupuesto de Misión Social fue de USD 1,72 M en 2024, según el propio plan." },
+          { "t": "Apoyo educativo y deportivo", "v": "media", "n": "La gestión educativa es nacional. El municipio puede apoyar con infraestructura y programas complementarios." }
+        ],
+        "economia": [
+          { "t": "Mercado mayorista estructurado (estudio de mercado y modelo en el año 1, construcción en los años 2-4)", "v": "media", "n": "Los mercados son competencia municipal, pero no hay monto y la construcción depende de la factibilidad." },
+          { "t": "200 emprendimientos apoyados, 300 productores en circuitos cortos, centro de servicios, bolsa de empleo y apoyo a mujeres sobrevivientes de violencia", "v": "media", "n": "El fomento productivo es una competencia concurrente. El crédito depende de convenios con la banca." },
+          { "t": "Centro chacarero, al menos cuatro rutas o productos turísticos y agenda cultural anual en las parroquias", "v": "alta", "n": "La cultura, el patrimonio y el turismo local están dentro del ámbito municipal. El centro se condiciona a factibilidad." }
+        ],
+        "gobierno": [
+          { "t": "80 % de trámites priorizados trazables y reducción del 40 % del tiempo en 10 trámites críticos", "v": "alta", "n": "Organizar los servicios municipales es competencia propia, y la meta es medible." },
+          { "t": "100 % de obras prioritarias con ficha pública de avance y publicación trimestral del cumplimiento de la regla fiscal", "v": "alta", "n": "Es transparencia en el ámbito municipal. La regla fiscal de la reforma del COOTAD (R.O. 23-feb-2026) lo hace pertinente." },
+          { "t": "Integrar el GADMUR, sus empresas públicas y entidades adscritas; ISO focalizadas, datos abiertos y banco de proyectos", "v": "alta", "n": "Es organización institucional propia." },
+          { "t": "Gestión de cooperación internacional", "v": "media", "n": "Depende de terceros." }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "Seguridad: 100 % de puntos priorizados con solución operativa; 20 espacios CPTED; 96 capacitaciones; seguimiento semestral de indicadores.",
+        "Movilidad: plan actualizado y aprobado; más de 20 km priorizados; 25 entornos seguros; terminal e intersecciones según factibilidad.",
+        "Vialidad: programa anual de mantenimiento con al menos 90 % de cumplimiento; 3 espacios polifuncionales; proyecto VIS de unas 200 unidades estructurado si la factibilidad lo confirma.",
+        "Producción: mercado mayorista estructurado; 200 emprendimientos apoyados en el período; 300 productores en circuitos cortos; centro de servicios operando.",
+        "Ambiente: estación de transferencia operativa; 120-150 recicladores formalizados; flota renovada por fases; educación ambiental semanal.",
+        "Institucional: 80 % de trámites priorizados trazables; -40 % de tiempo en 10 trámites críticos; 100 % de obras prioritarias con ficha pública; publicación trimestral de la regla fiscal.",
+        "Cultura y turismo: centro chacarero; al menos 4 rutas o productos turísticos; agenda cultural anual; patrimonio prioritario intervenido."
+      ],
+      "inversion": "Sin montos. Menciona como aliados de financiamiento al BDE, MIDUVI, MTOP, GAD Provincial, banca, academia y cooperación.",
+      "primeros100": null,
+      "detalle": [
+        { "titulo": "Diagnóstico", "items": [
+          "Fuentes: PDOT 2024-2030, rendiciones de cuentas, perfiles técnicos y encuestas cantonales de abril de 2026.",
+          "Población 2022: 107.904 habitantes (102.863 urbanos y 5.041 rurales, según el plan); 6 parroquias (4 urbanas y 2 rurales).",
+          "Misión Social: presupuesto codificado de aproximadamente USD 1,50 M (2023) y USD 1,72 M (2024).",
+          "16 problemas identificados: inseguridad, congestión, deterioro vial, crecimiento urbano, contaminación de ríos, residuos con altos costos logísticos (traslado a El Inga), brechas de servicios y drenaje, gestión institucional fragmentada, empleo, articulación campo-ciudad, protección social, espacios públicos, patrimonio y turismo, riesgos, catastro, y cartera de proyectos con restricciones fiscales.",
+          "Prioridades: 1 seguridad, 2 movilidad, 3 vialidad y obra pública, 4 ambiente, 5 eficiencia institucional, 6 desarrollo productivo, 7 sector social, 8 cultura y turismo."
+        ]},
+        { "titulo": "Propuesta 1 · Seguridad Integral Rumiñahui", "items": [
+          "Actualizar el Plan Local de Seguridad Ciudadana con un sistema preventivo basado en coordinación, tecnología, entornos seguros y comunidad.",
+          "Año 1: auditoría de cámaras, mapa de incidentes, nuevo plan local, convenios y pilotos. Años 2-3: despliegue tecnológico (cámaras y alarmas), espacios seguros y equipamiento. Año 4: optimización y evaluación.",
+          "Articulación con la Policía Nacional, el Ministerio del Interior, el ECU 911, la justicia, los Bomberos, la comunidad y el sector privado; brigadas.",
+          "Metas: 20 espacios CPTED y 96 capacitaciones."
+        ]},
+        { "titulo": "Propuesta 2 · Movilidad segura y sostenible", "items": [
+          "Actualizar el Plan de Movilidad, articulado con el PDOT y el PUGS.",
+          "Red integrada de transporte público, caminabilidad, ciclismo y gestión inteligente del tráfico.",
+          "Estudios origen-destino; ciclovías; terminal; semaforización; rutas escolares; seguridad vial.",
+          "Intervención en nudos críticos; más de 20 km priorizados; 25 entornos seguros."
+        ]},
+        { "titulo": "Propuesta 3 · Vialidad, obra pública, hábitat y espacio público", "items": [
+          "Mantenimiento preventivo permanente con inventario de condición vial y priorización multicriterio.",
+          "Obras estructurantes (corredores y puentes) con estudios, predios, servicios, evaluación ambiental, de riesgos y financiamiento; ejecución escalonada en los años 2-4.",
+          "Tres espacios polifuncionales.",
+          "Proyecto de vivienda de interés social (unas 200 unidades), sujeto a estudio de demanda, suelo, riesgo y modelo financiero."
+        ]},
+        { "titulo": "Propuesta 4 · Rumiñahui productivo y emprendedor", "items": [
+          "Estudio de mercado y modelo del mercado mayorista; construcción y operación en los años 2-4.",
+          "Diagnóstico productivo, convenios financieros y pilotos.",
+          "Asistencia técnica, crédito, ferias, marca, innovación y bolsa de empleo.",
+          "Financiamiento de emprendimientos y acompañamiento a proyectos de mujeres sobrevivientes de violencia; 200 emprendimientos apoyados; 300 productores en circuitos cortos; centro de servicios empresariales."
+        ]},
+        { "titulo": "Propuesta 5 · Rumiñahui verde, circular y resiliente", "items": [
+          "Estación de transferencia de residuos dimensionada por estudio (horizonte de 3 años).",
+          "Renovación de la flota por fases; rutas; separación en la fuente; centros de acopio; compostaje.",
+          "Formalización de 120-150 recicladores con trazabilidad.",
+          "Restauración de ríos y quebradas por microcuencas; parques; educación ambiental semanal; monitoreo.",
+          "Gestión de riesgos y adaptación climática; tenencia responsable de animales (beneficiarios)."
+        ]},
+        { "titulo": "Propuesta 6 · Municipio eficiente, digital y transparente", "items": [
+          "Año 1: diagnóstico institucional, 10 trámites críticos, arquitectura digital, actualización de la planificación y banco de proyectos.",
+          "Años 2-3: integración de sistemas, certificaciones ISO focalizadas y datos abiertos. Año 4: auditoría y evaluación de impacto.",
+          "Catastro/SIG; actualización de PDOT, PUGS y PEI; control de la regla fiscal.",
+          "Metas: 80 % de trámites trazables; -40 % de tiempo en 10 trámites; 100 % de obras prioritarias con ficha pública; publicación trimestral de la regla fiscal."
+        ]},
+        { "titulo": "Propuesta 7 · Red social integral, educación, salud y deporte", "items": [
+          "2027: auditoría social, depuración de la cartera, reestructuración del talento humano, Observatorio, salud mental y Emprende.",
+          "2028: expansión progresiva de geriatría, centro diurno, odontología y rehabilitación.",
+          "2029-2031: consolidación, evaluación y cobertura territorial.",
+          "Programas: Vital, Rehabilita, Red Activa, Sonríe, Te Acompaña; registro único de beneficiarios; apoyo educativo y deportivo; convenios con MSP, MIES, Educación, Deporte, HAIAM y universidades."
+        ]},
+        { "titulo": "Propuesta 8 · Cultura, patrimonio y turismo sostenible", "items": [
+          "Año 1: inventario actualizado, modelo jurídico, terreno y diseño de rutas.",
+          "Años 2-3: centro chacarero, señalización, formación y activación de productos turísticos; festivales y promoción.",
+          "Año 4: consolidación, comercialización y evaluación de la capacidad de carga.",
+          "Al menos 4 rutas o productos turísticos; programación cultural anual en las parroquias; conservación del patrimonio prioritario."
+        ]},
+        { "titulo": "Objetivos adicionales y rendición de cuentas", "items": [
+          "Objetivo 9: cooperación internacional y asistencia técnica.",
+          "Objetivo 10: gestión integral de riesgos (prevención, mitigación, preparación, respuesta y recuperación).",
+          "Rendición de cuentas: centros de atención y ventanas ciudadanas; asambleas, veedurías y observatorios; páginas web e informes anuales; publicación semestral y anual de indicadores en medios."
+        ]}
+      ],
+      "notas": [
+        "El texto se leyó completo (PDF con texto, sin OCR).",
+        "En la meta de la Propuesta 7, el texto fuente dice '1adultos mayores/año en Vital', con la cifra incompleta en el PDF. No se consignó una cantidad.",
+        "El plan cita la regla fiscal de la reforma del COOTAD como 68 % para 2027 y 70 % desde 2028."
+      ]
+    },
+    {
+      "codFormulario": 6878,
+      "enfoque": "Programa de gobierno amplio con gobernanza multinivel, alianzas público-privadas y cooperación internacional, que incluye un BRT eléctrico Sangolquí–La Marín, nuevas empresas públicas y mixtas, y una mancomunidad del Valle de los Chillos.",
+      "estructura": "3 ámbitos · 7 ejes estratégicos · 12 objetivos específicos · 32 programas · 112 propuestas (según el plan) · matriz plurianual A1-A4",
+      "tabla": {
+        "movilidad": [
+          { "t": "TRAM-VALLE Sangolquí–Quito: BRT con carril preferencial y prioridad semafórica, ruta Sangolquí–La Marín (15 km, 15 minutos), buses eléctricos y concesión por 15 años vía APP o crédito multilateral verde", "v": "baja", "n": "La ruta llega a La Marín, en Quito, fuera de la jurisdicción cantonal, y requiere acuerdo con el DMQ. Además depende de crédito multilateral o APP sin monto declarado." },
+          { "t": "Intercambiadores en El Triángulo, El Colibrí y DANEC (Plan Rediseño Vial del Valle) con financiamiento BDE, CAF o BID", "v": "media", "n": "El Triángulo y la E35 involucran al MTOP y la Prefectura. Depende de crédito y no tiene monto." },
+          { "t": "Recuperar la competencia de tránsito (el GADMUR no tiene control de tránsito, modelo A), crear la EMTTSVM y una Terminal Terrestre Intermodal", "v": "media", "n": "Es competencia municipal, pero asumir el control de tránsito requiere un proceso ante la ANT y una nueva empresa pública." },
+          { "t": "Recaudo integrado: tarjeta electrónica interoperable, caja común 'Mi Bus' (pago por km), estacionamiento rotativo tarifado (SEROT), subsidio al pasaje estudiantil y reestructuración de rutas", "v": "media", "n": "La regulación del transporte intracantonal es municipal. La caja común requiere acuerdo con 13 operadoras (522 unidades, según el plan)." },
+          { "t": "Estaciones de transferencia intermodal (ESPE y Fuerte Militar San Jorge), semipeatonización del Centro Histórico, bici-rutas, bicicleta compartida y semaforización inteligente", "v": "media", "n": "Son medidas propias. El Fuerte San Jorge es un predio militar y requiere gestión con el Gobierno central." }
+        ],
+        "servicios": [
+          { "t": "Redes y plantas de tratamiento de agua potable y alcantarillado (PTAR)", "v": "media", "n": "Es competencia municipal, pero el plan no da metas ni montos. Su propio diagnóstico cita un 50,63 % de pérdidas de agua y descargas sin tratamiento." },
+          { "t": "Empresa Pública de Desarrollo Urbano EPDUR (agua, alcantarillado, vivienda y servicios exequiales)", "v": "media", "n": "Reorganizar la prestación es una facultad municipal, pero crear la empresa requiere ordenanza y no resuelve por sí misma el financiamiento." }
+        ],
+        "ambiente": [
+          { "t": "Eco Parque Industrial: gestión integral de residuos sólidos (GIRS), con APP o empresa mixta y gestión mancomunada", "v": "media", "n": "Los residuos son competencia municipal. El diagnóstico señala que el cantón no tiene relleno propio; depende de una APP o de la mancomunidad." },
+          { "t": "Paisajismo urbano y corredores de sombra para elevar el índice verde de 6,62 a 9 m²/hab; reforestación y restauración de áreas protegidas", "v": "media", "n": "El espacio verde urbano es propio. La meta implica ampliar áreas verdes de forma importante." },
+          { "t": "Centro de rescate y albergue animal, censo, esterilización, patrulla canina y ordenanza de maltrato animal", "v": "alta", "n": "La fauna urbana es competencia municipal." }
+        ],
+        "urbano": [
+          { "t": "Mancomunidad del Valle de los Chillos para suelo, residuos, tránsito y seguridad vial; conurbación metropolitana; nuevas centralidades", "v": "baja", "n": "Seis de esas parroquias pertenecen al DMQ, así que la mancomunidad requiere voluntad del Municipio de Quito, sin mecanismo claro." },
+          { "t": "Revitalizar el Centro Histórico, plazas, estadio y urbanismo táctico; restaurar fachadas, soterrar cables e iluminar el CH", "v": "media", "n": "El patrimonio y el espacio público son propios. El soterramiento requiere coordinar con la CNEL." },
+          { "t": "Banco de suelo municipal, bolsa inmobiliaria de vivienda, regularización de asentamientos y mejoramiento integral de barrios", "v": "media", "n": "Uso de suelo y regularización son propios. La vivienda depende de alianzas con privados y el BDE." },
+          { "t": "Nuevos equipamientos: mercados saludables, centro de atención ciudadana del Ejecutivo, hospital del día y cementerio", "v": "media", "n": "El cementerio y los mercados son municipales. El hospital del día depende del MSP." }
+        ],
+        "seguridad": [
+          { "t": "Rumiñahui Seguro: C4, rayos X móvil, drones, data center, patrullas 4x4 blindadas, motos, ambulancias, bodycams, cámaras PTZ con IA y reconocimiento facial, y arcos lectores de placas en los 5 accesos", "v": "baja", "n": "La seguridad ciudadana es nacional. Patrullas blindadas y escáneres son equipamiento policial, fuera de la competencia municipal, y no hay monto." },
+          { "t": "Observatorio del Delito, canal de denuncia anónima contra 'vacunadores', app con botón de pánico, alarmas comunitarias y mejora de UPC", "v": "media", "n": "El municipio puede apoyar y coordinar, pero la investigación del delito es de la Policía y la Fiscalía." },
+          { "t": "Barrios Vivos (iluminación LED y recuperación de espacios), corredores de paz escolares y nodos de conectividad rural", "v": "alta", "n": "El espacio público y la prevención situacional son del ámbito municipal." },
+          { "t": "Plan Cantonal de Riesgos (lahares del Cotopaxi, inundaciones, sismos, incendios) y Estrategia de Adaptación al Cambio Climático", "v": "alta", "n": "La gestión de riesgos es competencia municipal." }
+        ],
+        "social": [
+          { "t": "Casa de acogida para mujeres violentadas, casa intergeneracional y centro de rehabilitación de adicciones", "v": "media", "n": "Protección de derechos con el MIES. La rehabilitación de adicciones es competencia del MSP." },
+          { "t": "Ciudad amiga de la infancia, centros de cuidado infantil comunitarios, becas universitarias (ESPE) y convenios con universidades", "v": "media", "n": "Son programas complementarios. La educación es nacional." },
+          { "t": "Atención prehospitalaria, lactarios, banco de leche humana y banco de alimentos", "v": "media", "n": "El banco de leche humana es un servicio de salud especializado del MSP." },
+          { "t": "Ciudad Deportiva del Valle, FONDEPORTE público-privado, escuelas deportivas, festival internacional de ciclismo, wifi público, tablets e IA para estudiantes", "v": "media", "n": "La infraestructura deportiva es municipal. Los montos no se declaran y varios proyectos dependen de privados." }
+        ],
+        "economia": [
+          { "t": "Agenda Industrial 4.0, parque tecnológico, clústeres asociados, ZEDE-R (zona franca) y centro de convenciones", "v": "baja", "n": "Las ZEDE las autoriza el Gobierno nacional. No hay monto y depende de una APP." },
+          { "t": "Incubadora de MIPYMES, economía popular y solidaria (banca comunal, ferias, huertas) y ferias de empleo", "v": "alta", "n": "Es fomento productivo local de escala acotada." },
+          { "t": "Cuota de empleo juvenil del 28 % en términos de referencia y pliegos de contratación, y convenios de pasantías", "v": "media", "n": "Su incorporación en los pliegos debe ajustarse a la LOSNCP y a la normativa del SERCOP." },
+          { "t": "Marca ciudad, plan de turismo 'Pueblo Mágico', rutas turísticas (Pasochoa, haciendas, cascadas, Cápac Ñan), app turística y mausoleo Juan Salinas", "v": "alta", "n": "La promoción turística y el patrimonio están dentro del ámbito municipal." }
+        ],
+        "gobierno": [
+          { "t": "Plan estratégico, nueva arquitectura institucional, empresas mixtas EMTTSVM y EMSM, y Agencia de Cooperación e Inversión (AGECI)", "v": "media", "n": "Es organización institucional propia, pero varias empresas nuevas elevan el gasto. El plan afirma cumplir la regla fiscal 70/30." },
+          { "t": "Gobierno electrónico con 100 % de servicios en línea, chatbot 'Rumi Go' y ventanilla única", "v": "alta", "n": "Son servicios municipales. El diagnóstico parte de 6 servicios en línea." },
+          { "t": "Código legislativo municipal (codificación de ordenanzas)", "v": "alta", "n": "Es facultad del Concejo. El diagnóstico menciona 222 ordenanzas por revisar." },
+          { "t": "Gobierno abierto, gestión por resultados 'Rumiñahui cómo vamos', presupuesto participativo, escuela de gobernabilidad y cátedra de la ciudad", "v": "alta", "n": "La participación y la transparencia son competencias propias." }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "Gobierno electrónico: 100 % de servicios en línea.",
+        "BRT Sangolquí–La Marín: 15 km con 15 minutos de viaje; electrificación de la flota en 3 a 5 años; concesión por 15 años.",
+        "Índice verde urbano: subir a 9 m²/hab (línea base de 6,62 m²/hab).",
+        "Arcos lectores de placas en los 5 accesos del cantón.",
+        "Cuota de empleo juvenil del 28 % en las contrataciones.",
+        "Agenda cultural de 52 eventos al año.",
+        "Las demás metas son cronogramas A1-A4 sin cifras."
+      ],
+      "inversion": "Sin montos totales ni por proyecto. Las fuentes declaradas son recursos propios, transferencias del PGE, cooperación (JICA, GIZ, BID, BCIE, UNESCO, UNICEF, IICA, ONU-Hábitat), crédito multilateral y concesional, APP y empresas mixtas, contribuciones especiales de mejoras, tasas, posibles bonos municipales y aportes de la Mancomunidad. Todo proyecto de más de USD 500.000 tendría un análisis de impacto fiscal a 10 años.",
+      "primeros100": null,
+      "detalle": [
+        { "titulo": "Diagnóstico (datos citados por el plan)", "items": [
+          "Superficie de 135,45 km²; 2 parroquias rurales (Rumipamba, Cotogchoa) y 4 urbanas; 107.904 habitantes (Censo 2022).",
+          "Ejecución presupuestaria 2023 del 55,27 %; presupuesto participativo 2023 con 6,71 % de ejecución; ICO de 22,61/30 (2022); 977 servidores.",
+          "Tasa de homicidios de 8,86 por 100.000 habitantes; 337 denuncias de violencia de género (2023); inseguridad como principal problema (64,8 %).",
+          "Agua: cobertura del 96,45 %, pérdidas del 50,63 % y 32,3 km de tubería de asbesto cemento obsoleta. Aguas servidas descargadas sin tratamiento a los ríos Pita, Santa Clara, San Pedro, Capelo y otros; 321 descargas; 25 PTAR que no cumplen la norma.",
+          "81 % de la red vial urbana en mal estado; 198,8 km de vías rurales (61 % en mal estado); E35 a 7 km/h en hora pico; 28 puntos de inseguridad vial y 13 intersecciones conflictivas; el GADMUR no tiene control de tránsito (modelo A); 13 operadoras con 522 unidades.",
+          "El cantón no tiene relleno sanitario; índice verde de 6,62 m²/hab; cementerio saturado; sin programas de vivienda social; 349 bienes patrimoniales inventariados (87,7 % deteriorados)."
+        ]},
+        { "titulo": "Eje 1 · Buen gobierno, transparencia y gestión pública", "items": [
+          "Rumiñahui Eficiente: plan estratégico institucional; nueva arquitectura institucional; EPDUR (agua, alcantarillado, vivienda y servicios exequiales); empresas de economía mixta EMTTSVM (tránsito, transporte, seguridad vial y movilidad) y EMSM (cárnicos, residuos y mercados); plan de simplificación administrativa (ventanilla única y digitalización).",
+          "Rumiñahui en un Clic: Agencia de Cooperación e Inversión (AGECI); alianzas público-privadas; gobierno electrónico (100 % de servicios en línea); chatbot 'Rumi Go' para WhatsApp.",
+          "Rumiñahui de Ley: código legislativo municipal (codificación de ordenanzas) y agenda legislativa cantonal.",
+          "Rumiñahui Honesto: Red Gobierno Abierto; gestión por resultados (GpRD) 'Rumiñahui cómo vamos'."
+        ]},
+        { "titulo": "Eje 2 · Ciudadanía activa, inclusiva y humana", "items": [
+          "Rumiñahui Seguro: Centro de Control y Comando (C4); rayos X móvil; drones; data center; patrullas pickup 4x4 blindadas y motocicletas; ambulancias; bodycams y GPS; mejora de UPC; alarmas comunitarias y cámaras PTZ con IA y reconocimiento facial; anillo de control con arcos LPR en los 5 accesos (El Colibrí, Autopista GR, Selva Alegre, otros).",
+          "Corredores de Paz (ruta segura escolar y universitaria); Barrios Vivos (iluminación LED inteligente y recuperación de espacios); nodos de conectividad (fibra y microondas rural); Observatorio del Delito; software VMS integrado con la base de datos de la Policía; canal de denuncia anónima contra 'vacunadores'; app Rumiñahui Seguro con botón de pánico.",
+          "Presupuesto participativo; escuela de gobernabilidad; cátedra de la ciudad.",
+          "Inclusión: Agenda Cantonal de Igualdad; casa de acogida para mujeres violentadas; casa intergeneracional; centro multifuncional de rehabilitación de adicciones.",
+          "Rumiñahui Educa: Ciudad Amiga de la Infancia y centros de cuidado infantil comunitarios; becas universitarias (ESPE); convenios con universidades e institutos; atención prehospitalaria y salud preventiva.",
+          "Rumiñahui del Cuidado: talleres de emprendimiento para mujeres con trabajo no remunerado; lactarios; bancos de leche humana.",
+          "Rumiñahui Alimenta: banco de alimentos contra la desnutrición infantil y para madres gestantes.",
+          "Bienestar animal: centro de rescate y albergue municipal; censo, vacunación y esterilización; patrulla canina; ordenanza de maltrato animal."
+        ]},
+        { "titulo": "Eje 3 · Innovación productiva y sostenible", "items": [
+          "Rumiñahui Tecnológico: Agenda Industrial 4.0; clúster tecnológico (I+D+i) y parque tecnológico; clústeres asociados (Valle del Juguete, textil, plástico, metal, artes gráficas, mueble, alimentación, envases, cerámica); ZEDE-R (parque industrial o zona franca); centro de convenciones, ferias y exposiciones.",
+          "Incubadora de MIPYMES.",
+          "Rumiñahui Cosecha Solidaria: economía popular y solidaria (banca comunal, canasta solidaria, agricultura urbana, ferias del campo a la mesa, huertas agroecológicas).",
+          "Rumiñahui Raíces con Futuro: cuota de empleo juvenil del 28 % en pliegos; convenios de pasantías y contrato juvenil; ferias de empleo."
+        ]},
+        { "titulo": "Eje 4 · Planificación para el desarrollo", "items": [
+          "Rumiñahui 2050: Mancomunidad El Valle; conurbación metropolitana; nuevas centralidades urbanas; Sistema de Información Local.",
+          "Rumiñahui ReGenera: plazas, estadio, revitalización del CH, urbanismo táctico.",
+          "Rumiñahui Regula: mercado de suelo y vivienda; banco de suelo municipal; bolsa inmobiliaria de vivienda (mejoramiento, 'tu casa por tu arriendo').",
+          "Rumiñahui Transforma Barrios: mejoramiento integral (hábitat, vivienda, servicios, espacios públicos); regularización de asentamientos; plan de obras emergentes.",
+          "Nuevos equipamientos: mercados saludables; centro de atención ciudadana del Ejecutivo desconcentrado; hospital del día; cementerio."
+        ]},
+        { "titulo": "Eje 5 · Territorio resiliente, sano y seguro", "items": [
+          "Rumiñahui Resiliente: Plan Cantonal de Riesgos (lahares del Cotopaxi, inundaciones, sismos, deslizamientos, incendios forestales); Estrategia de Adaptación al Cambio Climático.",
+          "Rumiñahui Verde: paisajismo urbano y corredor de sombra (índice verde a 9 m²/hab); reforestación y restauración de áreas protegidas.",
+          "Eco Parque Industrial: gestión integral de residuos sólidos (GIRS).",
+          "Ampliar y mejorar la infraestructura básica: redes y plantas de tratamiento de agua potable y alcantarillado (PTAR)."
+        ]},
+        { "titulo": "Eje 6 · Movilidad eficiente, sustentable y multimodal", "items": [
+          "TRAM-VALLE Sangolquí–Quito: BRT con carril preferencial, ruta Sangolquí–La Marín (15 km, 15 minutos), buses eléctricos de alta montaña (desnivel de 530 m en 15 km), crédito multilateral verde (BID o Banco Mundial) o APP con concesión por 15 años; electrificación de la flota en 3 a 5 años.",
+          "Estaciones de transferencia intermodal: ESPE (nodo educativo) y Fuerte Militar San Jorge, ex Grupo Yaguachi (nodo rural).",
+          "Integración multimodal del sistema de recaudo: reestructuración de rutas; estacionamiento rotativo tarifado (SEROT); caja común 'Mi Bus' (pago por km); tarjeta interoperable; subsidio al pasaje estudiantil.",
+          "Plan Rediseño Vial del Valle: intercambiadores en El Triángulo, Colibrí y DANEC; rediseño geométrico, semaforización inteligente ('ola verde') y señalética.",
+          "Movilidad urbana: semipeatonización del Centro Histórico; red de bici-rutas; sistema de bicicleta compartida con app; urbanismo táctico."
+        ]},
+        { "titulo": "Eje 7 · Ciudad inteligente, cultural, patrimonial y turística", "items": [
+          "TIC: plan estratégico tecnológico; red pública wifi; ciudadano inteligente (alfabetización digital); tablets para estudiantes de colegio; capacitación en IA.",
+          "Rumiñahui Deportivo y Recreativo: festival internacional de ciclismo de aventura; Ciudad Deportiva del Valle; FONDEPORTE (fondo público-privado de mantenimiento); escuelas deportivas; campamentos vacacionales; bailoterapias y ciclovías recreativas.",
+          "Rumiñahui Destino Turístico: marca ciudad (concurso internacional); plan de turismo y marketing 'Rumiñahui Pueblo Mágico del Ecuador'; rutas (Pasochoa, haciendas, ruta libertaria, cascadas, Cápac Ñan, iglesias, fiestas del maíz); mausoleo Juan Salinas; app turística.",
+          "Rumiñahui Cultural: escuela integrada de artes; bienal de las artes; agenda cultural (52 eventos al año); Centro Cultural Kigman; salvaguardia del patrimonio inmaterial; fondos concursables.",
+          "Rumiñahui Patrimonial: Encuentro Nacional de las Letras; restauración del CH de Sangolquí y de las parroquias rurales (fachadas y cubiertas, soterramiento, iluminación); ordenanza de incentivos fiscales patrimoniales; reforma parcial del PUGS (PIT CHQ)."
+        ]},
+        { "titulo": "Planificación administrativa y financiera", "items": [
+          "Cronograma: mayo-diciembre de 2027 para diagnósticos, estudios y convenios; 2028-2029 para escalamiento y lanzamiento de APP; 2029-2030 para ejecución de obras mayores con financiamiento; 2030-2031 para consolidación y operación de grandes activos.",
+          "Sostenibilidad: tasas diferenciadas (agua, saneamiento, residuos, terminales) con subsidios focalizados; Fondo Ambiental y de Resiliencia; modelo financiero APP o empresa mixta; incentivos fiscales temporales.",
+          "Riesgo fiscal: cumplir la regla fiscal 70/30 del COOTAD; respetar los límites de endeudamiento y priorizar APP y cooperación no reembolsable; PMO y gerencias técnicas.",
+          "Contratación: manual de procesos; licitaciones internacionales supervisadas por la AGECI; PAC publicado trimestralmente.",
+          "Transparencia: portal de gobierno abierto; auditorías externas anuales; observatorio ciudadano con dashboards; informe anual de sostenibilidad fiscal.",
+          "Talento: capacitación en APP y licitaciones; perfiles críticos (AGECI, PMO, gestor de APP)."
+        ]},
+        { "titulo": "Rendición de cuentas", "items": [
+          "Gobierno abierto, web institucional y GPR; asamblea ciudadana cantonal; audiencias públicas; veedurías; observatorio ciudadano; presupuestos participativos; rendición de cuentas; redes sociales y medios."
+        ]}
+      ],
+      "notas": [
+        "El archivo de texto viene de OCR. Las páginas de la matriz plurianual (PDF págs. 37-59) estaban rotadas y el OCR original salió ilegible. Se volvieron a renderizar con la orientación corregida y se pasaron de nuevo por OCR (tesseract, español). Las págs. 45, 47, 49, 51, 53, 57 y 59 se verificaron contra la imagen.",
+        "BRT verificado en la imagen de la pág. 51: ruta de 15 km, 15 minutos y desnivel de 530 m en 15 km.",
+        "Agenda cultural verificada en la imagen de la pág. 57: '52 eventos al año' (el OCR leía 'al 80').",
+        "La meta de índice verde de 9 m²/hab se verificó en la imagen de la pág. 49.",
+        "Algunos nombres de programas del eje 2 (págs. 41-43) no se distinguen bien en el OCR. Los proyectos se listaron igual.",
+        "El plan no trae montos ni agenda de primeros 100 días."
+      ]
+    },
+    {
+      "codFormulario": 3807,
+      "enfoque": "Plan técnico centrado en completar y auditar obras heredadas (Cóndor Machay, San Antonio de Pasochoa, videovigilancia, parqueadero El Aguacate) y en elevar la ejecución de la inversión antes de anunciar obras nuevas.",
+      "estructura": "6 ejes · 6 programas emblemáticos · matriz plurianual en 4 fases · matriz financiera · 8 acciones de primeros 100 días",
+      "tabla": {
+        "movilidad": [
+          { "t": "Inventariar el 100 % de la red vial en 2027 y aplicar mantenimiento preventivo por condición (bacheo, drenaje, señalización) operativo desde 2028", "v": "alta", "n": "La vialidad urbana es competencia municipal. La meta es de gestión y se puede verificar." },
+          { "t": "Centro caminable: aceras, cruces y accesibilidad; 100 % de entornos críticos con intervención o programación", "v": "alta", "n": "Espacio público y vialidad urbana propios." },
+          { "t": "Optimizar el parqueadero El Aguacate e integrarlo al estacionamiento regulado (SIERT) antes de nueva infraestructura", "v": "alta", "n": "Gestiona un activo municipal existente a bajo costo." },
+          { "t": "Mesas interinstitucionales con Quito y la Prefectura para corredores metropolitanos", "v": "media", "n": "Los corredores hacia Quito (Autopista, E35) no son municipales. La Solución Vial Bicentenario es de la Prefectura (más de USD 350 M)." }
+        ],
+        "servicios": [
+          { "t": "Completar, probar y poner en servicio Cóndor Machay antes de diseñar una segunda etapa", "v": "alta", "n": "Es competencia propia. El proyecto está en ejecución con crédito BDE/BEI y unos USD 8 M, según la rendición de cuentas 2025." },
+          { "t": "Alcantarillado y PTAR de San Antonio de Pasochoa: resolver predio, permisos y estudios antes de contratar", "v": "media", "n": "Es competencia municipal, pero depende de un habilitante predial crítico y de financiamiento." },
+          { "t": "Ríos Vivos Rumiñahui: catastro y caracterización del 100 % de las descargas priorizadas y soluciones por subcuenca", "v": "media", "n": "El saneamiento es municipal. El plan evita prometer la eliminación total; la rendición de cuentas 2025 reporta 33 descargas identificadas por la DAPA." },
+          { "t": "Agua inteligente: micromedición, control de pérdidas y planes de operación y mantenimiento para el 100 % de los sistemas priorizados", "v": "alta", "n": "Gestión operativa propia de la DAPA." }
+        ],
+        "ambiente": [
+          { "t": "Recuperación de ríos y quebradas por subcuenca y publicación de calidad del agua y desempeño de plantas", "v": "media", "n": "Depende de las obras de saneamiento. El eje de agua y ríos está costeado en USD 40 M (USD 24 M de aporte municipal)." }
+        ],
+        "urbano": [
+          { "t": "Control del uso del suelo y de los riesgos con procedimientos transparentes", "v": "alta", "n": "El uso del suelo es competencia municipal." },
+          { "t": "Mejorar equipamientos municipales con plan de uso y mantenimiento (100 % de los intervenidos con plan de operación y mantenimiento)", "v": "alta", "n": "Infraestructura municipal propia." }
+        ],
+        "seguridad": [
+          { "t": "Auditar cámaras, alarmas y conectividad; tercera etapa tecnológica solo para brechas demostradas; al menos 90 % de disponibilidad de la red priorizada", "v": "alta", "n": "Mantener la tecnología de apoyo es municipal. Las metas son de disponibilidad y no de reducción del delito, que es competencia nacional." },
+          { "t": "Recuperar el 100 % de los puntos críticos priorizados con iluminación, poda y control municipal", "v": "alta", "n": "Espacio público propio." },
+          { "t": "Mapa de riesgos, protocolos para el 100 % de las amenazas prioritarias, fortalecimiento de Bomberos y simulacros", "v": "alta", "n": "La gestión de riesgos y los bomberos son competencias municipales." }
+        ],
+        "social": [
+          { "t": "Red de Bienestar y Juventud: salud preventiva con derivación mediante convenios (al menos 8 convenios estratégicos), formación digital y liderazgo juvenil", "v": "media", "n": "Complementa al MSP y el MINEDUC sin sustituirlos. El eje está costeado en USD 10 M." },
+          { "t": "Cultura, Maíz Chillo, deporte y escuelas con escenarios de uso programado", "v": "alta", "n": "Cultura y espacios deportivos dentro del ámbito municipal." }
+        ],
+        "economia": [
+          { "t": "Rumiñahui Emprende: acompañar al menos a 600 negocios, reducir al menos 30 % el tiempo de los trámites priorizados y lograr un aumento de ventas de al menos 10 % en la muestra apoyada", "v": "media", "n": "La simplificación de trámites es propia. El efecto en ventas depende del mercado." },
+          { "t": "Mercados vivos (operación, sanidad, logística) y al menos 5 rutas o productos turísticos (Centro, gastronomía, Maíz Chillo, naturaleza)", "v": "alta", "n": "Los mercados y la promoción turística son municipales." },
+          { "t": "Cóndor Machay y Vilatuña por etapas: resolver accesos, propiedad y ambiente antes de escalar", "v": "media", "n": "El propio plan reconoce condicionantes de propiedad y jurisdicción." }
+        ],
+        "gobierno": [
+          { "t": "Elevar la ejecución de la inversión del 43-44 % reciente a al menos 70 % en 2028 y al menos 80 % desde 2029", "v": "media", "n": "La línea base coincide con el 43,48 % de inversión devengada en 2025 que reporta la rendición de cuentas. Duplicar la ejecución es una meta ambiciosa." },
+          { "t": "Banco Cantonal de Proyectos con al menos USD 30 M al año de cartera madura y cronograma anual de contratación", "v": "media", "n": "Es una facultad propia. Equivale a más de la mitad de la inversión codificada en 2025 (USD 59,8 M)." },
+          { "t": "Tablero público mensual con 100 % de proyectos, contratos y avances publicados; al menos 70 % de trámites de alta demanda digitalizados", "v": "alta", "n": "Transparencia y servicios municipales." },
+          { "t": "Reconstruir la serie de inversión municipal 2006-2026 con metodología comparable", "v": "alta", "n": "Es un ejercicio administrativo interno." }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "Agua y ríos: Cóndor Machay puesto en servicio y evaluado; 100 % de los sistemas priorizados con plan de operación y mantenimiento; 100 % de las descargas priorizadas caracterizadas y las críticas con solución ejecutada o programada.",
+        "Movilidad: 100 % de la red vial inventariada en 2027; mantenimiento preventivo operativo desde 2028; 100 % de las aceras y entornos críticos con intervención o programación; más ocupación de El Aguacate.",
+        "Seguridad: al menos 90 % de disponibilidad de cámaras y alarmas en la red priorizada; 100 % de los puntos críticos intervenidos; protocolos para el 100 % de las amenazas prioritarias; 100 % de los sectores con alarmas capacitados.",
+        "Bienestar: al menos 8 convenios estratégicos; 100 % de los equipamientos intervenidos con plan de operación y mantenimiento.",
+        "Economía: al menos 600 negocios acompañados; reducción de al menos 30 % en el tiempo de trámites; al menos 5 rutas o productos; aumento de ventas de al menos 10 % en la muestra apoyada.",
+        "Gobierno: ejecución de la inversión de al menos 70 % (2028) y al menos 80 % (desde 2029); 100 % de proyectos publicados; cartera madura de al menos USD 30 M al año; al menos 70 % de trámites digitalizados."
+      ],
+      "inversion": "Costos referenciales 2027-2031: agua, saneamiento y ríos USD 40 M (USD 24 M del GAD, hasta USD 10 M de BDE, USD 2 M de cooperación, USD 4 M de cofinanciamiento); movilidad y espacio público USD 28 M (USD 20 M del GAD, hasta USD 5 M de BDE); seguridad y riesgos USD 12 M; bienestar USD 10 M; economía, turismo y patrimonio USD 9 M; gobierno y preinversión USD 11 M en la matriz financiera (USD 4 M en el texto del eje 6). Total según la matriz: USD 110 M, de los cuales USD 75 M son aporte del GAD.",
+      "primeros100": [
+        "Auditoría de obras, contratos, empresas y obligaciones heredadas.",
+        "Reconstrucción del registro histórico de inversión municipal 2006-2026.",
+        "Informe integral de Cóndor Machay (avance, puesta en servicio, presión, continuidad).",
+        "Ruta jurídica, predial, ambiental y presupuestaria para San Antonio de Pasochoa.",
+        "Catastro y clasificación de las descargas hacia ríos y quebradas.",
+        "Auditoría de cámaras, alarmas, conectividad y respuesta del sistema de seguridad.",
+        "Evaluación de la operación del parqueadero El Aguacate y su integración con el SIERT.",
+        "Banco Cantonal de Proyectos y cronograma anual de contratación."
+      ],
+      "detalle": [
+        { "titulo": "Diagnóstico y obras heredadas", "items": [
+          "Población de 107.904 habitantes (Censo 2022); coberturas de agua y residuos superiores al 99 % y de alcantarillado cercana al 96 %, con brechas de calidad y renovación.",
+          "Presupuesto codificado superior a USD 80 M en 2025; ejecución de la inversión devengada de alrededor del 44 % (2024) y 43 % (2025).",
+          "Decisiones iniciales: completar y poner en servicio Cóndor Machay; completar los habilitantes de San Antonio de Pasochoa; reformular las descargas como programa de cuenca; auditar la videovigilancia y condicionar una tercera etapa; completar la etapa 1 de turismo en Cóndor Machay y Vilatuña; optimizar El Aguacate."
+        ]},
+        { "titulo": "Matriz de priorización y filtro de competencias", "items": [
+          "Prioritarios: agua, saneamiento y ríos; movilidad y espacio público; seguridad preventiva y riesgos; orden territorial y hábitat; economía, turismo y patrimonio. Complementario: salud y educación.",
+          "Clasificación A (directa), B (coordinada), C (gestión e incidencia) y D (fuera de competencia: no contratar Policía ni construir hospitales nacionales)."
+        ]},
+        { "titulo": "Eje 1 · Servicios que funcionan: agua, saneamiento y ríos vivos", "items": [
+          "Auditar y poner en servicio Cóndor Machay antes de una segunda etapa.",
+          "Medir continuidad, presión, calidad, pérdidas, almacenamiento y sectores deficitarios.",
+          "San Antonio de Pasochoa: predio, permisos, estudios y ejecución condicionada.",
+          "Georreferenciar y caracterizar las descargas por riesgo; soluciones por subcuenca (redes, interceptores, tratamiento).",
+          "Agua inteligente: inventario de activos, micromedición, control de pérdidas y planes de operación y mantenimiento.",
+          "Publicar la calidad del agua, el avance del saneamiento y el desempeño de las plantas. Costo: USD 40 M."
+        ]},
+        { "titulo": "Eje 2 · Movilidad, calles y espacio público para la vida", "items": [
+          "Inventariar calles, pavimentos, aceras, drenajes, puentes, paradas, estacionamientos y siniestros.",
+          "Clasificar la red por condición, tráfico, transporte, escuelas, comercio y riesgo.",
+          "Mantenimiento preventivo y drenaje antes de rehabilitaciones mayores.",
+          "Corredores peatonales, accesibilidad universal y entornos escolares y comerciales seguros.",
+          "Evaluar El Aguacate (ocupación, integración con el SIERT).",
+          "Coordinar con Quito y la Prefectura los corredores supracantonales; publicar los tiempos de reparación. Costo: USD 28 M."
+        ]},
+        { "titulo": "Eje 3 · Cantón ordenado, seguro y resiliente", "items": [
+          "Auditar cámaras, alarmas, conectividad, almacenamiento y tiempos de respuesta.",
+          "Tercera etapa tecnológica condicionada a las brechas auditadas; mantenimiento de alarmas y capacitación comunitaria.",
+          "Mapa de riesgos naturales, urbanos y de convivencia; recuperar puntos críticos (iluminación, poda, accesibilidad).",
+          "Fortalecer Bomberos, simulacros, inspecciones y protocolos; control del uso del suelo. Costo: USD 12 M."
+        ]},
+        { "titulo": "Eje 4 · Bienestar, salud preventiva, educación, cultura y deporte", "items": [
+          "Mapear equipamientos y programas; convenios con el MSP, universidades e institutos.",
+          "Jornadas de salud preventiva con derivación; Juventud Rumiñahui (habilidades, emprendimiento, liderazgo y tecnología).",
+          "Cultura e identidad (patrimonio, arte, Maíz Chillo); deporte con escuelas y escenarios programados.",
+          "Medir la continuidad de la participación. Costo: USD 10 M."
+        ]},
+        { "titulo": "Eje 5 · Economía local, empleo, turismo y patrimonio", "items": [
+          "Directorio económico y turístico con línea base.",
+          "Simplificar permisos con tiempos estándar.",
+          "Fortalecer los mercados y el centro de Sangolquí.",
+          "Cóndor Machay y Vilatuña: etapa habilitante (acceso, propiedad, ambiente, seguridad) y siguiente etapa según capacidad de carga.",
+          "Productos de visita de uno y dos días (patrimonio, Maíz Chillo, gastronomía, naturaleza). Costo: USD 9 M."
+        ]},
+        { "titulo": "Eje 6 · Municipio abierto, eficiente y cercano", "items": [
+          "Banco Cantonal de Proyectos con estudios, predios, permisos, costos y fuentes.",
+          "Cronograma anual de contratación; unidad de seguimiento con alertas de retrasos.",
+          "Digitalización de trámites de alto volumen; publicación de presupuesto, contratos, planillas y avances.",
+          "Alcaldía en Territorio con seguimiento trimestral. Costo: USD 4 M (USD 11 M en la matriz financiera)."
+        ]},
+        { "titulo": "Viabilidad, riesgos y rendición de cuentas", "items": [
+          "Semáforo propio: legal y social en verde; técnico, financiero e institucional en amarillo.",
+          "Riesgos considerados: caída de transferencias, predios no resueltos, diseños desactualizados, tecnología sin mantenimiento y cofinanciamiento no obtenido.",
+          "Rendición de cuentas: tablero mensual, informe territorial trimestral, rendición anual, audiencia de mitad de período, veedurías y Alcaldía en Territorio."
+        ]}
+      ],
+      "notas": [
+        "El texto se leyó completo (PDF con texto, sin OCR).",
+        "Hay una discrepancia interna: el eje 6 indica un costo de USD 4 M, pero la matriz financiera asigna USD 11 M a gobierno y preinversión. Con la matriz, el total es de USD 110 M; con los costos de cada eje, de USD 103 M.",
+        "La línea base de ejecución de la inversión (43-44 %) coincide con el 43,48 % de 2025 publicado en la rendición de cuentas del GADMUR."
+      ]
+    },
+    {
+      "codFormulario": 10527,
+      "enfoque": "Banco de 48 proyectos en 9 programas, con énfasis en turismo como motor económico (Centro Histórico, Hacienda San Isidro), soluciones viales en El Triángulo, El Colibrí y San Luis, red de cuidado infantil y gobierno digital.",
+      "estructura": "5 lineamientos del PDOT + 5 problemáticas nuevas · 9 programas estratégicos · 48 proyectos · matriz con 17 metas a 2031",
+      "tabla": {
+        "movilidad": [
+          { "t": "Soluciones integrales en El Triángulo, El Colibrí–Danec y San Luis: 30 % de avance físico y financiero de los proyectos estratégicos", "v": "media", "n": "Son competencias concurrentes con el MTOP y la Prefectura, sin monto. La meta ya es parcial." },
+          { "t": "Plan Integral de Mejoramiento Vial: mejorar el 50 % de la red vial urbana", "v": "media", "n": "La vialidad urbana es propia, pero la meta es amplia frente a una ejecución de la inversión del 43,48 % en 2025." },
+          { "t": "Semaforización inteligente y red de ciclovías", "v": "alta", "n": "El tránsito urbano es competencia municipal." },
+          { "t": "Terminal terrestre cantonal", "v": "media", "n": "Sin estudios ni monto declarados." }
+        ],
+        "servicios": [
+          { "t": "Plan Maestro de Agua Potable y Alcantarillado: 95 % de viviendas conectadas al alcantarillado por parroquia (Rumipamba parte de 68,8 % y Cotogchoa de 84,4 %)", "v": "media", "n": "Es competencia municipal, pero cerrar la brecha rural requiere crédito BDE y no hay monto." },
+          { "t": "Agua segura: 99,9 % de viviendas con agua potable segura, priorizando Rumipamba", "v": "alta", "n": "Es competencia propia. El proyecto Cóndor Machay en curso (BDE/BEI) abastecerá los sistemas de La Moca-Rumipamba." },
+          { "t": "Plan Integral de Saneamiento: 30 % de las intervenciones prioritarias ejecutadas", "v": "alta", "n": "Meta acotada dentro de la competencia de depuración de aguas." }
+        ],
+        "ambiente": [
+          { "t": "Parque Lineal del Río San Pedro", "v": "media", "n": "Es espacio público municipal, pero la recuperación del cauce requiere al MAATE y no tiene monto." },
+          { "t": "Recuperación de ríos y quebradas, programa de reforestación y corredores verdes", "v": "media", "n": "Concurrente con el MAATE y la Prefectura." },
+          { "t": "Red de parques: 60 % de espacio público recuperado o creado por habitante en las parroquias deficitarias (San Pedro de Taboada tiene 4,25 m²/hab)", "v": "media", "n": "Es competencia propia. La redacción de la meta es ambigua." }
+        ],
+        "urbano": [
+          { "t": "Recuperación integral del Centro Histórico y de la Hacienda San Isidro como polo turístico, gastronómico y cultural", "v": "media", "n": "El patrimonio es municipal. Depende de convenios con MINTUR, INPC o una APP, sin monto." },
+          { "t": "Nuevo mercado cantonal o modernización del Mercado El Turismo: estudios y 20 % de avance físico", "v": "media", "n": "Los mercados son municipales y la meta es parcial." },
+          { "t": "Ordenamiento, regularización y consolidación urbana compatible con el PUGS", "v": "alta", "n": "El uso del suelo es competencia propia." }
+        ],
+        "seguridad": [
+          { "t": "Centro inteligente de seguridad, videovigilancia integrada, alarmas comunitarias inteligentes y corredores escolares seguros: 60 % de las zonas priorizadas cubiertas", "v": "media", "n": "La seguridad es nacional. El municipio aporta tecnología y coordina con el ECU 911 y la Policía." },
+          { "t": "Iluminación preventiva inteligente", "v": "alta", "n": "Espacio público municipal, en coordinación con la CNEL." },
+          { "t": "Sistema cantonal de gestión de riesgos y alerta temprana en el 100 % de las zonas priorizadas (16.546 predios urbanos en la franja de lahares)", "v": "alta", "n": "La gestión de riesgos es competencia municipal." }
+        ],
+        "social": [
+          { "t": "Red de centros infantiles con horario de 07:00 a 17:30 y Sistema Cantonal de Cuidados", "v": "media", "n": "El desarrollo infantil es concurrente con el MIES. Requiere personal y operación permanentes, sin monto." },
+          { "t": "Centro Integral para la Mujer, red de atención al adulto mayor y programa para personas con discapacidad", "v": "media", "n": "Protección de derechos con el MIES." },
+          { "t": "Gestión para un hospital cantonal (convenio MSP–Municipio–BDE)", "v": "baja", "n": "La infraestructura y la gestión hospitalaria corresponden al MSP. El municipio solo puede gestionar." },
+          { "t": "Brigadas médicas permanentes y programa de salud mental", "v": "media", "n": "Complementan al MSP." },
+          { "t": "Red de museos y centros culturales y agenda permanente de cultura", "v": "alta", "n": "La cultura está dentro del ámbito municipal." }
+        ],
+        "economia": [
+          { "t": "Marca 'Rumiñahui Destino', rutas de los Libertadores, del Chagra y de cascadas y senderos, mercado gastronómico y artesanal, y agenda de eventos", "v": "alta", "n": "La promoción turística y el patrimonio son municipales." },
+          { "t": "Agencia de Atracción de Inversiones, polo empresarial, parque tecnológico y centro de innovación", "v": "media", "n": "Depende de la inversión privada y de la academia." },
+          { "t": "Bolsa de empleo, Escuela Municipal del Emprendedor e incorporar al 50 % de los comerciantes autónomos a procesos de regularización (205 a 411 en el CH)", "v": "alta", "n": "Regular el comercio en el espacio público es competencia municipal." }
+        ],
+        "gobierno": [
+          { "t": "Gobierno digital, ventanilla única y plataforma de atención: 80 % de los trámites prioritarios en línea", "v": "alta", "n": "Son servicios municipales. La redacción de la meta mezcla el 40 % y el 80 %." },
+          { "t": "Unidad de Grandes Proyectos (PMO): 200 proyectos con estudios completos y financiamiento gestionado", "v": "baja", "n": "200 proyectos con estudios completos es una cifra desproporcionada frente a una inversión devengada de USD 26 M en 2025." },
+          { "t": "Observatorio cantonal de datos con el 100 % de indicadores estratégicos, portal de datos abiertos y tablero de cumplimiento del plan", "v": "alta", "n": "Transparencia propia." },
+          { "t": "Oficina de cooperación, modernización de empresas públicas y reestructuración orgánica (nuevas direcciones)", "v": "media", "n": "Es organización propia, pero crear direcciones nuevas eleva el gasto corriente." }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "30 % de las intervenciones prioritarias de saneamiento ejecutadas.",
+        "95 % de viviendas conectadas al alcantarillado por parroquia.",
+        "100 % de las zonas priorizadas incorporadas al sistema de alerta y respuesta.",
+        "60 % de espacio público recuperado o creado por habitante (en las parroquias deficitarias).",
+        "Más atractivos y productos turísticos puestos en valor (sin cifra).",
+        "50 % de los comerciantes autónomos incorporados a procesos de regularización.",
+        "20 % de avance físico del nuevo mercado o de la modernización del Mercado El Turismo.",
+        "60 % de las zonas priorizadas cubiertas por el sistema de seguridad.",
+        "Mejorar el 50 % de la red vial urbana.",
+        "30 % de avance físico y financiero de las soluciones de El Triángulo, El Colibrí y San Luis.",
+        "99,9 % de viviendas con agua potable segura.",
+        "40 % de los trámites prioritarios disponibles, 80 % en línea (redacción del plan).",
+        "100 % de los indicadores estratégicos disponibles y actualizados.",
+        "200 proyectos con estudios completos y financiamiento gestionado.",
+        "100 % de las metas reportadas públicamente."
+      ],
+      "inversion": "Sin montos. El Plan de Inversión Multianual marca 'Continuidad' en lugar de valores. Las fuentes son recursos propios (principal), crédito BDE, cooperación reembolsable y no reembolsable, APP, empresas públicas, MTOP, MIES y MAATE.",
+      "primeros100": null,
+      "detalle": [
+        { "titulo": "Diagnóstico (línea base del PDOT 2024-2030 citada)", "items": [
+          "107.904 habitantes (96.647 urbanos y 11.257 rurales); área urbana de 4.355,73 ha.",
+          "Agua por red: 99,1 % (Rumipamba 93,3 %, con vertientes sin tratamiento). Alcantarillado: Sangolquí 96,6 %, Cotogchoa 84,4 %, Rumipamba 68,8 %; 83,73 % de la red es combinada.",
+          "Lahares del Cotopaxi: 16.546 de 38.877 predios urbanos y 159 rurales en zona de riesgo; unos 80 predios de alta vulnerabilidad (La Leticia, Vallecito, La Moca).",
+          "Espacio público de 25,99 m²/hab, con San Pedro de Taboada en 4,25 y Fajardo en 8,39.",
+          "Red vial: 30 % en buen estado y 25 % en mal estado; urbana 39 % buena; rural 4 % buena.",
+          "VAB 2022 de USD 1.234 M (4,32 % de Pichincha); 54 atractivos turísticos; 205 comerciantes autónomos en el CH (411 los domingos); Mercado El Turismo obsoleto.",
+          "Pobreza por NBI del 11,2 % en hombres y 11,6 % en mujeres; en Rumipamba, 28,3 % y 33,3 %."
+        ]},
+        { "titulo": "Programa 1 · Municipio inteligente, transparente y eficiente", "items": [
+          "1 Gobierno Digital Municipal; 2 Ventanilla Única Municipal; 3 Plataforma Integral de Atención Ciudadana; 4 Portal de Datos Abiertos; 5 Unidad de Grandes Proyectos Estratégicos; 6 Agencia de Atracción de Inversiones; 7 Oficina de Cooperación Nacional e Internacional; 8 Modernización de Empresas Públicas."
+        ]},
+        { "titulo": "Programa 2 · Turismo como motor del desarrollo", "items": [
+          "9 Recuperación integral del Centro Histórico; 10 Recuperación de la Hacienda San Isidro; 11 Ruta de los Libertadores; 12 Ruta del Chagra; 13 Ruta de Cascadas y Senderos (articulada al transporte público); 14 Mercado Gastronómico y Artesanal; 15 Marca Ciudad 'Rumiñahui Destino'; 16 Agenda Permanente de Eventos."
+        ]},
+        { "titulo": "Programa 3 · Cantón empresarial y emprendedor", "items": [
+          "17 Cantón Empresarial Rumiñahui; 18 Parque Tecnológico; 19 Centro de Innovación; 20 Bolsa de Empleo Cantonal; 21 Escuela Municipal del Emprendedor; 22 Modernización de Mercados Municipales."
+        ]},
+        { "titulo": "Programa 4 · Gran Plan Integral de Movilidad", "items": [
+          "23 Solución Integral El Triángulo; 24 Solución Integral El Colibrí y Danec; 25 Solución Integral San Luis; 26 Sistema Inteligente de Semaforización; 27 Red de Ciclovías; 28 Terminal Terrestre Cantonal."
+        ]},
+        { "titulo": "Programa 5 · Cantón seguro", "items": [
+          "29 Centro Inteligente de Seguridad; 30 Sistema Integrado de Videovigilancia; 31 Iluminación Preventiva Inteligente; 32 Corredores Escolares Seguros; 33 Alarmas Comunitarias Inteligentes."
+        ]},
+        { "titulo": "Programa 6 · Familias primero", "items": [
+          "34 Sistema Cantonal de Cuidados; 35 Red de Centros Infantiles (07:00-17:30); 36 Centro Integral para la Mujer; 37 Red de Atención al Adulto Mayor; 38 Programa Integral para Personas con Discapacidad."
+        ]},
+        { "titulo": "Programa 7 · Cantón saludable", "items": [
+          "39 Gestión para el Hospital Cantonal; 40 Brigadas Médicas Permanentes; 41 Programa de Salud Mental."
+        ]},
+        { "titulo": "Programa 8 · Cantón verde y resiliente", "items": [
+          "42 Parque Lineal del Río San Pedro; 43 Plan Maestro del Agua; 44 Recuperación de Ríos y Quebradas; 45 Programa de Reforestación.",
+          "Matriz: Sistema Cantonal de Gestión de Riesgos y Alerta Temprana; Programa de Agua Segura; Plan Integral de Saneamiento."
+        ]},
+        { "titulo": "Programa 9 · Cultura, patrimonio e identidad", "items": [
+          "46 Recuperación del Patrimonio Histórico; 47 Red de Museos y Centros Culturales; 48 Agenda Permanente de Cultura e Identidad."
+        ]},
+        { "titulo": "Modelo de gestión", "items": [
+          "Actualizar el reglamento orgánico por procesos. Nuevas unidades: Dirección de Innovación, Gobierno Digital y Ciudad Inteligente; Dirección de Turismo, Desarrollo Económico e Inversiones; Unidad de Grandes Proyectos; Oficina de Cooperación; Observatorio Cantonal de Planificación y Datos. Fortalecimiento de Seguridad y Riesgos y de Participación Ciudadana.",
+          "Articulación multinivel: hospital (MSP, BDE); movilidad (MTOP, Prefectura); Centro Histórico y San Isidro (MINTUR, INPC, privados); cuidados (MIES, MINEDUC); Parque Lineal San Pedro (MAATE, Prefectura, 2028-2031).",
+          "Rendición de cuentas: informe anual; asambleas territoriales; portal de gobierno abierto; tablero digital del plan; presupuesto participativo; informes semestrales; cabildos; veedurías; audiencias públicas."
+        ]}
+      ],
+      "notas": [
+        "El texto se leyó completo (PDF con texto, sin OCR).",
+        "La meta de trámites se transcribe tal cual: '40% de trámites prioritarios disponibles 80 % en línea'. Es ambigua.",
+        "El plan aclara que las metas son referenciales y dependen de la disponibilidad presupuestaria y de convenios.",
+        "La tabla de 'Datos generales' (pág. 3) no tiene texto extraíble."
+      ]
+    },
+    {
+      "codFormulario": 305,
+      "enfoque": "Plan de continuidad de la administración 2023-2027 con cuatro ejes de líneas de acción generales (social, económico, infraestructura y servicios, territorio y ambiente), sin proyectos específicos ni metas.",
+      "estructura": "6 objetivos específicos · 4 ejes · 24 líneas de acción",
+      "tabla": {
+        "movilidad": [
+          { "t": "Continuar implementando el Plan de Movilidad Urbana Cantonal Sostenible (PMUCS)", "v": "alta", "n": "Tránsito y movilidad son competencias municipales y el plan ya existe." },
+          { "t": "Planificación y mantenimiento de la red vial urbana y rural, en coordinación con la Prefectura", "v": "media", "n": "La vialidad urbana es propia. La rural es de la Prefectura, como reconoce el plan." }
+        ],
+        "servicios": [
+          { "t": "Fortalecer las empresas públicas (residuos, Hábitat y Vivienda, Faenamiento) y los servicios municipales", "v": "alta", "n": "Gestión de servicios propios, sin metas concretas." }
+        ],
+        "ambiente": [
+          { "t": "Conservar fuentes hídricas, quebradas y áreas verdes; economía circular y gestión sostenible de residuos", "v": "media", "n": "Es competencia propia, pero formulada sin metas ni proyectos." },
+          { "t": "Bienestar animal: tenencia responsable, control poblacional y atención veterinaria preventiva", "v": "alta", "n": "La fauna urbana es competencia municipal." }
+        ],
+        "urbano": [
+          { "t": "Infraestructura comunitaria y espacio público (mantenimiento, rehabilitación y construcción)", "v": "alta", "n": "Competencia propia, sin cifras." },
+          { "t": "Continuidad y culminación de los proyectos estratégicos iniciados en 2023-2027", "v": "media", "n": "No los identifica. Entre las obras en curso del municipio está Cóndor Machay (unos USD 8 M, crédito BDE/BEI). La inversión de 2025 se ejecutó al 43,48 %." },
+          { "t": "Ordenamiento territorial: actualizar los instrumentos de planificación, consolidar centralidades y renovar áreas consolidadas", "v": "alta", "n": "El uso del suelo es competencia municipal." }
+        ],
+        "seguridad": [
+          { "t": "Fortalecer la prevención, preparación y respuesta ante emergencias y el monitoreo de amenazas", "v": "alta", "n": "La gestión de riesgos y los bomberos son municipales." }
+        ],
+        "social": [
+          { "t": "Atención integral a grupos prioritarios mediante Misión Social y el Consejo Cantonal de Protección de Derechos", "v": "alta", "n": "Protección de derechos dentro del ámbito municipal." },
+          { "t": "Gestionar con el MSP servicios de salud de mayor complejidad en el cantón", "v": "media", "n": "La salud de mayor complejidad es del MSP. El municipio solo gestiona." },
+          { "t": "Cultura, deporte formativo y recreativo, y participación ciudadana", "v": "alta", "n": "Programas municipales." }
+        ],
+        "economia": [
+          { "t": "Promoción turística, fortalecimiento de mercados y ferias, emprendimiento, economía popular y solidaria y desarrollo rural", "v": "media", "n": "Son competencias propias o concurrentes, pero sin acciones concretas ni metas." },
+          { "t": "Cooperación nacional e internacional para financiar proyectos", "v": "media", "n": "Depende de terceros." }
+        ],
+        "gobierno": [
+          { "t": "Municipio Digital: simplificación y automatización de trámites e interoperabilidad", "v": "alta", "n": "Organización de servicios propios." },
+          { "t": "Audiencias públicas, transparencia, seguimiento con indicadores y rendición anual de cuentas", "v": "alta", "n": "Son obligaciones legales del GAD." }
+        ],
+        "otros": []
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "inversion": "Sin montos.",
+      "primeros100": null,
+      "detalle": [
+        { "titulo": "Diagnóstico", "items": [
+          "Afirma avances desde 2023 en infraestructura vial y comunitaria, espacio público, programas sociales, movilidad sostenible, turismo y servicios.",
+          "Retos: crecimiento poblacional, expansión urbana, modernización de la infraestructura, movilidad y fortalecimiento de las empresas públicas (residuos, Hábitat y Vivienda, Faenamiento y Cárnicos), el Registro de la Propiedad y el Cuerpo de Bomberos.",
+          "Fundamenta la continuidad del proyecto de gobierno de 2023-2027."
+        ]},
+        { "titulo": "Objetivos específicos", "items": [
+          "3.1 Fortalecer los servicios públicos municipales.",
+          "3.2 Desarrollo social integral (inclusión, salud preventiva, cultura, deporte, educación no formal, participación).",
+          "3.3 Desarrollo económico local y ordenamiento territorial.",
+          "3.4 Infraestructura pública moderna y movilidad eficiente.",
+          "3.5 Gestión ambiental, resiliencia y sostenibilidad.",
+          "3.6 Fortalecimiento institucional, innovación y transformación digital."
+        ]},
+        { "titulo": "Eje 1 · Desarrollo social, cultural y protección integral de derechos", "items": [
+          "Fortalecimiento de los servicios sociales municipales para grupos de atención prioritaria.",
+          "Salud preventiva y bienestar comunitario; gestión con el MSP de servicios de salud de mayor complejidad e infraestructura sanitaria.",
+          "Cultura, identidad y patrimonio.",
+          "Desarrollo deportivo y recreativo.",
+          "Participación ciudadana y fortalecimiento comunitario.",
+          "Protección integral de derechos (Consejo Cantonal, Juntas Cantonales, Misión Social)."
+        ]},
+        { "titulo": "Eje 2 · Desarrollo económico, productivo y turístico", "items": [
+          "Fortalecimiento del turismo (promoción y articulación regional).",
+          "Comercio local (mercados municipales, ferias, espacios comerciales).",
+          "Emprendimiento y desarrollo productivo (capacitación y asistencia técnica).",
+          "Economía popular y solidaria y cadenas de valor.",
+          "Desarrollo rural y producción agropecuaria.",
+          "Cooperación nacional e internacional para el desarrollo."
+        ]},
+        { "titulo": "Eje 3 · Infraestructura, movilidad y servicios municipales", "items": [
+          "Infraestructura pública comunitaria y espacio público.",
+          "Infraestructura vial urbana y rural con coordinación con la Prefectura.",
+          "Movilidad sostenible: continuidad del PMUCS.",
+          "Servicios públicos municipales: Municipio Digital, simplificación y automatización de trámites, interoperabilidad.",
+          "Seguridad y gestión de riesgos.",
+          "Continuidad y culminación de los proyectos estratégicos de 2023-2027."
+        ]},
+        { "titulo": "Eje 4 · Ordenamiento territorial, ambiente y resiliencia", "items": [
+          "Ordenamiento territorial y gestión del suelo.",
+          "Desarrollo urbano sostenible (espacio público, accesibilidad, renovación urbana).",
+          "Gestión ambiental y conservación del patrimonio natural; economía circular y residuos.",
+          "Cambio climático y gestión integral de riesgos.",
+          "Bienestar animal."
+        ]},
+        { "titulo": "Transparencia y coordinación", "items": [
+          "Audiencias públicas y espacios de participación; acceso a la información; seguimiento y evaluación con indicadores; gobierno digital; rendición anual de cuentas.",
+          "Coordinación con el PND, el PDOT y el PUGS, la Prefectura, las juntas parroquiales, el Gobierno central, la academia, el sector privado y la cooperación."
+        ]}
+      ],
+      "notas": [
+        "El texto viene de OCR y es legible. Se leyó completo (10 páginas).",
+        "El plan no identifica cuáles son los 'proyectos estratégicos' de 2023-2027 a los que da continuidad.",
+        "Según la ordenanza de presupuesto 2026, Fabián Iza Marcillo es el alcalde en funciones. El plan se presenta como continuidad de esa gestión."
+      ]
+    }
+  ]
+}

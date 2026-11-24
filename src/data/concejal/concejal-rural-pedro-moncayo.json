@@ -1,0 +1,146 @@
+{
+  "canton": "PEDRO MONCAYO",
+  "candidatos": [
+    {
+      "codFormulario": 8059,
+      "enfoque": "Plan acotado y verificable: al menos dos iniciativas normativas, dos encuentros territoriales por año y una matriz semestral de seguimiento de servicios rurales.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Presentar al menos dos iniciativas normativas sobre participación rural, ambiente, residuos, uso de suelo o accesibilidad", "v": "alta", "n": "Iniciativa normativa con meta verificable." },
+          { "t": "Matriz semestral de seguimiento de agua, saneamiento, vialidad, residuos y equipamientos rurales", "v": "alta", "n": "Fiscalización verificable." },
+          { "t": "Pedir información sobre metas, presupuesto, contratación y obras y presentar observaciones documentadas", "v": "alta", "n": "Atribución de fiscalización." },
+          { "t": "Vigilar que el presupuesto guarde concordancia con el PDOT y atienda con equidad a las comunidades rurales", "v": "alta", "n": "El Concejo aprueba el presupuesto." }
+        ],
+        "ambiente": [
+          { "t": "Normativa y fiscalización para proteger fuentes de agua, Mojanda, suelos rurales y ecosistemas", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Seguimiento anual a la prevención de riesgos y adaptación climática en parroquias rurales", "v": "alta", "n": "Fiscalización." }
+        ],
+        "economia": [
+          { "t": "Propuestas de producción sostenible, economía popular, ferias y turismo rural", "v": "media", "n": "El concejal solo puede impulsarlas." }
+        ]
+      },
+      "metas": ["Al menos 2 iniciativas normativas en el período; al menos 2 encuentros territoriales por año; matriz semestral de seguimiento."],
+      "notas": []
+    },
+    {
+      "codFormulario": 8138,
+      "enfoque": "Plan centrado en reuniones con comunidades, gestión de obras y programas sociales, con escasa referencia a ordenanzas.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Reuniones periódicas con comunidades rurales, informes de gestión y rendición de cuentas anual", "v": "alta", "n": "Representación de bajo costo." },
+          { "t": "Política de transparencia y gobierno abierto sobre la actividad legislativa y de fiscalización", "v": "alta", "n": "Compromiso propio del concejal." }
+        ],
+        "servicios": [
+          { "t": "Gestión y seguimiento de obras de vialidad rural, agua potable y alcantarillado", "v": "media", "n": "El concejal puede fiscalizar y gestionar; ejecutan la Alcaldía o la Prefectura." }
+        ],
+        "economia": [
+          { "t": "Capacitación, asistencia técnica y articulación para agricultores y emprendedores", "v": "media", "n": "Ejecución de otras instituciones." }
+        ],
+        "social": [
+          { "t": "Espacios de atención para niñez, jóvenes, mujeres, personas con discapacidad y adultos mayores", "v": "baja", "n": "Plantea ejecutar programas sociales." }
+        ],
+        "ambiente": [
+          { "t": "Campañas comunitarias para el cuidado del agua y el suelo", "v": "media", "n": "Acción de sensibilización; los programas los ejecuta la Alcaldía." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 7074,
+      "enfoque": "Plan inscrito para concejales rurales cuya propuesta se redacta como 'concejales urbanos' y se refiere a Tabacundo: ordenanzas de suelo, espacio público y fiscalización de servicios.",
+      "tabla": {
+        "urbano": [
+          { "t": "Ordenanzas de planificación urbana, uso del suelo, construcción y regularización; seguimiento al PDOT y al PUGS", "v": "alta", "n": "Iniciativa normativa y fiscalización." },
+          { "t": "Ordenanzas para recuperar y mantener el espacio público con accesibilidad universal", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "servicios": [
+          { "t": "Fiscalizar la planificación de agua potable, alcantarillado y saneamiento; políticas de residuos y reciclaje", "v": "alta", "n": "Fiscalización." }
+        ],
+        "movilidad": [
+          { "t": "Fiscalizar el mantenimiento vial urbano y promover seguridad vial en zonas escolares y comerciales", "v": "alta", "n": "Fiscalización." }
+        ],
+        "social": [
+          { "t": "Ordenanzas para reducir brechas sociales y proteger el patrimonio arquitectónico y cultural", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "gobierno": [
+          { "t": "Fiscalizar planes, programas y ejecución presupuestaria; rendición de cuentas accesible", "v": "alta", "n": "Función directa del concejal." }
+        ]
+      },
+      "metas": ["Indicadores de proceso: ordenanzas impulsadas y fiscalizaciones realizadas, sin valores meta."],
+      "notas": [
+        "El texto proviene de OCR.",
+        "Aunque se inscribe para concejales rurales, la sección de propuestas habla de 'concejales urbanos' y de la zona urbana de Tabacundo, y unas 24 líneas coinciden literalmente con el plan urbano de la lista 2 (formulario 6920)."
+      ]
+    },
+    {
+      "codFormulario": 2602,
+      "enfoque": "Plan que alinea cada atribución del Concejo con el plan de alcaldía de su movimiento: ordenanzas de agua y saneamiento, fomento productivo, ambiente, y fiscalización de la PMO y del plan de inversión.",
+      "tabla": {
+        "servicios": [
+          { "t": "Ordenanzas y control político para cerrar brechas de agua potable y saneamiento en parroquias rurales", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "ambiente": [
+          { "t": "Normativa ambiental y fiscalización de la conservación de cuencas y páramos", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "economia": [
+          { "t": "Ordenanzas de fomento productivo y fiscalización de programas de economía popular y turismo comunitario", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "social": [
+          { "t": "Ordenanzas y fiscalización de programas de salud preventiva, inclusión y educación no formal", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "gobierno": [
+          { "t": "Comisión de Planificación y Fiscalización de Proyectos con representación rural; reportes periódicos de la PMO al Concejo", "v": "alta", "n": "El Concejo puede crear comisiones y exigir informes." },
+          { "t": "Mesa técnica de articulación con los GAD parroquiales y fiscalización de convenios de cooperación", "v": "alta", "n": "Fiscalización." },
+          { "t": "Aprobar u observar el presupuesto y su liquidación según las metas del plan de inversión", "v": "alta", "n": "Atribución del Concejo." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas propias; se remite a las metas del plan de alcaldía de la lista 79 (formulario 1972)."],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 10815,
+      "enfoque": "Plan con matrices del PIM del plan de alcaldía de su movimiento y metas de concejalía (normativa y fiscalización) por tema; el OCR de las tablas es casi ilegible.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Proyectos de ordenanza, resoluciones, pedidos de información y fiscalización del ejecutivo", "v": "alta", "n": "Función directa del concejal." },
+          { "t": "Impulsar normativa para actualizar el catastro y fiscalizar su ejecución", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "ambiente": [
+          { "t": "Normativa y fiscalización de restauración, conservación y reforestación en parroquias rurales; adaptación climática", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "social": [
+          { "t": "Fiscalizar la atención integral a niñez y adultos mayores con el MIES", "v": "alta", "n": "Fiscalización." }
+        ],
+        "seguridad": [
+          { "t": "Fiscalizar acciones de prevención y seguridad comunitaria", "v": "alta", "n": "Fiscalización." }
+        ]
+      },
+      "metas": ["Metas por tema con indicadores de porcentaje de acciones con seguimiento; ilegibles en el OCR."],
+      "notas": ["El texto proviene de OCR de muy baja calidad; las matrices no se pueden leer con precisión."]
+    },
+    {
+      "codFormulario": 11476,
+      "enfoque": "Plan breve que mezcla fiscalización del presupuesto con gestiones de obra y transporte rural.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Legislar y fiscalizar para que el presupuesto se traduzca en calidad de vida; evaluación anual de impacto", "v": "alta", "n": "Función directa del concejal." }
+        ],
+        "urbano": [
+          { "t": "Regular el uso del espacio público y reducir el crecimiento urbano desordenado en zonas rurales", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "servicios": [
+          { "t": "Ejecución de obras de alcantarillado sanitario en el sector rural", "v": "baja", "n": "Plantea ejecutar obras, función de la Alcaldía." }
+        ],
+        "movilidad": [
+          { "t": "Mesas con compañías de transporte para ampliar rutas de transporte público hacia zonas rurales", "v": "media", "n": "El Concejo regula el tránsito; depende de operadores y del ejecutivo." }
+        ],
+        "ambiente": [
+          { "t": "Fiscalizar la protección del patrimonio natural y cultural", "v": "alta", "n": "Fiscalización." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["El texto proviene de OCR."]
+    }
+  ]
+}

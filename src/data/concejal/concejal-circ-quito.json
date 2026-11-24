@@ -1,0 +1,623 @@
+{
+  "canton": "QUITO",
+  "candidatos": [
+    {
+      "codFormulario": 10602,
+      "enfoque": "Circunscripción 1 (norte). Plan de la alianza del alcalde en funciones con acciones de legislación y fiscalización por ODS: espacio público, transporte, ciclovías y presupuesto.",
+      "tabla": {
+        "urbano": [
+          { "t": "Promover la recuperación y democratización del espacio público y el acceso equitativo a parques", "v": "alta", "n": "Iniciativa normativa en competencia metropolitana." }
+        ],
+        "movilidad": [
+          { "t": "Fiscalizar la calidad y cobertura del transporte municipal y la ampliación de ciclovías y redes peatonales", "v": "alta", "n": "Fiscalización." }
+        ],
+        "social": [
+          { "t": "Legislar con enfoque de no discriminación y fiscalizar la protección social en zonas con más carencias", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "economia": [
+          { "t": "Respaldar con el voto las iniciativas de turismo local y apoyo productivo", "v": "alta", "n": "Atribución del concejal." }
+        ],
+        "gobierno": [
+          { "t": "Fiscalizar la ejecución presupuestaria de la Corporación Municipal y los proyectos estratégicos", "v": "alta", "n": "Fiscalización." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": []
+    },
+    {
+      "codFormulario": 5906,
+      "enfoque": "Circunscripción 1 (norte). Plan con proyectos de fiscalización y tres ordenanzas concretas: inventario de infraestructura de seguridad, reforma integral de movilidad del Código Municipal y control de proyectos inmobiliarios.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Fiscalizar presupuesto, contratación pública y riesgos urbanos del norte", "v": "alta", "n": "Fiscalización." }
+        ],
+        "urbano": [
+          { "t": "Fiscalizar permisos de construcción y ocupación del suelo en zonas de riesgo; ordenanza de control de proyectos inmobiliarios y en espacio público", "v": "alta", "n": "Uso del suelo regulable por ordenanza." },
+          { "t": "Fiscalizar el cumplimiento de la ordenanza del Parque Bicentenario", "v": "alta", "n": "Fiscalización." }
+        ],
+        "seguridad": [
+          { "t": "Ordenanza que exija un inventario público de la infraestructura de seguridad y su priorización presupuestaria; fiscalizar comités barriales", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "movilidad": [
+          { "t": "Ordenanza de reforma integral del articulado de movilidad del Código Municipal articulado al PMDOT; fiscalizar rutas y agentes de tránsito", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "economia": [
+          { "t": "Fiscalizar el acceso a financiamiento para emprendimientos del norte ante ConQuito", "v": "alta", "n": "Fiscalización." }
+        ],
+        "social": [
+          { "t": "Fiscalizar la inclusión social, la violencia de género y la salud mental preventiva", "v": "alta", "n": "Fiscalización." }
+        ]
+      },
+      "metas": ["Ordenanzas presentadas por eje (Trabajo, Orden, Corazón); sin cifras."],
+      "notas": []
+    },
+    {
+      "codFormulario": 3769,
+      "enfoque": "Circunscripción 1 (norte). Plan con ordenanza de trazabilidad de licencias de construcción, defensa del PUGS en barrios residenciales y plan de mantenimiento de parques emblemáticos.",
+      "tabla": {
+        "urbano": [
+          { "t": "Ordenanza de trazabilidad de licencias de construcción y normativa clara de edificabilidad; meta de reducir 40 % los tiempos de trámite", "v": "alta", "n": "Iniciativa normativa; la reducción de tiempos depende de la Secretaría de Territorio." },
+          { "t": "Fiscalizar el cumplimiento del PUGS en barrios consolidados frente a la densificación", "v": "alta", "n": "Fiscalización." }
+        ],
+        "movilidad": [
+          { "t": "Fiscalizar la integración de rutas con el Metro y los estacionamientos; evaluación pública de tiempos de viaje y siniestralidad por corredor", "v": "alta", "n": "Fiscalización verificable." }
+        ],
+        "ambiente": [
+          { "t": "Plan de mantenimiento de La Carolina, Bicentenario, quebradas y arbolado con indicadores; fiscalizar EMASEO, EPMAPS y Parques y Jardines", "v": "media", "n": "La fiscalización es directa; el mantenimiento lo ejecutan las empresas." }
+        ]
+      },
+      "metas": ["Reducir 40 % los tiempos de trámite de licencias."],
+      "notas": []
+    },
+    {
+      "codFormulario": 2839,
+      "enfoque": "Circunscripción 1 (norte). Plan que reproduce el plan de alcaldía de su partido, incluidas sus metas de ejecución (400 parques, 1.000 km de vías, 30.000 empleos).",
+      "tabla": {
+        "urbano": [
+          { "t": "Recuperar 400 parques adicionales y llevar la iluminación LED de espacios públicos de 58 % a 95 %", "v": "baja", "n": "Son metas de ejecución del alcalde; el concejal no ejecuta obra." }
+        ],
+        "movilidad": [
+          { "t": "Rehabilitar 1.000 km de vías y ampliar carriles exclusivos de 92 a 150 km", "v": "baja", "n": "Meta de ejecución que no depende del concejal." }
+        ],
+        "economia": [
+          { "t": "Crear 30.000 empleos y apoyar 25.000 emprendimientos", "v": "baja", "n": "No depende de un concejal." }
+        ],
+        "gobierno": [
+          { "t": "Reforma institucional: simplificación, evaluación del personal y gobierno corporativo de las empresas metropolitanas", "v": "media", "n": "El concejal puede impulsarla; la ejecuta el alcalde." },
+          { "t": "Realizar actos de fiscalización y presentar proyectos de ordenanza", "v": "alta", "n": "Atribuciones del concejal; no detalla cuáles." }
+        ]
+      },
+      "metas": ["Copia las metas del plan de alcaldía del PSC (formulario 567)."],
+      "notas": ["Los tres planes del PSC para las circunscripciones 1, 2 y 3 (formularios 2839, 2869 y 2893) son prácticamente iguales y reproducen el plan de alcaldía de su candidata."]
+    },
+    {
+      "codFormulario": 7963,
+      "enfoque": "Circunscripción 1 (norte). Plan con propuestas concretas y verificables: fiscalizar el Fondo de Seguridad, la extensión del Metro y el intercambiador Rumihurco, y ordenanzas de parques, integración tarifaria y licencia única.",
+      "tabla": {
+        "seguridad": [
+          { "t": "Fiscalizar el Fondo de Seguridad (financiado con el predial) para que priorice cámaras con integración al ECU 911", "v": "alta", "n": "Fiscalización de un fondo municipal." }
+        ],
+        "urbano": [
+          { "t": "Ordenanza de recuperación y mantenimiento de parques, quebradas y paradas; moción para fiscalizar la ordenanza 0352 del Parque Bicentenario", "v": "alta", "n": "Iniciativa normativa y fiscalización." },
+          { "t": "Exigir a la Administración Zonal La Delicia que publique qué obras tienen diseño maduro; cartera pública de servicios para las once parroquias", "v": "alta", "n": "Pedidos de información." }
+        ],
+        "movilidad": [
+          { "t": "Fiscalizar cronograma y financiamiento de la extensión del Metro y exigir hoja de ruta del intercambiador Rumihurco (aclarar USD 2,7 M)", "v": "alta", "n": "Fiscalización concreta." },
+          { "t": "Ordenanza de integración tarifaria y operativa entre Metro, corredores y alimentadores", "v": "alta", "n": "Iniciativa normativa en competencia metropolitana." }
+        ],
+        "economia": [
+          { "t": "Ordenanza de licencia metropolitana única para pequeños negocios con plazo máximo y silencio administrativo; simplificar tasas y patente", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "gobierno": [
+          { "t": "Modernizar el catastro y el registro de la propiedad con trámites en línea; reglas claras para futuras APP", "v": "media", "n": "El concejal impulsa; la implementación es del ejecutivo." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas, pero sus compromisos de fiscalización son concretos."],
+      "notas": []
+    },
+    {
+      "codFormulario": 6254,
+      "enfoque": "Circunscripción 1 (norte). Plan genérico por temas (seguridad, movilidad) con la fórmula 'fortalecer el marco normativo, promover iniciativas y fiscalizar'.",
+      "tabla": {
+        "seguridad": [
+          { "t": "Fortalecer el marco normativo de seguridad y convivencia y fiscalizar la gestión municipal en la materia", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "urbano": [
+          { "t": "Iniciativas para recuperar y mantener espacios públicos y la prevención comunitaria", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "movilidad": [
+          { "t": "Marco normativo para movilidad segura e inteligente y uso de tecnología en el tránsito", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": []
+    },
+    {
+      "codFormulario": 5659,
+      "enfoque": "Circunscripción 1 (norte). Plan con normativa de semaforización inteligente, comités de seguridad barrial, transporte limpio y declaratoria de las quebradas del norte como infraestructura ecológica.",
+      "tabla": {
+        "seguridad": [
+          { "t": "Reconocimiento institucional de los Comités de Seguridad y Convivencia Barrial; incentivos normativos para actividades lícitas y culturales en zonas críticas", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "movilidad": [
+          { "t": "Normativa que obligue a semaforización inteligente; fiscalizar los componentes tecnológicos del Sistema Integrado de Transporte", "v": "alta", "n": "Legislar y fiscalizar." },
+          { "t": "Condicionar contratos y permisos de transporte a verificación técnica; transición a tecnologías limpias", "v": "alta", "n": "Regulación del transporte metropolitano." }
+        ],
+        "ambiente": [
+          { "t": "Declarar el sistema de quebradas del norte como infraestructura ecológica intangible", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "gobierno": [
+          { "t": "Trazabilidad de denuncias ciudadanas sobre contratación pública; digitalización del Registro de la Propiedad", "v": "media", "n": "El concejal impulsa; la implementación es del ejecutivo." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": []
+    },
+    {
+      "codFormulario": 4737,
+      "enfoque": "Circunscripción 1 (norte). Plan breve con objetivos de movilidad, bienestar animal, cultura y fiscalización; la matriz es poco legible.",
+      "tabla": {
+        "movilidad": [
+          { "t": "Impulsar un modelo de movilidad sostenible, integrado y seguro", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "ambiente": [
+          { "t": "Fortalecer la política de protección y bienestar animal", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "social": [
+          { "t": "Fortalecer la cultura y el patrimonio de Quito", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "gobierno": [
+          { "t": "Seguimiento de resultados, fiscalización e informes anuales de cumplimiento", "v": "alta", "n": "Fiscalización." }
+        ]
+      },
+      "metas": ["Informes anuales de cumplimiento."],
+      "notas": ["El texto proviene de OCR y la matriz está desordenada."]
+    },
+    {
+      "codFormulario": 3788,
+      "enfoque": "Circunscripción 1 (norte). Plan con mejoras puntuales del Metro (baños, ventilación, ascensores) y programas educativos y de cuidado infantil que ejecutaría la Alcaldía.",
+      "tabla": {
+        "movilidad": [
+          { "t": "Impulsar el mantenimiento de estaciones del Metro, baños públicos, ventilación y ascensores, con evaluación periódica", "v": "media", "n": "El concejal puede exigirlo y fiscalizarlo; ejecuta la empresa Metro." },
+          { "t": "Espacios más accesibles para personas con discapacidad, adultos mayores y familias", "v": "media", "n": "Depende de la empresa operadora." }
+        ],
+        "social": [
+          { "t": "Crear centros municipales de apoyo educativo, refuerzo escolar y cuidado infantil", "v": "baja", "n": "Plantea crear servicios que ejecuta la Alcaldía." },
+          { "t": "Capacitación tecnológica y para jóvenes emprendedores", "v": "baja", "n": "Programas de ejecución." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": []
+    },
+    {
+      "codFormulario": 449,
+      "enfoque": "Circunscripción 1 (norte). Mismo esquema del movimiento Imparables: reformas para seguridad y espacio público, simplificación, fiscalización e informes anuales.",
+      "tabla": {
+        "urbano": [
+          { "t": "Reformas para recuperar el espacio público y controlar ruido, contaminación visual y libadores", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "economia": [
+          { "t": "Simplificación de trámites y apoyo normativo al desarrollo económico local", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "gobierno": [
+          { "t": "Fiscalización permanente de contratación, presupuesto y empresas públicas; informe anual de resultados", "v": "alta", "n": "Fiscalización." }
+        ],
+        "social": [
+          { "t": "Evaluar y fortalecer las ordenanzas de salud, inclusión y protección de derechos", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["Informe anual de resultados legislativos y de fiscalización."],
+      "notas": []
+    },
+    {
+      "codFormulario": 8069,
+      "enfoque": "Circunscripción 2 (centro). Mismo plan que el Centro Democrático presenta en las tres circunscripciones y en la rural: normativa y fiscalización sobre los ejes del plan de alcaldía.",
+      "tabla": {
+        "urbano": [
+          { "t": "Normativa para un desarrollo ordenado y compacto; revisión de instrumentos de planificación", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "movilidad": [
+          { "t": "Fiscalizar Metro, transporte y vialidad; reformas para integrar el sistema", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "servicios": [
+          { "t": "Fiscalizar las empresas de agua, residuos, ambiente y riesgos", "v": "alta", "n": "Fiscalización." }
+        ],
+        "economia": [
+          { "t": "Revisar ordenanzas y simplificar trámites; normativa de turismo, cultura y grandes eventos", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["Indicadores de proceso, sin valores meta."],
+      "notas": ["Texto prácticamente igual al de los formularios 8082 (circunscripción 3) y 3868 (rural)."]
+    },
+    {
+      "codFormulario": 10598,
+      "enfoque": "Circunscripción 2 (centro). Plan de la alianza del alcalde en funciones con acciones de ordenanzas y resoluciones en espacio público, economía popular, cuidados, seguridad vial y ambiente.",
+      "tabla": {
+        "urbano": [
+          { "t": "Recuperar el espacio público y áreas verdes como espacios seguros en el centro", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "economia": [
+          { "t": "Incentivos a la economía popular, simplificación de trámites para emprendedores y turismo de barrio", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "social": [
+          { "t": "Política local de cuidados con enfoque de género; programas de salud mental y prevención de consumos", "v": "media", "n": "La política es normativa; los programas los ejecuta la Alcaldía." }
+        ],
+        "ambiente": [
+          { "t": "Normativa de mejora climática y calidad del aire; reciclaje inclusivo en barrios del centro", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "movilidad": [
+          { "t": "Medidas de seguridad vial en puntos críticos", "v": "media", "n": "El concejal impulsa; ejecuta la Secretaría de Movilidad." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": []
+    },
+    {
+      "codFormulario": 5636,
+      "enfoque": "Circunscripción 2 (centro). Plan con fiscalización de contratos y del Metro, ordenanza de seguridad preventiva y espacio público, y ordenanza de protección del patrimonio del Centro Histórico.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Fiscalización técnica de contratación y obras; gobierno abierto en la elaboración de ordenanzas", "v": "alta", "n": "Fiscalización." }
+        ],
+        "seguridad": [
+          { "t": "Ordenanza de seguridad preventiva y espacio público; fiscalizar la videovigilancia y los convenios con la Policía", "v": "alta", "n": "Iniciativa normativa y fiscalización." }
+        ],
+        "movilidad": [
+          { "t": "Fiscalización periódica del Metro y del transporte municipal con informes públicos", "v": "alta", "n": "Fiscalización." }
+        ],
+        "servicios": [
+          { "t": "Fiscalizar agua, alcantarillado, recolección, parques, mercados y atención digital", "v": "alta", "n": "Fiscalización." }
+        ],
+        "social": [
+          { "t": "Ordenanza de protección del patrimonio cultural y arquitectónico del Centro Histórico", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "economia": [
+          { "t": "Fomento a la economía popular, comercio autónomo y turismo", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["Presentar la ordenanza de patrimonio del Centro Histórico; informes públicos de fiscalización del transporte."],
+      "notas": []
+    },
+    {
+      "codFormulario": 3814,
+      "enfoque": "Circunscripción 2 (centro). Plan centrado en el Centro Histórico: ordenanza de repoblamiento, fiscalización de la rehabilitación de más de 1.500 casas cerradas y peatonalización.",
+      "tabla": {
+        "urbano": [
+          { "t": "Ordenanza de repoblamiento del Centro Histórico (facultades y residencias universitarias, industrias creativas)", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Fiscalización semestral de la rehabilitación de más de 1.500 casas cerradas y del rescate de unas 100", "v": "alta", "n": "Fiscalización verificable." }
+        ],
+        "movilidad": [
+          { "t": "Ordenanzas de peatonalización y evaluación pública de tramos peatonalizados; mesas con comerciantes", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "seguridad": [
+          { "t": "Fiscalizar cruces seguros e iluminación en corredores de riesgo; mejorar la percepción de seguridad sobre la línea base de 52 %", "v": "media", "n": "La fiscalización es directa; la percepción de seguridad no depende solo del municipio." }
+        ]
+      },
+      "metas": ["Ordenanza de repoblamiento aprobada; fiscalización semestral; mejora de la percepción de seguridad sobre 52 %."],
+      "notas": []
+    },
+    {
+      "codFormulario": 2869,
+      "enfoque": "Circunscripción 2 (centro). Mismo plan que el PSC presenta en las otras circunscripciones, que reproduce las metas de ejecución del plan de alcaldía.",
+      "tabla": {
+        "urbano": [
+          { "t": "Recuperar 400 parques y alcanzar 95 % de iluminación LED en espacios públicos", "v": "baja", "n": "Metas de ejecución del alcalde." }
+        ],
+        "movilidad": [
+          { "t": "Rehabilitar 1.000 km de vías y reducir el tiempo de viaje de 74 a 60 minutos", "v": "baja", "n": "No depende del concejal." }
+        ],
+        "economia": [
+          { "t": "Crear 30.000 empleos y fortalecer 25.000 emprendimientos", "v": "baja", "n": "No depende del concejal." }
+        ],
+        "gobierno": [
+          { "t": "Realizar actos de fiscalización y presentar proyectos de ordenanza", "v": "alta", "n": "Atribuciones del concejal; no detalla cuáles." }
+        ]
+      },
+      "metas": ["Copia las metas del plan de alcaldía del PSC (formulario 567)."],
+      "notas": ["Prácticamente igual a los formularios 2839 y 2893."]
+    },
+    {
+      "codFormulario": 7961,
+      "enfoque": "Circunscripción 2 (centro). Plan de seis ejes para recuperar el centro de Quito mediante reformas y fiscalización, con fases anuales.",
+      "tabla": {
+        "seguridad": [
+          { "t": "Reformas a las ordenanzas para fortalecer la prevención situacional y la convivencia; fiscalizar los sistemas municipales de seguridad", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "urbano": [
+          { "t": "Ordenanzas que recuperen parques, plazas, escalinatas, canchas y corredores barriales; fiscalizar la conservación del patrimonio", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "movilidad": [
+          { "t": "Fiscalizar calidad, frecuencia e integración del transporte en la circunscripción", "v": "alta", "n": "Fiscalización." }
+        ],
+        "economia": [
+          { "t": "Reformas para simplificar trámites; fiscalizar que los programas económicos y turísticos tengan metas medibles", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "social": [
+          { "t": "Fiscalizar inclusión y salud preventiva; ordenanzas de accesibilidad", "v": "alta", "n": "Legislar y fiscalizar." }
+        ]
+      },
+      "metas": ["2027 línea base y agenda de fiscalización; 2028 reformas y evaluación semestral; sin cifras."],
+      "notas": []
+    },
+    {
+      "codFormulario": 7573,
+      "enfoque": "Circunscripción 2 (centro). Mismo esquema genérico que Avanza presenta en las otras circunscripciones: marco normativo y fiscalización en seguridad y movilidad.",
+      "tabla": {
+        "seguridad": [
+          { "t": "Fortalecer el marco normativo de seguridad y fiscalizar su gestión", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "movilidad": [
+          { "t": "Marco normativo para movilidad segura e inteligente", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "urbano": [
+          { "t": "Iniciativas para recuperar espacios públicos", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["Texto casi igual a los formularios 6254 y 7816."]
+    },
+    {
+      "codFormulario": 4744,
+      "enfoque": "Circunscripción 2 (centro). Plan por fases para un 'Centro Histórico Vivo': programas culturales, recuperación de plazas, turismo y ferias.",
+      "tabla": {
+        "urbano": [
+          { "t": "Recuperación de plazas, parques y proyectos patrimoniales del Centro Histórico", "v": "media", "n": "El concejal impulsa; ejecuta la Alcaldía." }
+        ],
+        "economia": [
+          { "t": "Fortalecimiento turístico, circuitos culturales y ferias permanentes", "v": "media", "n": "El concejal impulsa." }
+        ],
+        "gobierno": [
+          { "t": "Asambleas e informes públicos de seguimiento", "v": "alta", "n": "Representación." }
+        ]
+      },
+      "metas": ["Indicadores de participación y transparencia sin valores meta."],
+      "notas": []
+    },
+    {
+      "codFormulario": 9531,
+      "enfoque": "Circunscripción 2 (centro). Agenda normativa para el Centro Histórico: patrimonio, uso del espacio público, comercio autónomo y movilidad peatonal.",
+      "tabla": {
+        "social": [
+          { "t": "Actualizar el marco normativo de conservación del patrimonio arquitectónico, cultural e histórico", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "urbano": [
+          { "t": "Reformar las ordenanzas de uso del espacio público y adecuar espacios para personas con discapacidad", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "economia": [
+          { "t": "Ordenar el comercio autónomo dentro del marco legal", "v": "alta", "n": "Regulación del espacio público." }
+        ],
+        "movilidad": [
+          { "t": "Revisar planes de circulación, promover estacionamientos perimetrales y zonas peatonales seguras", "v": "media", "n": "El concejal propone; ejecuta la Secretaría de Movilidad." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": []
+    },
+    {
+      "codFormulario": 2267,
+      "enfoque": "Circunscripción 2 (centro). Mismo esquema del movimiento Imparables: marco normativo metropolitano, reformas al Código Municipal y fiscalización.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Reformas al Código Municipal y simplificación normativa; fiscalización técnica", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "urbano": [
+          { "t": "Actualizar el marco normativo de ordenamiento territorial", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "ambiente": [
+          { "t": "Ordenanzas para proteger ecosistemas estratégicos", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 8082,
+      "enfoque": "Circunscripción 3 (sur). Mismo plan que el Centro Democrático presenta en las demás circunscripciones.",
+      "tabla": {
+        "urbano": [
+          { "t": "Normativa para un desarrollo ordenado y revisión de la planificación territorial", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "movilidad": [
+          { "t": "Fiscalizar Metro, transporte y vialidad", "v": "alta", "n": "Fiscalización." }
+        ],
+        "servicios": [
+          { "t": "Fiscalizar las empresas de agua, residuos y riesgos", "v": "alta", "n": "Fiscalización." }
+        ],
+        "economia": [
+          { "t": "Simplificación de trámites y normativa de turismo y grandes eventos", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["Indicadores de proceso, sin valores meta."],
+      "notas": ["Texto prácticamente igual a los formularios 8069 y 3868."]
+    },
+    {
+      "codFormulario": 10600,
+      "enfoque": "Circunscripción 3 (sur). Plan genérico de la alianza del alcalde en funciones sobre desarrollo económico, inclusión, movilidad y convivencia.",
+      "tabla": {
+        "economia": [
+          { "t": "Iniciativas normativas para economía local, comercio, economía popular y emprendimiento", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "social": [
+          { "t": "Promover la inclusión social y la reducción de desigualdades", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "movilidad": [
+          { "t": "Impulsar una movilidad sostenible e integrada", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "urbano": [
+          { "t": "Convivencia y recuperación del espacio público con participación ciudadana", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["El texto proviene de OCR; la matriz está desordenada."]
+    },
+    {
+      "codFormulario": 6126,
+      "enfoque": "Circunscripción 3 (sur). Plan con proyectos legislativos concretos para el sur: Escalón 3, reubicación de la feria de vehículos de Guamaní, 'Solución Solanda' y reestructuración de los agentes metropolitanos.",
+      "tabla": {
+        "seguridad": [
+          { "t": "Proyecto legislativo para reestructurar el Cuerpo de Agentes / Policía Metropolitana; fiscalizar convenios con Policía y Ministerio del Interior", "v": "media", "n": "El Concejo puede reformar su cuerpo de agentes; su rol de policía está limitado por ley." }
+        ],
+        "movilidad": [
+          { "t": "Fiscalizar el Plan Maestro de Movilidad en Quitumbe y Eloy Alfaro y el proyecto Escalón 3; declaratoria de utilidad pública para cerrar su trazado en El Rocío", "v": "alta", "n": "El Concejo puede declarar utilidad pública y fiscalizar." },
+          { "t": "Ordenanza de trazado y reubicación de la Feria de Vehículos Usados de Guamaní Alto, con mesa de diálogo con comerciantes", "v": "alta", "n": "Iniciativa normativa sobre espacio público." }
+        ],
+        "urbano": [
+          { "t": "'Solución Solanda': compensación, reubicación del Mercado Mayorista y vivienda para familias afectadas; fiscalizar su cronograma ante la empresa de mercados", "v": "media", "n": "Depende de la empresa municipal y de financiamiento." }
+        ],
+        "economia": [
+          { "t": "Fiscalización y desarrollo del sistema de mercados y ferias del sur; fondos concursables de ConQuito para emprendedores del sur", "v": "media", "n": "Los fondos dependen de ConQuito." }
+        ]
+      },
+      "metas": ["Proyectos legislativos identificados; sin cifras."],
+      "notas": []
+    },
+    {
+      "codFormulario": 3799,
+      "enfoque": "Circunscripción 3 (sur). Documento que mezcla fragmentos de planes de alcaldía, concejalías urbanas y rurales de la organización; la parte legible propone agenda legislativa y fiscalización trimestral para el sur.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Agenda legislativa, presupuestaria y de fiscalización para mejorar el orden territorial del sur", "v": "alta", "n": "Atribuciones del concejal." },
+          { "t": "Fiscalizar trimestralmente obras, contratos, servicios y presupuestos con información desagregada por parroquia", "v": "alta", "n": "Fiscalización verificable." }
+        ],
+        "servicios": [
+          { "t": "Fiscalizar la calidad y continuidad de movilidad, servicios básicos, obras y empresas públicas en el sur", "v": "alta", "n": "Fiscalización." }
+        ]
+      },
+      "metas": ["Fiscalización trimestral; el resto ilegible."],
+      "notas": ["El texto proviene de OCR de muy baja calidad.", "El documento incluye encabezados de 'plan de trabajo para la alcaldía' y de 'concejalías rurales', además del de concejalías urbanas."]
+    },
+    {
+      "codFormulario": 2893,
+      "enfoque": "Circunscripción 3 (sur). Mismo plan que el PSC presenta en las otras circunscripciones, con las metas de ejecución del plan de alcaldía.",
+      "tabla": {
+        "urbano": [
+          { "t": "Recuperar 400 parques y alcanzar 95 % de iluminación LED", "v": "baja", "n": "Metas de ejecución del alcalde." }
+        ],
+        "movilidad": [
+          { "t": "Rehabilitar 1.000 km de vías", "v": "baja", "n": "No depende del concejal." }
+        ],
+        "economia": [
+          { "t": "Crear 30.000 empleos", "v": "baja", "n": "No depende del concejal." }
+        ],
+        "gobierno": [
+          { "t": "Actos de fiscalización y proyectos de ordenanza", "v": "alta", "n": "Atribuciones del concejal; no detalla cuáles." }
+        ]
+      },
+      "metas": ["Copia las metas del plan de alcaldía del PSC (formulario 567)."],
+      "notas": ["Prácticamente igual a los formularios 2839 y 2869."]
+    },
+    {
+      "codFormulario": 7964,
+      "enfoque": "Circunscripción 3 (sur). Plan 'Sur transparente y fiscalizado' con un paquete de ordenanzas: equidad territorial de la inversión, servicios públicos, transparencia de la inversión y reformas al Código Municipal.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Ordenanza Metropolitana para la Equidad Territorial y Priorización de la Inversión", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Ordenanza Metropolitana para la Transparencia, Seguimiento y Rendición de Cuentas de la Inversión Territorial", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Reformas al Código Municipal sobre presupuestos participativos y gobierno abierto", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Plan plurianual de acciones de fiscalización", "v": "alta", "n": "Fiscalización." }
+        ],
+        "servicios": [
+          { "t": "Ordenanza para el Seguimiento y Evaluación de la Calidad de los Servicios Públicos Municipales", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "economia": [
+          { "t": "Ordenanza para el fortalecimiento del desarrollo económico local", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "social": [
+          { "t": "Reformas al Código Municipal para protección ambiental, inclusión social y accesibilidad", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["Ordenanzas con horizonte al 2031."],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 7816,
+      "enfoque": "Circunscripción 3 (sur). Mismo esquema genérico de Avanza: marco normativo y fiscalización en seguridad y movilidad para el sur.",
+      "tabla": {
+        "seguridad": [
+          { "t": "Fortalecer el marco normativo de seguridad y fiscalizar su gestión en el sur", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "movilidad": [
+          { "t": "Marco normativo para movilidad segura e inteligente", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "urbano": [
+          { "t": "Iniciativas para recuperar espacios públicos", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 5315,
+      "enfoque": "Circunscripción 3 (sur). Plan breve de fiscalización de la inversión en el sur (agua, vialidad, quebradas) con evaluación de resultados de las ordenanzas.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Fiscalizar las metas físicas y financieras de la inversión en el sur junto con organizaciones sociales", "v": "alta", "n": "Fiscalización." },
+          { "t": "Evaluar con indicadores los resultados de las ordenanzas e iniciativas promovidas", "v": "alta", "n": "Compromiso verificable." }
+        ],
+        "servicios": [
+          { "t": "Fiscalizar el presupuesto de agua potable, alcantarillado, vialidad y mantenimiento", "v": "alta", "n": "Fiscalización." }
+        ],
+        "movilidad": [
+          { "t": "Priorizar en el Concejo proyectos de conectividad vial y cruces seguros", "v": "media", "n": "El concejal puede impulsarlos en el presupuesto." }
+        ],
+        "ambiente": [
+          { "t": "Fiscalizar el manejo de escombros, recuperación de quebradas y áreas verdes", "v": "alta", "n": "Fiscalización." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": []
+    },
+    {
+      "codFormulario": 4860,
+      "enfoque": "Circunscripción 3 (sur). Plan normativo detallado para Eloy Alfaro y Quitumbe: inventario de trámites, transparencia territorial, entornos seguros y debate del Estatuto Autonómico.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Reforma de simplificación y atención territorial con inventario de los trámites de mayor demanda en Eloy Alfaro y Quitumbe", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Transparencia territorial: presupuesto, contratación y avance de obras consultables por administración zonal", "v": "alta", "n": "Resolución y reforma de gobierno abierto." },
+          { "t": "Acompañar el debate del Estatuto Autonómico de Quito con informes técnicos y revisión jurídica", "v": "alta", "n": "Deliberación propia del Concejo." },
+          { "t": "Informe anual de desempeño territorial", "v": "alta", "n": "Compromiso verificable." }
+        ],
+        "seguridad": [
+          { "t": "Política normativa de entornos seguros en escuelas, mercados, estaciones y paradas, con criterios públicos de priorización", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Fortalecer por ordenanza los comités de seguridad y un estándar de primera atención a víctimas de violencia", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["Primer año: línea base normativa de trámites; luego ajustes y primer informe anual de desempeño territorial."],
+      "notas": []
+    },
+    {
+      "codFormulario": 9606,
+      "enfoque": "Circunscripción 3 (sur). Plan con propuestas normativas para crear un centro cultural y un conservatorio en el sur, donar un predio para una universidad pública y casas comunales para la juventud.",
+      "tabla": {
+        "social": [
+          { "t": "Legislación para crear el centro cultural del sur y el conservatorio municipal de música", "v": "media", "n": "La ordenanza es viable; construirlos requiere presupuesto del ejecutivo." },
+          { "t": "Ordenanza o resolución para donar un predio para el campus de una universidad pública en el sur", "v": "media", "n": "El Concejo puede autorizar donaciones; la universidad depende del sistema nacional." },
+          { "t": "Ordenanza de casas comunales para la juventud y centros de tratamiento de adicciones", "v": "media", "n": "El tratamiento de adicciones es competencia del MSP." }
+        ],
+        "gobierno": [
+          { "t": "Ordenanzas de servicios públicos, uso del suelo, ambiente y movilidad; fiscalizar obras y presupuesto", "v": "alta", "n": "Atribuciones del concejal." }
+        ]
+      },
+      "metas": ["Ordenanzas en los años 3 y 4."],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 2012,
+      "enfoque": "Circunscripción 3 (sur). Plan comunitario con actividades culturales, deportivas y de recuperación de parques que exceden la función del concejal.",
+      "tabla": {
+        "social": [
+          { "t": "Festivales, música, danza, bailoterapia y espacios para artistas locales", "v": "baja", "n": "Actividades que organiza la Alcaldía, no el concejal." },
+          { "t": "Defender y fiscalizar la educación municipal", "v": "alta", "n": "Fiscalización." }
+        ],
+        "urbano": [
+          { "t": "Jornadas comunitarias para recuperar parques y canchas", "v": "media", "n": "Acción de representación; la obra es del ejecutivo." }
+        ],
+        "seguridad": [
+          { "t": "Organización barrial, iluminación y exigir respuestas institucionales", "v": "media", "n": "El concejal puede exigir; ejecutan la Alcaldía y la Policía." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": []
+    }
+  ]
+}

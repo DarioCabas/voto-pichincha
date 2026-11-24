@@ -1,0 +1,701 @@
+{
+  "canton": "MEJIA",
+  "contexto": [
+    {
+      "titulo": "Presupuesto y ejecución del GAD Mejía 2024",
+      "valor": "USD 41,47 M aprobado · 52,89 % ejecutado",
+      "detalle": "Presupuesto aprobado de USD 41.471.342,50 y codificado de USD 43.056.598,83 (incluye un suplemento por crédito BDE de USD 2,31 M). Al cierre de 2024 el gasto se ejecutó al 52,89 % y el gasto de inversión solo al 33,68 %; el gasto corriente llegó al 89,32 %. No se encontró una cifra pública consolidada del presupuesto 2025 o 2026 del GAD.",
+      "fuente": "Acta 008, sesión extraordinaria del Concejo Municipal de Mejía (20-feb-2025)",
+      "url": "https://municipiodemejia.gob.ec/uploads/actas/4e704-acta-08-sesion-extraordinaria-20-febrero-2025-signed-signed-signed.pdf"
+    },
+    {
+      "titulo": "Empresa de agua EPAAGE-Mejía EP 2025",
+      "valor": "USD 7,17 M codificado · 57,61 % ejecutado",
+      "detalle": "Tras una reforma a la baja de USD 1,9 M, el presupuesto 2025 de la empresa de agua, alcantarillado y generación eléctrica quedó en USD 7.173.401,50. El gasto de inversión en agua potable y alcantarillado se ejecutó al 60,39 % y el de la central hidroeléctrica La Calera al 31,58 %.",
+      "fuente": "Acta 017, sesión ordinaria del Concejo Municipal de Mejía (abril 2026)",
+      "url": "https://municipiodemejia.gob.ec/uploads/actas/22fd1-acta-17-sesion-ordinaria-9-abril-2026.pdf"
+    },
+    {
+      "titulo": "Presupuestos 2026 de entidades adscritas",
+      "valor": "Agua USD 5,21 M · Bomberos USD 5,84 M",
+      "detalle": "El Concejo conoció el presupuesto 2026 de EPAAGE-Mejía EP (USD 5.213.921,01) y el del Cuerpo de Bomberos de Mejía (USD 5.842.260,72, de los cuales USD 2,21 M son procesos de arrastre de 2025).",
+      "fuente": "Acta 051, sesión ordinaria del Concejo Municipal de Mejía (4-dic-2025)",
+      "url": "https://municipiodemejia.gob.ec/uploads/convocatorias/convocatorias_36_1765203081_4571.pdf"
+    },
+    {
+      "titulo": "Créditos BDE para obras viales 2025",
+      "valor": "USD 4,89 M",
+      "detalle": "En 2025 el Concejo aprobó un suplemento presupuestario con financiamiento del Banco de Desarrollo del Ecuador para el Anillo Vial de ingreso a Cutuglagua (USD 2.805.820) y la adecuación urbana de la calle Luis Felipe Barriga en Machachi (USD 2.086.430).",
+      "fuente": "Acta 036, sesión ordinaria del Concejo Municipal de Mejía (28-ago-2025)",
+      "url": "https://municipiodemejia.gob.ec/uploads/actas/55ba3-acta-36-sesion-ordinaria-28-agosto-2025-signed-signed-signed.pdf"
+    },
+    {
+      "titulo": "Vía Alóag–Santo Domingo (E-20)",
+      "valor": "Vía estatal con cierres por obras",
+      "detalle": "La vía que cruza Alóag y Tandapi no es de competencia municipal. En abril de 2026 se anunció un cierre total de casi 24 horas en Unión del Toachi (km 83 y km 88) por obras de alcantarillas y de una tubería, ejecutadas por la Prefectura de Santo Domingo de los Tsáchilas.",
+      "fuente": "Primicias",
+      "url": "https://www.primicias.ec/sociedad/cierre-vial-aloag-santo-domingo-union-toachi-paraiso-pichincha-quito-120069/"
+    }
+  ],
+  "candidatos": [
+    {
+      "codFormulario": 4718,
+      "enfoque": "Plan por propuestas (34 fichas) que prioriza servicios básicos y capacidad propia de obra (plantas municipales de asfalto y adoquín), con proyectos productivos, culturales y de movilidad que dependen de estudios y convenios.",
+      "estructura": "8 ejes · 34 propuestas con ficha (problema, estrategia, meta, indicador, plazo) · matriz plurianual por años",
+      "tabla": {
+        "movilidad": [
+          { "t": "Corredor Logístico y de Movilidad \"Eje de los Volcanes\": red vial estratégica y corredor periférico; estudios definitivos y tramos priorizados en ejecución", "v": "media", "n": "Depende de estudios y convenios con el MTOP y la Prefectura según jurisdicción; el propio plan solo compromete estudios y tramos priorizados." },
+          { "t": "Planta municipal de asfalto construida y operativa hasta 2031", "v": "media", "n": "La vialidad urbana es competencia municipal, pero el plan no da monto. Con inversión ejecutada al 33,68 % en 2024, una planta nueva compite con la obra directa." },
+          { "t": "Reactivación de la planta municipal de adoquines, bloques y concretera", "v": "alta", "n": "Recupera infraestructura existente para obra vial y barrial, que es competencia propia." },
+          { "t": "Centro de transferencia de pasajeros de Tambillo construido hasta 2031", "v": "media", "n": "El tránsito y transporte son competencia municipal, pero requiere estudios, suelo y coordinación con operadores e interprovinciales." },
+          { "t": "Plan integral de transporte intracantonal (matriz origen-destino, nuevas rutas y frecuencias) e interconexión con Quito vía La Marín", "v": "media", "n": "Las rutas internas son competencia propia; la conexión con Quito depende de acuerdos con el Distrito Metropolitano." },
+          { "t": "Modernización de la zona azul con cobro digital", "v": "alta", "n": "Es una competencia municipal de bajo costo relativo." }
+        ],
+        "servicios": [
+          { "t": "Programa cantonal de agua segura y saneamiento en las 8 parroquias: redes, tanques, PTAR, laboratorio de calidad y apoyo a juntas de agua", "v": "alta", "n": "Es competencia directa vía EPAAGE-Mejía EP, aunque esa empresa ejecutó solo el 60,39 % de su inversión en 2025 y la meta no se cuantifica." }
+        ],
+        "ambiente": [
+          { "t": "Mejía circular: recolección diferenciada, reciclaje, compostaje y estudios de valorización energética", "v": "alta", "n": "Los residuos son competencia municipal; el cantón ya tiene una planta de reciclaje en Romerillos, según el diagnóstico del plan." },
+          { "t": "Fondo para la protección del agua (páramos, fuentes y zonas de recarga)", "v": "media", "n": "Requiere un modelo jurídico y aportes concurrentes de MAATE, juntas y sector privado." },
+          { "t": "Centro Municipal de Vida Animal (veterinaria y esterilización) operativo hasta 2029", "v": "alta", "n": "La fauna urbana es competencia municipal y la escala es acotada." }
+        ],
+        "urbano": [
+          { "t": "Programa de regularización predial y legalización de escrituras", "v": "alta", "n": "El catastro y el uso del suelo son competencias propias." },
+          { "t": "Programa municipal de vivienda de interés social", "v": "media", "n": "Depende de suelo, del sistema financiero y de entidades nacionales; no fija número de viviendas." },
+          { "t": "Complejo de convenciones de la cultura chacarera, construido o en fase avanzada a 2031", "v": "media", "n": "No da monto; requiere financiamiento y alianzas que el plan no detalla." }
+        ],
+        "seguridad": [
+          { "t": "Mejía Seguro 360: Centro de Seguridad Inmediata, cámaras, alarmas y coordinación con Policía y ECU 911 en las 8 parroquias", "v": "media", "n": "La seguridad es competencia nacional; el municipio solo apoya con tecnología, iluminación y coordinación." },
+          { "t": "Mejía, ciudad segura para las mujeres: corredores y paradas seguras, iluminación y botones de auxilio", "v": "alta", "n": "Son intervenciones en espacio público, que es competencia municipal." },
+          { "t": "Mejía preparado: mapas de riesgo, COE cantonal, alertas y brigadas (riesgo volcánico, inundaciones, incendios)", "v": "alta", "n": "La gestión de riesgos es competencia municipal." }
+        ],
+        "social": [
+          { "t": "Programa de apoyo a la educación: becas, incentivos a la excelencia, brecha digital y tiempo libre", "v": "media", "n": "Es complementario; la educación es competencia del Ministerio de Educación." },
+          { "t": "Sistema complementario municipal de salud y rehabilitación, con evaluación de un centro de rehabilitación física", "v": "media", "n": "Es complementario al MSP; depende de convenios." },
+          { "t": "Red de centros municipales de cuidado integral", "v": "media", "n": "Requiere articulación con el MIES; es un programa social de crecimiento progresivo." },
+          { "t": "Conservatorio municipal de música y artes", "v": "alta", "n": "La cultura es atribución municipal y la escala es moderada." }
+        ],
+        "economia": [
+          { "t": "Gestión de una zona franca o régimen especial de desarrollo económico en Mejía", "v": "baja", "n": "La autorización es nacional; el municipio solo puede hacer estudios y gestionarla." },
+          { "t": "Centro de acopio y comercialización en operación progresiva hasta 2031", "v": "media", "n": "Depende de articulación con el MAG, la Prefectura y productores." },
+          { "t": "Planta cantonal de alimentos balanceados", "v": "baja", "n": "Es una actividad productiva fuera de las competencias municipales; el plan la condiciona a viabilidad técnica y financiera." },
+          { "t": "Mejía emplea y emprende: bolsa de empleo, ferias y convenios con empresas; buenas prácticas ganaderas", "v": "media", "n": "El empleo no es competencia municipal; el municipio solo intermedia y capacita." },
+          { "t": "Recuperación turística del corredor ferroviario Cutuglagua–Machachi–Aloasí", "v": "media", "n": "El patrimonio ferroviario es de otras instituciones y requiere convenios." }
+        ],
+        "gobierno": [
+          { "t": "Reformas económicas y tributarias en los dos primeros años: costos indirectos de obra, tabla de patentes y domicilio tributario", "v": "alta", "n": "Es una competencia normativa del Concejo." },
+          { "t": "Municipio inteligente y eficiente: ventanilla única, trámites en línea, expediente digital, reingeniería y gestión por resultados", "v": "alta", "n": "Es una competencia interna, aunque sin metas cuantificadas." },
+          { "t": "Centro municipal de mediación; banco de proyectos y cooperación", "v": "alta", "n": "Son de bajo costo y requieren acreditación o gestión." },
+          { "t": "Gobierno abierto: tablero público de metas y participación territorial con calendario anual", "v": "alta", "n": "Es competencia municipal." }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "No fija metas cuantitativas: las metas son cualitativas (por ejemplo, programa de agua 'en ejecución' en todas las parroquias; planta de asfalto operativa hasta 2031; centro de transferencia de Tambillo en funcionamiento progresivo hasta 2031).",
+        "Centro Municipal de Vida Animal construido y operativo hasta 2029.",
+        "Paquete de reformas tributarias y administrativas en los dos primeros años de gestión."
+      ],
+      "inversion": "Sin montos.",
+      "primeros100": null,
+      "detalle": [
+        { "titulo": "Diagnóstico", "items": [
+          "Población de 101.894 habitantes (Censo 2022) en 8 parroquias.",
+          "Cobertura de agua por red pública del 94,3 % en promedio, con solo el 55,3 % en Manuel Cornejo Astorga (PDOT 2024).",
+          "Alcantarillado del 87 %: Uyumbicho alcanza el 92,2 % y El Chaupi el 29,8 %.",
+          "Recolección de residuos del 94,6 %, con planta de reciclaje en Romerillos (El Chaupi).",
+          "10 problemas priorizados: servicios básicos, crecimiento desordenado, vialidad, transporte y conexión con Quito, empleo, producción, inseguridad, contaminación, desigualdad y cuidados, e institucionalidad."
+        ] },
+        { "titulo": "Eje 1 · Mejía con servicios y obras que duren", "items": [
+          "P1 Agua segura y saneamiento para todas las parroquias: estudios y planes maestros, ampliación de redes, PTAR, apoyo a juntas de agua, almacenamiento y control de calidad; articulado con EPAAGE EP.",
+          "P2 Mejía circular: recolección diferenciada, separación en la fuente, recicladores, compostaje y estudios de valorización energética.",
+          "P3 Reactivación de la planta municipal de adoquines, bloques y concretera.",
+          "P4 Construcción y puesta en marcha de la planta municipal de asfalto hasta 2031."
+        ] },
+        { "titulo": "Eje 2 · Mejía seguro, ordenado y preparado", "items": [
+          "P5 Mejía Seguro 360: Centro de Seguridad Inmediata, cámaras, alarmas e interoperabilidad con Policía y ECU 911.",
+          "P6 Mejía, ciudad segura para las mujeres: corredores y paradas seguras, iluminación, eliminación de puntos ciegos y botones de auxilio.",
+          "P7 Mejía preparado: mapas y planes de riesgo, COE cantonal, sistemas de alerta, brigadas y simulacros."
+        ] },
+        { "titulo": "Eje 3 · Mejía productivo y con fuentes de empleo", "items": [
+          "P8 Mejía emplea y emprende: bolsa de empleo, convenios con empresas, ferias laborales y capacitación.",
+          "P9 Centro de acopio y comercialización de productos del cantón.",
+          "P10 Gestión para una zona franca en Mejía.",
+          "P11 Planta cantonal de producción de alimentos balanceados.",
+          "P12 Programa de buenas prácticas para el sector ganadero, con el MAG.",
+          "P13 Políticas económicas y financieras: revisión de costos indirectos de obra, tabla de patentes, domicilio tributario y simplificación de trámites."
+        ] },
+        { "titulo": "Eje 4 · Mejía, destino turístico y cultural", "items": [
+          "P14 Complejo de convenciones de la cultura chacarera.",
+          "P15 Recuperación turística del corredor ferroviario Cutuglagua–Machachi–Aloasí.",
+          "P16 Conservatorio municipal de música y artes."
+        ] },
+        { "titulo": "Eje 5 · Mejía ordenado, conectado y sostenible", "items": [
+          "P17 Regularización predial y legalización de escrituras (revisión de PDOT y PUGS, catastro y jornadas territoriales).",
+          "P18 Programa municipal de vivienda de interés social.",
+          "P19 Corredor Logístico y de Movilidad \"Eje de los Volcanes\" (corredor periférico y conexiones con la E35).",
+          "P20 Centro de transferencia de pasajeros de Tambillo.",
+          "P21 Plan integral de transporte intracantonal.",
+          "P22 Mejía conectado: interconexión del transporte público con Quito a través de La Marín.",
+          "P23 Modernización de la zona azul.",
+          "P24 Fondo para la protección del agua de Mejía."
+        ] },
+        { "titulo": "Eje 6 · Mejía de derechos, cuidados y oportunidades", "items": [
+          "P25 Apoyo a la educación, excelencia académica y ocupación del tiempo libre (becas y apoyos tecnológicos).",
+          "P26 Sistema complementario municipal de salud y rehabilitación (brigadas, salud mental, terapias y evaluación de un centro de rehabilitación física).",
+          "P27 Red de centros municipales de cuidado integral.",
+          "P28 Centro Municipal de Vida Animal (atención veterinaria y esterilización), operativo hasta 2029."
+        ] },
+        { "titulo": "Eje 7 · Mejía transparente, eficiente y digital", "items": [
+          "P29 Municipio inteligente: ventanilla única, pagos en línea, expediente digital, geoportal y tableros.",
+          "P30 Municipio eficiente: reingeniería institucional y gestión por resultados, con seguimiento trimestral.",
+          "P31 Centro municipal de mediación y solución de conflictos.",
+          "P32 Mejía coopera: banco cantonal de proyectos y agenda de cooperación."
+        ] },
+        { "titulo": "Eje 8 · Mejía participa y gestiona recursos", "items": [
+          "P33 Gobierno abierto: tablero público de indicadores, avance físico y presupuestario, y datos abiertos.",
+          "P34 Participación territorial: asambleas, silla vacía, mesas temáticas, veedurías y calendario anual."
+        ] },
+        { "titulo": "Rendición de cuentas", "items": [
+          "Democracia participativa y digital, silla vacía, eventos de rendición de cuentas, portal de transparencia y tableros de indicadores."
+        ] }
+      ],
+      "notas": [
+        "Texto digital legible (sin OCR). Se revisaron las 34 fichas y la matriz plurianual de las págs. 64-77, que repite las propuestas con un cronograma por años.",
+        "Las cifras de cobertura del diagnóstico (agua 94,3 %, alcantarillado 87 %) difieren de las que usa el plan 10987 (89,9 % y 76,21 %); ambos citan el PDOT.",
+        "El texto menciona 'elecciones seccionales 2026' en la sección de rendición de cuentas."
+      ]
+    },
+    {
+      "codFormulario": 7066,
+      "enfoque": "Tabla de programas y proyectos en seis áreas, con énfasis en reestructuración institucional (nuevas empresas públicas y mixtas), seguridad tecnológica y programas sociales, sin metas ni montos.",
+      "estructura": "6 programas · 41 proyectos en tabla plurianual (años 1-4) · fuentes de financiamiento genéricas",
+      "tabla": {
+        "movilidad": [
+          { "t": "Empresa de economía mixta de tránsito, transporte, seguridad vial y movilidad", "v": "media", "n": "El tránsito es competencia municipal, pero el modelo de economía mixta requiere un socio privado y una ordenanza." },
+          { "t": "Atención de puntos con más accidentes mediante señalización e iluminación (diagnóstico)", "v": "alta", "n": "Es competencia municipal de tránsito, aunque solo aparece en el diagnóstico, sin meta." }
+        ],
+        "servicios": [
+          { "t": "Redes y plantas de tratamiento de agua potable y alcantarillado (PTAR)", "v": "alta", "n": "Es competencia directa, pero no dice cuántas ni dónde." },
+          { "t": "Empresa Pública de Desarrollo Urbano de agua, alcantarillado, vivienda y servicios exequiales (año 1)", "v": "media", "n": "Ya existe EPAAGE-Mejía EP para agua; crear otra empresa implica reestructuración y costos sin detalle." },
+          { "t": "Fortalecimiento de juntas de agua: apoyo técnico, capacitación y análisis del agua", "v": "alta", "n": "Es de bajo costo y está dentro de la competencia de agua." }
+        ],
+        "ambiente": [
+          { "t": "Pacto por el Agua de Mejía: proteger páramos, quebradas y zonas de recarga y controlar la frontera agrícola", "v": "media", "n": "Requiere coordinación con MAATE y juntas; no tiene metas." },
+          { "t": "Plan de protección y recuperación de Santa Catalina; reforestación en áreas protegidas", "v": "media", "n": "Las áreas protegidas involucran a la autoridad ambiental nacional." },
+          { "t": "Empresa de economía mixta de gestión integral de residuos sólidos", "v": "media", "n": "Los residuos son competencia municipal; el modelo mixto requiere un socio y regulación." },
+          { "t": "Centro de rescate animal y albergue municipal", "v": "alta", "n": "La fauna urbana es competencia municipal." }
+        ],
+        "urbano": [
+          { "t": "Mejoramiento integral de hábitat y vivienda, servicios, espacios públicos y equipamientos; nuevas centralidades urbanas", "v": "media", "n": "Es competencia de suelo y espacio público, sin escala ni montos." },
+          { "t": "Bolsa inmobiliaria de vivienda ('tu casa por tu arriendo'), mercado de suelo y vivienda, regularización de asentamientos", "v": "media", "n": "La regularización es propia; la vivienda depende de financiamiento externo." },
+          { "t": "Mercados saludables, cementerio y Plan de Obras Emergentes", "v": "alta", "n": "Mercados y cementerios son competencia municipal." }
+        ],
+        "seguridad": [
+          { "t": "Centro de Control y Comando, Centro de Procesamiento de Datos y ambulancias para urgencias médicas", "v": "media", "n": "El municipio solo puede apoyar a la seguridad; las ambulancias corresponden al MSP y al ECU 911." },
+          { "t": "Sistema informático y data center \"Mejía Segura 360\" articulado con Policía y Fuerzas Armadas; cámaras con reconocimiento facial y alarmas comunitarias", "v": "media", "n": "Seguridad nacional: requiere convenios; no tiene costos de operación." },
+          { "t": "Observatorio del Delito para georreferenciar zonas de extorsión en tiempo real", "v": "media", "n": "Es un apoyo analítico; la información delictiva depende de la Policía y la Fiscalía." },
+          { "t": "Mejora de la infraestructura física de las UPC", "v": "media", "n": "Las UPC son del Ministerio del Interior; el municipio solo puede cofinanciar mediante convenio." },
+          { "t": "Barrios Vivos: iluminación LED inteligente y recuperación de espacios públicos", "v": "alta", "n": "Son intervenciones en espacio público." }
+        ],
+        "social": [
+          { "t": "Sede universitaria UCE + UTC y convenios con universidades e institutos", "v": "baja", "n": "La educación superior es competencia nacional; no hay un mecanismo concreto." },
+          { "t": "Gestión de equipamiento, personal y atención especializada para el Hospital Básico de Machachi y los centros de salud", "v": "baja", "n": "La salud es competencia del MSP; el municipio solo gestiona." },
+          { "t": "Centro multifuncional intergeneracional, de acogida a mujeres violentadas y de rehabilitación de adicciones", "v": "media", "n": "Requiere articulación con el MIES y el MSP." },
+          { "t": "Bancos de leche humana; agenda cantonal de igualdad", "v": "media", "n": "Son programas sociales complementarios que dependen del MSP." },
+          { "t": "Escuelas deportivas, campamentos vacacionales y bailoterapias barriales", "v": "alta", "n": "Son de bajo costo y de atribución municipal." }
+        ],
+        "economia": [
+          { "t": "Economía popular y solidaria: banca comunal, canasta solidaria, ferias del campo a la mesa y huertas agroecológicas", "v": "media", "n": "Es un fomento complementario; el crédito no es competencia municipal." },
+          { "t": "Plan Maestro Turístico \"Mejía cantón de los 9 volcanes\" y aplicación móvil turística", "v": "alta", "n": "La promoción turística está al alcance municipal." },
+          { "t": "Empresa de economía mixta de cárnicos; regularización del comercio autónomo", "v": "media", "n": "El camal es competencia municipal; el modelo mixto requiere un socio." },
+          { "t": "Convenios de pasantías y contrato juvenil", "v": "media", "n": "El empleo no es competencia municipal; el municipio solo intermedia." }
+        ],
+        "gobierno": [
+          { "t": "Plan Estratégico Institucional y nueva arquitectura institucional (año 1)", "v": "alta", "n": "Es una competencia interna." },
+          { "t": "Plan de simplificación administrativa: ventanilla única, digitalización y gestión documental", "v": "alta", "n": "El diagnóstico del plan cita solo 6 servicios digitales." },
+          { "t": "Código Legislativo Municipal (codificación de ordenanzas) y presupuesto participativo", "v": "alta", "n": "Son competencias del Concejo." }
+        ],
+        "otros": []
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "inversion": "Sin montos. Fuentes genéricas: recursos propios, transferencias del PGE, cooperación (JICA, GIZ, BID, BCIE, UNESCO, UNICEF, IICA, ONU-Hábitat), crédito multilateral, APP y empresas mixtas, contribuciones especiales de mejoras y bonos municipales.",
+      "primeros100": null,
+      "detalle": [
+        { "titulo": "Diagnóstico y problemas", "items": [
+          "Población de 101.894 habitantes; PEA de unas 48.910 personas; 26.535 personas con NBI.",
+          "VAB: manufactura 51,25 %, comercio 9,88 %, administración pública 8,37 %.",
+          "Problemas señalados: ordenanzas desactualizadas, baja ejecución presupuestaria (55,27 % en 2023), solo 6 trámites en línea, inseguridad, abigeato, falta de vivienda social y agua, vías en mal estado, congestión, falta de infraestructura de transferencia y deterioro del patrimonio.",
+          "Propuestas en el diagnóstico: Fondo Municipal de Desarrollo Local, Centro de Innovación y Empleo, brigadas móviles de salud, aulas digitales comunitarias y una mesa permanente Municipio-ministerios."
+        ] },
+        { "titulo": "Buen Gobierno: GAD Mejía eficiente", "items": [
+          "Plan Estratégico Institucional (año 1).",
+          "Nueva Arquitectura Institucional (año 1).",
+          "Empresa Pública de Desarrollo Urbano de agua, alcantarillado, vivienda y servicios exequiales (año 1).",
+          "Empresas de economía mixta de tránsito, transporte, seguridad vial y movilidad, cárnicos, gestión integral de residuos sólidos y mercados (año 1).",
+          "Plan de simplificación administrativa: ventanilla única, digitalización y sistema de administración documental (años 1-4).",
+          "Código Legislativo Municipal (año 1).",
+          "Presupuesto participativo (años 1-4)."
+        ] },
+        { "titulo": "Ordenamiento territorial", "items": [
+          "Plan de protección y recuperación de Santa Catalina (señalización, control, reforestación y participación comunitaria).",
+          "Mejoramiento integral de hábitat y vivienda, servicios básicos, espacios públicos y equipamientos.",
+          "Nuevas centralidades urbanas.",
+          "Bolsa inmobiliaria de vivienda (mejoramiento, 'tu casa por tu arriendo').",
+          "Regularización de asentamientos humanos.",
+          "Mercados saludables.",
+          "Plan de obras emergentes.",
+          "Reforestación y restauración ecológica en áreas protegidas.",
+          "Redes y plantas de tratamiento de agua potable y alcantarillado (PTAR)."
+        ] },
+        { "titulo": "Seguridad y convivencia", "items": [
+          "Barrios Vivos (red de enlaces de paz): iluminación LED inteligente y recuperación de espacios públicos con eventos culturales.",
+          "Centro de Control y Comando, Centro de Procesamiento de Datos y ambulancias para urgencias médicas.",
+          "Sistema informático y data center \"Mejía Segura 360\", articulado con la Policía Nacional y las Fuerzas Armadas.",
+          "Mejora de la infraestructura física de las UPC.",
+          "Alarmas comunitarias y red de cámaras con reconocimiento facial.",
+          "Observatorio del Delito."
+        ] },
+        { "titulo": "Salud, bienestar y protección social", "items": [
+          "Convenios con universidades e institutos tecnológicos.",
+          "Sede universitaria UCE + UTC.",
+          "Agenda cantonal de igualdad e inclusión social (aparece dos veces en la tabla).",
+          "Centro multifuncional intergeneracional, de acogida a mujeres violentadas y de rehabilitación de adicciones.",
+          "Bancos de leche humana de madres lactantes solidarias.",
+          "Centro de rescate animal y albergue municipal.",
+          "Convenios de pasantías y contrato juvenil.",
+          "Hospital Básico de Machachi y centros de salud parroquiales: gestión de equipamiento, personal y atención especializada.",
+          "Cementerio.",
+          "Escuelas deportivas.",
+          "Campamentos vacacionales.",
+          "Bailoterapias barriales matutinas y nocturnas."
+        ] },
+        { "titulo": "Desarrollo económico, productivo y empleo", "items": [
+          "Economía popular y solidaria (banca comunal, canasta solidaria, agricultura urbana, ferias del campo a la mesa, huertas agroecológicas).",
+          "Mercado de suelo y vivienda.",
+          "Plan Maestro Turístico \"Mejía cantón de los 9 volcanes\".",
+          "Aplicación móvil \"Rumiñahui Destino Turístico\" (nombre tal como figura en el plan).",
+          "Proyectos de difusión cultural con fondos concursables.",
+          "Regularizar y ordenar el comercio autónomo."
+        ] },
+        { "titulo": "Agua, ambiente y sostenibilidad", "items": [
+          "Programa de fortalecimiento de las juntas de agua.",
+          "Reforestación y restauración ecológica en áreas protegidas.",
+          "Pacto por el Agua de Mejía (páramos, quebradas, zonas de recarga y frontera agrícola)."
+        ] },
+        { "titulo": "Rendición de cuentas", "items": [
+          "Rendición pública con transmisión en vivo en barrios de Machachi, gobierno abierto, web, Asamblea Cantonal, veedurías, observatorios y presupuestos participativos."
+        ] }
+      ],
+      "notas": [
+        "Plan obtenido por OCR. La tabla del plan plurianual (págs. 10-12) se verificó contra las imágenes, porque el OCR mezclaba columnas.",
+        "La tabla lista un proyecto como \"Aplicación Móvil Rumiñahui Destino Turístico\" y la sección LOTAIP menciona el 'portal del GADMUR' (siglas del GAD de Rumiñahui); se transcribe tal cual.",
+        "La cifra de ejecución presupuestaria de 2023 (55,27 %) es del plan y no se verificó."
+      ]
+    },
+    {
+      "codFormulario": 3805,
+      "enfoque": "Plan técnico centrado en auditar y terminar obras heredadas, en el mantenimiento de servicios y vías y en elevar la ejecución de la inversión, con metas, costos referenciales y agenda de 100 días.",
+      "estructura": "6 ejes · 24 programas o acciones prioritarias · metas e indicadores 2031 · matriz financiera · agenda de 100 días · semáforo de viabilidad",
+      "tabla": {
+        "movilidad": [
+          { "t": "Sistema Cantonal de Gestión Vial: inventario del 100 % de la red urbana en 2027 y mantenimiento programado anual desde 2028", "v": "alta", "n": "La vialidad urbana es competencia propia; de los USD 20 M referenciales, USD 14 M son aporte del GAD." },
+          { "t": "Reducir en al menos 30 % el tiempo de atención de baches críticos; caminabilidad, aceras y entornos escolares", "v": "alta", "n": "Es una meta operativa en competencia propia." },
+          { "t": "Paradas seguras en Tambillo, Alóag y Cutuglagua; consolidar el acceso a Cutuglagua tras la recepción técnica", "v": "alta", "n": "El anillo vial de Cutuglagua ya tiene un crédito BDE de USD 2,81 M aprobado en 2025." },
+          { "t": "Convenios con Prefectura y MTOP para corredores compartidos", "v": "media", "n": "Son vías de otra jurisdicción." }
+        ],
+        "servicios": [
+          { "t": "Mejía Agua Segura y Saneamiento 2031: rehabilitación de redes, micromedición, control de pérdidas, alcantarillado y eliminación de descargas", "v": "media", "n": "Es competencia directa, pero pide USD 30 M (USD 18 M del GAD y hasta USD 8 M de BDE); EPAAGE tuvo USD 7,17 M en 2025 y ejecutó el 57,61 %." },
+          { "t": "Cobertura de alcantarillado: incremento de al menos 3 puntos porcentuales a 2031", "v": "alta", "n": "Es una meta modesta y sujeta a línea base." },
+          { "t": "Auditar y definir la continuidad de Puichig, del control de inundaciones de Aloasí, del Parque Lineal El Timbo y de la central La Calera", "v": "alta", "n": "Son obras existentes; La Calera ejecutó solo el 31,58 % de su presupuesto en 2025." },
+          { "t": "Drenaje y quebradas: 100 % de los puntos críticos con intervención o solución programada", "v": "alta", "n": "El drenaje es competencia municipal." }
+        ],
+        "ambiente": [
+          { "t": "Residuos y barrios limpios: optimizar la recolección, separación progresiva y reciclaje", "v": "alta", "n": "Competencia propia." }
+        ],
+        "urbano": [
+          { "t": "Rehabilitar equipamientos (coliseo y otros) solo con plan de uso, mantenimiento y demanda", "v": "alta", "n": "Es un criterio de priorización, no una obra nueva." }
+        ],
+        "seguridad": [
+          { "t": "Mesa Cantonal de Seguridad, Convivencia y Riesgos con Policía, ECU 911 y Bomberos (100 días)", "v": "alta", "n": "Es coordinación, sin sustituir a la Policía." },
+          { "t": "Auditar cámaras y alarmas; al menos 90 % de disponibilidad en la red municipal priorizada", "v": "media", "n": "Es de apoyo a la seguridad, competencia nacional; USD 8 M referenciales para el eje." },
+          { "t": "Mapa de riesgos, protocolos para el 100 % de las amenazas prioritarias, simulacros y fortalecimiento de Bomberos", "v": "alta", "n": "La gestión de riesgos y los bomberos son competencias municipales." }
+        ],
+        "social": [
+          { "t": "Salud preventiva por convenios (nutrición, salud mental, odontología y salud visual)", "v": "media", "n": "Es complementaria al MSP y depende de convenios." },
+          { "t": "Juventud con oportunidades, cultura y deporte itinerantes, inclusión de adultos mayores y discapacidad; al menos 8 convenios estratégicos", "v": "alta", "n": "Son programas municipales de escala moderada (USD 7 M referenciales)." }
+        ],
+        "economia": [
+          { "t": "Mejía Produce y Emprende: al menos 500 negocios o productores acompañados y al menos 10 % de aumento de ventas en la muestra", "v": "media", "n": "Es fomento complementario; las ventas dependen del mercado." },
+          { "t": "Valle de los 9 Volcanes 2.0: al menos 5 rutas turísticas con estándar", "v": "alta", "n": "La promoción turística está al alcance municipal." },
+          { "t": "Reducir en al menos 30 % el tiempo de trámites económicos; mejoras en mercados y ferias", "v": "alta", "n": "Competencia propia." }
+        ],
+        "gobierno": [
+          { "t": "Ejecución de inversión de al menos 70 % en 2028 y al menos 80 % desde 2029", "v": "media", "n": "Es ambiciosa: el GAD ejecutó el 33,68 % de su inversión en 2024. La reforma del COOTAD exige además destinar al menos 65 % del gasto no financiero a inversión." },
+          { "t": "Banco Cantonal de Proyectos con una cartera anual de al menos USD 20 M lista para contratar; tablero de obras con el 100 % publicado", "v": "alta", "n": "Es una competencia interna." },
+          { "t": "Al menos 70 % de los trámites de mayor demanda digitalizados; Alcaldía en Territorio con rendición trimestral por parroquia", "v": "alta", "n": "Competencia propia." },
+          { "t": "Reconstrucción pública de la serie de inversión municipal 2006-2026", "v": "alta", "n": "Es una tarea administrativa de bajo costo." }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "100 % de los sistemas de agua priorizados con plan de operación, conservación y mantenimiento (OCM).",
+        "Cobertura de alcantarillado: incremento de al menos 3 puntos porcentuales, sujeto a línea base.",
+        "100 % de los resultados de calidad del agua publicados; 100 % de los puntos críticos de drenaje con intervención o solución programada.",
+        "Red vial urbana 100 % inventariada en 2027; mantenimiento programado anual desde 2028; tiempo de atención de baches críticos reducido en al menos 30 %.",
+        "Cámaras y alarmas con al menos 90 % de disponibilidad; protocolos para el 100 % de las amenazas prioritarias.",
+        "100 % de las parroquias con agenda rotativa; al menos 8 convenios estratégicos.",
+        "Al menos 500 negocios o productores acompañados; trámites económicos al menos 30 % más rápidos; al menos 5 rutas turísticas; ventas al menos 10 % mayores en la muestra.",
+        "Ejecución de inversión de al menos 70 % en 2028 y al menos 80 % desde 2029; 100 % de los proyectos publicados; cartera de al menos USD 20 M por año; al menos 70 % de los trámites digitalizados."
+      ],
+      "inversion": "USD 81 M referenciales para 2027-2031: agua y saneamiento USD 30 M (GAD 18, BDE hasta 8, cooperación 1, cofinanciamiento 3); movilidad USD 20 M (GAD 14, BDE hasta 4, cooperación 0,5, cofinanciamiento 1,5); seguridad USD 8 M (GAD 6); bienestar USD 7 M (GAD 5); economía y turismo USD 8 M (GAD 5); gobierno y preinversión USD 8 M en la matriz financiera, pero USD 3 M en el texto del Eje 6. El aporte del GAD suma USD 55 M.",
+      "primeros100": [
+        "Auditoría técnica y financiera de obras, contratos, servicios básicos y empresas o unidades municipales.",
+        "Reconstrucción del registro histórico de inversión municipal 2006-2026.",
+        "Inventario georreferenciado de agua, alcantarillado, descargas, drenajes y puntos de inundación.",
+        "Inventario vial urbano, aceras, puentes, señalización y puntos críticos.",
+        "Auditoría y hoja de ruta de Puichig, control de inundaciones de Aloasí, El Timbo, La Calera, Alóag y acceso a Cutuglagua.",
+        "Instalación de la Mesa Cantonal de Seguridad, Convivencia y Gestión de Riesgos.",
+        "Creación del Banco Cantonal de Proyectos y cronograma anual de contratación.",
+        "Inicio de mesas parroquiales para priorizar servicios, vialidad, economía y turismo."
+      ],
+      "detalle": [
+        { "titulo": "Diagnóstico y obras heredadas", "items": [
+          "Cita un presupuesto aprobado de más de USD 40 M en 2025 y una ejecución de inversión debilitada en los años recientes.",
+          "Puichig: completar de forma condicionada a una auditoría técnica, contractual e hidráulica.",
+          "Control de inundaciones de Aloasí: reformular o completar según un modelo hidráulico postevento.",
+          "Parque Lineal El Timbo: auditar y recuperar.",
+          "Central Hidroeléctrica La Calera: continuar el mantenimiento con diagnóstico de vida útil.",
+          "Acceso a Cutuglagua: completar y consolidar tras la recepción técnica.",
+          "Vías y caminos vecinales: bacheo y mantenimiento semestral, embaulamiento de quebradas, limpieza de cunetas y señalización escolar.",
+          "Coliseo y equipamientos: mantener u optimizar, sin nuevas fases sin análisis de demanda."
+        ] },
+        { "titulo": "Diez compromisos", "items": [
+          "Auditar en 100 días los servicios, contratos y obras de arrastre.",
+          "Publicar el 100 % de la cartera de inversión.",
+          "Priorizar saneamiento y drenaje antes que obras ornamentales.",
+          "Sistema de mantenimiento preventivo vial y de espacio público.",
+          "Resolver técnicamente la continuidad de Puichig, Aloasí, El Timbo, La Calera, Cutuglagua, Tambillo y Alóag.",
+          "Mesa cantonal de seguridad con Policía, ECU 911 y Bomberos.",
+          "Mejía Produce y Emprende.",
+          "Marca Valle de los 9 Volcanes, segunda etapa.",
+          "Salud preventiva, educación complementaria, cultura y deporte por convenios.",
+          "Elevar progresivamente la ejecución de la inversión."
+        ] },
+        { "titulo": "Eje 1 · Servicios que funcionan: agua, saneamiento y residuos (USD 30 M)", "items": [
+          "Línea base georreferenciada de captaciones, redes, tanques, alcantarillado, descargas, plantas y drenajes en 90 días.",
+          "Agua Segura Mejía: rehabilitación de redes, micromedición, control de pérdidas y continuidad.",
+          "Saneamiento 2031: alcantarillado, tratamiento y eliminación de descargas críticas.",
+          "Drenaje y quebradas: inventario, limpieza y soluciones hidráulicas.",
+          "Residuos y barrios limpios: recolección, separación, reciclaje y puntos críticos.",
+          "Separar el drenaje pluvial del saneamiento donde sea viable; ejecución por paquetes territoriales anuales; telemetría donde sea rentable."
+        ] },
+        { "titulo": "Eje 2 · Movilidad y calles para la vida (USD 20 M)", "items": [
+          "Mantenimiento por condición: bacheo estandarizado, recapado, drenaje y rehabilitación.",
+          "Caminabilidad: aceras, cruces, accesibilidad universal y entornos escolares.",
+          "Paradas seguras en Tambillo, Alóag y Cutuglagua.",
+          "Gestión interinstitucional: convenios con Prefectura y MTOP.",
+          "Publicación del cronograma de obras, cierres, avance y reclamos."
+        ] },
+        { "titulo": "Eje 3 · Cantón ordenado, barrios seguros y gestión de riesgos (USD 8 M)", "items": [
+          "Entornos seguros: iluminación, poda, accesibilidad y rutas seguras.",
+          "Tecnología útil: auditoría y ampliación solo donde haya brechas verificadas.",
+          "Mejía preparado: mapas, simulacros, brigadas y protocolos.",
+          "Prevención social: deporte, cultura, mediación y prevención de violencias y adicciones.",
+          "Fortalecer a Bomberos y aplicar ordenanzas de espacio público."
+        ] },
+        { "titulo": "Eje 4 · Bienestar, salud preventiva, educación, cultura y deporte (USD 7 M)", "items": [
+          "Salud preventiva cerca de ti (por convenios y derivación).",
+          "Juventud con oportunidades: habilidades digitales, orientación laboral y emprendimiento.",
+          "Cultura y deporte: programación territorial y mantenimiento de escenarios.",
+          "Inclusión: accesibilidad y programas para adultos mayores y personas con discapacidad."
+        ] },
+        { "titulo": "Eje 5 · Economía local, empleo, producción y turismo (USD 8 M)", "items": [
+          "Mejía Emprende: ventanilla, formación y asistencia.",
+          "Compra en Mejía: directorio y promoción del comercio local.",
+          "Valle de los 9 Volcanes 2.0: rutas integradas, gastronomía, marca y comercialización.",
+          "Mercados y ferias: mejora operativa, sanitaria y comercial.",
+          "Directorio de negocios y simplificación de trámites con tiempos estándar."
+        ] },
+        { "titulo": "Eje 6 · Municipio abierto, eficiente y cercano (USD 3 M en el texto; USD 8 M en la matriz)", "items": [
+          "Banco de Proyectos (preinversión y diseños).",
+          "Tablero de Obras (contratos, costos y avances).",
+          "Trámites simples (digitalización).",
+          "Alcaldía en Territorio (mesas por parroquia).",
+          "Cronograma anual de contratación publicado en enero y unidad de seguimiento de proyectos estratégicos."
+        ] },
+        { "titulo": "Rendición de cuentas y control", "items": [
+          "Tablero público mensual, informe territorial trimestral, rendición formal anual, audiencia de mitad de período, veedurías y Alcaldía en territorio mensual o bimensual.",
+          "Semáforo de viabilidad propio: legal y social en verde; técnico, financiero e institucional en amarillo.",
+          "Regla fiscal: no adjudicar sin fuente cierta, costo total, permisos y estimación de operación y mantenimiento."
+        ] }
+      ],
+      "notas": [
+        "Texto digital legible (sin OCR).",
+        "Discrepancia interna: el Eje 6 indica un costo referencial de USD 3 M, pero la matriz financiera 12.1 asigna USD 8 M a 'Gobierno / preinversión'. Por eso el total es de USD 76 M o USD 81 M según la fuente interna.",
+        "La portada dice 'Valle de los 3 Volcanes' y el resto del documento 'Valle de los 9 Volcanes'; la nota de rigor menciona 'liquidación presupuestaria 202c' (errata del original).",
+        "El plan se presenta como 'versión técnica para validación' y su lista de control final pide incorporar firmas antes de la inscripción.",
+        "La cifra de 'más de USD 40 millones' de presupuesto aprobado para 2025 no se verificó; el dato verificado del GAD es de USD 41,47 M aprobado en 2024."
+      ]
+    },
+    {
+      "codFormulario": 8043,
+      "enfoque": "Plan con orientación industrial y logística (parque industrial en Alóag y Tambillo), reducción de pérdidas de agua, cámaras rurales contra el abigeato y reorganización de Acción Social, con presupuestos por proyecto.",
+      "estructura": "8 objetivos específicos · 7 ejes · 10 proyectos en matriz plurianual con presupuesto · agenda de 100 días · anexo con 61 obras parroquiales",
+      "tabla": {
+        "movilidad": [
+          { "t": "Plan vial: 2 pasos peatonales elevados (estudios en el año 1), USD 4,5 M por crédito BDE sujeto a estudios", "v": "media", "n": "Los pasos sobre la E-35 y la E-20 son vías estatales; requieren autorización del MTOP." },
+          { "t": "Ciclovías interparroquiales, bacheo asfáltico y semaforización de nudos críticos", "v": "alta", "n": "Son competencias de vialidad urbana y tránsito, aunque sin metas." },
+          { "t": "Distribuidor de tránsito en el nudo de Alóag y anillo vial de Machachi (anexo de obras)", "v": "media", "n": "El nudo de Alóag es vía estatal; no tiene montos." }
+        ],
+        "servicios": [
+          { "t": "Agua para la Vida: reducir las pérdidas físicas de agua del 45 % al 25 %, con cambio de tuberías y detección de fugas; USD 18,5 M con crédito BDE descrito como preaprobado", "v": "media", "n": "Es competencia directa, pero el monto supera 2,5 veces el presupuesto anual de EPAAGE (USD 7,17 M en 2025). El crédito 'preaprobado' no se verificó." },
+          { "t": "Colectores marginales y plantas de aguas servidas en Machachi", "v": "media", "n": "Es competencia propia, sin monto ni plazo." }
+        ],
+        "ambiente": [
+          { "t": "Plan de adaptación climática: 3 cuencas monitoreadas, conservación y reforestación (USD 800.000 de gestión multilateral)", "v": "media", "n": "Depende de financiamiento multilateral y del MAATE." },
+          { "t": "Aplicación de la Ordenanza de Compensación Ambiental; islas de reciclaje y recolección diferenciada rural", "v": "alta", "n": "Son competencias de residuos y de regulación municipal." }
+        ],
+        "urbano": [
+          { "t": "Actualización del PUGS en el año 1 (USD 80.000) y catastro multifinalitario", "v": "alta", "n": "Son competencias exclusivas de suelo y catastro." },
+          { "t": "Campaña masiva de escrituración: el plan cita un 45 % de predios sin escrituras (PDOT 2020)", "v": "alta", "n": "La regularización es competencia municipal." },
+          { "t": "Mantenimiento, pintura e iluminación de todos los parques centrales parroquiales (días 31-60)", "v": "alta", "n": "Es de bajo costo, con cuadrillas propias." },
+          { "t": "Regeneración del centro histórico de Machachi y remodelación del mercado (anexo)", "v": "media", "n": "Sin montos." }
+        ],
+        "seguridad": [
+          { "t": "Mejía Seguro: de 12 a 120 cámaras rurales (40 en el año 1) y alarmas comunitarias; USD 1,2 M", "v": "media", "n": "Es de apoyo a la seguridad nacional y requiere convenio con el Ministerio del Interior; el monto es acotado." },
+          { "t": "Plan especial de prevención del abigeato; cámaras con IA y drones con el ECU 911", "v": "media", "n": "El abigeato es competencia policial; el municipio solo apoya." },
+          { "t": "Fortalecimiento de Bomberos en Tandapi; albergues por lahares en Tambillo; vías de evacuación volcánica en Alóag (anexo)", "v": "alta", "n": "Los riesgos y los bomberos son competencia municipal." }
+        ],
+        "social": [
+          { "t": "Unificación de los programas de adulto mayor (Envejeciendo Juntos, Mis Años Dorados, Baila y Vive); USD 350.000", "v": "alta", "n": "Es una reorganización interna de Acción Social." },
+          { "t": "Programa de inclusión económica: 250 beneficiarias con enlace a microcrédito de BanEcuador; USD 180.000", "v": "media", "n": "El crédito depende de BanEcuador." },
+          { "t": "Fortalecimiento cultural: talleres permanentes e instrumentos en 8 parroquias; USD 120.000", "v": "alta", "n": "Es de escala pequeña y competencia municipal." },
+          { "t": "Traslado de los proyectos deportivos y culturales de Acción Social a la Dirección de Participación; USD 15.000", "v": "alta", "n": "Es administrativo." }
+        ],
+        "economia": [
+          { "t": "Parque industrial cantonal: 50 ha con servicios en Alóag y Tambillo (10 ha en el año 2); USD 12 M por alianza público-privada por gestionar", "v": "media", "n": "La delimitación del suelo es competencia propia, pero dotar de servicios a 50 ha depende de una APP no concretada." },
+          { "t": "Rutas turísticas del Chagra (5 rutas), Ruta Ferroviaria y Ruta Gastronómica E-20", "v": "alta", "n": "La promoción turística está al alcance municipal." }
+        ],
+        "gobierno": [
+          { "t": "Ventanilla Única de Inversiones: patente de 45 días a 1 día; USD 450.000", "v": "alta", "n": "Competencia de regulación propia." },
+          { "t": "Digitalización del 100 % de los trámites; sistema de análisis de precios unitarios (APU) y banco municipal de proyectos", "v": "alta", "n": "Competencia interna." },
+          { "t": "Presupuesto participativo: 10 % de la inversión decidida por asambleas parroquiales", "v": "alta", "n": "Atribución del Concejo." }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "Pérdidas físicas de agua: 40 % en el año 1 y 25 % al final (línea base 45 %, citada de EP-MAPA 2025).",
+        "Cámaras rurales: 40 en el año 1 y 120 al final (línea base 12).",
+        "Parque industrial: 10 ha en el año 2 y 50 ha con servicios al final.",
+        "Pasos peatonales elevados: 2 construidos.",
+        "Patentes: 15 días en el año 1 y 1 día al final (línea base 45 días).",
+        "3 cuencas críticas monitoreadas; 250 beneficiarias con ingresos autónomos; talleres culturales en 8 parroquias; 100 % de los adultos mayores en un programa unificado.",
+        "5 rutas turísticas; 100 % de los trámites digitalizados; 10 % del presupuesto de inversión para presupuestos participativos."
+      ],
+      "inversion": "Proyectos de la matriz: agua USD 18,5 M (crédito BDE descrito como preaprobado); parque industrial USD 12 M (APP por gestionar); pasos peatonales USD 4,5 M (crédito BDE sujeto a estudios); cámaras USD 1,2 M; adaptación climática USD 0,8 M; ventanilla única USD 0,45 M; adulto mayor USD 0,35 M; inclusión económica USD 0,18 M; PUGS USD 0,08 M; cultura USD 0,12 M; traspaso de proyectos USD 0,015 M. Inversión total referencial de USD 150 a 250 M para 2027-2031 (35 % vialidad, 25 % agua, 15 % industria, 10 % social, 10 % turismo y cultura, 5 % seguridad), en tres escenarios.",
+      "primeros100": [
+        "Días 1-30: diagnóstico financiero, evaluación del PDOT y fase precontractual de ínfima cuantía de materiales para los parques centrales parroquiales.",
+        "Días 31-60: mantenimiento, pintura e iluminación de todos los parques centrales parroquiales; priorización participativa de obras.",
+        "Días 61-100: inicio del estudio para trasladar los proyectos deportivos y culturales de Acción Social a la Dirección de Participación Ciudadana, Cultura y Deportes."
+      ],
+      "detalle": [
+        { "titulo": "Diagnóstico", "items": [
+          "45 % de los predios consolidados sin escrituración (PDOT 2020), en Cutuglagua y Tambillo.",
+          "45 % de pérdida física de agua en Machachi y Tambillo (EP-MAPA 2025).",
+          "Alta siniestralidad en cruces de Tambillo y Alóag (E-35 y E-20).",
+          "Abigeato e inseguridad rural, con solo 12 cámaras rurales (ECU 911, 2025).",
+          "Duplicidad de programas de adulto mayor y proyectos deportivos y culturales mal adscritos en Acción Social (FODA 2026).",
+          "Débil oferta cultural parroquial."
+        ] },
+        { "titulo": "Ejes estratégicos", "items": [
+          "Eje 1: Ordenamiento territorial y seguridad jurídica (PUGS y regularización masiva).",
+          "Eje 2: Desarrollo industrial y logístico (corredores industriales en Alóag y Tambillo).",
+          "Eje 3: Movilidad y conectividad (pasos peatonales, ciclovías interparroquiales y bacheo).",
+          "Eje 4: Servicios básicos y saneamiento (pérdidas de agua al 25 % y colectores marginales).",
+          "Eje 5: Seguridad, prevención y convivencia (120 cámaras rurales y alarmas).",
+          "Eje 6: Desarrollo económico, turismo y cultura (rutas del Chagra y programa cultural).",
+          "Eje 7: Gestión ambiental y recursos hídricos (páramos y Ordenanza de Compensación Ambiental)."
+        ] },
+        { "titulo": "Problemas estructurales (período de gestión)", "items": [
+          "Delimitación de corredores industriales en Tambillo, Alóag, Uyumbicho y Cutuglagua.",
+          "Actualización catastral multifinalitaria.",
+          "Campaña masiva de escrituración.",
+          "Colectores marginales y plantas de aguas servidas en Machachi.",
+          "Programa único de adulto mayor.",
+          "Conversión de 'Pan, un Arte de los Mejienses' y de los talleres de mujeres en un programa de inclusión económica con microcréditos.",
+          "Programa de fortalecimiento de la cultura en las 7 parroquias rurales."
+        ] },
+        { "titulo": "Matriz plurianual (10 proyectos)", "items": [
+          "OE3 Actualización del PUGS: año 1, USD 80.000, ingresos propios.",
+          "OE6 Parque Industrial Cantonal: años 2-3, 50 ha, USD 12.000.000, APP por gestionar.",
+          "OE4 Plan vial y pasos peatonales: años 1-2, 2 pasos, USD 4.500.000, crédito BDE sujeto a estudios.",
+          "OE2 Optimización de redes de agua (Agua para la Vida): años 2-4, pérdidas al 25 %, USD 18.500.000, crédito BDE preaprobado.",
+          "OE5 Mejía Seguro (cámaras y alarmas): años 1-3, 120 cámaras, USD 1.200.000, convenios.",
+          "OE7 Plan de adaptación climática: años 1-4, 3 cuencas, USD 800.000, gestión multilateral.",
+          "OE1 Ventanilla Única de Inversiones: años 1-2, patente en 1 día, USD 450.000.",
+          "OE8 Programa integral del adulto mayor: años 1-4, USD 350.000.",
+          "OE6 Programa de inclusión económica: años 2-4, 250 beneficiarias, USD 180.000.",
+          "OE1 Estudio de traspaso de proyectos: año 1, USD 15.000.",
+          "OE8 Programa de fortalecimiento cultural: años 1-4, 8 parroquias, USD 120.000."
+        ] },
+        { "titulo": "Financiamiento, seguimiento y participación", "items": [
+          "Escenarios de inversión: básico USD 150 M (transferencias del PGE y predial), esperado USD 200 M (crédito BDE) y ampliado USD 250 M (fideicomisos y cooperación).",
+          "Sistema de APU actualizado trimestralmente, banco municipal de proyectos y unificación operativa GAD-empresas públicas.",
+          "Semaforización semestral de proyectos (verde, amarillo, rojo y azul).",
+          "Informe trimestral en datos abiertos; audiencias semestrales en las 7 parroquias; respuesta ciudadana en 15 días laborables.",
+          "Presupuesto participativo del 10 %, silla vacía y veedurías.",
+          "Enfoques de igualdad: 'Auténtica Mujer Mejiense', CDI y centros de cuidado diario, rehabilitación domiciliaria e integración de migrantes."
+        ] },
+        { "titulo": "Anexo B · 61 obras parroquiales", "items": [
+          "Machachi (8): faenamiento, plan maestro de agua y alcantarillado, regeneración del centro histórico, centro turístico, anillo vial, alumbrado LED, remodelación del mercado, islas de reciclaje.",
+          "Cutuglagua (8): alcantarillado periférico, redes de agua, zona industrial, cámaras en el límite con Quito, Parque Lineal, pavimentación de colectoras, muros en quebradas, ventanilla municipal.",
+          "Tambillo (8): vías del corredor logístico, agua en sectores altos, pasos elevados en la Panamericana, ciclovías, caminos vecinales, Casa Comunal del Chagra, equipamiento recreativo, albergues por lahares.",
+          "Uyumbicho (8): recargas hídricas, estudios del corredor logístico, reforestación, miradores, adoquín de accesos, centro del adulto mayor, control de descargas, señalización.",
+          "Alóag (8): distribuidor de tránsito en el nudo, zona industrial, vías de evacuación volcánica, alarmas rurales, colectores pluviales, caminos lecheros, iluminación, paraderos en la E-20.",
+          "Aloasí (7): regularización de predios rurales, Ruta Ferroviaria, caminos vecinales, senderos al Corazón, recolección diferenciada, sede parroquial, mejoramiento de la JAAP.",
+          "El Chaupi (7): senderos a los Ilinizas, JAAP rural, paraderos turísticos, reforestación de páramos, caminos ganaderos, capacitación láctea, centro diurno infantil.",
+          "Tandapi (7): mitigación de deslizamientos en el Toachi, Bomberos, Ruta Gastronómica E-20, alcantarillado, senderos a cascadas, caminos frutícolas, luminarias solares."
+        ] }
+      ],
+      "notas": [
+        "Plan obtenido por OCR. La matriz plurianual (págs. 9-10) y los objetivos (pág. 7) se verificaron contra las imágenes; el OCR leía '$ rutas' donde la imagen dice '5 rutas'.",
+        "El plan nombra a la empresa de agua 'EP-MAPA'; la empresa vigente se llama EPAAGE-Mejía EP. Las líneas base (45 % de pérdidas, 12 cámaras, 45 días por patente) son del plan y no se verificaron.",
+        "La inversión de USD 150-250 M en 4 años equivale a USD 37-62 M por año, frente a un presupuesto total del GAD de unos USD 41-43 M en 2024.",
+        "Varias obras del anexo (pasos en la Panamericana, nudo de Alóag, paraderos en la E-20, caminos vecinales) corresponden a vías estatales o a la vialidad rural de la Prefectura."
+      ]
+    },
+    {
+      "codFormulario": 10987,
+      "enfoque": "Plan territorial de siete ejes que prioriza ordenamiento y regeneración urbana (calle 11 de Noviembre), solución de accesos sobre la E35 con el MTOP y reducción de brechas de agua y alcantarillado en El Chaupi y Manuel Cornejo Astorga.",
+      "estructura": "7 ejes · 29 programas · 33 proyectos prioritarios · banco de 15 ideas de proyecto · 1 ficha de proyecto · matriz de prioridades",
+      "tabla": {
+        "movilidad": [
+          { "t": "Solución integral para el ingreso a Machachi en el semáforo de la E35 (lazo, paso elevado o deprimido), por convenio con el MTOP; estudios 2028-2029", "v": "media", "n": "La E35 es vía estatal; el plan lo reconoce y lo plantea como gestión." },
+          { "t": "Terminal o centro de transferencia de pasajeros junto a la E35 en el ingreso a El Murco; estudios 2027 y fases 2028-2031", "v": "media", "n": "El transporte es competencia municipal, pero requiere suelo, autorización del MTOP y fases." },
+          { "t": "Plan cantonal de movilidad y mantenimiento vial por prioridades, con inventario georreferenciado", "v": "alta", "n": "Vialidad urbana propia." },
+          { "t": "Rutas peatonales seguras y sistema cantonal de señalización, semaforización y puntos de alta siniestralidad", "v": "alta", "n": "Competencia de tránsito municipal." }
+        ],
+        "servicios": [
+          { "t": "Reducir las brechas de agua (89,9 %) y alcantarillado (76,21 %), priorizando El Chaupi y Manuel Cornejo Astorga: plan maestro de agua con micromedición y control de pérdidas, plan de saneamiento por parroquia y PTAR", "v": "alta", "n": "Es competencia directa, pero el costo se estima solo como 'más de un millón de dólares'." },
+          { "t": "Ordenanza para declarar de utilidad pública las zonas de nacimiento de fuentes de agua", "v": "media", "n": "La expropiación implica costos de suelo no estimados." },
+          { "t": "Drenaje urbano preventivo y limpieza programada de sumideros y cauces", "v": "alta", "n": "Competencia propia." }
+        ],
+        "ambiente": [
+          { "t": "Modelo integral de residuos: separación, reciclaje inclusivo, compostaje y rutas", "v": "alta", "n": "Competencia propia." },
+          { "t": "Recuperación y declaratoria de utilidad pública del Bosque Protector Santa Catalina como ACUS", "v": "media", "n": "Implica adquisición de suelo y coordinación con la autoridad ambiental." },
+          { "t": "Biocorredor del puma, corredores verdes, viveros municipales y control ambiental (agua, suelo, aire y ruido)", "v": "alta", "n": "Escala municipal, sin montos." }
+        ],
+        "urbano": [
+          { "t": "Regeneración integral de la calle 11 de Noviembre (aceras, iluminación, drenaje, arbolado, ordenamiento de ventas y fachadas), 2027-2029", "v": "alta", "n": "Espacio público y vialidad urbana propios, aunque sin monto." },
+          { "t": "Plan de centralidades para Machachi y las parroquias; recuperación de parques, plazas y mercados", "v": "alta", "n": "Competencia municipal." },
+          { "t": "Catastro multipropósito integrado con permisos, riesgos, redes y recaudación, 2027-2029", "v": "alta", "n": "Competencia exclusiva." }
+        ],
+        "seguridad": [
+          { "t": "Iluminación, diseño urbano preventivo, videovigilancia de equipamientos municipales y alarmas, con coordinación con Policía y ECU 911", "v": "alta", "n": "Limitado a espacios municipales." },
+          { "t": "Sistema municipal de información de riesgos; mapas de amenazas, rutas de evacuación y planes comunitarios (volcánica, deslizamientos, inundaciones e incendios)", "v": "alta", "n": "La gestión de riesgos es competencia municipal." }
+        ],
+        "social": [
+          { "t": "Agenda cultural anual descentralizada; activación de canchas, casas comunales y bibliotecas", "v": "alta", "n": "Atribución municipal." },
+          { "t": "Servicios y convenios para adultos mayores, discapacidad, niñez, mujeres víctimas de violencia y hogares vulnerables", "v": "media", "n": "Dependen de convenios con el MIES y otras entidades sectoriales." },
+          { "t": "Prevención de violencia y consumo problemático mediante cultura, deporte y mediación", "v": "media", "n": "Es complementaria a las competencias nacionales." }
+        ],
+        "economia": [
+          { "t": "Modernización de mercados (2028-2030) y red de acopio en concurrencia con la Prefectura", "v": "media", "n": "Los mercados son propios; el acopio depende de concurrencia." },
+          { "t": "Marca territorial Mejía y rutas turísticas (Chagra, Avenida de los Volcanes, termas, gastronomía, ciclismo)", "v": "alta", "n": "Promoción turística municipal." },
+          { "t": "Ventanilla de emprendimiento y agenda de atracción de inversión responsable", "v": "media", "n": "El empleo no es competencia municipal." }
+        ],
+        "gobierno": [
+          { "t": "Expediente municipal digital y tablero público del Plan con metas, contratos, avance y fotografías por parroquia", "v": "alta", "n": "Competencia interna." },
+          { "t": "Banco cantonal de proyectos, reingeniería y revisión del orgánico; recaudación y reducción de cartera vencida", "v": "alta", "n": "Competencia interna." },
+          { "t": "Destinar el 70 % del gasto no financiero a inversión; asambleas y presupuesto participativo", "v": "media", "n": "Supera el mínimo de 65 % que exige el COOTAD reformado para 2026, pero el GAD ejecutó solo el 33,68 % de la inversión en 2024." }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "Reducir las brechas de agua potable (89,9 %) y alcantarillado (76,21 %) respecto del PDOT, con medición por parroquia; no fija un porcentaje objetivo.",
+        "Para los demás ejes, la línea base se establecerá en el primer semestre de 2027; no fija metas cuantitativas."
+      ],
+      "inversion": "Sin montos por proyecto; la ficha del programa de agua y saneamiento estima 'más de un millón de dólares'. Fuentes: recursos propios (70 % del gasto no financiero a inversión, predial, patentes, tasas y contribuciones), crédito BDE, cooperación, APP y empresas públicas, inversión privada y fondos de cogestión comunitaria.",
+      "primeros100": null,
+      "detalle": [
+        { "titulo": "Diagnóstico", "items": [
+          "Siete problemas: crecimiento urbano y periurbano; congestión y transferencia de pasajeros en Machachi y Tambillo frente a la E35; brechas de servicios (agua 89,9 % y alcantarillado 76,21 %; déficit de alcantarillado del 70,2 % en El Chaupi y del 46,8 % en Manuel Cornejo Astorga, y déficit de agua del 44,7 % en esta última); presión sobre páramos y riesgos; débil articulación productiva; desigualdad en equipamientos; fragmentación institucional."
+        ] },
+        { "titulo": "Eje 1 · Ordenamiento territorial, desarrollo urbano y espacio público", "items": [
+          "Programa de implementación y actualización del PDOT-PUGS.",
+          "Programa de catastro multipropósito, regularización y control urbano.",
+          "Programa de regeneración urbana, patrimonio y espacio público.",
+          "Programa de barrios y centralidades parroquiales.",
+          "Programa de recuperación de parques, plazas, mercados y entornos patrimoniales.",
+          "Plan territorial de centralidades y regeneración urbana.",
+          "Proyecto: regeneración integral de la calle 11 de Noviembre.",
+          "Proyecto: plan de centralidades para Machachi y parroquias.",
+          "Proyecto: actualización e integración del catastro."
+        ] },
+        { "titulo": "Eje 2 · Movilidad, vialidad urbana y conectividad", "items": [
+          "Programa de vialidad urbana y mantenimiento programado.",
+          "Programa de movilidad sostenible y seguridad vial.",
+          "Programa de terminales, paradas y gestión del transporte público.",
+          "Programa de accesos y conectividad regional (E35, con el MTOP).",
+          "Plan cantonal de movilidad y mantenimiento vial.",
+          "Proyecto: terminal o centro de transferencia en la E35 en el ingreso a El Murco.",
+          "Proyecto: solución integral del ingreso a Machachi en el semáforo de la E35.",
+          "Proyecto: red de rutas peatonales seguras y accesibles.",
+          "Proyecto: sistema cantonal de señalización, semaforización y puntos de alta siniestralidad."
+        ] },
+        { "titulo": "Eje 3 · Agua, saneamiento, drenaje y residuos", "items": [
+          "Programa de seguridad hídrica (ordenanza de utilidad pública de las zonas de nacimiento de fuentes).",
+          "Programa de alcantarillado y tratamiento de aguas residuales.",
+          "Programa de drenaje pluvial y manejo de quebradas.",
+          "Programa de residuos sólidos y economía circular.",
+          "Plan integral de agua, saneamiento y drenaje.",
+          "Proyecto: plan maestro de agua potable (sectorización, micromedición y control de pérdidas).",
+          "Proyecto: plan cantonal de saneamiento por parroquia.",
+          "Proyecto: estudios, ampliación y optimización de PTAR.",
+          "Proyecto: sistema de drenaje urbano preventivo.",
+          "Proyecto: modelo integral de residuos."
+        ] },
+        { "titulo": "Eje 4 · Desarrollo económico local, mercados y turismo sostenible", "items": [
+          "Programa Mejía Produce y Comercializa.",
+          "Programa de mercados, ferias y comercio ordenado.",
+          "Programa de emprendimiento, innovación y empleabilidad.",
+          "Programa Destino Mejía: naturaleza, cultura y ruralidad.",
+          "Plan cantonal de desarrollo económico y turismo sostenible.",
+          "Proyectos: modernización de mercados; centro o red de acopio; marca territorial Mejía; rutas turísticas integradas; ventanilla de emprendimiento; agenda de atracción de inversión responsable."
+        ] },
+        { "titulo": "Eje 5 · Ambiente, cambio climático y gestión de riesgos", "items": [
+          "Programa de protección de páramos, fuentes hídricas y biodiversidad.",
+          "Programa de restauración de quebradas y áreas verdes.",
+          "Programa cantonal de adaptación climática.",
+          "Programa de gestión integral del riesgo y preparación comunitaria.",
+          "Programa de reforestación y restauración.",
+          "Acciones: viveros, huertos y semilleros; fortalecimiento del control ambiental.",
+          "Plan cantonal de adaptación climática, restauración y riesgos.",
+          "Proyectos: sistema municipal de información de riesgos; actualización de mapas, rutas de evacuación y planes; red de parques y corredores verdes (Biocorredor del puma); declaratoria de utilidad pública del Bosque Protector Santa Catalina como ACUS; criterios de resiliencia en la obra pública."
+        ] },
+        { "titulo": "Eje 6 · Desarrollo humano, cultura, deporte y convivencia", "items": [
+          "Programas de cultura, patrimonio e identidad; de deporte, recreación y vida comunitaria; de atención a grupos prioritarios; y de convivencia y espacios públicos seguros.",
+          "Plan cantonal de desarrollo humano, cultura, deporte y convivencia.",
+          "Proyectos: agenda cultural descentralizada; activación de equipamientos; servicios y convenios para grupos prioritarios; iluminación, videovigilancia y alarmas; prevención de violencia y consumo."
+        ] },
+        { "titulo": "Eje 7 · Gobierno abierto, innovación y fortalecimiento institucional", "items": [
+          "Programas: Municipio Ágil y Digital; transparencia y datos abiertos; planificación y gestión por resultados; participación y presupuesto participativo.",
+          "Plan de modernización institucional y gobierno abierto.",
+          "Proyectos: expediente digital; tablero público del Plan; banco de proyectos; reingeniería y revisión del orgánico; asambleas y presupuesto participativo; fortalecimiento de la recaudación y reducción de la cartera vencida."
+        ] },
+        { "titulo": "Matriz de prioridades y modelo de gestión", "items": [
+          "Prioridad alta: calle 11 de Noviembre (2027-2029); plan maestro de agua, saneamiento y drenaje (2027-2031); mantenimiento vial (anual); terminal E35-El Murco (estudios 2027, fases 2028-2031).",
+          "Prioridad media: acceso a Machachi (estudios 2028-2029); mercados (2028-2030); rutas turísticas (2027-2031); catastro y trámites digitales (2027-2029).",
+          "Permanente: residuos; anual: transparencia y rendición de cuentas.",
+          "Actualizar el PDOT tras la elección, reestructurar el orgánico, articular en varios niveles (mancomunidades de cuencas, movilidad, turismo y residuos) y elaborar el Plan de Inversión Multianual.",
+          "Rendición de cuentas anual, informes trimestrales, audiencias sectoriales, SIGAD, veedurías, observatorios, silla vacía y compromisos de igualdad de género."
+        ] }
+      ],
+      "notas": [
+        "Plan obtenido por OCR de un escaneo (CamScanner). Las tablas de las págs. 16-25 salieron fragmentadas, pero su contenido repite los ejes y proyectos del texto. La pág. 26 se verificó contra la imagen: contiene mecanismos de control social y de igualdad de género, más una tabla ilegible por la calidad del escaneo.",
+        "Las cifras de cobertura (agua 89,9 %, alcantarillado 76,21 %) se citan del PDOT y del INEC 2022 y difieren de las del plan 4718 (94,3 % y 87 %).",
+        "La portada solo dice 'Mejía-2026'; las páginas de declaración del candidato y del procurador no tienen texto legible."
+      ]
+    }
+  ]
+}

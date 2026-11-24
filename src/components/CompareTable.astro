@@ -1,0 +1,166 @@
+---
+// Tabla comparativa reutilizable para cualquier dignidad.
+// candidatos: [{ id, lista, partido, titulo, subtitulo, enfoque?, tabla: {tema: [{t, v, n}]}, metas?, inversion?, pdf, txt?, cne, extraccion }]
+interface Props { candidatos: any[]; temas: { id: string; nombre: string }[]; auto?: boolean }
+const { candidatos, temas, auto = false } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const conteo = (c) => {
+  const o = { alta: 0, media: 0, baja: 0 };
+  for (const items of Object.values(c.tabla ?? {})) for (const i of items as any[]) o[i.v]++;
+  return o;
+};
+const filas = temas.filter((t) => candidatos.some((c) => c.tabla?.[t.id]?.length));
+const hayMetas = candidatos.some((c) => c.metas?.length);
+const hayInv = candidatos.some((c) => c.inversion);
+const hayEnfoque = candidatos.some((c) => c.enfoque);
+const uid = 'cmp' + Math.random().toString(36).slice(2, 7);
+---
+
+<div class="cmp-tools">
+  <div class="legend" aria-label="Viabilidad">
+    <b class="q">¿Se puede cumplir?</b>
+    <span><i class="dot alta"></i>Sí, está en sus manos</span>
+    <span><i class="dot media"></i>Depende de otros</span>
+    <span><i class="dot baja"></i>Difícil o no le corresponde</span>
+    <span class="muted hint">Toca cualquier propuesta <span class="chev" aria-hidden="true">▸</span> para leer por qué tiene ese color · <a href={`${base}/metodologia`}>cómo se calcula</a></span>
+    {auto && <span class="badge" title="Propuestas extraídas y clasificadas automáticamente del texto del plan. Revisa el PDF ante cualquier duda.">Clasificación automática</span>}
+  </div>
+  {candidatos.length > 2 && (
+    <div class="chips" data-for={uid} role="group" aria-label="Mostrar u ocultar candidatos">
+      {candidatos.map((c) => (
+        <button type="button" class="chip on" data-col={c.id} aria-pressed="true">{c.lista} · {c.titulo}</button>
+      ))}
+    </div>
+  )}
+</div>
+
+<div class="scroller">
+  <table class="cmp" id={uid}>
+    <thead>
+      <tr>
+        <th class="stick corner"></th>
+        {candidatos.map((c) => {
+          const n = conteo(c);
+          return (
+            <th data-col={c.id}>
+              <span class="num">Lista {c.lista}</span>
+              <a class="who" href={`#f-${c.id}`}>{c.titulo}</a>
+              {c.subtitulo && <span class="vice">{c.subtitulo}</span>}
+              <span class="org">{c.partido}</span>
+              <span class="stack" title={`${n.alta} en sus manos · ${n.media} dependen de otros · ${n.baja} difíciles`}>
+                <span class="alta" style={`flex:${n.alta}`}></span><span class="media" style={`flex:${n.media}`}></span><span class="baja" style={`flex:${n.baja}`}></span>
+              </span>
+            </th>
+          );
+        })}
+      </tr>
+    </thead>
+    <tbody>
+      {hayEnfoque && (
+        <tr class="meta">
+          <th class="stick">Enfoque</th>
+          {candidatos.map((c) => <td data-col={c.id}>{c.enfoque}</td>)}
+        </tr>
+      )}
+      {filas.map((t) => (
+        <tr>
+          <th class="stick">{t.nombre}</th>
+          {candidatos.map((c) => (
+            <td data-col={c.id}>
+              {c.tabla?.[t.id]?.length ? (
+                <ul>
+                  {c.tabla[t.id].map((i) => (
+                    <li>
+                      <details class="it">
+                        <summary title="Ver por qué"><i class={`dot ${i.v}`}></i><span>{i.t}</span><span class="chev" aria-hidden="true">▸</span></summary>
+                        <p>{i.n}</p>
+                      </details>
+                    </li>
+                  ))}
+                </ul>
+              ) : <span class="empty">—</span>}
+            </td>
+          ))}
+        </tr>
+      ))}
+      {hayMetas && (
+        <tr class="meta">
+          <th class="stick">Metas</th>
+          {candidatos.map((c) => (
+            <td data-col={c.id}>{c.metas?.length ? <ul class="plain">{c.metas.map((m) => <li>{m}</li>)}</ul> : <span class="empty">—</span>}</td>
+          ))}
+        </tr>
+      )}
+      {hayInv && (
+        <tr class="meta">
+          <th class="stick">Inversión</th>
+          {candidatos.map((c) => <td data-col={c.id} class="small">{c.inversion ?? '—'}</td>)}
+        </tr>
+      )}
+      <tr class="meta">
+        <th class="stick">Fuente</th>
+        {candidatos.map((c) => (
+          <td data-col={c.id} class="small">
+            {c.pdf ? <a href={base + c.pdf} target="_blank">PDF</a> : <span class="muted">Sin PDF</span>}
+            {c.txt && <> · <a href={base + c.txt} target="_blank">Texto</a></>}
+            {' · '}<a href={c.cne} target="_blank" rel="noopener">CNE</a>
+            {c.extraccion === 'ocr' && <span class="muted"> · OCR</span>}
+          </td>
+        ))}
+      </tr>
+    </tbody>
+  </table>
+</div>
+
+<script>
+  document.querySelectorAll<HTMLElement>('.chips').forEach((group) => {
+    const table = document.getElementById(group.dataset.for!)!;
+    group.querySelectorAll<HTMLButtonElement>('.chip').forEach((chip) => {
+      chip.addEventListener('click', () => {
+        const on = chip.getAttribute('aria-pressed') !== 'true';
+        chip.setAttribute('aria-pressed', String(on));
+        chip.classList.toggle('on', on);
+        table.querySelectorAll<HTMLElement>(`[data-col="${chip.dataset.col}"]`).forEach((el) => (el.hidden = !on));
+      });
+    });
+  });
+</script>
+
+<style>
+  .cmp-tools { display: flex; flex-direction: column; gap: 10px; margin-bottom: 12px; }
+  .legend { display: flex; gap: 14px; align-items: center; flex-wrap: wrap; font-size: 13px; }
+  .legend span { display: inline-flex; align-items: center; gap: 6px; }
+  .legend .q { font-weight: 600; }
+  .hint { font-size: 12.5px; flex-basis: 100%; display: block !important; }
+  .hint a { color: inherit; text-decoration: underline; }
+  .chev { color: var(--muted); font-size: 10px; transition: transform .15s; display: inline-block; }
+  .it summary .chev { margin-top: 4px; }
+  .it[open] summary .chev { transform: rotate(90deg); }
+  .badge { font-size: 12px; padding: 2px 8px; border-radius: 999px; background: color-mix(in srgb, var(--media) 18%, transparent); color: var(--ink); cursor: help; }
+  .chips { display: flex; flex-wrap: wrap; gap: 6px; }
+  .chip { font: inherit; font-size: 12.5px; border: 1px solid var(--line); background: transparent; color: var(--muted); padding: 4px 10px; border-radius: 999px; cursor: pointer; text-decoration: line-through; }
+  .chip.on { background: var(--surface); color: var(--ink); border-color: var(--ink); text-decoration: none; }
+  .scroller { overflow: auto; border: 1px solid var(--line); border-radius: 12px; background: var(--surface); max-height: calc(100vh - 140px); }
+  table.cmp { border-collapse: separate; border-spacing: 0; font-size: 13.5px; }
+  .cmp th, .cmp td { vertical-align: top; text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--line); border-right: 1px solid var(--line); }
+  .cmp td, .cmp thead th { min-width: 240px; max-width: 270px; }
+  .cmp thead th { position: sticky; top: 0; z-index: 2; background: var(--head); }
+  .cmp .stick { position: sticky; left: 0; z-index: 1; background: var(--head); min-width: 130px; max-width: 150px; font-weight: 600; font-size: 13px; }
+  .cmp thead .corner { z-index: 3; min-width: 130px; }
+  .num { display: block; font-size: 11.5px; color: var(--accent); font-weight: 700; }
+  .who { display: block; font-size: 15px; color: var(--ink); text-decoration: none; font-weight: 650; }
+  .who:hover { text-decoration: underline; }
+  .vice, .org { display: block; font-weight: 400; color: var(--muted); font-size: 12px; }
+  .stack { display: flex; gap: 2px; height: 5px; border-radius: 3px; overflow: hidden; margin-top: 8px; }
+  .stack .alta { background: var(--alta); } .stack .media { background: var(--media); } .stack .baja { background: var(--baja); }
+  .cmp ul { list-style: none; margin: 0; padding: 0; display: grid; gap: 6px; }
+  .it summary { list-style: none; display: grid; grid-template-columns: 9px 1fr 10px; gap: 8px; cursor: pointer; border-radius: 6px; padding: 2px 4px; margin: -2px -4px; }
+  .it summary::-webkit-details-marker { display: none; }
+  .it summary:hover { background: var(--head); }
+  .it summary .dot { margin-top: 6px; }
+  .it p { margin: 4px 0 2px 17px; font-size: 12px; color: var(--muted); border-left: 2px solid var(--line); padding-left: 8px; }
+  .cmp ul.plain { list-style: disc; padding-left: 16px; display: block; }
+  .cmp ul.plain li { margin-bottom: 4px; }
+  .empty { color: var(--muted); }
+  .meta td { background: color-mix(in srgb, var(--head) 45%, var(--surface)); }
+</style>

@@ -1,0 +1,108 @@
+{
+  "canton": "CAYAMBE",
+  "candidatos": [
+    {
+      "codFormulario": 7131,
+      "enfoque": "Mismo plan que la lista urbana de la alianza (formulario 7659): fiscalización del presupuesto, codificación de ordenanzas, ordenanza del Plan Integral de Seguridad y casas para migrantes y adultos mayores.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Informes trimestrales de ejecución presupuestaria e inspección de los proyectos de inversión, con hallazgos y recomendaciones anuales al Concejo", "v": "alta", "n": "Fiscalizar al ejecutivo es atribución directa del concejal (COOTAD art. 58)." },
+          { "t": "Revisar la ordenanza de presupuestos y codificar ordenanzas en un catálogo digital", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Sistema de evaluación por metas para directores y técnicos y revisión del Estatuto Orgánico", "v": "media", "n": "El concejal lo propone; lo implementa la Alcaldía." }
+        ],
+        "seguridad": [
+          { "t": "Ordenanza para implementar el Plan Integral de Seguridad Ciudadana", "v": "alta", "n": "Iniciativa normativa; la ejecución depende del alcalde y la Policía." }
+        ],
+        "social": [
+          { "t": "Dos proyectos de ordenanza de apoyo a iniciativas ciudadanas; casa del adulto mayor y sede social de la familia migrante", "v": "media", "n": "La ordenanza es viable; las casas requieren presupuesto de la Alcaldía." }
+        ]
+      },
+      "metas": ["Dos proyectos de ordenanza de apoyo ciudadano; informes de hallazgos anuales al Concejo."],
+      "notas": ["El texto proviene de OCR de baja calidad.", "El contenido coincide con el plan de concejales urbanos de la misma alianza (formulario 7659)."]
+    },
+    {
+      "codFormulario": 3862,
+      "enfoque": "Mismo esquema que la lista urbana del partido (formulario 3840): legislar, fiscalizar y representar, con acciones generales y énfasis en parroquias y comunidades rurales.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Controlar el presupuesto y la inversión, fiscalizar obras y servicios y verificar el cumplimiento de planes y ordenanzas", "v": "alta", "n": "Función directa del concejal." },
+          { "t": "Llevar la voz de la ciudadanía rural al Concejo y dar seguimiento a los compromisos", "v": "alta", "n": "Función de representación." }
+        ],
+        "ambiente": [
+          { "t": "Normativa para proteger ambiente, agua y territorio", "v": "alta", "n": "Iniciativa normativa; no detalla qué ordenanzas." }
+        ],
+        "urbano": [
+          { "t": "Políticas de vivienda, hábitat y servicios públicos", "v": "media", "n": "El concejal solo puede impulsarlas." }
+        ],
+        "economia": [
+          { "t": "Desarrollo productivo, agroecológico, turístico y comunitario", "v": "media", "n": "Fomento productivo concurrente." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["El contenido coincide con el plan de concejales urbanos del mismo partido (formulario 3840)."]
+    },
+    {
+      "codFormulario": 373,
+      "enfoque": "Plan breve, igual al de la lista urbana del partido (formulario 8030): ordenanzas de calidad de vida, bienestar animal, turismo y fiscalización de obras.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Fiscalizar las obras y la gestión del alcalde; ordenanzas que regulen la administración y los tributos", "v": "alta", "n": "Atribuciones directas del concejal." }
+        ],
+        "ambiente": [
+          { "t": "Normativa de bienestar para perros y gatos", "v": "alta", "n": "Fauna urbana es competencia municipal regulable por ordenanza." }
+        ],
+        "economia": [
+          { "t": "Promover el turismo y los emprendimientos de economía popular y solidaria", "v": "media", "n": "El concejal solo puede impulsarlo." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["El texto proviene de OCR.", "El contenido coincide con el plan de concejales urbanos del mismo partido (formulario 8030)."]
+    },
+    {
+      "codFormulario": 4351,
+      "enfoque": "Plan con enfoque comunitario y de derechos de la naturaleza, que propone normativa de fuentes de agua, ordenamiento rural y economía popular, con fiscalización de brechas urbano-rurales.",
+      "tabla": {
+        "servicios": [
+          { "t": "Fiscalizar los programas de agua potable, saneamiento y aguas residuales y las brechas entre zonas urbanas y rurales", "v": "alta", "n": "Fiscalización directa." }
+        ],
+        "ambiente": [
+          { "t": "Normativa municipal para proteger fuentes de agua y ecosistemas, con participación comunitaria", "v": "alta", "n": "Iniciativa normativa en competencia municipal." }
+        ],
+        "urbano": [
+          { "t": "Fiscalizar la planificación territorial y las normas de uso del suelo; políticas contra la expansión desordenada sobre áreas agrícolas", "v": "alta", "n": "Legislar y fiscalizar." },
+          { "t": "Promover una distribución equitativa de la inversión municipal hacia las parroquias rurales", "v": "alta", "n": "El Concejo aprueba el presupuesto." }
+        ],
+        "movilidad": [
+          { "t": "Fiscalizar el mantenimiento vial de competencia municipal y coordinar la vialidad rural con la Prefectura", "v": "alta", "n": "Fiscalización; el plan reconoce la competencia provincial." }
+        ],
+        "economia": [
+          { "t": "Ordenanzas de apoyo a la economía popular y solidaria, la agroecología y la producción comunitaria", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "social": [
+          { "t": "Mecanismos de deliberación comunitaria y autonomía de las mujeres", "v": "alta", "n": "Representación y normativa de participación." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": []
+    },
+    {
+      "codFormulario": 2330,
+      "enfoque": "Mismo esquema que la lista urbana del movimiento (formulario 2327), adaptado a parroquias rurales y comunas: legislación con evidencia, fiscalización preventiva y fases anuales.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Fiscalización técnica y preventiva del cumplimiento de planes y ordenanzas", "v": "alta", "n": "Función directa del concejal." },
+          { "t": "Revisar, actualizar y simplificar la normativa cantonal con datos y consulta ciudadana", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Informe anual público de resultados legislativos y de fiscalización", "v": "alta", "n": "Rendición de cuentas." }
+        ],
+        "urbano": [
+          { "t": "Reformas a las ordenanzas de ordenamiento territorial con enfoque en parroquias rurales y comunas", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "economia": [
+          { "t": "Normativa que simplifique trámites y favorezca el emprendimiento", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["Fases: diagnóstico, reformas, seguimiento y evaluación; sin cifras."],
+      "notas": ["El texto proviene de OCR.", "El contenido sigue la plantilla del plan de concejales urbanos del mismo movimiento (formulario 2327)."]
+    }
+  ]
+}

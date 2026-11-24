@@ -1,0 +1,220 @@
+{
+  "canton": "RUMIÑAHUI",
+  "contexto": [],
+  "candidatos": [
+    {
+      "codFormulario": 11576,
+      "enfoque": "Plan en cuatro ejes con planes temáticos: nuevas vías y asumir la competencia de tránsito, marca 'Rumiñahui Orgánico', circuitos turísticos y casas comunitarias.",
+      "estructura": "4 ejes (económico, social, institucional, ambiental) · unos 14 planes con propuestas y actividades",
+      "tabla": {
+        "movilidad": [
+          { "t": "Plan vial: nuevas vías, intercambiadores, puentes, pasos elevados y conexiones estratégicas con Quito para descongestionar corredores", "v": "media", "n": "Vialidad urbana es municipal, pero los pasos elevados y conexiones con Quito exceden un presupuesto cuya inversión se ejecutó al 43,48 % en 2025." },
+          { "t": "Asumir las competencias de tránsito, transporte terrestre y seguridad vial, fortaleciendo antes las capacidades institucionales", "v": "media", "n": "Requiere aval de la ANT y financiamiento operativo." }
+        ],
+        "economia": [
+          { "t": "Marca 'Rumiñahui Orgánico' y programa de capacitación productiva", "v": "alta", "n": "Promoción de bajo costo." },
+          { "t": "Circuitos turísticos (Orfebre, Artesanal, César Chiriboga, Centro Histórico) y distritos urbanos turísticos", "v": "alta", "n": "Promoción turística local." },
+          { "t": "Repotenciar la zona industrial, convenios de beneficio mutuo y ordenanza de alianzas público-privadas", "v": "alta", "n": "Instrumentos normativos municipales." },
+          { "t": "Incentivos tributarios locales y optimización de tasas y contribuciones especiales", "v": "media", "n": "Viable por ordenanza, pero reduce ingresos propios." },
+          { "t": "Registro de comerciantes autónomos y ordenamiento del comercio en espacio público", "v": "alta", "n": "Uso del espacio público es competencia municipal." }
+        ],
+        "social": [
+          { "t": "Casas de la Juventud, la Mujer y la Discapacidad; Casas de la Familia en Fajardo y San Pedro; Casa del Adulto Mayor", "v": "alta", "n": "Equipamientos sociales de escala municipal." },
+          { "t": "Educación continua municipal: educación financiera, alfabetización digital, nutrición y salud mental", "v": "alta", "n": "Programas de bajo costo." }
+        ],
+        "seguridad": [
+          { "t": "'Mi Parada Segura' y 'Zonas Seguras' usando el anillo de fibra óptica municipal; profesionalizar a los agentes municipales", "v": "media", "n": "Usa infraestructura propia; la seguridad ciudadana es nacional." },
+          { "t": "Unidad de riesgo Cotopaxi para infraestructura de protección en zonas altas", "v": "alta", "n": "Gestión de riesgos es competencia municipal." }
+        ],
+        "ambiente": [
+          { "t": "'Plan Sin Inundaciones': limpieza calendarizada de ríos y control de tala", "v": "alta", "n": "Competencia municipal." },
+          { "t": "Ampliar la recolección de residuos; infraestructura para atención de fauna urbana y reforma de la normativa de tenencia de animales", "v": "alta", "n": "Competencias municipales." }
+        ],
+        "gobierno": [
+          { "t": "Renovar la plataforma tecnológica, digitalizar trámites y automatizar pagos ('Menos Trámites – Menos Tiempos')", "v": "alta", "n": "Gestión interna." },
+          { "t": "Sistema anticorrupción y antisobornos; entidad colaboradora para permisos de construcción", "v": "alta", "n": "Decisiones administrativas." },
+          { "t": "Reestructuración del gasto y del talento humano; reforma de la ordenanza de participación ciudadana", "v": "alta", "n": "Gestión interna." }
+        ],
+        "otros": []
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "inversion": "Sin montos.",
+      "primeros100": null,
+      "notas": ["El texto proviene de OCR y las tablas a dos columnas cortan varias actividades; algunos nombres de programa se completaron por contexto."]
+    },
+    {
+      "codFormulario": 11006,
+      "enfoque": "Plan en nueve ejes con propuestas acotadas a competencias municipales y un presupuesto referencial plurianual de unos USD 34,8 M.",
+      "estructura": "9 ejes · unas 35 propuestas · matriz plurianual con metas e indicadores · presupuesto referencial por eje",
+      "tabla": {
+        "seguridad": [
+          { "t": "Programa 'Rumiñahui Seguro' con Policía, ECU 911 y Bomberos; espacio municipal de monitoreo y gestión territorial", "v": "media", "n": "El municipio coordina y aporta tecnología; la seguridad es nacional." },
+          { "t": "Instalar o modernizar cámaras de videovigilancia en cuatro años y 'Puntos Seguros Integrales' con iluminación y alerta", "v": "alta", "n": "Inversión de apoyo de escala municipal (unos USD 3 M para el eje, según el plan)." }
+        ],
+        "movilidad": [
+          { "t": "Sistema inteligente de gestión de la movilidad y semaforización inteligente en intersecciones críticas", "v": "media", "n": "Tránsito es competencia municipal; la escala depende del presupuesto del eje." },
+          { "t": "Rutas seguras escolares, aceras, rampas, señalización y mantenimiento vial rural anual con juntas parroquiales", "v": "alta", "n": "Obras acotadas de competencia municipal." }
+        ],
+        "urbano": [
+          { "t": "Programa de recuperación de parques, plazas e infraestructura comunitaria urbana y rural (USD 7 M)", "v": "alta", "n": "Espacio público es competencia municipal; monto proporcional." }
+        ],
+        "economia": [
+          { "t": "Ruta turística integrada, reposicionar la Fiesta del Maíz y del Turismo, Ruta de la Libertad y Museo Rumiñahui", "v": "alta", "n": "Promoción turística y cultural local." },
+          { "t": "Corredores comerciales seguros y Ventanilla Única del Emprendedor (patentes, permisos, uso de suelo)", "v": "alta", "n": "Atribuciones municipales." },
+          { "t": "Fortalecer mercados, ferias y emprendimientos; capacitación con universidades y cámaras", "v": "alta", "n": "Mercados son competencia municipal." }
+        ],
+        "social": [
+          { "t": "Mejorar los Centros Municipales de Educación Inicial (infraestructura, equipamiento y conectividad)", "v": "alta", "n": "Servicio municipal existente." },
+          { "t": "Entornos protectores para niñez, inclusión digital y espacios de participación juvenil", "v": "alta", "n": "Programas de escala municipal." },
+          { "t": "Brigadas de salud, salud mental y teleasistencia para adultos mayores y personas con discapacidad", "v": "media", "n": "Complementa al MSP." }
+        ],
+        "servicios": [
+          { "t": "Ampliar agua potable, alcantarillado y saneamiento en sectores con más necesidad; separación en la fuente y reciclaje", "v": "alta", "n": "Competencias municipales; el proyecto Cóndor Machay ya está adjudicado." }
+        ],
+        "ambiente": [
+          { "t": "Recuperar ríos, quebradas y fuentes; gestión de riesgos y adaptación climática, incluida la amenaza del Cotopaxi", "v": "alta", "n": "Competencias municipales." }
+        ],
+        "gobierno": [
+          { "t": "Digitalizar trámites, plataforma de reportes ciudadanos y tablero público de obras, presupuesto y contratación", "v": "alta", "n": "Gestión interna." },
+          { "t": "Audiencias territoriales anuales e informes semestrales de cumplimiento", "v": "alta", "n": "Compromiso verificable." }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "Cámaras de videovigilancia instaladas o modernizadas en cuatro años (la cifra es ilegible en el OCR).",
+        "La matriz de metas e indicadores por eje no es legible en el texto extraído."
+      ],
+      "inversion": "Presupuesto referencial 2027-2031 de unos USD 34,8 M: espacio público USD 7 M; turismo, desarrollo económico y niñez USD 2,5 M cada uno; los demás montos por eje son parcialmente ilegibles.",
+      "primeros100": null,
+      "notas": [
+        "El texto proviene de OCR; la matriz plurianual está escaneada en orientación girada y no es legible.",
+        "El total se leyó del texto en letras ('treinta y cuatro millones ochocientos mil dólares'); la cifra numérica del OCR está dañada."
+      ]
+    },
+    {
+      "codFormulario": 12244,
+      "enfoque": "Plan muy breve de siete ejes que prioriza la atención psicosocial comunitaria, con dos acciones por eje y sin metas ni montos.",
+      "estructura": "7 ejes · 14 acciones · cronograma referencial por año",
+      "tabla": {
+        "social": [
+          { "t": "Centro municipal de atención psicológica comunitaria, gratuito o de bajo costo, y brigadas psicosociales itinerantes rurales", "v": "media", "n": "El municipio puede crear servicios complementarios; la salud mental es competencia del MSP." },
+          { "t": "Convenios de acompañamiento psicopedagógico con escuelas y prevención de violencia escolar y consumo", "v": "media", "n": "Requiere convenios con el MINEDUC." }
+        ],
+        "movilidad": [
+          { "t": "Plan plurianual de mantenimiento vial urbano y rural y medidas de descongestión en corredores principales", "v": "media", "n": "Lo urbano es municipal; lo rural es concurrente con la Prefectura." }
+        ],
+        "seguridad": [
+          { "t": "Videovigilancia comunitaria, alerta temprana y mesas de seguridad barrial con la Policía", "v": "media", "n": "El municipio solo coordina y aporta equipos." }
+        ],
+        "economia": [
+          { "t": "Capacitación y financiamiento semilla para emprendedores y comerciantes informales; espacios públicos de comercialización", "v": "media", "n": "El financiamiento semilla requiere ordenanza y fondos no cuantificados." }
+        ],
+        "ambiente": [
+          { "t": "Plan integral de residuos y reciclaje; protección de fuentes hídricas y del cerro Ilaló", "v": "alta", "n": "Competencias municipales." }
+        ],
+        "gobierno": [
+          { "t": "Presupuesto participativo institucionalizado, asambleas periódicas e informes semestrales", "v": "alta", "n": "Mecanismos legales de bajo costo." }
+        ],
+        "otros": []
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "inversion": "Sin montos.",
+      "primeros100": null,
+      "notas": []
+    },
+    {
+      "codFormulario": 7668,
+      "enfoque": "Plan de 13 ejes con proyectos de gran escala y montos referenciales: parque fluvial Santa Clara, estudios de un metro ligero hacia Quito, hospital y mercado mayorista.",
+      "estructura": "13 ejes con competencia, modalidad de gestión, meta y presupuesto · banco de 19 proyectos · reestructuración institucional",
+      "tabla": {
+        "ambiente": [
+          { "t": "Parque Ecológico Fluvial Santa Clara (3,5–4 km): estudios (USD 0,8–1,5 M), recuperación del río (USD 20–40 M) y parque (USD 30–50 M); meta: etapa 1 al 50 % al año 4", "v": "baja", "n": "Las etapas 1 y 2 suman entre USD 50 M y 90 M, frente a una inversión municipal devengada de USD 26 M en todo 2025." },
+          { "t": "Residuos con ASEO EPM: recolección de 64 % a 80 % o más y 40 % de reciclaje al año 4; planta de reciclaje y compostaje (USD 23 M)", "v": "media", "n": "Competencia municipal vía empresa existente; la meta de reciclaje es alta." }
+        ],
+        "movilidad": [
+          { "t": "Estudios de transporte masivo (metro o tren ligero) hacia Quito con mancomunidad Rumiñahui–Pichincha–DMQ; construcción por fases hasta el año 4", "v": "baja", "n": "El estudio de 2012 que cita el plan estima entre USD 490 M (BRT) y 2.340 M; depende del Gobierno central, el DMQ y la Prefectura." }
+        ],
+        "servicios": [
+          { "t": "Agua potable de 93 % a 99 % y alcantarillado al 98 % al año 4, con énfasis en Cotogchoa y Rumipamba; micromedición (USD 50 M)", "v": "media", "n": "Competencia propia; el proyecto Cóndor Machay ya está en marcha, pero USD 50 M depende de crédito." }
+        ],
+        "urbano": [
+          { "t": "Catastro multipropósito al 100 % al año 3 y al menos 20 espacios públicos recuperados al año 4 (USD 15 M)", "v": "alta", "n": "Competencias propias con metas medibles." }
+        ],
+        "economia": [
+          { "t": "Corredor Ecoturístico 'Agua y Fuego': Ruta de los Volcanes, cascadas de Rumipamba, Capital del Hornado; al menos 2 rutas al año 4 (USD 10 M)", "v": "media", "n": "La promoción es viable; el monto depende de BID, CAF y privados." },
+          { "t": "Mercado Mayorista Regional del Valle de los Chillos (USD 20 M) y formalización del comercio informal (USD 5 M)", "v": "media", "n": "Mercados son competencia municipal; el mayorista requiere BDE y capital privado." },
+          { "t": "'Emprende Rumiñahui': 5.000 emprendedores capacitados y USD 100 M de inversión privada atraída", "v": "media", "n": "La capacitación es viable; la inversión privada no depende del municipio." }
+        ],
+        "seguridad": [
+          { "t": "Consejo Cantonal de Seguridad y videovigilancia ampliada en 2 años (USD 12 M referenciales)", "v": "media", "n": "El plan reconoce que la seguridad es competencia exclusiva del Gobierno central." }
+        ],
+        "social": [
+          { "t": "Hospital del Valle de los Chillos: convenio con el MSP, terreno y obra civil (aporte municipal USD 10 M)", "v": "media", "n": "Construcción posible por convenio; la operación es del MSP." },
+          { "t": "Instituto Tecnológico del Valle con 3 carreras y unos 5.000 estudiantes (USD 15 M)", "v": "media", "n": "Depende del ente rector de educación superior." },
+          { "t": "Centros para adultos mayores y discapacidad, Centro de Formación de Jóvenes con capital semilla (USD 12 M)", "v": "alta", "n": "Cumple la obligación del 10 % de ingresos no tributarios a grupos prioritarios (COOTAD art. 249)." }
+        ],
+        "gobierno": [
+          { "t": "90 % de trámites digitalizados y tablero público de indicadores al año 2 (USD 5 M)", "v": "alta", "n": "Gestión interna con meta verificable." },
+          { "t": "Unidad Técnica de Gestión Multinivel para convenios y autosostenibilidad superior al 90 % de las empresas públicas al año 4", "v": "media", "n": "La meta financiera de las empresas es exigente." }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "Agua potable 99 % y alcantarillado 98 %; recolección de residuos ≥80 % y 40 % de reciclaje (año 4).",
+        "Catastro al 100 % (año 3); 20 espacios públicos recuperados; 2 rutas turísticas operativas (año 4).",
+        "90 % de trámites digitalizados (año 2); 5.000 emprendedores capacitados; USD 100 M de inversión privada.",
+        "Convenio con el MSP y contrato del hospital firmado; instituto tecnológico con 3 carreras."
+      ],
+      "inversion": "Montos referenciales por eje que suman más de USD 250 M sin contar el metro (agua USD 50 M, residuos USD 23 M, mercado USD 25 M, turismo USD 10 M, etc.), financiados con BDE, CAF, BID, Banco Mundial, cooperación y capital privado. El plan cita un presupuesto municipal codificado 2026 de USD 86,09 M.",
+      "primeros100": null,
+      "notas": ["El plan aclara que su tarifa referencial de metro (USD 0,85) proviene del estudio STMRQ de 2012 y no de la tarifa vigente del Metro de Quito."]
+    },
+    {
+      "codFormulario": 10858,
+      "enfoque": "Plan 'Rumiñahui Imparable' muy extenso (más de 400 páginas) con ocho programas estratégicos desplegados por parroquia, enumerando proyectos por nombre sin metas ni montos.",
+      "estructura": "8 programas estratégicos · arquitectura programática para 6 parroquias · más de 100 proyectos enunciados",
+      "tabla": {
+        "movilidad": [
+          { "t": "Plan Integral de Movilidad, semaforización inteligente, ciclovías, 'Calles y Aceras para Todos' y transporte público integrado", "v": "alta", "n": "Tránsito y vialidad urbana son competencias municipales." },
+          { "t": "Túneles en intersecciones de vías en Sangolquí", "v": "media", "n": "Obras de alto costo sin estudios ni monto." },
+          { "t": "Mantenimiento vial, puentes y señalización rural; transporte rural y comunitario", "v": "media", "n": "La vialidad rural es concurrente con la Prefectura." }
+        ],
+        "seguridad": [
+          { "t": "Centro Inteligente de Seguridad, videovigilancia público-privada, iluminación inteligente y paradas seguras", "v": "media", "n": "El municipio aporta tecnología; la seguridad es nacional." },
+          { "t": "'Policía Comunitaria 24/7' y escuelas de prevención y protección personal", "v": "baja", "n": "La Policía Comunitaria depende de la Policía Nacional." },
+          { "t": "Gestión integral del riesgo, sistema de alertas y prevención de incendios", "v": "alta", "n": "Competencia municipal." }
+        ],
+        "ambiente": [
+          { "t": "Recuperación de quebradas, corredores verdes, arborización con frutales, protección de páramos y cuencas", "v": "alta", "n": "Escala municipal." },
+          { "t": "Gestión integral de residuos y eliminación de contaminación", "v": "alta", "n": "Competencia municipal." }
+        ],
+        "urbano": [
+          { "t": "Recuperar la imagen de los barrios, espacios públicos, micro-parques y parques comunitarios e infraestructura para la familia", "v": "alta", "n": "Espacio público es competencia municipal." }
+        ],
+        "economia": [
+          { "t": "Recuperar el mercado, ferias de empleo joven, 'Rumiñahui Produce', mercados campesinos y producción agroecológica", "v": "alta", "n": "Mercados y ferias son municipales." },
+          { "t": "Centro de Innovación, turismo rural comunitario, de naturaleza y marcas parroquiales (Rumipamba, Cotogchoa, deportes extremos)", "v": "alta", "n": "Promoción local." },
+          { "t": "Riego tecnificado", "v": "baja", "n": "El riego es competencia de la Prefectura." }
+        ],
+        "social": [
+          { "t": "Escuela de Liderazgo Ciudadano, Juventud Imparable, Mujeres que Transforman, Adultos Mayores Activos y comedor comunitario", "v": "alta", "n": "Programas sociales de escala municipal." },
+          { "t": "Bienestar y salud comunitaria; activaciones de deporte y cultura; patrimonio cultural", "v": "alta", "n": "Escala municipal." }
+        ],
+        "gobierno": [
+          { "t": "Gobierno Digital 24/7, ventanilla única, simplificación de trámites, interoperabilidad de datos y PMO", "v": "alta", "n": "Gestión interna." },
+          { "t": "Reingeniería organizacional, reorganización del talento humano y programa 'Orgullo de Servir'", "v": "alta", "n": "Gestión interna." },
+          { "t": "Portal de transparencia y datos abiertos, presupuesto participativo y sistema de integridad", "v": "alta", "n": "Mecanismos de bajo costo." }
+        ],
+        "servicios": [],
+        "otros": []
+      },
+      "metas": ["No fija metas cuantitativas: el seguimiento se basa en indicadores sin valores meta."],
+      "inversion": "Sin montos.",
+      "primeros100": null,
+      "notas": [
+        "El plan repite los mismos tipos de proyecto en cada parroquia; aquí se agruparon.",
+        "No se identificó un programa específico de agua potable o alcantarillado entre los proyectos enunciados."
+      ]
+    }
+  ]
+}

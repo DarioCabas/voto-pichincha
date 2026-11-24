@@ -1,0 +1,139 @@
+{
+  "canton": "CAYAMBE",
+  "contexto": [],
+  "candidatos": [
+    {
+      "codFormulario": 9600,
+      "enfoque": "Nueve ejes orientados a ordenar y conectar el territorio, convertir agua en política de seguridad hídrica, fortalecer prevención y productividad, y medir la ejecución con gobierno abierto.",
+      "estructura": "9 ejes · 8 programas emblemáticos · programación 2027-2031",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Plan de Movilidad y Conectividad, inventario vial georreferenciado, Caminos Productivos, mantenimiento preventivo, accesibilidad, bicicleta, rutas y paraderos",
+            "v": "media",
+            "n": "La vialidad urbana es municipal; la rural es concurrente con la Prefectura."
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Plan de Seguridad Hídrica Cayambe 2050, protección de páramos y fuentes, redes y plantas, reducción de pérdidas e información pública de agua",
+            "v": "media",
+            "n": "Agua y alcantarillado son competencia municipal; obra de escala sin monto declarado."
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Páramos Vivos, Cayambe Circular, aprovechamiento de residuos orgánicos, educación ambiental, adaptación climática y gestión de riesgos",
+            "v": "alta",
+            "n": "Residuos, ambiente local y riesgos son competencias municipales."
+          }
+        ],
+        "urbano": [
+          {
+            "t": "PDOT/PUGS articulado, Catastro 360, mapa público territorial, regularización responsable y ventanilla de inversión y uso de suelo",
+            "v": "alta",
+            "n": "Uso del suelo, catastro y regularización son competencias propias."
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Plan de Seguridad, mapas de puntos críticos, videovigilancia, alarmas, Barrios y Comunidades Seguras, Mujeres Seguras y Jóvenes con Futuro",
+            "v": "media",
+            "n": "La seguridad ciudadana es nacional; el municipio coordina y aporta equipos y espacio público."
+          }
+        ],
+        "social": [
+          {
+            "t": "Mujeres con Futuro, Primer Empleo y Talento Joven, escuelas de deporte y cultura, adultos mayores activos, cuidados y protección de derechos",
+            "v": "alta",
+            "n": "Programas sociales de escala municipal."
+          }
+        ],
+        "economia": [
+          {
+            "t": "Agencia de Desarrollo Económico, Ventanilla Única del Emprendedor, Cayambe Produce 4.0, cadenas de valor, compras locales, ferias y ruedas de negocio",
+            "v": "media",
+            "n": "El fomento productivo es concurrente con Prefectura y MAG; el municipio facilita."
+          },
+          {
+            "t": "Cayambe Destino: circuitos turísticos, Ruta del Kayambi Ñan, agenda cultural, formación, plataforma y marca territorial",
+            "v": "alta",
+            "n": "Promoción turística de escala municipal."
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Gobierno abierto, digitalización, datos abiertos, tablero y mapa de obras, presupuesto participativo, veedurías y Alcaldía en territorio",
+            "v": "alta",
+            "n": "Gestión interna de bajo costo."
+          }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "Período 2027-2028: diagnósticos, planes maestros, catastro, mantenimiento, agua prioritaria, seguridad y digitalización; 2028-2029: ampliar infraestructura, movilidad, caminos, espacio público y programas sociales.",
+        "Período 2029-2030: acelerar producción, turismo, economía circular, innovación y consolidar seguridad; 2030-2031: evaluar metas, cerrar brechas y consolidar proyectos estratégicos.",
+        "La programación está condicionada a presupuesto, estudios técnicos, contratación y competencias institucionales."
+      ],
+      "inversion": "Sin montos.",
+      "primeros100": null,
+      "detalle": [
+        {
+          "titulo": "Eje 1 · Cayambe ordenado",
+          "items": [
+            "Actualizar y articular PDOT/PUGS; Catastro 360; mapa público de áreas productivas, urbanas, ambientales, turísticas y de riesgo; criterios de capacidad de soporte; regularización responsable; ventanilla de inversión y uso de suelo."
+          ]
+        },
+        {
+          "titulo": "Eje 2 · Cayambe con agua y servicios",
+          "items": [
+            "Diseñar Seguridad Hídrica Cayambe 2050; proteger recargas, páramos y fuentes; ampliar agua urbana y rural; fortalecer plantas y almacenamiento; reducir pérdidas y renovar redes; saneamiento y tratamiento; información pública de calidad, continuidad y cobertura; coordinar con Prefectura, juntas y MAATE."
+          ]
+        },
+        {
+          "titulo": "Eje 3 · Cayambe conectado",
+          "items": [
+            "Plan Integral de Movilidad y Conectividad 2027-2037; inventario vial; Caminos Productivos; mantenimiento preventivo; aceras, cruces y accesibilidad; bicicleta y caminata donde sea viable; optimizar rutas, frecuencias y paraderos; coordinar vías con MTOP y Prefectura."
+          ]
+        },
+        {
+          "titulo": "Eje 4 · Cayambe seguro",
+          "items": [
+            "Plan Cantonal de Seguridad; mapas de puntos críticos y corredores seguros; modernizar videovigilancia; integrar cámaras, alarmas y protocolos; Barrios y Comunidades Seguras; recuperar espacios con iluminación y accesibilidad; Mujeres Seguras y Jóvenes con Futuro."
+          ]
+        },
+        {
+          "titulo": "Eje 5 · Cayambe productivo",
+          "items": [
+            "Crear ADEC; Ventanilla Única del Emprendedor; Cayambe Produce 4.0; fortalecer cadenas agrícolas, florícolas, ganaderas y de alimentos; compras locales dentro del marco legal; capacitación empresarial para mujeres y jóvenes; ferias, ruedas de negocio y alianzas."
+          ]
+        },
+        {
+          "titulo": "Eje 6 · Cayambe Destino",
+          "items": [
+            "Implementar Plan de Turismo; circuitos comunitarios, culturales, gastronómicos, naturales y de montaña; fortalecer Ruta del Kayambi Ñan; calendario anual; formación de prestadores; plataforma digital, marca territorial y alianzas para promoción."
+          ]
+        },
+        {
+          "titulo": "Eje 7 · Cayambe con oportunidades",
+          "items": [
+            "Mujeres con Futuro; Primer Empleo y Talento Joven; escuelas municipales de deporte y cultura; espacios juveniles y comunitarios; Adultos Mayores Activos; accesibilidad; protección de derechos y Sistema Municipal de Cuidados articulado."
+          ]
+        },
+        {
+          "titulo": "Eje 8 · Cayambe verde y resiliente",
+          "items": [
+            "Páramos Vivos; protección de fuentes; Cayambe Circular para separación, reciclaje, compostaje y valorización; aprovechamiento de orgánicos; sistema de monitoreo ambiental; educación; adaptación climática y gestión de riesgos."
+          ]
+        },
+        {
+          "titulo": "Eje 9 · Gobierno abierto",
+          "items": [
+            "Simplificar y digitalizar trámites; datos abiertos, indicadores y tablero; presupuesto participativo, seguimiento de obras, veedurías, silla vacía y encuestas; informe anual, reporte semestral, mapa público de obras y Alcaldía en territorio."
+          ]
+        }
+      ],
+      "notas": []
+    }
+  ]
+}

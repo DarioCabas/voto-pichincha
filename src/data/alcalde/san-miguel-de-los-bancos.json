@@ -1,0 +1,190 @@
+{
+  "canton": "SAN MIGUEL DE LOS BANCOS",
+  "contexto": [],
+  "candidatos": [
+    {
+      "codFormulario": 11026,
+      "enfoque": "Plan muy extenso (más de 200 páginas) centrado en un modelo de gestión de obras e inversiones; los 17 proyectos estratégicos están en fase de planificación y sin montos.",
+      "estructura": "10 ejes · 10 programas · 17 proyectos estratégicos con matriz técnica · modelo de gestión de obras e inversiones",
+      "tabla": {
+        "servicios": [
+          { "t": "Plan Cantonal Integral de Agua Potable para la cabecera, Mindo, Mindo Valley y recintos", "v": "alta", "n": "Competencia municipal; el propio plan dice que requiere estudios y diseños definitivos." },
+          { "t": "Programa de saneamiento: ampliar alcantarillado, estudiar tratamiento de aguas residuales y soluciones descentralizadas rurales", "v": "media", "n": "Competencia propia; sin monto ni meta de cobertura." }
+        ],
+        "movilidad": [
+          { "t": "Plan Integral de Mejoramiento Vial: inventario de vías urbanas y caminos vecinales, mantenimiento preventivo y coordinación con otros niveles", "v": "media", "n": "Lo urbano es municipal; los caminos vecinales son de la Prefectura." }
+        ],
+        "urbano": [
+          { "t": "Recuperación y mejoramiento de espacios públicos e infraestructura comunitaria", "v": "alta", "n": "Competencia municipal." }
+        ],
+        "economia": [
+          { "t": "Centro Cantonal de Desarrollo Productivo: asistencia técnica, asociatividad y educación financiera", "v": "media", "n": "Fomento productivo concurrente." },
+          { "t": "Feria productiva y comercial sin intermediarios", "v": "alta", "n": "Mercados y ferias son municipales." },
+          { "t": "Plan Estratégico de Turismo y rutas naturales (Reserva Chocó Andino, senderos de recintos), con señalización", "v": "alta", "n": "Promoción turística local." }
+        ],
+        "ambiente": [
+          { "t": "Programa integral de gestión ambiental, manejo de residuos y recuperación de espacios naturales degradados", "v": "alta", "n": "Residuos y ambiente local son competencias municipales." }
+        ],
+        "social": [
+          { "t": "Servicio Municipal de Atención Social Integral con el Consejo Cantonal de Protección de Derechos", "v": "alta", "n": "Atribución municipal." },
+          { "t": "Programa de deporte, cultura, tecnología y juventud", "v": "alta", "n": "Escala municipal." }
+        ],
+        "seguridad": [
+          { "t": "Sistema Cantonal de Prevención y Gestión de Riesgos", "v": "alta", "n": "Competencia municipal." }
+        ],
+        "gobierno": [
+          { "t": "Transformación digital municipal y simplificación administrativa", "v": "alta", "n": "Gestión interna." },
+          { "t": "Sistema de transparencia y rendición de cuentas; sistema de información territorial; participación ciudadana", "v": "alta", "n": "Mecanismos de bajo costo." }
+        ],
+        "otros": []
+      },
+      "metas": ["No fija metas cuantitativas: los indicadores parten de 'sin proyectos definidos' y fijan 'ejecución progresiva' al 2031."],
+      "inversion": "Sin montos: cada proyecto declara un presupuesto referencial 'sujeto a estudios técnicos'.",
+      "primeros100": null,
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 8066,
+      "enfoque": "Plan en siete ejes con más de 45 propuestas concretas, varias condicionadas a estudios de factibilidad (planta asfáltica, camal, parque acuático, réplica de la Mitad del Mundo).",
+      "estructura": "7 ejes · unas 48 propuestas con meta · seguimiento trimestral",
+      "tabla": {
+        "economia": [
+          { "t": "Dirección Municipal de Gestión Agropecuaria: asistencia técnica y veterinaria a hasta 1.200 familias", "v": "media", "n": "El fomento agropecuario es concurrente con Prefectura y MAG; crear la dirección sí es decisión municipal." },
+          { "t": "Modernizar la feria ganadera; Feria Agro Libre 'De la finca a su mesa' semanal con al menos 80 productores", "v": "alta", "n": "Ferias y mercados son competencia municipal." },
+          { "t": "Estudios para modernizar o reubicar el camal municipal", "v": "alta", "n": "El compromiso es solo de estudios; el camal es competencia municipal." },
+          { "t": "Formación técnica por convenio: al menos 3 programas y 300 estudiantes; contratación de mano de obra local", "v": "alta", "n": "Metas acotadas." },
+          { "t": "Desarrollo turístico de Mindo, Cascada del Amor ordenada, al menos 3 circuitos de aves y senderos, centro de información turística", "v": "alta", "n": "Promoción y ordenamiento turístico de escala municipal." },
+          { "t": "Estudios para un parque acuático en Mindo y una réplica del Monumento de la Mitad del Mundo", "v": "media", "n": "Solo compromete estudios; la ejecución depende de financiamiento y permisos ambientales." }
+        ],
+        "movilidad": [
+          { "t": "Equipo caminero para caminos vecinales y accesos productivos", "v": "media", "n": "La vialidad rural es de la Prefectura; el plan prevé coordinar." },
+          { "t": "Estudio de factibilidad de planta asfáltica municipal o mancomunada", "v": "alta", "n": "Solo compromete el estudio." },
+          { "t": "Plan progresivo de asfaltado, bordillos, aceras y pasos peatonales en la cabecera y barrios", "v": "alta", "n": "Vialidad urbana es competencia exclusiva." }
+        ],
+        "servicios": [
+          { "t": "Fortalecer agua potable, alcantarillado sanitario y pluvial, drenaje; separación de residuos y compostaje", "v": "alta", "n": "Competencias municipales; sin meta de cobertura." },
+          { "t": "Gestionar alumbrado en al menos 50 puntos priorizados", "v": "media", "n": "Depende de la empresa eléctrica." }
+        ],
+        "social": [
+          { "t": "Gestionar un Centro de Salud Tipo C ante el MSP; el municipio aporta predio y expedientes", "v": "media", "n": "La construcción depende del MSP; el plan solo compromete predio y hoja de ruta." },
+          { "t": "Brigadas médicas rurales y transporte social para atención médica", "v": "media", "n": "La salud es del MSP." },
+          { "t": "Ventanilla de servicios del IESS, Seguro Social Campesino y Registro Social por convenio", "v": "media", "n": "Depende de las entidades nacionales." },
+          { "t": "Centro de bienestar animal, centro gerontológico y movilidad estudiantil rural", "v": "alta", "n": "Atribuciones municipales." },
+          { "t": "Inglés gratuito, formación tecnológica; programa para mujeres: 1.000 participantes y 200 iniciativas económicas", "v": "alta", "n": "Metas concretas de escala municipal." },
+          { "t": "Casa de la Cultura y biblioteca, agenda cultural, gimnasio público, apoyo a la Liga Cantonal y recuperación de canchas", "v": "alta", "n": "Equipamientos y programas de escala municipal." }
+        ],
+        "seguridad": [
+          { "t": "Centro Municipal de Monitoreo 24/7 con cámaras, articulado al ECU 911", "v": "media", "n": "El municipio puede invertir en monitoreo; la seguridad es nacional." },
+          { "t": "Transporte seguro (cámaras, GPS, botones), red contra el abigeato y alarmas comunitarias", "v": "media", "n": "Acciones preventivas de apoyo a la Policía." },
+          { "t": "Gestión integral de riesgos: mapas, simulacros, rutas de evacuación", "v": "alta", "n": "Competencia municipal." }
+        ],
+        "ambiente": [
+          { "t": "Vivero forestal municipal de hasta 50.000 plantas al año; recuperación de riberas y reforestación", "v": "alta", "n": "Escala acotada." },
+          { "t": "Ordenanza de incentivos a la conservación y política del Chocó Andino", "v": "media", "n": "Requiere sustento jurídico y fiscal, que el plan condiciona." }
+        ],
+        "gobierno": [
+          { "t": "Dirección Municipal de Gestión de Proyectos para estructurar y financiar obras", "v": "alta", "n": "Decisión administrativa." },
+          { "t": "Municipio digital; información pública con código QR en el 100 % de las obras; portal con seguimiento trimestral", "v": "alta", "n": "Meta verificable y de bajo costo." },
+          { "t": "Socialización y control social de obras antes de ejecutarlas", "v": "alta", "n": "Mecanismo de bajo costo." }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "Hasta 1.200 familias agropecuarias atendidas; feria semanal con al menos 80 productores.",
+        "3 programas de formación técnica y 300 estudiantes; 1.000 mujeres vinculadas y 200 iniciativas económicas.",
+        "Al menos 50 puntos de alumbrado gestionados; al menos 3 circuitos turísticos; vivero de hasta 50.000 plantas al año.",
+        "100 % de las obras con información pública actualizada."
+      ],
+      "inversion": "Sin montos.",
+      "primeros100": null,
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 11420,
+      "enfoque": "Plan breve de cuatro ejes con actividades enunciadas en pocas líneas y sin metas ni montos.",
+      "estructura": "4 ejes · matriz de tiempos por año",
+      "tabla": {
+        "movilidad": [
+          { "t": "Apoyar la gestión de una planta de asfalto propia", "v": "media", "n": "Requiere inversión y estudios no detallados." },
+          { "t": "Lastrado, adoquinado o asfaltado en zonas pobladas y vías rurales; fortalecer el transporte público", "v": "media", "n": "Lo urbano es municipal; lo rural es de la Prefectura." },
+          { "t": "Impulsar a la iniciativa privada en venta de autos, motos o scooters eléctricos", "v": "baja", "n": "Es una actividad comercial privada, no una competencia municipal." }
+        ],
+        "economia": [
+          { "t": "Centro de capacitación para personas vulnerables, agricultores y emprendedores", "v": "alta", "n": "Escala municipal." },
+          { "t": "Zonas comerciales y de acopio junto a la vía E20; Parque Artesanal y ferias ganaderas; recinto ferial", "v": "media", "n": "La E20 es vía estatal; el uso del suelo junto a ella requiere coordinación con el MTOP." },
+          { "t": "Turismo de montaña, aventura, ciencia y agroturismo; marcas locales", "v": "alta", "n": "Promoción local." },
+          { "t": "Dirección de Relaciones Internacionales para atraer inversión extranjera", "v": "media", "n": "Crearla es viable; los resultados no dependen del municipio." }
+        ],
+        "seguridad": [
+          { "t": "Secretaría de Seguridad, Gestión de Riesgos y Convivencia; botones de emergencia, alarmas y cámaras", "v": "media", "n": "El municipio aporta equipos; la seguridad es nacional." }
+        ],
+        "urbano": [
+          { "t": "Eliminar barreras físicas para personas con discapacidad en vías y edificios", "v": "alta", "n": "Espacio público es competencia municipal." },
+          { "t": "Recuperar espacios verdes, parques lineales y riberas; espacios para eventos artísticos", "v": "alta", "n": "Competencia municipal." }
+        ],
+        "ambiente": [
+          { "t": "Plan de forestación rural y arborización de calles; política de tenencia responsable de animales", "v": "alta", "n": "Escala municipal." }
+        ],
+        "social": [
+          { "t": "Programas de desarrollo deportivo formativo", "v": "alta", "n": "Escala municipal." }
+        ],
+        "gobierno": [
+          { "t": "Rendición de cuentas pública con transmisión en vivo en barrios", "v": "alta", "n": "Obligación legal." }
+        ],
+        "otros": []
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "inversion": "Sin montos. Fuentes mencionadas: recursos propios, convenios con Policía y Gobierno Central.",
+      "primeros100": null,
+      "notas": []
+    },
+    {
+      "codFormulario": 10832,
+      "enfoque": "Plan en cuatro programas que parte de la baja ejecución de obra pública del municipio y prioriza auditorías, inventarios y mantenimiento antes de nuevas obras.",
+      "estructura": "4 programas estratégicos · 10 proyectos con actividades, actores, indicador, meta y viabilidad · fases 2027-2031",
+      "tabla": {
+        "seguridad": [
+          { "t": "Consejo Cantonal de Seguridad activo, mapa participativo de riesgos, iluminación, rutas seguras y protocolos con taxis y comercios", "v": "media", "n": "El municipio coordina; la seguridad ciudadana es nacional." }
+        ],
+        "social": [
+          { "t": "Red Cantonal de Juventudes y Casa Joven en infraestructura disponible; apoyo de movilidad a universitarios; inclusión de población migrante", "v": "alta", "n": "Usa infraestructura existente y es de escala municipal." },
+          { "t": "Escuelas deportivas con metas, recuperación de escenarios accesibles, agenda cultural y envejecimiento activo", "v": "alta", "n": "Competencias municipales de inclusión, cultura y deporte." }
+        ],
+        "movilidad": [
+          { "t": "Inventario vial y cronograma en 2027, plan anual de mantenimiento con programación pública de maquinaria", "v": "alta", "n": "Gestión de recursos propios." },
+          { "t": "Gestionar con la Prefectura un paso lateral (bypass) y acuerdos para vías provinciales y nacionales", "v": "media", "n": "Depende de la Prefectura y el MTOP." }
+        ],
+        "servicios": [
+          { "t": "Auditoría técnica y control de olores de las plantas de tratamiento; inventario del 100 % de sistemas en 2027", "v": "alta", "n": "Competencia municipal y meta verificable." },
+          { "t": "Separación progresiva de aguas servidas y pluviales y protección de captaciones", "v": "media", "n": "Obra de escala que depende de estudios y financiamiento." }
+        ],
+        "urbano": [
+          { "t": "Expediente único de lotizaciones y escrituras, rutas de regularización y titulación (sin titular lotes en riesgo no mitigable)", "v": "alta", "n": "Catastro y regularización son competencias propias." },
+          { "t": "Vivienda de interés social en lotizaciones municipales con el MIDUVI y entidades financieras", "v": "media", "n": "Depende del MIDUVI y del financiamiento." },
+          { "t": "Presupuesto participativo y microproyectos barriales", "v": "alta", "n": "Mecanismo legal." }
+        ],
+        "economia": [
+          { "t": "Ferias itinerantes, ruta Mujer Emprende, marca y vitrinas locales, asistencia para contratación pública", "v": "alta", "n": "Desarrollo económico local de bajo costo." },
+          { "t": "Calendario cantonal de eventos desde 2027: carreras de montaña, ciclismo, aventura y rutas gastronómicas", "v": "alta", "n": "Promoción turística local." }
+        ],
+        "ambiente": [
+          { "t": "Cartera de proyectos para cooperación internacional y fondos climáticos; restauración de riberas y acuerdos voluntarios de conservación", "v": "media", "n": "Depende de captar fondos externos." }
+        ],
+        "gobierno": [
+          { "t": "Ventanilla única, pagos y trámites en línea, aplicación efectiva de exoneraciones y atención asistida", "v": "alta", "n": "Gestión interna." },
+          { "t": "Banco de proyectos, unidad de ejecución, auditoría de obras inconclusas y maquinaria, ascensos por mérito", "v": "alta", "n": "Atiende la baja ejecución que el propio plan describe." },
+          { "t": "Tablero mensual de datos abiertos, cabildos, veedurías e informe anual de cumplimiento", "v": "alta", "n": "Mecanismos de bajo costo." }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "Inventario vial y cronograma de mantenimiento en 2027; inventario del 100 % de sistemas y plantas de agua en 2027.",
+        "Atención documentada del 100 % de casos priorizados de regularización.",
+        "Calendario anual de eventos desde 2027; tablero mensual, encuentros trimestrales, asambleas semestrales e informe anual."
+      ],
+      "inversion": "Sin montos. El plan cita un informe municipal según el cual, de USD 4,38 M codificados para obras públicas, se devengaron USD 42.840,92 (0,98 %).",
+      "primeros100": null,
+      "notas": ["La cifra de ejecución de obra pública la aporta el plan; no se verificó con una fuente independiente."]
+    }
+  ]
+}

@@ -1,0 +1,822 @@
+{
+  "canton": "QUITO",
+  "contexto": [],
+  "candidatos": [
+    {
+      "codFormulario": 310,
+      "enfoque": "Gestión centrada en el 'orden' y en cinco compromisos (seguridad, movilidad, obra pública, emprendimiento y eficiencia municipal), con responsables, tableros e indicadores de dirección, sin montos ni metas numéricas.",
+      "estructura": "8 principios · 5 objetivos específicos · 5 compromisos · 32 políticas/proyectos · modelo financiero con 7 fuentes · ejecución en 4 etapas anuales",
+      "tabla": {
+        "movilidad": [
+          { "t": "Sistema Integrado Metropolitano de Movilidad: reorganización gradual de rutas y transbordos alrededor del Metro y corredores, con integración de operación, medios de pago y tarifas, priorizando zonas sin cobertura y ruralidad", "v": "media", "n": "Competencia municipal (tránsito y transporte), pero exige renegociar contratos con operadores y sostener subsidios: el Metro ya recibe cerca de USD 60 M anuales del presupuesto (Primicias, 2026)." },
+          { "t": "'Un solo viaje, una sola información': plataforma unificada de rutas, tiempos, incidencias, accesibilidad y pago", "v": "alta", "n": "Herramienta tecnológica dentro de la competencia de movilidad y de bajo costo relativo frente a un presupuesto de USD 1.041,86 M (2026)." },
+          { "t": "'Vías que duran': inventario técnico y mantenimiento preventivo vial coordinado con EPMAPS y EPMMOP, con un comité de interferencias para no reabrir calles", "v": "alta", "n": "Vialidad urbana es competencia exclusiva; el presupuesto 2026 asigna USD 323 M al sector movilidad (El Comercio)." },
+          { "t": "'Cero accidentes Quito' y 'Ciudad caminable': diseño seguro, control de velocidad, cruces protegidos, puntos negros, aceras continuas y accesibilidad universal", "v": "alta", "n": "Seguridad vial y espacio público son competencias municipales; intervenciones escalables por fases." },
+          { "t": "Centro de Gestión de Movilidad con semaforización adaptativa e información en tiempo real; autoridad técnica de integración y mesa contractual con operadores", "v": "alta", "n": "Gestión de tránsito municipal; el plan no fija costo ni plazo." },
+          { "t": "'Conexiones metropolitanas': soluciones escalonadas para accesos a valles y corredores críticos, y banco de proyectos de intercambiadores y terminales (sin anunciar obras sin estudios)", "v": "media", "n": "Obras mayores dependen de estudios y crédito; el plan no identifica proyectos concretos." }
+        ],
+        "servicios": [
+          { "t": "'Agua y drenaje para crecer bien': prioridad a cobertura, reducción de pérdidas, alcantarillado, drenaje urbano y adaptación climática", "v": "alta", "n": "Agua y saneamiento son competencia municipal (EPMAPS); el plan no da metas ni montos." }
+        ],
+        "ambiente": [
+          { "t": "'Quebradas vivas, barrios seguros': protección, limpieza técnica, control de ocupaciones, restauración y prevención de riesgos", "v": "alta", "n": "Competencia municipal sobre uso de suelo, riberas y riesgos." }
+        ],
+        "urbano": [
+          { "t": "'Barrios completos': intervenciones integrales con servicios básicos, vías, iluminación, espacio público y equipamientos", "v": "media", "n": "Competencias propias, pero el alcance depende de la cartera y financiamiento, que el plan no cuantifica; la ejecución de inversión en 2025 fue menor que la del gasto corriente (informe municipal citado por otros planes: 77,49 % frente a 90,29 %)." },
+          { "t": "'Mantenimiento primero': conservación preventiva con inventario de activos, niveles de servicio y presupuestos plurianuales", "v": "alta", "n": "Gestión de activos propios; mejora de procesos más que obra nueva." },
+          { "t": "Cartera Única Metropolitana de Obras con fichas de costo total, riesgos y financiamiento; contratos con hitos y control georreferenciado", "v": "alta", "n": "Instrumento de planificación interno del Municipio." },
+          { "t": "'Centralidades que acercan' y 'Patrimonio vivo': servicios, mercados y empleo cerca de la vivienda; conservación del patrimonio con vivienda y actividad económica", "v": "media", "n": "Competencias de suelo y patrimonio; resultados de largo plazo y sin metas definidas." }
+        ],
+        "seguridad": [
+          { "t": "'Territorios seguros 24/7': intervención integral por polígonos priorizados (iluminación, cámaras, agentes, limpieza, mantenimiento, control y activación comunitaria)", "v": "media", "n": "La seguridad ciudadana es competencia nacional; el Municipio actúa en prevención situacional y espacio público, como plantea el propio plan." },
+          { "t": "Sala Metropolitana permanente de Coordinación Territorial con Policía Nacional, ECU 911, Fiscalía y Bomberos; mapa único de incidentes, riesgos, iluminación y cámaras", "v": "media", "n": "Depende de convenios con entidades nacionales." },
+          { "t": "Agentes metropolitanos desplegados por territorio según riesgo y demanda, con formación y protocolos de derechos humanos", "v": "alta", "n": "Los agentes metropolitanos de control son personal municipal." },
+          { "t": "'Rutas y entornos seguros' en escuelas, mercados, hospitales y estaciones; 'Quito se cuida' (redes comunitarias)", "v": "alta", "n": "Acciones de espacio público y organización comunitaria dentro de la competencia municipal." },
+          { "t": "'Ciudad preparada': mapas de riesgo, mantenimiento de quebradas, alertas tempranas, simulacros y respuesta a incendios, inundaciones y deslizamientos", "v": "alta", "n": "Gestión de riesgos y bomberos son competencia municipal." }
+        ],
+        "social": [
+          { "t": "Prevención de violencia contra mujeres, niños, adolescentes y personas vulnerables (objetivo del compromiso 1)", "v": "media", "n": "Objetivo enunciado sin programa específico ni metas." }
+        ],
+        "economia": [
+          { "t": "'Quito abre en un solo lugar': ventanilla empresarial y expediente único, con trámites diferenciados por nivel de riesgo", "v": "alta", "n": "Simplificación de permisos municipales." },
+          { "t": "'Formalizar conviene' y 'Comercio con dignidad': acompañamiento gradual a informales, zonificación, permisos transparentes, reubicación y control de ocupaciones indebidas", "v": "media", "n": "Competencia sobre espacio público, pero alta conflictividad social." },
+          { "t": "'Mercados que compiten': infraestructura, sanidad, logística, seguridad, digitalización y promoción", "v": "alta", "n": "Mercados son competencia municipal." },
+          { "t": "'Quito emplea su talento': alianzas con empresas, universidades e institutos para certificación, prácticas y formación orientada a vacantes", "v": "media", "n": "El empleo formal es política nacional; el Municipio solo facilita." },
+          { "t": "'Capital de inversión y eventos' y 'Economía rural metropolitana': oficina de facilitación, turismo, congresos, industrias creativas, cadenas cortas y ferias", "v": "media", "n": "Fomento productivo complementario sin montos." }
+        ],
+        "gobierno": [
+          { "t": "Expediente ciudadano metropolitano, 'Municipio sin papeles' e interoperabilidad; canal único presencial, telefónico y digital con número de caso", "v": "alta", "n": "Modernización administrativa interna." },
+          { "t": "Tablero 'Quito Cumple', presupuesto por resultados, Oficina de Cumplimiento y Entrega Estratégica e informe semestral público", "v": "alta", "n": "Instrumentos de gestión interna sin costo relevante declarado." },
+          { "t": "IA responsable con auditoría y revisión humana; integridad y control preventivo (datos abiertos, alertas contractuales, protección al denunciante)", "v": "alta", "n": "Competencia administrativa propia." },
+          { "t": "Revisión técnica y financiera de contratos, deuda, litigios y capacidad de ejecución en los primeros 100 días", "v": "alta", "n": "Acción administrativa inmediata; relevante frente al posible ajuste de USD 459 M por la reforma al COOTAD (El Comercio, 2026)." }
+        ],
+        "otros": [
+          { "t": "Modelo financiero: ingresos propios con actualización catastral, crédito de banca de desarrollo, cooperación, APP, contribución de mejoras, financiamiento climático y reasignación por eficiencia", "v": "media", "n": "Lista fuentes sin montos; la actualización catastral y la contribución de mejoras requieren ordenanza." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas: cada compromiso trae indicadores solo con la dirección esperada (aumento, reducción o mejora)."],
+      "inversion": "Sin montos. Declara fuentes: ingresos propios y transferencias, crédito de banca de desarrollo, cooperación internacional, APP o delegación, gestión del suelo y contribución de mejoras, financiamiento climático y verde, y eficiencia y repriorización.",
+      "primeros100": [
+        "Revisión técnica y financiera de contratos, proyectos, obligaciones, deuda, litigios y capacidad de ejecución, para proteger la continuidad de servicios, corregir riesgos y ordenar prioridades."
+      ],
+      "detalle": [
+        { "titulo": "Principios para gobernar Quito", "items": [
+          "La gente primero: cada decisión se evalúa por su efecto en la vida diaria.",
+          "Autoridad democrática: el alcalde asume la conducción política y hace cumplir las normas.",
+          "Una sola ciudad: estructura con prioridades, datos y cronogramas comunes.",
+          "Territorio antes que escritorio: planificación y presupuesto leídos desde barrios, valles, centralidades y parroquias rurales.",
+          "Cuidar lo que ya tenemos: prioridad al mantenimiento preventivo.",
+          "Datos para decidir: evidencia, analítica y evaluación, sin reemplazar el criterio humano.",
+          "Cuentas claras: obras, contratos, presupuesto, tiempos de trámite e indicadores públicos.",
+          "Ambición responsable: grandes transformaciones solo con competencias, estudios, financiamiento y sostenibilidad."
+        ]},
+        { "titulo": "Objetivos", "items": [
+          "Objetivo general: capital que funciona, cuida y avanza, con gestión firme, cercana e inteligente.",
+          "Reducir factores urbanos que facilitan el delito y recuperar calles, parques, mercados, estaciones y entornos escolares.",
+          "Consolidar el Metro como columna vertebral de la movilidad, mejorar transbordos y reducir tiempos de viaje.",
+          "Ordenar la obra pública con cartera plurianual (mantenimiento, servicios básicos, conectividad, riesgos, brechas).",
+          "Hacer del Municipio un aliado de quien trabaja, emprende e invierte, simplificando trámites.",
+          "Integrar la administración: interoperabilidad, expediente único, gestión por resultados, IA responsable y rendición de cuentas."
+        ]},
+        { "titulo": "Compromiso 1 · Quito seguro y en orden", "items": [
+          "Objetivos: reducir oportunidades para el delito; mejorar prevención y respuesta; recuperar parques, paradas, mercados, plazas y entornos escolares; prevenir violencia contra mujeres, niños y vulnerables; integrar seguridad y riesgos.",
+          "Territorios seguros 24/7: intervención integral por polígonos priorizados.",
+          "Rutas y entornos seguros: corredores peatonales y de transporte con iluminación, visibilidad, accesibilidad y vigilancia en escuelas, mercados, hospitales y estaciones.",
+          "Agentes metropolitanos por territorio: despliegue según riesgo y demanda, formación, equipamiento, protocolos de DD. HH.",
+          "Quito se cuida: redes comunitarias de diálogo, alertas y recuperación de espacios.",
+          "Ciudad preparada: mapas de riesgo, mantenimiento de quebradas, alertas tempranas, simulacros y respuesta a incendios, inundaciones y movimientos en masa.",
+          "Mecanismos: Sala Metropolitana de Coordinación Territorial (Policía, ECU 911, Fiscalía, Bomberos); mapa único de incidentes; acciones inmediatas de iluminación en zonas críticas; protocolos para mercados, transporte, eventos, parques y patrimonio; evaluación trimestral.",
+          "Indicadores: espacios intervenidos, luminarias operativas, tiempo de respuesta, parques y entornos escolares recuperados, percepción de seguridad.",
+          "Gobierno inteligente: analítica territorial, cámaras y sensores con reglas de privacidad; tablero del alcalde."
+        ]},
+        { "titulo": "Compromiso 2 · Moverse sin perder la vida", "items": [
+          "Objetivos: integrar operación, información, pago y tarifas; conectar barrios, valles y parroquias; reducir siniestros; conservación programada de vías; vincular movilidad, suelo, vivienda y empleo.",
+          "Sistema Integrado Metropolitano de Movilidad: reorganización de rutas y transbordos alrededor del Metro, con transición contractual y sostenibilidad financiera.",
+          "Un solo viaje, una sola información: plataforma unificada de rutas, tiempos, incidencias, accesibilidad y pago.",
+          "Vías que duran: inventario técnico, mantenimiento preventivo, coordinación obligatoria antes de intervenir redes.",
+          "Cero accidentes Quito: diseño seguro, control de velocidad, cruces protegidos, puntos negros, educación vial.",
+          "Conexiones metropolitanas: soluciones escalonadas para accesos a valles y corredores críticos.",
+          "Ciudad caminable: aceras continuas, accesibilidad universal, entornos peatonales.",
+          "Mecanismos: autoridad técnica de integración; mesa contractual con operadores; Centro de Gestión de Movilidad con semaforización adaptativa; programa plurianual de mantenimiento con EPMAPS, EPMMOP y zonales; banco de proyectos de accesos, intercambiadores y terminales.",
+          "Indicadores: tiempo de viaje en corredores, viajes integrados, regularidad de frecuencias, km con mantenimiento preventivo, siniestros graves y muertes, accesibilidad en paradas.",
+          "Gobierno inteligente: datos de flota y tráfico para ajustar frecuencias, semáforos y rutas; IA para predecir congestión y mantenimiento."
+        ]},
+        { "titulo": "Compromiso 3 · Obras que ordenan Quito", "items": [
+          "Objetivos: reducir brechas de agua, alcantarillado, drenaje y vialidad; proteger quebradas y laderas; ordenar el crecimiento; priorizar mantenimiento; cartera plurianual madura.",
+          "Barrios completos: servicios básicos, vías, iluminación, espacio público, movilidad y equipamientos.",
+          "Mantenimiento primero: conservación preventiva con inventario de activos y presupuestos plurianuales.",
+          "Agua y drenaje para crecer bien: cobertura, reducción de pérdidas, alcantarillado, drenaje urbano, adaptación climática.",
+          "Quebradas vivas, barrios seguros: protección, limpieza, control de ocupaciones, restauración.",
+          "Centralidades que acercan: servicios, mercados, espacio público y empleo cerca de la vivienda.",
+          "Quito rural productivo y conectado: vialidad local, agua, conectividad, equipamientos, turismo compatible con la conservación.",
+          "Patrimonio vivo: conservación con vivienda, actividad económica, seguridad, movilidad y gestión del espacio público.",
+          "Mecanismos: Cartera Única Metropolitana de Obras; comité técnico de interferencias; priorización por brechas y madurez técnica; contratos con hitos y control georreferenciado; coordinación con GAD parroquiales, Prefectura y Gobierno Nacional.",
+          "Indicadores: ejecución física y presupuestaria, activos con mantenimiento, cobertura de agua y alcantarillado, vías reintervenidas, barrios intervenidos, población expuesta a riesgos.",
+          "Gobierno inteligente: cada obra con ubicación, contrato, presupuesto, responsable y avance público."
+        ]},
+        { "titulo": "Compromiso 4 · Trabajar y emprender con libertad", "items": [
+          "Quito abre en un solo lugar: ventanilla empresarial y expediente único por nivel de riesgo.",
+          "Formalizar conviene: acompañamiento gradual, capacitación e inspecciones coordinadas para informales y micro y pequeños negocios.",
+          "Mercados que compiten: infraestructura, sanidad, logística, seguridad, digitalización y promoción.",
+          "Comercio con dignidad: zonificación, permisos transparentes, alternativas de reubicación y control de ocupaciones indebidas.",
+          "Quito emplea su talento: alianzas para certificación, prácticas y formación orientada a vacantes reales.",
+          "Capital de inversión y eventos: cartera de proyectos, oficina de facilitación, turismo, congresos, cultura e industrias creativas.",
+          "Economía rural metropolitana: cadenas cortas, ferias, turismo, conectividad y acceso a mercados municipales.",
+          "Mecanismos: catálogo único de requisitos; inspecciones basadas en riesgo; acuerdos sectoriales; agenda anual de eventos; uso estratégico de compras públicas.",
+          "Indicadores: tiempo de habilitación, trámites eliminados, negocios que mantienen formalidad, mercados mejorados, personas vinculadas a empleo, inversión facilitada."
+        ]},
+        { "titulo": "Compromiso 5 · Un Municipio que responde", "items": [
+          "Expediente ciudadano metropolitano: historia única de solicitudes, pagos, permisos e inspecciones.",
+          "Administraciones resolutivas: zonales con capacidad de coordinar servicios y mantenimiento con metas.",
+          "Tablero Quito Cumple: metas, presupuesto, contratos y resultados públicos.",
+          "Presupuesto por resultados vinculado a indicadores y costos.",
+          "Municipio sin papeles innecesarios: digitalización de extremo a extremo y archivo electrónico.",
+          "IA responsable para la ciudad: atención, análisis, mantenimiento y detección de riesgos con auditoría.",
+          "Integridad y control preventivo: datos abiertos, alertas contractuales, protección al denunciante.",
+          "Mecanismos: Oficina de Cumplimiento y Entrega Estratégica; acuerdos de nivel de servicio; arquitectura de datos y ciberseguridad; evaluación semestral de empresas públicas; canal único con número de caso.",
+          "Indicadores: tiempo de trámites, casos resueltos en plazo, servicios interoperables, ejecución presupuestaria, contratos con información pública, satisfacción ciudadana."
+        ]},
+        { "titulo": "Modelo financiero y ejecución", "items": [
+          "Principios: sostenibilidad, prioridad, madurez de proyectos, transparencia, equidad territorial, capacidad de pago dentro de límites legales.",
+          "Fuentes y usos: ingresos propios (actualización catastral), banca de desarrollo, cooperación internacional, APP, contribución de mejoras, financiamiento climático, eficiencia y repriorización.",
+          "Ciclo de proyectos en 7 pasos: identificación, prefactibilidad, diseño, financiamiento, contratación, seguimiento y evaluación.",
+          "Proforma anual que muestre cuánto recibe cada compromiso y su distribución territorial.",
+          "Año 1 ordenar y responder; año 2 integrar y ejecutar; año 3 ampliar y consolidar; año 4 cumplir y dejar capacidad.",
+          "Gobierno de compromisos: responsable político, gerente técnico, metas, presupuesto y tablero por compromiso; planes territoriales urbanos y rurales."
+        ]},
+        { "titulo": "Rendición de cuentas y comunicación", "items": [
+          "Rendición anual, informe semestral de los cinco compromisos, tablero público de seguimiento.",
+          "Asambleas zonales urbanas y rurales, presupuesto participativo, datos abiertos, evaluación independiente.",
+          "Balance final del Plan al cierre 2027–2031.",
+          "Reglas de comunicación: hablar desde la vida cotidiana, cifras con fuente, explicar decisiones difíciles, no inaugurar obras inconclusas."
+        ]}
+      ],
+      "notas": [
+        "Texto de OCR con tablas ilegibles en las páginas 3 a 13 (nombres de programas y celdas mezclados). Se verificó contra las imágenes de las páginas 3, 4, 5, 6, 8, 9, 10, 11, 12 y 13 y se reconstruyeron los nombres y contenidos de las tablas.",
+        "El plan no contiene cifras de diagnóstico, montos ni metas numéricas."
+      ]
+    },
+    {
+      "codFormulario": 6252,
+      "enfoque": "Seis ejes (seguridad, movilidad, economía, inclusión social, ambiente y gestión municipal) más un eje transversal 'Quito Inteligente', con énfasis en tecnología e IA; todas las acciones tienen plazo 2027–2031 y no traen montos ni metas.",
+      "estructura": "6 ejes + 1 eje transversal · 14 programas · 53 proyectos/estrategias, todos con periodo 2027–2031",
+      "tabla": {
+        "movilidad": [
+          { "t": "Semaforización inteligente progresiva en los corredores de mayor congestión", "v": "alta", "n": "Gestión de tránsito municipal; el sector movilidad tiene USD 323 M en el presupuesto 2026 (El Comercio)." },
+          { "t": "Optimización del transporte público (frecuencias, cobertura, calidad) con protocolos contra el acoso sexual", "v": "media", "n": "Competencia municipal; depende de acuerdos con operadores privados y de subsidios." },
+          { "t": "Plan permanente de mantenimiento vial en ejes de mayor siniestralidad y solución a puntos críticos de tráfico", "v": "alta", "n": "Vialidad urbana es competencia exclusiva." },
+          { "t": "Estacionamientos disuasivos en las cabeceras del transporte masivo", "v": "media", "n": "Requiere suelo e inversión no cuantificados." },
+          { "t": "Ciclovías en corredores con demanda comprobada y herramientas digitales para planificar rutas", "v": "alta", "n": "Obras e instrumentos de bajo costo dentro de la competencia." },
+          { "t": "Impulso a la movilidad eléctrica en transporte público, flota municipal y vehículos privados", "v": "media", "n": "La renovación de flota privada depende de operadores e incentivos nacionales." }
+        ],
+        "servicios": [
+          { "t": "Protección del agua: conservación de cuencas hidrográficas del Distrito", "v": "alta", "n": "Competencia municipal (EPMAPS y Ambiente); sin metas." }
+        ],
+        "ambiente": [
+          { "t": "Reforestación urbana en zonas afectadas por incendios forestales", "v": "alta", "n": "Competencia ambiental municipal; el plan cita más de 2.500 ha afectadas." },
+          { "t": "Recuperación de quebradas afectadas por asentamientos irregulares", "v": "alta", "n": "Competencia de suelo y riesgos; el plan cita 589 asentamientos irregulares en 2024." },
+          { "t": "Gestión moderna de residuos y aprovechamiento en estaciones de transferencia; economía circular con recicladores", "v": "alta", "n": "Residuos sólidos son competencia exclusiva; el plan parte de un aprovechamiento de 1,4 %." },
+          { "t": "Control de la contaminación del aire (prevención, monitoreo y gestión)", "v": "media", "n": "Competencia compartida; las fuentes móviles dependen también de normas nacionales." }
+        ],
+        "urbano": [
+          { "t": "Iluminación de parques y espacios públicos y recuperación de espacios degradados en sectores inseguros", "v": "alta", "n": "Espacio público es competencia municipal; la iluminación se coordina con la empresa eléctrica." },
+          { "t": "Más parques seguros: ampliación y mantenimiento de parques", "v": "alta", "n": "Competencia municipal." }
+        ],
+        "seguridad": [
+          { "t": "Centro Inteligente de Seguridad con inteligencia artificial", "v": "media", "n": "La seguridad ciudadana es competencia nacional; el Municipio solo apoya. El plan no da costo ni escala." },
+          { "t": "Cámaras con reconocimiento de patrones en sectores priorizados", "v": "media", "n": "Infraestructura de apoyo municipal; requiere integración con ECU 911 y Policía y reglas de protección de datos." },
+          { "t": "Alarmas comunitarias conectadas al Centro Inteligente en barrios con mayor percepción de inseguridad", "v": "alta", "n": "Programa municipal ya existente en otras administraciones; costo moderado." },
+          { "t": "App municipal de emergencias y denuncia ciudadana", "v": "alta", "n": "Herramienta tecnológica de bajo costo." },
+          { "t": "Brigadas barriales de prevención y coordinación permanente con la Policía Nacional", "v": "media", "n": "Coordinación sujeta a la voluntad del Gobierno Nacional." }
+        ],
+        "social": [
+          { "t": "Atención prioritaria al adulto mayor y programas para personas con discapacidad", "v": "alta", "n": "Programas sociales municipales; la reforma COOTAD los excluye del cálculo de inversión mínima." },
+          { "t": "Primera infancia en parroquias con mayor vulnerabilidad", "v": "media", "n": "El plan cita 19,6 % de desnutrición crónica infantil; la política de salud y nutrición es nacional." },
+          { "t": "Salud preventiva en barrios mediante brigadas, en coordinación con la autoridad sanitaria", "v": "media", "n": "La gestión de salud es del Ministerio; el Municipio complementa." },
+          { "t": "Programas de juventud, deporte y cultura barrial; bienestar animal", "v": "alta", "n": "Fauna urbana, cultura y deporte barrial son competencias municipales." }
+        ],
+        "economia": [
+          { "t": "Capital semilla para emprendimientos (fortalecer mecanismos municipales existentes)", "v": "alta", "n": "Hay un fondo municipal previo: el plan cita cerca de 1.000 emprendedores capitalizados por FonQuito hasta 2025." },
+          { "t": "Ferias permanentes en las administraciones zonales y modernización de mercados municipales", "v": "alta", "n": "Mercados y ferias son competencia municipal." },
+          { "t": "Simplificación de trámites para apertura y formalización de negocios", "v": "alta", "n": "Competencia administrativa propia." },
+          { "t": "Compras municipales a productores locales y turismo de barrios y parroquias", "v": "media", "n": "Las compras deben ajustarse a la ley nacional de contratación pública." },
+          { "t": "Incentivos tributarios y administrativos para inversión privada generadora de empleo", "v": "media", "n": "Solo sobre tributos municipales y con ordenanza; el empleo formal depende de la economía nacional." }
+        ],
+        "gobierno": [
+          { "t": "Digitalización de trámites de mayor demanda en el Portal de Servicios Municipales y menos burocracia", "v": "alta", "n": "Competencia administrativa propia." },
+          { "t": "Gobierno abierto, datos abiertos, control del gasto y rendición permanente de cuentas", "v": "alta", "n": "Obligaciones legales ya vigentes que se refuerzan." },
+          { "t": "Presupuestos participativos en las administraciones zonales", "v": "alta", "n": "Mecanismo vigente; el plan propone fortalecerlo." },
+          { "t": "Eje transversal Quito Inteligente: plataforma Big Data, sensores urbanos, centro de operaciones de ciudad, tableros en tiempo real, IA aplicada, aplicaciones y automatización", "v": "media", "n": "Competencia propia, pero el plan no estima costos de inversión y operación tecnológica." }
+        ],
+        "otros": [
+          { "t": "Mecanismos de paridad de género transversales (participación equitativa, prevención de violencia de género, acceso a empleo y emprendimiento)", "v": "alta", "n": "Lineamientos transversales sin costo específico." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas. Todas las acciones tienen periodo 2027–2031."],
+      "inversion": "Sin montos.",
+      "primeros100": null,
+      "detalle": [
+        { "titulo": "Diagnóstico (cifras citadas por el plan)", "items": [
+          "260 homicidios en 2025 (+6,1 % frente a 245 en 2024); 40 homicidios en enero-febrero de 2026 (+33,3 %).",
+          "Microtráfico concentrado en la Administración Manuela Sáenz (1.277 casos a noviembre de 2025); Calderón con 122 asentamientos irregulares; Guamaní con 1.476 denuncias de violación en 2024.",
+          "Parque automotor de ~400.000 a ~750.000 vehículos en 15 años; 3.831 siniestros en 2025; 454 víctimas mortales en 2024.",
+          "Metro: más de 105 millones de viajes y satisfacción de 9,5/10.",
+          "Desempleo de 7,7 % en el primer trimestre de 2026; ingreso familiar USD 859 frente a canasta de USD 832.",
+          "Pobreza por ingresos en Quito urbano: 13,1 % (2024); desnutrición crónica infantil 19,6 %.",
+          "PM2.5 y NO₂ hasta 2,6 veces los límites de la OMS; más de 2.500 ha afectadas por incendios; 1,4 % de residuos aprovechados; 589 asentamientos irregulares (4.934,66 ha).",
+          "Percepción de corrupción municipal: de 65,4 % (2024) a 37,5 % (2025); catastro de 1.029.565 predios."
+        ]},
+        { "titulo": "Eje 1 · Seguridad y Convivencia Ciudadana", "items": [
+          "Programa Quito Seguro con Tecnología: Centro Inteligente de Seguridad con IA.",
+          "Cámaras con reconocimiento de patrones (infraestructura tecnológica municipal de apoyo).",
+          "Alarmas comunitarias conectadas al Centro Inteligente.",
+          "App de atención inmediata a emergencias y denuncia.",
+          "Programa Barrios y Espacios Públicos Seguros: iluminación de parques y espacios públicos.",
+          "Recuperación de espacios públicos degradados.",
+          "Brigadas barriales de prevención en las zonales de mayor incidencia.",
+          "Coordinación permanente con la Policía Nacional."
+        ]},
+        { "titulo": "Eje 2 · Movilidad Inteligente", "items": [
+          "Programa Movilidad Inteligente y Tecnología de Tránsito: semaforización inteligente.",
+          "Tecnología para planificar rutas de transporte público y privado.",
+          "Solución a puntos críticos de tráfico.",
+          "Programa Transporte Público y Vialidad Sostenible: optimización del transporte público con protocolos frente al acoso sexual.",
+          "Mejor mantenimiento vial en ejes de mayor siniestralidad.",
+          "Estacionamientos disuasivos en cabeceras del transporte masivo.",
+          "Ciclovías donde sean funcionales.",
+          "Impulso a la movilidad eléctrica (transporte público, flota municipal y privada)."
+        ]},
+        { "titulo": "Eje 3 · Quito Produce y Emprende", "items": [
+          "Programa Fomento al Emprendimiento y Capital Semilla: capital semilla.",
+          "Ferias permanentes en administraciones zonales.",
+          "Apoyo a mercados municipales.",
+          "Programa Simplificación, Compras Públicas y Competitividad: simplificación de trámites.",
+          "Compras municipales a productores locales.",
+          "Turismo de barrios y parroquias.",
+          "Incentivos tributarios y administrativos para inversión privada."
+        ]},
+        { "titulo": "Eje 4 · Quito Humano", "items": [
+          "Programa de Atención Prioritaria y Protección Social: adulto mayor.",
+          "Personas con discapacidad.",
+          "Primera infancia.",
+          "Bienestar animal.",
+          "Programa Juventud, Salud y Vida Comunitaria: juventud.",
+          "Salud preventiva en barrios.",
+          "Programas deportivos y culturales."
+        ]},
+        { "titulo": "Eje 5 · Quito Verde y Ordenado", "items": [
+          "Programa de Gestión Ambiental Sostenible: reforestación urbana en zonas de incendios.",
+          "Recuperación de quebradas.",
+          "Protección del agua y cuencas.",
+          "Control de contaminación del aire.",
+          "Programa Ciudad Limpia y Ordenada: gestión moderna de residuos.",
+          "Economía circular con recicladores y gestores.",
+          "Más parques seguros."
+        ]},
+        { "titulo": "Eje 6 · Municipio Cercano y Eficiente", "items": [
+          "Programa Gobierno Digital y Transparente: digitalización de trámites.",
+          "Gobierno abierto.",
+          "Rendición permanente de cuentas.",
+          "Programa Municipio al Servicio del Ciudadano: menos burocracia.",
+          "Presupuestos participativos.",
+          "Atención rápida al ciudadano.",
+          "Control del gasto."
+        ]},
+        { "titulo": "Eje transversal · Quito Inteligente", "items": [
+          "Programa Infraestructura de Datos y Sensores Urbanos: Big Data (plataforma de datos urbanos).",
+          "Sensores urbanos de movilidad, seguridad y ambiente.",
+          "Centro de operaciones de ciudad.",
+          "Monitoreo en tiempo real (tableros).",
+          "Programa Gobierno Digital e IA Aplicada: inteligencia artificial en seguridad, movilidad y servicios.",
+          "Trámites en línea.",
+          "Aplicaciones municipales.",
+          "Datos abiertos.",
+          "Automatización y analítica urbana."
+        ]},
+        { "titulo": "Paridad de género y rendición de cuentas", "items": [
+          "Participación equitativa; prevención de violencia de género; acceso igualitario a empleo y emprendimiento; servicios con necesidades diferenciadas.",
+          "Rendición de cuentas: Gobierno Abierto, ventanas ciudadanas en zonales, asambleas anuales, observatorios y veedurías, portales web, informes anuales digitales y resumen anual de indicadores."
+        ]}
+      ],
+      "notas": [
+        "Texto digital legible; no requirió OCR.",
+        "Cifra dudosa tal como figura en el plan: el Metro 'evita más de 107 toneladas de CO₂' (probablemente se refiere a miles de toneladas; no se corrigió).",
+        "El plan reporta desempleo de 7,7 % en el primer trimestre de 2026; el plan de Movimiento Futuro (4686) cita 8,9 % para el mismo periodo con base en la ENEMDU. No se verificó cuál es correcto.",
+        "Las tablas de plan plurianual repiten las acciones de cada programa, todas con periodo 2027–2031."
+      ]
+    },
+    {
+      "codFormulario": 4686,
+      "enfoque": "Plan 'Quito Vamos al Futuro' con seis ejes y un cronograma año por año (mayo 2027–mayo 2031). Pide estudios antes de comprometer obras grandes (aerovía, pasos a desnivel, zona franca) y pone énfasis en datos, integración del transporte, ríos y arbolado.",
+      "estructura": "Diagnóstico extenso · 6 objetivos específicos · 6 ejes, cada uno con propuesta y desarrollo plurianual en 4 años · mecanismos de rendición de cuentas",
+      "tabla": {
+        "movilidad": [
+          { "t": "Integración física, operacional, tarifaria, informativa y tecnológica del Metro, Trolebús, Ecovía, corredores, alimentadores, buses convencionales y transporte parroquial (hoja de ruta en el año 1)", "v": "media", "n": "Competencia municipal, pero exige acuerdos con operadores y subsidios; el Metro ya cuesta al Municipio cerca de USD 60 M anuales (Primicias, 2026)." },
+          { "t": "Sistema Metropolitano Integrado de Gestión de la Movilidad: semáforos adaptativos, sensores, cámaras, reconocimiento de placas, análisis predictivo e IA, con pilotos antes de ampliar", "v": "alta", "n": "Gestión de tránsito municipal, implementada por fases." },
+          { "t": "Cámaras, geolocalización, botones de auxilio y comunicación dentro de los buses; renovación progresiva de la flota con piso bajo y menores emisiones", "v": "media", "n": "Depende de acuerdos y financiamiento con operadores privados, como reconoce el plan." },
+          { "t": "Inventario georreferenciado de la red vial y programa anual de mantenimiento, rehabilitación y pavimentación con prioridad a periferia y parroquias rurales", "v": "alta", "n": "Vialidad urbana es competencia exclusiva; la vialidad rural es de la Prefectura salvo acuerdos." },
+          { "t": "Plan Metropolitano de Resiliencia y Contingencia Vial para Ruta Viva, E35, Interoceánica e Intervalles (rutas alternas, retornos y desvíos)", "v": "media", "n": "La E35 es estatal y la Intervalles involucra a la Prefectura; requiere coordinación." },
+          { "t": "Estudios de pasos a desnivel, nuevas vías, extensiones del transporte masivo y aerovía o Metrocable complementaria, solo si los estudios demuestran viabilidad", "v": "media", "n": "Solo compromete estudios; la ejecución dependería de crédito. La CAF aprobó USD 80 M para ampliar el Metro (dic. 2025)." },
+          { "t": "Accesibilidad universal: aceras, rampas, superficies podotáctiles, cruces y tiempos semafóricos para adultos mayores y personas con discapacidad", "v": "alta", "n": "Espacio público y seguridad vial son competencias municipales." }
+        ],
+        "servicios": [
+          { "t": "Coordinar con EPMAPS la ampliación de agua potable, alcantarillado, drenaje y saneamiento en sectores con déficit, con un calendario común con las obras viales", "v": "alta", "n": "Competencia municipal; el plan cita 98,57 % de cobertura de agua y 93,90 % de alcantarillado." },
+          { "t": "Plantas de tratamiento e interceptores para Quito, Calderón, Monjas y parroquias rurales; fortalecer la PTAR Quitumbe", "v": "media", "n": "Obras de alto costo que dependen de crédito y licenciamiento; el plan condiciona su avance a la madurez de los estudios." }
+        ],
+        "ambiente": [
+          { "t": "Recuperación de los ríos Machángara, San Pedro, Monjas, Chiche, Pita, Guayllabamba, Guambi y Cinto (interceptores, control de descargas, restauración de riberas)", "v": "media", "n": "Competencia municipal, pero el saneamiento a esa escala requiere financiamiento multilateral." },
+          { "t": "Registro digital georreferenciado de descargas industriales, muestreos y sanciones; Red Inteligente de Monitoreo de Ríos y Quebradas con sensores", "v": "alta", "n": "Control ambiental dentro de la competencia municipal, coordinado con el MAATE cuando excede." },
+          { "t": "Plan Quito Ciudad Jardín y compensación mínima de 20 árboles por cada árbol retirado, con georreferenciación y control de supervivencia", "v": "alta", "n": "Requiere ordenanza; costo moderado." },
+          { "t": "Separación en la fuente, recolección diferenciada, compostaje de orgánicos y reciclaje con recicladores remunerados; definir la solución de disposición final después de estudios", "v": "alta", "n": "Residuos sólidos son competencia exclusiva; el plan cita unas 2.700 t diarias." },
+          { "t": "Bienestar animal: identificación, esterilización, vacunación, adopción y red de centros, brigadas y convenios", "v": "alta", "n": "La fauna urbana es competencia municipal." },
+          { "t": "Protección del Chocó Andino, páramos y bosques; prevención de incendios", "v": "alta", "n": "Hay un mandato de consulta popular y la competencia es municipal." }
+        ],
+        "urbano": [
+          { "t": "Actualización o reconfiguración de usos de suelo (PMDOT/PUGS) y control de construcciones en zonas de riesgo y del espacio público", "v": "alta", "n": "Planificación y uso del suelo son competencias exclusivas." },
+          { "t": "Mejoramiento del ornato en obras viales: arbolado, mobiliario, cableado, iluminación y recuperación de espacios residuales", "v": "alta", "n": "Espacio público municipal." },
+          { "t": "Centralidades conectadas con el transporte público y uso mixto del suelo", "v": "media", "n": "Resultado de largo plazo que depende de la inversión privada." }
+        ],
+        "seguridad": [
+          { "t": "Sistema Metropolitano Inteligente de Prevención y Convivencia: mapas territoriales, iluminación, cámaras y alarmas, botones de auxilio y reportes comunitarios", "v": "media", "n": "Apoyo a una competencia nacional; el plan aclara que no sustituye a Policía ni Fiscalía." },
+          { "t": "Reactivar los 10 consejos zonales y el Consejo Metropolitano de Seguridad; integrar los sistemas municipales con ECU 911 mediante convenios", "v": "media", "n": "Depende de convenios con entidades nacionales." },
+          { "t": "Corredores preventivos y entornos seguros en centros educativos, mercados, parques y estaciones; ruta de primera atención a víctimas", "v": "alta", "n": "Espacio público y atención social son municipales." },
+          { "t": "Preparación frente a incendios, inundaciones y movimientos en masa: alertas, simulacros, protocolos de albergue", "v": "alta", "n": "Gestión de riesgos y bomberos son competencias municipales." }
+        ],
+        "social": [
+          { "t": "Plan de Fortalecimiento y Ampliación Progresiva del Sistema Educativo Municipal (20 unidades educativas y 14 CEMEI): infraestructura, más cupos sin hacinamiento, formación docente e inclusión", "v": "media", "n": "Quito mantiene un subsistema educativo propio; la ampliación de cupos depende de docentes y presupuesto." },
+          { "t": "Red Municipal de Salud: brigadas, teleorientación, salud mental, nutrición, salud oral y prevención de enfermedades crónicas", "v": "media", "n": "Complementaria al MSP; el plan cita 116.808 atenciones en 3 Unidades Metropolitanas entre enero y julio de 2025." },
+          { "t": "Sistema Metropolitano de Cuidados con puerta única (presencial, telefónica y digital) desde las 10 zonales y Ruta Social Única", "v": "alta", "n": "Programa social municipal de coordinación." },
+          { "t": "Atención a personas en situación de calle, adultos mayores, cuidadores, víctimas de violencia; accesibilidad universal para personas con discapacidad", "v": "alta", "n": "Atención a grupos prioritarios es competencia municipal concurrente." }
+        ],
+        "economia": [
+          { "t": "Ventanilla única del emprendedor, redes de economía barrial, mercados, ferias y corredores comerciales con mentoría y vinculación financiera", "v": "alta", "n": "Fomento productivo y mercados son competencias municipales." },
+          { "t": "Prefactibilidad de un nodo logístico aeroportuario, zona franca y puerto seco, en coordinación con el Gobierno Nacional", "v": "baja", "n": "Las zonas francas y los regímenes aduaneros son nacionales; el plan reconoce que no puede declararlos de forma unilateral." },
+          { "t": "Agenda anual turística y cultural (Fiestas de Quito, arte, teatro, música, gastronomía) y circuitos que conectan el Centro Histórico con barrios y parroquias", "v": "alta", "n": "Turismo y cultura local son municipales." },
+          { "t": "Alianzas entre colegios municipales, institutos, universidades y empresas para formación técnica, habilidades digitales e idiomas", "v": "media", "n": "Depende de socios externos." }
+        ],
+        "gobierno": [
+          { "t": "Plataforma Única Quito Digital: expediente ciudadano y empresarial único, firma y pagos electrónicos; todos los trámites digitalizables en línea hasta 2029", "v": "media", "n": "Competencia propia, pero la meta es ambiciosa: el plan parte de 86 de 333 trámites automatizados (26 %) en 2024." },
+          { "t": "Sistema Metropolitano de Datos e Inteligencia Territorial, gemelo digital piloto y blockchain selectivo para trazabilidad", "v": "media", "n": "Tecnología sin costo estimado; el propio plan la condiciona a evaluación." },
+          { "t": "Diez administraciones zonales como centros integrales de servicios; cartas de servicio; mapa de riesgos de corrupción y canales de denuncia", "v": "alta", "n": "Reorganización administrativa propia." },
+          { "t": "Continuar el proceso del Estatuto Autonómico de Quito respetando el procedimiento constitucional", "v": "media", "n": "Requiere aprobación de la Corte Constitucional y de la Asamblea o consulta, fuera del control municipal." }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "Hasta 2029, todos los trámites susceptibles de digitalización gestionables en línea.",
+        "Año 1: revisar y rediseñar los 100 trámites de mayor demanda.",
+        "Compensación mínima de 20 árboles nuevos por cada árbol retirado.",
+        "Reactivar los 10 consejos zonales de seguridad y el Consejo Metropolitano de Seguridad (año 1).",
+        "No fija otras metas numéricas de resultado (cobertura, tiempos de viaje, reciclaje, etc.)."
+      ],
+      "inversion": "Sin montos. Menciona como fuentes la programación presupuestaria anual y plurianual, cooperación, banca de desarrollo y otras fuentes legales; los proyectos mayores avanzan solo con estudios y financiamiento.",
+      "primeros100": null,
+      "detalle": [
+        { "titulo": "Diagnóstico (cifras citadas por el plan)", "items": [
+          "2.679.722 habitantes (Censo 2022); 65 parroquias (32 urbanas, 33 rurales); unos 4.200 km².",
+          "Presupuesto codificado 2025: USD 1.564,19 M; ejecutado USD 1.311,83 M (83,87 %); gasto corriente 90,29 % e inversión 77,49 %. Presupuesto aprobado 2026: USD 1.041.860.028.",
+          "Transferencias del Gobierno Central pendientes de mayo a octubre de 2025: USD 175,99 M (corte al 18-nov-2025).",
+          "Presupuestos participativos 2025-2026: USD 24,52 M.",
+          "Reducción de 30 % en robos de alto impacto en enero-febrero de 2026 (dato municipal de dos meses).",
+          "250 fallecidos por siniestros de tránsito en 2023.",
+          "ENEMDU T1-2026: empleo adecuado 55,7 %, subempleo 11,5 %, desempleo 8,9 %.",
+          "Metro: 100 millones de viajes al 8-sep-2025; ~148.000 viajes diarios en 2024.",
+          "Agua potable 98,57 %; alcantarillado 93,90 %.",
+          "Residuos: ~2.700 t diarias; 26 % potencialmente reciclable.",
+          "Salud municipal: 116.808 atenciones (ene-jul 2025); 309 ferias de salud en 2025.",
+          "86 de 333 trámites automatizados (26 %) en 2024."
+        ]},
+        { "titulo": "Eje 1 · Gobierno transparente, abierto, ágil y cercano", "items": [
+          "Simplificar antes de digitalizar; Plataforma Única Quito Digital con expediente ciudadano y empresarial, firma y pagos electrónicos, tiempos máximos de respuesta.",
+          "Meta: hasta 2029 todos los trámites digitalizables en línea, sin eliminar la atención presencial.",
+          "Sistema Metropolitano de Datos e Inteligencia Territorial; datos abiertos por defecto; protección de datos y ciberseguridad.",
+          "Gemelo digital piloto; uso selectivo de blockchain para contratos, pagos, permisos y avance de obras.",
+          "Diez administraciones zonales como centros integrales de servicios.",
+          "Integridad: mapas de riesgos, conflictos de interés, canales protegidos de denuncia, control interno.",
+          "Continuar el proceso del Estatuto Autonómico; cartas de servicio por dependencia.",
+          "Año 1: inventario de trámites y sistemas, línea base, rediseño de 100 trámites, arquitectura de Quito Digital, tablero de gobierno abierto, ventanillas piloto, mapa de riesgos de corrupción.",
+          "Año 2: primeros componentes del expediente único, integración de servicios en 10 zonales, conexión de catastro, licencias, pagos, contratación y obras; alfabetización digital.",
+          "Año 3: consolidar trámites en línea, interoperabilidad, actualización catastral, casos de uso del gemelo digital, pilotos de trazabilidad, Centro de Innovación de Quito.",
+          "Año 4: evaluación integral, publicación de protocolos y estándares, informe de cierre y transición."
+        ]},
+        { "titulo": "Eje 2 · Quito seguro y en convivencia", "items": [
+          "Prevención situacional, iluminación, riesgos, control administrativo, seguridad vial, espacio público y atención a víctimas, sin asumir competencias penales.",
+          "Sistema Metropolitano Inteligente de Prevención y Convivencia (mapas, iluminación, cámaras, alarmas, botones de auxilio, reportes comunitarios).",
+          "Redes barriales y consejos zonales con protocolos; atención accesible y confidencial a víctimas.",
+          "Año 1: línea base territorial; reactivar 10 consejos zonales y el Consejo Metropolitano de Seguridad; protocolos con Policía, ECU 911, Fiscalía, Bomberos; reglas de videovigilancia; ruta de atención a víctimas.",
+          "Año 2: corredores preventivos y entornos seguros; integración con ECU 911; formación del Cuerpo de Agentes de Control; ordenamiento de reparto y comercio.",
+          "Año 3: extender rutas a las 10 zonales; redes comunitarias, mediación, programas para niños y jóvenes; mapas dinámicos de riesgo; simulacros.",
+          "Año 4: evaluación por zona y agenda de continuidad."
+        ]},
+        { "titulo": "Eje 3 · Economía, turismo, cultura, educación e innovación", "items": [
+          "Ventanilla única del emprendedor; redes de economía barrial, mercados, ferias y corredores comerciales; mentoría y vinculación con banca pública, cooperativa y privada.",
+          "Prioridad a jóvenes, mujeres, personas con discapacidad y territorios con menos empleo; formalización gradual.",
+          "Turismo cultural, natural, de reuniones y mayor permanencia; agenda anual con Fiestas de Quito, arte, teatro, música y gastronomía.",
+          "Modernizar la educación municipal y vincular formación técnica, software, IA y creatividad con el sector productivo.",
+          "Suelo productivo y parque industrial municipal; nodo logístico ligado al aeropuerto; zona franca y puerto seco en coordinación con el Gobierno Nacional y EPMSA.",
+          "Año 1: línea base, revisión de ordenanzas, mesas productivas, agenda turística, prefactibilidad logística.",
+          "Año 2: ventanilla única operativa, mentoría, mejoras de mercados, alianzas educativas, resultados de prefactibilidad.",
+          "Año 3: ampliación de la ventanilla, circuitos turísticos, estructuración jurídica y financiera del proyecto logístico si es viable.",
+          "Año 4: evaluación y cartera de proyectos documentada."
+        ]},
+        { "titulo": "Eje 4 · Movilidad, vialidad e infraestructura", "items": [
+          "Integración Metro, Trolebús, Ecovía, corredores, alimentadores, buses convencionales, transporte parroquial, caminata, bicicleta y aerovía o Metrocable complementaria.",
+          "Sistema Metropolitano Integrado de Gestión de la Movilidad: cámaras, sensores, GPS de unidades, semáforos adaptativos, paneles, análisis predictivo, IA; prioridad semafórica a transporte público y emergencias.",
+          "Reconocimiento de placas; reconocimiento facial solo en casos permitidos por la ley y con evaluación de impacto.",
+          "Cámaras, geolocalización, botones de auxilio y comunicación dentro de los buses, conectados a ECU 911 y Policía.",
+          "Modernización y renovación progresiva de la flota (piso bajo, accesibilidad, menores emisiones).",
+          "Inventario georreferenciado de la red vial; niveles de servicio y programación anual pública.",
+          "Ornato urbano integrado a las obras viales.",
+          "Programa de resiliencia y contingencia para Ruta Viva, E35, Interoceánica e Intervalles.",
+          "Estudios de nuevas vías, puentes, pasos a desnivel y extensiones del transporte masivo solo con análisis de alternativas.",
+          "Coordinación con EPMAPS para agua, alcantarillado, drenaje y saneamiento en sectores con déficit.",
+          "Vincular movilidad y uso del suelo; reconfiguración de usos vía PMDOT/PUGS; control de ocupación.",
+          "Movilidad centrada en las personas: aceras, cruces, entornos escolares, señales auditivas, podotáctiles.",
+          "Año 1: inventario vial y de movilidad; diagnóstico de los cuatro corredores y Plan de Resiliencia y Contingencia Vial; estado del transporte público; hoja de ruta de integración; arquitectura del sistema inteligente; política de datos; estándares de seguridad en buses; mapa de accesibilidad; brecha de agua y saneamiento con EPMAPS.",
+          "Año 2: primera cartera anual de mantenimiento; pilotos de semáforos adaptativos; avances de integración; primera fase de renovación de flota; intervenciones de accesibilidad; estudios de alternativas de los corredores; prefactibilidad de conexiones mayores y aerovía.",
+          "Año 3: ampliar conservación vial y semáforos; consolidar el centro de control; ampliar cámaras en unidades; proyectos maduros a diseño definitivo o ejecución por fases.",
+          "Año 4: evaluación integral, auditorías, cartera con estudios completos y acuerdo de continuidad."
+        ]},
+        { "titulo": "Eje 5 · Ambiente, residuos, áreas verdes y bienestar animal", "items": [
+          "Protección de páramos, bosques, fuentes de agua, quebradas y Chocó Andino.",
+          "Política de arbolado: conservar, luego trasplantar y, como último recurso, extraer con compensación mínima de 20 árboles por árbol retirado; protección reforzada de árboles patrimoniales.",
+          "Plan Metropolitano Quito Ciudad Jardín.",
+          "Gestión de residuos por flujos: compostaje de orgánicos, reciclaje con recicladores de base remunerados, disposición segura; solución de largo plazo tras estudios.",
+          "Recuperación de los ríos Machángara, San Pedro, Monjas, Chiche, Pita, Guayllabamba, Guambi y Cinto.",
+          "Fortalecer PTAR Quitumbe y proyectos de plantas e interceptores para Quito, Calderón, Monjas y parroquias rurales.",
+          "Control de descargas industriales con registro digital georreferenciado, muestreos independientes, incentivos y sanciones.",
+          "Red Inteligente de Monitoreo de Ríos y Quebradas y tablero ambiental; imágenes satelitales y drones; inventario georreferenciado del arbolado.",
+          "Bienestar animal: identificación, esterilización, vacunación, adopción, denuncias; red de centros, brigadas, unidades móviles y convenios.",
+          "Campañas permanentes de educación ambiental; adopción de parques, árboles, quebradas y tramos de ríos.",
+          "Año 1: líneas base de residuos, arbolado, ríos e incendios; separación en mercados y dependencias municipales; línea base de calidad de los 8 ríos; registro de descargas; inventario del arbolado.",
+          "Año 2: ampliar recolección diferenciada; interceptores y optimización de plantas; puntos inteligentes de monitoreo; primera fase de Ciudad Jardín.",
+          "Año 3: extender rutas diferenciadas; obras de saneamiento listas a contratación; corredores verdes.",
+          "Año 4: balance ambiental, cartera de saneamiento con estudios y programa financiado de mantenimiento del arbolado."
+        ]},
+        { "titulo": "Eje 6 · Quito social, saludable, inclusivo y solidario", "items": [
+          "Red territorial de salud preventiva, cuidados, educación municipal, protección de derechos, deporte y recreación, complementaria al MSP, IESS y MIES.",
+          "Sistema Educativo Municipal (20 unidades educativas y 14 CEMEI): infraestructura, seguridad, conectividad, bibliotecas, laboratorios, ampliación progresiva de cupos sin hacinamiento, formación docente, educación inclusiva, asignación transparente de cupos.",
+          "Red Municipal de Salud: brigadas, teleorientación, salud mental, nutrición, salud oral, enfermedades crónicas, consumo problemático.",
+          "Sistema Metropolitano de Cuidados con puerta única desde las 10 zonales.",
+          "Protección de niñez y adolescencia, adultos mayores, cuidadores, mujeres y víctimas; respuestas voluntarias para personas en situación de calle.",
+          "Deporte, cultura y recreación; rehabilitación de equipamientos.",
+          "Accesibilidad universal y participación de personas con discapacidad.",
+          "Año 1: línea base de servicios; Ruta Social Única; diagnóstico de las 20 unidades y 14 CEMEI; mapa de oferta y demanda; Plan de Fortalecimiento y Ampliación 2027-2031; intervenciones emergentes.",
+          "Año 2: ruta integrada en las 10 zonales; centros diurnos, atención domiciliaria; primera fase del plan educativo y nuevos cupos.",
+          "Año 3: ampliar brigadas, cuidados, escuelas deportivas inclusivas; nuevas aulas; robótica, ciencia y programación.",
+          "Año 4: evaluación, programa financiado de mantenimiento de las unidades educativas y agenda de continuidad."
+        ]},
+        { "titulo": "Rendición de cuentas", "items": [
+          "Rendición anual conforme al CPCCS; informe de cierre del periodo; publicación permanente en el portal institucional.",
+          "Contenido según art. 93 LOPCCS: cumplimiento del plan, presupuesto, presupuesto participativo, contratación y compromisos.",
+          "Proceso público y deliberativo; información para veedurías y observatorios."
+        ]}
+      ],
+      "notas": [
+        "Texto de OCR de buena calidad, con errores menores de reconocimiento (por ejemplo, 'abril de 2023' en lugar de 2028 en los encabezados de año); se interpretó según el contexto.",
+        "Las cifras de presupuesto 2026 del plan (USD 1.041.860.028) coinciden con lo publicado por El Comercio y Quito Informa (aprobado el 9-dic-2025).",
+        "El plan reporta desempleo de 8,9 % en el T1-2026 (ENEMDU), mientras que el plan de Avanza (6252) cita 7,7 % para el mismo periodo. No se verificó.",
+        "No trae un apartado de primeros 100 días; usa un cronograma por año de gestión."
+      ]
+    },
+    {
+      "codFormulario": 3784,
+      "enfoque": "Gobierno 'basado en evidencia' con nueve ejes y 41 proyectos para un Quito policéntrico ('Ciudad de 60 Minutos'). Prioriza una autoridad única de movilidad, la integración tarifaria con el Metro y obras emblemáticas como el corredor Simón Bolívar y los cables aéreos.",
+      "estructura": "9 ejes · 41 proyectos (mitad de prioridad alta y mitad media) · 7 objetivos con metas referenciales al 2031 · programa de primeros 100 días",
+      "tabla": {
+        "movilidad": [
+          { "t": "Autoridad Metropolitana Única de Movilidad con planificación y control integrados (primeros 100 días)", "v": "alta", "n": "Reorganización administrativa dentro de la competencia de tránsito y transporte." },
+          { "t": "Rediseño de rutas e integración física y tarifaria con el Metro; recaudo centralizado y pago a operadores por kilómetro y desempeño", "v": "media", "n": "Competencia municipal, pero cambia el modelo de negocio de los operadores y puede requerir más subsidio (el Metro ya recibe cerca de USD 60 M anuales, Primicias 2026)." },
+          { "t": "Corredores exclusivos con prioridad al bus, fiscalización inteligente de la flota e integración de los valles con intercambiadores", "v": "media", "n": "Obras e inversión no valoradas; el sector movilidad tiene USD 323 M en 2026 (El Comercio)." },
+          { "t": "Corredor Simón Bolívar repotenciado y Puente de Guápulo, con financiamiento privado", "v": "media", "n": "Depende de estructurar una APP; el plan no da monto ni estudios." },
+          { "t": "Red Metropolitana de Cables Aéreos (teleféricos) para laderas y valles", "v": "media", "n": "Alto costo de capital y operación sin valoración en el plan; requiere crédito o APP." },
+          { "t": "Tren de Cercanías Quitumbe–Machachi", "v": "baja", "n": "Machachi está en el cantón Mejía y el ferrocarril requiere a la autoridad nacional; el plan no indica financiamiento." },
+          { "t": "Plan de Mantenimiento y Rehabilitación Vial de 48 meses: 400 km de vialidad intervenidos y 100 km de aceras regeneradas (meta al 2031)", "v": "media", "n": "Competencia propia; meta cuantificada pero sin costo." },
+          { "t": "Puente Guayasamín, Ruta Viva y obras viales estratégicas 'destrabadas'", "v": "media", "n": "Obras con antecedentes de conflictos contractuales; dependen de financiamiento." },
+          { "t": "Movilidad segura con enfoque de género (paradas y estaciones seguras, protocolos contra el acoso) y Red de Amigabilidad y Veredas Accesibles", "v": "alta", "n": "Espacio público y transporte son municipales." }
+        ],
+        "servicios": [
+          { "t": "Seguridad Hídrica y Saneamiento: reducir en 15 % las pérdidas de agua en 4 años (EPMAPS) y ampliar el saneamiento", "v": "media", "n": "Competencia municipal; meta ambiciosa que requiere inversión en redes." },
+          { "t": "Modernización de la Gestión Integral de Residuos: complejo ambiental y aprovechamiento mediante APP con el BID u otras agencias", "v": "media", "n": "Competencia exclusiva; depende de cooperación o de una APP no estructurada." }
+        ],
+        "ambiente": [
+          { "t": "Recuperación de quebradas, ríos y laderas del Pichincha con menor riesgo", "v": "alta", "n": "Competencia municipal sobre riberas, suelo y riesgos." }
+        ],
+        "urbano": [
+          { "t": "Quito Ciudad de 60 Minutos y red policéntrica", "v": "media", "n": "Planificación de largo plazo vía PMDOT/PUGS; resultados más allá del periodo." },
+          { "t": "Reforma normativa urbanística y licencias digitales: reducir en al menos 50 % los tiempos de emisión de permisos", "v": "alta", "n": "Competencia exclusiva de uso de suelo; requiere ordenanza." },
+          { "t": "Desarrollo Orientado al Transporte (TOD) alrededor de las estaciones del Metro y Catastro Inteligente Multifinalitario", "v": "media", "n": "Depende de la inversión privada; el catastro es competencia propia." },
+          { "t": "Renovación del Centro Histórico y vivienda patrimonial; Programa Parques Metropolitanos 2030; Caminería Productiva y Entornos Seguros", "v": "media", "n": "Competencias de patrimonio y espacio público; sin montos." }
+        ],
+        "seguridad": [
+          { "t": "Escudo Metropolitano de Videovigilancia e Inteligencia Urbana integrado al ECU 911", "v": "media", "n": "La seguridad es nacional; depende de convenio con el ECU 911. El plan cita una tasa de seguridad de unos USD 11 M anuales." },
+          { "t": "Recuperación del orden en el espacio público (puntos críticos) y modernización de la Agencia Metropolitana de Control", "v": "alta", "n": "El control del espacio público y la AMC son municipales." },
+          { "t": "Escuelas Seguras y Prevención Temprana (oferta alternativa para niñez y adolescencia)", "v": "media", "n": "Coordinación con el Ministerio de Educación." },
+          { "t": "Comunidades seguras y presupuestos participativos CPTED cofinanciados con comités barriales", "v": "alta", "n": "Prevención situacional con presupuesto participativo municipal." }
+        ],
+        "social": [
+          { "t": "Plan Metropolitano de Envejecimiento Activo y Barrios que Cuidan; certificación de barrios amigables (primeras intervenciones en 100 días)", "v": "alta", "n": "Programa social municipal; el plan cita 262.030 personas de 65 años y más." },
+          { "t": "Ciudad Amigable: espacio público accesible y CEAM como centros de innovación social", "v": "alta", "n": "Los CEAM ya son municipales." },
+          { "t": "Red de Hospitales Metropolitanos y Centros de Salud Rurales en valles y parroquias", "v": "media", "n": "Construir infraestructura es municipal, pero operar hospitales tiene un costo alto y la rectoría es del MSP." },
+          { "t": "Colegios Metropolitanos en zonas de crecimiento", "v": "media", "n": "Quito tiene un subsistema educativo propio; ampliarlo implica costo docente permanente." }
+        ],
+        "economia": [
+          { "t": "ConQuito 2030: agencia de empleo, innovación y desarrollo para vincular a 'decenas de miles' de personas a empleo y emprendimiento formal", "v": "media", "n": "La meta no está cuantificada con precisión y el empleo formal depende de la economía nacional." },
+          { "t": "Distritos de Innovación y Corredor del Conocimiento; incubadoras, coworking y escuela de oficios en predios recuperados", "v": "media", "n": "Fomento productivo complementario." },
+          { "t": "Red de Centros Logísticos y acreditación de ZEDE", "v": "baja", "n": "Las ZEDE se aprueban a nivel nacional; el Municipio solo promueve." },
+          { "t": "Fortalecimiento de la Economía Popular y Solidaria e integración a cadenas de valor", "v": "media", "n": "Competencia concurrente con el IEPS nacional." }
+        ],
+        "gobierno": [
+          { "t": "Municipio Digital: ventanilla única y trámite cero papel; digitalizar de extremo a extremo la mayoría de los trámites (arranque en 100 días)", "v": "alta", "n": "Modernización administrativa propia." },
+          { "t": "Centro Metropolitano de Inteligencia y Gestión (gobierno basado en datos)", "v": "alta", "n": "Instrumento interno." },
+          { "t": "Presupuesto por resultados y transparencia; gestión financiera sostenible (tasas y contribución especial de mejoras)", "v": "media", "n": "Ajustes tributarios requieren ordenanza; contexto de posible recorte de USD 459 M por la reforma COOTAD (El Comercio, 2026)." },
+          { "t": "Informes semestrales al Concejo, plataforma pública de obras y tablero de indicadores en el Observatorio Metropolitano", "v": "alta", "n": "Mecanismos de rendición de cuentas sin costo relevante." }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "Reducir los homicidios intencionales del DMQ y mantener a Quito entre las capitales más seguras de la región (sin cifra).",
+        "Integrar la videovigilancia municipal al ECU 911.",
+        "Regenerar 100 km de aceras (caminería productiva) e intervenir 400 km de vialidad.",
+        "Reducir en al menos 50 % los tiempos de emisión de permisos municipales.",
+        "Vincular a 'decenas de miles' de personas a empleo y emprendimiento formal.",
+        "Digitalizar de extremo a extremo la mayoría de los trámites municipales.",
+        "Reducir en 15 % las pérdidas de agua en 4 años (EPMAPS).",
+        "Metas descritas como 'referenciales y de dirección'; los valores definitivos se fijarían en la planificación operativa."
+      ],
+      "inversion": "Sin montos: la valoración económica se reserva para la fase operativa. Fuentes mencionadas: ingresos propios, transferencias, contribución especial de mejoras y captura de plusvalías, autogestión de empresas públicas, banca multilateral y APP (complejo ambiental con BID; corredor Simón Bolívar con financiamiento privado).",
+      "primeros100": [
+        "Constituir la Autoridad Metropolitana Única de Movilidad.",
+        "Iniciar la recuperación del orden en el espacio público.",
+        "Arrancar el Municipio Digital con la ventanilla única.",
+        "Primeras intervenciones del programa de envejecimiento activo."
+      ],
+      "detalle": [
+        { "titulo": "Diagnóstico (cifras citadas por el plan)", "items": [
+          "2.679.722 habitantes; parroquias rurales +46,8 % entre 2010 y 2022; 262.030 personas de 65 años y más (9,8 %).",
+          "229 homicidios intencionales del 1-ene al 15-dic de 2024 (−14 %); aumentos en La Delicia (+35 %), Eloy Alfaro (+20 %) y Los Chillos (+125 %).",
+          "37 % de víctimas de delito en 2024; 60 % de delitos con armas de fuego; el Municipio invirtió unos USD 12 M en seguridad entre 2023 y 2025 y recauda unos USD 11 M al año por tasa de seguridad.",
+          "Metro: 148.700 viajes diarios en 2024; récord de 226.055 usuarios; Trolebús cayó de 166.645 a 106.115 pasajeros diarios y Ecovía de 151.019 a 100.767 (2024-2025).",
+          "Parque automotor +27 % entre 2019 y 2025; 70 % del espacio vial para el auto, que moviliza al 27 %; cobertura de transporte público de 65 % urbana y 50 % en valles.",
+          "Unos 420 barrios en situación irregular.",
+          "Informalidad laboral nacional ≈ 53,5 %.",
+          "Residuos: ~2.200 t diarias; cobertura de EMASEO 98,5 %; unas 960 t anuales de reciclables recuperadas; costo de unos USD 8,1 M mensuales.",
+          "Alcantarillado 94,55 % (98,67 % ciudad; 86,88 % parroquias)."
+        ]},
+        { "titulo": "Eje 1 · Seguridad Ciudadana y Convivencia (5 proyectos)", "items": [
+          "Escudo Metropolitano de Videovigilancia e Inteligencia Urbana (integrado al ECU 911).",
+          "Recuperación del Orden en el Espacio Público.",
+          "Modernización de la Agencia Metropolitana de Control (AMC).",
+          "Escuelas Seguras y Prevención Temprana.",
+          "Comunidades Seguras y Presupuestos Participativos CPTED."
+        ]},
+        { "titulo": "Eje 2 · Movilidad y Transporte (13 proyectos)", "items": [
+          "Autoridad Metropolitana Única de Movilidad.",
+          "Rediseño de Rutas e Integración Física y Tarifaria con el Metro.",
+          "Recaudo Centralizado y Pago por Kilómetro y Desempeño.",
+          "Fiscalización Inteligente del Transporte.",
+          "Corredores Exclusivos y Prioridad al Bus.",
+          "Integración de los Valles (transporte masivo e intercambiadores).",
+          "Red de Amigabilidad y Veredas Accesibles.",
+          "Movilidad Segura con Enfoque de Género.",
+          "Corredor Simón Bolívar y Puente de Guápulo (financiamiento privado).",
+          "Plan de Mantenimiento y Rehabilitación Vial 48 meses.",
+          "Red Metropolitana de Cables Aéreos (teleféricos).",
+          "Tren de Cercanías Quitumbe–Machachi (en coordinación con cantones vecinos y autoridad nacional).",
+          "Puente Guayasamín, Ruta Viva y obras viales estratégicas."
+        ]},
+        { "titulo": "Eje 3 · Agua, Saneamiento y Residuos (2 proyectos)", "items": [
+          "Modernización de la Gestión Integral de Residuos (complejo ambiental, APP con BID u otras agencias).",
+          "Seguridad Hídrica y Saneamiento."
+        ]},
+        { "titulo": "Eje 4 · Hábitat, Vivienda y Suelo (4 proyectos)", "items": [
+          "Quito Ciudad de 60 Minutos y Red Policéntrica.",
+          "Reforma Normativa Urbanística y Licencias Digitales.",
+          "Desarrollo Orientado al Transporte (TOD) alrededor del Metro.",
+          "Catastro Inteligente Multifinalitario."
+        ]},
+        { "titulo": "Eje 5 · Desarrollo Económico y Empleo (5 proyectos)", "items": [
+          "ConQuito 2030: Agencia de Empleo, Innovación y Desarrollo.",
+          "Distritos de Innovación y Corredor del Conocimiento.",
+          "Fortalecimiento de la Economía Popular y Solidaria.",
+          "Red de Centros Logísticos y ZEDE.",
+          "Incubadoras, Co-working y Escuela de Oficios."
+        ]},
+        { "titulo": "Eje 6 · Espacio Público, Cultura y Patrimonio (3 proyectos)", "items": [
+          "Renovación del Centro Histórico y Vivienda Patrimonial.",
+          "Programa Parques Metropolitanos 2030.",
+          "Caminería Productiva y Entornos Seguros."
+        ]},
+        { "titulo": "Eje 7 · Salud, Educación y Protección Social (4 proyectos)", "items": [
+          "Plan Metropolitano de Envejecimiento Activo y Barrios que Cuidan.",
+          "Ciudad Amigable: Espacio Público Accesible y CEAM Innovadores.",
+          "Red de Hospitales Metropolitanos y Centros de Salud Rurales.",
+          "Colegios Metropolitanos."
+        ]},
+        { "titulo": "Eje 8 · Gobernanza, Transparencia y Finanzas Municipales (4 proyectos)", "items": [
+          "Municipio Digital: Ventanilla Única y Trámite Cero Papel.",
+          "Centro Metropolitano de Inteligencia y Gestión.",
+          "Presupuesto por Resultados y Transparencia.",
+          "Gestión Financiera Sostenible."
+        ]},
+        { "titulo": "Eje 9 · Ambiente, Riesgos y Resiliencia Climática (1 proyecto)", "items": [
+          "Recuperación de Quebradas, Ríos y Laderas del Pichincha."
+        ]},
+        { "titulo": "Alineación y rendición de cuentas", "items": [
+          "Alineación con el Plan Nacional de Desarrollo, PMDOT, PUGS, Agendas para la Igualdad y ODS (concentración en ODS 11 y 16).",
+          "Informe anual de rendición de cuentas; plataforma pública de seguimiento de obras; tablero metropolitano de indicadores; presupuestos participativos y veedurías; informes semestrales al Concejo Metropolitano; publicación del origen y destino de recursos con auditorías."
+        ]}
+      ],
+      "notas": [
+        "Texto digital legible; no requirió OCR.",
+        "El cuadro de arquitectura dice resumir 'la inversión referencial plurianual por eje', pero solo muestra número de proyectos y horizonte; no hay montos en el documento.",
+        "La suma de proyectos por eje (5+13+2+4+5+3+4+4+1) da 41, igual al total declarado.",
+        "Cita 229 homicidios en 2024 (corte 1-ene a 15-dic), mientras que el plan de Avanza (6252) cita 245 para 2024; la diferencia puede deberse al corte de fechas.",
+        "Indica 'nueve administraciones zonales'; otros planes del mismo cantón mencionan diez."
+      ]
+    },
+    {
+      "codFormulario": 259,
+      "enfoque": "Modelo 'Ciudad Quito Imparable' con tres dimensiones: Nuestra Gente (cultura ciudadana), Nuestros Barrios (territorio) y Nuestras Entidades Municipales (reforma institucional). Propone continuidad responsable y una cartera amplia de programas enunciados por nombre, sin montos ni metas.",
+      "estructura": "Diagnóstico territorial por parroquia y FODA · 3 dimensiones · 3 objetivos estratégicos y 14 objetivos específicos · 11 programas estratégicos metropolitanos más 2 bloques institucionales (con cerca de 400 proyectos enunciados) · plan plurianual corto (2027–2028), mediano (2029–2030) y largo plazo (2031)",
+      "tabla": {
+        "movilidad": [
+          { "t": "'Municipalización del transporte público': corredores integrados, integración física, operativa, tecnológica y tarifaria Metro–Trolebús–Ecovía–buses, reorganización de rutas y modernización de la flota", "v": "media", "n": "Competencia municipal, pero municipalizar o integrar el sistema implica renegociar con operadores privados y más subsidio; el Metro ya recibe cerca de USD 60 M anuales (Primicias, 2026). El plan no explica el alcance de la 'municipalización'." },
+          { "t": "Seguridad vial: Proyecto Integral de Seguridad Vial, Estrategia Visión Cero Quito, cruces seguros, rutas escolares, zonas calmadas y observatorio", "v": "alta", "n": "Seguridad vial es competencia municipal." },
+          { "t": "Quito 15 Minutos, Calles para la Vida, red de aceras continuas y accesibles, recuperación de escalinatas", "v": "alta", "n": "Espacio público peatonal es municipal; escala no definida." },
+          { "t": "Plan Metropolitano de Rehabilitación y Mantenimiento Vial; mejoramiento de vías rurales y conexiones interparroquiales", "v": "media", "n": "La vialidad urbana es municipal; la rural es competencia de la Prefectura." },
+          { "t": "Centro Metropolitano de Gestión de la Movilidad, semaforización adaptativa y zonas reguladas de estacionamiento", "v": "alta", "n": "Gestión de tránsito municipal." },
+          { "t": "Red conectada de ciclovías urbanas y rurales, bicicleta pública y regulación de micromovilidad", "v": "alta", "n": "Competencia municipal de bajo costo relativo." },
+          { "t": "Sistema Metropolitano de Logística Urbana (carga y descarga, centros logísticos)", "v": "media", "n": "Regulación municipal; los centros logísticos dependen de la inversión privada." }
+        ],
+        "servicios": [
+          { "t": "Programa Especial de Recuperación del Río Machángara y sus afluentes; saneamiento progresivo de ríos urbanos; drenaje sostenible", "v": "media", "n": "Competencia municipal (EPMAPS) con alto costo; el plan no da montos ni fuentes." },
+          { "t": "Protección de fuentes hídricas, zonas de recarga y gestión de cuencas", "v": "alta", "n": "Competencia ambiental y de agua del Municipio." }
+        ],
+        "ambiente": [
+          { "t": "Quito Ciudad Esponja, Red de Infraestructura Verde y Azul, corredores ecológicos, bosques urbanos y soluciones basadas en la naturaleza", "v": "media", "n": "Competencia propia; concepto amplio sin metas ni escala." },
+          { "t": "Quito Circular: Recicladores Primero, separación en la fuente, recolección diferenciada, centros de recuperación y plantas de compostaje", "v": "alta", "n": "Residuos sólidos son competencia exclusiva." },
+          { "t": "Estrategia Metropolitana de Adaptación y Mitigación Climática, planes climáticos zonales y reducción de islas de calor", "v": "alta", "n": "Instrumentos de planificación municipal." },
+          { "t": "Sistema Metropolitano de Bienestar Animal (esterilización, vacunación, adopción)", "v": "alta", "n": "Fauna urbana es competencia municipal." }
+        ],
+        "urbano": [
+          { "t": "Actualización participativa del PMDOT y del PUGS, catastro multipropósito, Banco Metropolitano de Suelo y regularización de barrios", "v": "alta", "n": "Planificación, uso del suelo y catastro son competencias exclusivas." },
+          { "t": "Barrio Imparable y Mejoramiento Integral de Barrios en polígonos prioritarios; urbanismo táctico; parques de bolsillo y equipamientos de proximidad", "v": "media", "n": "Competencias propias; cobertura e inversión no definidas." },
+          { "t": "De Vuelta a la Ciudad Construida: rehabilitación del Centro Histórico y La Mariscal, vivienda social en áreas servidas, reuso de edificios vacíos", "v": "media", "n": "Depende de incentivos y de la inversión privada en vivienda." }
+        ],
+        "seguridad": [
+          { "t": "Centro Metropolitano Integrado de Seguridad Ciudadana, Riesgos y Emergencias, centros zonales y Centro de Inteligencia Territorial para la Prevención", "v": "media", "n": "La seguridad ciudadana es nacional; el Municipio coordina. No hay costos." },
+          { "t": "Sistema Integrado de Videovigilancia con analítica, Quito Iluminado y Seguro, botones y canales comunitarios de alerta", "v": "media", "n": "Apoyo municipal que requiere integración con ECU 911 y Policía." },
+          { "t": "Rutas Seguras para Mujeres, entornos educativos seguros y corredores seguros de transporte público", "v": "alta", "n": "Intervenciones de espacio público y transporte municipales." },
+          { "t": "Quito Resiliente: alertas tempranas, planes de reducción de riesgos, fortalecimiento del Cuerpo de Bomberos, albergues y simulacros", "v": "alta", "n": "Gestión de riesgos e incendios es competencia municipal." },
+          { "t": "Comités barriales de seguridad, escuelas de primer respondiente y redes comunitarias de autoprotección", "v": "alta", "n": "Organización comunitaria de bajo costo." }
+        ],
+        "social": [
+          { "t": "Quito Incluye, Quito Accesible y Ciudad sin Barreras; programas para mujeres, juventudes, adultos mayores y personas con discapacidad", "v": "alta", "n": "Atención a grupos prioritarios es competencia municipal concurrente; los programas sociales están fuera del cálculo de inversión mínima de la reforma COOTAD." },
+          { "t": "Red Metropolitana de Cuidados, salud mental comunitaria, brigadas barriales y puntos comunitarios de salud preventiva", "v": "media", "n": "La gestión de salud es del MSP; el Municipio complementa." },
+          { "t": "Deporte para Todos, escuelas deportivas barriales, Juegos Barriales; Cultura Viva Barrial y agenda cultural descentralizada", "v": "alta", "n": "Deporte y cultura barrial son municipales." },
+          { "t": "Programas de cultura ciudadana: Escuela de Liderazgo Ciudadano, voluntariado, mediación comunitaria, Quito Íntegro, Quito Celebra sin Alcohol y Drogas", "v": "alta", "n": "Programas formativos de bajo costo; sin metas de cobertura." }
+        ],
+        "economia": [
+          { "t": "Empleo Joven Imparable, Primer Empleo, Bolsa Metropolitana de Empleo y Centros Territoriales de Formación, Empleo y Emprendimiento", "v": "media", "n": "El empleo formal es política nacional; el Municipio intermedia y capacita." },
+          { "t": "Distrito Metropolitano de Innovación y Emprendimiento, incubación, capital semilla y fondos concursables", "v": "media", "n": "Fomento productivo sin montos." },
+          { "t": "Sistema Metropolitano de Mercados Competitivos, abastecimiento y seguridad alimentaria; formalización de comerciantes autónomos", "v": "alta", "n": "Mercados y abastecimiento son competencia municipal." },
+          { "t": "Plataforma Metropolitana Aeroportuaria y Logística, desarrollo y consolidación de la ZEDE Quito y Distrito Económico Aeroportuario", "v": "media", "n": "Las ZEDE se aprueban a nivel nacional; la existente depende del régimen nacional." },
+          { "t": "Quito Destino Imparable, Capital Gastronómica de los Andes, turismo rural y del Chocó Andino, grandes eventos y Marca Quito", "v": "alta", "n": "Turismo local es competencia municipal (Quito Turismo)." },
+          { "t": "Quito Invierte, portafolio de proyectos de inversión y APP responsables; Quito Rural Produce", "v": "media", "n": "Depende de la inversión privada y de la cooperación." }
+        ],
+        "gobierno": [
+          { "t": "Quito Simple y Cero Trámites Innecesarios: inventario y catálogo único de trámites, información entregada una sola vez, plazos máximos y ventanilla única", "v": "alta", "n": "Simplificación administrativa propia." },
+          { "t": "Expediente electrónico, identidad digital metropolitana, interoperabilidad de datos, Municipio Digital 360 y aplicación Quito Imparable con asistente virtual", "v": "media", "n": "Competencia propia, pero es un paquete tecnológico amplio sin costo estimado." },
+          { "t": "Reorganización institucional ('Municipio que Funciona'): evaluación de secretarías, empresas y agencias; PMO; gestión del talento por mérito; zonales fortalecidas", "v": "media", "n": "Competencia propia, con riesgo de conflictos laborales y tiempos largos." },
+          { "t": "Política de bienes municipales: inventario único georreferenciado, reducción de arriendos y reuso de inmuebles subutilizados", "v": "alta", "n": "Gestión patrimonial interna." },
+          { "t": "Gobierno abierto: observatorio ciudadano, portal de datos abiertos, presupuesto participativo zonal y rural, veedurías y tablero de compromisos", "v": "alta", "n": "Mecanismos de transparencia de bajo costo." }
+        ],
+        "otros": [
+          { "t": "Alianzas estratégicas con universidades, cooperación internacional y comunidades; Laboratorio Metropolitano de Innovación Territorial; Programa Orgullo de Servir", "v": "alta", "n": "Gestión de convenios y cultura organizacional sin costo relevante." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas. Solo define horizontes: corto plazo (2027–2028), mediano plazo (2029–2030) y largo plazo (2031)."],
+      "inversion": "Sin montos. Menciona de forma genérica fondos nacionales e internacionales, cooperación, financiamiento climático y APP.",
+      "primeros100": null,
+      "detalle": [
+        { "titulo": "Diagnóstico", "items": [
+          "Organización territorial: 32 parroquias urbanas (1.773.797 hab., 66,19 %) y 33 rurales (905.925 hab., 33,81 %); 2.679.722 habitantes (Censo 2022).",
+          "Fichas por parroquia urbana y rural con población, vocación y problemas prioritarios, agrupadas por administración zonal; problemas por dimensiones, problemas estructurales y desafíos estratégicos.",
+          "Proyección INEC: 2,94 millones en 2030 y 3,02 millones en 2035.",
+          "Seis desafíos: tranquilidad, tiempo de viaje, cuidado de barrios, patrimonio natural, oportunidades y confianza en el gasto público.",
+          "FODA completo y conclusión estratégica; principio de 'continuidad responsable' de programas que funcionan."
+        ]},
+        { "titulo": "Visión y modelo", "items": [
+          "Visión 2031: 'Quito Luz de América', ciudad orgullo, humana, compacta, sostenible e innovadora.",
+          "Modelo Ciudad Quito Imparable en tres dimensiones: Nuestra Gente, Nuestros Barrios, Nuestras Entidades Municipales.",
+          "Cooperación con Gobierno Nacional, Asamblea, Prefectura, GAD parroquiales, municipios vecinos, academia y sector privado.",
+          "Nuestra Gente: 6 valores (Colaborativos y Solidarios; Íntegros y Respetuosos; Luchadores y Emprendedores; Innovadores y Creativos; Confiables y Unidos; Humanos e Inclusivos), cada uno con propósito, estrategia y objetivo específico.",
+          "Nuestros Barrios: 5 dimensiones (Naturaleza y Vida; Lo que se Ama se Cuida; Conectados y en Movimiento; Mi Lugar Favorito; Oportunidades para Crecer Juntos).",
+          "Nuestras Entidades: 3 dimensiones (Hacer lo Correcto de Manera Honesta; Guía, Inspira, Enseña e Impulsa a Ser Buenos Ciudadanos; Digital, Inteligente y Eficiente).",
+          "Alineación con Constitución, COOTAD, COPFP, COA, LOPC, LOTAIP, Ley de Datos Personales, ODS, Plan Nacional de Desarrollo y PMDOT.",
+          "Arquitectura programática territorial: Red Metropolitana de Barrios; cada administración zonal tendría una cartera territorial de proyectos (no incluida en el documento)."
+        ]},
+        { "titulo": "Nuestra Gente · 1. Colaborativos y Solidarios", "items": [
+          "Participación y organización ciudadana: Quito Participa; Escuela Metropolitana de Liderazgo Ciudadano; Red Metropolitana de Liderazgo Barrial; Cabildos Barriales y Asambleas Zonales; Plataforma Digital de Participación Ciudadana; Presupuestos Participativos.",
+          "Voluntariado y solidaridad: Voluntariado Quito Imparable; Red Metropolitana de Solidaridad; Banco de Tiempo y Talentos; Brigadas Comunitarias; Quito Cuida a Quito.",
+          "Fortalecimiento comunitario: Redes de Organizaciones Sociales; Fortalecimiento de barrios organizados; Laboratorios Ciudadanos; Banco Metropolitano de Iniciativas Comunitarias; Escuela de Gestión Comunitaria."
+        ]},
+        { "titulo": "Nuestra Gente · 2. Íntegros y Respetuosos", "items": [
+          "Cultura de integridad: Quito Íntegro; Escuela Metropolitana de Integridad Ciudadana; Formación en ética pública y ciudadanía responsable.",
+          "Convivencia: Quito Respeta; Cultura de Paz; Mediación Comunitaria; Buen Vecino; Prevención de violencias.",
+          "Cultura cívica: Guardianes del Espacio Público; Educación para el cuidado del patrimonio; Campañas de corresponsabilidad; Formación en derechos y deberes ciudadanos."
+        ]},
+        { "titulo": "Nuestra Gente · 3. Luchadores y Emprendedores", "items": [
+          "Talento y emprendimiento: Quito Emprende; Escuela Metropolitana de Emprendedores; Academia de Oficios del Futuro; Mentorías Empresariales; Red Metropolitana de Mentores.",
+          "Juventud y empleo: Juventud Imparable; Primer Empleo; Emprendimiento Escolar y Universitario; Mujeres Emprenden; Innovación Social para MIPYMES.",
+          "Reconocimiento al mérito: Premios Quito Imparable; Reconocimiento al esfuerzo ciudadano; Historias que Inspiran."
+        ]},
+        { "titulo": "Nuestra Gente · 4. Innovadores y Creativos", "items": [
+          "Innovación ciudadana: Quito Innova; Laboratorios Ciudadanos de Innovación; Hackatones Metropolitanas; Desafíos Quito Imparable.",
+          "Ciencia y tecnología: Clubes STEAM; Cultura Digital; Alfabetización Digital; Inteligencia Artificial para la Ciudadanía; Makerspaces Comunitarios.",
+          "Creatividad: Economía Creativa; Industrias Culturales; Red Metropolitana de Creatividad; Cultura Maker."
+        ]},
+        { "titulo": "Nuestra Gente · 5. Confiables y Unidos", "items": [
+          "Identidad quiteña: Orgullo Quiteño; Quito Nos Une; Memoria e Identidad Metropolitana; Quito Celebra sin Alcohol y Drogas.",
+          "Cohesión social: Red Metropolitana de Buena Vecindad; Encuentros Ciudadanos; Diálogos Metropolitanos; Pactos Ciudadanos."
+        ]},
+        { "titulo": "Nuestra Gente · 6. Humanos e Inclusivos", "items": [
+          "Inclusión: Quito Incluye; Quito Accesible; Ciudad sin Barreras; Diseño Universal.",
+          "Igualdad: Mujeres Liderando Quito; Juventudes Imparables; Adultos Mayores Activos; Personas con Discapacidad Primero; Diversidad e Interculturalidad.",
+          "Bienestar: Red Metropolitana de Cuidados; Prevención de Violencias; Salud Mental Comunitaria; Redes de Apoyo Familiar; Círculos Comunitarios de Bienestar."
+        ]},
+        { "titulo": "Nuestros Barrios · 1. Naturaleza y Vida (gestión territorial y ambiente)", "items": [
+          "Planificación territorial: actualización participativa del PMDOT; actualización del PUGS; planes urbanísticos complementarios, parciales y especiales; planes de desarrollo por administración zonal; planes parroquiales y barriales; Observatorio Metropolitano del Territorio y del Suelo; catastro multipropósito; Banco Metropolitano de Suelo y Activos Estratégicos; regularización y mejoramiento integral de barrios; protección del suelo rural productivo; simplificación de procedimientos urbanísticos; sistema de seguimiento del PMDOT y PUGS.",
+          "Naturaleza e infraestructura ambiental: Quito Ciudad Esponja; Red de Infraestructura Verde y Azul; corredores ecológicos; Bosques Urbanos; arborización y biodiversidad urbana; parques resilientes; soluciones basadas en la naturaleza; recuperación de laderas y áreas degradadas; protección de páramos y bosques protectores; monitoreo de aire, ruido y contaminación.",
+          "Agua, ríos y quebradas: Recuperación Integral de Quebradas; saneamiento progresivo de ríos urbanos; Programa Especial del Río Machángara; protección de fuentes hídricas; gestión de cuencas; drenaje urbano sostenible; jardines de lluvia, pavimentos permeables y parques inundables; control de descargas y escombros; Guardianes Comunitarios de Ríos y Quebradas.",
+          "Limpieza, residuos y economía circular: Sistema Metropolitano de Gestión Integral de Residuos; modernización de barrido, recolección y transporte; Barrios Limpios y Responsables.",
+          "Quito Circular: Recicladores Primero; separación en la fuente y recolección diferenciada; inclusión productiva de recicladores; centros de recuperación de materiales; plantas de compostaje; gestión de voluminosos y grandes generadores; contenedores monitoreados; recuperación de microbasurales; limpieza de quebradas, cauces y mercados.",
+          "Resiliencia climática: Estrategia Metropolitana de Adaptación y Mitigación; planes climáticos zonales y barriales; reducción de islas de calor; infraestructura resiliente; barrios preparados; sistemas de alertas ambientales.",
+          "Ruralidad, alimentación y fauna urbana: Quito Rural Productivo y Sostenible; agricultura urbana y huertos comunitarios; protección de suelos agrícolas; seguridad alimentaria y circuitos cortos; producción agroecológica; Sistema Metropolitano de Bienestar Animal; esterilización, vacunación y adopción; educación en tenencia responsable."
+        ]},
+        { "titulo": "Nuestros Barrios · 2. Lo que se Ama se Cuida (seguridad, convivencia y riesgos)", "items": [
+          "Infraestructura y coordinación: Centro Metropolitano Integrado de Seguridad Ciudadana, Riesgos y Emergencias; Centros Zonales de Seguridad y Gestión de Riesgos; Centro de Inteligencia Territorial para la Prevención; Observatorio de Seguridad, Violencias y Convivencia; Plataforma Integrada de Información; sala de monitoreo interinstitucional; protocolos con Policía, ECU 911, Bomberos, salud y justicia.",
+          "Prevención territorial y tecnología: Barrios Seguros y Organizados; Quito Iluminado y Seguro; Sistema Integrado de Videovigilancia; analítica de video con protección de datos; botones y canales comunitarios de alerta; mapas dinámicos de riesgos; urbanismo seguro (CPTED); recuperación de espacios de alta conflictividad; seguridad en mercados, parques, estaciones y corredores comerciales.",
+          "Rutas y entornos seguros: Rutas Seguras para Mujeres; Entornos Educativos Seguros; Corredores Seguros de Transporte Público; rutas seguras para niños, jóvenes, mayores y personas con discapacidad; entornos turísticos y patrimoniales seguros; prevención de violencias de género, intrafamiliar y comunitaria.",
+          "Gestión de riesgos: Quito Resiliente y Preparado; Sistema de Alertas Tempranas; planes zonales, parroquiales y barriales de reducción de riesgos; incendios forestales y estructurales; inundaciones, movimientos en masa, sismos y erupciones; fortalecimiento del Cuerpo de Bomberos; centros de alojamiento temporal; reservas estratégicas; simulacros; planes de continuidad de servicios.",
+          "Organización comunitaria: redes de prevención y autoprotección; comités barriales de seguridad y riesgos; escuelas de primer respondiente; planes familiares de emergencia; sistemas territoriales de alerta; voluntariado comunitario."
+        ]},
+        { "titulo": "Nuestros Barrios · 3. Conectados y en Movimiento (movilidad integrada)", "items": [
+          "Municipalización del transporte público: corredores integrados; integración física, operativa, tecnológica y tarifaria Metro–Trolebús–Ecovía–buses; reorganización de rutas troncales, alimentadoras y transversales; modernización y transición tecnológica de la flota; estaciones y paradas accesibles; sistema único de información al usuario; integración de medios de pago; evaluación de calidad; servicios nocturnos.",
+          "Seguridad vial: Proyecto Integral de Seguridad Vial (PISV); Visión Cero Quito; auditorías; Cruces Seguros; Rutas Escolares Seguras; gestión de velocidad y zonas calmadas; atención post-siniestro; educación vial; Observatorio de Seguridad Vial.",
+          "Proximidad y caminabilidad: Quito 15 Minutos; Calles para la Vida; Red de Caminabilidad; construcción y rehabilitación de vías, aceras y bordillos; aceras continuas e inclusivas; eliminación de barreras; entornos peatonales seguros; escalinatas y senderos; ordenamiento de obstáculos peatonales.",
+          "Bicicleta y micromovilidad: gestión metropolitana de la bicicleta; red de ciclovías urbanas y rurales; bicicleta pública; estacionamientos para bicicletas; señalización y educación ciclista; regulación de micromovilidad.",
+          "Vialidad y mantenimiento: Plan de Rehabilitación y Mantenimiento Vial; priorización técnica pública; mantenimiento preventivo y predictivo; baches, puentes, túneles y drenajes; vías rurales e interparroquiales; seguimiento público.",
+          "Movilidad inteligente: Centro de Gestión de la Movilidad; semaforización adaptativa; Sistemas Inteligentes de Transporte; información en tiempo real; gestión de estacionamientos; zonas reguladas.",
+          "Logística y conectividad: Sistema de Logística Urbana; carga y descarga; centros logísticos; corredores de abastecimiento; Barrios y Parroquias Conectados; transporte rural; caminos para producción y turismo."
+        ]},
+        { "titulo": "Nuestros Barrios · 4. Mi Lugar Favorito (barrios unidos y vivos)", "items": [
+          "Regeneración barrial: Barrio Imparable; Red Metropolitana de Barrios; Mejoramiento Integral de Barrios; polígonos prioritarios; urbanismo táctico; recuperación de calles, plazas, escalinatas y fachadas; mantenimiento barrial participativo; mingas.",
+          "Espacios públicos y proximidad: Parques para Todos; Espacios Públicos Activos; plazas y parques de bolsillo; canchas inclusivas; Equipamientos de Proximidad; Red de Servicios Cercanos; sombra, iluminación y mobiliario; recuperación de espacios subutilizados; diseño participativo.",
+          "Cultura e identidad: Cultura Viva Barrial; Arte y Cultura en tu Barrio; circuitos culturales; Agenda Cultural descentralizada; festivales y ferias; escuelas barriales de arte; memoria barrial; apoyo a artistas; bibliotecas comunitarias; Cultura de la Confianza.",
+          "Deporte y recreación: Deporte para Todos; Red Metropolitana Deportiva; escuelas deportivas barriales; Juegos Barriales y Parroquiales; activación de parques y canchas; deporte inclusivo; programas para niños, jóvenes, mujeres y mayores; ciclopaseos; monitores deportivos comunitarios.",
+          "Salud preventiva: Salud Comunitaria Preventiva; brigadas barriales; puntos comunitarios de salud; hábitos saludables y nutrición; salud mental; enfermedades crónicas; salud escolar; envejecimiento saludable; prevención del consumo de alcohol y drogas; primeros auxilios.",
+          "Vivienda y patrimonio: De Vuelta a la Ciudad Construida; rehabilitación de áreas centrales; reuso de edificios vacíos; vivienda social en áreas servidas; mejoramiento de vivienda; incentivos de rehabilitación; regeneración sin desplazamiento; Recuperación Integral del Centro Histórico; revitalización de La Mariscal; patrimonio ferroviario e industrial; fachadas e iluminación patrimonial.",
+          "Centralidades y participación: Centralidades Barriales Imparables; corredores comerciales; entornos de mercados, estaciones y escuelas; laboratorios de cocreación; presupuestos participativos por resultados; Banco de Iniciativas Comunitarias; alianzas para cuidado de parques."
+        ]},
+        { "titulo": "Nuestros Barrios · 5. Oportunidades para Crecer Juntos (productividad y competitividad)", "items": [
+          "Empleo y formación: Empleo Joven Imparable; Mujeres Emprenden y Trabajan; Bolsa Metropolitana de Empleo; Centros Territoriales de Formación, Empleo y Emprendimiento; certificación de competencias; reconversión de habilidades; vinculación empresa–universidad; primer empleo, pasantías y formación dual; inclusión laboral de personas con discapacidad; oficios, tecnología, turismo, economía verde y cuidados.",
+          "Emprendimiento e innovación: Distrito Metropolitano de Innovación y Emprendimiento; distritos de innovación territorial; centros de emprendimiento; incubación y aceleración; laboratorios de prototipado; transformación digital de MYPES; IA para negocios; alianzas universidad–empresa–Municipio; investigación aplicada; capital semilla y fondos concursables; economía creativa y audiovisual.",
+          "Mercados y abastecimiento: Sistema de Mercados Competitivos Imparables; modernización de mercados y ferias; gestión integral de mercados; Sistema de Abastecimiento y Seguridad Alimentaria; trazabilidad; circuitos cortos; digitalización del comercio popular; infraestructura sanitaria; formalización de comerciantes autónomos; Economía Popular y Solidaria Imparable.",
+          "Corredores económicos: corredores comerciales; revitalización de zonas productivas; Ventanilla Única Productiva; simplificación de permisos; Hecho en Quito; compras locales; comercio electrónico barrial; talleres, artesanías y pequeñas industrias.",
+          "Turismo: Quito Destino Imparable; gestión de destino; Capital Gastronómica de los Andes; turismo patrimonial, rural, comunitario, de naturaleza y del Chocó Andino; turismo cultural, religioso, científico, deportivo y de aventura; turismo accesible; reuniones y congresos; grandes eventos; economía nocturna segura; rutas gastronómicas; promoción y Marca Quito.",
+          "Inversión e internacionalización: Quito Invierte; portafolio de proyectos de inversión; promoción de inversiones; mejora regulatoria; internacionalización de MIPYMES; exportaciones; cooperación internacional; APP responsables.",
+          "Aeropuerto y logística: Plataforma Metropolitana Aeroportuaria y Logística; ZEDE Quito; Distrito Económico Aeroportuario; centro logístico multimodal; inversiones aeroportuarias; carga aérea; conectividad terrestre y digital con el aeropuerto.",
+          "Ruralidad y economía verde: Quito Rural Produce; innovación agroproductiva; asistencia técnica y asociatividad; valor agregado; centros de acopio; rutas agroturísticas; compras locales; negocios circulares; empleo verde; reciclaje, reparación y compostaje."
+        ]},
+        { "titulo": "Nuestras Entidades · Hacer lo Correcto de Manera Honesta", "items": [
+          "Zonales y parroquias urbanas: Observatorio Virtual Ciudadano; Portal de Transparencia y Datos Abiertos; Sistema de Integridad Institucional; Plataforma de Gobierno Abierto; Presupuesto Participativo por Administración Zonal; Laboratorios Ciudadanos; Cabildos y Asambleas Zonales; Plataforma Quito Participa; Escuela de Control Social; Observatorios Ciudadanos Zonales; Veedurías para obras y servicios; Tablero Público de Compromisos.",
+          "Parroquias rurales: Presupuesto Participativo Rural; Municipio en tu Comunidad; Plataforma Digital Rural; Puntos Comunitarios de Gobierno Abierto; Escuela Virtual de Control Social; fortalecimiento de organizaciones comunitarias; Observatorio Rural Ciudadano; Mesas de Gobernanza Rural; convenios con GAD parroquiales; Red Comunitaria de Transparencia; seguimiento territorial de compromisos."
+        ]},
+        { "titulo": "Nuestras Entidades · Digital, Inteligente y Eficiente", "items": [
+          "1. Simplificación de normativa, procesos y trámites: revisión normativa 'Hacia la Agilidad'; depuración de ordenanzas; repositorio digital; Quito Simple; Cero Trámites Innecesarios; catálogo único de trámites; eliminación de requisitos; información entregada una sola vez; plazos máximos y alertas; Ventanilla Única Ciudadana; puntos móviles rurales; expediente electrónico; carpeta ciudadana y empresarial; identidad digital metropolitana; firma electrónica; notificaciones y pagos digitales; turnos digitales; archivo electrónico; plataforma de interoperabilidad; Gobierno de Datos Quito; automatización de procesos; IA para orientar y clasificar solicitudes; Municipio Digital 360; Gobierno Digital 24/7; app Quito Imparable; asistente virtual; canales presenciales asistidos; accesibilidad; Quito Digital Seguro (datos personales y ciberseguridad).",
+          "2. Reorganización institucional y talento humano: Municipio que Funciona; evaluación de secretarías, empresas y agencias; eliminación de duplicidades; gobierno corporativo; arquitectura única de procesos; catálogo de servicios; Modelo de Gestión por Resultados; Oficina de Gestión de Proyectos (PMO); Banco de Programas y Proyectos; talento humano por mérito; perfiles polifuncionales; Escuela Municipal de Formación Permanente; reasignación de personal a servicios; equipos 24/7; Plan Jóvenes Talentos; horarios adaptados, equipos móviles rurales, teletrabajo; zonales con cartera mínima de servicios desconcentrados.",
+          "3. Bienes municipales: Política Integral de Gestión del Patrimonio y Activos; actualización del catastro de bienes; Inventario Único georreferenciado; regularización de títulos; Plan de Optimización de Infraestructura Pública; reuso de inmuebles; reducción de arriendos; eficiencia energética; custodia y control de vehículos y equipos.",
+          "4. Alianzas estratégicas comunitarias: Red Metropolitana de Alianzas; convenios de corresponsabilidad; Red Universidad–Municipio–Ciudad; evaluación independiente; Banco de Proyectos Colaborativos e Innovación Social; Laboratorio Metropolitano de Innovación Territorial; cooperación nacional e internacional y financiamiento climático.",
+          "5. Ajuste cultural de servidores públicos: Programa Orgullo de Servir; reconocimientos no monetarios; Escuela de Liderazgo Público; Plan de Ajuste Cultural a 4 años; agentes de cambio; Red de Innovadores Públicos; laboratorios internos de mejora de trámites."
+        ]},
+        { "titulo": "Gobernanza, seguimiento y rendición de cuentas", "items": [
+          "Principios: transparencia, integridad, participación ciudadana, gobierno abierto, gestión por resultados y mejora continua.",
+          "Sistema de seguimiento estratégico, territorial, programático, financiero y ciudadano.",
+          "Evaluación en cuatro niveles: gestión, productos, resultados e impacto.",
+          "Instrumentos: Informe Anual de Cumplimiento del Plan; Portal de Transparencia y Gobierno Abierto; audiencias públicas; cabildos y encuentros territoriales; boletines ciudadanos.",
+          "Pacto del Buen Gobierno de Imparables (8 compromisos éticos)."
+        ]}
+      ],
+      "notas": [
+        "Texto digital legible (unas 36.000 palabras) leído por partes. Las páginas 1, 3, 7, 56, 62, 86 y 121 son portadas o gráficos sin texto relevante (se revisó la imagen de la 86).",
+        "La dimensión 'Guía, Inspira, Enseña e Impulsa a Ser Buenos Ciudadanos' tiene propósito, estrategia y objetivo, pero no tabla de proyectos propia.",
+        "El plan anuncia una 'cartera territorial de proyectos' para cada administración zonal, pero no la incluye en el documento.",
+        "La mayoría de proyectos son solo nombres, sin descripción, metas, plazos individuales ni costos; el plan plurianual es genérico por horizonte (corto, mediano y largo plazo).",
+        "En el título 'Municipalización del Transporte público' no se explica si implica asumir la operación de rutas privadas.",
+        "El diagnóstico usa proyecciones INEC (2.804.269 hab. en 2022) junto con el dato censal de 2.679.722; ambas cifras figuran en el plan."
+      ]
+    }
+  ]
+}

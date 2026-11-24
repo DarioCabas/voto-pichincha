@@ -1,0 +1,330 @@
+{
+  "canton": "RUMIÑAHUI",
+  "candidatos": [
+    {
+      "codFormulario": 6407,
+      "enfoque": "Plan de fiscalización con metas anuales para la circunscripción 1 que aclara que los concejales no administran ni contratan la inversión: seguridad, movilidad, obras, economía y ambiente.",
+      "tabla": {
+        "seguridad": [
+          { "t": "Agenda anual de fiscalización de seguridad y al menos una actualización normativa de convivencia y prevención", "v": "alta", "n": "Meta verificable dentro de las funciones del concejal." }
+        ],
+        "movilidad": [
+          { "t": "Legislar y fiscalizar movilidad, semaforización, señalización y siniestralidad en los corredores críticos de la circunscripción", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "urbano": [
+          { "t": "Fiscalizar programación, contratación, recepción y mantenimiento de obras; reporte público anual de las intervenciones en el distrito", "v": "alta", "n": "Fiscalización con meta." }
+        ],
+        "economia": [
+          { "t": "Evaluación anual de barreras municipales (ordenanzas, tasas, permisos) y mejoras normativas", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "ambiente": [
+          { "t": "Normativa ambiental y fiscalización de residuos, áreas verdes, ríos y quebradas", "v": "alta", "n": "Legislar y fiscalizar." }
+        ]
+      },
+      "metas": ["Al menos una actualización normativa en seguridad; un reporte público anual de obras; una evaluación anual de barreras económicas."],
+      "notas": ["La misma organización presenta un plan casi igual para la circunscripción 2 (formulario 6507)."]
+    },
+    {
+      "codFormulario": 6638,
+      "enfoque": "Plan que reproduce el programa de gobierno de la alianza para la alcaldía (nueva empresa de desarrollo urbano, centro de convenciones, cámaras con reconocimiento facial) junto con un Código Legislativo Municipal.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Código Legislativo Municipal: codificación de ordenanzas", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Plan de simplificación administrativa: ventanilla única y digitalización", "v": "media", "n": "Lo ejecuta la Alcaldía; el concejal impulsa." },
+          { "t": "Nueva arquitectura institucional con una empresa pública de desarrollo urbano (EPCUR)", "v": "media", "n": "El Concejo aprueba crear empresas, pero la iniciativa es del ejecutivo." }
+        ],
+        "seguridad": [
+          { "t": "Alarmas comunitarias y red de cámaras con reconocimiento facial; mejora de UPC", "v": "baja", "n": "Instalar equipos es ejecución; las UPC son de la Policía Nacional." }
+        ],
+        "economia": [
+          { "t": "Centro de Convenciones, incubadora de mipymes y ferias", "v": "baja", "n": "Obras y programas que ejecuta la Alcaldía." }
+        ],
+        "ambiente": [
+          { "t": "Centro de rescate animal y albergue municipal", "v": "baja", "n": "Infraestructura que ejecuta la Alcaldía." }
+        ],
+        "social": [
+          { "t": "Escuela de gobernabilidad, programas 'Rumiñahui Educa' y 'Rumiñahui Alimenta'", "v": "baja", "n": "Programas de ejecución." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["El texto proviene de OCR.", "La misma alianza presenta un plan casi igual para la circunscripción 2 (formulario 6649) y para concejales rurales (formulario 6688)."]
+    },
+    {
+      "codFormulario": 10747,
+      "enfoque": "Plan con una agenda de ordenanzas y fiscalizaciones priorizadas por programa, mezclada con proyectos de ejecución (red de centros infantiles, agencia de inversiones).",
+      "tabla": {
+        "gobierno": [
+          { "t": "Ordenanza de Gobierno Abierto y Datos Abiertos", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Fiscalización permanente de la ejecución presupuestaria y de la eficiencia de las empresas públicas", "v": "alta", "n": "Fiscalización." },
+          { "t": "Crear una Unidad de Grandes Proyectos y una Agencia de Atracción de Inversiones", "v": "baja", "n": "Crear unidades administrativas es facultad del alcalde." }
+        ],
+        "economia": [
+          { "t": "Reforma de la Ordenanza de Turismo y reforma normativa de mercados municipales", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Fiscalizar proyectos turísticos y programas de emprendimiento", "v": "alta", "n": "Fiscalización." }
+        ],
+        "seguridad": [
+          { "t": "Reforma de la Ordenanza de Seguridad Ciudadana", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "social": [
+          { "t": "Red cantonal de centros infantiles con atención extendida", "v": "baja", "n": "Plantea ejecutar servicios." },
+          { "t": "Fiscalizar la cobertura y calidad de programas sociales", "v": "alta", "n": "Fiscalización." }
+        ]
+      },
+      "metas": ["Iniciativas priorizadas como 'alta'; sin cifras."],
+      "notas": []
+    },
+    {
+      "codFormulario": 306,
+      "enfoque": "Plan extenso de normativa social y de bienestar animal: ordenanza integral de protección animal, actualización del sistema de protección de derechos y normativa cultural.",
+      "tabla": {
+        "ambiente": [
+          { "t": "Ordenanza integral de protección y bienestar animal: maltrato, rescate, adopción y presencia de animales en espacios públicos", "v": "alta", "n": "Fauna urbana es competencia municipal regulable." },
+          { "t": "Programas permanentes de esterilización, vacunación y registro de mascotas", "v": "media", "n": "Los ejecuta la Alcaldía." }
+        ],
+        "social": [
+          { "t": "Fortalecer rutas de atención a personas en situación de calle, movilidad humana y violencia", "v": "media", "n": "Coordinación con entidades nacionales." },
+          { "t": "Fiscalizar cobertura, focalización y recursos de los programas sociales municipales", "v": "alta", "n": "Fiscalización." },
+          { "t": "Actualizar la normativa cultural para una programación descentralizada y proteger el patrimonio", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["La misma organización presenta un plan casi igual para la circunscripción 2 (formulario 8075)."]
+    },
+    {
+      "codFormulario": 11593,
+      "enfoque": "Plan que copia los planes temáticos del plan de alcaldía de su alianza (vial, productivo, turístico, industrial, comercio, riesgo volcánico, fauna) sin traducirlos a funciones de concejal.",
+      "tabla": {
+        "movilidad": [
+          { "t": "Plan Vial y de Movilidad: nuevas vías y conexiones con Quito", "v": "baja", "n": "Plantea obras que ejecuta la Alcaldía." }
+        ],
+        "economia": [
+          { "t": "Planes de desarrollo productivo, turístico, despegue industrial y comercio digno", "v": "media", "n": "El concejal puede impulsarlos con normativa." }
+        ],
+        "social": [
+          { "t": "Planes de bienestar y apoyo (casas comunitarias, educación continua)", "v": "baja", "n": "Ejecución de programas." }
+        ],
+        "seguridad": [
+          { "t": "Plan Rumiñahui Seguro, Plan Sin Inundaciones y Plan de Riesgo Volcánico", "v": "media", "n": "El concejal puede legislar y fiscalizar; la ejecución es del ejecutivo." }
+        ],
+        "ambiente": [
+          { "t": "Plan Fauna Urbana", "v": "media", "n": "Sin detalle normativo." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["Reproduce los planes del programa de alcaldía de la alianza (formulario 11576)."]
+    },
+    {
+      "codFormulario": 10992,
+      "enfoque": "Plan por ejes que se expresa como 'impulsar y fiscalizar' en movilidad, espacio público, patrimonio, emprendimiento, grupos prioritarios y juventud, sin ordenanzas concretas.",
+      "tabla": {
+        "movilidad": [
+          { "t": "Impulsar y fiscalizar normativa, planificación y presupuesto de movilidad sostenible y seguridad vial", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "urbano": [
+          { "t": "Fiscalizar la priorización, contratación y mantenimiento de espacios públicos e infraestructura comunitaria", "v": "alta", "n": "Fiscalización." }
+        ],
+        "economia": [
+          { "t": "Normativa que facilite emprendimiento y comercio ordenado", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "social": [
+          { "t": "Legislación y fiscalización de programas para grupos prioritarios, niñez y juventud; protección del patrimonio y la cultura", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "gobierno": [
+          { "t": "Control político, transparencia y modernización institucional", "v": "alta", "n": "Función directa del concejal." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["La misma organización presenta un plan casi igual para la circunscripción 2 (formulario 10995)."]
+    },
+    {
+      "codFormulario": 8588,
+      "enfoque": "Plan con compromisos verificables de fiscalización: 100 % del presupuesto y contratos, seguimiento a contratos de más de USD 100.000 y registro público de votaciones.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Fiscalizar el 100 % de la ejecución presupuestaria y seguir todos los contratos superiores a USD 100.000, con informes trimestrales", "v": "alta", "n": "Fiscalización con meta verificable." },
+          { "t": "Fiscalizar las empresas públicas municipales de agua, movilidad y residuos", "v": "alta", "n": "Fiscalización." },
+          { "t": "Silla vacía en todas las sesiones y presupuesto participativo digital por parroquia", "v": "media", "n": "La silla vacía es obligación legal; el presupuesto digital lo implementa el ejecutivo." },
+          { "t": "Garantizar que el 70 % del gasto no financiero sea inversión", "v": "alta", "n": "Votar el presupuesto conforme a la reforma del COOTAD es atribución del Concejo." },
+          { "t": "Publicar el registro de votaciones, asistencias e informes de cada concejal", "v": "alta", "n": "Compromiso de bajo costo." }
+        ],
+        "movilidad": [
+          { "t": "Aprobar la ordenanza de la mancomunidad para el sistema de transporte masivo (STMRA)", "v": "media", "n": "Depende de acuerdos con otros GAD y de la viabilidad del proyecto." }
+        ]
+      },
+      "metas": ["100 % de ejecución presupuestaria y contratos fiscalizados; seguimiento de todos los contratos de más de USD 100.000; informes trimestrales."],
+      "notas": ["El mismo plan se presenta para la circunscripción 2 (formulario 8640)."]
+    },
+    {
+      "codFormulario": 10859,
+      "enfoque": "Mismo esquema del movimiento Imparables: participación en ordenanzas, reformas normativas de inclusión, emprendimiento, territorio y ambiente, y fiscalización de programas.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Cabildos, mesas y audiencias para formular y evaluar ordenanzas; agenda territorial con barrios y urbanizaciones", "v": "alta", "n": "Representación y normativa participativa." }
+        ],
+        "social": [
+          { "t": "Reformas normativas de igualdad de oportunidades, accesibilidad universal y protección de derechos", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "economia": [
+          { "t": "Reformas regulatorias que simplifiquen procedimientos y apoyen el emprendimiento", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "urbano": [
+          { "t": "Actualizar el marco normativo de ordenamiento territorial y resiliencia", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "ambiente": [
+          { "t": "Ordenanzas ambientales y de gestión integral de residuos", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 6507,
+      "enfoque": "Mismo plan que la lista de la circunscripción 1 (formulario 6407), aplicado a la circunscripción 2, con metas anuales de fiscalización e incorporación de riesgos y catastro.",
+      "tabla": {
+        "seguridad": [
+          { "t": "Agenda anual de fiscalización de seguridad y al menos una actualización normativa", "v": "alta", "n": "Meta verificable." },
+          { "t": "Fiscalizar la planificación de riesgos, simulacros y alertas", "v": "alta", "n": "Fiscalización." }
+        ],
+        "movilidad": [
+          { "t": "Seguimiento semestral de indicadores de movilidad y propuestas normativas cuando haya deterioro", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "urbano": [
+          { "t": "Reporte público anual de las intervenciones estratégicas en el distrito; fiscalizar la actualización catastral", "v": "alta", "n": "Fiscalización con meta." }
+        ],
+        "ambiente": [
+          { "t": "Normativa ambiental y fiscalización de residuos, áreas verdes y quebradas", "v": "alta", "n": "Legislar y fiscalizar." }
+        ]
+      },
+      "metas": ["Seguimiento semestral de movilidad; reporte anual de obras; al menos una actualización normativa en seguridad."],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 6649,
+      "enfoque": "Mismo plan que la lista de la alianza en la circunscripción 1 (formulario 6638): programa de gobierno de alcaldía con algunas facultades de concejal.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Código Legislativo Municipal (codificación de ordenanzas) y Sistema de Información Local", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Empresa pública de desarrollo urbano (EPCUR) y plan de simplificación administrativa", "v": "media", "n": "Iniciativa del ejecutivo; el Concejo aprueba." }
+        ],
+        "seguridad": [
+          { "t": "Cámaras con reconocimiento facial, alarmas comunitarias y mejora de UPC", "v": "baja", "n": "Ejecución; las UPC son de la Policía." }
+        ],
+        "economia": [
+          { "t": "Centro de Convenciones, incubadora, banca comunal y ferias de empleo", "v": "baja", "n": "Programas y obras del ejecutivo." }
+        ],
+        "urbano": [
+          { "t": "Revitalización del Centro Histórico, plazas y estadio con urbanismo táctico", "v": "baja", "n": "Obras que ejecuta la Alcaldía." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 10765,
+      "enfoque": "Plan genérico de agenda legislativa permanente, fiscalización técnica y participación, distinto del de la misma organización en la circunscripción 1.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Agenda legislativa permanente para revisar y modernizar ordenanzas", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Fiscalización técnica, objetiva y permanente de la gestión administrativa", "v": "alta", "n": "Función directa del concejal." },
+          { "t": "Cabildos, mesas y recorridos territoriales; publicación periódica de la actividad legislativa", "v": "alta", "n": "Representación y transparencia." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["Coincide en gran parte con el plan rural del Partido Social Cristiano en Rumiñahui (formulario 11822)."]
+    },
+    {
+      "codFormulario": 8075,
+      "enfoque": "Mismo plan que la lista del movimiento en la circunscripción 1 (formulario 306): normativa social, de violencia y de bienestar animal.",
+      "tabla": {
+        "social": [
+          { "t": "Actualizar las ordenanzas del Sistema Cantonal de Protección Integral de Derechos y normativa contra la violencia", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Fiscalizar la cobertura y los recursos de los programas sociales", "v": "alta", "n": "Fiscalización." }
+        ],
+        "ambiente": [
+          { "t": "Ordenanza integral de protección y bienestar animal", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "urbano": [
+          { "t": "Fortalecer el ordenamiento territorial, la movilidad y la gestión de riesgos desde la normativa", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": []
+    },
+    {
+      "codFormulario": 11607,
+      "enfoque": "Versión normativa de los planes temáticos de la alianza: ordenanza de fomento productivo, normativa turística y de movilidad, y fiscalización de obras viales.",
+      "tabla": {
+        "movilidad": [
+          { "t": "Actualizar la normativa de movilidad, seguridad vial y uso de la vía pública", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Fiscalizar contratación, avance, costos y calidad de las obras viales", "v": "alta", "n": "Fiscalización." }
+        ],
+        "economia": [
+          { "t": "Ordenanza de Fomento al Desarrollo Productivo, Emprendimiento, Innovación y Economía Popular", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Normativa para la marca 'Rumiñahui Orgánico' y circuitos turísticos; protección del patrimonio", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Revisar la normativa de zonas industriales para compatibilizarla con el ordenamiento", "v": "alta", "n": "Uso del suelo regulable." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["A diferencia de la lista de la misma alianza en la circunscripción 1 (formulario 11593), este plan sí traduce las propuestas a ordenanzas y fiscalización."]
+    },
+    {
+      "codFormulario": 10995,
+      "enfoque": "Mismo esquema que la lista de la organización en la circunscripción 1 (formulario 10992), con énfasis adicional en la transparencia de la tarifa de agua y la prevención del consumo de drogas.",
+      "tabla": {
+        "servicios": [
+          { "t": "Fiscalizar la gestión y la estructura tarifaria del agua potable ante la preocupación por los valores facturados", "v": "alta", "n": "Fiscalización de un servicio municipal." }
+        ],
+        "social": [
+          { "t": "Prevención del consumo problemático de alcohol y drogas; protección de grupos prioritarios", "v": "media", "n": "El concejal legisla y fiscaliza; la atención es del MSP." }
+        ],
+        "economia": [
+          { "t": "Articular turismo, patrimonio, artesanía y gastronomía; normativa de emprendimiento", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "movilidad": [
+          { "t": "Impulsar y fiscalizar la movilidad sostenible y la seguridad vial", "v": "alta", "n": "Legislar y fiscalizar." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": []
+    },
+    {
+      "codFormulario": 8640,
+      "enfoque": "Mismo plan que la lista de CREO en la circunscripción 1 (formulario 8588): fiscalización del 100 % del presupuesto, contratos de más de USD 100.000 y registro público de votaciones.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Fiscalizar el 100 % del presupuesto y todos los contratos superiores a USD 100.000, con informes trimestrales", "v": "alta", "n": "Fiscalización con meta verificable." },
+          { "t": "Fiscalizar las empresas públicas municipales y publicar votaciones y asistencias", "v": "alta", "n": "Fiscalización y transparencia." },
+          { "t": "Garantizar que el 70 % del gasto no financiero sea inversión", "v": "alta", "n": "Atribución presupuestaria del Concejo." }
+        ],
+        "movilidad": [
+          { "t": "Aprobar la ordenanza de la mancomunidad para el sistema de transporte masivo", "v": "media", "n": "Depende de otros GAD." }
+        ]
+      },
+      "metas": ["100 % del presupuesto y contratos fiscalizados; informes trimestrales."],
+      "notas": ["Texto idéntico al de la lista en la circunscripción 1 (formulario 8588)."]
+    },
+    {
+      "codFormulario": 10860,
+      "enfoque": "Mismo esquema que la lista del movimiento en la circunscripción 1 (formulario 10859), con normativa de inclusión, emprendimiento, suelo, movilidad y ambiente.",
+      "tabla": {
+        "social": [
+          { "t": "Actualizar la normativa de inclusión social, juventud, mujeres, adultos mayores y discapacidad", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "urbano": [
+          { "t": "Actualizar la normativa de ordenamiento territorial, uso del suelo y protección del patrimonio", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "movilidad": [
+          { "t": "Fiscalizar los planes de movilidad y promover mejoras normativas de transporte y accesibilidad", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "economia": [
+          { "t": "Reformas regulatorias para emprendimiento y economía popular", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "ambiente": [
+          { "t": "Políticas de protección ambiental, residuos, recursos hídricos y resiliencia climática", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": []
+    }
+  ]
+}

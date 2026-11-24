@@ -1,0 +1,70 @@
+---
+// Ficha completa por candidatura: personas, propuestas completas, metas, inversión, 100 días, detalle y notas.
+interface Props { candidatos: any[]; temas: { id: string; nombre: string }[] }
+const { candidatos, temas } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const nombreTema = Object.fromEntries(temas.map((t) => [t.id, t.nombre]));
+---
+
+<h2>Fichas completas <span class="muted small">· todo lo que trae cada plan</span></h2>
+<div class="fichas">
+  {candidatos.map((c) => (
+    <details class="ficha" id={`f-${c.id}`}>
+      <summary>
+        <span class="num">Lista {c.lista}</span>
+        <span class="who">{c.titulo}</span>
+        <span class="muted small">{c.partido}</span>
+      </summary>
+      <div class="body">
+        {c.personas?.length > 0 && (
+          <section>
+            <h4>Candidatos</h4>
+            <ol class="cols">{c.personas.map((p) => <li>{p.nombre}{p.suplente && <span class="muted"> · suplente: {p.suplente}</span>}</li>)}</ol>
+          </section>
+        )}
+        {c.estructura && <p><b>Estructura:</b> {c.estructura}</p>}
+        {c.inversion && <p><b>Inversión:</b> {c.inversion}</p>}
+        {c.metas?.length > 0 && (<section><h4>Metas</h4><ul>{c.metas.map((m) => <li>{m}</li>)}</ul></section>)}
+        {c.primeros100?.length > 0 && (<section><h4>Primeros 100 días</h4><ul>{c.primeros100.map((m) => <li>{m}</li>)}</ul></section>)}
+        {c.detalle?.map((d) => (
+          <section><h4>{d.titulo}</h4><ul class="cols">{d.items.map((m) => <li>{m}</li>)}</ul></section>
+        ))}
+        {c.propuestas?.length > 0 && (
+          <section>
+            <h4>Todas las propuestas extraídas ({c.propuestas.length})</h4>
+            <ul class="props">
+              {c.propuestas.map((p) => (
+                <li><i class={`dot ${p.v}`}></i><span>{p.t} <span class="muted small">· {nombreTema[p.tema]}</span></span></li>
+              ))}
+            </ul>
+          </section>
+        )}
+        {c.objetivos?.length > 0 && (<section><h4>Objetivos declarados</h4><ul>{c.objetivos.map((m) => <li>{m}</li>)}</ul></section>)}
+        {c.notas?.length > 0 && (<section><h4>Notas</h4><ul class="muted">{c.notas.map((m) => <li>{m}</li>)}</ul></section>)}
+        <p class="links">
+          {c.pdf && <a href={base + c.pdf} target="_blank">PDF original{c.paginas ? ` (${c.paginas} p.)` : ''}</a>}
+          {c.txt && <> · <a href={base + c.txt} target="_blank">Texto completo extraído</a></>}
+          {' · '}<a href={c.cne} target="_blank" rel="noopener">Ficha CNE</a>
+        </p>
+      </div>
+    </details>
+  ))}
+</div>
+
+<style>
+  .fichas { display: grid; gap: 8px; }
+  .ficha { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; scroll-margin-top: 80px; }
+  .ficha[open] { border-color: color-mix(in srgb, var(--ink) 30%, var(--line)); }
+  .ficha summary { cursor: pointer; padding: 12px 16px; display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; }
+  .num { font-size: 12px; color: var(--accent); font-weight: 700; }
+  .who { font-weight: 650; }
+  .body { padding: 4px 16px 16px; border-top: 1px solid var(--line); font-size: 14px; }
+  h4 { margin: 16px 0 6px; font-size: 13px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
+  ul, ol { margin: 0; padding-left: 18px; }
+  li { margin-bottom: 3px; break-inside: avoid; }
+  .cols { columns: 2 300px; column-gap: 28px; }
+  .props { list-style: none; padding: 0; columns: 2 380px; column-gap: 28px; }
+  .props li { display: grid; grid-template-columns: 9px 1fr; gap: 8px; }
+  .props .dot { margin-top: 7px; }
+  .links { margin-top: 14px; font-size: 13.5px; }
+</style>

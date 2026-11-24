@@ -1,0 +1,124 @@
+{
+  "canton": "CAYAMBE",
+  "contexto": [],
+  "candidatos": [
+    {
+      "codFormulario": 1955,
+      "enfoque": "Modelo 'Cantón Imparable' organizado en desarrollo social, cultural, económico, ambiental, institucional, conectividad y movilidad humana, con metas de cobertura calculadas desde líneas base que se levantarían al inicio de gestión.",
+      "estructura": "7 ejes · propuestas principales por eje · programación anual 2027-2031",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Plan Integral de Vialidad, asfaltado y mantenimiento, agua y alcantarillado, internet rural, alumbrado y planificación territorial con tecnología",
+            "v": "media",
+            "n": "Mezcla vialidad, agua e internet rural; la conectividad depende de operadoras."
+          }
+        ],
+        "servicios": [],
+        "ambiente": [
+          {
+            "t": "Recuperación de páramos y microcuencas, Fondo de Conservación Hídrica, reciclaje, economía circular, educación, adaptación climática y riesgos",
+            "v": "media",
+            "n": "El fondo de conservación requiere aportes de terceros."
+          }
+        ],
+        "urbano": [],
+        "seguridad": [],
+        "social": [
+          {
+            "t": "Cayambe Solidario, dispensario médico, brigadas rurales, centros comunitarios, nutrición infantil y protección de derechos",
+            "v": "media",
+            "n": "La salud es del MSP; el dispensario y las brigadas complementan."
+          },
+          {
+            "t": "Agenda Cultural Permanente, escuelas artísticas, patrimonio, gastronomía, espacios comunitarios e interculturalidad",
+            "v": "alta",
+            "n": "Cultura y patrimonio son competencias municipales."
+          },
+          {
+            "t": "Oficina de Movilidad Humana, capacitación laboral, atención jurídica y psicosocial, inclusión productiva, programas interculturales y cooperación especializada",
+            "v": "media",
+            "n": "La movilidad humana es competencia nacional; el municipio puede ofrecer atención complementaria."
+          }
+        ],
+        "economia": [
+          {
+            "t": "Desarrollo agropecuario, riego tecnificado, acopio y comercialización, alimentos procesados, fondo para emprendimientos, ferias, marca territorial y turismo sostenible",
+            "v": "media",
+            "n": "El riego es competencia de la Prefectura; el fondo para emprendimientos no tiene monto."
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Gobierno abierto, trámites digitales, observatorio ciudadano, presupuestos participativos, formación de dirigentes, seguimiento de obras y cooperación",
+            "v": "alta",
+            "n": "Gestión interna de bajo costo."
+          }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "Desarrollo social: aumentar 50 % la cobertura de programas para grupos prioritarios y presencia de programas priorizados en todas las parroquias, frente a línea base inicial.",
+        "Cultura: aumentar 50 % la participación ciudadana en actividades culturales y consolidar red cultural en todas las parroquias.",
+        "Economía: gestionar acciones para aumentar 50 % productividad agropecuaria de productores beneficiarios, frente a línea base inicial.",
+        "Ambiente: cumplir 60 % de acciones priorizadas de recuperación y conservación de páramos, microcuencas, fuentes y áreas degradadas.",
+        "Institución: digitalizar 50 % de trámites prioritarios e incrementar 50 % la participación en mecanismos municipales frente a líneas base.",
+        "Conectividad: intervenir 50 % de vías prioritarias y aumentar 50 % la conectividad digital rural en sectores priorizados.",
+        "Movilidad humana: alcanzar 50 % de cobertura de atención e inclusión de población identificada."
+      ],
+      "inversion": "Sin montos.",
+      "primeros100": null,
+      "detalle": [
+        {
+          "titulo": "Eje 1 · Desarrollo social",
+          "items": [
+            "Cayambe Solidario para personas mayores, personas con discapacidad y familias vulnerables; fortalecer dispensario municipal; brigadas médicas rurales; centros comunitarios de atención integral; nutrición infantil y prevención de desnutrición; Junta Cantonal de Protección de Derechos; UEMC de liderazgo y participación."
+          ]
+        },
+        {
+          "titulo": "Eje 2 · Desarrollo cultural",
+          "items": [
+            "Agenda Cultural Permanente; solsticios y equinoccios; escuelas de música, danza, teatro y artes populares; inventario y conservación del patrimonio; gastronomía cayambeña; recuperación de espacios culturales e interculturalidad."
+          ]
+        },
+        {
+          "titulo": "Eje 3 · Desarrollo económico",
+          "items": [
+            "Programa Integral de Desarrollo Agropecuario; tecnificación de riego; centros de acopio y comercialización; formación gratuita para alimentos procesados; acompañamiento a emprendimientos; fondo para emprendedores y mujeres productoras; ferias; Marca 'Hecho en Cayambe'; inversión responsable; turismo comunitario, ecológico y cultural; promoción de productores en ferias de otras ciudades."
+          ]
+        },
+        {
+          "titulo": "Eje 4 · Gestión ambiental",
+          "items": [
+            "Recuperación de páramos y microcuencas; Fondo de Conservación Hídrica; regeneración ambiental comunitaria; reciclaje y economía circular; educación ambiental; Plan de Adaptación Climática; gestión integral de riesgos naturales."
+          ]
+        },
+        {
+          "titulo": "Eje 5 · Desarrollo institucional",
+          "items": [
+            "Gobierno Abierto Municipal; digitalización de trámites; Observatorio Ciudadano; presupuestos participativos; escuela para dirigentes barriales y comunitarios; plataforma de seguimiento de obras; alianzas estratégicas y cooperación internacional."
+          ]
+        },
+        {
+          "titulo": "Eje 6 · Desarrollo urbano, territorial y conectividad",
+          "items": [
+            "Plan Integral de Vialidad; asfaltado y mantenimiento de vías; ampliación de agua y alcantarillado; internet comunitario rural; alumbrado público; movilidad urbana sostenible; herramientas tecnológicas para planificación territorial."
+          ]
+        },
+        {
+          "titulo": "Eje 7 · Movilidad humana",
+          "items": [
+            "Oficina Cantonal de Atención a la Movilidad Humana; capacitación laboral y emprendimiento; atención jurídica y psicosocial; inclusión de migrantes y refugiados en actividades productivas; programas interculturales y cooperación internacional especializada."
+          ]
+        },
+        {
+          "titulo": "Programación y control",
+          "items": [
+            "Levantamiento y priorización de necesidades, coordinación institucional y comunitaria y ampliación progresiva de programas durante 2027-2031; líneas base e indicadores para seguimiento y rendición de cuentas."
+          ]
+        }
+      ],
+      "notas": []
+    }
+  ]
+}

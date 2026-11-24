@@ -1,0 +1,212 @@
+{
+  "canton": "QUITO",
+  "candidatos": [
+    {
+      "codFormulario": 3868,
+      "enfoque": "Plan que traslada al Concejo los seis ejes del plan de alcaldía de su movimiento, con normativa y fiscalización de movilidad, servicios, economía, turismo y servicios sociales.",
+      "tabla": {
+        "urbano": [
+          { "t": "Normativa y reformas para un desarrollo ordenado y compacto; revisión de instrumentos de planificación territorial", "v": "alta", "n": "Uso del suelo es competencia metropolitana regulable por ordenanza." }
+        ],
+        "movilidad": [
+          { "t": "Fiscalizar el Metro, el transporte público y la vialidad; reformas para integrar el sistema y seguimiento a la extensión del Metro", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "servicios": [
+          { "t": "Fiscalizar empresas de agua, residuos, ambiente y riesgos y sus planes de inversión", "v": "alta", "n": "Fiscalización de empresas metropolitanas." }
+        ],
+        "economia": [
+          { "t": "Revisar ordenanzas y simplificar trámites para emprendimiento e inversión; vincular la producción rural con mercados y turismo", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Simplificar permisos para eventos e impulsar corredores turísticos y culturales", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "social": [
+          { "t": "Fiscalizar presupuestos, cobertura y calidad de educación, salud e inclusión municipales; normativa de juventudes y bienestar animal", "v": "alta", "n": "Legislar y fiscalizar." }
+        ]
+      },
+      "metas": ["Indicadores de proceso (ordenanzas impulsadas, fiscalizaciones), sin valores meta."],
+      "notas": []
+    },
+    {
+      "codFormulario": 10603,
+      "enfoque": "Plan de la alianza del alcalde en funciones para la ruralidad: normativa de ordenamiento y desarrollo humano, fiscalización de obras en parroquias rurales y prevención de violencias.",
+      "tabla": {
+        "urbano": [
+          { "t": "Actualizar el marco normativo de ordenamiento territorial, uso del suelo y espacio público en la ruralidad", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "social": [
+          { "t": "Fiscalizar el presupuesto de programas educativos, sociales y de salud; fortalecer el marco normativo de desarrollo humano rural", "v": "alta", "n": "Legislar y fiscalizar." },
+          { "t": "Acciones legislativas de prevención y protección de mujeres, niñas y adolescentes", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "gobierno": [
+          { "t": "Fiscalizar planes, obras y servicios metropolitanos en las parroquias rurales", "v": "alta", "n": "Fiscalización." }
+        ],
+        "movilidad": [
+          { "t": "Fortalecer el marco normativo de movilidad y dar seguimiento a la normativa de seguridad vial", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "economia": [
+          { "t": "Normas que incentiven economía local, empleo y turismo", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": []
+    },
+    {
+      "codFormulario": 5230,
+      "enfoque": "Plan corto de tres propuestas normativas concretas para las 33 parroquias rurales: indexar el Fondo de Desarrollo Rural, auditoría catastral y exención de la Contribución Especial de Mejoras.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Reforma al Código Municipal para indexar automáticamente el Fondo de Desarrollo Rural a la inflación; fiscalizar su reparto entre las 33 parroquias (año 2)", "v": "alta", "n": "Reformar el Código Municipal es atribución del Concejo; requiere mayoría." },
+          { "t": "Tablero trimestral público de ejecución del Fondo de Desarrollo Rural por parroquia", "v": "alta", "n": "Compromiso verificable." }
+        ],
+        "urbano": [
+          { "t": "Ordenanza de auditoría catastral rural, plazo máximo de 180-200 días para 'Regula tu barrio' y comisión técnica de fiscalización catastral (año 3)", "v": "alta", "n": "Catastro y regularización se regulan por ordenanza." }
+        ],
+        "movilidad": [
+          { "t": "Ordenanza que permita a las administraciones zonales usar materiales alternativos en vías rurales secundarias; fiscalizar 52 procesos de contratación paralizados", "v": "alta", "n": "Regular la vialidad metropolitana y fiscalizar contratos son atribuciones del Concejo." }
+        ],
+        "economia": [
+          { "t": "Ordenanza que exonere de la Contribución Especial de Mejoras a las obras rurales de presupuestos participativos y del fondo rural (año 2)", "v": "alta", "n": "El Concejo puede exonerar tributos municipales por ordenanza; reduce ingresos." }
+        ]
+      },
+      "metas": ["Tres ordenanzas o reformas con año de presentación (años 2 y 3); tablero trimestral del fondo rural."],
+      "notas": []
+    },
+    {
+      "codFormulario": 3823,
+      "enfoque": "Plan que lleva al Concejo las propuestas del plan de alcaldía de su movimiento: Ordenanza de Megacentralidades, mesas con los 33 GAD parroquiales y ruta hacia la cantonización.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Presentar el proyecto de Ordenanza del Sistema de Megacentralidades", "v": "alta", "n": "Iniciativa normativa en competencia metropolitana." },
+          { "t": "Mesas de trabajo con los 33 GAD parroquiales y fortalecimiento técnico de las juntas", "v": "alta", "n": "Articulación de bajo costo." },
+          { "t": "Cuatro informes de fiscalización, incluida la vialidad rural y sus convenios", "v": "alta", "n": "Fiscalización con meta verificable." },
+          { "t": "Plan de cantonización progresiva", "v": "baja", "n": "La creación de cantones la decide la Asamblea Nacional." }
+        ],
+        "seguridad": [
+          { "t": "Plan de seguridad rural y coordinación con Policía y Fiscalía contra la minería ilegal", "v": "media", "n": "La seguridad es nacional; el Concejo puede impulsar y fiscalizar." }
+        ],
+        "economia": [
+          { "t": "Plan de turismo rural y comunitario (Chocó Andino, Mitad del Mundo rural, Tumbaco, Los Chillos)", "v": "media", "n": "Lo ejecuta la Alcaldía; el concejal impulsa." }
+        ]
+      },
+      "metas": ["Proyecto de ordenanza presentado; mesas instaladas con los 33 GAD parroquiales; 4 informes de fiscalización."],
+      "notas": []
+    },
+    {
+      "codFormulario": 2895,
+      "enfoque": "Plan rural con programas para las 33 parroquias (inversión rural abierta, movilidad, servicios, cuidados) planteados como legislación, fiscalización y articulación, sin montos.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Unidad técnica de seguimiento a la inversión rural y Tablero Abierto de Inversión Rural en las 33 parroquias", "v": "media", "n": "El tablero es viable; crear la unidad depende del ejecutivo." }
+        ],
+        "movilidad": [
+          { "t": "'Conecta Quito Rural': estudios y priorización de corredores rurales", "v": "media", "n": "El concejal impulsa y fiscaliza; ejecuta la Alcaldía." }
+        ],
+        "servicios": [
+          { "t": "Agua, saneamiento y residuos en parroquias con brechas, con EPMAPS, BDE y cooperación", "v": "media", "n": "Fiscalizable; la ejecución corresponde a las empresas metropolitanas." }
+        ],
+        "social": [
+          { "t": "Red rural de cuidados, cultura, deporte e inclusión y prevención de desigualdades para mujeres", "v": "media", "n": "El concejal solo puede impulsarlo en el presupuesto." }
+        ]
+      },
+      "metas": ["El propio plan no consigna montos sin estudios de prefactibilidad; metas 'por definir'."],
+      "notas": []
+    },
+    {
+      "codFormulario": 7965,
+      "enfoque": "Plan con reformas al Código Municipal para la economía popular, simplificación y conservación de áreas rurales, cuyo texto OCR es en gran parte ilegible.",
+      "tabla": {
+        "economia": [
+          { "t": "Reforma al Código Municipal para fortalecer el ecosistema de apoyo a la economía popular y solidaria y a los pequeños negocios", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Espacios permanentes de diálogo entre el Municipio y el sector privado", "v": "alta", "n": "Representación de bajo costo." }
+        ],
+        "gobierno": [
+          { "t": "Reforma al Código Municipal para la simplificación administrativa", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Fiscalizar la inversión municipal en infraestructura, vialidad y agua potable rural", "v": "alta", "n": "Fiscalización." }
+        ],
+        "ambiente": [
+          { "t": "Reformas para la conservación de áreas rurales y de naturaleza", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["El plan menciona metas e indicadores para 2027-2031, pero el OCR no permite leerlos."],
+      "notas": ["El texto proviene de OCR de muy baja calidad; el resumen se limita a lo legible."]
+    },
+    {
+      "codFormulario": 6253,
+      "enfoque": "Plan estructurado por temas (seguridad, movilidad, economía, inclusión, ambiente) con la misma fórmula: canalizar necesidades rurales, fiscalizar e impulsar iniciativas normativas.",
+      "tabla": {
+        "seguridad": [
+          { "t": "Fiscalizar la gestión de seguridad ciudadana e impulsar normativa de prevención y uso seguro del espacio público", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "movilidad": [
+          { "t": "Iniciativas para movilidad inteligente, seguridad vial y optimización del transporte en parroquias rurales", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "economia": [
+          { "t": "Iniciativas para emprendimiento, mercados municipales y simplificación administrativa", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "social": [
+          { "t": "Fiscalizar la gestión de inclusión social, salud preventiva y deporte para grupos prioritarios", "v": "alta", "n": "Fiscalización." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": []
+    },
+    {
+      "codFormulario": 3214,
+      "enfoque": "Plan de representación de la ruralidad, comunas y pueblos: Ordenanza de Interculturalidad y Plurinacionalidad, sistema de equidad territorial rural y protección del suelo comunal.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Ordenanza Metropolitana de Interculturalidad y Plurinacionalidad y reconocimiento de comunas y sus gobiernos comunitarios", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Sistema Metropolitano de Equidad Territorial Rural y mayor participación rural en las decisiones metropolitanas", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "urbano": [
+          { "t": "Proteger suelo rural, agrícola y comunal frente a la expansión", "v": "alta", "n": "Uso del suelo es competencia metropolitana." }
+        ],
+        "ambiente": [
+          { "t": "Proteger agua, biodiversidad y quebradas", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "economia": [
+          { "t": "Fortalecer la economía popular y solidaria, la agroecología y la soberanía alimentaria", "v": "media", "n": "El concejal solo puede impulsarlo." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": []
+    },
+    {
+      "codFormulario": 4913,
+      "enfoque": "Plan breve por años (diagnóstico, implementación, ampliación, evaluación) con iniciativas de prevención, deporte y fiscalización; la matriz es poco legible.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Seguimiento de resultados y fiscalización de políticas, obras y servicios, con informes trimestrales", "v": "alta", "n": "Fiscalización." }
+        ],
+        "social": [
+          { "t": "Iniciativas de prevención en educación y promoción del deporte y la recreación", "v": "media", "n": "El concejal impulsa; ejecuta la Alcaldía." }
+        ],
+        "ambiente": [
+          { "t": "Campañas de esterilización y control de fauna", "v": "media", "n": "Programas que ejecuta la Alcaldía." }
+        ]
+      },
+      "metas": ["Mecanismos trimestrales de rendición de cuentas durante los cuatro años."],
+      "notas": ["El texto proviene de OCR y la matriz está desordenada."]
+    },
+    {
+      "codFormulario": 2643,
+      "enfoque": "Mismo esquema del movimiento Imparables en otros cantones: actualizar el marco normativo, fiscalización técnica anual y reformas al Código Municipal.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Revisar y reformar el Código Municipal; simplificación y mejora regulatoria", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Planificación anual de fiscalización de planes, programas, presupuestos y ordenanzas", "v": "alta", "n": "Fiscalización." }
+        ],
+        "urbano": [
+          { "t": "Actualizar la normativa de ordenamiento territorial y planificación metropolitana", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "movilidad": [
+          { "t": "Fiscalizar los planes de movilidad y promover mejoras normativas de accesibilidad", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "ambiente": [
+          { "t": "Ordenanzas para proteger ecosistemas estratégicos", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["El texto proviene de OCR."]
+    }
+  ]
+}

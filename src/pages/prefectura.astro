@@ -1,0 +1,47 @@
+---
+import Layout from '../layouts/Layout.astro';
+import CompareTable from '../components/CompareTable.astro';
+import Fichas from '../components/Fichas.astro';
+import { candidatos } from '../data/prefecto.js';
+import { temas, datos } from '../data/contexto.js';
+import { COMPETENCIAS } from '../data/dignidades.js';
+import raw from '../../data/raw/prefecto.json';
+
+const fuente = Object.fromEntries(raw.map((r) => [r.lista, r.fuente]));
+const lista = candidatos.map((c) => ({
+  ...c,
+  id: 'l' + c.lista.replace(/\W/g, ''),
+  titulo: c.prefecto,
+  subtitulo: `Vice: ${c.vice}`,
+  personas: [{ nombre: `${c.prefecto} (Prefecto/a)` }, { nombre: `${c.vice} (Viceprefecto/a)` }],
+  txt: `/textos/prefecto/${c.pdf.split('/').pop().replace('.pdf', '.txt')}`,
+  cne: fuente[c.lista] ?? c.cne,
+}));
+---
+
+<Layout title="Prefectura" activo="prefectura">
+  <h1>Prefectura de Pichincha</h1>
+  <p class="sub">{lista.length} binomios. {COMPETENCIAS.prefectura}</p>
+
+  <div class="kpis">
+    {datos.map((d) => (
+      <details class="kpi">
+        <summary><span class="k">{d.titulo}</span><span class="v">{d.valor}</span></summary>
+        <p>{d.detalle} <a href={d.url} target="_blank" rel="noopener">{d.fuente} ↗</a></p>
+      </details>
+    ))}
+  </div>
+
+  <CompareTable candidatos={lista} temas={temas} />
+  <Fichas candidatos={lista} temas={temas} />
+</Layout>
+
+<style>
+  .kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; margin: 0 0 20px; align-items: start; }
+  .kpi { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; }
+  .kpi summary { cursor: pointer; list-style: none; display: flex; flex-direction: column; }
+  .kpi summary::-webkit-details-marker { display: none; }
+  .kpi .k { font-size: 12px; color: var(--muted); }
+  .kpi .v { font-size: 14.5px; font-weight: 650; }
+  .kpi p { margin: 8px 0 0; font-size: 13px; color: var(--muted); }
+</style>

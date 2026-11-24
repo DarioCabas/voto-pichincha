@@ -1,0 +1,75 @@
+{
+  "canton": "SAN MIGUEL DE LOS BANCOS",
+  "candidatos": [
+    {
+      "codFormulario": 11030,
+      "enfoque": "Versión rural del plan de concejales de la alianza (formulario 11027): ordenanzas de suelo rural, protección hídrica y riesgos, y fiscalización de servicios y vialidad rural.",
+      "tabla": {
+        "urbano": [
+          { "t": "Revisar y armonizar la normativa de ordenamiento territorial, uso del suelo, planificación rural y fraccionamientos", "v": "alta", "n": "Uso del suelo se regula por ordenanza." }
+        ],
+        "movilidad": [
+          { "t": "Instrumentos normativos de conectividad y movilidad rural; fiscalizar caminos, drenajes y accesos comunitarios", "v": "alta", "n": "Legislar y fiscalizar; la vialidad rural es concurrente con la Prefectura." }
+        ],
+        "servicios": [
+          { "t": "Fiscalizar cobertura, calidad y sostenibilidad de agua, saneamiento y recolección en zonas rurales", "v": "alta", "n": "Fiscalización." }
+        ],
+        "ambiente": [
+          { "t": "Reformas para proteger fuentes hídricas, riberas, quebradas y áreas naturales; normativa de residuos", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Ordenanzas y resoluciones de prevención ante movimientos en masa e inundaciones rurales", "v": "alta", "n": "Riesgos es competencia municipal." }
+        ],
+        "economia": [
+          { "t": "Marcos normativos para turismo de naturaleza, producción local y emprendimientos comunitarios", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "gobierno": [
+          { "t": "Verificar que la inversión rural se articule con el PDOT, el PUGS y la disponibilidad presupuestaria", "v": "alta", "n": "Fiscalización." }
+        ]
+      },
+      "metas": ["Indicadores por programa sin valores meta."],
+      "notas": []
+    },
+    {
+      "codFormulario": 8068,
+      "enfoque": "Plan de dos ejes con ordenanzas de desarrollo rural, turismo, fuentes hídricas y control de sobrepoblación canina, y fiscalización del PDOT.",
+      "tabla": {
+        "economia": [
+          { "t": "Ordenanzas de fomento productivo rural para agricultores, ganaderos y asociaciones", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Ordenanzas de turismo rural y sostenible", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Espacios para comercializar productos agrícolas y artesanías", "v": "media", "n": "Los habilita la Alcaldía." }
+        ],
+        "ambiente": [
+          { "t": "Ordenanzas de protección de fuentes hídricas, bosques y biodiversidad; control de contaminación y ruido", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Política integral de prevención y control de la sobrepoblación canina", "v": "alta", "n": "Fauna urbana es competencia municipal regulable." }
+        ],
+        "gobierno": [
+          { "t": "Revisar tasas y contribuciones con criterios de equidad y capacidad económica", "v": "alta", "n": "Atribución del Concejo." },
+          { "t": "Fiscalizar el PDOT, el presupuesto y las decisiones del Concejo; silla vacía y audiencias", "v": "alta", "n": "Función directa del concejal." }
+        ],
+        "urbano": [
+          { "t": "Revisar los instrumentos de ordenamiento territorial para el uso del suelo rural", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 10862,
+      "enfoque": "Plan rural extenso que plantea la fiscalización como garantía y no como obstáculo, con revisión normativa participativa y equidad de inversión para Mindo y las parroquias.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Revisar y modernizar las ordenanzas y eliminar disposiciones obsoletas, con cabildos y audiencias previas a las de impacto cantonal", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Normativa que garantice una distribución equitativa de la inversión entre la cabecera y las parroquias rurales", "v": "alta", "n": "Iniciativa normativa y atribución presupuestaria." },
+          { "t": "Fiscalizar PDOT, POA, presupuesto y avance físico y financiero, priorizando Mindo y las parroquias", "v": "alta", "n": "Función directa del concejal." }
+        ],
+        "servicios": [
+          { "t": "Fiscalizar mantenimiento, recolección de residuos, mercados y cementerios", "v": "alta", "n": "Fiscalización de servicios municipales." }
+        ],
+        "economia": [
+          { "t": "Normativa que incentive la producción, el turismo de naturaleza y la inversión responsable; fiscalizar proyectos productivos", "v": "alta", "n": "Legislar y fiscalizar." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["El texto proviene de OCR."]
+    }
+  ]
+}

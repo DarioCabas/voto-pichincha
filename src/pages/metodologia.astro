@@ -1,0 +1,60 @@
+---
+import Layout from '../layouts/Layout.astro';
+import { escala, datos } from '../data/contexto.js';
+import { COMPETENCIAS } from '../data/dignidades.js';
+---
+
+<Layout title="Metodología">
+  <h1>Metodología</h1>
+  <p class="sub">Cómo se obtuvieron los planes, cómo se resumieron y qué significa cada nivel de viabilidad.</p>
+
+  <h2>Viabilidad</h2>
+  <ul class="esc">
+    {Object.entries(escala).map(([k, e]) => <li><i class={`dot ${k}`}></i><b>{e.label}.</b> {e.desc}</li>)}
+  </ul>
+
+  <h2>Qué puede hacer cada cargo (COOTAD)</h2>
+  <dl>
+    <dt>Prefectura</dt><dd>{COMPETENCIAS.prefectura}</dd>
+    <dt>Alcaldía</dt><dd>{COMPETENCIAS.alcaldia}</dd>
+    <dt>Concejales</dt><dd>{COMPETENCIAS.concejo}</dd>
+    <dt>Juntas parroquiales</dt><dd>{COMPETENCIAS.junta}</dd>
+  </dl>
+
+  <h2>Contexto público</h2>
+  <div class="ctx">
+    {datos.map((d) => (
+      <article>
+        <p class="k">{d.titulo}</p>
+        <p class="v">{d.valor}</p>
+        <p class="d">{d.detalle}</p>
+        <a href={d.url} target="_blank" rel="noopener">{d.fuente} ↗</a>
+      </article>
+    ))}
+  </div>
+
+  <h2>Proceso</h2>
+  <ol class="proc">
+    <li><b>Descarga.</b> Todos los planes salen del portal Voto Informado del CNE (proceso 140), descargados desde un navegador verificado por una persona. Cada PDF coincide con el hash MD5 que publica el CNE.</li>
+    <li><b>Texto.</b> Si el PDF tiene texto, se extrae directo; si es un escaneo, se lee con OCR (Tesseract en español). El texto completo de cada plan se puede consultar en su ficha.</li>
+    <li><b>Prefectura y alcaldías: resumen revisado.</b> Cada plan se leyó completo y se resumió por tema con su viabilidad justificada. Las cifras dudosas del OCR se verificaron contra la imagen.</li>
+    <li><b>Concejales: resumen revisado.</b> Se partió de las propuestas extraídas del texto de cada plan, se revisaron contra el documento y se dejaron solo los puntos clave de acción. La viabilidad se juzga según la función del concejal (COOTAD art. 57 y 58): presentar una ordenanza o fiscalizar es viabilidad alta; impulsar algo que ejecuta el alcalde, media; prometer construir una obra o un servicio, o algo de otro nivel de gobierno, baja. Cuando un plan copia el de otra lista o el de alcaldía, se indica en sus notas.</li>
+    <li><b>Juntas parroquiales: clasificación automática.</b> Se extraen las frases de propuesta del plan, se asignan a un tema por palabras clave y se califica la viabilidad con reglas según la función del cargo. Puede tener errores: ante la duda, abre el PDF.</li>
+  </ol>
+</Layout>
+
+<style>
+  .esc { list-style: none; padding: 0; display: grid; gap: 6px; }
+  .esc .dot { margin-right: 8px; }
+  dl { display: grid; grid-template-columns: max-content 1fr; gap: 8px 20px; max-width: 900px; }
+  dt { font-weight: 650; }
+  dd { margin: 0; color: var(--muted); }
+  .ctx { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
+  .ctx article { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px; }
+  .ctx p { margin: 0; }
+  .ctx .k { font-size: 12.5px; color: var(--muted); }
+  .ctx .v { font-weight: 650; margin: 2px 0 6px; }
+  .ctx .d { font-size: 13.5px; color: var(--muted); margin-bottom: 8px; }
+  .proc { max-width: 900px; display: grid; gap: 8px; padding-left: 20px; }
+  @media (max-width: 600px) { dl { grid-template-columns: 1fr; } dd { margin-bottom: 8px; } }
+</style>

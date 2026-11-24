@@ -1,0 +1,440 @@
+{
+  "canton": "PUERTO QUITO",
+  "contexto": [],
+  "candidatos": [
+    {
+      "codFormulario": 7220,
+      "enfoque": "Plan breve de doce ejes temáticos, cada uno con una lista de acciones de una línea, que pide priorizar según competencia y financiamiento.",
+      "estructura": "12 ejes · cronograma por líneas de acción 2027-2030",
+      "tabla": {
+        "servicios": [
+          {
+            "t": "Agua segura, saneamiento, residuos y limpieza",
+            "v": "alta",
+            "n": "Competencias municipales; sin metas ni montos."
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Vialidad, drenaje y mantenimiento de caminos",
+            "v": "media",
+            "n": "Lo urbano es municipal; los caminos rurales son de la Prefectura."
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Catastro digital, planificación territorial y recuperación de espacios públicos",
+            "v": "alta",
+            "n": "Competencias propias."
+          }
+        ],
+        "economia": [
+          {
+            "t": "Cacao, emprendimiento, ferias, asociaciones y transformación de productos",
+            "v": "media",
+            "n": "Fomento productivo concurrente con la Prefectura."
+          },
+          {
+            "t": "Ruta del Cacao, aviturismo, turismo comunitario, aventura, ciclismo y gastronomía",
+            "v": "alta",
+            "n": "Promoción turística local."
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "'Guardianes del Agua': reforestación, viveros, protección de ríos y economía circular",
+            "v": "alta",
+            "n": "Acciones de escala municipal."
+          },
+          {
+            "t": "Bienestar animal: censo, esterilización, adopción y red de protección",
+            "v": "alta",
+            "n": "Fauna urbana es competencia municipal."
+          }
+        ],
+        "social": [
+          {
+            "t": "Escuelas de arte y danza, música, teatro, murales, festivales y fortalecimiento de la marimba",
+            "v": "alta",
+            "n": "Cultura es atribución municipal."
+          },
+          {
+            "t": "Escuelas deportivas, recuperación de canchas, deporte femenino e inclusivo",
+            "v": "alta",
+            "n": "Escala municipal."
+          },
+          {
+            "t": "Convenios universitarios, becas, orientación vocacional y centro de estudios",
+            "v": "media",
+            "n": "La educación superior es nacional; depende de convenios."
+          },
+          {
+            "t": "Programa de juventud: liderazgo, emprendimiento, tecnología y participación",
+            "v": "alta",
+            "n": "Escala municipal."
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Prevención de riesgos",
+            "v": "alta",
+            "n": "Competencia municipal; el plan no la desarrolla."
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Gobierno abierto, presupuesto participativo, digitalización de trámites, seguimiento público de obras y tablero de indicadores",
+            "v": "alta",
+            "n": "Gestión interna."
+          },
+          {
+            "t": "'Municipio Digital', aulas comunitarias y conectividad",
+            "v": "media",
+            "n": "La conectividad depende de operadoras."
+          }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "No fija metas cuantitativas."
+      ],
+      "inversion": "Sin montos. El plan cita ingresos del presupuesto municipal 2025 de USD 11,99 M, con 64 % destinado a inversión.",
+      "primeros100": null,
+      "notas": [
+        "El texto proviene de OCR."
+      ]
+    },
+    {
+      "codFormulario": 8073,
+      "enfoque": "Plan en siete ejes con nombre de marca ('Puerto Quito Produce', 'Conecta', 'Vive', 'Seguro', 'Verde', 'Ordena', 'Transparente') y listas de proyectos sin cifras.",
+      "estructura": "7 ejes · unos 20 programas · cronograma por año",
+      "tabla": {
+        "servicios": [
+          {
+            "t": "Plan Maestro de Agua Potable y Alcantarillado ('Agua para Todos')",
+            "v": "alta",
+            "n": "Competencia municipal; sin monto."
+          },
+          {
+            "t": "Ampliar la recolección de residuos sólidos",
+            "v": "alta",
+            "n": "Competencia municipal."
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Mejoramiento vial urbano, aceras y bordillos",
+            "v": "alta",
+            "n": "Vialidad urbana es competencia exclusiva."
+          },
+          {
+            "t": "Convenios con la Prefectura para atender vías rurales",
+            "v": "media",
+            "n": "Competencia provincial."
+          }
+        ],
+        "economia": [
+          {
+            "t": "Red Agro Puerto Quito: centro de apoyo al productor de cacao, escuelas de buenas prácticas agrícolas",
+            "v": "media",
+            "n": "Fomento productivo concurrente."
+          },
+          {
+            "t": "Marca Puerto Quito, incubadora de mipymes, ferias y comercio digital",
+            "v": "alta",
+            "n": "Acciones de promoción de escala municipal."
+          },
+          {
+            "t": "Plan Cantonal de Turismo y fortalecimiento de rutas",
+            "v": "alta",
+            "n": "Promoción turística local."
+          }
+        ],
+        "social": [
+          {
+            "t": "Espacio juvenil, Consejo Cantonal de Protección de Derechos, brigadas sociales y atención a grupos prioritarios",
+            "v": "alta",
+            "n": "Atribuciones municipales."
+          },
+          {
+            "t": "Escuelas deportivas, agenda cultural, recuperación de parques y canchas",
+            "v": "alta",
+            "n": "Escala municipal."
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Mejorar cementerios y construir una sala de velaciones en la cabecera",
+            "v": "alta",
+            "n": "Cementerios son competencia municipal."
+          },
+          {
+            "t": "Regeneración urbana y Plan Maestro del Centro Urbano; obras básicas en centros poblados",
+            "v": "alta",
+            "n": "Espacio público y uso del suelo son competencias propias."
+          },
+          {
+            "t": "'Mi Predio Seguro': regularización de tierras y asentamientos, escrituración de unidades educativas y actualización catastral",
+            "v": "alta",
+            "n": "Catastro y regularización son competencias propias."
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Consejo Cantonal de Seguridad y cámaras de videovigilancia con Policía y ECU 911; iluminación estratégica",
+            "v": "media",
+            "n": "Seguridad es nacional; el municipio aporta equipos."
+          },
+          {
+            "t": "Gestionar más UPC con la Policía Nacional",
+            "v": "baja",
+            "n": "Decisión del Ministerio del Interior."
+          },
+          {
+            "t": "Gestión integral de riesgos: protocolos de emergencia y repotenciación de radios comunitarias",
+            "v": "alta",
+            "n": "Riesgos es competencia municipal."
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "'Guardianes del Chocó': restauración de riberas, reforestación, protección de fuentes y campañas contra incendios y agroquímicos",
+            "v": "alta",
+            "n": "Acciones de escala municipal."
+          },
+          {
+            "t": "Promover una mancomunidad del Chocó Andino y recuperar el Complejo Ambiental",
+            "v": "media",
+            "n": "La mancomunidad requiere acuerdo de otros cantones."
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Wi-Fi gratuito en el Parque Central y repotenciación de infocentros",
+            "v": "alta",
+            "n": "Costo bajo."
+          },
+          {
+            "t": "Banco Cantonal de Proyectos, gobierno digital, ventanilla única, portal de transparencia y presupuesto participativo",
+            "v": "alta",
+            "n": "Gestión interna."
+          },
+          {
+            "t": "Actualización del PDOT",
+            "v": "alta",
+            "n": "Obligación legal."
+          }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "No fija metas cuantitativas."
+      ],
+      "inversion": "Sin montos. Ejecución vía POA, PAI, cooperación y convenios.",
+      "primeros100": null,
+      "notas": [
+        "El texto proviene de OCR; las tablas de ejes se leen de forma fragmentada."
+      ]
+    },
+    {
+      "codFormulario": 4271,
+      "enfoque": "Plan corto con cuatro objetivos y metas numéricas acotadas (adoquinado, cobertura de agua, legalización de predios, cámaras), presentado sobre un presupuesto anual de unos USD 12 M.",
+      "estructura": "4 objetivos · metas e indicadores · cronograma semestral 2027-2031 · viabilidad legal y presupuestaria",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Adoquinar al menos 4 km de vías urbanas",
+            "v": "alta",
+            "n": "Competencia exclusiva y meta acotada frente a un presupuesto de unos USD 12 M."
+          },
+          {
+            "t": "Mantenimiento anual del parque automotor y apoyo a la vialidad rural por convenio y cogestión comunitaria",
+            "v": "media",
+            "n": "La vialidad rural es de la Prefectura."
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Ampliar la cobertura de agua potable en 10 % y la de alcantarillado en 8 %",
+            "v": "media",
+            "n": "Competencia propia; depende de crédito BDE y cooperación, que el plan menciona."
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Legalizar el 80 % de predios menores a 10.000 m² y entregar escrituras con valor social a 100 familias",
+            "v": "alta",
+            "n": "Catastro y regularización son competencias propias; requiere ordenanza."
+          },
+          {
+            "t": "Crear al menos 1 lotización social",
+            "v": "media",
+            "n": "Requiere suelo y financiamiento."
+          },
+          {
+            "t": "Construir o adecuar 10 espacios deportivos (canchas, techados, graderíos)",
+            "v": "alta",
+            "n": "Equipamientos de escala municipal."
+          }
+        ],
+        "economia": [
+          {
+            "t": "Al menos 8 ferias productivas y 200 productores en programas de incentivos nacionales (BanEcuador, BDE)",
+            "v": "alta",
+            "n": "Metas acotadas; el crédito depende de la banca pública."
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "10 capacitaciones sobre conservación de flora y fauna",
+            "v": "alta",
+            "n": "Costo bajo."
+          },
+          {
+            "t": "Repotenciar el Centro Veterinario 'Patitas Felices'",
+            "v": "alta",
+            "n": "Infraestructura existente; fauna urbana es competencia municipal."
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Cámaras en barrios de la cabecera y 20 recintos rurales, con centro de monitoreo municipal y convenio con la Policía",
+            "v": "media",
+            "n": "El municipio puede invertir en apoyo; la seguridad es nacional."
+          }
+        ],
+        "social": [
+          {
+            "t": "Repotenciar 3 infocentros y realizar 4 ferias culturales y turísticas al año",
+            "v": "alta",
+            "n": "Metas acotadas."
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Asamblea cantonal, audiencias públicas, veedurías, observatorio y presupuestos participativos",
+            "v": "alta",
+            "n": "Mecanismos legales."
+          }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "4 km de vías urbanas adoquinadas; agua potable +10 %; alcantarillado +8 %.",
+        "80 % de predios menores a 10.000 m² legalizados; 100 escrituras con valor social; 1 lotización social.",
+        "8 ferias productivas; 200 productores en programas nacionales; 10 capacitaciones ambientales.",
+        "Cámaras en la cabecera y 20 recintos; 10 espacios deportivos; 3 infocentros; 4 ferias culturales por año."
+      ],
+      "inversion": "Sin montos por proyecto. El plan estima el presupuesto anual municipal en unos USD 12 M y prioriza vialidad urbana, servicios básicos, espacios deportivos y seguridad.",
+      "primeros100": null,
+      "notas": [
+        "El diagnóstico describe obras y adquisiciones realizadas por la administración municipal en curso (maquinaria por más de USD 1,1 M para el Plan Vial Quinquenal)."
+      ]
+    },
+    {
+      "codFormulario": 1983,
+      "enfoque": "Plan en siete ejes que prioriza alcantarillado y agua en los 98 recintos, cadenas de café y cacao y una extensión universitaria, apoyado en gestión ante otros niveles.",
+      "estructura": "7 ejes · 15 líneas con acciones · plan plurianual anual referencial · fuentes de financiamiento",
+      "tabla": {
+        "servicios": [
+          {
+            "t": "Diagnóstico y alcantarillado sanitario por etapas en los 98 recintos, gestionado ante Prefectura, MIDUVI y SENAGUA",
+            "v": "media",
+            "n": "Competencia municipal, pero la escala rural es grande y depende de recursos de otros niveles."
+          },
+          {
+            "t": "Plantas de potabilización, cloración y filtración en sistemas comunitarios y capacitación a juntas de agua",
+            "v": "alta",
+            "n": "Competencia municipal; acciones escalables."
+          }
+        ],
+        "social": [
+          {
+            "t": "Centro de Atención al Adulto Mayor gestionado con el MIES",
+            "v": "media",
+            "n": "Depende de financiamiento del MIES."
+          },
+          {
+            "t": "Brigadas de salud itinerantes en los 98 recintos y unidades móviles",
+            "v": "media",
+            "n": "La salud es del MSP; requiere convenio."
+          },
+          {
+            "t": "Gestionar un centro de prevención de consumo de drogas para jóvenes ante el MSP; programas de tiempo libre",
+            "v": "media",
+            "n": "Depende del MSP."
+          },
+          {
+            "t": "Gestionar una extensión universitaria pública (CES, SENESCYT, UCE, ESPE, UTN) con infraestructura municipal",
+            "v": "baja",
+            "n": "La creación depende del CES y de las universidades; el municipio solo aporta espacio."
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Gestionar más policías y UPC; alarmas comunitarias y redes de vigilancia vecinal",
+            "v": "media",
+            "n": "El pie de fuerza es decisión nacional; las alarmas sí son viables."
+          },
+          {
+            "t": "Fortalecer la Policía Municipal y prevenir el reclutamiento juvenil por el crimen organizado",
+            "v": "media",
+            "n": "Acciones de apoyo dentro del rol municipal."
+          }
+        ],
+        "economia": [
+          {
+            "t": "Plan de Desarrollo Turístico 2027-2031, comité de turismo, senderos y señalética, marca 'Paraíso de la Biodiversidad'",
+            "v": "alta",
+            "n": "Promoción turística local."
+          },
+          {
+            "t": "Planes Café y Cacao: asociaciones, centros de acopio, despulpadoras, secadoras y miniplantas de fermentación",
+            "v": "media",
+            "n": "Fomento productivo concurrente con MAG y Prefectura."
+          },
+          {
+            "t": "Kits productivos agrícolas, pecuarios, piscícolas y gastronómicos con asistencia técnica",
+            "v": "media",
+            "n": "Programa social-productivo; requiere convenios con MAG, MIES y BanEcuador."
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Plan de Recuperación del río Caoní: diagnóstico, revegetación de riberas y monitoreo participativo",
+            "v": "media",
+            "n": "Depende de fondos de cooperación (GEF, BID)."
+          },
+          {
+            "t": "Reforestar 2.000 hectáreas en cuencas críticas con viveros municipales y comunitarios",
+            "v": "media",
+            "n": "Meta ambiciosa; se apoya en el programa nacional del MAATE."
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Digitalizar los trámites más frecuentes, gestión documental integrada e informes trimestrales de avance",
+            "v": "alta",
+            "n": "Gestión interna."
+          },
+          {
+            "t": "Oficina de Participación Ciudadana y Rendición de Cuentas",
+            "v": "alta",
+            "n": "Decisión administrativa."
+          }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "2.000 hectáreas reforestadas en cuencas críticas.",
+        "Cobertura ampliada de alcantarillado y agua potable en la mayoría de recintos priorizados al año 4 (sin porcentaje).",
+        "Año 1: diagnóstico de agua y saneamiento en los 98 recintos; apertura del Centro de Atención al Adulto Mayor; brigadas de salud itinerantes; digitalización de trámites frecuentes; Oficina de Participación Ciudadana."
+      ],
+      "inversion": "Sin montos. Fuentes: presupuesto municipal, Prefectura, ministerios, cooperación internacional (BID, CAF, GEF, UE, AECID, ONU), BanEcuador y CFN, sector privado.",
+      "primeros100": null,
+      "notas": [
+        "El texto proviene de OCR; la tabla del plan plurianual de inversión es parcialmente ilegible."
+      ]
+    }
+  ]
+}

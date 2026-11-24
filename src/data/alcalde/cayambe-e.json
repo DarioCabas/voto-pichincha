@@ -1,0 +1,154 @@
+{
+  "canton": "CAYAMBE",
+  "contexto": [],
+  "candidatos": [
+    {
+      "codFormulario": 2022,
+      "enfoque": "Plan técnico de ocho ejes, con responsables, articulaciones, plazos, fuentes de financiamiento e indicadores por proyecto; distingue las acciones municipales de las que requieren convenio, gestión ante otra entidad o factibilidad previa.",
+      "estructura": "8 ejes estratégicos · matriz consolidada de proyectos 2027-2031 · clasificación de ejecución A-D",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Plan Integral de Movilidad, semaforización inteligente, aceras y cruces seguros, rutas y frecuencias, ciclovía, terminal y gestión de conexión con E35",
+            "v": "media",
+            "n": "Tránsito es municipal; la conexión con la E35 depende del MTOP."
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Plan Maestro de Alcantarillado, renovación de redes, saneamiento comunitario, tratamiento de aguas residuales, fortalecimiento de 75 prestadores comunitarios y seguridad hídrica",
+            "v": "media",
+            "n": "Agua y alcantarillado son competencia municipal; obra de escala sin monto declarado. Incluye apoyo a 75 prestadores comunitarios."
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Cayambe Circular, compostaje, vivero municipal, recuperación de ríos y quebradas, restauración de páramos, prevención de incendios y plan multiamenaza",
+            "v": "alta",
+            "n": "Residuos, ambiente local y riesgos son competencias municipales."
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Actualizar PDOT-PUGS y catastro multifinalitario; regularizar asentamientos viables, regeneración urbana y parroquial, vivienda piloto y solución para quebrada Yaznán sujeta a estudios",
+            "v": "alta",
+            "n": "Uso del suelo, catastro y regularización son competencias propias. La solución de la quebrada Yaznán queda sujeta a estudios."
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Comité y Plan de Seguridad y Convivencia, Centro Municipal de Monitoreo 24/7, drones y sala espejo ECU 911; rutas de protección, deporte y Centro Vida Digna",
+            "v": "media",
+            "n": "La seguridad ciudadana es nacional; el municipio coordina y aporta equipos y espacio público."
+          }
+        ],
+        "social": [
+          {
+            "t": "Centro Histórico, Puntiatzil, Nevado, rutas, Casona de Pesillo, Plaza de Toros, museo, Marca Cayambe y aplicación turística",
+            "v": "alta",
+            "n": "Patrimonio y promoción turística son atribuciones municipales."
+          }
+        ],
+        "economia": [
+          {
+            "t": "Producción florícola sostenible, cadena láctea y Ruta de la Leche, agroecología, bioplazas, mercados, camal, centro de innovación y polo logístico sujeto a estudios",
+            "v": "media",
+            "n": "El fomento productivo es concurrente con Prefectura y MAG; el municipio facilita. El camal y los mercados son municipales."
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Gobierno por Resultados, Banco de Proyectos, Ventanilla Única, sistema de integridad, fortalecimiento de empresas públicas y estudios para nuevas empresas",
+            "v": "alta",
+            "n": "Gestión interna de bajo costo."
+          }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "Actualizar PDOT-PUGS entre 2027 y 2028; diagnóstico de catastro en 2027 y actualización por fases entre 2028 y 2030.",
+        "Identificar y clasificar 90 % de asentamientos; regularizar los casos técnicamente viables.",
+        "Plan de alcantarillado: estudios y financiamiento en 2027 y ejecución entre 2028 y 2031.",
+        "Fondo Cantonal del Agua: estudio jurídico-financiero en 2027 e implementación desde 2028 solo si resulta viable.",
+        "Los demás proyectos plantean indicadores de seguimiento —cobertura, calidad, obras, kilómetros, usuarios o áreas intervenidas— sin una cifra final única."
+      ],
+      "inversion": "Declara fuentes por proyecto: presupuesto municipal, empresa de agua, BDE, cooperación, convenios, tasas y alianzas legalmente procedentes; no presenta un monto total.",
+      "primeros100": null,
+      "detalle": [
+        {
+          "titulo": "Eje 1 · Agua, saneamiento y seguridad hídrica",
+          "items": [
+            "Plan Maestro de Alcantarillado de Cayambe; agua potable segura y renovación de redes urbanas.",
+            "Saneamiento para parroquias y comunidades; tratamiento de aguas residuales y recuperación sanitaria de cuerpos receptores.",
+            "Fortalecer 75 prestadores comunitarios de agua con diagnóstico, cloración y planes de mejora.",
+            "Plan Cantonal de Seguridad Hídrica y protección de fuentes.",
+            "Estudiar y, si es viable, implementar Fondo Cantonal del Agua."
+          ]
+        },
+        {
+          "titulo": "Eje 2 · Ordenamiento territorial, vivienda y desarrollo urbano",
+          "items": [
+            "Actualizar y aplicar PDOT-PUGS; catastro urbano-rural digital, georreferenciado y multifinalitario.",
+            "Regularizar asentamientos y construcciones técnicamente viables; proteger suelo agroproductivo y transición urbano-rural.",
+            "Programa plurianual de regeneración urbana y parroquial; regeneración 13 de Abril-Juan Montalvo; veredas, parque, ornato y centralidad de Ascázubi.",
+            "Gestionar vivienda digna y proyectos piloto según suelo, demanda, riesgo y financiamiento.",
+            "Estudiar embovedado o solución integral para quebrada Yaznán y ejecutar solo si la factibilidad la aprueba."
+          ]
+        },
+        {
+          "titulo": "Eje 3 · Movilidad, vialidad y conectividad",
+          "items": [
+            "Actualizar Plan Integral de Movilidad y Plan Vial Urbano.",
+            "Semaforización inteligente y señalización urbana; red de aceras, cruces seguros y accesibilidad universal.",
+            "Estudiar y reorganizar rutas, frecuencias y cobertura de transporte.",
+            "Paradas inteligentes y recuperación de ciclovía; repotenciación del Terminal Terrestre según diagnóstico y modelo.",
+            "Gestionar intervenciones en avenida Víctor Cartagena y conexión con E35 con MTOP y concesionario; vialidad rural por convenio con Prefectura y GAD parroquiales."
+          ]
+        },
+        {
+          "titulo": "Eje 4 · Desarrollo productivo, innovación y empleo",
+          "items": [
+            "Registro e información productiva cantonal.",
+            "Floricultura sostenible y apoyo a pequeños productores; cadena láctea y Ruta de la Leche Ayora-Olmedo.",
+            "Agricultura familiar, agroecología, bioplazas y seguridad alimentaria.",
+            "Modernizar mercados y ferias; fortalecer y modernizar Camal Municipal.",
+            "Estudiar recinto ferial permanente en E35 y uso comercial, cultural y gastronómico de antigua estación del tren.",
+            "Centro de Innovación, Emprendimiento y Valor Agregado; estudios para polo industrial, agroindustrial y logístico de Ascázubi-Cusubamba y para zona franca o régimen especial."
+          ]
+        },
+        {
+          "titulo": "Eje 5 · Ambiente, economía circular y gestión de riesgos",
+          "items": [
+            "Cayambe Circular: gestión integral de residuos; sistema municipal de compostaje de orgánicos y vivero municipal forestal, ornamental y hortícola.",
+            "Ríos y Quebradas Vivas; restauración de páramos, fuentes y zonas de recarga; gestión de frontera agrícola y ecosistemas estratégicos.",
+            "Gestión de residuos productivos y florícolas.",
+            "Cayambe Preparado: Plan Cantonal Multiamenaza y gestión técnica de riesgos volcánico y sísmico.",
+            "Red Cantonal de Prevención de Incendios Forestales."
+          ]
+        },
+        {
+          "titulo": "Eje 6 · Seguridad, convivencia, deporte, inclusión y protección social",
+          "items": [
+            "Comité Cantonal Permanente y Plan de Seguridad y Convivencia.",
+            "Centro Municipal de Monitoreo 24/7, drones y sala espejo ECU 911, con convenios y protocolos de datos.",
+            "Barrios seguros, rutas de protección, deporte y Centro Vida Digna."
+          ]
+        },
+        {
+          "titulo": "Eje 7 · Cultura, turismo, patrimonio e identidad",
+          "items": [
+            "Centro Histórico, Puntiatzil, Nevado, rutas, Casona de Pesillo, Plaza de Toros, museo, Marca Cayambe y aplicación turística."
+          ]
+        },
+        {
+          "titulo": "Eje 8 · Gobierno eficiente, transparente, digital y participativo",
+          "items": [
+            "Gobierno por Resultados, Banco de Proyectos, Ventanilla Única, SIL y sistema de integridad.",
+            "Fortalecer empresas públicas y realizar estudios para nuevas empresas."
+          ]
+        }
+      ],
+      "notas": []
+    }
+  ]
+}

@@ -1,0 +1,185 @@
+{
+  "canton": "MEJIA",
+  "contexto": [],
+  "candidatos": [
+    {
+      "codFormulario": 8660,
+      "enfoque": "Plan en seis ejes con proyectos de agua de gran escala (Puichig, Nieves Toma), minicentrales hidroeléctricas en alianza público-privada y un parque de valorización de residuos.",
+      "estructura": "6 ejes · 34 propuestas numeradas con estrategias y resultados esperados",
+      "tabla": {
+        "servicios": [
+          { "t": "Revisar y ejecutar el proyecto de agua Puichig para Machachi, El Murco, Tambillo y Uyumbicho con dos subsistemas nuevos", "v": "media", "n": "Competencia municipal vía EPAAGE-Mejía, que ejecutó el 60,39 % de su inversión en agua en 2025; obra mayor sin monto." },
+          { "t": "Proyecto Nieves Toma: nueva conducción desde los Illinizas para El Chaupi, Aloasí, Alóag y Cutuglagua", "v": "media", "n": "Requiere adjudicación de agua y crédito; el plan no da costo." },
+          { "t": "Nuevas adjudicaciones de agua con proyección a 30 años, reemplazo de tuberías obsoletas y entubado de canales de riego", "v": "media", "n": "Las adjudicaciones dependen del ente rector del agua; el riego es competencia de la Prefectura." }
+        ],
+        "ambiente": [
+          { "t": "Parque de tratamiento y valorización de residuos, con cierre técnico del relleno saturado y producción de compost, biol y bioenergía", "v": "media", "n": "Los residuos son competencia municipal; la inversión de 2024 se ejecutó solo al 33,68 %." },
+          { "t": "Red cantonal de alerta temprana con sensores en ríos y quebradas junto al INAMHI; reforestación masiva con especies nativas", "v": "alta", "n": "Gestión de riesgos es competencia municipal y la escala es acotada." },
+          { "t": "Sello 'Finca Verde y Sostenible' para productores con tratamiento de aguas e insumos orgánicos", "v": "alta", "n": "Certificación municipal de bajo costo." }
+        ],
+        "otros": [
+          { "t": "Minicentrales hidroeléctricas en alianza público-privada para abaratar la planilla eléctrica y vender excedentes", "v": "baja", "n": "La generación y tarifa eléctrica son de regulación nacional; el municipio ya administra la central La Calera, que ejecutó el 31,58 % de su inversión en 2025." }
+        ],
+        "movilidad": [
+          { "t": "Plan Maestro Vial Mejía 2027-2042: inventario georreferenciado, aforos de tráfico y mantenimiento preventivo", "v": "alta", "n": "Instrumento de planificación de competencia propia." }
+        ],
+        "urbano": [
+          { "t": "Actualizar el PDOT y el PUGS con participación; delimitar áreas agrícolas, industriales, urbanas y de conservación", "v": "alta", "n": "Competencias propias." },
+          { "t": "Programa 'Mejía crece con orden' para integrar asentamientos y modelo de ciudad compacta; catastro modernizado", "v": "alta", "n": "Uso del suelo y catastro son competencias propias." },
+          { "t": "Ciudadela deportiva, recuperación de espacios públicos y Plaza de la Cultura Chagra por alianza público-privada", "v": "media", "n": "Competencia municipal; depende de socios privados no identificados." }
+        ],
+        "social": [
+          { "t": "'Barrios vivos, seguros y conectados': puntos calientes y corredores seguros con las entidades de seguridad", "v": "media", "n": "La seguridad es nacional; el municipio coordina." },
+          { "t": "'Jóvenes con futuro', 'Mujeres rurales resilientes', bolsa de empleo modernizada y campaña de fauna urbana", "v": "alta", "n": "Programas de escala municipal." }
+        ],
+        "economia": [
+          { "t": "Agencia de Desarrollo Económico de Mejía y Centro de Distribución Cantonal de Agroalimentos (acopio, empaque, almacenamiento)", "v": "media", "n": "El centro requiere inversión y modelo de gestión no detallados." },
+          { "t": "Ordenanza de incentivos tributarios: reducción de patentes e impuestos a empresas con empleo local y producción circular", "v": "media", "n": "El municipio puede hacerlo por ordenanza, pero reduce ingresos propios." },
+          { "t": "Turismo: guías comunitarios certificados, turismo ecuestre, miradores, App 'Mejía ante el Mundo', fiesta del chagra y festival de la danza", "v": "alta", "n": "Promoción turística y cultural local." },
+          { "t": "Iniciar ante la UNESCO la declaratoria del bosque nublado de Tandapi como reserva de biosfera", "v": "media", "n": "El trámite se canaliza por el Gobierno nacional; el municipio puede impulsarlo." }
+        ],
+        "gobierno": [
+          { "t": "Transmisión en vivo del Concejo, silla vacía y despacho del alcalde una vez al mes en cada parroquia", "v": "alta", "n": "Compromisos de bajo costo." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas; los resultados esperados son cualitativos."],
+      "inversion": "Sin montos. Menciona alianzas público-privadas y venta de excedentes de energía como fuente de recursos propios.",
+      "primeros100": null,
+      "notas": ["El texto extraído tiene errores de codificación en tildes y eñes; se corrigieron al redactar."]
+    },
+    {
+      "codFormulario": 1967,
+      "enfoque": "Plan 'Mejía Unida' centrado en cultura ciudadana, red de parroquias y gobierno abierto, con actividades enunciadas y metas como índices.",
+      "estructura": "2 programas estratégicos · 4 proyectos · objetivos de corto, mediano y largo plazo",
+      "tabla": {
+        "movilidad": [
+          { "t": "Plan Vial Rural Mejía: mantenimiento, lastrado y drenaje permanente de vías que conectan las parroquias, priorizando rutas productivas", "v": "media", "n": "La vialidad rural es competencia de la Prefectura; el municipio necesita convenio." }
+        ],
+        "servicios": [
+          { "t": "'Agua y Saneamiento para Todos' en parroquias que aún no tienen el servicio", "v": "media", "n": "Competencia municipal vía EPAAGE-Mejía; sin meta ni monto." }
+        ],
+        "urbano": [
+          { "t": "'Espacio Público Vivo y Seguro': recuperar parques, canchas y espacios comunitarios en la cabecera y parroquias", "v": "alta", "n": "Competencia municipal." }
+        ],
+        "economia": [
+          { "t": "Modernizar la feria ganadera, ferias directas y asociatividad de productores lácteos, agrícolas y florícolas", "v": "media", "n": "Ferias son municipales; el fomento productivo es concurrente." },
+          { "t": "Turismo chagra: circuitos hacia Cotopaxi, Illinizas y Rumiñahui, señalización y alianzas con haciendas", "v": "alta", "n": "Promoción turística local." },
+          { "t": "Formación para el emprendimiento agropecuario, industrial y turístico", "v": "alta", "n": "Capacitación de bajo costo." }
+        ],
+        "ambiente": [
+          { "t": "Proteger páramos y fuentes, reforestar y fortalecer la gestión de riesgos frente al Cotopaxi, deslizamientos e inundaciones", "v": "alta", "n": "Gestión de riesgos es competencia municipal." }
+        ],
+        "social": [
+          { "t": "Organización comunitaria, redes de voluntariado, campañas de integridad, alfabetización digital y redes de cuidado para grupos prioritarios", "v": "alta", "n": "Programas de bajo costo." },
+          { "t": "Fortalecer la identidad chagra, memoria colectiva, fiestas y tradiciones", "v": "alta", "n": "Cultura es atribución municipal." }
+        ],
+        "gobierno": [
+          { "t": "Plataforma de Gobierno Abierto, cabildos por parroquia, veedurías y trazabilidad digital de trámites y obras", "v": "alta", "n": "Mecanismos de bajo costo." },
+          { "t": "Simplificación administrativa, digitalización de trámites, atención itinerante en parroquias y mérito del personal", "v": "alta", "n": "Gestión interna." }
+        ],
+        "seguridad": [],
+        "otros": []
+      },
+      "metas": ["No fija metas cuantitativas: los indicadores son índices de confianza y desarrollo sin línea base ni valor meta."],
+      "inversion": "Sin montos.",
+      "primeros100": null,
+      "notas": ["La estructura y buena parte de la redacción coinciden con el plan de la misma organización (lista 79) para Pedro Vicente Maldonado."]
+    },
+    {
+      "codFormulario": 10925,
+      "enfoque": "Plan con diagnóstico participativo por parroquia y una matriz de metas que, en su mayoría, consisten en elaborar planes o proyectos con plazo por año de gestión.",
+      "estructura": "5 ejes · 9 objetivos · matriz plurianual de unas 40 metas con año de cumplimiento",
+      "tabla": {
+        "ambiente": [
+          { "t": "Plan de recuperación y protección de quebradas en el primer año; proyecto de protección de fuentes 'sistemas de vida' hasta el tercer año", "v": "alta", "n": "Instrumentos de planificación de bajo costo." },
+          { "t": "Repotenciar la planta de tratamiento de lixiviados en el segundo y tercer año", "v": "alta", "n": "Infraestructura existente de residuos, competencia municipal." },
+          { "t": "Fondo Verde (años 3 y 4) y proyecto para delimitar la frontera agrícola", "v": "media", "n": "El fondo requiere aportes de terceros." },
+          { "t": "Proyecto 'Pet Friendly', esterilización masiva anual de perros callejeros y ordenanza de bienestar animal en el primer año", "v": "alta", "n": "Fauna urbana es competencia municipal." }
+        ],
+        "servicios": [
+          { "t": "Actualizar los planes maestros de agua potable y saneamiento con la empresa de agua y las juntas", "v": "alta", "n": "Competencia propia." }
+        ],
+        "social": [
+          { "t": "Red 'Casa del Sabio' para adultos mayores y geolocalizador para adultos mayores en el tercer año", "v": "media", "n": "Depende de convenios con el MIES." },
+          { "t": "Plan de prácticas juveniles y un Centro Especializado en Tratamiento de Alcohol y Drogas (CETAD) hasta el cuarto año", "v": "baja", "n": "Los CETAD son del MSP; el municipio no tiene esa competencia." },
+          { "t": "'Red de las Generaciones' y formación de líderes comunitarios", "v": "alta", "n": "Programas de bajo costo." }
+        ],
+        "seguridad": [
+          { "t": "Plan de seguridad 'Mi Barrio Seguro' en el segundo año y app de gestión en el tercero", "v": "media", "n": "El municipio coordina; la seguridad es nacional." }
+        ],
+        "economia": [
+          { "t": "Plan para Agencias de Desarrollo Económico Local, banco de productos cantonal y plan de producción agrosaludable", "v": "media", "n": "Fomento productivo concurrente." },
+          { "t": "Plan turístico 'Travesía activa de los 9 volcanes' y rutas ciclísticas cantonales", "v": "alta", "n": "Promoción turística local." },
+          { "t": "Fortalecer mercados de productores y de animales y los cementerios", "v": "alta", "n": "Mercados y cementerios son competencia municipal." }
+        ],
+        "urbano": [
+          { "t": "Regularización de barrios, líneas de fábrica y construcciones en el primer año; fortalecer el PUGS", "v": "alta", "n": "Competencias propias." }
+        ],
+        "movilidad": [
+          { "t": "Mantenimiento vial permanente y gestión de movilidad y tránsito", "v": "alta", "n": "Vialidad urbana y tránsito son competencias municipales." }
+        ],
+        "gobierno": [
+          { "t": "Certificación antisoborno ISO 37001 por convenio", "v": "alta", "n": "Decisión administrativa de costo moderado." },
+          { "t": "Reorganizar la estructura municipal sin aumentar la masa salarial; plan de mejora de procesos y 'Mejía Digital'", "v": "alta", "n": "Gestión interna." },
+          { "t": "Entidad colaboradora para profesionales del desarrollo urbano; presupuestos participativos; sistema de denuncias ciudadanas", "v": "alta", "n": "Mecanismos de bajo costo." }
+        ],
+        "otros": []
+      },
+      "metas": ["Las metas son elaborar planes, proyectos u ordenanzas en un año determinado de gestión; casi ninguna fija un resultado medible en el territorio."],
+      "inversion": "Sin montos. Financiamiento con fondos propios, convenios con Prefectura, ministerios y cooperación.",
+      "primeros100": null,
+      "notas": ["Una meta de residuos menciona plazo 'hasta diciembre del 2025', anterior al período de gestión; parece arrastrada de un plan previo."]
+    },
+    {
+      "codFormulario": 1372,
+      "enfoque": "Plan por competencias del COOTAD con obras viales con nombre de tramo, proyectos de agua y regeneración urbana de cabeceras parroquiales.",
+      "estructura": "15 líneas por competencia · banco de proyectos priorizados · planes complementarios (PUGS, movilidad, turismo) · articulación multinivel",
+      "tabla": {
+        "movilidad": [
+          { "t": "Continuar el asfaltado del tramo Guitig–El Pedregal; mantenimiento de San Alfonso–San Agustín, Miraflores (Tambillo)–La Libertad (Alóag) y El Murco–La Tesalia", "v": "media", "n": "Varios tramos son rurales y requieren convenio con la Prefectura." },
+          { "t": "Asfaltado, cunetas y veredas de las principales vías de la cabecera y mantenimiento de asfaltos y adoquinados", "v": "alta", "n": "Vialidad urbana es competencia exclusiva." },
+          { "t": "Estudios y gestión del paso lateral El Rosal–Tambillo", "v": "media", "n": "Obra de conexión con la red estatal; el plan solo compromete los componentes municipales." },
+          { "t": "Terminal terrestre en la cabecera, frecuencias de transporte a sectores apartados con la ANT y matriculación más ágil", "v": "media", "n": "Tránsito es competencia municipal; las frecuencias interprovinciales dependen de la ANT." }
+        ],
+        "servicios": [
+          { "t": "Finalizar el proyecto de agua potable Puichig y dotar de agua potable a Cutuglagua", "v": "media", "n": "Competencia municipal vía EPAAGE-Mejía; obras de gran escala sin monto." },
+          { "t": "Construir y mantener plantas de tratamiento de aguas residuales; cambio de tuberías y nuevos alcantarillados", "v": "media", "n": "Competencia propia; depende de crédito." },
+          { "t": "Capacitación permanente y gobernanza colaborativa con juntas de agua", "v": "alta", "n": "Costo bajo." }
+        ],
+        "ambiente": [
+          { "t": "Nuevo predio para disposición final de residuos y programa de gestión de residuos con economía circular", "v": "media", "n": "Competencia municipal; requiere licencia y financiamiento." },
+          { "t": "Protección de cuencas, quebradas y acequias; ordenanzas de protección ambiental; gestión de riesgos con enfoque de cambio climático", "v": "alta", "n": "Competencias municipales." }
+        ],
+        "urbano": [
+          { "t": "Regeneración integral del centro de Machachi; 'Cutuglagua Vivo' con parque lineal y centro cultural; regeneración de Alóag y Tandapi; centralidad turística El Chaupi", "v": "media", "n": "Espacio público es competencia propia; son varias obras grandes en paralelo y sin monto." },
+          { "t": "Vivienda de interés social en Cutuglagua–Uyumbicho, condicionada a suelo y financiamiento", "v": "media", "n": "Depende del MIDUVI y del financiamiento." },
+          { "t": "Recuperar el patrimonio arquitectónico municipal y rehabilitar la ex escuela Mariano Negrete", "v": "alta", "n": "Patrimonio es competencia municipal." },
+          { "t": "Nuevos espacios verdes y mantenimiento de casas barriales y canchas", "v": "alta", "n": "Competencia municipal." }
+        ],
+        "economia": [
+          { "t": "Nuevo camal municipal con estándares de calidad e higiene", "v": "media", "n": "Competencia municipal; requiere inversión." },
+          { "t": "Capacitación permanente a emprendedores, agricultores y ganaderos; promoción turística, marca cantonal y vías para ciclismo y caminata", "v": "alta", "n": "Acciones de escala municipal." }
+        ],
+        "social": [
+          { "t": "Coordinar con el MINEDUC la finalización de la Unidad Educativa Alóag y nuevos bloques de aulas", "v": "media", "n": "La infraestructura educativa puede construirla el municipio por convenio; la gestión es del MINEDUC." },
+          { "t": "Coordinar con el MSP el nuevo hospital básico de Machachi; brigadas médicas vía Acción Social municipal", "v": "baja", "n": "El hospital depende del MSP." },
+          { "t": "Política cultural cantonal participativa y espacios culturales", "v": "alta", "n": "Escala municipal." }
+        ],
+        "seguridad": [
+          { "t": "Centro integrado de seguridad en el predio de Las Pesas (Tambillo), cámaras y alarmas comunitarias, y nuevos agentes de control", "v": "media", "n": "El municipio puede invertir en apoyo; la seguridad es nacional." }
+        ],
+        "gobierno": [
+          { "t": "Automatizar trámites, fortalecer la unidad de cooperación internacional para fondos no reembolsables y mejorar la atención ciudadana", "v": "alta", "n": "Gestión interna." }
+        ],
+        "otros": []
+      },
+      "metas": ["El plan presenta metas e indicadores por proyecto, pero la tabla es ilegible en el OCR."],
+      "inversion": "Sin montos legibles. Fuentes: recursos propios, transferencias, BDE, cooperación internacional y donaciones.",
+      "primeros100": null,
+      "notas": [
+        "El texto proviene de OCR y varias páginas del PDF están escaneadas al revés; esos tramos se reconstruyeron invirtiendo el texto y pueden tener errores.",
+        "La sección de metas e indicadores no es legible."
+      ]
+    }
+  ]
+}

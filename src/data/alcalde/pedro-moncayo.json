@@ -1,0 +1,585 @@
+{
+  "canton": "PEDRO MONCAYO",
+  "contexto": [],
+  "candidatos": [
+    {
+      "codFormulario": 7862,
+      "enfoque": "Plan por líneas de gestión en ocho ejes, que difiere metas físicas y montos a los estudios, al POA y al presupuesto anual.",
+      "estructura": "8 ejes · 49 líneas de acción · matriz plurianual por fases (2027-2031) · enfoque por parroquia",
+      "tabla": {
+        "servicios": [
+          {
+            "t": "Plan cantonal del ciclo del agua: fuentes, captación, reserva, distribución, control de pérdidas, alcantarillado y tratamiento de aguas residuales",
+            "v": "alta",
+            "n": "Agua y saneamiento son competencia municipal, ejecutada con EP-EMASA-PM; el plan no fija cobertura ni monto."
+          },
+          {
+            "t": "Cartera priorizada de proyectos de agua y alcantarillado por parroquia, con estudios y etapas",
+            "v": "alta",
+            "n": "Instrumento de planificación propio y de bajo costo."
+          },
+          {
+            "t": "Saneamiento rural y periurbano con soluciones alternativas donde no hay red",
+            "v": "media",
+            "n": "Competencia municipal, pero la cobertura de alcantarillado cantonal es baja (63,1 % según el PDOT citado en otros planes) y depende de crédito BDE."
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Separación en origen, reciclaje y compostaje con recicladores; control de botaderos informales y quebradas",
+            "v": "alta",
+            "n": "Los residuos son competencia municipal."
+          },
+          {
+            "t": "Protección de Mojanda, fuentes hídricas y ecosistemas; infraestructura verde y recuperación de quebradas",
+            "v": "media",
+            "n": "Requiere coordinación con MAATE y comunidades."
+          },
+          {
+            "t": "Buenas prácticas y control ambiental en actividades agrícolas, florícolas y comerciales",
+            "v": "media",
+            "n": "El municipio puede regular y controlar, pero no fija instrumentos ni metas."
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Aplicar el PUGS, mantener catastro actualizado y regularizar asentamientos que cumplan condiciones legales y de riesgo",
+            "v": "alta",
+            "n": "Uso del suelo y catastro son competencias propias."
+          },
+          {
+            "t": "Recuperar parques, plazas, mercados, cementerios y equipamientos con accesibilidad universal",
+            "v": "alta",
+            "n": "Espacio público, mercados y cementerios son competencia municipal."
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Plan de vialidad urbana: mantenimiento, drenaje, señalización y accesibilidad",
+            "v": "alta",
+            "n": "Vialidad urbana es competencia exclusiva del municipio."
+          },
+          {
+            "t": "Convenios con la Prefectura y juntas parroquiales para caminos rurales y accesos productivos",
+            "v": "media",
+            "n": "La vialidad rural es competencia de la Prefectura; el plan lo reconoce como gestión."
+          },
+          {
+            "t": "Seguridad vial en zonas escolares y cruces; aceras continuas y ordenamiento de paradas y estacionamiento",
+            "v": "alta",
+            "n": "Tránsito y espacio público son competencias municipales; obras acotadas."
+          }
+        ],
+        "economia": [
+          {
+            "t": "Estrategia económica cantonal: capacitación, asociatividad, ferias, circuitos cortos y valor agregado con academia",
+            "v": "media",
+            "n": "El fomento productivo es concurrente con Prefectura y MAG; el municipio actúa como facilitador."
+          },
+          {
+            "t": "Turismo sostenible articulando Mojanda, Cochasquí, patrimonio y gastronomía",
+            "v": "alta",
+            "n": "Promoción turística local, de bajo costo relativo."
+          }
+        ],
+        "social": [
+          {
+            "t": "Sistema cantonal de protección de derechos y espacios comunitarios para deporte y cultura",
+            "v": "alta",
+            "n": "Protección de derechos y equipamientos son atribuciones municipales."
+          },
+          {
+            "t": "Agendas de juventud, personas mayores y discapacidad; convenios complementarios con salud y educación",
+            "v": "media",
+            "n": "Salud y educación son competencias nacionales; el plan lo plantea como coordinación."
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Consejo Cantonal de Seguridad con Policía, ECU 911 y Bomberos; iluminación y vigilancia en espacios públicos",
+            "v": "media",
+            "n": "La seguridad ciudadana es nacional; el municipio solo coordina y aporta entornos seguros."
+          },
+          {
+            "t": "Gestión integral de riesgos e incendios: mapas, protocolos, simulacros y alerta",
+            "v": "alta",
+            "n": "Riesgos e incendios son competencia municipal."
+          },
+          {
+            "t": "Fauna urbana: esterilización y tenencia responsable",
+            "v": "alta",
+            "n": "Competencia municipal de escala acotada."
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Ventanilla y trámites claros, servicios en línea y expediente electrónico",
+            "v": "alta",
+            "n": "Gestión interna del municipio."
+          },
+          {
+            "t": "Tablero público de proyectos, contratos, convenios y ejecución presupuestaria; presupuesto participativo en las cinco parroquias",
+            "v": "alta",
+            "n": "Depende solo de la voluntad administrativa."
+          },
+          {
+            "t": "Cartera de proyectos para crédito BDE y cooperación; integridad y control de conflictos de interés",
+            "v": "alta",
+            "n": "Instrumentos de gestión sin costo alto."
+          }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "No fija metas cuantitativas: las metas físicas se definirán tras levantar línea base y estudios."
+      ],
+      "inversion": "Sin montos. Fuentes: presupuesto municipal, transferencias, crédito BDE, convenios con Prefectura y juntas, cooperación.",
+      "primeros100": null,
+      "notas": [
+        "El texto proviene de OCR."
+      ]
+    },
+    {
+      "codFormulario": 8012,
+      "enfoque": "Plan breve por componentes del PDOT, con metas porcentuales y actividades enunciadas en una frase.",
+      "estructura": "6 componentes · 18 objetivos específicos · matrices con metas porcentuales al 2031",
+      "tabla": {
+        "ambiente": [
+          {
+            "t": "Barrido, recolección, compostaje y campañas: elevar al 75 % la gestión integral de residuos",
+            "v": "alta",
+            "n": "Competencia municipal; la recolección ya cubre el 92,9 % según el PDOT que cita el plan."
+          },
+          {
+            "t": "Seguimiento ambiental e inspecciones a florícolas: control al 60 %",
+            "v": "media",
+            "n": "El municipio puede controlar; la meta porcentual no define base."
+          },
+          {
+            "t": "Legalización minera y control de concesiones de áridos y pétreos: control al 50 %",
+            "v": "alta",
+            "n": "Áridos y pétreos son competencia municipal."
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Obras de agua y saneamiento y Plan Maestro de Alcantarillado: 75 % de viviendas con servicios",
+            "v": "media",
+            "n": "Competencia municipal; pasar de 63,1 % de alcantarillado a 75 % exige crédito BDE, que el plan menciona."
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Barrido catastral y avalúo predial: actualizar el 70 % del catastro",
+            "v": "alta",
+            "n": "Competencia propia."
+          },
+          {
+            "t": "Mantenimiento de infraestructura municipal y regeneración urbana; actualización del PUGS y recuperación de quebradas",
+            "v": "alta",
+            "n": "Competencias propias; sin montos."
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Asumir competencias de tránsito y crear una Agencia de Tránsito Cantonal",
+            "v": "media",
+            "n": "Requiere aval de la ANT y capacidad institucional."
+          },
+          {
+            "t": "Mantenimiento vial y Terminal Terrestre Regional",
+            "v": "media",
+            "n": "La terminal requiere estudios, suelo y financiamiento no detallados."
+          }
+        ],
+        "economia": [
+          {
+            "t": "Rutas turísticas: Ruta de la Rosa, Ruta Académica y Ruta Agroecológica",
+            "v": "alta",
+            "n": "Promoción turística local de bajo costo."
+          },
+          {
+            "t": "Fortalecimiento agroecológico, apoyo a emprendimientos y circuitos cortos de comercialización",
+            "v": "media",
+            "n": "Fomento productivo concurrente con MAG y Prefectura."
+          }
+        ],
+        "social": [
+          {
+            "t": "Centro de Rehabilitación y convenios de salud preventiva",
+            "v": "media",
+            "n": "La infraestructura es posible; la gestión de salud es del MSP."
+          },
+          {
+            "t": "Erradicación del trabajo infantil; proyecto de becas, colonias vacacionales y conservación patrimonial",
+            "v": "alta",
+            "n": "Programas sociales y culturales de escala municipal."
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Plan cantonal de seguridad ciudadana y sistema de gestión de riesgos",
+            "v": "media",
+            "n": "Seguridad es nacional; riesgos sí es competencia municipal."
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Presupuestos participativos, mapa de actores, modernización tecnológica y convenios interinstitucionales",
+            "v": "alta",
+            "n": "Gestión interna."
+          }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "Gestión integral de residuos al 75 %; control ambiental a florícolas al 60 %; control de áridos al 50 %.",
+        "75 % de viviendas con servicios básicos; catastro actualizado al 70 %; 50 % de obras municipales ejecutadas.",
+        "Turismo: 75 % de oferentes; 70 % en competencias de tránsito; seguridad al 80 %; fortalecimiento institucional al 90 % (todas al 2031, sin línea base)."
+      ],
+      "inversion": "Sin montos. Fuentes: ingresos propios, transferencias, convenios, crédito BDE y banca privada, aportes comunitarios.",
+      "primeros100": null,
+      "notas": [
+        "El texto proviene de OCR y las matrices están parcialmente ilegibles; algunas metas se reconstruyeron por contexto."
+      ]
+    },
+    {
+      "codFormulario": 5312,
+      "enfoque": "Plan en diez ejes con listas de proyectos genéricos y un cronograma anual, sin cifras de costo.",
+      "estructura": "10 ejes · cronograma 2027-2031 · indicadores de seguimiento",
+      "tabla": {
+        "servicios": [
+          {
+            "t": "Construir y ampliar sistemas de agua potable, nuevas redes de alcantarillado sanitario y pluvial y modernizar plantas de tratamiento",
+            "v": "media",
+            "n": "Competencia municipal; la meta de alcantarillado queda 'conforme a disponibilidad presupuestaria'."
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Pavimentación, asfaltado, aceras, bordillos, señalización, ciclovías y plan anual de bacheo",
+            "v": "alta",
+            "n": "Vialidad urbana es competencia propia."
+          },
+          {
+            "t": "Rehabilitación de vías rurales",
+            "v": "media",
+            "n": "La vialidad rural es de la Prefectura; requiere convenio."
+          }
+        ],
+        "economia": [
+          {
+            "t": "Centro Municipal de Innovación, fondo de apoyo al emprendimiento y marca 'Hecho en Pedro Moncayo'",
+            "v": "media",
+            "n": "El fondo requiere ordenanza y recursos no cuantificados."
+          },
+          {
+            "t": "Mercados campesinos permanentes, centros de acopio y comercialización asociativa",
+            "v": "alta",
+            "n": "Mercados son competencia municipal."
+          },
+          {
+            "t": "Riego tecnificado, asistencia técnica y mejoramiento genético ganadero",
+            "v": "baja",
+            "n": "Riego y fomento agropecuario son de la Prefectura y el MAG."
+          },
+          {
+            "t": "Ruta turística cantonal, señalética, festivales y promoción digital",
+            "v": "alta",
+            "n": "Promoción turística local."
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Sistema integral de videovigilancia, alarmas comunitarias, iluminación y comités barriales",
+            "v": "media",
+            "n": "La seguridad es nacional; el municipio puede invertir en apoyo."
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Reforestación, conservación de páramos, reciclaje y gestión de residuos",
+            "v": "alta",
+            "n": "Residuos son competencia propia; conservación concurrente."
+          }
+        ],
+        "social": [
+          {
+            "t": "Centros para adultos mayores, programas de discapacidad, escuelas deportivas, becas y casas comunales",
+            "v": "alta",
+            "n": "Programas sociales y equipamientos de escala municipal."
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Actualización catastral, regularización, protección del suelo agrícola y gestión del riesgo",
+            "v": "alta",
+            "n": "Competencias propias."
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Auditoría institucional al inicio, trámites en línea, firma electrónica, ventanilla única, datos abiertos y presupuesto participativo",
+            "v": "alta",
+            "n": "Gestión interna."
+          },
+          {
+            "t": "Informes semestrales de avance físico y financiero y al menos 20 audiencias públicas (5 por año)",
+            "v": "alta",
+            "n": "Compromiso verificable y de bajo costo."
+          }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "Cobertura cercana al 100 % en agua potable urbana al 2031.",
+        "Al menos 20 audiencias públicas y 4 informes anuales de rendición de cuentas.",
+        "Las demás metas son cualitativas (incrementar, reducir, mejorar)."
+      ],
+      "inversion": "Sin montos.",
+      "primeros100": null,
+      "notas": [
+        "El texto proviene de OCR; la tabla de cronograma por ejes es parcialmente ilegible."
+      ]
+    },
+    {
+      "codFormulario": 1972,
+      "enfoque": "Plan en cinco 'pactos' con presupuesto por actividad y año, que en el primer año prioriza auditorías y líneas base antes de obra.",
+      "estructura": "5 ejes (pactos) · metas con línea base · actividades con costo por año · presupuesto multianual USD 12 M (2028-2030)",
+      "tabla": {
+        "servicios": [
+          {
+            "t": "Alcantarillado en Tupigachi, Malchinguí y Tocachi: diseño (USD 100.000), fase 2 (USD 1,7 M) y cierre; cobertura cantonal de 63,1 % a 65,5 % y Tupigachi de 23,2 % a 26 % al 2030",
+            "v": "alta",
+            "n": "Competencia exclusiva y meta modesta, aunque gran parte depende de convenios y cooperación."
+          },
+          {
+            "t": "Auditoría técnica de la infraestructura hídrica heredada (USD 50.000)",
+            "v": "alta",
+            "n": "Acción interna de bajo costo."
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Diagnóstico de vías rurales (USD 40.000) y mantenimiento vial rural (USD 700.000)",
+            "v": "media",
+            "n": "La vialidad rural es concurrente con la Prefectura; el plan prevé convenios."
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Urbanismo táctico en Tabacundo y cabeceras parroquiales (USD 900.000)",
+            "v": "alta",
+            "n": "Espacio público es competencia municipal."
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Economía circular de residuos: línea base y modelo (USD 135.000); recolección de 92,9 % a 93,8 %",
+            "v": "alta",
+            "n": "Competencia exclusiva; meta acotada."
+          },
+          {
+            "t": "Restauración y reforestación del ACUS Mojanda (USD 600.000 más línea base de USD 400.000) e incentivos a florícolas sostenibles (USD 400.000)",
+            "v": "media",
+            "n": "Depende de alianzas público-privadas y cooperación internacional."
+          },
+          {
+            "t": "Sistema de alerta temprana climática y línea base de incendios con Bomberos",
+            "v": "alta",
+            "n": "Gestión de riesgos es competencia municipal."
+          }
+        ],
+        "social": [
+          {
+            "t": "Brigadas médicas móviles formalizadas (USD 500.000) con MSP/MIES, enfocadas en desnutrición infantil",
+            "v": "media",
+            "n": "Salud es competencia nacional; se plantea vía convenio."
+          },
+          {
+            "t": "Infraestructura inclusiva rural para personas con discapacidad (USD 950.000) y talleres técnico-artesanales",
+            "v": "alta",
+            "n": "Equipamiento de competencia municipal."
+          }
+        ],
+        "economia": [
+          {
+            "t": "Capacitación en bionegocios (USD 120.000) y cajas de ahorro comunitarias (USD 600.000)",
+            "v": "media",
+            "n": "El crédito no es competencia municipal; el plan lo reconoce como rol facilitador."
+          },
+          {
+            "t": "2 a 3 rutas de turismo comunitario y modernización de mercados (USD 500.000)",
+            "v": "alta",
+            "n": "Mercados y promoción turística son atribuciones municipales."
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Oficina de Gestión de Proyectos (PMO) en Alcaldía y Plan de Simplificación de Trámites ante MINTEL",
+            "v": "alta",
+            "n": "Decisión administrativa."
+          },
+          {
+            "t": "Integrar sistemas Yupak, Sirec y Geoinfo en un tablero único y digitalizar el 100 % de trámites",
+            "v": "alta",
+            "n": "Mandato legal (LOOETA) y de costo moderado."
+          },
+          {
+            "t": "Herramientas técnicas SILC y catastro por alianza público-privada (USD 1,5 M)",
+            "v": "media",
+            "n": "Monto alto para herramientas, frente a una inversión anual estimada por el propio plan de USD 3,8 M-4,2 M."
+          },
+          {
+            "t": "Presupuesto participativo con 5 asambleas al año, una por parroquia",
+            "v": "alta",
+            "n": "Compromiso verificable."
+          }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "Alcantarillado cantonal de 63,1 % a 65,5 % y en Tupigachi de 23,2 % a 26 % (mayo 2030).",
+        "Recolección de residuos de 92,9 % a 93,8 %.",
+        "100 % de trámites digitalizados; 5 asambleas de presupuesto participativo por año.",
+        "Organizaciones de economía popular y solidaria +22 %; 2 a 3 rutas de turismo comunitario.",
+        "Transición 2027: auditoría técnica de infraestructura hídrica, diagnóstico de vías rurales y socialización del plan en las 5 parroquias.",
+        "Transición 2027: Firma de convenios con MSP, MIES y MINEDUC; creación de la PMO; líneas base de Mojanda, incendios y organizaciones EPS."
+      ],
+      "inversion": "USD 12 M en 2028-2030 (Eje 1: 4,2 M; Eje 2: 2,4 M; Eje 3: 1,2 M; Eje 4: 1,8 M; Eje 5: 2,4 M). Fuentes: transferencias 45 %, recursos propios 25 %, BDE 15 %, cooperación 10 %, convenios 5 %.",
+      "primeros100": null,
+      "notas": [
+        "El plan calcula el período hasta mayo de 2030, aunque el mandato es 2027-2031.",
+        "Algunos montos por actividad no suman exactamente el total por eje que declara el plan."
+      ]
+    },
+    {
+      "codFormulario": 10758,
+      "enfoque": "Plan extenso (más de 200 páginas) con diagnóstico amplio y 19 proyectos con costo, ubicación, competencia y aportes de otros niveles.",
+      "estructura": "Diagnóstico por componentes · objetivos del PDOT · planes complementarios · banco de ideas · 19 proyectos con costo · reestructuración institucional",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Mantenimiento vial cantonal y movilidad: rehabilitación, adoquinado, asfaltado, aceras, bordillos y drenaje (USD 6 M; 25 % de la Prefectura)",
+            "v": "media",
+            "n": "Es la mitad de todo el plan y depende del aporte provincial de USD 1,5 M."
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Mejoramiento y ampliación del agua potable de Tabacundo y sectores rurales: sectorización de redes y repotenciación de tanques (USD 1 M con EP-EMASA-PM y BDE)",
+            "v": "alta",
+            "n": "Competencia municipal ejecutada por su empresa de agua."
+          },
+          {
+            "t": "Plan Maestro Cantonal de Agua Potable y Saneamiento",
+            "v": "alta",
+            "n": "Instrumento de planificación propio."
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Restauración y reforestación de áreas degradadas, zonas hídricas y quebradas; programa 'Mojanda Viva' (USD 400.000)",
+            "v": "media",
+            "n": "40 % de aportes de Prefectura, MAATE y juntas."
+          },
+          {
+            "t": "Control y regularización ambiental (USD 250.000), obligaciones ambientales del GAD (USD 150.000) y adaptación al cambio climático (USD 300.000)",
+            "v": "alta",
+            "n": "Control ambiental y riesgos dentro de la competencia municipal."
+          },
+          {
+            "t": "Equipos técnicos para control minero de áridos y pétreos (USD 75.000)",
+            "v": "alta",
+            "n": "Competencia municipal, costo bajo."
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Actualización catastral urbana y rural (USD 400.000) y aplicación del PUGS",
+            "v": "alta",
+            "n": "Competencia propia."
+          },
+          {
+            "t": "Infraestructura civil y equipamiento comunal (USD 500.000); espacios culturales, deportivos y recreativos (unos USD 800.000)",
+            "v": "alta",
+            "n": "Equipamientos municipales de escala acotada."
+          },
+          {
+            "t": "Regeneración urbana de calles, aceras, parques, plazas y fachadas",
+            "v": "alta",
+            "n": "Espacio público es competencia municipal."
+          },
+          {
+            "t": "Modernización del edificio municipal y atención ciudadana (USD 120.000)",
+            "v": "alta",
+            "n": "Gasto propio de bajo monto."
+          }
+        ],
+        "economia": [
+          {
+            "t": "Centro Cantonal de Innovación Productiva y fortalecimiento de emprendimientos (USD 200.000)",
+            "v": "media",
+            "n": "Fomento productivo concurrente."
+          },
+          {
+            "t": "Fomento de la economía popular y solidaria (USD 300.000)",
+            "v": "media",
+            "n": "Depende de aportes provinciales y de las organizaciones."
+          },
+          {
+            "t": "Turismo: rutas integradas y posicionamiento como 'Capital Mundial de la Rosa' (USD 400.000)",
+            "v": "alta",
+            "n": "Promoción turística local."
+          }
+        ],
+        "social": [
+          {
+            "t": "Desarrollo integral de adolescentes y jóvenes: becas técnicas y universitarias por convenio (USD 300.000)",
+            "v": "media",
+            "n": "Las becas dependen de convenios con instituciones educativas."
+          },
+          {
+            "t": "Programa 'Pedro Moncayo con Identidad' de cultura y patrimonio (USD 600.000)",
+            "v": "alta",
+            "n": "Patrimonio es competencia municipal."
+          },
+          {
+            "t": "Salud mental, atención prioritaria a niñas y niños con discapacidad y capacitación digital a adultos mayores",
+            "v": "media",
+            "n": "La atención de salud es del MSP; el municipio complementa."
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Consejo de Seguridad Ciudadana Municipal, videovigilancia y alarmas comunitarias (USD 200.000)",
+            "v": "media",
+            "n": "La seguridad es nacional; el municipio coordina y aporta equipos."
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Reestructuración del organigrama municipal; actualización del PDOT 2027-2031 y de la planificación institucional (USD 80.000)",
+            "v": "alta",
+            "n": "Decisión administrativa."
+          },
+          {
+            "t": "Difusión de información y rendición de cuentas por canales institucionales (USD 80.000); conectividad digital rural",
+            "v": "alta",
+            "n": "Gestión interna de bajo costo."
+          }
+        ],
+        "otros": []
+      },
+      "metas": [
+        "Las metas e indicadores (sección 4.5) se formulan por proyecto; la mayoría son de proceso (diagnósticos, planes, intervenciones ejecutadas)."
+      ],
+      "inversion": "Unos USD 12,2 M sumando los 19 proyectos con costo, la mitad en vialidad (USD 6 M). Cada proyecto declara aporte municipal y de Prefectura, MAATE, juntas parroquiales o cooperación.",
+      "primeros100": null,
+      "notas": [
+        "El texto proviene de OCR y las tablas de inversión son difíciles de leer; los montos se reconstruyeron de la tabla 4.3 y pueden tener errores de lectura.",
+        "El monto del proyecto de espacios culturales y deportivos se dedujo de sus componentes (USD 575.000 municipal y USD 225.000 de otros aportes)."
+      ]
+    }
+  ]
+}

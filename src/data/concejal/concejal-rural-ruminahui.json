@@ -1,0 +1,161 @@
+{
+  "canton": "RUMIÑAHUI",
+  "candidatos": [
+    {
+      "codFormulario": 6541,
+      "enfoque": "Plan de fiscalización basada en evidencia para Cotogchoa y Rumipamba, con indicadores desagregados por parroquia, comparecencias y revisión de ordenanzas.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Pedir indicadores desagregados para Cotogchoa y Rumipamba; comparecencias y mesas territoriales", "v": "alta", "n": "Atribución de fiscalización." },
+          { "t": "Fiscalizar el desempeño del GADMUR y sus empresas, con reportes trimestrales por parroquia", "v": "alta", "n": "Fiscalización verificable." },
+          { "t": "Fiscalizar la actualización del catastro rural y su vínculo con avalúos y tributos", "v": "alta", "n": "Fiscalización." }
+        ],
+        "seguridad": [
+          { "t": "Agenda anual de fiscalización de seguridad rural y al menos una revisión normativa sustentada", "v": "alta", "n": "Meta verificable." }
+        ],
+        "movilidad": [
+          { "t": "Legislar y fiscalizar transporte y seguridad vial rural; fiscalizar convenios de accesos con la Prefectura", "v": "alta", "n": "Legislar y fiscalizar." }
+        ],
+        "economia": [
+          { "t": "Marco municipal que facilite ferias, emprendimiento y economía popular; revisar trámites", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "ambiente": [
+          { "t": "Normativa y fiscalización sobre residuos, descargas, fuentes hídricas y patrimonio rural", "v": "alta", "n": "Legislar y fiscalizar." }
+        ]
+      },
+      "metas": ["Al menos una revisión normativa de seguridad rural en el período; reportes trimestrales por parroquia."],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 6688,
+      "enfoque": "Plan con amplio diagnóstico y doce objetivos (gobernanza multinivel, mancomunidad del Valle, riesgos, páramos, competencias de movilidad, terminal), cuya matriz de propuestas está ilegible.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Modernizar el ordenamiento jurídico municipal y fortalecer el control social y los presupuestos participativos", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Legislar y fiscalizar el proceso de formulación, aprobación, reforma y liquidación del presupuesto", "v": "alta", "n": "Atribución del Concejo." },
+          { "t": "Promover la Mancomunidad del Valle de los Chillos para suelo, residuos y tránsito", "v": "media", "n": "Requiere acuerdo con otros cantones." }
+        ],
+        "seguridad": [
+          { "t": "Actualizar el Plan Cantonal de Riesgos y la infraestructura de alerta temprana", "v": "media", "n": "El concejal impulsa; ejecuta la Alcaldía." }
+        ],
+        "ambiente": [
+          { "t": "Recuperar y proteger páramos, bosques, ríos y quebradas; ampliar la gestión de residuos rural", "v": "media", "n": "Depende de la ejecución municipal." }
+        ],
+        "movilidad": [
+          { "t": "Recuperar competencias de movilidad, reordenar el transporte público y crear la Terminal Terrestre Intermodal", "v": "media", "n": "El Concejo puede aprobarlo; la obra la ejecuta la Alcaldía." }
+        ],
+        "economia": [
+          { "t": "Restaurar el Centro Histórico y consolidar cascadas, haciendas y agroturismo como productos turísticos", "v": "media", "n": "El concejal impulsa." }
+        ]
+      },
+      "metas": ["La matriz plurianual está escaneada al revés y no es legible."],
+      "notas": ["El texto proviene de OCR; las páginas de la matriz (21 a 33) están escaneadas en orientación invertida.", "Los objetivos coinciden con el programa de gobierno de la alianza para la alcaldía."]
+    },
+    {
+      "codFormulario": 11822,
+      "enfoque": "Plan rural genérico con enfoque de equidad territorial para Cotogchoa y Rumipamba y una agenda legislativa permanente, sin ordenanzas concretas.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Incorporar el enfoque de equidad territorial rural en la normativa municipal", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Fiscalizar presupuesto, contratación, obras y servicios en Cotogchoa y Rumipamba", "v": "alta", "n": "Fiscalización." },
+          { "t": "Agenda legislativa permanente para revisar y modernizar ordenanzas; publicar actividad y proyectos", "v": "alta", "n": "Iniciativa normativa y transparencia." },
+          { "t": "Cabildos abiertos, mesas y recorridos territoriales", "v": "alta", "n": "Representación." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": []
+    },
+    {
+      "codFormulario": 8076,
+      "enfoque": "Plan extenso de normativa y fiscalización para las parroquias rurales en lo social, cultural, educativo y deportivo, con más de cien líneas de acción.",
+      "tabla": {
+        "social": [
+          { "t": "Actualizar las ordenanzas del Sistema Cantonal de Protección Integral de Derechos con las condiciones rurales", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Fiscalizar la cobertura de los programas sociales en Cotogchoa y Rumipamba", "v": "alta", "n": "Fiscalización." },
+          { "t": "Normativa para proteger tradiciones, fiestas, gastronomía y saberes comunitarios", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Normativa de acceso equitativo a canchas y espacios deportivos y reglas de bienestar animal para caballos en actividades tradicionales", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Convenios de capacitación técnica, alfabetización digital y formación para el empleo", "v": "media", "n": "Los convenios los firma y ejecuta el alcalde." }
+        ],
+        "urbano": [
+          { "t": "Fiscalizar el mantenimiento de casas comunales, espacios culturales y equipamientos rurales", "v": "alta", "n": "Fiscalización." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": []
+    },
+    {
+      "codFormulario": 11594,
+      "enfoque": "Plan que reproduce para la ruralidad las propuestas del plan de alcaldía de su alianza ('Menos Trámites – Menos Tiempos', fauna urbana, residuos), expresadas como ordenanzas.",
+      "tabla": {
+        "gobierno": [
+          { "t": "Ordenanzas para digitalizar trámites (LUAE) y simplificar procesos", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Fortalecer el sistema de participación y transparencia", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "urbano": [
+          { "t": "Regular y controlar el espacio público cantonal", "v": "alta", "n": "Competencia municipal regulable." }
+        ],
+        "ambiente": [
+          { "t": "Mejoras a la ordenanza de cuidado de fauna urbana e infraestructura para su atención", "v": "media", "n": "La ordenanza es viable; la infraestructura la ejecuta la Alcaldía." },
+          { "t": "Revisar la ordenanza de residuos y ampliar la recolección", "v": "media", "n": "Revisar es viable; ampliar el servicio lo ejecuta la empresa de aseo." }
+        ]
+      },
+      "metas": ["No fija metas cuantitativas."],
+      "notas": ["El texto proviene de OCR."]
+    },
+    {
+      "codFormulario": 11008,
+      "enfoque": "Plan rural con normativa y fiscalización por año en seguridad, turismo, producción, juventudes, agua y riesgos, con énfasis en datos desagregados y accesibilidad.",
+      "tabla": {
+        "seguridad": [
+          { "t": "Normativa de seguridad y convivencia y agenda municipal rural de prevención", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "economia": [
+          { "t": "Revisar o proponer ordenanzas sobre ferias, mercados, simplificación y promoción de productores rurales", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Integrar Cotogchoa y Rumipamba en rutas turísticas y de patrimonio", "v": "media", "n": "El concejal impulsa." }
+        ],
+        "social": [
+          { "t": "Normativa sobre entornos protectores, participación juvenil, inclusión y alfabetización digital", "v": "alta", "n": "Iniciativa normativa." },
+          { "t": "Fiscalizar el mínimo legal para grupos prioritarios y su distribución territorial", "v": "alta", "n": "Fiscalización del 10 % que exige el COOTAD." }
+        ],
+        "ambiente": [
+          { "t": "Reformas sobre agua y saneamiento rural, residuos, ríos y quebradas, riesgos y resiliencia climática", "v": "alta", "n": "Iniciativa normativa." }
+        ]
+      },
+      "metas": ["Programación por año (2027-2031) sin cifras."],
+      "notas": []
+    },
+    {
+      "codFormulario": 8561,
+      "enfoque": "Agenda normativa rural concreta: diez ordenanzas con año y artículo del COOTAD (agua comunitaria, vialidad rural, riesgos del Ilaló, turismo, páramos, catastro rural, conectividad, participación).",
+      "tabla": {
+        "servicios": [
+          { "t": "Ordenanza de gestión comunitaria del agua en Cotogchoa y Rumipamba (2027-2028)", "v": "alta", "n": "Iniciativa normativa en competencia municipal." }
+        ],
+        "movilidad": [
+          { "t": "Ordenanza de Vialidad Rural y Caminos Vecinales", "v": "media", "n": "La vialidad rural es concurrente con la Prefectura; la ordenanza puede regular convenios." }
+        ],
+        "seguridad": [
+          { "t": "Ordenanza de Gestión de Riesgos en Laderas y Quebradas del Ilaló (2027-2028)", "v": "alta", "n": "Riesgos es competencia municipal." }
+        ],
+        "economia": [
+          { "t": "Ordenanza de fomento agropecuario y Ordenanza de Turismo Rural y Comunitario Ilaló–Pasochoa (2028-2029)", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "ambiente": [
+          { "t": "Ordenanza de Protección de Fuentes Hídricas y Páramos (2028-2029)", "v": "alta", "n": "Iniciativa normativa." }
+        ],
+        "urbano": [
+          { "t": "Ordenanza de Catastro Rural y Regularización de Tierras (2028-2029)", "v": "alta", "n": "Catastro es competencia propia." }
+        ],
+        "gobierno": [
+          { "t": "Ordenanza de Participación Ciudadana y Presupuesto Participativo Rural; inversión equitativa urbano-rural", "v": "alta", "n": "Iniciativa normativa y atribución presupuestaria." },
+          { "t": "Fiscalizar obras de agua, vialidad y equipamiento y los convenios con las juntas parroquiales", "v": "alta", "n": "Fiscalización." }
+        ],
+        "otros": [
+          { "t": "Ordenanza de Conectividad Rural (internet y telefonía)", "v": "media", "n": "El municipio regula infraestructura y espacio; el servicio depende de las operadoras." }
+        ]
+      },
+      "metas": ["Diez ordenanzas con año de presentación entre 2027 y 2030."],
+      "notas": []
+    }
+  ]
+}

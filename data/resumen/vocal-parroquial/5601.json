@@ -1,0 +1,115 @@
+{
+ "enfoque": "Caminos, producción, grupos vulnerables, ambiente, basura y agua. Casi todo depende de convenios con la Prefectura o el Municipio, porque la junta tiene poco presupuesto.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Mejorar un sistema vial para mover personas y producción en la parroquia.",
+    "que": "El plan no dice qué vías ni cuánto costará. Dice que usará presupuesto del GAD y convenios con la Prefectura y el Municipio.",
+    "v": "media",
+    "n": "Las vías se hacen con la Prefectura o el Municipio. El plan no dice plazos.",
+    "cita": "Mejorar e implementar un sistema vial articulado para la movilidad de las",
+    "pag": 6
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer proyectos productivos para reactivar la economía de la parroquia.",
+    "que": "El plan no dice qué proyectos ni cuánto costarán. Dice que habrá talleres con la población interesada, pagados con presupuesto del GAD.",
+    "v": "alta",
+    "n": "Apoyar a productores sí le toca a la junta. El plan no dice qué proyectos ni cuándo.",
+    "cita": "Desarrollar proyectos productivos para la reactivación económica de la",
+    "pag": 6
+   }
+  ],
+  "social": [
+   {
+    "t": "Apoyar a personas con capacidades especiales, adultos mayores y niños.",
+    "que": "El plan no dice qué ayuda dará ni a cuántas personas. Dice que destinará el 10% del presupuesto del GAD y hará gestiones con el MDH, la Prefectura y el Municipio.",
+    "v": "media",
+    "n": "Necesita convenios con otros niveles. La junta tiene poco presupuesto.",
+    "cita": "Fortalecer el apoyo a los Grupos de Atención Prioritaria, como lo son las",
+    "pag": 6
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Incentivar la siembra de árboles y el cuidado del ambiente en la parroquia.",
+    "que": "El plan no dice cuántos árboles, dónde ni cuánto costará. Habla de convenios con el Ministerio del Ambiente, la Prefectura y el Municipio.",
+    "v": "alta",
+    "n": "Sembrar y cuidar sí le toca a la junta. El plan no dice cuántos árboles ni dónde.",
+    "cita": "Incentivar y fortalecer la reforestación y cuidado del ambiente.",
+    "pag": 6
+   },
+   {
+    "t": "Pensar en un proyecto para cuidar y dar mantenimiento a las quebradas.",
+    "que": "El plan dice que las quebradas sirven de botadero y que se 'debería pensar' en un proyecto. No dice costo, plazo ni quién lo hará.",
+    "v": "media",
+    "n": "Con mingas se puede. Limpiar cauces grandes quizá necesite al Municipio. El plan no dice costo.",
+    "cita": "por lo cual se debería pensar en realizar un Proyecto en defensa, cuidado y mantenimiento",
+    "pag": 6
+   },
+   {
+    "t": "Hacer que la gente maneje mejor su basura desde casa, con reciclaje.",
+    "que": "El plan no dice cuándo ni cómo se hará. Propone reciclar y usar la basura orgánica para abono. La basura grande sigue yendo al relleno de Pingulmí.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca. El plan no dice cómo ni cuándo.",
+    "cita": "llegar también a concientizar a la gente para que haga mejor manejo de sus desechos",
+    "pag": 6
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir a la Prefectura y al Municipio acciones para agua de consumo y de riego.",
+    "que": "El plan no dice qué acciones ni cuánto costarán. Pide llegar a más población con agua de riego y mejorar el acceso al agua de consumo.",
+    "v": "baja",
+    "n": "El agua potable no le toca a la junta. El plan solo dice que hará gestiones.",
+    "cita": "Gestionar con los gobiernos provincial y cantonal las acciones necesarias",
+    "pag": 6
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer reuniones permanentes con las comunidades de la parroquia.",
+    "que": "El plan no dice cada cuánto ni dónde serán las reuniones. Dice que servirán para definir prioridades junto con la gente.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta.",
+    "cita": "promover espacios permanentes de diálogo con las comunidades",
+    "pag": 5
+   }
+  ],
+  "otros": [
+   {
+    "t": "Hacer actividades culturales y sociales para juntar a los habitantes.",
+    "que": "El plan no dice qué actividades ni cuándo. Pide más participación de los habitantes en eventos culturales y sociales.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca. El plan no dice qué actividades.",
+    "cita": "Promover la participación de los habitantes de la parroquia en las",
+    "pag": 6
+   }
+  ]
+ },
+ "metas": [
+  "Rendición de cuentas una vez al año, con los periodos fiscales anuales.",
+  "10% del presupuesto del GAD parroquial para Grupos de Atención Prioritaria.",
+  "Al 2031 (fin del período 2027-2031), haber cumplido el plan de trabajo."
+ ],
+ "notas": [
+  "Es un plan de lista: los cinco candidatos firman el mismo texto. Casi no dice cuánto costará cada cosa ni en qué fecha se hará.",
+  "Varias propuestas son generales, por ejemplo 'fortalecer' o 'mejorar'. El plan dice que muchas obras dependen de convenios con otros niveles de gobierno."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "paginas": 11
+}

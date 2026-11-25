@@ -1,0 +1,85 @@
+{
+ "enfoque": "Plan en gran parte copiado de otro plan (menciona Pastaza y la Mancomunidad). Lo que sí toca a la junta: asambleas, parques, cursos y cuidado ambiental.",
+ "tabla": {
+  "gobierno": [
+   {
+    "t": "Convocar asambleas públicas con las comunidades para informar y recibir propuestas.",
+    "que": "Serían periódicas, con comunidades, juntas vecinales y autoridades tradicionales. El plan no dice cuánto costará ni cuándo empieza.",
+    "v": "alta",
+    "n": "Reunir a la gente es tarea de la junta y cuesta poco.",
+    "cita": "Convocar periódicamente a las comunidades, organizaciones sociales, juntas vecinales y",
+    "pag": 10
+   },
+   {
+    "t": "Explicar en público en qué se gasta el presupuesto de la junta.",
+    "que": "Se detallarían las asignaciones, inversiones y gastos, y la gente ayudaría a elegir prioridades. El plan no dice de cuánto es el presupuesto.",
+    "v": "alta",
+    "n": "Informar sobre el dinero de la junta es tarea de la junta.",
+    "cita": "Socializar de manera clara y detallada el presupuesto parroquial, explicando las asignaciones.",
+    "pag": 10
+   },
+   {
+    "t": "Informar a los vecinos con tableros, boletines y redes sociales.",
+    "que": "Se usarían tableros comunitarios, boletines, redes sociales y reuniones virtuales. El plan no dice con qué frecuencia.",
+    "v": "alta",
+    "n": "Son medios baratos que la junta puede manejar.",
+    "cita": "Mantener canales permanentes de información, como tableros comunitarios, boletines, redes",
+    "pag": 10
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer actividades para que los vecinos cuiden la naturaleza de la parroquia.",
+    "que": "El plan habla de concientización ambiental y prácticas sostenibles. El plan no dice qué actividades, cuánto costarán ni cuándo.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es tarea de la junta.",
+    "cita": "Fomentar la conservación del patrimonio natural, fomentando la concientización ambiental y",
+    "pag": 4
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Mantener y arreglar los espacios públicos de la parroquia.",
+    "que": "El plan no dice cuáles espacios, cuánto costará ni en qué plazo se hará.",
+    "v": "alta",
+    "n": "Parques y espacios públicos sí son tarea de la junta.",
+    "cita": "Mantener y mejorar los espacios públicos y equipamientos de la parroquia de Calacali",
+    "pag": 4
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar cursos de capacitación a emprendedores de la parroquia.",
+    "que": "Serían para emprendedores que impulsen la oferta turística. El plan no dice cuántos cursos, cuánto costarán ni cuándo.",
+    "v": "alta",
+    "n": "Cursos para la gente son tarea de la junta.",
+    "cita": "de capacitación a emprendedores de la parroquia como impulso de la oferta turistica",
+    "pag": 4
+   }
+  ]
+ },
+ "metas": [
+  "Informe cada seis meses sobre los avances de cada proyecto.",
+  "Ferias mensuales de promoción turística."
+ ],
+ "notas": [
+  "Incluye agua potable, alcantarillado y salud, que no son competencia de la junta.",
+  "El plan no dice cuánto costará ni de dónde saldrá el dinero para ninguna propuesta."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "paginas": 12
+}

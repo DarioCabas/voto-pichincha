@@ -1,0 +1,161 @@
+{
+ "enfoque": "Plan de cuatro años: arreglar agua potable, alcantarillado, basura, calles y mercados, y cuidar fuentes de agua y bosques. Primero hay estudios; las obras vienen después, sin costos.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Arreglar el sistema de agua potable del cantón y de sus parroquias.",
+    "que": "Empezaría en el segundo año, según los resultados del estudio del primer año. El plan no dice cuánto costará ni cuándo terminará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará la obra.",
+    "cita": "Generación de un proyecto de intervención integral, mejoramiento y revisión continua del sistema de agua potable del cantón Paute",
+    "pag": 2
+   },
+   {
+    "t": "Construir un colector de aguas residuales para la cabecera cantonal.",
+    "que": "Empezaría en el tercer año. Serviría para reducir malos olores y problemas de salud en zonas pobladas. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará.",
+    "cita": "Iniciar la construcción de un colector de aguas residuales que tenga capacidad para satisfacer las necesidades de la cabecera cantonal",
+    "pag": 24
+   },
+   {
+    "t": "Hacer un plan para reducir la basura y reciclar más en el cantón.",
+    "que": "Tendría metas anuales y cronogramas de inversión. Incluye separar la basura desde la fuente y apoyar a recicladores. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará.",
+    "cita": "Con base en el diagnóstico inicial, el Gobierno Municipal formulará un Plan Cantonal de Gestión Integral de Residuos Sólidos",
+    "pag": 30
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer un plan para recuperar las fuentes de agua más contaminadas.",
+    "que": "Se haría en el primer año, con prioridad para el agua de consumo humano. Incluye aislar zonas de captación y controlar descargas. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero necesita al Ministerio y a las juntas de agua.",
+    "cita": "Con fundamento en los resultados obtenidos en el diagnóstico integral, el Gobierno Municipal elaborará un Plan Cantonal de Recuperación de Fuentes Hídricas Prioritarias",
+    "pag": 19
+   },
+   {
+    "t": "Empezar programas de reforestación con plantas propias de la zona, en el cuarto año.",
+    "que": "Buscaría frenar el avance de la frontera agrícola sobre el bosque. El plan no dice cuántos árboles ni cuánto costará.",
+    "v": "alta",
+    "n": "Tema ambiental del Municipio. El plan no dice cuánto costará.",
+    "cita": "Inicio de programas de reforestación con vegetación endémica del cantón Paute",
+    "pag": 22
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento y obras a las calles y caminos locales del cantón.",
+    "que": "Desde el segundo año, con un plan anual de mantenimiento. Incluye bacheo y arreglo de vías rurales. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Mantenimiento, construcción y doble tratamiento de las vías locales del cantón, cuyas competencias correspondan a la municipalidad",
+    "pag": 23
+   },
+   {
+    "t": "Hacer el diseño de un puente para carros que una Paute con Tutucán.",
+    "que": "El diseño es del primer año; la obra iría del segundo al cuarto año. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Obra grande: puede necesitar dinero de otras entidades. El plan no dice cuánto costará.",
+    "cita": "Diseño de un plan técnico y económico para la construcción de un puente carrozable que una Paute con Tutucán",
+    "pag": 19
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar techos, luces, higiene y estructura de los mercados del cantón.",
+    "que": "Primero una evaluación; desde el segundo año, un programa de arreglos. El plan menciona el Mercado Cañaberales y el Mercado 26 de Febrero. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Puesta en marcha de un programa de planificación e intervención de infraestructura, luminaria, techado, higiene y manejo de los mercados del cantón",
+    "pag": 21
+   }
+  ],
+  "social": [
+   {
+    "t": "Construir viviendas de interés social para familias de bajos ingresos.",
+    "que": "Primero hay estudios de la realidad social; la construcción empieza en el segundo año. El plan no dice cuántas viviendas ni cuánto costará.",
+    "v": "baja",
+    "n": "No está entre las competencias del Municipio que da la ley. El plan no dice cuánto costará.",
+    "cita": "Inicio de construcción de las viviendas de interés social en conformidad a los estudios previamente llevados a cabo",
+    "pag": 23
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar asistencia técnica y capacitación a pequeños y medianos productores.",
+    "que": "Se haría con el Ministerio de Agricultura, instituciones financieras públicas y universidades. El plan no dice cuánto costará ni a cuántos productores.",
+    "v": "media",
+    "n": "Puede impulsarlo, pero depende del Ministerio y de otras entidades.",
+    "cita": "El Gobierno Municipal implementará un programa integral de fortalecimiento productivo dirigido a pequeños y medianos productores",
+    "pag": 13
+   }
+  ]
+ },
+ "metas": [
+  "Tres procesos públicos de rendición de cuentas cada año.",
+  "Asambleas de socialización cada cuatro meses.",
+  "Conversatorios ciudadanos temáticos cada tres meses.",
+  "Plan de gestión de cuatro años: estudios en el primer año y obras desde el segundo."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni cómo se pagará. Casi todo empieza con estudios en el primer año.",
+  "Los datos del diagnóstico son de la cuenca del río Paute y de la provincia del Azuay, no solo del cantón Paute."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50
+ ],
+ "paginas": 50
+}

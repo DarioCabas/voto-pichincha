@@ -1,0 +1,120 @@
+{
+ "enfoque": "Basado en planes de la ciudad y de la parroquia. Propone vías rurales, cuidado del bosque y del río, parques, apoyo a la leche y decidir el gasto en reuniones públicas.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Planificar, construir y mantener las vías rurales de la parroquia.",
+    "que": "Las vías de las que habla son las de lastre, tierra o en estado regular o malo. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Las obras grandes necesitan acuerdo con la Prefectura o el Municipio. La junta tiene poco presupuesto.",
+    "cita": "Planificar, construir y mantener la vialidad parroquial rural donde más del 70% de las vías se encuentran en lastre, tierra o estado regular/malo",
+    "pag": 3
+   },
+   {
+    "t": "Coordinar con el Municipio la frecuencia de buses hacia Quito y Calacalí.",
+    "que": "El plan no dice cuántos buses ni cuándo. Hoy hay apenas 3 a 5 turnos diarios hacia Quito y Calacalí, según el plan.",
+    "v": "baja",
+    "n": "Le toca al Municipio, no a la junta.",
+    "cita": "la optimización de frecuencias de transporte público hacia Quito y Calacalí",
+    "pag": 3
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Coordinar con el Municipio la ampliación del agua potable y el alcantarillado.",
+    "que": "El plan no dice dónde ni cuándo. Hoy solo el 38,4% de hogares tiene agua por red pública o junta de agua con tratamiento.",
+    "v": "baja",
+    "n": "Le toca al Municipio, no a la junta. El plan no dice cómo lo pagará.",
+    "cita": "la expansión de redes de agua potable y alcantarillado",
+    "pag": 3
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Cuidar el bosque nativo de la parroquia, que cubre el 58,5% del territorio.",
+    "que": "El plan no dice qué acciones se harán ni cuánto costará. Nono forma parte de la Reserva de la Biosfera del Chocó Andino.",
+    "v": "alta",
+    "n": "Cuidar el ambiente es función de la junta. Falta decir qué acciones harán.",
+    "cita": "Promover la conservación activa del 58,5% de bosque nativo",
+    "pag": 3
+   },
+   {
+    "t": "Organizar a los vecinos para manejar en comunidad las cuencas del río Alambí.",
+    "que": "El plan no dice cómo ni cuánto costará. Nono provee agua a la microcuenca del río Alambí, más allá de sus límites.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es función de la junta. El plan no dice cómo se hará.",
+    "cita": "impulsar la gestión comunitaria de las cuencas del río Alambí",
+    "pag": 3
+   },
+   {
+    "t": "Crear incentivos locales para que los vecinos separen la basura.",
+    "que": "El plan no dice qué incentivos ni cuánto costarán. Hoy el 31,2% de hogares quema su basura o la arroja en predios y quebradas.",
+    "v": "media",
+    "n": "Los incentivos cuestan dinero y la junta tiene poco. Necesitaría acuerdo con el Municipio.",
+    "cita": "establecer incentivos locales para la separación de residuos y economía circular",
+    "pag": 3
+   },
+   {
+    "t": "Prevenir riesgos de movimientos de tierra e incendios forestales.",
+    "que": "El plan no dice qué acciones se harán ni cuánto costarán. El 34% del territorio tiene riesgo alto o medio de movimientos de tierra.",
+    "v": "media",
+    "n": "Es una tarea grande. El plan no dice con qué dinero ni con quién la hará.",
+    "cita": "fortalecer la prevención frente al riesgo de movimientos en masa e incendios forestales",
+    "pag": 3
+   }
+  ],
+  "social": [
+   {
+    "t": "Mantener parques, canchas y centros comunales de la parroquia.",
+    "que": "El plan no dice cuánto costará ni con qué dinero. Son para deporte, cultura y los servicios de cuidado de la parroquia.",
+    "v": "alta",
+    "n": "Parques y espacios de la parroquia sí son de la junta. El plan no dice qué arreglos harán.",
+    "cita": "los equipamientos de espacios públicos (parques, canchas y centros comunales)",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar la producción de leche artesanal y el turismo de la parroquia.",
+    "que": "El plan no dice cuánto costará ni cuándo. Se haría con alianzas con la academia. Hoy la leche se vende sobre todo a intermediarios, a precios reducidos.",
+    "v": "media",
+    "n": "Apoyar a productores sí es función de la junta. Las alianzas con la academia necesitan acuerdos.",
+    "cita": "Fomentar la actividad productiva comunitaria, la producción láctea artesanal, el biocomercio y el turismo parroquial",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Decidir en reuniones públicas, con delegados de barrios, en qué se gasta todo el dinero de inversión.",
+    "que": "El plan dice que será el 100% de los fondos legales de la junta para inversión. No dice cuánto dinero es.",
+    "v": "alta",
+    "n": "Depende de la junta y de sus reuniones. El plan no dice cuánto dinero hay.",
+    "cita": "será discutido, priorizado y aprobado democráticamente mediante deliberaciones públicas con delegados barriales y comunitarios",
+    "pag": 6
+   }
+  ]
+ },
+ "metas": [
+  "Asambleas en barrios y comunas cada tres meses.",
+  "100% de los fondos de inversión de la junta decididos en asambleas públicas.",
+  "Publicar en la web cada tres meses la información de la junta.",
+  "Plan para el período 2027-2031 (4 años)."
+ ],
+ "notas": [
+  "Agua, alcantarillado y buses son del Municipio, no de la junta. El plan casi no dice cuánto costará ni cuándo.",
+  "Página 4 ilegible en el texto. Es un solo plan para los cinco candidatos y no dice qué hará cada uno."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "paginas": 9
+}

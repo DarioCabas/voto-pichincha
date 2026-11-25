@@ -1,0 +1,144 @@
+{
+ "enfoque": "Continúa obras ya iniciadas: agua, alcantarillado, basura, mercado y calles. Suma ferias y apoyo a artesanas. Casi no dice cuánto cuesta cada cosa.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar el agua potable y el alcantarillado (tuberías de aguas sucias).",
+    "que": "Hacer un plan general de agua y ampliar el alcantarillado. El plan no dice cuánto costará. Plazos: agua hasta 2028, alcantarillado hasta 2029. Dinero: préstamos y organismos internacionales.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de préstamos y del Banco de Desarrollo.",
+    "cita": "Plan maestro de agua potable - Ampliación de sistemas de alcantarillado sanitario y pluvial - Construcción de colectores marginales al río Santa Bárbara",
+    "pag": 19
+   },
+   {
+    "t": "Dar manejo a la basura del cantón (residuos sólidos).",
+    "que": "Obra hasta 2028 según la tabla del plan. El plan no dice cuánto costará ni cómo se pagará.",
+    "v": "alta",
+    "n": "Es servicio del Municipio. El plan no dice cuánto cuesta.",
+    "cita": "Drenaje pluvial - Gestión integral de residuos sólidos - Mejoramiento de Juntas de Agua Potable",
+    "pag": 19
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Remodelar el Mercado Municipal.",
+    "que": "Obra que el plan dice que ya está en marcha. El plan no dice cuánto costará ni cuándo terminará.",
+    "v": "alta",
+    "n": "Los mercados son competencia del Municipio. El plan no dice el costo.",
+    "cita": "remodelacion del Mercado Municipal. Hoy ese compromiso ha dejado de ser un proyecto para",
+    "pag": 2
+   },
+   {
+    "t": "Renovar el centro histórico de Sígsig.",
+    "que": "Obra hasta 2029 según la tabla, junto con CENFROSUR en el alumbrado. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Calles y alumbrado sí son del Municipio, pero depende de otra institución.",
+    "cita": "Regeneración urbana del centro histórico - Gestión de alumbrado público",
+    "pag": 19
+   },
+   {
+    "t": "Dar mantenimiento a las cunetas (canales de agua al lado de las vías).",
+    "que": "Plan anual hasta 2028 según la tabla. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Es trabajo de calles y drenaje del Municipio. El plan no dice cuánto cuesta.",
+    "cita": "Plan de mantenimiento de cunetas - Albergue canino temporal municipal",
+    "pag": 20
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar el Terminal Terrestre Municipal, la estación de buses.",
+    "que": "Según la tabla, obra hasta 2027. Dinero del Banco de Desarrollo y de transportistas. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de préstamos y de los transportistas.",
+    "cita": "Mejoramiento del Terminal Terrestre Municipal - Ampliación del Estadio Municipal",
+    "pag": 19
+   },
+   {
+    "t": "Arreglar las calles urbanas y las vías rurales del cantón.",
+    "que": "Plan anual hasta 2029. Depende del Ministerio de Transporte y de la Prefectura (gobierno provincial). El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Las calles urbanas son del Municipio; las vías rurales dependen de otras instituciones.",
+    "cita": "Mejoramiento vial urbano y cogestión de la vialidad rural",
+    "pag": 17
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Cuidar las fuentes de agua y las microcuencas (zonas que llevan agua a los ríos).",
+    "que": "Plan anual hasta 2029, con reforestación y educación ambiental. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Es tema de agua del Municipio, pero el plan no dice de dónde sale el dinero.",
+    "cita": "Protección de fuentes hídricas y microcuencas - Reforestación con especies",
+    "pag": 20
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear una bolsa de empleo municipal para jóvenes.",
+    "que": "El plan pone 20 jóvenes al año hasta 2029. El plan no dice cuánto costará ni de dónde sale el dinero.",
+    "v": "baja",
+    "n": "No le toca crear empleo directamente; el Municipio solo puede apoyar.",
+    "cita": "Bolsa Municipal de Empleo - Primer empleo - Pasantías con empresas",
+    "pag": 16
+   },
+   {
+    "t": "Organizar ferias semanales para artesanas y emprendedores.",
+    "que": "Feria semanal hasta 2029, según la tabla del plan. El plan no dice dónde se hará ni cuánto costará.",
+    "v": "alta",
+    "n": "Ferias y mercados sí son del Municipio. El plan no dice el lugar ni el costo.",
+    "cita": "Plataforma digital para promoción de negocios - Ferias permanentes artesanales y de emprendimiento",
+    "pag": 16
+   }
+  ]
+ },
+ "metas": [
+  "Capacitar a 50 emprendedores hasta 2029.",
+  "Crear un centro municipal de emprendimiento hasta 2027.",
+  "Entregar 10 fondos al año para emprendimientos locales hasta 2029.",
+  "20 jóvenes al año en la bolsa municipal de empleo hasta 2029.",
+  "Una feria semanal de artesanas y emprendedores hasta 2029."
+ ],
+ "notas": [
+  "El plan casi no dice cuánto cuesta cada obra ni de dónde sale el dinero. Muchas dependen de préstamos y de otras instituciones.",
+  "Muchas obras ya estaban en marcha en el periodo 2023-2027. Varias metas, como crear empleo, no son competencia del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34
+ ],
+ "paginas": 34
+}

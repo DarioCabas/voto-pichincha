@@ -1,0 +1,83 @@
+{
+ "enfoque": "Agua, alcantarillado, calles, basura, riego y turismo en San Felipe de Oña y Susudel. Parte del texto menciona Guachapala, otro cantón.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar y mejorar los sistemas de agua potable y alcantarillado",
+    "que": "El plan habla de ampliar y mejorar el agua y el alcantarillado de forma progresiva. El plan no dice cuánto costará ni en qué sectores empezará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan admite que el presupuesto es ajustado.",
+    "cita": "Cerrar brechas de servicios básicos y conectividad vial mejorando los sistemas de agua",
+    "pag": 2
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar calles urbanas, aceras y espacios públicos",
+    "que": "El plan dice que hará mantenimiento y mejoras de calles urbanas, aceras, bordillos y espacios públicos, con una programación anual de obras. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: calles y espacios públicos.",
+    "cita": "mejoramiento vial urbano; intervención en aceras, bordillos y espacios públicos; gestión para",
+    "pag": 4
+   }
+  ],
+  "economia": [
+   {
+    "t": "Modernizar y tecnificar los sistemas de riego",
+    "que": "El plan habla de cambiar y modernizar los sistemas de riego y dar asistencia técnica a los agricultores. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "El riego depende en gran parte de la Prefectura, no solo del Municipio.",
+    "cita": "tecnificación de los sistemas de riego, la asistencia técnica permanente y el impulso a la",
+    "pag": 2
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer programas para adultos mayores y grupos vulnerables",
+    "que": "El plan habla de programas para adultos mayores y grupos vulnerables, con convenios con entidades sociales. El plan no dice cuánto costará ni a cuántas personas llegará.",
+    "v": "media",
+    "n": "No está en lo que el Municipio puede hacer por sí solo; depende de convenios.",
+    "cita": "dirigidos a adultos mayores y grupos vulnerables, optimizando la recaudación y la",
+    "pag": 2
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas de rendición de cuentas en Oña y Susudel",
+    "que": "El plan dice que las asambleas públicas se harán por turnos en la cabecera de Oña y en la parroquia Susudel. No dice cuántas veces al año.",
+    "v": "alta",
+    "n": "Le toca al Municipio y no necesita otros niveles de gobierno.",
+    "cita": "realizadas alternadamente entre la cabecera cantonal de Oña y la parroquia Susudel.",
+    "pag": 5
+   },
+   {
+    "t": "Transmitir en vivo el informe de gestión y publicar el presupuesto",
+    "que": "El plan dice que el informe se transmitirá en vivo por medios digitales y radios comunitarias, con presupuestos detallados en la web. No dice plazos.",
+    "v": "alta",
+    "n": "Le toca al Municipio y no depende de otros niveles.",
+    "cita": "medios digitales, radios comunitarias y publicación en el portal web del GAD Municipal",
+    "pag": 5
+   }
+  ]
+ },
+ "metas": [
+  "Año 1 (2027-2028): evaluar servicios, proyectos e infraestructura y atender prioridades urgentes.",
+  "Año 2 (2028-2029): ejecutar proyectos de servicios básicos, calles, espacios públicos y turismo.",
+  "Año 3 (2029-2030): dar continuidad a obras y ampliar la cobertura territorial.",
+  "Año 4 (2030-2031): culminar proyectos estratégicos y evaluar el plan completo."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni en qué sectores empezará.",
+  "Parte del texto menciona Guachapala como destino turístico: parece copiado de otro cantón."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "paginas": 6
+}

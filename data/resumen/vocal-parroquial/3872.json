@@ -1,0 +1,147 @@
+{
+ "enfoque": "Propone seguridad, vías, ambiente, jóvenes, ferias y turismo. Varias obras (agua, alcantarillado, luz) son de otros niveles; la junta solo gestiona.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Organizar mingas y jornadas de reforestación para cuidar quebradas, áreas verdes y el Ilaló.",
+    "que": "El plan prevé 25 jornadas ambientales y de reforestación durante el período. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Mingas y reforestación son trabajo comunitario que la junta puede organizar.",
+    "cita": "Ejecutar mingas ambientales, jornadas de reforestación, educación ambiental, reciclaje y recuperación de espacios",
+    "pag": 23
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar capacitación, asistencia técnica y ferias a productores y pequeños negocios.",
+    "que": "El plan no dice cuántas ferias ni cuánto costará. Busca crear canales para vender lo que producen.",
+    "v": "alta",
+    "n": "Ferias y capacitaciones son actividades que la junta puede organizar.",
+    "cita": "mediante capacitación, asistencia técnica, ferias, promoción y generación de canales de comercialización",
+    "pag": 17
+   },
+   {
+    "t": "Diseñar un plan turístico con gastronomía, ferias y nodos productivos.",
+    "que": "Meta de 15 proyectos implementados al 2031. El plan no dice cuánto costará ni quién lo pagará.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio y la Prefectura. El plan no dice costo.",
+    "cita": "Diseñar el plan turístico que incluya de manera complementaria el turismo gastronómico, las ferias y nodos de crecimiento productivo",
+    "pag": 20
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear una lista de aliados y buscar convenios para financiar proyectos.",
+    "que": "Meta de 5 convenios en el período. El plan no dice cuánto dinero conseguirá.",
+    "v": "media",
+    "n": "Los convenios dependen de otras instituciones. El plan no dice cuánto costará.",
+    "cita": "Crear un banco de cooperantes y aliados estratégicos, elaborar proyectos técnicamente sustentados y gestionar recursos y convenios para su ejecución.",
+    "pag": 19
+   },
+   {
+    "t": "Hacer asambleas y mesas de trabajo por barrios y comunas para decidir qué obras van primero.",
+    "que": "Meta: 100% de barrios y comunas incorporados al proceso. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Reunir a la gente y hacer asambleas es trabajo que la junta puede hacer.",
+    "cita": "Realizar asambleas territoriales, mesas de trabajo, presupuesto participativo y mecanismos de seguimiento ciudadano.",
+    "pag": 25
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer un diagnóstico de las vías parroquiales y pedir arreglos a la Prefectura y al Municipio.",
+    "que": "Meta de 15 sectores viales gestionados entre 2027 y 2031. El plan no dice cuánto costará cada arreglo.",
+    "v": "media",
+    "n": "Las vías se arreglan con la Prefectura y el Municipio; la junta gestiona.",
+    "cita": "Elaborar un diagnóstico vial parroquial, priorizar sectores y gestionar intervenciones con la Prefectura de Pichincha, Municipio y entidades competentes.",
+    "pag": 21
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Revisar puntos peligrosos, pedir alumbrado, recuperar espacios y organizar redes de vecinos.",
+    "que": "Meta de 20 espacios o puntos críticos en el período. El plan no dice cuánto costará ni quién lo pagará.",
+    "v": "media",
+    "n": "La luz y las obras le tocan a otras instituciones; la junta organiza a vecinos.",
+    "cita": "Identificar puntos críticos, gestionar iluminación y recuperación de espacios, organizar redes comunitarias de prevención y coordinar acciones con las instituciones competentes.",
+    "pag": 20
+   }
+  ],
+  "social": [
+   {
+    "t": "Buscar convenios para servicios de desarrollo infantil y atención a familias.",
+    "que": "Meta de 3 convenios o programas para primera infancia y familias. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "Le toca al Estado (MIES: Ministerio de Inclusión Económica y Social). La junta solo gestiona.",
+    "cita": "Gestionar convenios con entidades públicas, privadas y organizaciones sociales para fortalecer o implementar servicios de desarrollo infantil y atención familiar.",
+    "pag": 22
+   },
+   {
+    "t": "Crear un programa para jóvenes con cursos, liderazgo, deporte, cultura y voluntariado.",
+    "que": "Meta de 10 programas de formación y participación juvenil. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita convenios con universidades y empresas. El plan no dice cuánto costará.",
+    "cita": "Crear un programa parroquial de juventud que combine capacitación, liderazgo, emprendimiento, deporte, cultura y voluntariado.",
+    "pag": 24
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer un listado de canchas y espacios deportivos y arreglarlos por orden de necesidad.",
+    "que": "Meta de 10 espacios deportivos y recreativos recuperados. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de presupuesto y convenios; la junta tiene poco dinero según su cargo.",
+    "cita": "Levantar un inventario de espacios deportivos, priorizar necesidades y ejecutar acciones de mantenimiento, recuperación y equipamiento mediante presupuesto y convenios.",
+    "pag": 22
+   }
+  ]
+ },
+ "metas": [
+  "20 espacios o puntos críticos atendidos entre 2027 y 2031.",
+  "15 sectores viales gestionados entre 2027 y 2031.",
+  "25 jornadas ambientales y de reforestación en el período.",
+  "10 programas de formación y participación juvenil.",
+  "15 proyectos productivos y turísticos implementados al 2031."
+ ],
+ "notas": [
+  "Metas copiadas por error: la de inclusión y la deportiva hablan de jornadas ambientales y mantenimiento vial.",
+  "El plan no dice cuánto cuesta ninguna propuesta. Varias obras (agua, alcantarillado, luz) son de otros niveles."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33
+ ],
+ "paginas": 33
+}

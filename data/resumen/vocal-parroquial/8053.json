@@ -1,0 +1,115 @@
+{
+ "enfoque": "Plan general para Tambillo. Lo concreto: caminos rurales, parques, agua en sectores altos, albergues y la Casa Comunal del Chagra, con la Alcaldía de Mejía.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a vías rurales que llevan a centros agrícolas.",
+    "que": "Se hará en coordinación con la Alcaldía de Mejía. El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "media",
+    "n": "Caminos: la junta los cuida junto con la Prefectura. Requiere acuerdo con la Alcaldía.",
+    "cita": "Mantenimiento y lastrado de vías rurales de acceso a centros agrícolas",
+    "pag": 5
+   },
+   {
+    "t": "Instalar pasos elevados para peatones en cruces críticos de la Panamericana Sur.",
+    "que": "Obra en la Panamericana Sur, en coordinación con la Alcaldía de Mejía. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Es una vía grande; le toca a otro nivel de gobierno, no a la junta.",
+    "cita": "Instalación de pasos elevados peatonales en intersecciones críticas de la Panamericana Sur.",
+    "pag": 5
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar el sistema que capta y lleva agua a sectores altos.",
+    "que": "Obra de agua en sectores altos, en coordinación con la Alcaldía. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "El agua potable no es competencia de la junta.",
+    "cita": "Ampliación del sistema de captación y conducción de agua en sectores altos",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir la Casa Comunal del Chagra en la cabecera parroquial.",
+    "que": "Obra en la cabecera parroquial, en coordinación con la Alcaldía. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Obra grande: necesita acuerdo con la Alcaldía. La junta tiene poco presupuesto.",
+    "cita": "Construcción de la Casa Comunal del Chagra en la cabecera parroquial.",
+    "pag": 5
+   },
+   {
+    "t": "Mejorar y equipar las áreas recreativas de los parques de la parroquia.",
+    "que": "Trabajo en áreas recreativas de los parques, en coordinación con la Alcaldía. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Parques: sí es trabajo de la junta. El plan no dice cuánto costará.",
+    "cita": "Mejoramiento y equipamiento de áreas recreativas en parques de la parroquia.",
+    "pag": 5
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Equipar albergues temporales para emergencias por lahares (avalanchas de lodo de volcán).",
+    "que": "El plan no dice dónde ni cuánto costará. Se hará en coordinación con la Alcaldía de Mejía.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Alcaldía; la junta puede organizar a la comunidad.",
+    "cita": "Equipamiento de albergues comunitarios temporales ante emergencias por lahares",
+    "pag": 5
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger fuentes de agua, bosques y ecosistemas con control y participación comunitaria.",
+    "que": "Acciones coordinadas de control y manejo, con participación de la comunidad. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Cuidar el ambiente sí es trabajo de la junta. El plan no dice cuánto costará.",
+    "cita": "Proteger y conservar las fuentes de agua, bosques y ecosistemas estratégicos, mediante acciones coordinadas de control",
+    "pag": 2
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer programas de inclusión social para mujeres, jóvenes y personas adultas mayores.",
+    "que": "Programas con enfoque de derechos e igualdad de género. El plan no dice qué programas serán ni cuánto costarán.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí es trabajo de la junta. El plan no dice qué programas serán.",
+    "cita": "Implementar programas de inclusión social y participación, orientados a mujeres, jóvenes y personas adultas mayores",
+    "pag": 2
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar emprendimientos comunitarios y asociativos de economía popular y solidaria.",
+    "que": "Apoyo técnico, financiero y comercial de instituciones del Estado. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de instituciones del Estado, no de la junta sola.",
+    "cita": "Impulsar emprendimientos comunitarios y asociativos, priorizando iniciativas de economía popular y solidaria",
+    "pag": 2
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Explicar a la comunidad cómo se gasta el presupuesto parroquial.",
+    "que": "Explicar de forma clara las asignaciones y gastos, con asambleas públicas y tableros comunitarios. El plan no dice cuándo.",
+    "v": "alta",
+    "n": "Dar cuentas a la comunidad es trabajo de la junta y cuesta poco.",
+    "cita": "Socializar de manera clara y detallada el presupuesto parroquial, explicando las asignaciones",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero. Muchas frases son generales.",
+  "Gran parte del texto es general y parece copiado de planes de desarrollo. Las obras concretas están en la sección 7 y dependen de la Alcaldía."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "paginas": 5
+}

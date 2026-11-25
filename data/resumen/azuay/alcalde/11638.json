@@ -1,0 +1,110 @@
+{
+ "enfoque": "Plan para agua, calles, parques, turismo y transparencia en Girón, 2027-2031. No dice cuánto costará cada obra ni cuándo se hará.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar y mejorar agua potable, alcantarillado y basura en los sectores con poco servicio.",
+    "que": "Primero van los sectores que todavía tienen poca cobertura. El plan no dice cuánto costará ni en qué año se hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "sistemas de agua potable, alcantarillado, saneamiento ambiental y gestión integral de residuos sólidos,",
+    "pag": 1
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento y mejorar las calles urbanas de Girón.",
+    "que": "El plan no dice qué calles se arreglarán ni cuánto costará. Se hará según el dinero disponible.",
+    "v": "alta",
+    "n": "Las calles de la ciudad sí son del Municipio. Falta el costo.",
+    "cita": "mantenimiento y mejoramiento de la vialidad urbana, asi como coordinar",
+    "pag": 1
+   },
+   {
+    "t": "Coordinar con la Prefectura y las parroquias las obras en caminos rurales.",
+    "que": "El plan dice que se coordinará con la Prefectura del Azuay y las parroquias. No dice cuánto costará.",
+    "v": "media",
+    "n": "Los caminos rurales dependen de la Prefectura y las parroquias.",
+    "cita": "permanentemente con el Gobierno Provincial del Azuay y los gobiernos parroquiales las",
+    "pag": 1
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Ordenar el uso del suelo con planes y controles.",
+    "que": "El plan dice que se actualizarán los planes y se controlará el uso del suelo. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: planes de suelo y control de ocupación.",
+    "cita": "Promover un crecimiento territorial ordenado y sostenible, fortaleciendo la",
+    "pag": 1
+   },
+   {
+    "t": "Recuperar parques, plazas y espacios deportivos y recreativos.",
+    "que": "El plan no dice qué espacios se recuperarán ni cuánto costará. Lo ubica entre 2027 y 2031.",
+    "v": "alta",
+    "n": "Parques y plazas son del Municipio. Falta el costo.",
+    "cita": "Recuperar y fortalecer espacios públicos, deportivos y recreativos como",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar emprendimientos, mercados y ferias de productores.",
+    "que": "El plan dice que se hará junto con productores, el Ministerio de Agricultura, la Prefectura y universidades. No dice cuánto costará.",
+    "v": "media",
+    "n": "Mercados y ferias sí son del Municipio; el apoyo depende de otras instituciones.",
+    "cita": "Impulsar el desarrollo económico local, mediante apoyo a emprendimientos,",
+    "pag": 3
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger fuentes de agua y ecosistemas, y prevenir amenazas naturales.",
+    "que": "El plan dice que se priorizarán estas áreas. No dice qué acciones se harán ni cuánto costarán.",
+    "v": "media",
+    "n": "Agua y riesgos son del Municipio, pero el plan no dice cómo.",
+    "cita": "priorizando fuentes hidricas, ecosistemas estratégicos y prevención frente a",
+    "pag": 3
+   }
+  ],
+  "social": [
+   {
+    "t": "Coordinar programas sociales para grupos vulnerables con otras instituciones.",
+    "que": "El plan dice que se trabajará con instituciones competentes. No dice cuánto costará.",
+    "v": "baja",
+    "n": "Los programas sociales no son competencia municipal; depende de otras instituciones.",
+    "cita": "Promover la inclusión y protección social, articulando programas dirigidos",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar obras principales con monto, plazo y avance.",
+    "que": "El plan dice que se publicará el monto, plazo y estado de las obras principales. No dice cuándo empezará.",
+    "v": "alta",
+    "n": "Le toca al Municipio; es información propia de la administración.",
+    "cita": "Seguimiento público de obras. Se promoverá la publicación de información básica de",
+    "pag": 6
+   }
+  ]
+ },
+ "metas": [
+  "Informe de avance cada seis meses durante 2027-2031.",
+  "Rendición pública de cuentas cada año.",
+  "Evaluación a mitad de periodo y evaluación final al terminar 2027-2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra. Todo depende de la disponibilidad de presupuesto.",
+  "Parte de la tabla del plan no se lee bien; algunas propuestas salen del texto de objetivos."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "paginas": 6
+}

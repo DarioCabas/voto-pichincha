@@ -1,0 +1,131 @@
+{
+ "enfoque": "Cuidar el agua y el ambiente, pedir tractores, dar cursos a agricultores, crear una red de turismo rural y organizar a barrios y recintos rurales.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Revisar y clasificar todas las fuentes de agua según su calidad y uso permitido.",
+    "que": "Meta: reducir la contaminación del agua en un 25% en 2027 y en un 60% en 2030. El plan no dice cuánto costará. Pide apoyo del Ministerio del Ambiente y la Prefectura.",
+    "v": "media",
+    "n": "El agua para consumo le toca a otras entidades; la junta puede vigilar y pedir apoyo.",
+    "cita": "Identificar y clasificar todas las fuentes de agua según su calidad y uso permitido.",
+    "pag": 4
+   }
+  ],
+  "economia": [
+   {
+    "t": "Gestionar la entrega de tractores agrícolas para los agricultores de la parroquia.",
+    "que": "Pide tener un tractor en 2028 y otro en 2029. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Ministerio de Agricultura y la Prefectura.",
+    "cita": "Gestionar y recibir los tractores agrícolas necesarios para el sector",
+    "pag": 5
+   },
+   {
+    "t": "Dar cursos a productores sobre buenas prácticas de producción, administración y venta.",
+    "que": "Meta: 90% de productores capacitados en 2027 y 100% en 2031. Dice que se gestionarán recursos, pero no cuánto.",
+    "v": "alta",
+    "n": "Los cursos los organiza la junta, con ayuda de universidades y ONG.",
+    "cita": "Diseñar e implementar programas de capacitación adaptados a la realidad local.",
+    "pag": 6
+   },
+   {
+    "t": "Crear la Red de Turismo Rural de Amaguaña con líderes, instituciones y sector privado.",
+    "que": "Meta: 30% de actores organizados en 2028 y 60% en 2031. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Reunir y organizar a personas y grupos es tarea de la junta.",
+    "cita": "Creación de la Red de Turismo Rural de Amaguaña.",
+    "pag": 7
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una audiencia pública cada año para rendir cuentas de obras y gastos.",
+    "que": "Se hará en el último trimestre del año, con ejecución del dinero, avance de obras y metas. El plan no dice cuánto cuesta.",
+    "v": "alta",
+    "n": "La propia junta la organiza; no depende de otro nivel.",
+    "cita": "Implementar la Audiencia Pública de Rendición de Cuentas anual",
+    "pag": 13
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Construir tres puentes peatonales en los barrios Malinda, Peluche Bajo y la Comuna El Ejido.",
+    "que": "Meta: tres puentes al 60% hasta 2031. El plan no dice cuánto costarán ni quién los pagará; pide convenios con el gobierno y ONG.",
+    "v": "media",
+    "n": "Le toca al Municipio o la Prefectura; la junta necesita acuerdo con ellos.",
+    "cita": "construcción de puentes peatonales en los barrios Malinda, Peluche Bajo y la Comuna El Ejido.",
+    "pag": 15
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar equipos de seguridad en la mitad de las vías principales y secundarias.",
+    "que": "Meta: equipos en el 50% de las vías. El plan no dice cuánto costará. Pide crear un comité para buscar recursos.",
+    "v": "baja",
+    "n": "La seguridad le toca a la Policía; la junta solo puede gestionar y colaborar.",
+    "cita": "Instalar y poner en funcionamiento equipos de seguridad en el 50% de vías principales y secundarias de la parroquia.",
+    "pag": 12
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar cada año competencias, encuentros y jornadas recreativas para todas las edades.",
+    "que": "Deben incluir a niñez, adultos mayores y personas con discapacidad. El plan no dice cuánto costará; pide convenios y dinero de la junta.",
+    "v": "alta",
+    "n": "Organizar eventos y juntar a la comunidad es tarea de la junta.",
+    "cita": "Realización de competencias, encuentros y jornadas recreativas anuales",
+    "pag": 8
+   },
+   {
+    "t": "Ayudar a los recintos y comunas rurales a formar su organización legal (OTB).",
+    "que": "Meta: registrar al menos el 85% de los asentamientos en 12 meses. Asesoría gratuita en documentos y asambleas. No dice cuánto cuesta el proceso.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es tarea de la junta, con asesoría gratuita.",
+    "cita": "Identificar, sensibilizar, capacitar, acompañar y formalizar la constitución legal de OTB en los asentamientos rurales",
+    "pag": 11
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Presentar al Concejo Metropolitano de Quito propuestas de reglas para el uso del suelo.",
+    "que": "Meta: presentar el 25% de las propuestas en 2027. El plan no dice cuánto costará; pide contratar abogados y técnicos.",
+    "v": "media",
+    "n": "Le toca al Concejo Metropolitano decidir; la junta solo puede presentar y dar seguimiento.",
+    "cita": "Elaborar y presentar iniciativas y proyectos de ordenanzas municipales ante el Concejo Metropolitano",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Tres puentes peatonales al 60% hasta 2031.",
+  "Un tractor agrícola operativo al 100% en 2027.",
+  "90% de productores capacitados en 2027 y 100% en 2031.",
+  "Registrar al menos el 85% de los asentamientos como OTB en 12 meses.",
+  "Reducir la contaminación del agua en 25% en 2027 y en 60% en 2030."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará casi ninguna propuesta ni de dónde saldrá el dinero.",
+  "Varias propuestas son de agua para consumo, seguridad, semáforos y ordenanzas: le tocan a otros niveles."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17
+ ],
+ "paginas": 17
+}

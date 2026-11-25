@@ -1,0 +1,132 @@
+{
+ "enfoque": "Plan general: caminos rurales, espacios públicos, productores, ambiente y participación de vecinos. Casi no dice qué obras harán ni cuánto costarán.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Planificar y arreglar caminos rurales de la parroquia, junto con la Prefectura.",
+    "que": "El plan no dice qué caminos ni cuánto costará. Dice que el mantenimiento dependerá de la planificación y del presupuesto disponible.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura. La junta solo coordina.",
+    "cita": "Planificar y gestionar el mantenimiento de la vialidad parroquial rural, en coordinación con el Gobierno Provincial de Pichincha.",
+    "pag": 17
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Dar mantenimiento y mejorar los espacios públicos de la parroquia.",
+    "que": "El plan no dice qué espacios ni cuánto costará. Dice que se hará de forma progresiva y según el presupuesto.",
+    "v": "alta",
+    "n": "Sí le toca a la junta: espacios de la parroquia. El plan no dice cuánto costará.",
+    "cita": "Planificar e impulsar progresivamente el mantenimiento, adecuación y mejoramiento de la infraestructura física, equipamientos y espacios públicos parroquiales.",
+    "pag": 18
+   },
+   {
+    "t": "Planificar el desarrollo y el orden del territorio de la parroquia.",
+    "que": "El plan no dice qué zonas ni cuánto costará. Propone hacerlo en coordinación con los niveles de gobierno competentes.",
+    "v": "media",
+    "n": "El uso del suelo depende del Municipio. El plan no dice cómo lo harán.",
+    "cita": "Fortalecer la planificación del desarrollo y ordenamiento territorial de la parroquia.",
+    "pag": 17
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer acciones comunitarias para cuidar y recuperar espacios naturales.",
+    "que": "El plan no dice qué espacios ni cuántos recursos. Está previsto para 2027-2031 y se haría con las entidades competentes.",
+    "v": "alta",
+    "n": "Le toca a la junta: cuidar el ambiente y organizar a la comunidad.",
+    "cita": "Impulsar acciones comunitarias de conservación y recuperación de espacios naturales de la parroquia, en coordinación con las entidades competentes.",
+    "pag": 22
+   }
+  ],
+  "economia": [
+   {
+    "t": "Impulsar mecanismos para vender y dar a conocer productos de la parroquia.",
+    "que": "El plan no dice qué productos ni cuánto costará. Lo haría con instituciones y organizaciones competentes.",
+    "v": "alta",
+    "n": "Le toca a la junta apoyar a productores. El plan no dice cómo lo haría.",
+    "cita": "Impulsar mecanismos de promoción y comercialización de productos locales.",
+    "pag": 21
+   },
+   {
+    "t": "Promover la organización de productores y emprendedores de la parroquia.",
+    "que": "El plan no dice cuántos productores ni en qué plazo. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta apoyar a productores. El plan no dice cómo lo haría.",
+    "cita": "Promover la organización y asociatividad de productores y emprendedores de la parroquia.",
+    "pag": 12
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar mingas, o trabajo de vecinos en grupo, para acciones de interés colectivo.",
+    "que": "El plan no dice cuántas mingas ni qué acciones. Lo haría con barrios, comunas y comunidades.",
+    "v": "alta",
+    "n": "Le toca a la junta organizar a la comunidad. El plan no dice cuánto costará.",
+    "cita": "Impulsar la participación comunitaria y las mingas para el desarrollo de acciones de interés colectivo.",
+    "pag": 25
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar planes, proyectos y presupuesto de la junta en sus medios oficiales.",
+    "que": "El plan no dice qué se publicará ni cada cuánto. Dice que se hará con página web, redes y medios de la junta.",
+    "v": "alta",
+    "n": "Lo puede hacer la propia junta con sus medios. El plan no dice cuánto cuesta.",
+    "cita": "Publicación de información sobre planes, proyectos, presupuesto y gestión parroquial mediante los medios institucionales disponibles.",
+    "pag": 29
+   },
+   {
+    "t": "Vigilar y dar seguimiento a las obras y servicios públicos de la parroquia.",
+    "que": "El plan no dice qué obras ni con qué herramientas. No dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Es función de la junta vigilar obras. El plan no dice cómo lo hará.",
+    "cita": "Fortalecer la vigilancia y seguimiento de las obras y servicios públicos que se desarrollen en la parroquia.",
+    "pag": 17
+   }
+  ]
+ },
+ "metas": [
+  "Todas las acciones del plan van del 2027 al 2031."
+ ],
+ "notas": [
+  "El texto tiene la frase \"[Nombre de la Parroquia]\" sin llenar, señal de que el plan es una plantilla copiada.",
+  "El plan no da costos ni obras concretas. Varias propuestas dependen del Municipio o la Prefectura."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32
+ ],
+ "paginas": 32
+}

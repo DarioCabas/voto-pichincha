@@ -1,0 +1,114 @@
+{
+ "enfoque": "Plan general que pide coordinar con el Estado para los servicios. Pocas acciones propias de la junta y sin costos. Parte del texto parece copiada de un modelo general.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Cuidar las fuentes de agua y los bosques con control y participación de la comunidad.",
+    "que": "El plan dice que habrá control, manejo sostenible y participación comunitaria. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "La junta puede cuidar el ambiente y organizar a la comunidad. El plan no da plazos.",
+    "cita": "Proteger y conservar las fuentes de agua, bosques y ecosistemas estratégicos, mediante acciones coordinadas de control, manejo sostenible y participación comunitaria.",
+    "pag": 3
+   },
+   {
+    "t": "Hacer educación ambiental en las comunidades, con saberes ancestrales.",
+    "que": "El plan dice que se promoverá la corresponsabilidad ciudadana y prácticas sostenibles. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Son charlas y talleres, algo que la junta sí puede organizar.",
+    "cita": "Fortalecer la educación ambiental comunitaria, promoviendo la corresponsabilidad ciudadana, los saberes ancestrales y prácticas sostenibles de uso del territorio.",
+    "pag": 4
+   },
+   {
+    "t": "Hacer acciones para prevenir riesgos y adaptarse al cambio climático.",
+    "que": "El plan no dice qué acciones ni dónde. No dice cuánto costará ni quién lo pagará.",
+    "v": "media",
+    "n": "Riesgos y cambio climático también los trabaja el Municipio. Hace falta acuerdo con él.",
+    "cita": "Implementar acciones de gestión de riesgos y adaptación al cambio climático, orientadas a la prevención, reducción de vulnerabilidades",
+    "pag": 4
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar emprendimientos comunitarios y asociativos de economía popular y solidaria.",
+    "que": "Se apoyará con asesoría técnica, financiamiento y ventas de instituciones del Estado. El plan no dice cuánto ni cuándo.",
+    "v": "media",
+    "n": "La junta puede acompañar, pero el dinero y la asesoría dependen de otras instituciones.",
+    "cita": "Impulsar emprendimientos comunitarios y asociativos, priorizando iniciativas de economía popular y solidaria",
+    "pag": 3
+   },
+   {
+    "t": "Promover el turismo comunitario, basado en la cultura y la naturaleza de la parroquia.",
+    "que": "Se busca generar ingresos y empleo local. El plan no dice cuánto costará, cómo se pagará ni en qué plazo.",
+    "v": "alta",
+    "n": "La junta puede promover y organizar actividades. El plan no da cifras.",
+    "cita": "Promover el turismo comunitario sostenible, basado en la identidad cultural y la conservación del patrimonio natural",
+    "pag": 3
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer programas de inclusión para mujeres, jóvenes y personas adultas mayores.",
+    "que": "El plan no dice qué programas, cuántas personas ni cuándo. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Son actividades y reuniones que la junta puede organizar.",
+    "cita": "Implementar programas de inclusión social y participación, orientados a mujeres, jóvenes y",
+    "pag": 3
+   },
+   {
+    "t": "Dar talleres para prevenir violencia, alcohol, drogas y reclutamiento por redes delictivas.",
+    "que": "Se harán con entidades especializadas. El plan no dice cuántos talleres, cuándo ni cuánto costarán.",
+    "v": "alta",
+    "n": "Son talleres que la junta puede dar. La policía no es de la junta.",
+    "cita": "Organizar talleres informativos para la prevención de violencia, consumo problemático de alcohol",
+    "pag": 3
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Gestionar proyectos de escuelas, salud y agua potable con instituciones del Estado.",
+    "que": "El plan no dice qué proyectos, cuánto costarán ni cuándo se harán.",
+    "v": "baja",
+    "n": "Escuelas, salud y agua potable son de otros niveles. La junta solo puede pedirlos.",
+    "cita": "Promover y gestionar proyectos con las Instituciones como la SCTEA infraestructura de educativa",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Explicar a la gente el presupuesto de la parroquia: en qué se gasta y cuánto.",
+    "que": "El plan dice que se explicará claramente la asignación, inversión y gasto. No dice cuándo ni con qué frecuencia.",
+    "v": "alta",
+    "n": "Le toca a la junta y cuesta poco. Es informar, no hacer obra.",
+    "cita": "Socializar de manera clara y detallada cl presupuesto parroquial, explicando las asignaciones,",
+    "pag": 4
+   },
+   {
+    "t": "Hacer asambleas públicas con las comunidades para informar y recibir propuestas.",
+    "que": "El plan dice que se hará periódicamente, pero no dice cada cuánto ni dónde. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Son reuniones que la junta puede organizar con la comunidad.",
+    "cita": "Convocar periódicamente a las comunidades, organizaciones sociales, juntas vecinales y",
+    "pag": 4
+   }
+  ]
+ },
+ "metas": [
+  "Período de gobierno: 2027 - 2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Gran parte del texto es un modelo general: habla de coordinar con el Estado y casi no menciona caminos ni parques."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "paginas": 8
+}

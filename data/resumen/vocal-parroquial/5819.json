@@ -1,0 +1,98 @@
+{
+ "enfoque": "Plan centrado en educación financiera (ahorro, deudas y alternativas al chulco) y cursos a productores. Pide acuerdos con universidades, cooperativas y otras entidades.",
+ "tabla": {
+  "economia": [
+   {
+    "t": "Proponer y apoyar el programa 'Checa Finanzas Inclusivas' con talleres en barrios y comunas.",
+    "que": "Los talleres irían por barrios y comunas. Se harían con acuerdos con universidades, cooperativas y otras organizaciones. El plan no dice cuánto costará ni cuándo empieza.",
+    "v": "media",
+    "n": "Necesita acuerdos con otras entidades; el plan no dice quién lo paga.",
+    "cita": "Proponer, gestionar y apoyar la implementación del programa 'Checa Finanzas Inclusivas', mediante",
+    "pag": 5
+   },
+   {
+    "t": "Armar consultorios financieros gratuitos con universidades para ayudar a reordenar deudas familiares.",
+    "que": "Las familias recibirían asesoría gratuita para reordenar sus deudas. El plan no dice cuántos consultorios habrá ni cuándo.",
+    "v": "media",
+    "n": "Depende de acuerdos con universidades; el plan no dice quién los financia.",
+    "cita": "Articular alianzas técnicas con universidades del Distrito Metropolitano de Quito para desarrollar",
+    "pag": 5
+   },
+   {
+    "t": "Dar cursos a productores de hortalizas y frutas sobre cuentas, ganancias y costos de producción.",
+    "que": "Los cursos enseñarían contabilidad básica y cómo calcular ganancias y costos de cultivo en la zona. El plan no dice cuántos cursos habrá ni cuánto costarán.",
+    "v": "alta",
+    "n": "Son cursos que la junta puede organizar; el plan no dice el costo.",
+    "cita": "Desarrollar capacitaciones en contabilidad básica, cálculo de márgenes de ganancia y costos de",
+    "pag": 5
+   },
+   {
+    "t": "Organizar ferias donde el productor vende directo al consumidor, con pagos digitales.",
+    "que": "Las ferias serían directas, del productor al consumidor, y aceptarían billeteras digitales y pagos electrónicos. El plan no dice dónde ni cuándo se harán.",
+    "v": "alta",
+    "n": "Las ferias sí las puede organizar la junta. El plan no dice cómo se instalarán los pagos digitales.",
+    "cita": "Promover e impulsar ferias agroproductivas directas del productor al consumidor, integrando",
+    "pag": 5
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Capacitar a juntas de agua y comités ambientales en manejo de presupuestos y fondos de reserva.",
+    "que": "Sería para cuidar quebradas y fuentes de agua. El plan no dice cuántas capacitaciones habrá ni cuánto costarán.",
+    "v": "media",
+    "n": "Las juntas de agua no las maneja la junta; el plan no dice quién paga.",
+    "cita": "Capacitar a las juntas de agua y comités ambientales locales en la gestión eficiente de presupuestos",
+    "pag": 6
+   },
+   {
+    "t": "Informar sobre incentivos verdes y financiamiento para riego y cultivos ecológicos en la parroquia.",
+    "que": "Serían proyectos comunitarios de riego tecnificado, producción agroecológica y conservación ambiental. El plan no dice montos ni plazos.",
+    "v": "media",
+    "n": "Los incentivos los dan otras entidades; la junta solo informa y articula.",
+    "cita": "Promover información y articulación con entidades competentes sobre financiamiento productivo",
+    "pag": 5
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Participar en la aprobación y control del presupuesto participativo de la parroquia.",
+    "que": "Lo harían con asambleas y mecanismos de participación ciudadana. El plan no dice cuándo se harán.",
+    "v": "alta",
+    "n": "Es parte del trabajo de un vocal.",
+    "cita": "Participar, desde las atribuciones de los vocales y del pleno de la Junta, en la aprobación, seguimiento",
+    "pag": 6
+   },
+   {
+    "t": "Publicar reportes periódicos sobre presupuesto y avances en herramientas digitales de la junta.",
+    "que": "Habría informes públicos cada seis meses y acceso a información pública. El plan no dice cuánto costarán las herramientas digitales.",
+    "v": "alta",
+    "n": "La junta puede publicar sus informes; el plan no dice el costo de las herramientas.",
+    "cita": "información pública, incluyendo reportes periódicos y herramientas digitales institucionales, sin",
+    "pag": 6
+   }
+  ]
+ },
+ "metas": [
+  "Informe público de avances cada seis meses (semestral).",
+  "Rendición de cuentas en asamblea una vez al año.",
+  "Programa de finanzas: diseño y alianzas en 2027; evaluación final en 2031.",
+  "Cursos a productores: diagnóstico en 2027; capacitación y alianzas en 2028; ferias y fortalecimiento en 2029."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "No propone obras de caminos, parques ni agua. La lista de nombres (p. 8) aparece vacía en el texto."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "paginas": 9
+}

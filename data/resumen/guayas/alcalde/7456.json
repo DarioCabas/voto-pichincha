@@ -1,0 +1,153 @@
+{
+ "enfoque": "Plan de obras municipales (agua, basura, parques, mercados, calles) con proyectos de salud y policía que no le tocan. Parte del texto sale del plan de desarrollo del cantón.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Construir un parque urbano en Los Lojas con zonas recreativas, deportivas y ecológicas.",
+    "que": "El plan no dice cuánto costará ni cuándo. Es para toda la comunidad de Los Lojas.",
+    "v": "alta",
+    "n": "Le toca al Municipio: los parques son competencia municipal.",
+    "cita": "Parroquia Verde en Los Lojas - parque urbano con",
+    "pag": 3
+   },
+   {
+    "t": "Hacer un mapa de zonas de riesgo por lluvias e inundaciones en el cantón.",
+    "que": "El mapa marcará qué zonas son vulnerables. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: prevenir desastres es competencia municipal.",
+    "cita": "Mapa de riesgos cantonal - identificación y zonificación de áreas de vulnerabilidad hidrometeorológica",
+    "pag": 13
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Mejorar la recolección y el manejo de la basura en todo el cantón.",
+    "que": "El plan mide cobertura y frecuencia del servicio. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: la basura es competencia municipal.",
+    "cita": "Mejoramiento integral del sistema de recolección y manejo de desechos sólidos del cantón Daule",
+    "pag": 16
+   },
+   {
+    "t": "Ampliar la red de agua potable, primero donde hay menos cobertura.",
+    "que": "Usa el programa CAF, ya en marcha (USD 35M). El plan no dice cuándo terminará cada tramo.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende del programa CAF y de su presupuesto.",
+    "cita": "Este plan concentra la mayor parte de la inversión municipal en la ampliación de redes de agua potable",
+    "pag": 15
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Ejecutar 34 planes para urbanizaciones, sobre todo en La Aurora.",
+    "que": "Son para vías, luz, alcantarillado y espacios públicos. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el plan no dice cómo se pagará.",
+    "cita": "la implementación progresiva de los 34 Planes Urbanísticos Complementarios identificados",
+    "pag": 7
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Gestionar mejor transporte público entre el cantón y La Aurora.",
+    "que": "Es una gestión, no una obra. El plan no dice cuánto costará ni cuándo se logrará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de acuerdos y de empresas de buses.",
+    "cita": "Gestión municipal para mejorar la conectividad de transporte público entre el cantón y La Aurora",
+    "pag": 8
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar cámaras de videovigilancia y coordinar con la Policía.",
+    "que": "Las cámaras son del municipio, pero la vigilancia la hace la Policía. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "El municipio pone cámaras; la Policía no le toca al alcalde.",
+    "cita": "una infraestructura de videovigilancia y un modelo de gestión coordinado con las instituciones competentes",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear un club deportivo municipal para formar y representar al cantón.",
+    "que": "El plan no dice cuánto costará ni cuándo. Medirá cuántas disciplinas deportivas funcionan.",
+    "v": "alta",
+    "n": "Le toca al Municipio: el deporte municipal es su competencia.",
+    "cita": "la creación del Club Deportivo Daule, el Parque inclusivo y el Centro Integral de Servicios Públicos en La Aurora",
+    "pag": 5
+   },
+   {
+    "t": "Gestionar con el Ministerio de Salud un Hospital de Especialidades.",
+    "que": "Es una gestión con el Ministerio de Salud. El plan no dice cuándo se construirá ni cuánto costará.",
+    "v": "baja",
+    "n": "No le toca al Municipio: la salud es del Ministerio de Salud.",
+    "cita": "La gestión interinstitucional para un Hospital de Especialidades",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Arreglar y mantener los mercados municipales para vendedores y compradores.",
+    "que": "El plan no dice cuánto costará ni cuándo. Medirá el estado de los mercados y la satisfacción de usuarios.",
+    "v": "alta",
+    "n": "Le toca al Municipio: los mercados municipales son suyos.",
+    "cita": "Mejoramiento y mantenimiento de los mercados municipales para una mejor",
+    "pag": 14
+   }
+  ]
+ },
+ "metas": [
+  "Cobertura de agua potable en Los Lojas: de 9,5% a por lo menos 40%.",
+  "Cobertura de agua potable en Junquillal - Boliche-Aurora: de 35,1% a por lo menos 60%.",
+  "Índice de Consolidación Urbana: de 24% a 40%.",
+  "34 planes para urbanizaciones pendientes de hacer."
+ ],
+ "notas": [
+  "El plan no dice casi nada sobre costos ni de dónde saldrá el dinero. Las metas dependen del presupuesto.",
+  "Parte de las tablas del plan está borrosa; algunas propuestas pueden no leerse bien."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40
+ ],
+ "paginas": 40
+}

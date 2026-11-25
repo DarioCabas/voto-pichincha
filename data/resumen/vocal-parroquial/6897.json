@@ -1,0 +1,112 @@
+{
+ "enfoque": "Buscar dinero de organismos cooperantes, apoyar a productores y turismo, hacer talleres ambientales y arreglar caminos con mingas. Casi ninguna propuesta dice cuánto costará.",
+ "tabla": {
+  "economia": [
+   {
+    "t": "Buscar convenios con organismos que den apoyo económico o técnico a la parroquia.",
+    "que": "Crear una lista de organismos cooperantes. Meta: 1 convenio al año, 4 en total hasta 2031. El plan no dice cuánto dinero se conseguirá.",
+    "v": "media",
+    "n": "Depende de acuerdos con organismos externos. El plan no dice cuánto costará.",
+    "cita": "Generar un banco de cooperantes que fortalezcan las acciones territoriales",
+    "pag": 9
+   },
+   {
+    "t": "Hacer un plan de turismo con comida, ferias y zonas de crecimiento productivo.",
+    "que": "Meta: 15 proyectos implementados al 2031. El plan no dice en qué lugares se harán ni cuánto costarán. Beneficiaría a vecinos de la parroquia, cantón y provincia.",
+    "v": "media",
+    "n": "Puede necesitar acuerdos con el Municipio o la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Diseñar el plan turístico que incluya de manera complementaria el turismo gastronómico, las ferias y",
+    "pag": 9
+   },
+   {
+    "t": "Crear un sistema de desarrollo productivo con 3 puntos de producción.",
+    "que": "Plazos: 2028, 2029 y 2031. El plan no dice dónde se harán los puntos ni cuánto costarán.",
+    "v": "media",
+    "n": "Requiere dinero para construir y acuerdos con otros niveles. El plan no dice de dónde saldrá.",
+    "cita": "Bajo el Plan de Vida desarrollar e implementar sistemas de desarrollo",
+    "pag": 10
+   },
+   {
+    "t": "Promover agricultura orgánica sin deforestación, con 10 proyectos de seguridad alimentaria.",
+    "que": "Avance de 3, 6, 9 y 10 proyectos en los años 1 a 4. El plan no dice dónde se harán ni cuánto costarán.",
+    "v": "alta",
+    "n": "Apoyar a productores sí le toca a la junta. El plan no dice cuánto costará.",
+    "cita": "Promover la agricultura orgánica libre de deforestación, agricultura",
+    "pag": 13
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Dar 10 talleres sobre cuencas de agua, ecosistemas y cambio climático.",
+    "que": "Dirigidos a ciudadanos, con atención a la participación de mujeres y hombres. Plazos entre 2028 y 2031. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar talleres sí le toca a la junta. El plan no dice cuánto costará.",
+    "cita": "Fomentar la concientización de la protección ambiental a través de capacitaciones",
+    "pag": 14
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a 10 proyectos de caminos, con mingas y equipos de la junta.",
+    "que": "Beneficiaría a 60 comunidades. Plazos en 2028, 2029, 2030 y 2031. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Los caminos se cuidan junto con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Planificar, gestionar, construir y mantener la vialidad parroquial y vecinal, mediante la",
+    "pag": 7
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Hacer un mapa de riesgos y desastres de la parroquia.",
+    "que": "Serviría para que los vecinos conozcan posibles riesgos y desastres. El plan no dice cuándo estará listo ni cuánto costará.",
+    "v": "media",
+    "n": "Es un trabajo técnico. El plan no dice con quién lo haría ni cuánto costará.",
+    "cita": "Elaborar el mapa de riesgos y desastres de la parroquia",
+    "pag": 15
+   }
+  ],
+  "otros": [
+   {
+    "t": "Preservar y difundir el patrimonio cultural e histórico de la parroquia.",
+    "que": "El plan habla de formación antropológica, turística y organizativa. No dice qué se hará concretamente ni cuánto costará.",
+    "v": "alta",
+    "n": "Son actividades con la comunidad. El plan no dice cuánto costará.",
+    "cita": "Preservar, proteger, fortalecer y difundir el patrimonio cultural, histórico y las",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "1 convenio al año con organismos cooperantes, 4 en total entre 2028 y 2031.",
+  "15 proyectos de turismo y producción implementados al 2031.",
+  "3 puntos de producción, en 2028, 2029 y 2031.",
+  "10 talleres ambientales, entre 2028 y 2031.",
+  "10 proyectos de mantenimiento de caminos, entre 2028 y 2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "La propuesta 6, de desarrollo infantil, repite el texto de caminos. El plan no dice qué hará para la niñez."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "paginas": 18
+}

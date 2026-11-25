@@ -1,0 +1,152 @@
+{
+ "enfoque": "Plan de toda la junta de Cumbayá: cuidar parques, quebradas y árboles, hacer ferias y cursos para emprendedores, y gestionar ante el Municipio el tráfico y las calles.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Hacer jornadas de siembra de árboles con especies del territorio.",
+    "que": "El plan no dice dónde, cuántos árboles ni cuánto costará. Tampoco dice cuándo se harán.",
+    "v": "alta",
+    "n": "Son jornadas comunitarias, algo que la junta sí puede organizar.",
+    "cita": "Impulsar jornadas de arborización con especies adecuadas al territorio.",
+    "pag": 23
+   },
+   {
+    "t": "Organizar programas vecinales para cuidar y recuperar quebradas y áreas dañadas.",
+    "que": "El plan no dice qué quebradas ni cuánto costará. Tampoco dice cuándo empieza.",
+    "v": "alta",
+    "n": "Trabajo con vecinos, que sí puede organizar la junta.",
+    "cita": "Promover programas comunitarios de recuperación y protección de quebradas y áreas degradadas.",
+    "pag": 23
+   },
+   {
+    "t": "Gestionar con otras entidades la protección de fuentes de agua y quebradas.",
+    "que": "El plan no dice qué fuentes ni cuánto costará. Tampoco dice cuándo.",
+    "v": "media",
+    "n": "El agua le toca a otras entidades; la junta solo puede gestionar.",
+    "cita": "Gestionar con las entidades competentes acciones de protección de fuentes de agua, quebradas y áreas naturales.",
+    "pag": 23
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Mantener parques y espacios comunitarios con un programa anual.",
+    "que": "El plan no dice qué parques ni cuánto costará. Dice que el programa será anual.",
+    "v": "alta",
+    "n": "Parques y espacios públicos sí le tocan a la junta.",
+    "cita": "Establecer un programa anual de mantenimiento y mejoramiento de espacios públicos.",
+    "pag": 21
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias periódicas para vender productos y servicios locales.",
+    "que": "El plan no dice dónde, cada cuánto ni cuánto costará.",
+    "v": "alta",
+    "n": "Ferias y espacios de venta: lo puede organizar la junta.",
+    "cita": "Crear espacios periódicos de promoción y comercialización de productos y servicios locales.",
+    "pag": 24
+   },
+   {
+    "t": "Dar cursos a emprendedores en costos, ventas y herramientas digitales.",
+    "que": "El plan no dice cuántos cursos, dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Cursos: la junta puede organizarlos, con poco presupuesto.",
+    "cita": "Desarrollar programas de capacitación en emprendimiento, administración, costos, comercialización y herramientas digitales.",
+    "pag": 24
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar un informe de avance de gestión cada tres meses.",
+    "que": "El plan dice que incluirá presupuesto, proyectos y avance de metas. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Publicar informes cuesta poco y le toca a la junta.",
+    "cita": "Cada trimestre se elaborará y difundirá un Informe Público de Avance de Gestión,",
+    "pag": 34
+   },
+   {
+    "t": "Hacer asambleas parroquiales periódicas para decidir y revisar prioridades.",
+    "que": "El plan no dice dónde ni cuándo se harán. Dice que participarán barrios, comunas y jóvenes.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es competencia de la junta.",
+    "cita": "Realizar asambleas parroquiales periódicas para definir y evaluar prioridades.",
+    "pag": 26
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Pedir al Municipio soluciones para puntos peligrosos de tráfico y cruces.",
+    "que": "El plan no dice qué puntos ni cuánto costará. La junta solo gestiona y da seguimiento público.",
+    "v": "media",
+    "n": "Le toca al Municipio; la junta solo puede gestionarlo.",
+    "cita": "Coordinar con el Municipio y las entidades competentes acciones relacionadas con transporte público, seguridad vial y movilidad alternativa.",
+    "pag": 15
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Hacer capacitaciones y simulacros para incendios y deslizamientos de tierra.",
+    "que": "El plan no dice cuántos, dónde ni cuándo se harán.",
+    "v": "alta",
+    "n": "Organizar a la comunidad frente a riesgos sí le toca a la junta.",
+    "cita": "Organizar capacitaciones y simulacros ante incendios, movimientos en masa y otros riesgos.",
+    "pag": 23
+   }
+  ]
+ },
+ "metas": [
+  "En los primeros 90 días: inventarios y diagnósticos técnicos.",
+  "Un informe público de avance cada trimestre.",
+  "Al menos dos asambleas parroquiales al año.",
+  "Una rendición de cuentas pública cada año.",
+  "Evaluación pública de medio término en 2029."
+ ],
+ "notas": [
+  "El plan no pone cifras de costo en ninguna propuesta ni dice de dónde saldría el dinero, salvo fuentes generales.",
+  "Varias propuestas dependen del Municipio o la Prefectura; el plan dice que la junta solo gestiona y da seguimiento.",
+  "Plan muy largo (49 págs.): se resumieron las 39 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  3,
+  6,
+  7,
+  8,
+  9,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  33,
+  34,
+  36,
+  37,
+  38,
+  39,
+  40,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47
+ ],
+ "paginas": 49
+}

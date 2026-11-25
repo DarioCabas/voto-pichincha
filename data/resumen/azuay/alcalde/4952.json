@@ -1,0 +1,135 @@
+{
+ "enfoque": "Calles, agua potable, planes de uso del suelo, incendios y ayuda a adultos mayores, pero casi sin costos ni fechas. Mezcla diagnósticos con temas de salud y escuelas.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer mantenimiento a todas las calles urbanas, con un calendario de trabajo.",
+    "que": "El calendario lo hará el departamento de obras públicas. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Se dará un mantenimiento a todas las vias urbanas, mediante un cronograma hecho por el departamento de obras públicas.",
+    "pag": 11
+   },
+   {
+    "t": "Exigir que la Prefectura del Azuay (gobierno provincial) mantenga las vías rurales.",
+    "que": "El plan solo pide que la Prefectura haga el trabajo. No dice cuándo ni cómo lo hará el Municipio.",
+    "v": "baja",
+    "n": "Las vías rurales no son del alcalde; solo puede pedirlo.",
+    "cita": "Exigir el mantenimiento de toda la vialidad rural, a ln entidad pertinente que es la Prefectura del Azuay.",
+    "pag": 11
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Destinar recursos para dar agua potable de calidad en el cantón.",
+    "que": "El plan dice que las necesidades de agua deben resolverse hasta 2028. No dice cuánto costará ni qué barrios se beneficiarán.",
+    "v": "alta",
+    "n": "Agua potable es competencia del Municipio. El plan no dice cuánto costará.",
+    "cita": "Desde la función ejecutiva, se destinará los recursos necesarios para dar un servicio de calidad de agua potable",
+    "pag": 9
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Sembrar árboles nativos en el cantón, con apoyo a los viveros locales.",
+    "que": "Dar ayuda técnica y dinero a los dueños de viveros (criaderos de plantas), con universidades y cooperación internacional. El plan no dice cuánto ni cuándo.",
+    "v": "media",
+    "n": "Depende de universidades y de cooperación externa. El plan no dice cuánto cuesta.",
+    "cita": "emprender un programa de reforestación con plantas nativas de cada lugar.",
+    "pag": 12
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer los planes que dicen para qué sirve cada terreno, urbano y rural.",
+    "que": "Los planes regularán el uso y la ocupación del suelo urbano y rural. El plan no dice en qué fecha estarán listos.",
+    "v": "alta",
+    "n": "Es competencia del Municipio. El plan no dice en qué fecha estarán listos.",
+    "cita": "formular los correspondientes Planes de Ordenamiento Territorial, de manera articulada con la Planificación Nacional",
+    "pag": 10
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Consolidar un Consejo de Seguridad Ciudadana con la Policía y la comunidad.",
+    "que": "El plan no dice quién lo dirige ni cuándo se formará. La Policía Nacional no es del Municipio.",
+    "v": "media",
+    "n": "El alcalde puede impulsarlo; la policía no es del Municipio.",
+    "cita": "la consolidación de un Consejo de Seguridad Ciudadana que articule acciones entre el GAD, la Policía Nacional y la comunidad",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Adoptar políticas de ayuda permanente para adultos mayores y personas con discapacidad.",
+    "que": "El plan dice que dejará la ayuda ocasional. No dice qué ayudas dará ni cuánto costarán.",
+    "v": "media",
+    "n": "Depende sobre todo del Gobierno nacional. El plan no dice qué hará el Municipio.",
+    "cita": "adoptar politicas públicas de protección social que garanticen dignidad a nuestros adultos mayores y personas",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias productivas e invitar a gobiernos locales de otras regiones.",
+    "que": "Los productores de Oña podrán participar, individual u organizados. El plan no dice dónde, cuándo ni cuánto costará.",
+    "v": "media",
+    "n": "Puede organizarla el Municipio. El plan no dice fechas ni costo.",
+    "cita": "invitaremos a GADS Provinciales, Cantonales y Parroquiales de las diferentes regiones del Ecuador a las ferias productivas",
+    "pag": 13
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear portales de internet con datos abiertos del Municipio.",
+    "que": "Así la gente podrá revisar el presupuesto y las obras. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Es tarea del Municipio. El plan no dice cuánto costará.",
+    "cita": "mediante portales de datos abiertos y una fiscalización activa",
+    "pag": 5
+   }
+  ],
+  "otros": [
+   {
+    "t": "Apoyar al Cuerpo de Bomberos de Oña en incendios y otras emergencias.",
+    "que": "El plan no dice qué apoyo dará ni cuánto costará. Dice que el apoyo busca proteger casas y bienes.",
+    "v": "media",
+    "n": "Prevención de desastres sí le toca; el plan no dice cómo.",
+    "cita": "Fortalecimiento de las labores del Benemérito Cuerpo de Bomberos de Oña, en cuanto proteger a los ciudadanos",
+    "pag": 11
+   }
+  ]
+ },
+ "metas": [
+  "Hasta 2028: destinar recursos para resolver las necesidades de servicios básicos (el plan no dice cuánto).",
+  "Hasta 2031: cumplir las ordenanzas (leyes locales) existentes y crear nuevas.",
+  "Período de gobierno 2027-2031.",
+  "Número de ordenanzas creadas o reformadas: el plan no fija una cifra."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta. Basura, aguas residuales y mercado solo tienen diagnóstico o ideas vagas.",
+  "Incluye temas de salud, escuelas y la parroquia Susudel, que no son del alcalde o son de otras entidades."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "paginas": 18
+}

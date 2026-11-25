@@ -1,0 +1,129 @@
+{
+ "enfoque": "Texto basado en el plan de desarrollo del cantón. Propone calles, agua, basura, parques y ferias; la seguridad la comparte con la Policía.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Hacer un plan para asfaltar y pavimentar calles, con aceras y bordillos.",
+    "que": "El plan no dice cuánto costará ni cuándo se hará. Incluye aceras, bordillos y obras de drenaje en el cantón.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta saber costo y fecha.",
+    "cita": "Plan integral de asfaltado y pavimentación. Construcción y mantenimiento de aceras y bordillos.",
+    "pag": 7
+   },
+   {
+    "t": "Recuperar parques y áreas verdes, y hacer un plan de iluminación pública.",
+    "que": "El plan no dice en qué barrios ni cuánto costará.",
+    "v": "alta",
+    "n": "Parques y luz de calles son competencia municipal.",
+    "cita": "Recuperación de parques y áreas verdes. Plan de iluminación pública.",
+    "pag": 7
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer un plan de mantenimiento de las calles de la ciudad.",
+    "que": "El plan no dice cuánto costará ni en qué plazo. Las vías estatales dependen de otros niveles de gobierno.",
+    "v": "alta",
+    "n": "Calles urbanas le tocan al Municipio. Vías estatales no.",
+    "cita": "Elaborar e implementar un plan integral de mantenimiento vial urbano y",
+    "pag": 11
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar redes de agua potable y construir nuevo alcantarillado.",
+    "que": "El plan no dice dónde ni cuánto costará. Incluye barrios y comunidades urbanas y rurales.",
+    "v": "alta",
+    "n": "Agua y alcantarillado sí son del Municipio. Falta costo.",
+    "cita": "Ampliación de redes de agua potable. Construcción de nuevos sistemas de alcantarillado.",
+    "pag": 7
+   },
+   {
+    "t": "Mejorar la recolección, el reciclaje y el destino final de la basura.",
+    "que": "El plan no dice cuánto costará ni cuándo. Habla de recolección, reciclaje y disposición final.",
+    "v": "alta",
+    "n": "La basura es competencia del Municipio. Falta costo.",
+    "cita": "Mejorar la gestión de residuos sólidos mediante la optimización de recolección",
+    "pag": 11
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer un programa de reciclaje y sembrar árboles en la ciudad y el campo.",
+    "que": "El plan no dice cuántos árboles ni cuánto costará. También protegerá fuentes de agua.",
+    "v": "alta",
+    "n": "Reciclaje y reforestación sí entran en lo municipal.",
+    "cita": "Programa de reciclaje. Reforestación urbana y rural. Protección de fuentes hídricas.",
+    "pag": 8
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Reforzar el sistema de cámaras de vigilancia.",
+    "que": "El plan no dice cuántas cámaras ni cuánto costará. Va junto con recuperar espacios públicos e iluminar zonas críticas.",
+    "v": "media",
+    "n": "Puede poner cámaras y luces, pero la seguridad es sobre todo de la Policía.",
+    "cita": "Fortalecer el sistema de videovigilancia. Recuperación de espacios públicos. Iluminación de sectores críticos.",
+    "pag": 9
+   },
+   {
+    "t": "Coordinar con la Policía, el ECU 911 y los bomberos.",
+    "que": "El plan no dice qué hará con ellos. Son instituciones de otros niveles de gobierno.",
+    "v": "baja",
+    "n": "La Policía no le toca al alcalde; solo puede coordinar.",
+    "cita": "Fortalecer la coordinación con Policía Nacional, ECU 911, bomberos y",
+    "pag": 12
+   }
+  ],
+  "social": [
+   {
+    "t": "Construir y recuperar espacios deportivos, y crear escuelas deportivas.",
+    "que": "El plan no dice dónde ni cuánto costará. También menciona programas culturales sin detalles.",
+    "v": "media",
+    "n": "Los espacios sí entran en lo municipal; las escuelas deportivas no están claras.",
+    "cita": "Construcción y recuperación de espacios deportivos. Escuelas deportivas. Programas culturales.",
+    "pag": 9
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias permanentes de emprendimiento y apoyar a asociaciones productivas.",
+    "que": "El plan no dice cuántas ferias ni cuánto costará. No dice de dónde saldrá el apoyo.",
+    "v": "media",
+    "n": "Puede organizar ferias, pero el apoyo depende de fondos y otros niveles.",
+    "cita": "Ferias permanentes de emprendimiento. Apoyo a asociaciones productivas.",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "Rendir cuentas cada año, con informes anuales de avance de obras.",
+  "Verificar y actualizar las cifras base del diagnóstico durante 2027."
+ ],
+ "notas": [
+  "Buena parte del texto viene del diagnóstico del plan de desarrollo del cantón, no de propuestas nuevas.",
+  "El plan no dice cuánto costará ninguna obra ni cómo se pagará. Varias propuestas dependen de otros niveles de gobierno."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "paginas": 18
+}

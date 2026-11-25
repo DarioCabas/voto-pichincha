@@ -1,0 +1,104 @@
+{
+ "enfoque": "Obras en parques, casas comunales y caminos, cursos y ferias para productores, y asambleas con la gente. No dice cuánto costará.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Construir, arreglar y mantener parques, casas comunales y canchas de la parroquia.",
+    "que": "Son obras en parques, casas comunales, canchas y cementerios. Meta: al menos 8 proyectos en 2027-2031. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Los parques sí son de la junta, pero las obras grandes necesitan dinero de otros niveles o convenios.",
+    "cita": "Ejecutar proyectos de construcción, rehabilitación y mantenimiento de parques, casas comunales, canchas deportivas, cementerios y demás espacios públicas",
+    "pag": 10
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Organizar mingas para arreglar caminos vecinales de la parroquia.",
+    "que": "Las mingas son trabajo comunitario con los vecinos. El plan no dice cuánto costará ni cuántos caminos se arreglarán así.",
+    "v": "alta",
+    "n": "Cuidar caminos sí es parte de lo que puede hacer la junta.",
+    "cita": "Ejecutar mingas para el mantenimiento de caminos vecinales",
+    "pag": 10
+   },
+   {
+    "t": "Hacer el mantenimiento anual de las vías priorizadas, con convenios con la Prefectura.",
+    "que": "Meta: al menos 40 km de vías rurales en el período. Se pagará con convenios con la Prefectura, presupuesto y mingas. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita convenios con la Prefectura o el Municipio; el plan no dice cuánto costará.",
+    "cita": "Gestionar el mantenimiento anual del 100% de las vías priorizadas",
+    "pag": 11
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar cursos de capacitación a al menos 300 productores y emprendedores.",
+    "que": "Meta: 300 personas en 2027-2031. Se coordinará con el Ministerio de Agricultura y universidades. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Los cursos sí son de la junta; el plan no dice cuánto costará.",
+    "cita": "Capacitar al menos a 300 productores y emprendedores",
+    "pag": 12
+   },
+   {
+    "t": "Organizar ferias productivas, dos por año, para vender productos de la parroquia.",
+    "que": "El plan dice dos ferias al año. No dice dónde se harán ni cuánto costarán.",
+    "v": "alta",
+    "n": "Organizar ferias sí le toca a la junta.",
+    "cita": "Impulsar ferias productivas y espacios de comercialización local",
+    "pag": 11
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una asamblea parroquial cada tres meses para informar y recibir observaciones.",
+    "que": "Meta: al menos cuatro asambleas por año. Sirven para informar sobre el Plan de Trabajo y escuchar a la gente. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Reunir a la comunidad sí le toca a la junta.",
+    "cita": "Asamblea Parroquial trimestral para informar sobre el cumplimiento del Plan de Trabajo y recoger observaciones ciudadanas",
+    "pag": 17
+   },
+   {
+    "t": "Poner un buzón físico y un canal digital para recibir sugerencias de la gente.",
+    "que": "Sirve para recibir sugerencias, observaciones y propuestas. El plan no dice dónde se pondrá el buzón ni cuándo.",
+    "v": "alta",
+    "n": "Es parte de lo que sí le toca a la junta.",
+    "cita": "Implementar un buzón físico y un canal digital para recibir sugerencias, observaciones y propuestas de la ciudadanía",
+    "pag": 18
+   }
+  ]
+ },
+ "metas": [
+  "Ejecutar al menos 8 proyectos de infraestructura comunitaria en 2027-2031.",
+  "Intervenir al menos 40 km de vías rurales durante el período.",
+  "Capacitar al menos a 300 productores y emprendedores.",
+  "Organizar dos ferias productivas por año.",
+  "Realizar al menos cuatro asambleas parroquiales por año."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero exacto.",
+  "Muchas acciones dependen del Municipio, la Prefectura o ministerios. No tiene propuestas concretas de seguridad ni de ambiente."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20
+ ],
+ "paginas": 20
+}

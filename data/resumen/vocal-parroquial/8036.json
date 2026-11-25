@@ -1,0 +1,126 @@
+{
+ "enfoque": "Copia del plan general de la parroquia Ayora: cuidar el ambiente, parques, caminos y producción. Varias acciones son de salud, educación o agua, que no le tocan a la junta.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Usar un parque del agua para enseñar cuidado del ambiente.",
+    "que": "El plan no dice dónde estará el parque ni cuánto costará.",
+    "v": "alta",
+    "n": "Los parques sí le tocan a la junta. Falta lugar y costo.",
+    "cita": "Fomentar valores, principios y cuidado ambiental mediante el parque del agua.",
+    "pag": 6
+   },
+   {
+    "t": "Elaborar, con la comunidad, un plan para cuidar páramos y bosques.",
+    "que": "El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "media",
+    "n": "Cuidar páramos suele requerir acuerdo con el Municipio o la Prefectura.",
+    "cita": "Elaborar participativamente el plan integral de conservación, protección y preservación de páramos y bosques.",
+    "pag": 6
+   },
+   {
+    "t": "Aplicar un plan de manejo de basura y aguas sucias en toda la parroquia.",
+    "que": "El plan no dice cuánto costará ni quién lo paga. La basura final la maneja el Municipio.",
+    "v": "media",
+    "n": "Parte de la basura le toca al Municipio. El plan no dice costos.",
+    "cita": "Implementar el plan de manejo de desechos sólidos y líquidos a nivel parroquial.",
+    "pag": 6
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Proteger fuentes de agua y mejorar el tratamiento de aguas sucias del centro poblado.",
+    "que": "El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "baja",
+    "n": "El agua y el alcantarillado le tocan al Municipio, no a la junta.",
+    "cita": "Conservación y protección de fuentes de agua. Mejoramiento del tratamiento de aguas residuales del centro poblado.",
+    "pag": 6
+   },
+   {
+    "t": "Gestionar obras y equipos para los centros de salud.",
+    "que": "El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "baja",
+    "n": "La salud le toca a otro nivel de gobierno, no a la junta.",
+    "cita": "Gestionar infraestructura y equipamiento de centros de salud.",
+    "pag": 6
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar y arreglar espacios públicos de las comunidades.",
+    "que": "El plan no dice qué espacios ni cuánto costará. Tampoco dice cuándo.",
+    "v": "alta",
+    "n": "Los espacios de la parroquia sí le tocan a la junta.",
+    "cita": "Recuperación, restauración y establecimiento de espacios públicos comunitarios.",
+    "pag": 6
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Poner señales en la parroquia y cuidar las calles y caminos.",
+    "que": "El plan no dice dónde ni cuánto costará. Los caminos se cuidan junto con la Prefectura.",
+    "v": "media",
+    "n": "Los caminos los cuida la junta con la Prefectura. Falta costo.",
+    "cita": "Implementación de la señalética parroquial. Planificación y mantenimiento vial.",
+    "pag": 6
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar capacitación a productores en producción agroecológica, junto con la UPS.",
+    "que": "El plan no dice cuánto costará ni quién da las clases. No explica qué es la UPS.",
+    "v": "alta",
+    "n": "Dar cursos a productores sí le toca a la junta.",
+    "cita": "Fortalecer la producción agroecológica mediante capacitación y transferencia de conocimiento con la UPS.",
+    "pag": 7
+   },
+   {
+    "t": "Organizar turismo comunitario con ayuda de organismos nacionales e internacionales.",
+    "que": "El plan no dice cuánto costará ni cuándo. Depende de acuerdos con otras instituciones.",
+    "v": "media",
+    "n": "Necesita acuerdos con otras instituciones. Falta costo.",
+    "cita": "Potenciar el turismo comunitario mediante la articulación con organismos nacionales e internacionales.",
+    "pag": 7
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar actividades deportivas tradicionales, populares y extremas.",
+    "que": "El plan no dice cuánto costará el equipamiento ni cuándo se hará.",
+    "v": "alta",
+    "n": "Organizar actividades sí le toca a la junta. Falta costo del equipamiento.",
+    "cita": "Fomento de actividades deportivas tradicionales, populares y extremas. Complementación de infraestructura y equipamiento deportivo.",
+    "pag": 6
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas comunitarias para rendir cuentas de la junta.",
+    "que": "El plan dice que las asambleas se harán conforme a la ley. No dice cuándo.",
+    "v": "alta",
+    "n": "La junta sí puede hacer esto. El plan no dice cuándo se harán.",
+    "cita": "Las asambleas comunitarias serán el espacio de rendición de cuentas de la Junta y se desarrollarán conforme a la ley.",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan no dice cuánto cuesta nada ni en qué plazo se hace. Dice que no tiene montos ni metas.",
+  "Es el plan general de la parroquia, no uno pensado para vocales. Varias acciones son de salud, educación, agua o policía."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "paginas": 10
+}

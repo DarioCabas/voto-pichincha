@@ -1,0 +1,121 @@
+{
+ "enfoque": "Caminos rurales, ferias y producción, cuidado del ambiente, memoria histórica y asambleas públicas para decidir el dinero de la junta. Sin costos ni lugares.",
+ "tabla": {
+  "gobierno": [
+   {
+    "t": "Hacer asambleas públicas cada tres meses en barrios y comunas.",
+    "que": "Las reuniones se harían en los barrios para que la gente no tenga que viajar. En ellas se informa en qué se gasta el dinero. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta. El plan no dice cuánto costará.",
+    "cita": "Se institucionalizará la convocatoria trimestral a Asambleas de carácter itinerante en los diferentes barrios y comunas de la",
+    "pag": 5
+   },
+   {
+    "t": "Decidir con delegados de barrios en qué se gasta todo el dinero de inversión de la junta.",
+    "que": "Todo el dinero que la ley da a la junta para obras se decide en público con delegados de barrios y comunas. El plan no dice cuánto dinero es.",
+    "v": "alta",
+    "n": "La junta decide con su propio dinero. El plan no dice cuánto dinero es.",
+    "cita": "será discutido, priorizado y aprobado democráticamente mediante deliberaciones públicas con delegados barriales y comunitarios",
+    "pag": 5
+   },
+   {
+    "t": "Ayudar a formar grupos de vecinos que revisen las obras y el mantenimiento.",
+    "que": "La junta daría facilidades para que vecinos vigilen el mantenimiento de las ligas barriales, el centro de cuidados y las obras viales. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende del Consejo de Participación Ciudadana (nacional). El plan no dice cómo ni cuándo.",
+    "cita": "promoverá y dará facilidades ante el Consejo de Participación Ciudadana y Control Social",
+    "pag": 6
+   },
+   {
+    "t": "Crear un sitio web de libre acceso con la información de la junta.",
+    "que": "Cada trimestre se publicarían las sesiones de la junta y las tablas de cumplimiento del plan, para que cualquiera lo revise. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Una página de internet cuesta dinero y el plan no dice cómo se paga.",
+    "cita": "Se implementará un sitio web de libre acceso que fungirá como repositorio oficial de transparencia",
+    "pag": 6
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento y mejorar los caminos rurales de la parroquia.",
+    "que": "El plan prioriza arreglar caminos en comunidades y sectores dispersos. No dice qué caminos ni cuánto costará.",
+    "v": "media",
+    "n": "Se hace junto con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "priorizando el mantenimiento y mejoramiento de caminos rurales,",
+    "pag": 3
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Priorizar agua potable y saneamiento en comunidades dispersas.",
+    "que": "El plan pone agua potable, saneamiento y conectividad como prioridad en comunidades dispersas. No dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "El agua potable no le toca a la junta. El plan no dice cuánto costará.",
+    "cita": "agua potable, saneamiento y conectividad en comunidades y sectores dispersos",
+    "pag": 3
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer reforestación y cuidar las fuentes de agua.",
+    "que": "El plan habla de reforestación, protección de fuentes de agua y educación ambiental. No dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta cuidar el ambiente. El plan no dice dónde ni cuánto costará.",
+    "cita": "mediante acciones de reforestación, protección de fuentes de agua, educación",
+    "pag": 3
+   }
+  ],
+  "otros": [
+   {
+    "t": "Recuperar y difundir la memoria histórica indígena y campesina.",
+    "que": "El plan incluye actividades de memoria histórica y patrimonio cada año. No dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad en actos culturales es su tarea. El plan no dice dónde ni cuánto costará.",
+    "cita": "recuperación y difusión de la memoria histórica indigena y campesina, las",
+    "pag": 2
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar ferias locales y emprendimientos de la parroquia.",
+    "que": "El plan incluye ferias locales, emprendimientos, procesamiento de alimentos y turismo cultural. No dice cuántas ferias ni cuánto costará.",
+    "v": "alta",
+    "n": "Las ferias son tarea de la junta. El plan no dice cuánto costará ni dónde.",
+    "cita": "los emprendimientos, las ferias locales y el turismo cultural comunitario.",
+    "pag": 2
+   }
+  ],
+  "social": [
+   {
+    "t": "Atender comunidades dispersas con brigadas móviles y servicios municipales.",
+    "que": "El plan dice que las comunidades dispersas serán atendidas así. No dice qué brigadas, cuántas ni cuándo llegarán.",
+    "v": "media",
+    "n": "Depende del Municipio. El plan no dice qué brigadas ni cuándo llegarán.",
+    "cita": "Comunidades dispersas atendidas con brigadas móviles y servicios municipales",
+    "pag": 5
+   }
+  ]
+ },
+ "metas": [
+  "Asambleas itinerantes en barrios y comunas cada trimestre.",
+  "Publicar en internet las sesiones de la junta cada trimestre.",
+  "Actividades de memoria histórica y patrimonio cada año.",
+  "Decidir en público el 100% de los fondos de inversión de la junta."
+ ],
+ "notas": [
+  "Parece copiado de un plan general: menciona 'plan cantonal' y 'Plan Plurianual de la Dignidad'. Muchas frases no dicen qué harán.",
+  "El plan no dice cuánto costará nada ni de dónde sale el dinero. Varias metas (agua, conectividad) no le tocan a la junta."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "paginas": 8
+}

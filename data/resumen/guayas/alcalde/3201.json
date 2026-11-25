@@ -1,0 +1,120 @@
+{
+ "enfoque": "Propone agua, alcantarillado, basura, transporte, ferias y ordenanzas de participación. Parte del texto habla de Playas: es copia de otro cantón.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Dar más infraestructura y tecnología para controlar el tránsito interno.",
+    "que": "El plan dice que dará más infraestructura y tecnología para controlar el tránsito interno. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "El tránsito es del Municipio. El plan no dice qué equipos ni cuánto costará.",
+    "cita": "Dotar de mejor infraestructura para el control de la movilidad interna y uso efectivo de las tecnologías, dispositivos.",
+    "pag": 8
+   },
+   {
+    "t": "Hacer un plan de mejoras para el servicio de buses y camionetas.",
+    "que": "El plan pide hacer un plan de mejoras para los usuarios del transporte. No dice qué cambios hará ni en qué plazo.",
+    "v": "alta",
+    "n": "El transporte es del Municipio. El plan no dice qué cambiará exactamente.",
+    "cita": "hay que realizar un plan de mejoramiento en el tema de mejorar el servicio al usuario.",
+    "pag": 6
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar agua potable, alcantarillado y manejo de basura en el cantón.",
+    "que": "El plan no dice en qué sectores, cuánto costará ni en qué plazo. Habla de cubrir más población en agua y alcantarillado.",
+    "v": "alta",
+    "n": "Estos servicios son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Avanzar en la cobertura y prestación de servicios de agua potable, alcantarillado y un adecuando manejo de los residuos sólidos.",
+    "pag": 8
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Declarar el cantón libre de minería metálica.",
+    "que": "El plan no dice cómo lo hará ni qué pasos seguirá el Municipio.",
+    "v": "baja",
+    "n": "La minería la decide el Estado, no el Municipio. El plan no dice cómo.",
+    "cita": "Declarar al cantón balao libre de Minería metálica",
+    "pag": 8
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias libres para activar el comercio.",
+    "que": "El plan no dice dónde, cuándo ni cuánto costará. Solo menciona la idea de ferias libres.",
+    "v": "alta",
+    "n": "Las ferias y mercados son del Municipio. Faltan dónde y cuándo.",
+    "cita": "Activar el comercio mediante la implementación de ferias libres.",
+    "pag": 8
+   },
+   {
+    "t": "Promover Balao como destino turístico local y nacional.",
+    "que": "El plan no dice qué hará el Municipio para atraer turistas ni cuánto costará.",
+    "v": "media",
+    "n": "El turismo depende también del Gobierno y la Prefectura. El plan no dice cómo.",
+    "cita": "Potenciar al cantón balao como como un destino turístico a nivel local y nacional",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Gestionar programas para subir el nivel de educación.",
+    "que": "El plan no dice qué programas serían ni con qué dinero.",
+    "v": "baja",
+    "n": "La educación le toca al Ministerio, no al alcalde.",
+    "cita": "Gestionar programas para mejorar el ascenso a la educación.",
+    "pag": 8
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear ordenanzas para la participación ciudadana y el control social.",
+    "que": "El plan dice que se crearán ordenanzas para usar los mecanismos de participación. No dice en qué plazo.",
+    "v": "alta",
+    "n": "Las ordenanzas son del Municipio. El plan no dice en qué plazo.",
+    "cita": "Crear ordenanzas municipales para el uso efectivo de los mecanismos de participación ciudadana y control social.",
+    "pag": 8
+   },
+   {
+    "t": "Explicar a los barrios el presupuesto anual del Municipio.",
+    "que": "El plan dice que el presupuesto anual se explicará según las necesidades de cada sector. No dice cuánto dinero habrá.",
+    "v": "alta",
+    "n": "El presupuesto es del Municipio. El plan no dice cuándo ni cómo se hará.",
+    "cita": "Socializar con las unidades básicas de participación ciudadana el presupuesto participativo anual",
+    "pag": 8
+   },
+   {
+    "t": "Rendir cuentas con informe escrito y verbal al cumplir un año.",
+    "que": "Lo hará en asamblea ciudadana o ante la ciudadanía, en los primeros sesenta días del año siguiente.",
+    "v": "alta",
+    "n": "Rendir cuentas es obligación del alcalde. El plan sí dice cuándo.",
+    "cita": "Cumplido un año de gestión convocaré a la Asamblea Ciudadana Cantonal o a la ciudadanía y rendiré informe escrito y verbal",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Presentar el informe de rendición de cuentas en los primeros sesenta días del año siguiente.",
+  "Reunirse con los sectores productivos y ministerios cada seis meses (frecuencia semestral)."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero. Mucho del texto es diagnóstico.",
+  "Parte del texto menciona Playas, lo que indica copia de otro cantón. No propone arreglar calles ni caminos."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "paginas": 11
+}

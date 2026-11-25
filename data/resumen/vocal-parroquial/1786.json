@@ -1,0 +1,125 @@
+{
+ "enfoque": "Escuchar a los barrios, hacer asambleas cada tres meses, decidir en público el dinero de obras, cuidar parques y el ambiente, y dar talleres y ferias.",
+ "tabla": {
+  "otros": [
+   {
+    "t": "Hacer un diagnóstico de necesidades con los vecinos, barrio por barrio.",
+    "que": "Recorrer barrios y comunidades y hacer un mapa de necesidades para ordenar las obras. El plan lo pone en el primer año. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta y es trabajo de campo, con poco gasto.",
+    "cita": "Proponemos construir un Diagnóstico Territorial Participativo dentro de Calderón, acompañado de un Mapa de Necesidades y Oportunidades",
+    "pag": 2
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas cada tres meses en los barrios y comunidades rurales.",
+    "que": "Las asambleas se harán en cada barrio y comunidad rural para informar en qué se gasta el dinero. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta: reunir a la gente en sus propios barrios.",
+    "cita": "Se institucionalizará la convocatoria trimestral a Asambleas de carácter itinerante en los diferentes barrios y comunas de la jurisdicción rural",
+    "pag": 8
+   },
+   {
+    "t": "Decidir en asambleas públicas el uso de todo el dinero de obras de la junta.",
+    "que": "Delegados de cada barrio votarán en público en qué se gasta el dinero de inversión de la junta. El plan no dice cuánto dinero hay.",
+    "v": "alta",
+    "n": "Le toca a la junta. El plan no dice cuánto dinero recibirá.",
+    "cita": "El 100% de los fondos asignados legalmente a la Junta Parroquial para proyectos de inversión será discutido, priorizado y aprobado democráticamente",
+    "pag": 8
+   },
+   {
+    "t": "Crear un sitio web de libre acceso con la información de la junta.",
+    "que": "Se publicarán en la web las sesiones de la junta y el avance de las obras, cada tres meses. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita apoyo técnico y dinero. El plan no dice cómo lo hará.",
+    "cita": "Se implementará un sitio web de libre acceso que fungirá como repositorio oficial de transparencia",
+    "pag": 8
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Dar mantenimiento y equipos a parques, canchas y casas comunales.",
+    "que": "Se harán arreglos y se pondrán equipos en parques, canchas y espacios comunitarios. Según el plan, es en el tercer año. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta, según la ley. Falta el costo.",
+    "cita": "Mantenimiento y equipamiento de parques, canchas y espacios comunitarios.",
+    "pag": 5
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Sembrar árboles, reciclar y recuperar zonas ambientales prioritarias.",
+    "que": "Plantar árboles, hacer reciclaje y recuperar los puntos ambientales más urgentes. Según el plan, es en el tercer año. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta, que cuida el ambiente. El plan no dice cuánto costará.",
+    "cita": "Reforestación, reciclaje y recuperación de puntos ambientales prioritarios.",
+    "pag": 5
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Pedir a las instituciones competentes señales de tránsito y seguridad vial.",
+    "que": "La junta haría la gestión para pedir arreglos de movilidad y señales. El plan no dice quién paga ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura o el Municipio. La junta sola no puede.",
+    "cita": "Gestión ante las instituciones competentes para señalización, movilidad y seguridad vial.",
+    "pag": 7
+   }
+  ],
+  "social": [
+   {
+    "t": "Dar talleres a adultos mayores sobre derechos y prevención de estafas.",
+    "que": "Talleres para adultos mayores sobre sus derechos, la participación y cómo evitar estafas. El plan no dice cuántos talleres ni cuándo.",
+    "v": "alta",
+    "n": "Le toca a la junta organizar talleres y charlas.",
+    "cita": "Talleres de derechos, participación ciudadana y prevención de estafas.",
+    "pag": 7
+   },
+   {
+    "t": "Abrir una escuela de liderazgo para jóvenes de Calderón.",
+    "que": "Cursos de liderazgo, ciudadanía y participación para jóvenes. El plan no dice cuándo empieza ni cuánto cuesta.",
+    "v": "alta",
+    "n": "Cursos y capacitación: la junta puede organizarlos.",
+    "cita": "Escuela de liderazgo, ciudadanía, capacitación y participación juvenil.",
+    "pag": 6
+   }
+  ],
+  "economia": [
+   {
+    "t": "Organizar ferias y espacios de venta para emprendimientos de Calderón.",
+    "que": "Ferias y espacios para vender lo que producen los emprendedores locales. El plan no dice dónde ni cuántas ferias habrá.",
+    "v": "alta",
+    "n": "Apoyar a productores es tarea de la junta. El plan no dice cuánto cuesta.",
+    "cita": "Ferias y espacios de comercialización para emprendimientos locales.",
+    "pag": 6
+   }
+  ]
+ },
+ "metas": [
+  "Asambleas barriales cada tres meses durante 2027–2031.",
+  "Publicar cada tres meses las sesiones de la junta y los avances de obras en una web.",
+  "Usar el 100% de los fondos de inversión de la junta en obras decididas en asambleas.",
+  "Año 1: diagnóstico y mapa de necesidades por barrios.",
+  "Año 4: rendición de cuentas pública y hoja de ruta para la continuidad."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni cuándo se pagará. Solo habla de fondos propios y presupuesto participativo.",
+  "Parece un plan de la ciudad de Quito adaptado a Calderón. Muchas acciones dependen de otras instituciones."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "paginas": 11
+}

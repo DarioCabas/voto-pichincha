@@ -1,0 +1,150 @@
+{
+ "enfoque": "Agua, alcantarillado, vías rurales, basura, riesgo de inundaciones y uso del suelo. Gran parte del plan copia el plan de desarrollo del cantón (PDOT).",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Diseñar un plan para la basura y cerrar el botadero a cielo abierto.",
+    "que": "Incluye reciclaje, compostaje y una celda emergente para la basura. Cierra el botadero a cielo abierto. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: basura. El plan no dice cuánto cuesta.",
+    "cita": "disposición final en celda emergente, cierre del botadero",
+    "pag": 36
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar 65% de las vías rurales en mal estado, con maquinaria municipal.",
+    "que": "Arreglar tramos de caminos vecinales en 2028 y 2029. Las vías provinciales no son del Municipio. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: caminos vecinales. Las vías provinciales son de la Prefectura.",
+    "cita": "interviniendo el 65% de vías rurales que se encuentran en mal estado",
+    "pag": 32
+   },
+   {
+    "t": "Ordenar el transporte público y las rutas urbanas y periurbanas del cantón.",
+    "que": "El plan no dice qué rutas se cambiarán ni cuándo. Tampoco dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: tránsito y buses.",
+    "cita": "Ordenar el transporte público local y regular rutas urbanas y periurbanas",
+    "pag": 34
+   }
+  ],
+  "otros": [
+   {
+    "t": "Crear una Dirección de Gestión de Riesgos con presupuesto de varios años.",
+    "que": "Tendrá personal técnico (3 técnicos) y equipos. Alertas tempranas en 3 comunidades en 2027. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: prevenir desastres.",
+    "cita": "Creación de la Dirección de Gestión de Riesgos",
+    "pag": 39
+   },
+   {
+    "t": "Reubicar 100 familias que viven en zonas de riesgo.",
+    "que": "Se haría hasta 2030, con el Gobierno (MIDUVI y SNGR, entidades nacionales). El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de entidades del Gobierno para dar las viviendas.",
+    "cita": "Reubicación de 100 familias en zonas de riesgo",
+    "pag": 49
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar redes de agua potable y alcantarillado en zonas urbanas y rurales.",
+    "que": "Subir el agua potable del 56,2% al 80% y el alcantarillado del 21,3% al 45%. Obras de redes en 2028. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de préstamos del Banco de Desarrollo.",
+    "cita": "incrementar cobertura de agua potable del 56,2% al 80% (urbana 95%→98%; rural 44,3%→70%)",
+    "pag": 32
+   },
+   {
+    "t": "Construir una planta para tratar las aguas residuales (PTAR).",
+    "que": "La planta tendría capacidad para 5.000 conexiones. Empieza la obra en 2029. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el plan no dice con qué dinero se pagará.",
+    "cita": "(PTAR) con capacidad para 5.000 conexiones y ampliación de redes",
+    "pag": 35
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Prohibir nuevas casas en zonas inundables o inestables.",
+    "que": "Actualizar el catastro (registro de terrenos) y el plan de uso del suelo. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: uso del suelo y catastro.",
+    "cita": "prohibir nuevos asentamientos humanos en áreas inundables o inestables",
+    "pag": 31
+   },
+   {
+    "t": "Recuperar, construir y mantener parques, plazas y áreas deportivas.",
+    "que": "Se hará en la cabecera y en parroquias y recintos. Meta: 10 espacios. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: parques, plazas y canchas.",
+    "cita": "Recuperar, construir y mantener espacios públicos y áreas verdes (parques, plazas, áreas deportivas)",
+    "pag": 29
+   },
+   {
+    "t": "Ordenar el comercio informal con espacios para ferias y mercados.",
+    "que": "Se haría en el casco urbano (centro). El plan no dice dónde ni cuándo se abrirán los espacios.",
+    "v": "alta",
+    "n": "Le toca al Municipio: mercados y ferias.",
+    "cita": "Regular y ordenar el comercio informal mediante la implementación de espacios adecuados",
+    "pag": 29
+   }
+  ]
+ },
+ "metas": [
+  "Cobertura de agua potable: de 56,2% a 80%.",
+  "Cobertura de alcantarillado: de 21,3% a 45%.",
+  "65% de las vías rurales en mal estado, intervenidas.",
+  "100 familias reubicadas de zonas de riesgo para 2030.",
+  "Pérdidas de agua: de 30% a 20%."
+ ],
+ "notas": [
+  "Gran parte del plan copia el plan de desarrollo del cantón (PDOT). Incluye salud, escuelas y policía, que no son del Municipio.",
+  "Casi no hay costos ni fechas exactas. Las alertas aparecen como 10 comunidades en un lugar y 3 comunidades en otro.",
+  "Plan muy largo (56 págs.): se resumieron las 39 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  10,
+  14,
+  15,
+  16,
+  20,
+  21,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54
+ ],
+ "paginas": 56
+}

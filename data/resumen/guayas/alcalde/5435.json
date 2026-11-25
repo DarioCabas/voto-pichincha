@@ -1,0 +1,154 @@
+{
+ "enfoque": "Es casi todo copiado del plan de desarrollo del cantón 2024-2028. Pone agua y saneamiento primero; casi no da costos ni fechas exactas.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Subir la inversión en agua y saneamiento al 22% del total.",
+    "que": "Pasaría de 5,5% a 22% de la inversión. El monto anual de 8.092.133,23 dólares es referencial y por confirmar.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de préstamos y de dinero del Gobierno.",
+    "cita": "eleva agua y saneamiento al 22% del total",
+    "pag": 5
+   },
+   {
+    "t": "Ampliar la red de alcantarillado sanitario y pluvial.",
+    "que": "El plan no dice cuánto costará. El plazo es largo, sin años exactos.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el plan no dice cómo lo pagará.",
+    "cita": "Ampliación de red de alcantarillado sanitario y pluvial",
+    "pag": 29
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar y asfaltar las vías terciarias (calles locales).",
+    "que": "El plan dice plazo mediano, sin años. No dice cuánto costará ni en qué calles. El 89,99 % de la red vial es terciaria.",
+    "v": "alta",
+    "n": "Le toca al Municipio: las calles son su competencia. Faltan costo y lugares.",
+    "cita": "Rehabilitación y asfaltado de red vial terciaria Prog. 60 Cantonal 7 M",
+    "pag": 29
+   },
+   {
+    "t": "Ordenar el transporte y crear una movilidad sostenible.",
+    "que": "El plan no dice cómo ni cuánto costará. Dice plazo mediano. Busca regularizar el transporte informal.",
+    "v": "alta",
+    "n": "Le toca al Municipio: tránsito y buses. Falta el cómo y el costo.",
+    "cita": "Movilidad sostenible y regularización del transporte Prog. 40 Cantonal 6 M",
+    "pag": 31
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Ordenar el manejo de basura y recuperar los canales.",
+    "que": "El plan no dice cuánto costará. Dice plazo corto, sin fecha exacta.",
+    "v": "alta",
+    "n": "Le toca al Municipio: basura. Falta saber cuánto cuesta.",
+    "cita": "Sistema integral de residuos sólidos y recuperación de canales",
+    "pag": 29
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Sembrar árboles y crear áreas verdes para recreación.",
+    "que": "El plan no dice cuántas áreas ni dónde. Dice plazo mediano. Es un proyecto nuevo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: parques y espacios públicos. Faltan dónde y cuánto.",
+    "cita": "Programa de arborización y áreas verdes recreativas Mediano",
+    "pag": 29
+   },
+   {
+    "t": "Legalizar predios y actualizar el catastro (registro de terrenos).",
+    "que": "El plan no dice cuántos predios ni cuánto costará. Dice plazo corto. En 2024 se entregaron 169 escrituras.",
+    "v": "alta",
+    "n": "Le toca al Municipio: uso del suelo y catastro. Falta el costo.",
+    "cita": "Vivienda de interés social y legalización de predios con catastro",
+    "pag": 29
+   }
+  ],
+  "otros": [
+   {
+    "t": "Hacer un plan de gestión de riesgos y arreglar infraestructura crítica.",
+    "que": "El plan no dice cuánto costará. Dice plazo corto. Dice que el sistema de agua está en emergencia.",
+    "v": "alta",
+    "n": "Le toca al Municipio: prevenir desastres. Falta el costo.",
+    "cita": "Plan de gestión de riesgos e intervención de infraestructura crítica",
+    "pag": 29
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Hacer un plan de convivencia pacífica y seguridad ciudadana.",
+    "que": "El plan no dice cuánto costará. Dice plazo corto, sin fecha exacta.",
+    "v": "baja",
+    "n": "No le toca al alcalde: la policía es del Gobierno nacional.",
+    "cita": "Plan cantonal de convivencia pacífica y seguridad ciudadana",
+    "pag": 29
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear una incubadora municipal de negocios y crédito para emprendedores.",
+    "que": "El plan no dice cuánto costará ni cómo se pagará. Es un proyecto nuevo a plazo corto.",
+    "v": "baja",
+    "n": "No está entre las tareas del Municipio. Crear empleo no le toca al alcalde.",
+    "cita": "Incubadora municipal de negocios y crédito para emprendedores",
+    "pag": 17
+   }
+  ]
+ },
+ "metas": [
+  "75% de los hogares con agua todo el tiempo (acceso continuo), al 2027.",
+  "Alerta temprana en el 40% de las zonas de riesgo, al 2027.",
+  "Gestionar bien el 85% de la basura sólida, al 2027.",
+  "60% de cooperativas regularizadas, al 2027.",
+  "45% de la infraestructura de movilidad adaptada, al 2027."
+ ],
+ "notas": [
+  "Gran parte del texto sale del plan de desarrollo del cantón 2024-2028. Varios costos aparecen como 'por confirmar'.",
+  "Incluye seguridad, empleo y salud, que no son del Municipio. Muchos montos y plazos no están claros."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40
+ ],
+ "paginas": 40
+}

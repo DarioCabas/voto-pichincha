@@ -1,0 +1,129 @@
+{
+ "enfoque": "Propone arreglar agua y alcantarillado, caminos rurales de tierra, basura con abono, un vivero, una feria de productores y pagos de trámites en línea.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Rehabilitar las plantas de agua potable de El Pan y San Vicente.",
+    "que": "Es para la cabecera cantonal y San Vicente. Las juntas de agua rurales recibirían kits para desinfectar el agua. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Rehabilitación y optimización de las plantas de agua potable de la cabecera cantonal y San Vicente.",
+    "pag": 6
+   },
+   {
+    "t": "Ampliar el alcantarillado urbano y construir plantas para tratar aguas residuales.",
+    "que": "Ampliación poco a poco de la red urbana. En caseríos dispersos, unidades básicas de saneamiento para cada familia; el plan las ubica a mediano plazo. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "construcción de plantas compactas de tratamiento de aguas residuales",
+    "pag": 6
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Construir una planta municipal para convertir basura orgánica en abono.",
+    "que": "También separar la basura en la fuente y recogerla por separado en comunidades dispersas. El plan ubica la planta a corto o mediano plazo. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "construcción de la planta municipal de compostaje para producir abono orgánico",
+    "pag": 7
+   },
+   {
+    "t": "Reforzar el vivero municipal para producir 50.000 plantas al año.",
+    "que": "Las plantas serían nativas y frutales, para reforestar y para cultivos con árboles. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Repotenciación del Vivero Agroforestal Municipal con capacidad para producir 50.000 plantas nativas y frutales al año",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Modernizar el Parque Central de El Pan y renovar el centro histórico.",
+    "que": "Incluye mantener las plazas comunitarias. El plan no dice qué obras tendrá el parque ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Modernización del Parque Central de El Pan, regeneración urbana del centro histórico",
+    "pag": 6
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Lastrar y dar mantenimiento permanente a las vías rurales de tierra.",
+    "que": "Lastrar es poner una capa de piedra y grava en el camino. Incluye cunetas (zanjas a los lados) y nivelar. Son vías de Turi, Cedropamba, Tablas y La Nube. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Plan intensivo de lastrado, cuneteado y rasanteo permanente de vías rurales",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Mantener y ampliar el centro de día y las visitas a casa para adultos mayores.",
+    "que": "Se haría en convenio con el MIES, el ministerio de inclusión social. El plan no dice cuánto costará ni quién pagará la mayor parte.",
+    "v": "media",
+    "n": "Depende del convenio con el MIES, no es solo del Municipio.",
+    "cita": "Mantenimiento y ampliación del Centro de Atención Diurna y Visita Domiciliaria para Adultos Mayores y Personas con Discapacidad en convenio con el MIES",
+    "pag": 7
+   }
+  ],
+  "economia": [
+   {
+    "t": "Abrir una feria semanal de productores, sin intermediarios.",
+    "que": "Los agricultores venderían directo al público. El plan no dice dónde se hará ni cuánto costará. Los préstamos dependen de convenios con BanEcuador.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Los préstamos dependen de bancos.",
+    "cita": "Implementación de la Feria Agroproductiva Cantonal semanal sin intermediarios",
+    "pag": 7
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear un portal web para pagar predios y patentes en línea.",
+    "que": "Así no habría que hacer filas para trámites de predios y patentes. El plan busca digitalizar el 80% de trámites para 2028. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Implementación del Portal Web Municipal de Servicios Digitales para la consulta y pago en línea de predios y patentes",
+    "pag": 8
+   }
+  ],
+  "otros": [
+   {
+    "t": "Crear un centro de capacitación digital y de oficios para jóvenes.",
+    "que": "Tendría talleres de artes, oficios técnicos, robótica y marketing digital. Capacitar jóvenes es tema de educación. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "Capacitar jóvenes es de educación, no del Municipio.",
+    "cita": "Creación del Centro de Capacitación Digital y Emprendimiento Joven con talleres de artes, oficios técnicos, robótica y marketing digital",
+    "pag": 7
+   }
+  ]
+ },
+ "metas": [
+  "Subir 25% el agua con buena calidad microbiológica en las juntas rurales para 2029.",
+  "Dar mantenimiento anual de lastrado y cunetas al 100% de la red vial rural priorizada.",
+  "Atender a más de 150 pequeños y medianos productores al año.",
+  "Digitalizar el 80% de los trámites municipales para 2028.",
+  "Producir 50.000 plantas nativas y frutales al año en el vivero municipal."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra. Solo da porcentajes del presupuesto por eje, sin montos.",
+  "Varias propuestas dependen de otras entidades: Prefectura del Azuay, MIES, CNEL o BanEcuador. Turismo y Wi-Fi no son del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ],
+ "paginas": 13
+}

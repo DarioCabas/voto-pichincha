@@ -1,0 +1,91 @@
+{
+ "enfoque": "Propone cuidar vías y espacios públicos, ferias y cursos para productores, campañas ambientales y un plan de riesgos. Parte del texto es copia del diagnóstico parroquial.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Hacer campañas de educación ambiental, reforestar y manejar residuos.",
+    "que": "El plan dice que habrá campañas, reforestación y manejo de residuos. No dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Son tareas que la junta puede hacer con la comunidad.",
+    "cita": "Campañas de educación ambiental; Reforestación; Manejo de residuos.",
+    "pag": 12
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer cada año una rendición de cuentas pública de la junta.",
+    "que": "Se pagará con el presupuesto del GAD parroquial, según el plan. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Es tarea de la junta, con el presupuesto que ya tiene.",
+    "cita": "Realizar anualmente el proceso público de rendición de cuentas de la gestión institucional.",
+    "pag": 14
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Coordinar la limpieza de cunetas y la atención de emergencias en vías.",
+    "que": "El plan dice que se coordinará con otras instituciones. No dice cuánto costará ni cuándo se hará.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura o el Municipio. El plan no dice costos.",
+    "cita": "Coordinar limpieza de cunetas; Gestionar atención de emergencias viales.",
+    "pag": 12
+   },
+   {
+    "t": "Elegir primero las vías que llegan a los barrios y recibir avisos de la gente.",
+    "que": "El plan dice que se priorizarán vías de acceso a barrios y se crearán formas para que la gente avise. No dice cuánto costará.",
+    "v": "media",
+    "n": "Arreglar las vías depende de la Prefectura o el Municipio. La junta prioriza y avisa.",
+    "cita": "Priorizar vías de acceso a barrios; Establecer mecanismos de reporte ciudadano.",
+    "pag": 12
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer asambleas y reuniones comunitarias para informar sobre la gestión.",
+    "que": "El plan dice que habrá asambleas y reuniones con barrios y organizaciones. No dice cuántas ni cuándo.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es tarea de la junta.",
+    "cita": "Realizar asambleas parroquiales y reuniones comunitarias para informar sobre la gestión.",
+    "pag": 12
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer un diagnóstico del estado de obras y espacios públicos y elegir prioridades.",
+    "que": "El plan dice que se revisará el estado actual y se elegirán las necesidades más importantes. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Es tarea de la junta, no requiere una obra grande.",
+    "cita": "Realizar un diagnóstico del estado actual; Identificar y priorizar",
+    "pag": 12
+   }
+  ]
+ },
+ "metas": [
+  "Rendición de cuentas pública cada año durante el periodo.",
+  "Plan de trabajo de cuatro años (Año 1 a Año 4)."
+ ],
+ "notas": [
+  "Mucho del texto es copia de diagnósticos y del plan de desarrollo de la parroquia. Casi no nombra obras ni lugares concretos.",
+  "No da costos por obra ni plazos concretos. Agua, salud, escuelas y policía no son de la junta, aunque el texto los menciona."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16
+ ],
+ "paginas": 16
+}

@@ -1,0 +1,125 @@
+{
+ "enfoque": "Arreglar caminos y apoyar a productores y al cuidado del ambiente en Olmedo. Varias tareas dependen del Municipio o de la Prefectura.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer empedrados en las comunidades con piedra que pone la junta.",
+    "que": "La junta pone la piedra y gestionará el pago de la mano de obra de la comunidad. El plan no dice en qué comunidades ni cuánto costará.",
+    "v": "alta",
+    "n": "Lo puede hacer la junta con piedra propia. El plan no dice cuánto costará la mano de obra.",
+    "cita": "Realizar empedrados en las comunidades con aporte de piedra del Gad parroquial y gestionar",
+    "pag": 11
+   },
+   {
+    "t": "Construir pasos de agua.",
+    "que": "La junta los construye. El plan no dice dónde, cuántos ni cuánto costarán.",
+    "v": "alta",
+    "n": "Es obra pequeña que le toca a la junta. El plan no dice plazo.",
+    "cita": "Realizar la construcción de Pasos de agua por el Gad Parroquial",
+    "pag": 11
+   },
+   {
+    "t": "Hacer un plan anual de arreglo de caminos con la Prefectura de Pichincha.",
+    "que": "Cada año se hará un cronograma de mantenimiento de vías junto con la Prefectura. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Realizar un cronograma anual de mantenimiento vial en la parroquia con la Prefectura de Pichincha.",
+    "pag": 11
+   },
+   {
+    "t": "Pedir al Municipio asfaltar y adoquinar las principales vías de la parroquia.",
+    "que": "Se harán convenios con el Municipio de Cayambe para terminar las principales vías en adoquín y asfalto. El plan no dice cuánto ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio. Es obra grande y el plan no dice cuánto costará.",
+    "cita": "convenios para la implementación y culminación de las principales vías de la parroquia en adoquinado y asfaltado",
+    "pag": 11
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Pedir al Municipio crear parques, jardines y áreas recreativas.",
+    "que": "La junta hará gestiones para crear estos espacios en la parroquia. El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Lo decide el Municipio; la junta solo gestiona. El plan no dice dónde ni cuándo.",
+    "cita": "Gestiones con el municipio para la creación de parques, jardines y áreas recreativas en la parroquia.",
+    "pag": 12
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Pedir al Municipio proteger y cuidar quebradas y áreas naturales.",
+    "que": "La junta hará gestiones ante el Municipio para cuidar quebradas y áreas naturales. El plan no dice qué medidas ni cuánto costará.",
+    "v": "media",
+    "n": "Depende del Municipio. El plan no dice qué medidas concretas tomará.",
+    "cita": "Realizar gestiones con el municipio para la protección y manejo de quebradas y áreas naturales.",
+    "pag": 12
+   },
+   {
+    "t": "Sembrar árboles nativos, frutales y plantas medicinales en la parroquia.",
+    "que": "El plan propone un proyecto de siembra en toda la parroquia. No dice cuántas plantas ni dónde, ni cuánto costará.",
+    "v": "alta",
+    "n": "Es trabajo que la junta puede organizar con la comunidad. El plan no dice cuántas plantas.",
+    "cita": "Proyecto de forestación y reforestación con plantas nativas, frutales y plantas medicinales a nivel de la parroquia.",
+    "pag": 12
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar asistencia y cursos técnicos a los ganaderos de la parroquia.",
+    "que": "El plan dice que habrá apoyo técnico y capacitación para productores ganaderos. No dice cuántos cursos ni cuándo.",
+    "v": "alta",
+    "n": "Son cursos y apoyo técnico, que la junta puede organizar. El plan no dice plazo.",
+    "cita": "Asistencia y capacitación técnica a los productores ganaderos de la parroquia",
+    "pag": 12
+   },
+   {
+    "t": "Ayudar a los productores a participar en ferias de venta.",
+    "que": "Se dará asesoría a productores para ir a ferias locales, nacionales e internacionales. El plan no dice cuántas ni cuánto costará.",
+    "v": "alta",
+    "n": "Es asesoría que la junta puede dar. El plan no dice quién paga la participación en ferias.",
+    "cita": "Gestionar el asesoramiento a los productores de la parroquia para participar en ferias productivas",
+    "pag": 11
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer una lista de personas con discapacidad en la parroquia.",
+    "que": "El plan dice que se hará un catastro, es decir un registro, de personas con discapacidad. No dice para qué ni cuándo.",
+    "v": "alta",
+    "n": "La junta puede hacer el registro. El plan no dice qué servicios seguirán después.",
+    "cita": "Realizar un catastro de la parroquia de las personas con discapacidad",
+    "pag": 12
+   }
+  ]
+ },
+ "metas": [
+  "Un cronograma de mantenimiento vial cada año."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará casi ninguna propuesta ni en qué plazo se hará, salvo el cronograma anual de caminos.",
+  "Muchas propuestas dependen del Municipio o de la Prefectura. Son gestiones, no obras que la junta pueda pagar sola."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19
+ ],
+ "paginas": 19
+}

@@ -1,0 +1,73 @@
+{
+ "enfoque": "Propone agua, alcantarillado, basura, vías urbanas y trámites para legalizar terrenos. El plan dice que repite el plan anterior.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Crear programas para tratar los desechos dentro del cantón.",
+    "que": "El plan no dice qué programas, dónde ni cuánto costarán. Se harán durante los cuatro años de gobierno (2027-2031).",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Crear programas para tratamientos de desechos dentro del cantón.",
+    "pag": 6
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Crear un sistema integral de alcantarillado en el cantón.",
+    "que": "El plan no dice dónde ni cuánto costará. Se hará durante los cuatro años de gobierno (2027-2031).",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Habilitación y creación de un sistema integral de alcantarillado.",
+    "pag": 6
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Mejorar las calles urbanas de competencia municipal.",
+    "que": "Solo las calles de la ciudad. Para caminos rurales, el plan dice que solo hará gestiones con la Prefectura. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice dónde ni cuánto costará.",
+    "cita": "Mejorar las vías urbanas de competencia municipal para mejorar la calidad de vida",
+    "pag": 6
+   },
+   {
+    "t": "Agilizar los trámites para legalizar terrenos.",
+    "que": "El plan no dice cuántos trámites ni cuánto tardará. Se hará durante los cuatro años de gobierno (2027-2031).",
+    "v": "alta",
+    "n": "Le toca al Municipio, dentro de sus propios trámites. El plan no dice plazos concretos.",
+    "cita": "Agilizar los trámites pertinentes para la legalización de terrenos",
+    "pag": 6
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear una empresa pública para gestionar ayuda local e internacional.",
+    "que": "Se hará solo después de estudios y requisitos legales. El plan no dice qué ayuda ni cuánto costará.",
+    "v": "baja",
+    "n": "La ayuda social no es competencia municipal directa. El plan no dice qué ayuda.",
+    "cita": "Creación de una empresa pública local para gestionar ayuda",
+    "pag": 6
+   }
+  ]
+ },
+ "metas": [
+  "Todas las actividades se harán durante los cuatro años de administración (2027-2031)."
+ ],
+ "notas": [
+  "El plan dice que repite el plan anterior. Varias líneas del cuadro están incompletas y no dicen cuánto costarán.",
+  "El compromiso firmado dice elecciones de 2028; el resto del plan dice 2026."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "paginas": 9
+}

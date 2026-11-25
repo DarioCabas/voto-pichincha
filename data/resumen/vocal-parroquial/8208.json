@@ -1,0 +1,127 @@
+{
+ "enfoque": "Mantener calles y espacios públicos junto al Municipio y la Prefectura, dar cursos a emprendedores y cuidar el ambiente. Parte del texto copia el plan de desarrollo de la parroquia.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Hacer un plan de mantenimiento de la infraestructura física, equipamientos y espacios públicos.",
+    "que": "Se haría en alianza con el Municipio, la Prefectura, organizaciones y comunidades. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio y la Prefectura; el plan no dice cómo se paga.",
+    "cita": "Conformar una alianza estratégica de mantenimiento con el Gad Municipal, Gad Provincial, organizaciones sociales y comunitarias.",
+    "pag": 11
+   },
+   {
+    "t": "Organizar actividades deportivas y culturales en los espacios públicos de la parroquia.",
+    "que": "El plan no dice cuántas actividades habrá, en qué espacios ni cuándo. No dice cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca a la junta organizar actividades en sus espacios.",
+    "cita": "Promoción del uso del espacio público parroquial mediante la organización de actividades deportivas y culturales.",
+    "pag": 11
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer un inventario de las vías que están dentro de la parroquia.",
+    "que": "La Junta Parroquial hará la lista de vías dentro del perímetro parroquial. El plan no dice en cuánto tiempo.",
+    "v": "alta",
+    "n": "Es un trabajo de la junta; no tiene costo grande.",
+    "cita": "Inventario por parte de la Junta Parroquial de las vías que están dentro del perímetro parroquial.",
+    "pag": 12
+   },
+   {
+    "t": "Reunirse cada tres meses con la Prefectura y el Municipio para fijar arreglos de vías.",
+    "que": "Acordarán cronogramas de arreglo de vías y cuáles vías van primero. El plan no dice cuánto costará ni quién pone el dinero.",
+    "v": "media",
+    "n": "Depende de la Prefectura y el Municipio, no de la junta sola.",
+    "cita": "Reuniones trimestrales con la Prefectura de Pichincha y la alcaldía de Pedro Moncayo para acordar los cronogramas de mantenimiento vial",
+    "pag": 12
+   },
+   {
+    "t": "Hacer mingas de limpieza con comunidades y barrios.",
+    "que": "La junta las promoverá con comunidades y barrios. El plan no dice qué lugares se limpiarán ni cuándo.",
+    "v": "alta",
+    "n": "Las mingas son trabajo comunitario que organiza la junta.",
+    "cita": "Mingas de limpieza promovidas por el Gad Parroquial con comunidades y barrios",
+    "pag": 12
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar cursos a emprendedores sobre costos de producción y ventas.",
+    "que": "Personal técnico enseñará a los emprendedores a manejar costos y ventas. El plan no dice cuánto costará ni cuándo empiezan.",
+    "v": "alta",
+    "n": "Son cursos, trabajo de la junta. El plan no dice quién paga al personal técnico.",
+    "cita": "El Gad promoverá con personal técnico para que los emprendedores aprendan sobre el manejo de costos de producción y ventas.",
+    "pag": 12
+   },
+   {
+    "t": "Crear una marca colectiva de la parroquia para vender productos locales con certificación.",
+    "que": "Se llamaría Tocachi Orgánico. Los productos tendrían valor agregado con una certificación. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Certificar necesita a la Prefectura y otros actores; el plan no dice cómo.",
+    "cita": "Impulsar una marca colectiva parroquial. La estrategia es diferenciar los productos locales en los mercados",
+    "pag": 12
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Poner basureros ecológicos en sitios turísticos de la parroquia.",
+    "que": "Sirven para que no se contamine el lugar. El plan no dice cuántos ni en qué sitios se pondrán.",
+    "v": "alta",
+    "n": "Es un trabajo de la junta en su territorio.",
+    "cita": "Implementar eco tachos en sitios turísticos para evitar la contaminación del lugar.",
+    "pag": 13
+   },
+   {
+    "t": "Limpiar quebradas y zonas ambientales junto con el Municipio y organizaciones sociales.",
+    "que": "Se hará con el Municipio y las organizaciones. El plan no dice qué quebradas ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita al Municipio; el plan no dice cuándo se hará.",
+    "cita": "Limpieza de quebradas y áreas medioambientales conjuntamente con el Gad Municipal y las organizaciones sociales.",
+    "pag": 13
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer reuniones cada seis meses con organizaciones para revisar el plan de la parroquia.",
+    "que": "Serán con organizaciones sociales para seguir el plan de desarrollo de la parroquia. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Reuniones y participación: le toca a la junta.",
+    "cita": "Reuniones semestrales con las organizaciones sociales para el seguimiento del Plan de Desarrollo y Ordenamiento Territorial de la parroquia.",
+    "pag": 13
+   }
+  ]
+ },
+ "metas": [
+  "Plan de desarrollo de la parroquia actualizado al 100% hasta 2027.",
+  "15% de la población usará los espacios públicos, según el plan.",
+  "10% de productos con valor agregado.",
+  "Plan de trabajo para los años 2027 a 2030."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Parte del texto copia el diagnóstico y el plan de desarrollo de la parroquia. Varias acciones dependen de la Prefectura y el Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "paginas": 18
+}

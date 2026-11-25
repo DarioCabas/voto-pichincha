@@ -1,0 +1,118 @@
+{
+ "enfoque": "Agua, alcantarillado, calles, parques, uso del suelo y riesgos de inundación. Gran parte del dinero depende de crédito y de otras entidades.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar y mejorar agua potable, alcantarillado y basura, primero en los sectores con más brechas.",
+    "que": "Empezará por los sectores con más falta de servicio. Según el plan, el dinero llegaría de crédito, del Estado, de la Prefectura del Guayas, de cooperación y de privados.",
+    "v": "media",
+    "n": "Es del Municipio, pero depende de crédito y de otras entidades.",
+    "cita": "Ampliar y mejorar los servicios de agua potable, alcantarillado, drenaje y manejo de residuos, empezando por los sectores donde las brechas son más evidentes",
+    "pag": 8
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar, mantener y construir vías del cantón según servicio, riesgo y conexión.",
+    "que": "Obras para quitar baches y mejorar la red vial. Se pagaría con recursos propios, tasas y crédito. El plan no deja claro el monto en el texto legible.",
+    "v": "alta",
+    "n": "Calles y vías son del Municipio; el plan indica recursos propios y crédito.",
+    "cita": "Mejorar Ia conectividad cantonal a través de la rehabilitación y mantenimiento vial",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Ordenar el crecimiento de la ciudad y el campo con las reglas del PUGS.",
+    "que": "El PUGS es el plan de uso y ocupación del suelo. Incluye actualizar el catastro y regularizar asentamientos solo donde sea viable. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "El uso del suelo es del Municipio, pero el plan no da fechas.",
+    "cita": "Ordenar el crecimiento urbano y rural mediante Ia aplicación del PUGS, la actualización del catastro y",
+    "pag": 7
+   },
+   {
+    "t": "Resolver conflictos entre viviendas, industrias y terrenos de cultivo, dentro de la ley.",
+    "que": "Busca proteger zonas de riesgo y el suelo rural para producir. El plan no dice cómo ni cuándo se aplicará.",
+    "v": "alta",
+    "n": "Le toca al Municipio dentro del plan de uso del suelo; no tiene fecha.",
+    "cita": "dentro del marco legal, los conflictos entre usos residenciales, industriales",
+    "pag": 6
+   },
+   {
+    "t": "Recuperar 40 espacios públicos y construir 4 parques distritales.",
+    "que": "Con iluminación y accesibilidad. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Parques y espacios públicos son del Municipio.",
+    "cita": "Recuperar 40 espacios y construir 4 parques distritales",
+    "pag": 10
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger el río Milagro y sus canales, con control de descargas y limpieza.",
+    "que": "Se trabajará con el Ministerio del Ambiente. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "media",
+    "n": "Depende del Ministerio del Ambiente y del Estado.",
+    "cita": "Proteger el rio Milagro, los canales y las",
+    "pag": 7
+   },
+   {
+    "t": "Prevenir inundaciones con alerta temprana, mapa de riesgos y obras de mitigación.",
+    "que": "Incluye planes comunitarios y obras contra inundaciones. Lo financian también el Estado, la Prefectura y el banco de desarrollo. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Prevenir inundaciones es del Municipio; depende de fondos externos.",
+    "cita": "la prevención de inundaciones, la gestión de riesgos y la adaptación frente al cambio climático",
+    "pag": 7
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Mejorar la iluminación y recuperar puntos inseguros en los barrios.",
+    "que": "El plan incluye luces, alarmas y organización de vecinos. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "La luz sí es del Municipio; la policía no le toca.",
+    "cita": "Aportar a la seguridad ciudadana y a la convivencia pacifica mediante prevención social y situacional",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "Recuperar 40 espacios públicos y construir 4 parques distritales.",
+  "Programa \"Milagro verde\": 10.000 árboles.",
+  "Gasto de inversión y mantenimiento: al menos 68 % en 2027 y 70 % desde 2028.",
+  "Plan para los primeros 100 días de gestión.",
+  "Ejecución del plan durante 2027-2031."
+ ],
+ "notas": [
+  "Muchas tablas del escaneo son poco legibles; algunos montos no se pueden confirmar.",
+  "Gran parte del texto repite el Plan Milagro 2040, el plan de largo plazo del cantón. Los montos son estimados."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24
+ ],
+ "paginas": 24
+}

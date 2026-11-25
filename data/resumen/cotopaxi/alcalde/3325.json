@@ -1,0 +1,126 @@
+{
+ "enfoque": "Plan general con obras de calles, agua, alcantarillado, basura, espacios públicos y seguridad. No dice dónde ni cuánto costará. Algunas partes son de la Prefectura o la Policía.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Asfaltar, bachear y poner aceras y bordillos en calles de la ciudad.",
+    "que": "El plan habla de asfaltado, bacheo, aceras y señalización en la zona urbana. No dice qué calles, cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará ni qué calles.",
+    "cita": "programas permanentes de asfaltado, bacheo, construcción de aceras y bordillos, señalización horizontal y vertical",
+    "pag": 16
+   },
+   {
+    "t": "Poner iluminación pública y mejorar el desagüe de lluvia en la ciudad.",
+    "que": "El plan dice que mejorará la luz y el drenaje de lluvia en la zona urbana. No dice en qué barrios ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "iluminación pública y mejoramiento del drenaje pluvial, garantizando una movilidad segura",
+    "pag": 16
+   },
+   {
+    "t": "Ordenar el crecimiento de la ciudad y recuperar espacios públicos.",
+    "que": "El plan habla de planificar el crecimiento, el uso del suelo y recuperar espacios públicos. No dice cuáles espacios ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al alcalde: uso del suelo y espacios públicos son del Municipio.",
+    "cita": "la recuperación de espacios públicos para el beneficio de toda la comunidad",
+    "pag": 17
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar caminos rurales junto con la Prefectura de Cotopaxi.",
+    "que": "El plan dice que la alcaldía coordinará con la Prefectura el mantenimiento de caminos de zonas agrícolas, turísticas y productivas. No dice cuánto costará.",
+    "v": "media",
+    "n": "La Prefectura maneja las vías rurales; la alcaldía solo puede gestionarlas.",
+    "cita": "el mantenimiento y mejoramiento de la vialidad rural, priorizando las vías de acceso a las zonas agrícolas",
+    "pag": 16
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar agua potable y alcantarillado en el cantón.",
+    "que": "El plan dice que hará proyectos de agua potable, alcantarillado sanitario y pluvial. No dice en qué sectores, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cómo se pagará.",
+    "cita": "Ampliar y fortalecer la cobertura y calidad de los servicios básicos mediante proyectos de agua potable, alcantarillado sanitario y pluvial",
+    "pag": 17
+   },
+   {
+    "t": "Manejar la basura y tratar las aguas residuales del cantón.",
+    "que": "El plan menciona manejo integral de residuos sólidos y tratamiento de aguas residuales. No dice qué se hará, dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice dónde ni cuánto costará.",
+    "cita": "tratamiento de aguas residuales, manejo integral de residuos sólidos y saneamiento ambiental, promoviendo una mejor calidad de vida",
+    "pag": 7
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Mejorar la luz y recuperar espacios públicos para apoyar la seguridad.",
+    "que": "El plan dice que la alcaldía apoyará la seguridad con espacios recuperados, luz y sistemas tecnológicos. No dice cuánto costará.",
+    "v": "media",
+    "n": "La seguridad es de la Policía y el Gobierno Central; el Municipio solo ayuda.",
+    "cita": "Fortalecer las acciones de prevención y apoyo a la seguridad ciudadana mediante la recuperación de espacios públicos, el mejoramiento de la iluminación",
+    "pag": 17
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger el patrimonio natural con reforestación y cuidado de fuentes de agua.",
+    "que": "El plan dice que habrá programas de conservación, reforestación, educación ambiental y protección de fuentes de agua. No dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice dónde ni con qué dinero.",
+    "cita": "Proteger el patrimonio natural del cantón mediante programas de conservación ambiental, reforestación, educación ambiental, protección de fuentes hídricas",
+    "pag": 17
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Usar herramientas digitales y simplificar trámites en la alcaldía.",
+    "que": "El plan dice que modernizará la administración con herramientas digitales y menos trámites. No dice qué sistemas ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué sistemas ni cuánto costará.",
+    "cita": "Modernizar la administración municipal mediante la implementación de herramientas digitales, simplificación de trámites",
+    "pag": 17
+   }
+  ]
+ },
+ "metas": [
+  "Plan de trabajo para los años 2027 a 2031.",
+  "Rendición de cuentas una vez al año, según el plan."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero.",
+  "Varias acciones dependen de convenios con la Prefectura, la Policía o el Gobierno; el plan no detalla cuáles."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25
+ ],
+ "paginas": 25
+}

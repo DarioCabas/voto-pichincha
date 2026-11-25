@@ -1,0 +1,155 @@
+{
+ "enfoque": "Obras de agua, alcantarillado, vías, terminal y basura, con metas en porcentaje. Casi no dice cuánto cuestan ni cuándo se terminan.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Continuar el proyecto de la Terminal Terrestre de Latacunga.",
+    "que": "La tabla marca avance de 50% y 50%. El plan no dice cuánto costará ni cuándo se termina.",
+    "v": "alta",
+    "n": "Le toca al Municipio; el plan no dice cómo se paga.",
+    "cita": "Terminal Terrestre de Latacunga Porcentaje de avance del proyecto",
+    "pag": 32
+   },
+   {
+    "t": "Intervenir vías rurales para mejorar la conexión del territorio.",
+    "que": "La tabla marca 25% de avance cada año durante cuatro años, medido en kilómetros. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Las vías rurales también son de la Prefectura; el plan no dice con quién se hace.",
+    "cita": "Conectividad y Vialidad Rural Kilómetros de vías rurales intervenidas",
+    "pag": 33
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Renovar el Acceso Sur de la ciudad con una regeneración integral.",
+    "que": "La tabla marca avance de 5%, 20%, 40% y 35% en cuatro años. El plan no dice cuánto costará ni qué incluye.",
+    "v": "alta",
+    "n": "Las vías urbanas son del Municipio; el plan no dice cómo se paga.",
+    "cita": "regeneración integral del Acceso Sur. 5% 20% 40% 35%",
+    "pag": 32
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Mejorar el sistema de agua potable y saneamiento de la ciudad.",
+    "que": "La tabla marca 25% de avance cada año. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará.",
+    "cita": "Porcentaje de mejoramiento del sistema de agua potable y saneamiento urbano intervenido",
+    "pag": 34
+   },
+   {
+    "t": "Ampliar la cobertura del alcantarillado sanitario en la zona urbana.",
+    "que": "La tabla marca cobertura de 10% el primer año y 30% en cada año siguiente. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará.",
+    "cita": "Porcentaje de cobertura del servicio de alcantarillado sanitario en el área urbana",
+    "pag": 35
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Poner en marcha el Complejo Ambiental para manejar mejor la basura.",
+    "que": "El plan habla de un Complejo Ambiental y de mejorar recolección y disposición final. No dice costo ni fecha.",
+    "v": "alta",
+    "n": "La basura es competencia del Municipio; el plan no dice cuánto costará.",
+    "cita": "mediante la implementación del Complejo Ambiental y la mejora",
+    "pag": 27
+   }
+  ],
+  "otros": [
+   {
+    "t": "Hacer obras para reducir el riesgo por una posible erupción del volcán Cotopaxi.",
+    "que": "La tabla marca 25% de avance cada año en cuatro años. El plan no dice qué obras son ni cuánto costarán.",
+    "v": "media",
+    "n": "Prevenir desastres sí le toca al Municipio, pero las obras grandes dependen de otros niveles.",
+    "cita": "Implementación de obras de mitigación estructural y no estructural ante una posible erupción del volcán Cotopaxi",
+    "pag": 42
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una rendición de cuentas pública cada año.",
+    "que": "Informe anual sobre metas, presupuesto y obras. El plan no dice la fecha exacta ni cómo se publicará.",
+    "v": "alta",
+    "n": "Es obligación del alcalde presentar un informe anual, según la ley.",
+    "cita": "Rendición pública de cuentas anual, mediante informes sobre el cumplimiento de metas,",
+    "pag": 52
+   },
+   {
+    "t": "Crear un portal de transparencia con compras, presupuesto y obras.",
+    "que": "Publicará contratación pública, presupuesto, obras e indicadores. El plan no dice cuánto costará ni cuándo estará listo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Costo y plazo no aparecen en el plan.",
+    "cita": "Portal de transparencia y gobierno abierto, que facilite el acceso a información sobre contratación pública,",
+    "pag": 52
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar riego, asistencia técnica y mercados a los agricultores.",
+    "que": "El plan lo menciona como oportunidad, sin decir cuánto costará ni quién lo hará.",
+    "v": "media",
+    "n": "El riego le toca sobre todo a la Prefectura; el alcalde solo puede empujarlo.",
+    "cita": "Riego, asistencia técnica, mercados campesinos y cadenas de valor.",
+    "pag": 20
+   }
+  ]
+ },
+ "metas": [
+  "Terminal terrestre: avance de 50% y 50% (la tabla no dice en qué años).",
+  "Acceso Sur: avance de 5%, 20%, 40% y 35% en cuatro años.",
+  "Alcantarillado urbano: cobertura de 10% el primer año y 30% en cada año siguiente.",
+  "Plan maestro de agua potable: avance de 5%, 10%, 30% y 55% en cuatro años.",
+  "Vías rurales: 25% de avance cada año durante cuatro años."
+ ],
+ "notas": [
+  "Casi ninguna propuesta dice cuánto costará ni de dónde saldrá el dinero.",
+  "Seguridad y economía casi no tienen propuestas concretas; la tabla repite frases generales.",
+  "Plan muy largo (53 págs.): se resumieron las 40 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  2,
+  3,
+  4,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  19,
+  20,
+  23,
+  24,
+  26,
+  27,
+  28,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  48,
+  49,
+  50,
+  51,
+  52
+ ],
+ "paginas": 53
+}

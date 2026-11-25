@@ -1,0 +1,135 @@
+{
+ "enfoque": "Propone obras de agua, alcantarillado, calles, basura y parques hasta 2031. Casi no dice cuánto costará, y varias acciones dependen de otras instituciones.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Manejar la basura: limpieza pública, reciclaje y recuperar zonas con basura tirada.",
+    "que": "Incluye limpieza pública, reciclaje y educación ambiental. El plan no dice cuánto costará ni en qué fecha.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Fortalecer la gestión integral de residuos sólidos, limpieza pública, reciclaje, educación",
+    "pag": 4
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar a emprendedores, comerciantes, agricultores, artesanos y turismo local.",
+    "que": "Habla de apoyo a emprendimientos, comercio, producción agropecuaria, artesanía, gastronomía y turismo. El plan no dice cómo ni con qué dinero.",
+    "v": "media",
+    "n": "Ayudar a negocios está en el plan, pero el Municipio no crea empleo y no dice con qué dinero.",
+    "cita": "Impulsar la economía local mediante apoyo a emprendimientos, comercio, producción agropecuaria,",
+    "pag": 4
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Simplificar trámites, pasar servicios a lo digital y formar al personal municipal.",
+    "que": "Propone digitalizar, simplificar trámites y fortalecer al personal y el control interno. El plan no dice plazo ni costo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Modernizar la gestión municipal mediante digitalización, simplificación de trámites,",
+    "pag": 4
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Mejorar calles urbanas y caminos rurales con mantenimiento y rehabilitación.",
+    "que": "Incluye mantenimiento, rehabilitación y coordinación con otros niveles de gobierno para caminos rurales. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Calles le tocan al Municipio. Caminos rurales dependen en parte de la Prefectura.",
+    "cita": "Mejorar la vialidad urbana y la conectividad rural mediante mantenimiento, rehabilitación,",
+    "pag": 3
+   }
+  ],
+  "otros": [
+   {
+    "t": "Prevenir y responder a inundaciones e incendios junto con bomberos y otros organismos.",
+    "que": "Habla de prevención y respuesta ante inundaciones, incendios y otras emergencias, en coordinación con organismos de respuesta. El plan no dice costo.",
+    "v": "media",
+    "n": "Puede hacer prevención, pero la respuesta de bomberos depende de otras instituciones.",
+    "cita": "Mejorar la capacidad de prevención y respuesta ante riesgos naturales, inundaciones,",
+    "pag": 4
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Mejorar la iluminación de espacios públicos y coordinar con Policía y Bomberos.",
+    "que": "Dice que el Municipio usará espacios e iluminación, y que hará convenios con la Policía, Bomberos y la comunidad. No dice costo.",
+    "v": "media",
+    "n": "La luz pública sí le toca. La Policía no le toca al Municipio; solo puede coordinar.",
+    "cita": "Fortalecer las competencias propias del GAD en uso de espacio e iluminación,",
+    "pag": 10
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Mejorar el agua potable en los sectores con menos servicio.",
+    "que": "Busca continuidad, calidad y cobertura del agua en sectores con mayores brechas. El plan no dice qué obras ni cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Mejorar la continuidad, calidad, cobertura y sostenibilidad de los servicios municipales de agua potable y saneamiento, priorizando sectores con mayores brechas.",
+    "pag": 3
+   },
+   {
+    "t": "Ampliar y mantener el alcantarillado de aguas servidas y de lluvia.",
+    "que": "Incluye criterios para prevenir inundaciones. El plan menciona un financiamiento del Banco de Desarrollo para alcantarillado, pero no dice cuánto costará cada obra.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Depende en parte del préstamo del banco.",
+    "cita": "Ampliar y mantener la infraestructura de alcantarillado sanitario y pluvial, incorporando criterios",
+    "pag": 3
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar y ampliar parques y espacios públicos para niños, jóvenes, adultos mayores y familias.",
+    "que": "El plan no dice en qué lugares ni cuánto costará. Dice que serán para niños, jóvenes, adultos mayores y familias.",
+    "v": "alta",
+    "n": "Le toca al Municipio: parques y espacios públicos. El plan no dice cuánto costará.",
+    "cita": "Recuperar y ampliar espacios públicos, deportivos, recreativos y culturales para niñas, niños,",
+    "pag": 4
+   },
+   {
+    "t": "Ordenar el crecimiento de la ciudad y del campo con planes y control del uso del suelo.",
+    "que": "Incluye instrumentos de planificación, control del uso del suelo y actualización de información territorial. El plan no dice costo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: uso del suelo y planos de la ciudad.",
+    "cita": "Ordenar el crecimiento urbano y rural mediante instrumentos de planificación, control del uso del suelo",
+    "pag": 4
+   }
+  ]
+ },
+ "metas": [
+  "Conocer el estado de servicios, contratos y proyectos en los primeros 150 días.",
+  "Levantar datos de partida (líneas base) durante el primer año, 2027.",
+  "Revisar la programación con indicadores cada seis meses y cada año.",
+  "Presentar un informe anual y un plan para 2028 al final de 2027.",
+  "Ejecutar el plan durante cuatro años de gestión, 2027-2031."
+ ],
+ "notas": [
+  "El plan casi no pone costos ni cifras. Muchas metas dicen solo aumentar o mejorar, sin número.",
+  "Varias acciones son de Policía, salud, educación o MIES. El Municipio solo puede coordinar con ellas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19
+ ],
+ "paginas": 19
+}

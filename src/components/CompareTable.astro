@@ -4,6 +4,8 @@
 interface Props { candidatos: any[]; temas: { id: string; nombre: string }[]; auto?: boolean }
 const { candidatos, temas, auto = false } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+// Los PDF (public/planes, ~1,2 GB) no van en git: en producción se sirven desde PUBLIC_PLANES_URL (ver README)
+const planes = (import.meta.env.PUBLIC_PLANES_URL ?? '').replace(/\/$/, '') || base;
 const conteo = (c) => {
   const o = { alta: 0, media: 0, baja: 0 };
   for (const items of Object.values(c.tabla ?? {})) for (const i of items as any[]) o[i.v]++;
@@ -73,7 +75,14 @@ const uid = 'cmp' + Math.random().toString(36).slice(2, 7);
                     <li>
                       <details class="it">
                         <summary title="Ver por qué"><i class={`dot ${i.v}`}></i><span>{i.t}</span><span class="chev" aria-hidden="true">▸</span></summary>
-                        <p>{i.n}</p>
+                        {i.que && <p class="que">{i.que}</p>}
+                        <p><b>¿Se puede cumplir?</b> {i.n}</p>
+                        {i.cita && (
+                          <blockquote class="cita">
+                            «{i.cita}»
+                            {c.pdf && <a href={`${planes}${c.pdf}#page=${i.pag ?? 1}`} target="_blank" rel="noopener">Plan, pág. {i.pag ?? '?'}</a>}
+                          </blockquote>
+                        )}
                       </details>
                     </li>
                   ))}
@@ -101,7 +110,7 @@ const uid = 'cmp' + Math.random().toString(36).slice(2, 7);
         <th class="stick">Fuente</th>
         {candidatos.map((c) => (
           <td data-col={c.id} class="small">
-            {c.pdf ? <a href={base + c.pdf} target="_blank">PDF</a> : <span class="muted">Sin PDF</span>}
+            {c.pdf ? <a href={planes + c.pdf} target="_blank">PDF</a> : <span class="muted">Sin PDF</span>}
             {c.txt && <> · <a href={base + c.txt} target="_blank">Texto</a></>}
             {' · '}<a href={c.cne} target="_blank" rel="noopener">CNE</a>
             {c.extraccion === 'ocr' && <span class="muted"> · OCR</span>}
@@ -158,6 +167,9 @@ const uid = 'cmp' + Math.random().toString(36).slice(2, 7);
   .it summary::-webkit-details-marker { display: none; }
   .it summary:hover { background: var(--head); }
   .it summary .dot { margin-top: 6px; }
+  .it .que { color: var(--ink); }
+  .it .cita { margin: 4px 0 2px 17px; font-size: 12px; font-style: italic; color: var(--muted); border-left: 2px solid var(--line); padding-left: 8px; }
+  .it .cita a { display: block; font-style: normal; margin-top: 2px; }
   .it p { margin: 4px 0 2px 17px; font-size: 12px; color: var(--muted); border-left: 2px solid var(--line); padding-left: 8px; }
   .cmp ul.plain { list-style: disc; padding-left: 16px; display: block; }
   .cmp ul.plain li { margin-bottom: 4px; }

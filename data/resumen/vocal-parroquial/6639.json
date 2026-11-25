@@ -1,0 +1,142 @@
+{
+ "enfoque": "Copia en parte el plan de desarrollo parroquial 2023-2027. Propone cursos a agricultores, mingas, caminos, espacios públicos y programas de salud en convenio.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Planificar obras de caminos rurales con el Municipio y la Prefectura.",
+    "que": "El plan no dice qué caminos ni cuánto costará. Pide dinero extra al Municipio y a la Prefectura.",
+    "v": "media",
+    "n": "Caminos le tocan a la junta junto con la Prefectura, pero el dinero depende de otros niveles.",
+    "cita": "Se planificarán aquellas obras relacionadas a la dotación de servicios básicos como agua, alcantarillado, alumbrado público, mejora de espacios públicos inclusivos, escenarios culturales y deportivos, vialidad",
+    "pag": 23
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir dinero a otros niveles para obras de agua, alcantarillado y alumbrado.",
+    "que": "El plan no dice qué obras ni cuánto costarán. Dice que se gestionarían recursos del Municipio y la Prefectura.",
+    "v": "baja",
+    "n": "El agua potable y el alcantarillado le tocan a otro nivel, no a la junta.",
+    "cita": "Se planificarán aquellas obras relacionadas a la dotación de servicios básicos como agua, alcantarillado, alumbrado público",
+    "pag": 23
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Organizar mingas comunitarias para cuidar el ambiente.",
+    "que": "El plan dice que la minga (trabajo voluntario de la comunidad) será la forma de cuidar el ambiente. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta organizar a la comunidad. Cuesta poco. El plan no da cifras.",
+    "cita": "Priorizar la minga comunitaria como forma de cuidado ambiental.",
+    "pag": 22
+   },
+   {
+    "t": "Limpiar y recuperar fuentes de agua y sembrar árboles.",
+    "que": "El plan dice que tendrá programas de limpieza de agua, reforestación y planes para riesgos en las comunidades. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Pide dinero y trabajo con otras instituciones. El plan no dice cuánto costará.",
+    "cita": "descontaminación y recuperación de cuerpos de agua, reforestación, planes de manejo de riesgos a nivel comunitario",
+    "pag": 23
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar espacios públicos, escenarios culturales y deportivos.",
+    "que": "Pide dinero del Municipio, la Prefectura, cooperación, empresas y aporte de la comunidad. No dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Parques sí le tocan a la junta, pero necesita dinero de otros niveles. El plan no dice cuánto costará.",
+    "cita": "mejora de espacios públicos inclusivos, escenarios culturales y deportivos",
+    "pag": 23
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar cursos a dueños de terrenos agrícolas sobre cultivos y variedades.",
+    "que": "El plan dice que hasta 2030 el 70% de dueños de terrenos agrícolas estén capacitados. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Dar cursos es tarea de la junta y cuesta poco. El plan no dice quién los da.",
+    "cita": "capacitados en el cuidado, mejoramiento, y variedad de cultivos, que permitirán la diversificación de la producción",
+    "pag": 24
+   },
+   {
+    "t": "Hacer infraestructura para vender productos perecibles y faenar animales en forma artesanal.",
+    "que": "Pide dinero del Municipio y la Prefectura. El plan no dice dónde se haría ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita dinero y acuerdo del Municipio o la Prefectura.",
+    "cita": "infraestructura para comercialización de productos perecibles, faenamiento artesanal",
+    "pag": 23
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer programas de salud en convenio con otras instituciones.",
+    "que": "Meta del plan: bajar 25% la desnutrición crónica en menores de cinco años para 2029. No dice cuánto costará.",
+    "v": "baja",
+    "n": "La salud le toca a otro nivel de gobierno, no a la junta.",
+    "cita": "Programas integrales de salud en convenio con diferentes instituciones.",
+    "pag": 25
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer reuniones periódicas con la gente para revisar el trabajo de la junta.",
+    "que": "El plan dice que habrá reuniones periódicas para evaluar la gestión de la junta. No dice cada cuánto.",
+    "v": "alta",
+    "n": "Es tarea de la junta y cuesta poco. El plan no fija cada cuánto.",
+    "cita": "Reuniones periódicas de socialización con la ciudadanía de seguimiento y evaluación de la gestión de la Junta Parroquial",
+    "pag": 26
+   },
+   {
+    "t": "Decidir con la gente qué proyectos van primero en el presupuesto participativo.",
+    "que": "El plan dice que la gente define los proyectos prioritarios y sigue su avance. No dice cuánto dinero habrá.",
+    "v": "alta",
+    "n": "Le toca a la junta, pero el plan no dice cuánto dinero habrá.",
+    "cita": "la formulación del Presupuesto Participativo en la definición de los proyectos prioritarios para la ciudadanía",
+    "pag": 23
+   }
+  ]
+ },
+ "metas": [
+  "Hasta 2030, el 70% de dueños de terrenos agrícolas capacitados en cultivos.",
+  "Para 2029, bajar 25% los niños menores de cinco años con desnutrición crónica.",
+  "Para 2030, el 60% de la población diversificó sus fuentes de ingresos.",
+  "Hasta 2031, recuperar fuentes de agua naturales y mejorar el manejo de la basura."
+ ],
+ "notas": [
+  "Gran parte del plan se copia del plan de desarrollo parroquial 2023-2027. No dice cuánto costará cada obra ni de dónde saldrá el dinero.",
+  "No tiene propuestas concretas de seguridad ni de empleo. Tampoco dice dónde se harán las obras."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29
+ ],
+ "paginas": 29
+}

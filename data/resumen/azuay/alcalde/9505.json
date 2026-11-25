@@ -1,0 +1,135 @@
+{
+ "enfoque": "Propone agua y alcantarillado, arreglar vías rurales, cuidar el área de conservación y construir espacios de venta del campo. Muchas metas vienen del plan de desarrollo del cantón.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar y mejorar el agua potable en la cabecera y en las comunidades rurales.",
+    "que": "El plan no dice cuánto costará ni cuándo. Su meta es 100% de cobertura de agua potable de calidad en la cabecera y comunidades.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto cuesta ni de dónde sale el dinero.",
+    "cita": "Ampliación y mejora del sistema de agua potable en la cabecera cantonal y en las",
+    "pag": 10
+   },
+   {
+    "t": "Terminar el alcantarillado de la comunidad de Morasloma.",
+    "que": "El plan no dice cuánto costará ni en qué año se termina. Su meta es dejarlo 100% terminado y funcionando.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Faltan el costo y el plazo.",
+    "cita": "Culminación del sistema de alcantarillado de la comunidad de Morasloma.",
+    "pag": 10
+   },
+   {
+    "t": "Ampliar el alcantarillado en el campo para dejar de usar pozos sépticos.",
+    "que": "El plan dice que bajará en 50% el uso de pozos sépticos en el sector rural. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto cuesta ni cuándo.",
+    "cita": "Ampliación del sistema de alcantarillado y reducción del uso de pozos sépticos en",
+    "pag": 10
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Abrir las vías que ya están planificadas en el plan de ordenamiento urbanístico.",
+    "que": "El plan dice que esta obra está atrasada. No dice dónde, cuánto costará ni cuándo se abrirán.",
+    "v": "alta",
+    "n": "Le toca al Municipio: calles y uso del suelo. Falta costo y plazo.",
+    "cita": "Apertura de las vías planificadas dentro del plan de ordenamiento urbanístico,",
+    "pag": 11
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a las vías rurales de segundo y tercer orden.",
+    "que": "Conectan comunidades con la cabecera y con Susudel. La meta es 100% con mantenimiento periódico. No dice cuánto costará.",
+    "v": "media",
+    "n": "Las vías rurales dependen en parte de la Prefectura (gobierno provincial). El plan no dice el costo.",
+    "cita": "Mantenimiento de las vías de segundo y tercer orden que conectan a las",
+    "pag": 11
+   },
+   {
+    "t": "Terminar la vía alterna que une Susudel con Sanglia.",
+    "que": "El plan la pone como meta concluida. No dice cuánto costará, quién la paga ni cuándo se termina.",
+    "v": "media",
+    "n": "Vía entre parroquias: la puede empujar, pero depende de otros niveles. Sin costo.",
+    "cita": "Terminación de la vía alterna desde Susudel hasta Sanglia.",
+    "pag": 11
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Reforestar y proteger el área de conservación municipal y las fuentes de agua del cantón.",
+    "que": "La meta es que el 100% del área tenga plan de manejo y reforestación hecha. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: cuidar el ambiente del cantón. Falta el costo.",
+    "cita": "reforestación y conservación del Área de Conservación Municipal (ACMUS), y educación ambiental para la",
+    "pag": 14
+   }
+  ],
+  "otros": [
+   {
+    "t": "Prevenir daños por deslizamientos, sequías y heladas en el cantón.",
+    "que": "El plan no dice qué obras ni estudios harán, ni cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Prevenir desastres es tarea del Municipio. El plan no da detalles.",
+    "cita": "gestión integral del riesgo frente a deslizamientos, sequías y heladas",
+    "pag": 11
+   }
+  ],
+  "economia": [
+   {
+    "t": "Construir espacios para procesar y vender productos agropecuarios locales.",
+    "que": "El plan no dice dónde ni cuánto costará. Su meta es tener al menos un centro de acopio o venta en funcionamiento.",
+    "v": "alta",
+    "n": "Mercados y centros de venta son del Municipio. Faltan costo y lugar.",
+    "cita": "Infraestructura y espacios adecuados para el procesamiento y la comercialización",
+    "pag": 11
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Aumentar la recaudación propia del Municipio y mejorar la atención al ciudadano.",
+    "que": "El plan pone como meta subir los ingresos propios y tener percepción ciudadana por encima de 75%. No dice cuánto.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto subirán los ingresos.",
+    "cita": "recaudación de ingresos propios y mejorar la calidad de atención al ciudadano,",
+    "pag": 12
+   }
+  ]
+ },
+ "metas": [
+  "6.000 metros de tubería de agua instalados en Chacahuizho.",
+  "100% de cobertura de agua potable de calidad en la cabecera y comunidades.",
+  "Reducción del 50% en el uso de pozos sépticos en el sector rural.",
+  "Alcantarillado de Morasloma 100% terminado y funcionando.",
+  "100% de vías rurales con mantenimiento periódico."
+ ],
+ "notas": [
+  "Muchas necesidades y datos vienen del plan de desarrollo del cantón 2023-2027, no son propuestas nuevas.",
+  "Ninguna propuesta dice cuánto costará ni de dónde saldrá el dinero. Varias dependen de otros niveles de gobierno."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21
+ ],
+ "paginas": 21
+}

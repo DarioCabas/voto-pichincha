@@ -1,0 +1,132 @@
+{
+ "enfoque": "Plan general de la parroquia Gualea: arreglo de caminos, producción, turismo, cuidado ambiental y actividades sociales. Varias cosas son de otros niveles y el plan no dice cuánto cuesta.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Hacer campañas permanentes de educación ambiental en la parroquia.",
+    "que": "El plan dice que se harán campañas permanentes y 10 talleres. No dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Son actividades que puede organizar la junta. El plan no dice cuánto cuesta.",
+    "cita": "desarrollar campañas permanentes de educación y sensibilización ambiental",
+    "pag": 12
+   },
+   {
+    "t": "Organizar mingas para limpiar, recuperar y reforestar zonas de la parroquia.",
+    "que": "Las mingas serían con barrios y comunidades. Las zonas se elegirían con un diagnóstico participativo. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Las mingas son trabajo comunitario que organiza la junta. Costo no dicho.",
+    "cita": "organizar mingas comunitarias de limpieza, recuperación y reforestación",
+    "pag": 12
+   },
+   {
+    "t": "Poner en marcha el plan de manejo de residuos sólidos llamado “Punto Verde”.",
+    "que": "El plan no dice dónde ni cuánto costará. Lo haría con el Municipio de Quito y la Prefectura de Pichincha.",
+    "v": "media",
+    "n": "Recoger basura le toca al Municipio. La junta solo puede coordinar.",
+    "cita": "Puesta en marcha del plan de manejo de residuos sólidos “Punto Verde”",
+    "pag": 12
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Revisar y elegir los tramos de vía parroquial que más necesitan arreglo.",
+    "que": "Se haría un diagnóstico, se elegirían los tramos con más daño y se haría un plan anual de arreglo. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Cuidar caminos es de la junta junto con la Prefectura. El costo no está dicho.",
+    "cita": "Realizar un diagnóstico y priorización de los tramos viales que requieren intervención",
+    "pag": 13
+   },
+   {
+    "t": "Conseguir convenios y dinero con la Prefectura y otras entidades para arreglar vías.",
+    "que": "Plazos de 2028 a 2031. Beneficia a 13 barrios. El plan no dice cuánto dinero se conseguirá ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura. El plan no dice cuánto cuesta.",
+    "cita": "gestionar convenios y recursos con el Gobierno Provincial y otras instituciones competentes",
+    "pag": 13
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear 3 puntos de producción para los productores de la parroquia.",
+    "que": "El plan no dice dónde estarán ni cuánto costarán. Las metas son para 2028, 2029 y 2031.",
+    "v": "media",
+    "n": "Necesita dinero y apoyo de otras entidades. El plan no dice cuánto cuesta.",
+    "cita": "Bajo el Plan de Vida desarrollar e implementar sistemas de desarrollo productivo territorial",
+    "pag": 11
+   },
+   {
+    "t": "Dar cursos y asistencia técnica a productores y emprendedores.",
+    "que": "El plan dice que se coordinará con la Prefectura, el Ministerio de Agricultura (MAG) y el Ministerio de Turismo (MINTUR). No dice cuánto costará.",
+    "v": "alta",
+    "n": "Los cursos sí puede organizarlos la junta. El plan no dice cuánto cuesta.",
+    "cita": "Capacitación y asistencia técnica a productores y emprendedores.",
+    "pag": 6
+   },
+   {
+    "t": "Diseñar un plan de turismo con comida típica, ferias y puntos de producción.",
+    "que": "El plan pone como meta 10 proyectos hasta 2031. No dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita apoyo de la Prefectura y del Municipio. El plan no dice cuánto cuesta.",
+    "cita": "Diseñar el plan turístico que incluya de manera complementaria el turismo gastronómico, las ferias y nodos de crecimiento productivo",
+    "pag": 11
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar actividades de inclusión, recreación, deporte, cultura y capacitación.",
+    "que": "Para niños, adolescentes, adultos mayores y personas con discapacidad, en los 13 barrios. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Actividades recreativas y culturales puede hacerlas la junta. Costo no dicho.",
+    "cita": "Implementar actividades de inclusión, recreación, deporte, cultura, capacitación y acompañamiento",
+    "pag": 13
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir a otras entidades agua, saneamiento, luz e internet para los barrios.",
+    "que": "El plan dice que se hará con el Municipio de Quito, empresas de agua y de luz, y operadoras de internet. No dice cuánto costará.",
+    "v": "baja",
+    "n": "El agua y la luz le tocan a otras entidades, no a la junta.",
+    "cita": "Gestionar y articular durante el período 2027–2031 la atención progresiva de las necesidades prioritarias de agua, saneamiento, energía y conectividad",
+    "pag": 18
+   }
+  ]
+ },
+ "metas": [
+  "1 convenio al año con otras entidades, de 2028 a 2031.",
+  "10 talleres de educación ambiental.",
+  "10 proyectos productivos o turísticos hasta 2031.",
+  "3 puntos de producción en la parroquia (metas para 2028, 2029 y 2031).",
+  "Mantenimiento de al menos el 80% de las vías y espacios públicos priorizados."
+ ],
+ "notas": [
+  "El objetivo general menciona la parroquia Atahualpa, no Gualea: el texto parece copiado de otro plan.",
+  "No dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22
+ ],
+ "paginas": 22
+}

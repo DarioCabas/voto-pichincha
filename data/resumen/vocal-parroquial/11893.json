@@ -1,0 +1,93 @@
+{
+ "enfoque": "Plan para cuidar el ambiente y las quebradas, apoyar cultura, deporte y producción, y rendir cuentas. Muchas metas dependen del Municipio o la Prefectura.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Reforestar con especies nativas y recuperar quebradas.",
+    "que": "El plan dice que hará proyectos de reforestación con especies nativas y recuperación de quebradas. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Son trabajos de mingas y cuidado del entorno, que la junta sí puede organizar.",
+    "cita": "implementando proyectos de reforestación con especies nativas, recuperación de quebradas",
+    "pag": 12
+   },
+   {
+    "t": "Construir una planta de tratamiento de aguas servidas.",
+    "que": "El plan lo pone como meta, pero no dice cuánto costará, quién la pagará ni cuándo.",
+    "v": "baja",
+    "n": "Es obra grande de alcantarillado; le toca al Municipio, no a la junta.",
+    "cita": "construcción de una planta de tratamiento de aguas servidas",
+    "pag": 12
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Gestionar nuevas rutas de transporte y accesos con las autoridades.",
+    "que": "El plan dice que hará propuestas de rutas y accesibilidad con las autoridades competentes. No dice cuántas rutas ni cuándo.",
+    "v": "media",
+    "n": "Las rutas las decide el Municipio o la Prefectura, no la junta.",
+    "cita": "Gestionar propuestas de rutas y acciones de accesibilidad, en coordinación con autoridades competentes",
+    "pag": 12
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Rendir cuentas cada año en eventos públicos de la parroquia.",
+    "que": "El plan dice que la rendición será anual, en eventos abiertos a los vecinos, con presentaciones cada tres meses. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Es trabajo propio de la junta y cuesta poco.",
+    "cita": "presentaremos de manera anual la rendición de cuentas de nuestra gestión en eventos públicos realizados en el territorio parroquial",
+    "pag": 26
+   },
+   {
+    "t": "Dar a los vecinos acceso a los datos de gastos y gestión de la junta.",
+    "que": "El plan dice que los datos administrativos y financieros estarán al alcance de la ciudadanía. No dice cómo ni cuándo se publicarán.",
+    "v": "alta",
+    "n": "Es tarea propia de la junta y no cuesta mucho.",
+    "cita": "garantizando el acceso libre y transparente a los datos de gestión administrativa y financiera",
+    "pag": 26
+   }
+  ]
+ },
+ "metas": [
+  "Rendición de cuentas una vez al año, en eventos públicos.",
+  "Presentaciones públicas cada tres meses (trimestral).",
+  "Informes en redes sociales y medios comunitarios cada mes.",
+  "Rendición de cuentas sectorial cada seis meses (semestral)."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero. Depende de Municipio, Prefectura y Estado.",
+  "Varias metas (agua, salud, escuelas, policía) no son de la junta. Parte del texto copia el plan de desarrollo de la parroquia."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28
+ ],
+ "paginas": 28
+}

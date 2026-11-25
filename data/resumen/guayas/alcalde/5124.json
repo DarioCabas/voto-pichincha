@@ -1,0 +1,148 @@
+{
+ "enfoque": "Plan de Playas con partes copiadas de La Libertad. Propone drenaje, basura, calles, malecón, cámaras y trámites en línea; también incluye hospital y policía, que no son del Municipio.",
+ "tabla": {
+  "seguridad": [
+   {
+    "t": "Instalar cámaras en los accesos del cantón y crear un centro de monitoreo municipal.",
+    "que": "Cámaras y arcos de videovigilancia en los accesos, y un centro de monitoreo conectado con el ECU-911 y la Policía. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Vigilar es tarea de la Policía; el Municipio pone las cámaras. Depende de fondos del Gobierno.",
+    "cita": "Instalación de arcos de videovigilancia y cámaras de lectura de placas en los accesos del cantón.",
+    "pag": 17
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Construir por etapas tuberías grandes para aguas lluvias que llevan el agua directo al mar.",
+    "que": "Tuberías principales de aguas lluvias, con cierre de canales abiertos y trampas de grasa. Se financia con un crédito del Banco de Desarrollo (BDE). El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Es obra municipal, pero depende de un crédito del BDE.",
+    "cita": "Construcción por etapas de los Colectores Pluviales Principales, incluyendo el cierre de canales abiertos, para la evacuación directa",
+    "pag": 17
+   },
+   {
+    "t": "Ampliar el alcantarillado en Velasco Ibarra, con estación de bombeo y laguna de tratamiento.",
+    "que": "Nuevas redes de alcantarillado en el sector Velasco Ibarra, en coordinación con la empresa de agua Hidroplayas EP. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Agua y alcantarillado son del Municipio, pero el plan lo hace con Hidroplayas y no da costos.",
+    "cita": "Ampliar la red del sistema de alcantarillado sanitario en la Velasco Ibarra con nuevas redes de servicio",
+    "pag": 17
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Cambiar las rutas y horarios de recolección de basura y comprar nuevos carros recolectores.",
+    "que": "Nuevas rutas y horarios, con prioridad a zonas comerciales y mercados, y carros nuevos para nuevos circuitos. Se paga con la tasa de basura. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "La basura es competencia municipal. El plan no dice cuánto costarán los carros.",
+    "cita": "Reestructuración de rutas y horarios del sistema de recolección de residuos sólidos, priorizando las zonas de alta densidad comercial y mercados.",
+    "pag": 20
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer bacheo profundo y poner asfalto nuevo en las avenidas principales y comerciales.",
+    "que": "Arreglo de huecos y asfalto nuevo en las avenidas comerciales y principales. Se pagaría con dinero que transfiere el Gobierno Central y un préstamo del Banco de Desarrollo. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Las calles son del Municipio, pero el dinero depende de transferencias y de un préstamo.",
+    "cita": "Plan de bacheo profundo y reasfaltado en los principales ejes viales de conexión y avenidas comerciales del cantón.",
+    "pag": 20
+   },
+   {
+    "t": "Remodelar el Malecón y alargarlo hasta Cautivo, con luces LED, cámaras y baños nuevos.",
+    "que": "Malecón con luces LED, cámaras, baños y módulos para comerciantes de comida, que llegaría hasta Cautivo. Se pagaría con socios privados, cooperación y crédito. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Obras en zona de playa dependen del Ministerio del Ambiente y de la Armada. Fondos de privados y crédito.",
+    "cita": "Remodelación del Malecón y extensión de este hasta Cautivo, con iluminación LED, cámaras de seguridad, baterías sanitarias modernas",
+    "pag": 19
+   }
+  ],
+  "economia": [
+   {
+    "t": "Construir un mercado para que comerciantes que venden en la calle se reubiquen.",
+    "que": "Mercado de artículos varios para mover a vendedores informales de las vías públicas, con acuerdo previo con ellos. Lo pagaría socios privados (APP) y recursos propios. El plan no dice cuánto costará ni dónde.",
+    "v": "media",
+    "n": "Los mercados son del Municipio, pero el plan depende de socios privados para pagarlo.",
+    "cita": "Construcción del marcado de artículos varios para la reubicación concertada de comerciantes informales de las vías públicas.",
+    "pag": 18
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Poner parquímetros en las calles principales para que siempre haya lugares libres.",
+    "que": "Zona azul con parquímetros (cobro por estacionar) en las principales calles y avenidas, para ordenar la rotación de carros y motos. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "El tránsito y el estacionamiento son del Municipio. El plan no dice el costo.",
+    "cita": "Zona azul en las principales calles y avenidas de la ciudad para la implementación de parquímetros",
+    "pag": 20
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer en línea los trámites de patentes, permisos de funcionamiento y construcción.",
+    "que": "Trámites por internet para sacar o renovar patentes, permisos y licencias de construcción, sin ir a ventanilla. El plan no dice cuánto costará. La meta es 100% en línea al 2031.",
+    "v": "alta",
+    "n": "Los trámites municipales son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Digitalización del 100% de procesos para la emisión y renovación de patentes municipales,",
+    "pag": 21
+   }
+  ],
+  "social": [
+   {
+    "t": "Mejorar el subcentro de salud municipal para que sea hospital abierto 24 horas.",
+    "que": "Mejorar el subcentro de salud del Municipio para que sea hospital abierto 24 horas, con una ambulancia. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Hospitales son del Ministerio de Salud, no del Municipio. El plan lo haría con ese ministerio.",
+    "cita": "repotenciar el Sub-Centro de salud municipal para transformarlo en un hospital",
+    "pag": 18
+   }
+  ]
+ },
+ "metas": [
+  "Cámaras en 100% de accesos y zonas comerciales principales al 2031.",
+  "Reducir 75% las zonas donde se acumula agua en época de lluvias, al 2031.",
+  "Reubicar al 80% del comercio informal de las calles cercanas a mercados, al 2031.",
+  "Atender al menos 15.000 usuarios al año en los centros de atención prioritaria.",
+  "100% de trámites municipales disponibles en línea, sin ir a ventanilla, al 2031."
+ ],
+ "notas": [
+  "Varias partes dicen \"cantón La Libertad\" y \"Municipalidad de La Libertad\". Parece copiado de otro plan.",
+  "Casi ninguna obra dice cuánto cuesta. Solo da porcentajes del presupuesto por año, sin montos en dólares."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32
+ ],
+ "paginas": 32
+}

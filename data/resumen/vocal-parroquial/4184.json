@@ -1,0 +1,111 @@
+{
+ "enfoque": "Gran parte del texto copia el plan de desarrollo de la parroquia 2023–2027. Incluye agua, salud y policía, que no son de la junta.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Reforestar con plantas nativas y recuperar áreas degradadas.",
+    "que": "Es el programa Ascázubi Verde, de 2027 a 2031. El plan no dice cuánto costará. Como referencia, da 22.200 dólares para gestión ambiental y ecosistemas.",
+    "v": "media",
+    "n": "Hace falta acuerdo con otros niveles de gobierno.",
+    "cita": "Programa Ascázubi Verde: reforestación con especies nativas y recuperación de áreas degradadas.",
+    "pag": 13
+   },
+   {
+    "t": "Gestionar mejoras en el manejo de la basura y su reciclaje.",
+    "que": "El plan no dice cuánto costará ni cuándo se hará. Como referencia, da 13.500 dólares para gestión de desechos sólidos.",
+    "v": "media",
+    "n": "La recolección de basura le toca al Municipio, no a la junta.",
+    "cita": "Gestión para mejorar la disposición y aprovechamiento de residuos.",
+    "pag": 13
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer cada año un plan de arreglo de caminos con mapa de puntos críticos.",
+    "que": "Es un plan anual de 2027 a 2031. El plan no dice cuánto costará. Como referencia, rutas seguras tiene 136.000 dólares.",
+    "v": "media",
+    "n": "Los caminos rurales se cuidan junto con la Prefectura.",
+    "cita": "Plan Vial Parroquial Anual con mapa de puntos críticos.",
+    "pag": 14
+   },
+   {
+    "t": "Pedir a la Prefectura el mantenimiento de caminos rurales.",
+    "que": "El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura, que maneja las vías rurales.",
+    "cita": "Gestión con Prefectura para vialidad rural y mantenimiento.",
+    "pag": 14
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer un plan para mantener parques, canchas y equipamientos.",
+    "que": "El plan no dice cuánto costará ni en qué año se hará.",
+    "v": "alta",
+    "n": "Los parques y espacios de la parroquia sí son de la junta.",
+    "cita": "Plan de mantenimiento de parques, canchas y equipamientos.",
+    "pag": 17
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar cursos a productores sobre empaque, venta y economía digital.",
+    "que": "El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "alta",
+    "n": "Cursos a productores: cuesta poco y es trabajo de la junta.",
+    "cita": "Capacitación en valor agregado, empaque, comercialización y economía digital.",
+    "pag": 15
+   },
+   {
+    "t": "Hacer gestiones para mejorar el riego de la parroquia.",
+    "que": "El plan no dice cuánto costará. Como referencia, da 1.000 dólares para riego.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura y las juntas de riego.",
+    "cita": "Gestión para modernización y tecnificación de sistemas de riego.",
+    "pag": 15
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear una escuela de liderazgo para mujeres y jóvenes.",
+    "que": "Es un proyecto de 2027 a 2031, de prioridad media. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Cursos y organizar a la comunidad son trabajo de la junta.",
+    "cita": "Escuela de liderazgo y participación para mujeres dirigentes y jóvenes.",
+    "pag": 12
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar una ficha por cada proyecto con costo y fuente de dinero.",
+    "que": "Cada mes, ficha pública con costo, fuente, plazo, responsable y avance de cada proyecto.",
+    "v": "alta",
+    "n": "Publicar la información está en manos de la junta.",
+    "cita": "Ficha de cada proyecto con fuente de financiamiento.",
+    "pag": 18
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Armar una mesa de coordinación con Policía, Tenencia Política y Bomberos.",
+    "que": "El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "media",
+    "n": "La Policía no es de la junta; solo puede coordinar.",
+    "cita": "Mesa de coordinación con Policía, Tenencia Política, Bomberos y organizaciones.",
+    "pag": 17
+   }
+  ]
+ },
+ "metas": [
+  "Mapa de riesgos actualizado: 1 (meta 2031).",
+  "5 campañas anuales de educación ambiental (meta 2031).",
+  "Plan vial anual: 5 planes (meta 2031).",
+  "Asambleas territoriales: mínimo 2 al año.",
+  "Proyectos con ficha pública: 100% (meta 2031)."
+ ],
+ "notas": [
+  "Gran parte del texto copia el plan de desarrollo de la parroquia 2023–2027. Muchas metas no tienen costo ni fecha.",
+  "Incluye agua potable, salud y policía, que la junta no maneja. Esas partes no se pusieron en la tabla."
+ ],
+ "modelo": "haiku"
+}

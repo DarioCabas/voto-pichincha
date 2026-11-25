@@ -1,0 +1,159 @@
+{
+ "enfoque": "Agua y alcantarillado, basura, calles y terminal terrestre, y ordenar la alcaldía. Gran parte del plan se copia del plan de desarrollo del cantón de 2025.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar por fases el alcantarillado en la cabecera cantonal y en las comunas.",
+    "que": "Hoy el alcantarillado llega al 50,2 por ciento de la población. Empieza por los sectores con más déficit. El plan no dice cuánto cuesta ni de dónde sale el dinero.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto cuesta ni de dónde sale el dinero.",
+    "cita": "Ejecutar las fases priorizadas de alcantarillado sanitario y pluvial en la cabecera cantonal y en las comunas.",
+    "pag": 37
+   },
+   {
+    "t": "Revisar la calidad del agua de la red y publicar los resultados.",
+    "que": "El 31,1 por ciento de la población considera que el agua no es apta para beber. El plan no dice cuánto cuesta.",
+    "v": "alta",
+    "n": "Le toca al Municipio, a través de su empresa de agua. El plan no dice cuánto cuesta.",
+    "cita": "Implementar el control periódico de la calidad del agua distribuida y publicar sus resultados.",
+    "pag": 37
+   },
+   {
+    "t": "Reforzar la recolección de basura en feriados y temporada alta.",
+    "que": "La basura se recoge más en temporada alta. El plan no dice cuánto se refuerza ni cuánto cuesta.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Reforzar la frecuencia y la capacidad de recolección durante feriados y temporada alta.",
+    "pag": 38
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Cerrar por fases el botadero a cielo abierto y controlar su líquido contaminado.",
+    "que": "Hoy se botan 63 toneladas diarias sin tratamiento. El relleno sanitario sigue en estudios. El plan no dice cuánto cuesta.",
+    "v": "media",
+    "n": "Es competencia municipal, pero los permisos los da la autoridad ambiental.",
+    "cita": "Ejecutar por fases el cierre técnico del botadero y el control de lixiviados.",
+    "pag": 38
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer los estudios de un terminal terrestre, que el cantón no tiene.",
+    "que": "El plan solo compromete estudios y permisos para el terminal. No dice cuándo se construye ni cuánto cuesta.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el plan solo compromete estudios, no la obra.",
+    "cita": "Elaborar los estudios y gestionar la viabilidad técnica del terminal terrestre.",
+    "pag": 29
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar calles con asfalto y baches en los sectores que se prioricen.",
+    "que": "Solo la mitad de la red vial del cantón está en buen estado. El plan no dice qué calles se arreglan ni cuánto cuesta.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué calles ni cuánto costará.",
+    "cita": "Ejecutar asfaltado, reasfaltado, bacheo y pavimentación en los sectores priorizados.",
+    "pag": 39
+   },
+   {
+    "t": "Regularizar por fases los asentamientos ya consolidados sin papeles completos.",
+    "que": "Se asegurarán áreas verdes y espacios comunales. El plan no dice cuántos asentamientos ni cuánto cuesta.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué barrios ni cuándo.",
+    "cita": "Ejecutar por fases los procesos de regularización, asegurando porcentajes de áreas verdes y comunales.",
+    "pag": 38
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Coordinar con la fuerza pública un plan de seguridad para la playa y los accesos.",
+    "que": "El Municipio solo coordina. El plan no dice cuándo ni cuánto cuesta. La seguridad la da el Estado.",
+    "v": "baja",
+    "n": "La seguridad no le toca al Municipio. Solo puede coordinar.",
+    "cita": "Coordinar con el Concejo Cantonal de Seguridad y con la fuerza pública un plan permanente de seguridad turística en la franja de playa y en los accesos.",
+    "pag": 33
+   },
+   {
+    "t": "Instalar cámaras de videovigilancia en el malecón y en vías de acceso.",
+    "que": "Es un proyecto de la candidatura, en estudio. El plan no dice cuánto cuesta ni cuándo se instala. La Policía tendría el protocolo.",
+    "v": "baja",
+    "n": "La seguridad es de la Policía, no del Municipio. El plan no dice cuánto cuesta.",
+    "cita": "Instalar la red de cámaras de videovigilancia en el malecón, las vías de acceso y los espacios públicos priorizados.",
+    "pag": 32
+   }
+  ],
+  "social": [
+   {
+    "t": "Gestionar un centro de especialidades médicas junto con el Ministerio de Salud.",
+    "que": "El Municipio pone el local y la gestión; el Ministerio manda en salud. El plan no dice cuánto cuesta ni cuándo abre.",
+    "v": "baja",
+    "n": "La salud no le toca al Municipio; solo puede aportar local y gestión.",
+    "cita": "El Centro Municipal de Especialidades Médicas se formula como una articulación con el Ministerio de Salud Pública.",
+    "pag": 12
+   }
+  ]
+ },
+ "metas": [
+  "Publicar dos veces al año el avance de cada meta del plan.",
+  "Hacer una rendición pública de cuentas cada año ante la asamblea ciudadana.",
+  "Hacer simulacros anuales de tsunami en Engabao, Puerto Engabao y General Villamil.",
+  "Ejecutar el plan en la Etapa I, que va de 2027 a 2031; la ruta completa llega a 2039."
+ ],
+ "notas": [
+  "El plan no tiene montos de dinero: dice que se definirán en el presupuesto. Seis proyectos siguen en idea, sin costo ni plazo fijo.",
+  "Gran parte del plan repite el plan de desarrollo del cantón (Ordenanza 002-2025). Salud, policía y escuelas no son del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48
+ ],
+ "paginas": 48
+}

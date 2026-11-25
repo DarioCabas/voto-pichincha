@@ -1,0 +1,131 @@
+{
+ "enfoque": "Plan de toda la lista de la junta: mingas para caminos y espacios públicos, ferias productivas, reforestación y asambleas. No dice cuánto cuesta.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer mingas para dar mantenimiento a los caminos vecinales.",
+    "que": "El plan no dice cuántos caminos ni cuándo se harán. Se pagaría con mingas, convenios con la Prefectura y presupuesto del GAD.",
+    "v": "alta",
+    "n": "Es trabajo de la junta con la comunidad. El plan no dice cuánto costará.",
+    "cita": "Ejecutar mingas comunitarias para el mantenimiento de caminos vecinales.",
+    "pag": 12
+   },
+   {
+    "t": "Limpiar cunetas, alcantarillas y drenajes junto con la Prefectura.",
+    "que": "El plan no dice cuándo ni cuánto costará. Lo haría con el GAD Provincial, que es la Prefectura de Pichincha.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Coordinar la limpieza de cunetas, alcantarillas y drenajes con el GAD Provincial.",
+    "pag": 12
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir, arreglar y mantener parques, casas comunales y canchas.",
+    "que": "El plan no dice cuánto costará. Se pagaría con presupuesto del GAD, dinero del Gobierno Central y convenios con el Municipio y la Prefectura.",
+    "v": "media",
+    "n": "Necesita convenios con el Municipio y la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Ejecutar proyectos de construcción, rehabilitación y mantenimiento de parques",
+    "pag": 11
+   },
+   {
+    "t": "Hacer mingas para cuidar y mantener los espacios públicos.",
+    "que": "Trabajo de la comunidad para cuidar los espacios públicos. La meta es una minga al año en cada comunidad. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Es organizar a la comunidad, que le toca a la junta.",
+    "cita": "Promover mingas comunitarias para el mantenimiento y cuidado de los espacios públicos.",
+    "pag": 11
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Hacer campañas de seguridad vial y señalización de las vías.",
+    "que": "El plan no dice dónde se harán ni cuánto costará. No dice quién pondría las señales.",
+    "v": "media",
+    "n": "Necesita apoyo del Municipio, la Prefectura o el Ministerio de Transporte.",
+    "cita": "Impulsar la señalización vial y campañas de seguridad en la vía.",
+    "pag": 12
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Reforestar y proteger las fuentes de agua.",
+    "que": "Meta: reforestar 10 hectáreas en el período. El plan no dice dónde se hará ni cuánto costará.",
+    "v": "alta",
+    "n": "Cuidar el ambiente sí le toca a la junta. El plan no dice cuánto costará.",
+    "cita": "Ejecutar proyectos de reforestación y protección de fuentes hídricas.",
+    "pag": 11
+   }
+  ],
+  "economia": [
+   {
+    "t": "Organizar ferias productivas, ruedas de negocios y mercados campesinos.",
+    "que": "Meta: 2 ferias al año. El plan no dice dónde se harán ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar ferias es trabajo de la junta. El plan no dice cuánto costará.",
+    "cita": "Impulsar ferias productivas, ruedas de negocios y mercados campesinos.",
+    "pag": 13
+   },
+   {
+    "t": "Promover turismo comunitario, cicloturismo y agroturismo vinculados a las Lagunas de Mojanda.",
+    "que": "El plan no dice cuánto costará ni quién lo pagará. Pide coordinar con el Ministerio de Agricultura y el Ministerio de Turismo.",
+    "v": "media",
+    "n": "Necesita acuerdo con ministerios. El plan no dice cuánto costará.",
+    "cita": "Promover proyectos de turismo comunitario, cicloturismo y agroturismo vinculados a las",
+    "pag": 13
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Convocar asambleas parroquiales y mesas de trabajo con la ciudadanía.",
+    "que": "Meta: 4 asambleas parroquiales por año, una cada trimestre. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad le toca a la junta.",
+    "cita": "Convocar asambleas parroquiales periódicas y mesas de trabajo participativas.",
+    "pag": 14
+   },
+   {
+    "t": "Poner un buzón físico y un canal digital para sugerencias ciudadanas.",
+    "que": "El plan no dice dónde estará el buzón ni cuánto costará. Sirve para recibir sugerencias y propuestas de vecinos.",
+    "v": "alta",
+    "n": "Es un trámite de la junta. El plan no dice cuánto costará.",
+    "cita": "Implementar un buzón físico y canal digital para sugerencias y propuestas ciudadanas.",
+    "pag": 17
+   }
+  ]
+ },
+ "metas": [
+  "Ejecutar al menos 10 proyectos de infraestructura comunitaria en 2027-2031.",
+  "Intervenir al menos 50 km de vías rurales durante el período.",
+  "Realizar 4 asambleas parroquiales por año.",
+  "Organizar 2 ferias productivas al año.",
+  "Reforestar 10 hectáreas."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni cuánto dinero tendrá la junta. Varias metas dependen de convenios.",
+  "Es el plan de toda la junta, no solo de un vocal. Parte del diagnóstico viene del plan de desarrollo de la parroquia."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19
+ ],
+ "paginas": 19
+}

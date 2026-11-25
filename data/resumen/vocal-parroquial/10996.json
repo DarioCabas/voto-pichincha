@@ -1,0 +1,105 @@
+{
+ "enfoque": "Lo principal: gestionar un terminal de buses en la Panamericana E35 (obra de otro nivel), arreglar caminos con la Prefectura, cuidar espacios públicos, apoyar productores y el ambiente.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Gestionar un terminal de pasajeros cerca de la Panamericana E35, con el Municipio y el Ministerio.",
+    "que": "Primero harían estudios y reuniones con otras entidades. El plan no dice cuánto costará ni cuándo estaría listo.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio y el Ministerio; la obra no es de la junta.",
+    "cita": "la gestión de un terminal o centro de transferencia de pasajeros, concebido como una solución que deberá impulsarse",
+    "pag": 2
+   },
+   {
+    "t": "El terminal no se pagará con dinero de la junta hasta que haya acuerdos y presupuesto.",
+    "que": "El plan dice que la construcción no se paga con el presupuesto de la junta mientras no haya estudios, convenio y dinero asegurados.",
+    "v": "baja",
+    "n": "Es obra de otro nivel de gobierno.",
+    "cita": "El costo de construcción del terminal o centro de transferencia no se imputa al PIM parroquial mientras no",
+    "pag": 7
+   },
+   {
+    "t": "Hacer mantenimiento de caminos rurales y vecinales junto con la Prefectura.",
+    "que": "Se programará cada año y con control de los vecinos. El plan no dice cuánto costará ni qué caminos se arreglarán.",
+    "v": "alta",
+    "n": "La junta puede cuidar caminos junto con la Prefectura.",
+    "cita": "mantenimiento priorizado de vialidad parroquial rural y vecinal, con programación anual y control ciudadano",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Mantener los espacios públicos de la parroquia, elegidos con la comunidad.",
+    "que": "Se elegirán con participación y presupuesto. El plan no dice cuánto costará ni cuáles espacios se arreglarán.",
+    "v": "alta",
+    "n": "Parques y espacios de la parroquia sí son competencia de la junta.",
+    "cita": "de responsabilidad parroquial, priorizados mediante participación y presupuesto",
+    "pag": 5
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer educación ambiental, conservación y reforestación en la parroquia.",
+    "que": "También preparar a la comunidad frente a riesgos. El plan no dice cuántos árboles se plantarán ni cuánto costará.",
+    "v": "alta",
+    "n": "Cuidar el ambiente sí puede hacerlo la junta.",
+    "cita": "forestación/reforestación y preparación comunitaria frente a riesgos, articulando las intervenciones de competencia externa",
+    "pag": 5
+   },
+   {
+    "t": "Pedir a los niveles competentes que sanen el río San Pedro; la junta solo vigila.",
+    "que": "El plan dice que la junta no hace obras de saneamiento. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Le toca a otro nivel; la junta solo gestiona y vigila.",
+    "cita": "saneamiento y grandes obras mediante gestión ante titulares",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar a productores locales y promover el turismo de la parroquia.",
+    "que": "Se hará en coordinación con otras entidades. El plan no dice cuánto costará ni cuántos productores se beneficiarán.",
+    "v": "alta",
+    "n": "Apoyar a productores sí puede hacerlo la junta.",
+    "cita": "Fomento productivo comunitario y promoción turística en coordinación.",
+    "pag": 3
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer cada año una agenda de cultura, deporte y recreación en la parroquia.",
+    "que": "El plan dice que se evaluará cada año. El plan no dice cuánto costará ni en qué lugares.",
+    "v": "alta",
+    "n": "Actividades comunitarias: la junta sí puede organizarlas.",
+    "cita": "Sostener una agenda territorial de cultura, deporte, recreación e",
+    "pag": 5
+   }
+  ]
+ },
+ "metas": [
+  "Cumplir el 100% de los pasos que son de la junta, o dejarlos gestionados, con pruebas públicas.",
+  "Tener al menos una mesa de trabajo permanente con otras entidades para el terminal.",
+  "Publicar un informe del terminal cada tres meses.",
+  "Publicar avances del plan cada tres meses."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará casi ninguna propuesta ni de dónde saldrá el dinero.",
+  "El terminal y el saneamiento del río son de otros niveles de gobierno; la junta solo gestiona y vigila."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "paginas": 12
+}

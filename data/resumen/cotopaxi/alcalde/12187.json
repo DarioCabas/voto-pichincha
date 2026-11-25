@@ -1,0 +1,131 @@
+{
+ "enfoque": "Plan general: prioriza agua, alcantarillado, calles y seguridad, pero casi todo depende de estudios, presupuesto y otras instituciones. No dice cuánto costará.",
+ "tabla": {
+  "seguridad": [
+   {
+    "t": "Pedir al Gobierno Nacional más presencia policial y unidades especializadas en el cantón.",
+    "que": "El plan dice que el Municipio solo gestionará esto ante el Gobierno Nacional. No dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "La policía no le toca al Municipio; solo puede pedirla.",
+    "cita": "Gestionar ante el Gobierno Nacional el fortalecimiento de la presencia policial y de unidades",
+    "pag": 6
+   },
+   {
+    "t": "Gestionar un centro de monitoreo y coordinación de emergencias con ECU 911.",
+    "que": "Lo coordinaría con ECU 911 y otras instituciones. El plan no dice dónde se instalará, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de ECU 911 y del Gobierno; el Municipio solo lo gestiona.",
+    "cita": "Gestionar la implementación de un Centro de Monitoreo y Coordinación",
+    "pag": 6
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Modernizar y dar mantenimiento a la infraestructura de tratamiento de agua, según estudios técnicos.",
+    "que": "Incluye la planta de Alcocetes, El Calzado y el sistema de Ishigua. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Agua potable es competencia municipal. Falta el costo.",
+    "cita": "Ejecutar un programa de modemización y mantenimiento de la infraestructura de tratamiento",
+    "pag": 6
+   },
+   {
+    "t": "Ampliar las redes de agua potable en las parroquias rurales.",
+    "que": "El plan no dice en qué parroquias ni cuánto costará. Dice que será progresivo y sujeto a estudios y presupuesto.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta presupuesto y lugares.",
+    "cita": "Ampliar las redes de agua potable en parroquias rurales",
+    "pag": 6
+   },
+   {
+    "t": "Construir alcantarillado para aguas lluvias en sectores críticos.",
+    "que": "El plan no dice qué sectores ni cuánto costará. Dice que dará prioridad a zonas con riesgo de inundación.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta el costo y las zonas.",
+    "cita": "Construir infraestructura de alcantarillado pluvial en sectores criticos",
+    "pag": 7
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer una evaluación completa del sistema de movilidad de la ciudad.",
+    "que": "Es un estudio de primer paso. El plan no dice cuánto costará ni cuándo estará listo. Luego habla de semáforos y señales.",
+    "v": "alta",
+    "n": "Le toca al Municipio (tránsito). Es un estudio, no una obra.",
+    "cita": "Realizar una evaluación integral del sistema de movilidad cantonal",
+    "pag": 6
+   },
+   {
+    "t": "Estudiar si conviene una planta municipal para producir asfalto.",
+    "que": "Solo es un estudio de viabilidad. El plan no dice cuánto costará ni cuándo se decidirá.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero por ahora solo es un estudio.",
+    "cita": "Evaluar la viabilidad técnica, financiera y juridica de una planta municipal de producción de asfalto",
+    "pag": 10
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Evaluar una planta de reciclaje y valorización de basura.",
+    "que": "El plan solo dice que se evaluará. No dice cuánto costará, dónde ni cuándo.",
+    "v": "alta",
+    "n": "La basura es competencia municipal; por ahora solo es evaluar.",
+    "cita": "Evaluar la implementación de una planta municipal o insermunicipal de reciclaje y valorización",
+    "pag": 11
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear atención a los ciudadanos presencial y por internet.",
+    "que": "El plan no dice dónde ni cuándo se abrirá, ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta plazo y costo.",
+    "cita": "Establecer mecanismos de atención presencial y digital para ciudadanos",
+    "pag": 8
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear vínculos entre emprendedores y empresas privadas.",
+    "que": "El plan no dice cuánto costará ni cuántas personas se beneficiarían. Es un enlace, no creación directa de empleo.",
+    "v": "baja",
+    "n": "Crear empleo no le toca al Municipio; solo enlazar.",
+    "cita": "Crear mecanismos de articulación entre emprendedores y empresas privadas",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "2027: diagnóstico, planificación y estudios.",
+  "2028: inicio de la ejecución.",
+  "2029: expansión y transformación.",
+  "2030: consolidación.",
+  "2031: evaluación, cierre y rendición pública."
+ ],
+ "notas": [
+  "El plan no fija montos ni costos. Dice que todo dependerá del presupuesto municipal y de estudios técnicos.",
+  "Varias propuestas dependen de la Policía, ECU 911 o del Gobierno Nacional, que no son competencia municipal."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19
+ ],
+ "paginas": 19
+}

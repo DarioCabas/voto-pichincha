@@ -1,0 +1,111 @@
+{
+ "enfoque": "Propone agua y alcantarillado, asfaltado, áreas verdes, economía, ambiente, seguridad y deporte. Parte del texto habla de otros cantones y de la Junta Parroquial de Guasaganda.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Aprobar un plan de emergencia para el agua en La Morenita, El Mirador y El Carmen.",
+    "que": "Se haría en los primeros 100 días. Incluye tanques y zonas de baja presión, con El Carmen. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: agua potable. Falta el costo.",
+    "cita": "Aprobar el plan eperativo de emergencia para captación La Morenita, conducción, planta El Mirador, tinques y sectores de baja presión, incluido El Carmen.",
+    "pag": 22
+   },
+   {
+    "t": "Presentar un plan para separar la basura en la fuente y mejorar la recolección.",
+    "que": "Está en la agenda de los primeros 100 días. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: basura. Falta el costo.",
+    "cita": "Presentar el plan de clarificación en la fuente, optimización de recoleccón de revduos,",
+    "pag": 22
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Publicar el primer paquete anual de asfaltado, bacheo y aceras.",
+    "que": "Se haría en los primeros 100 días, junto con bordillos y drenaje. El plan no dice cuánto costará ni qué calles.",
+    "v": "alta",
+    "n": "Le toca al Municipio: calles y vías. Falta el costo.",
+    "cita": "publicar el primer paquete anal de asfaltado, bacheo, aceras,",
+    "pag": 22
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Usar un sistema de mapas digital como única fuente para catastro y obras.",
+    "que": "El plan dice que servirá para catastro, obras, servicios y control del territorio. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: catastro y uso del suelo. Falta el costo.",
+    "cita": "Sistema de información Geográfica municipal como fuente Única para catastro, obras,",
+    "pag": 23
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer un plan piloto de jornadas en las cinco parroquias para recoger problemas.",
+    "que": "Con brigadas técnicas municipales y registro de problemas con responsables y plazos. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta el costo.",
+    "cita": "con calendario de jornadas en Las cinco parroquias, brigadas técnicas municipales, iepistro georrelerenciado cle problemas.",
+    "pag": 22
+   }
+  ],
+  "economia": [
+   {
+    "t": "Revisar el mercado municipal y definir un plan sanitario y financiero para el camal.",
+    "que": "Se haría en los primeros 100 días. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: mercados y faenamiento. Falta el costo.",
+    "cita": "Auditar la preparación operativa del mercado municipal y definir la hoja",
+    "pag": 22
+   }
+  ]
+ },
+ "metas": [
+  "Aprobar el plan de emergencia para el agua en los primeros 100 días.",
+  "Publicar el primer paquete anual de asfaltado y bacheo en los primeros 100 días.",
+  "Presentar el plan para separar la basura en la fuente en los primeros 100 días."
+ ],
+ "notas": [
+  "Gran parte del texto es ilegible. El certificado final habla de precandidatos a la Junta Parroquial de Guasaganda: parece copiado de otra candidatura.",
+  "El plan no da montos: dice que se fijarán después de los estudios previos. Casi ninguna propuesta tiene costo."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35
+ ],
+ "paginas": 35
+}

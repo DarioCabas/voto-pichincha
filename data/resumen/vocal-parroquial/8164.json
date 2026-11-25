@@ -1,0 +1,153 @@
+{
+ "enfoque": "Organizar mingas, ferias y cuidado de quebradas con la comunidad, y pedir al Municipio y a la Provincia las obras que les tocan. No dice cuánto costará.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer una lista de vías, caminos y accesos que necesitan arreglo, con participación de la gente.",
+    "que": "El plan no dice dónde ni cuándo. La lista se haría con la comunidad. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Hacer la lista le toca a la junta y cuesta poco.",
+    "cita": "Levantar y actualizar una matriz participativa de vías, caminos, accesos y espacios públicos prioritarios.",
+    "pag": 6
+   },
+   {
+    "t": "Hablar con el Gobierno Provincial de Pichincha sobre los caminos rurales y vigilar lo que prometa.",
+    "que": "El plan no dice qué caminos ni cuándo. Solo dice que se hará seguimiento a los compromisos.",
+    "v": "media",
+    "n": "La vialidad rural es de la Provincia. La junta coordina y vigila.",
+    "cita": "Coordinar con el Gobierno Provincial de Pichincha las necesidades de vialidad rural y efectuar seguimiento a compromisos.",
+    "pag": 6
+   },
+   {
+    "t": "Pedir al Municipio de Quito las obras que le corresponden a él.",
+    "que": "El plan no dice qué obras ni cuándo. No dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Le toca al Municipio. La junta solo pide y da seguimiento.",
+    "cita": "Gestionar ante el Municipio del Distrito Metropolitano de Quito las intervenciones que correspondan a su competencia.",
+    "pag": 6
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Organizar mingas, o trabajo voluntario de vecinos, en espacios de interés de la comunidad.",
+    "que": "El plan no dice qué espacios ni cuántas mingas. Es trabajo voluntario de la comunidad. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Mingas con vecinos: es lo que la junta sí puede organizar.",
+    "cita": "Promover mingas y participación comunitaria para acciones legalmente procedentes en espacios de interés comunitario.",
+    "pag": 7
+   }
+  ],
+  "economia": [
+   {
+    "t": "Buscar formas de vender los productos locales de la parroquia.",
+    "que": "El plan no dice qué mecanismos ni cuándo. No dice cuánto costará ni quién lo pagará.",
+    "v": "media",
+    "n": "Necesita apoyo de otras instituciones. El plan no dice cuáles.",
+    "cita": "Impulsar mecanismos de promoción y comercialización de productos locales.",
+    "pag": 7
+   },
+   {
+    "t": "Pedir cursos y asesoría técnica a instituciones públicas y universidades para productores.",
+    "que": "El plan no dice qué cursos ni cuándo. Dice que se hará con instituciones públicas, universidades y otros especialistas.",
+    "v": "media",
+    "n": "Depende de que otras instituciones acepten. El plan no dice cuáles.",
+    "cita": "Gestionar capacitación y asistencia técnica con instituciones públicas, universidades y actores especializados.",
+    "pag": 7
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer jornadas de limpieza y siembra de árboles en espacios priorizados.",
+    "que": "El plan no dice qué espacios ni cuántas jornadas. Se haría con participación de la comunidad. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Jornadas con vecinos: le toca a la junta y cuesta poco.",
+    "cita": "Promover jornadas de limpieza, recuperación y reforestación de espacios priorizados.",
+    "pag": 7
+   },
+   {
+    "t": "Organizar acciones de vecinos para cuidar quebradas y fuentes de agua.",
+    "que": "El plan no dice qué acciones ni en qué quebradas. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí es tarea de la junta.",
+    "cita": "Impulsar acciones comunitarias para protección de quebradas y fuentes de agua.",
+    "pag": 7
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir a otras entidades mejoras en basura, agua potable y saneamiento.",
+    "que": "El plan no dice qué mejoras ni cuándo. Esas tareas son de otras entidades, no de la junta.",
+    "v": "baja",
+    "n": "Agua potable no le toca a la junta. Solo puede pedir y dar seguimiento.",
+    "cita": "Gestionar ante las entidades competentes mejoras relacionadas con residuos, agua potable y saneamiento.",
+    "pag": 7
+   }
+  ],
+  "social": [
+   {
+    "t": "Buscar convenios y acciones para adultos mayores y personas con discapacidad.",
+    "que": "El plan no dice qué convenios ni cuándo. No dice cuánto costará ni con qué instituciones.",
+    "v": "media",
+    "n": "Necesita acuerdos con otras instituciones. El plan no dice cuáles.",
+    "cita": "Gestionar convenios y acciones para personas adultas mayores y personas con discapacidad.",
+    "pag": 7
+   },
+   {
+    "t": "Organizar actividades de participación y prevención para jóvenes y adolescentes.",
+    "que": "El plan no dice qué actividades ni cuándo. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Actividades comunitarias sí entran en lo que puede hacer la junta.",
+    "cita": "Impulsar actividades preventivas y de participación para jóvenes y adolescentes.",
+    "pag": 7
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas y reuniones periódicas para hablar con los vecinos.",
+    "que": "El plan no dice cuántas asambleas ni cuándo. Son abiertas a la comunidad. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Reuniones con la gente: le toca a la junta y cuesta poco.",
+    "cita": "Realizar asambleas y espacios de diálogo territorial periódicos.",
+    "pag": 8
+   },
+   {
+    "t": "Presentar un informe cada seis meses sobre lo que hacen los vocales.",
+    "que": "El plan dice que el informe será semestral y se compartirá con la ciudadanía. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a los vocales y cuesta poco.",
+    "cita": "Presentar informes semestrales de actuación de los vocales.",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "Informe de avance público cada semestre",
+  "Matriz de seguimiento del plan cada trimestre",
+  "Rendición pública de cuentas cada año",
+  "Presupuesto participativo cada año",
+  "Evaluación final del plan en 2027-2031"
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Varias propuestas dependen del Municipio, la Provincia u otras entidades. El plan no dice cuándo se harán."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15
+ ],
+ "paginas": 15
+}

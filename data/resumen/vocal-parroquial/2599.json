@@ -1,0 +1,124 @@
+{
+ "enfoque": "Arreglar caminos, limpiar quebradas, cuidar espacios comunales, apoyar turismo y productores, y hacer asambleas. Algunas propuestas son de agua, salud o de Quito.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar baches y adoquinar caminos internos y vecinales.",
+    "que": "El plan dice que hará un plan de bacheo, adoquinado y mantenimiento en caminos rurales, en el año 1. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Los caminos le tocan a la junta con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Ejecución de un plan emergente de bacheo, adoquinado y mantenimiento preventivo de la vialidad rural",
+    "pag": 4
+   },
+   {
+    "t": "Negociar con la cooperativa de buses para cambiar los horarios.",
+    "que": "El plan dice que se negociará con la cooperativa que da el servicio de buses en el centro. El plan no dice qué horarios se buscan ni cuándo.",
+    "v": "media",
+    "n": "Depende de un acuerdo con la cooperativa, no de la junta sola.",
+    "cita": "optimizar el horario mediante negociaciones con la cooperativa que nos brinda el servicio de buses",
+    "pag": 3
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Organizar mingas para limpiar cauces y quitar escombros.",
+    "que": "El plan dice que habrá mingas en el año 1 y en el año 3 para limpiar cauces, quitar escombros y sembrar plantas nativas en las orillas. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Las mingas comunitarias sí le tocan a la junta.",
+    "cita": "Organización de mingas comunitarias coordinadas para la limpieza de cauces, retiro de escombros",
+    "pag": 4
+   },
+   {
+    "t": "Dar composteras a las comunidades y dar cursos de reciclaje.",
+    "que": "El plan dice que comprará composteras comunitarias y dará cursos de reciclaje y economía circular. El plan no dice cuántas composteras habrá ni cuánto costará.",
+    "v": "alta",
+    "n": "Cursos y composteras le tocan a la junta. El plan no dice el costo.",
+    "cita": "Adquisición y dotación de composteras comunitarias junto con jornadas permanentes de capacitación técnica en economía circular",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear una marca parroquial y rutas de turismo gastronómico y biocomercio.",
+    "que": "El plan dice que diseñará la marca de la parroquia y rutas de turismo y biocomercio, en el año 2 y el año 3. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "El turismo y el apoyo a productores le tocan a la junta. El plan no dice cuánto cuesta.",
+    "cita": "Diseño de la marca parroquial y desarrollo de rutas de biocomercio y turismo rural gastronómico",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar y equipar casas barriales y centros comunales que se usan poco.",
+    "que": "El plan dice que hará obras y pondrá equipos en casas barriales e infraestructuras comunales del GAD, en el año 2. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca a la junta, pero el plan no dice cómo se pagará.",
+    "cita": "Adecuación física, equipamiento integral y readecuación de casas barriales o infraestructuras comunales",
+    "pag": 4
+   }
+  ],
+  "social": [
+   {
+    "t": "Llevar brigadas de salud mental y prevención de adicciones a las comunidades.",
+    "que": "El plan dice que habrá brigadas itinerantes contra las adicciones, de salud mental y de atención a adultos mayores, en el año 2. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "La salud le toca a otro nivel de gobierno, no a la junta.",
+    "cita": "Despliegue de brigadas comunitarias itinerantes orientadas a la prevención de adicciones, soporte en salud mental",
+    "pag": 4
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Reunirse con la EPMAPS y la Secretaría de Movilidad para revisar el agua.",
+    "que": "El plan dice que en el año 1 habrá reuniones para revisar la nueva red de agua potable y los horarios de transporte. El plan no dice cuándo se hará.",
+    "v": "baja",
+    "n": "El agua potable le toca a otro nivel de gobierno, no a la junta.",
+    "cita": "Instalación de mesas con la EPMAPS y la Secretaría de Movilidad del DMQ",
+    "pag": 4
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas cada dos meses en los barrios y comunidades.",
+    "que": "El plan dice que las asambleas serán itinerantes, en barrios y comunidades, para informar cómo se usa el dinero. El plan no dice cuándo empiezan.",
+    "v": "alta",
+    "n": "Reunirse con vecinos es tarea de la junta.",
+    "cita": "Se institucionalizará la convocatoria bimestral en Asambleas de carácter itinerante en los diferentes barrios",
+    "pag": 7
+   },
+   {
+    "t": "Decidir con los vecinos cómo se gasta el dinero de inversión de la junta.",
+    "que": "El plan dice que todo el dinero de inversión de la junta se decidirá con delegados de barrios y comunidades. El plan no dice cuánto dinero es.",
+    "v": "alta",
+    "n": "Decidir cómo gastar es tarea de la junta. El plan no dice cuánto dinero hay.",
+    "cita": "El 100% de los fondos asignados legalmente a la Junta Parroquial para proyectos de inversión será discutido",
+    "pag": 7
+   }
+  ]
+ },
+ "metas": [
+  "Asambleas en los barrios y comunidades cada dos meses.",
+  "Publicar en internet la información de la junta cada tres meses.",
+  "Año 1: restaurar el primer tramo de quebradas vulnerables.",
+  "Año 3: restaurar el segundo tramo de quebradas vulnerables.",
+  "Año 4: entregar el plan de conectividad parroquial."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Varias propuestas son de agua, salud, seguridad o de la ciudad de Quito, que no son de la junta."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "paginas": 10
+}

@@ -1,0 +1,132 @@
+{
+ "enfoque": "Plan de la lista de Tocachi: arreglar caminos y espacios públicos, apoyar a productores, organizar ferias y actividades, y pedir al Municipio agua y basura.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer un inventario de caminos y un cronograma anual de arreglos con la Prefectura.",
+    "que": "Ubicar en un mapa los caminos, su estado y los puntos con deslizamientos, y acordar un plan anual con la Prefectura de Pichincha. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "La junta puede hacerlo. El cronograma se acuerda con la Prefectura, que maneja los caminos rurales.",
+    "cita": "Levantar y actualizar el inventario georreferenciado de caminos, estado, puntos críticos por deslizamiento y prioridades",
+    "pag": 7
+   },
+   {
+    "t": "Pedir maquinaria y material para limpiar cunetas y atender emergencias en la cabecera parroquial.",
+    "que": "Se hará en la cabecera parroquial y en Tanda, Moronga y Cochasquí. El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "media",
+    "n": "La maquinaria se pide a otra entidad. Se necesita acuerdo con la Prefectura o el Municipio.",
+    "cita": "Gestionar maquinaria, material pétreo, limpieza de cunetas y atención de emergencias en la cabecera parroquial",
+    "pag": 7
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Hacer una lista de pedidos al Municipio para agua, alcantarillado, basura y luz.",
+    "que": "Se escribirán los pedidos y se publicará cada respuesta. El plan no dice cuánto costará ni cuándo llegarán los servicios.",
+    "v": "baja",
+    "n": "Agua, alcantarillado, basura y luz le tocan a otras entidades. La junta solo puede pedir.",
+    "cita": "Mantener una agenda documentada ante el GAD Municipal de Pedro Moncayo, juntas de agua y empresas públicas",
+    "pag": 8
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Dar capacitación a agricultores sobre el buen uso de fertilizantes y plaguicidas.",
+    "que": "Está dirigido a la floricultura familiar y a la agricultura tradicional. El plan no dice cuántas charlas se darán ni cuánto costará.",
+    "v": "alta",
+    "n": "Dar cursos es trabajo de la junta. Puede necesitar apoyo técnico del Ministerio de Agricultura (MAG).",
+    "cita": "Promover capacitación en buenas prácticas agricolas para reducir la contaminación de suelo y agua",
+    "pag": 9
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer mantenimiento, luz y accesibilidad en casas comunales, la casa de La Loma y estadios.",
+    "que": "Se hará en cinco casas comunales, la casa barrial de La Loma, el salón y los estadios. El plan no dice cuánto costará ni en qué año.",
+    "v": "alta",
+    "n": "Cuidar espacios de la parroquia sí le toca a la junta. El plan no dice cuánto costará.",
+    "cita": "Diagnosticar y ejecutar mantenimiento preventivo, iluminación y accesibilidad en las cinco casas comunales",
+    "pag": 7
+   }
+  ],
+  "economia": [
+   {
+    "t": "Organizar ferias y ruedas de negocios para vender en mercados de Pedro Moncayo y Pichincha.",
+    "que": "Es para productores agrícolas, floricultores y emprendedores. El plan fija 3 eventos al año desde 2028. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar ferias es trabajo de la junta. El plan no dice dónde se harán.",
+    "cita": "Organizar ferias, ruedas de negocios y articulación con mercados del cantón Pedro Moncayo y de Pichincha",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer cada año una agenda de deporte, cultura y talleres para jóvenes.",
+    "que": "Se hará en los espacios deportivos que ya existen. El plan fija 4 ciclos al año desde 2028. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar actividades en espacios que ya existen es trabajo de la junta.",
+    "cita": "Implementar una agenda anual de deporte, cultura, liderazgo y prevención de violencia y consumo problemático en los espacios deportivos existentes",
+    "pag": 8
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Organizar redes de vecinos e iluminación junto con la Policía y el Municipio.",
+    "que": "Se hará junto con la Policía Nacional y el Municipio. El plan no dice cuánto costará ni cuántas redes se crearán.",
+    "v": "media",
+    "n": "Juntar vecinos sí le toca. La policía es de otro nivel; necesita acuerdo con el Municipio.",
+    "cita": "Promover redes barriales e iluminación en coordinación con la Policia Nacional y el GAD Municipal",
+    "pag": 9
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar metas, presupuesto y avance de cada proyecto en un tablero público.",
+    "que": "Se publicarán metas, dinero gastado y estado de cada obra. El plan fija informes cada tres meses. No dice dónde se publicará.",
+    "v": "alta",
+    "n": "Publicar la información de la propia junta sí le toca a la junta.",
+    "cita": "Publicar metas, presupuesto, avance físico y financiero y estado de cada proyecto del plan de trabajo",
+    "pag": 9
+   },
+   {
+    "t": "Decidir cada año, con los nueve barrios y cinco comunidades, qué obras van primero.",
+    "que": "Se hará con cada barrio y comunidad de la parroquia. El plan no dice cuánto costará el proceso.",
+    "v": "alta",
+    "n": "Reunir a la gente y ordenar prioridades es trabajo de la junta.",
+    "cita": "Realizar procesos anuales de priorización con los nueve barrios y cinco comunidades de la parroquia",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Al menos 80 % de las prioridades viales atendidas cada año.",
+  "3 ferias o eventos de venta por año desde 2028.",
+  "4 ciclos de talleres o prevención por año desde 2028.",
+  "4 informes trimestrales y 2 asambleas por año.",
+  "Línea base técnica en los primeros cien días de gestión."
+ ],
+ "notas": [
+  "Es un plan de la lista completa de 5 candidatos. Muchas metas dependen del Municipio, la Prefectura o ministerios, según el mismo plan.",
+  "El plan casi no dice cuánto costará cada propuesta ni de dónde saldrá el dinero; solo menciona posibles fuentes."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16
+ ],
+ "paginas": 16
+}

@@ -1,0 +1,121 @@
+{
+ "enfoque": "Arreglar caminos vecinales junto con la Prefectura, mejorar parques y casas comunales, apoyar ferias y reforestar fuentes de agua.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Sembrar árboles y proteger las fuentes de agua de la parroquia.",
+    "que": "El plan dice que habrá programas de reforestación y protección de fuentes de agua. No dice cuántos árboles, en qué lugares ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta y cuesta poco; el plan no da cifras.",
+    "cita": "Ejecutar programas de reforestación y protección de fuentes de agua.",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar emprendimientos y ferias productivas de la parroquia.",
+    "que": "El plan dice que se organizarán las primeras ferias y se apoyarán emprendimientos. No dice cuántas ferias ni cuánto costará.",
+    "v": "alta",
+    "n": "Ferias y apoyo a emprendedores: le toca a la junta. El plan no dice cuánto costará.",
+    "cita": "Apoyar emprendimientos y ferias productivas de la parroquia.",
+    "pag": 5
+   },
+   {
+    "t": "Ayudar al turismo comunitario y a dar más valor a los productos locales.",
+    "que": "El plan habla de asistencia para dar valor agregado local y de circuitos turísticos parroquiales. No dice cuánto costará ni qué productos.",
+    "v": "media",
+    "n": "Necesita apoyo de otras entidades; el plan no dice cuáles.",
+    "cita": "Impulso al turismo comunitario y asistencia para dar valor agregado local.",
+    "pag": 7
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Vigilar las obras que se hacen en la parroquia.",
+    "que": "El plan dice que se dará seguimiento a las obras que se ejecutan en la parroquia. No dice cómo ni cada cuánto se hará.",
+    "v": "alta",
+    "n": "Le toca a la junta vigilar. El plan no dice con qué herramientas.",
+    "cita": "Dar seguimiento a las obras que se ejecutan en la parroquia.",
+    "pag": 2
+   },
+   {
+    "t": "Aplicar la Silla Vacía, un asiento para ciudadanos en las sesiones de la junta.",
+    "que": "El plan dice que se aplicará la Silla Vacía en las sesiones de la Junta. No dice cómo se elegirá a la persona que se siente.",
+    "v": "alta",
+    "n": "Le toca a la junta y cuesta casi nada. El plan no dice cómo se elegirá.",
+    "cita": "Aplicar la Silla Vacía (art. 311 COOTAD) en las sesiones de la Junta.",
+    "pag": 6
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar caminos vecinales (poner capa de material) junto con la Prefectura.",
+    "que": "El plan dice que se coordinará con la Prefectura el mantenimiento y mejoramiento de caminos vecinales y de acceso. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "La maquinaria la pone la Prefectura; la junta coordina. El plan no dice cuánto cuesta.",
+    "cita": "Coordinar con la Prefectura el mantenimiento y mejoramiento de los caminos vecinales y de acceso.",
+    "pag": 5
+   },
+   {
+    "t": "Dar prioridad a los caminos que llevan a servicios y mercados.",
+    "que": "El plan dice que se elegirán primero las vías que conectan comunidades con servicios y mercados. No dice qué vías ni cuánto costará.",
+    "v": "alta",
+    "n": "La junta puede decidir el orden de las vías. El plan no dice cuándo.",
+    "cita": "Priorizar las vías que conectan a las comunidades con los servicios y mercados.",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Promover y ayudar a legalizar los grupos comunitarios de base.",
+    "que": "El plan dice que se dará acompañamiento técnico a las organizaciones de base para legalizarse. No dice cuántas ni en qué plazo.",
+    "v": "media",
+    "n": "La junta puede acompañar; la legalización depende de otras entidades. El plan no dice cuáles.",
+    "cita": "Promover y legalizar las organizaciones comunitarias de base.",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir y arreglar parques y canchas deportivas en la parroquia.",
+    "que": "El plan dice que primero se hará un censo (catastro) del estado de parques, canchas y casas comunales. No dice cuánto costará ni en qué barrios.",
+    "v": "media",
+    "n": "Parques son del ámbito de la junta, pero el plan no dice cuánto costará ni de dónde sale el dinero.",
+    "cita": "Construir y rehabilitar espacios públicos, parques y canchas deportivas.",
+    "pag": 5
+   },
+   {
+    "t": "Arreglar y mejorar las casas comunales y los equipos de uso colectivo.",
+    "que": "El plan habla de mejorar casas comunales y equipamiento de uso colectivo, es decir, lo que usa la comunidad en común. No dice cuánto costará ni dónde.",
+    "v": "media",
+    "n": "Obras grandes van con otros niveles. El plan no dice cuánto cuesta.",
+    "cita": "Mejorar casas comunales y equipamiento de uso colectivo.",
+    "pag": 5
+   }
+  ]
+ },
+ "metas": [
+  "2027-2028: hacer un censo del estado de parques, canchas y casas comunales.",
+  "2027-2028: hacer un diagnóstico de las vías críticas de acceso a las comunidades.",
+  "2027-2028: organizar las primeras ferias productivas parroquiales.",
+  "2027-2031: rendir cuentas durante todo el período de gestión."
+ ],
+ "notas": [
+  "Es la misma propuesta para los cinco candidatos de la lista e incluye mucho texto legal y diagnóstico general.",
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "paginas": 10
+}

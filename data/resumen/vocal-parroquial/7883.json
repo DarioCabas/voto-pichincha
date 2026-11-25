@@ -1,0 +1,143 @@
+{
+ "enfoque": "Plan general de la parroquia Pacto: mezcla obras de agua, salud y educación, que no son de la junta, con caminos, mingas, parques y apoyo a productores.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar caminos con mingas y equipos de la junta.",
+    "que": "El plan prevé 10 proyectos de mantenimiento de caminos entre 2028 y 2031. No dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Caminos son trabajo de la junta, junto con la Prefectura. Las mingas son trabajo comunitario.",
+    "cita": "Impulsar la minga con equipos camineros de la Junta parroquial.",
+    "pag": 15
+   },
+   {
+    "t": "Abrir caminos vecinales y ponerles lastre (capa de piedra y tierra).",
+    "que": "Se haría durante los 4 años. No dice cuánto costará. Los fondos vendrían de convenios con la Prefectura y el Municipio.",
+    "v": "media",
+    "n": "Abrir caminos nuevos necesita máquinas y acuerdos con la Prefectura o el Municipio.",
+    "cita": "Apertura y lastrado de caminos vecinales y servidumbre durante el tiempo de gestión",
+    "pag": 18
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Crear comités y brigadas verdes con vecinos para cuidar el ambiente.",
+    "que": "El plan no dice cuánto costará ni cuándo se formarán. Dice que participará la ciudadanía.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es trabajo que sí puede hacer la junta.",
+    "cita": "Creación de comités ambientales y/o brigadas verdes con la participación ciudadana",
+    "pag": 26
+   },
+   {
+    "t": "Bajar a la mitad la basura no reciclable que llega al relleno sanitario (basurero controlado).",
+    "que": "Meta: 50% menos en 2 años. El plan no dice cuánto costará. Menciona puntos limpios para separar la basura.",
+    "v": "media",
+    "n": "La recolección de basura depende en parte del Municipio, según el plan.",
+    "cita": "Disminuir en un 50% la generación de residuos no reciclables enviados al relleno sanitario en un periodo de 2 años",
+    "pag": 26
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Adecuar espacios de recreación seguros en 6 comunidades.",
+    "que": "Se haría en 4 años. Los juegos se instalarían con mingas comunitarias. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Parques y espacios públicos de la parroquia son competencia de la junta.",
+    "cita": "adecuar espacios de recreación seguros en 6 comunidades",
+    "pag": 27
+   }
+  ],
+  "economia": [
+   {
+    "t": "Capacitar a la mitad de los agricultores en abonos orgánicos y manejo de suelos.",
+    "que": "El plan dice que sería en el primer año. No dice cuánto costará ni quién dará los cursos. Menciona alianzas con otras instituciones.",
+    "v": "alta",
+    "n": "Dar cursos a productores es trabajo que puede hacer la junta.",
+    "cita": "Capacitar al 50% de agricultores en el primer año sobre el manejo integrado de suelos y elaboración de abonos orgánicos",
+    "pag": 25
+   },
+   {
+    "t": "Organizar ferias de productos locales dos veces al año.",
+    "que": "Las ferias serían cada seis meses. El plan no dice dónde se harán ni cuánto costarán.",
+    "v": "alta",
+    "n": "Organizar ferias es trabajo que sí puede hacer la junta.",
+    "cita": "Ferias integrales semestrales “sabores y saberes de Pacto”",
+    "pag": 25
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Gestionar una planta de tratamiento de agua potable con otras entidades.",
+    "que": "El plan no dice cuánto costará ni cuándo estaría lista. Hace falta gestionar con otros niveles de gobierno.",
+    "v": "baja",
+    "n": "El agua potable no le toca a la junta. Le toca a otros niveles.",
+    "cita": "Gestionar para implementar una planta de tratamiento de agua potable mediante la participación de entidades gubernamentales y externas",
+    "pag": 11
+   },
+   {
+    "t": "Conseguir un centro de salud tipo C en 2 años.",
+    "que": "El plan no dice cuánto costará ni explica qué es tipo C. Depende de la autoridad de salud.",
+    "v": "baja",
+    "n": "La salud no le toca a la junta. Le toca a la autoridad de salud.",
+    "cita": "En 2 años disponer de un Centro de Salud tipo C",
+    "pag": 22
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una asamblea abierta para rendir cuentas ante la gente.",
+    "que": "El plan dice que es anual. Las autoridades y vocales darían cuentas en persona. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Rendir cuentas en asamblea depende solo de la junta.",
+    "cita": "Asamblea Abierta donde la máxima autoridad y los vocales rinden cuentas de forma presencial ante la ciudadanía",
+    "pag": 15
+   }
+  ]
+ },
+ "metas": [
+  "10 proyectos de mantenimiento de caminos entre 2028 y 2031.",
+  "Capacitar al 50% de agricultores en el primer año.",
+  "Espacios de recreación seguros en 6 comunidades en 4 años.",
+  "Reducir 50% la basura no reciclable que va al relleno sanitario en 2 años.",
+  "Una asamblea abierta de rendición de cuentas cada año."
+ ],
+ "notas": [
+  "Muchas propuestas son de agua, salud y educación, que no le tocan a la junta parroquial.",
+  "El plan casi no dice cuánto costará ni de dónde saldrá el dinero. La parroquia tiene poco presupuesto."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31
+ ],
+ "paginas": 31
+}

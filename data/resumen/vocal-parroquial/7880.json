@@ -1,0 +1,139 @@
+{
+ "enfoque": "Mantener caminos con la Prefectura, cuidar espacios y el ambiente, organizar mingas y vecinos, y dar cuentas. Parte del texto es diagnóstico general de Quito Rural, no de Chavezpamba.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Planificar y mantener caminos rurales de la parroquia, junto con la Prefectura.",
+    "que": "El plan no dice qué caminos ni cuánto costará. Dice que se hará según el presupuesto disponible.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Planificar y gestionar el mantenimiento de la vialidad parroquial rural, en coordinación con el Gobierno Provincial de Pichincha.",
+    "pag": 15
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer acciones con la comunidad para cuidar la biodiversidad y el patrimonio natural.",
+    "que": "El plan no dice qué acciones, dónde ni cuánto costará. Dice que se hará con participación de la comunidad.",
+    "v": "alta",
+    "n": "Es organizar a la comunidad y cuidar el ambiente. El plan no dice cuánto costará.",
+    "cita": "Incentivar acciones comunitarias para la protección de la biodiversidad y el patrimonio natural.",
+    "pag": 19
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Dar mantenimiento y mejorar espacios públicos y equipamientos de la parroquia, poco a poco.",
+    "que": "El plan no dice qué espacios ni cuánto costará. Se hará según el presupuesto disponible.",
+    "v": "alta",
+    "n": "Son espacios de la parroquia, le toca a la junta. El plan no dice cuánto costará.",
+    "cita": "Planificar e impulsar progresivamente el mantenimiento, adecuación y mejoramiento de la infraestructura física, equipamientos y espacios públicos parroquiales.",
+    "pag": 16
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer mingas, trabajo de vecinos, para obras de interés de todos.",
+    "que": "El plan no dice qué obras ni en qué fechas. Se hace con participación de la ciudadanía. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Es organizar a la comunidad. El plan no dice cuánto costará.",
+    "cita": "Impulsar la participación comunitaria y las mingas para el desarrollo de acciones de interés colectivo.",
+    "pag": 23
+   },
+   {
+    "t": "Organizar a barrios, comunas y comunidades para que participen en la parroquia.",
+    "que": "El plan no dice cuántas organizaciones ni cómo. Es parte del programa Comunidad Activa y Participativa, 2027–2031.",
+    "v": "alta",
+    "n": "Es organizar a la comunidad, tarea de la junta. El plan no dice cuánto costará.",
+    "cita": "Promover y fortalecer la organización de barrios, comunas, comunidades y demás organizaciones territoriales de base.",
+    "pag": 24
+   }
+  ],
+  "economia": [
+   {
+    "t": "Juntar a productores y emprendedores de la parroquia para trabajar en grupo.",
+    "que": "El plan no dice cuántos productores ni cómo se hará, ni cuánto costará. Es parte del programa Parroquia Productiva 2027–2031.",
+    "v": "alta",
+    "n": "Es organizar a la gente, algo que la junta puede hacer. El plan no dice cuánto costará.",
+    "cita": "Promover la organización y asociatividad de productores y emprendedores de la parroquia.",
+    "pag": 12
+   },
+   {
+    "t": "Buscar formas de vender y dar a conocer los productos de la parroquia.",
+    "que": "El plan no dice qué productos ni dónde se venderán. Se hará con otras instituciones y organizaciones competentes.",
+    "v": "media",
+    "n": "Necesita coordinar con otras instituciones. El plan no dice cuánto costará.",
+    "cita": "Impulsar mecanismos de promoción y comercialización de productos locales.",
+    "pag": 19
+   },
+   {
+    "t": "Promover el turismo rural, comunitario y de naturaleza de la parroquia.",
+    "que": "El plan no dice qué sitios ni cuánto costará. Se hará según las potencialidades de la parroquia y con entidades competentes.",
+    "v": "media",
+    "n": "Requiere coordinar con entidades competentes. El plan no dice cuánto costará.",
+    "cita": "Promover iniciativas de turismo rural, comunitario y de naturaleza, de acuerdo con las potencialidades de cada parroquia.",
+    "pag": 19
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Dar cuentas cada año sobre el avance del plan, con informes periódicos.",
+    "que": "Se publicará en medios institucionales como la página web y redes. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Informar a la comunidad es tarea de la junta. El plan no dice cuánto costará.",
+    "cita": "Rendición anual de cuentas e informes periódicos sobre el avance del Plan de Trabajo, conforme a la normativa vigente.",
+    "pag": 28
+   },
+   {
+    "t": "Revisar cómo avanzan las obras y la calidad de los servicios públicos de la parroquia.",
+    "que": "El plan no dice cómo se hará ni cuánto costará. Vale para todo el periodo 2027–2031.",
+    "v": "alta",
+    "n": "Es una tarea que la ley da a la junta. El plan no dice cómo lo hará.",
+    "cita": "Fortalecer mecanismos de vigilancia y seguimiento de la ejecución de obras y la calidad de los servicios públicos que se desarrollen en la parroquia.",
+    "pag": 18
+   }
+  ]
+ },
+ "metas": [
+  "Dar cuentas cada año sobre el avance del plan.",
+  "El plan va del año 2027 al 2031."
+ ],
+ "notas": [
+  "Gran parte del texto es un diagnóstico general de Quito Rural. Casi ninguna propuesta dice cuánto costará, cuándo ni dónde.",
+  "Usa mucho 'fortalecer' e 'impulsar' sin decir qué obra, en qué lugar ni con qué dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30
+ ],
+ "paginas": 30
+}

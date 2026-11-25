@@ -1,0 +1,124 @@
+{
+ "enfoque": "Plan general: arreglar caminos con la Prefectura, cuidar espacios públicos, organizar mingas y apoyar productores. No dice costos ni plazos concretos. Parte está copiada de otras parroquias.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a caminos rurales junto con la Prefectura de Pichincha.",
+    "que": "Identificar qué caminos necesitan arreglo y darles mantenimiento. El plan no dice cuánto costará ni qué caminos son.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura. El plan dice que depende del presupuesto.",
+    "cita": "Impulsar progresivamente acciones de mantenimiento de la vialidad parroquial rural, en coordinación con el Gobierno Provincial de Pichincha",
+    "pag": 14
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Mantener y arreglar espacios públicos y equipamientos de la parroquia.",
+    "que": "Se hará según la planificación. El plan no dice qué espacios, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca a la junta: parques y espacios. El plan no dice cuánto costará.",
+    "cita": "Planificar e impulsar progresivamente el mantenimiento, adecuación y mejoramiento de la infraestructura física, equipamientos y espacios públicos parroquiales.",
+    "pag": 14
+   },
+   {
+    "t": "Pedir convenios al Municipio o a la Prefectura para obras prioritarias.",
+    "que": "Serviría para obras de infraestructura que no son de la junta. El plan no dice cuáles obras ni cuánto costarán.",
+    "v": "media",
+    "n": "Depende de acuerdo con el Municipio o la Prefectura.",
+    "cita": "Gestionar convenios y mecanismos de coordinación con otros niveles de gobierno para atender necesidades prioritarias de infraestructura.",
+    "pag": 13
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer acciones comunitarias para proteger la biodiversidad y el patrimonio natural.",
+    "que": "El plan habla de incentivar acciones con la comunidad. No dice qué acciones, dónde ni cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca a la junta: cuidar el ambiente. Falta detalle de acciones.",
+    "cita": "Incentivar acciones comunitarias para la protección de la biodiversidad y el patrimonio natural.",
+    "pag": 16
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar mingas para trabajos de interés colectivo en la parroquia.",
+    "que": "Trabajo con vecinos para acciones de interés colectivo. El plan no dice qué mingas ni cuándo.",
+    "v": "alta",
+    "n": "Le toca a la junta y cuesta poco. Falta detalle de obras.",
+    "cita": "Promover la participación de la ciudadanía mediante mingas y otras formas de trabajo comunitario para acciones de interés colectivo.",
+    "pag": 13
+   },
+   {
+    "t": "Hacer que barrios, comunas y comunidades elijan las prioridades.",
+    "que": "Se hará con reuniones y participación. El plan no dice cómo ni cuándo.",
+    "v": "alta",
+    "n": "Le toca a la junta: organizar a la comunidad.",
+    "cita": "Promover la participación de barrios, comunas y comunidades en la definición de prioridades territoriales.",
+    "pag": 13
+   }
+  ],
+  "economia": [
+   {
+    "t": "Organizar a productores y emprendedores en asociaciones.",
+    "que": "Ayuda a que productores trabajen juntos. El plan no dice cuántos productores ni cuándo.",
+    "v": "alta",
+    "n": "Le toca a la junta y cuesta poco.",
+    "cita": "Promover la organización y asociatividad de productores y emprendedores de la parroquia.",
+    "pag": 11
+   },
+   {
+    "t": "Buscar formas de vender productos locales con otras instituciones.",
+    "que": "El plan habla de promoción y venta de productos de la parroquia. No dice qué mecanismos ni cuándo.",
+    "v": "media",
+    "n": "Necesita apoyo de otras instituciones.",
+    "cita": "Impulsar mecanismos de promoción y comercialización de productos locales.",
+    "pag": 16
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar el plan, proyectos y presupuesto en medios oficiales.",
+    "que": "Se hará en la página web, redes y otros medios. El plan no dice cuándo ni cuánto cuesta.",
+    "v": "alta",
+    "n": "Solo requiere difundir información.",
+    "cita": "Publicación de información sobre planes, proyectos, presupuesto y gestión parroquial mediante los medios institucionales disponibles.",
+    "pag": 21
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan no da costos ni cifras. Casi todo dice 'progresivamente' o 'según la disponibilidad presupuestaria'.",
+  "Parte del texto habla de otras parroquias (Nanegal, Pacto, Gualea) y del Chocó Andino. Parece copiado de un plan general."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26
+ ],
+ "paginas": 26
+}

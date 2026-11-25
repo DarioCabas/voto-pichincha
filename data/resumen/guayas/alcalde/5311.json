@@ -1,0 +1,175 @@
+{
+ "enfoque": "Prioriza agua, alcantarillado, calles, parques y riesgo de inundación. Buena parte del plan viene del plan de desarrollo cantonal 2023-2027.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Hacer 8 obras contra inundaciones: drenajes, escolleras y taludes.",
+    "que": "El plan no dice dónde ni cuánto costará. Se haría con la Prefectura del Guayas y el comité de emergencias.",
+    "v": "alta",
+    "n": "Prevenir desastres es competencia municipal. El plan no dice cuánto costará.",
+    "cita": "Ejecutar 8 intervenciones de mitigación, protección hidráulica, escolleras, taludes o drenaje estratégico.",
+    "pag": 50
+   },
+   {
+    "t": "Hacer 12 campañas ambientales, recuperar 10 puntos críticos y sembrar 5.000 árboles.",
+    "que": "El plan no dice cuánto costará. Lo harían con escuelas, barrios, comercios y recicladores. Los puntos críticos son sitios con basura en riberas y canales.",
+    "v": "alta",
+    "n": "Basura, limpieza y árboles son del Municipio. El plan no dice costos.",
+    "cita": "Realizar 12 campañas ambientales, recuperar 10 puntos críticos y sembrar 5.000 árboles o plantas ornamentales.",
+    "pag": 29
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer 16 ferias de productos, comida o emprendimiento en el cantón.",
+    "que": "El plan no dice dónde ni cuánto costará. Lo harían con productores, comerciantes, asociaciones y medios locales.",
+    "v": "alta",
+    "n": "Mercados y ferias son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Implementar 16 ferias productivas, comerciales, gastronómicas o de emprendimiento.",
+    "pag": 35
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Poner señales, pasos seguros y accesos para peatones en la ciudad.",
+    "que": "Se harían 20 obras de este tipo, cerca de barrios, centros educativos, mercados y parques. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Tránsito y calles son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Implementar 20 intervenciones de señalización, accesibilidad, pasos seguros",
+    "pag": 31
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Hacer 20 acciones de seguridad preventiva en barrios y recintos.",
+    "que": "El plan no dice qué acciones concretas ni cuánto costará. Pide coordinar con la Policía Nacional.",
+    "v": "baja",
+    "n": "La policía no es del Municipio. El plan no dice qué acciones son.",
+    "cita": "Activar 20 acciones de seguridad preventiva en espacios públicos, barrios o recintos priorizados.",
+    "pag": 34
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear una red de cuidado para mujeres, familias y grupos prioritarios.",
+    "que": "Orientación, apoyo psicosocial y derivación a otras instituciones, para 2.500 personas. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "Cuidado social no es del alcalde. Le toca al Ministerio de Inclusión Económica y Social.",
+    "cita": "Implementar 1 red cantonal de cuidado integral y beneficiar al menos a 2.500 personas de grupos prioritarios, mujeres y familias cuidadoras.",
+    "pag": 53
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar, mantener o mejorar las redes de agua potable en 8 sectores.",
+    "que": "El plan no dice en qué sectores ni cuánto costará. Se pagaría con recursos propios, préstamo del Banco de Desarrollo del Ecuador (BDE) o transferencias.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Intervenir 8 sectores con ampliación, mantenimiento u optimización de redes de agua potable.",
+    "pag": 30
+   },
+   {
+    "t": "Hacer obras o estudios de alcantarillado en 6 sectores.",
+    "que": "El plan no dice qué sectores ni cuánto costará. Se haría antes que el asfalto o adoquín de las calles.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Gestionar y ejecutar obras o estudios de alcantarillado en 6 sectores priorizados.",
+    "pag": 23
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar 20 km de calles urbanas durante 2027-2031.",
+    "que": "El plan no dice en qué barrios ni cuánto costará. Primero se harán agua y alcantarillado, y después la capa final de la calle.",
+    "v": "alta",
+    "n": "Calles le tocan al Municipio. El plan no dice cuánto costará.",
+    "cita": "Intervenir 20 km de vías urbanas y obras complementarias durante el período.",
+    "pag": 31
+   },
+   {
+    "t": "Construir o recuperar 8 parques, ecoparques, canchas o espacios comunitarios.",
+    "que": "El plan no dice dónde ni cuánto costará. Se pagaría con recursos propios, convenios o gestión de la comunidad.",
+    "v": "alta",
+    "n": "Parques son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Construir o recuperar 8 parques, ecoparques, canchas o espacios comunitarios.",
+    "pag": 32
+   }
+  ]
+ },
+ "metas": [
+  "Intervenir 8 sectores con redes de agua potable, 2027-2031.",
+  "Obras o estudios de alcantarillado en 6 sectores, 2027-2031.",
+  "Arreglar 20 km de vías urbanas, 2027-2031.",
+  "Construir o recuperar 8 parques, ecoparques, canchas o espacios comunitarios.",
+  "Ejecutar 8 intervenciones contra inundaciones, 2027-2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará casi ningún proyecto. Muchas metas vienen del plan de desarrollo cantonal 2023-2027.",
+  "Según el plan, la vialidad rural es de la Prefectura del Guayas; el Municipio solo le da seguimiento."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61
+ ],
+ "paginas": 61
+}

@@ -1,0 +1,103 @@
+{
+ "enfoque": "Plan copiado del plan de desarrollo de la parroquia. Propone arreglar caminos y espacios públicos, ordenar el uso del suelo y dar espacios de participación a jóvenes y mujeres.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Mantener y mejorar los caminos rurales junto con la Prefectura.",
+    "que": "El plan dice que se hará en coordinación con la Prefectura (gobierno provincial). La tabla pone montos, pero el texto no se lee bien; no queda claro cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura. Es parte de lo que el cargo puede hacer junto con ella.",
+    "cita": "Promover el mantenimiento y mejoramiento de las vías rurales en coordinación con el GAD Provincial y otros actores.",
+    "pag": 18
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Mantener y mejorar los espacios públicos y equipamientos de la parroquia.",
+    "que": "El plan dice que se hace para que la comunidad pueda usarlos. Los montos están en su tabla, pero el texto no se lee bien; no queda claro cuánto costará.",
+    "v": "alta",
+    "n": "Es parte de lo que la junta puede hacer: espacios públicos de la parroquia.",
+    "cita": "Mejorar y mantener los equipamientos y espacios públicos de la parroquia para facilitar su uso por la comunidad.",
+    "pag": 18
+   },
+   {
+    "t": "Cuidar que el uso del suelo sea ordenado, de acuerdo con el Municipio.",
+    "que": "El plan dice que se coordinará con el Municipio para cumplir la planificación del suelo. El texto de esta propuesta no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio. La junta sola no decide el uso del suelo.",
+    "cita": "Promover un uso ordenado del territorio y una mejor coordinación con el GAD Municipal para el cumplimiento de la planificación del suelo.",
+    "pag": 18
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Buscar convenios y asistencia técnica para tener apoyo jurídico e ingeniería en la junta.",
+    "que": "El plan dice que faltan profesionales para temas legales e ingeniería. Lo resolverá con convenios y ayuda de otras instituciones. No dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de convenios con otras instituciones, que la junta no decide sola.",
+    "cita": "Fortalecer la capacidad técnica del GAD Parroquial mediante convenios, asistencia técnica y cooperación interinstitucional.",
+    "pag": 18
+   },
+   {
+    "t": "Actualizar las normas de la parroquia para mejorar la forma de gestionar.",
+    "que": "El plan dice que las normas parroquiales están desactualizadas y que se actualizarán. No dice cuánto costará; el plazo es el período 2027-2031.",
+    "v": "alta",
+    "n": "Lo hace la propia junta; no depende de otro nivel de gobierno.",
+    "cita": "Actualizar y fortalecer la normativa parroquial para mejorar la gestión institucional.",
+    "pag": 18
+   },
+   {
+    "t": "Abrir espacios para que jóvenes y mujeres participen en planificar la parroquia.",
+    "que": "El plan dice que hoy no existen espacios de participación solo para jóvenes y mujeres. No dice cuánto costará ni cuándo se hará.",
+    "v": "alta",
+    "n": "Es parte de lo que hace la junta: reuniones y participación en la parroquia.",
+    "cita": "Promover espacios de participación para jóvenes y mujeres en la planificación y gestión parroquial.",
+    "pag": 18
+   }
+  ]
+ },
+ "metas": [
+  "Realizar 3 jornadas de capacitación sobre buenas prácticas agrícolas y manejo de agroquímicos.",
+  "Implementar 3 acciones anuales de prevención y respuesta ante incendios y emergencias.",
+  "Impulsar 3 iniciativas piloto de diversificación productiva.",
+  "Realizar 3 jornadas de vinculación para productores y emprendimientos.",
+  "Hacer una rendición de cuentas pública al año."
+ ],
+ "notas": [
+  "El plan está copiado del plan de desarrollo de la parroquia, no es un plan propio para el cargo de vocal.",
+  "Partes del texto escaneado no se leen bien, sobre todo los montos. Muchas propuestas no dicen cuánto costarán.",
+  "Plan muy largo (42 págs.): se resumieron las 28 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  6,
+  8,
+  9,
+  12,
+  13,
+  14,
+  15,
+  16,
+  18,
+  19,
+  20,
+  21,
+  23,
+  24,
+  25,
+  26,
+  28,
+  29,
+  30,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  39,
+  40
+ ],
+ "paginas": 42
+}

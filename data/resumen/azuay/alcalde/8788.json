@@ -1,0 +1,152 @@
+{
+ "enfoque": "Gran parte es copia del diagnóstico del plan de desarrollo del cantón. Propone alcantarillado, agua rural, vías y transparencia, sin costos ni fechas.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar la red de alcantarillado y buscar otras formas de tratar aguas residuales.",
+    "que": "La cobertura de alcantarillado es 46,7%. El plan lo presenta como necesidad. No dice cuánto costará ni cuándo se hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "ampliar la cobertura de la red pública de alcantarillado y de implementar soluciones alternativas de tratamiento de aguas residuales",
+    "pag": 16
+   },
+   {
+    "t": "Ampliar la red pública de agua en las parroquias rurales.",
+    "que": "El 35,14% de las casas usa juntas de agua. El plan no dice qué parroquias ni cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "El agua es tarea municipal, pero las juntas de agua dependen de otros. El plan no dice cuánto costará.",
+    "cita": "La ampliación de la red pública y la mejora de las juntas de agua podrían reducir las brechas en el acceso al agua potable",
+    "pag": 15
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Reducir la diferencia entre ciudad y campo en servicios, vías y planificación del territorio.",
+    "que": "Dice que dará prioridad a zonas rurales. El plan no dice qué obras se harán, dónde, cuánto costarán ni cuándo.",
+    "v": "alta",
+    "n": "Vías, servicios y planificación son del Municipio. Falta saber qué obras y cuándo.",
+    "cita": "Mejorar progresivamente las condiciones de acceso a servicios públicos, infraestructura, hábitat, planificación territorial y movilidad",
+    "pag": 28
+   },
+   {
+    "t": "Recuperar los espacios públicos como lugares de encuentro y convivencia.",
+    "que": "El plan no dice qué espacios ni cuánto costará. Señala que las parroquias rurales tienen poco espacio recreativo.",
+    "v": "alta",
+    "n": "Parques y espacios públicos son del Municipio. El plan no dice dónde ni cuánto costará.",
+    "cita": "el rescate del espacio público como lugar de encuentro y convivencia pacífica",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer presupuestos participativos para decidir en qué invertir.",
+    "que": "Los vecinos definen prioridades de inversión dentro del presupuesto del Municipio. El plan no dice qué parte del dinero ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué parte del presupuesto ni desde cuándo.",
+    "cita": "presupuestos participativos para definir prioridades de inversión; (iv) cabildos locales en comunidades y barrios",
+    "pag": 38
+   },
+   {
+    "t": "Publicar en internet el presupuesto, las obras y los contratos del Municipio.",
+    "que": "El plan promete un portal de transparencia. No dice cuándo estará listo ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice en qué fecha estará listo.",
+    "cita": "portal de transparencia con información presupuestaria, de obras y de contratación",
+    "pag": 38
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar apoyo técnico y económico a organizaciones de productores, comercio y turismo.",
+    "que": "Sería para organizaciones que demuestren buena gestión. El plan no dice cuánto dinero ni de dónde saldrá.",
+    "v": "media",
+    "n": "Apoyar productores no es una tarea típica del Municipio. El plan no dice cuánto costará.",
+    "cita": "El GAD Municipal debe brindar apoyo técnico y económico estratégico a organizaciones agrícolas",
+    "pag": 12
+   }
+  ],
+  "social": [
+   {
+    "t": "Destinar al menos el 10% de sus ingresos que no son impuestos a programas sociales.",
+    "que": "Ingresos no tributarios son los que no vienen de impuestos. El plan no dice qué programas ni cuánto dinero serán.",
+    "v": "media",
+    "n": "Es un compromiso con dinero propio, pero el plan no dice qué programas se harán.",
+    "cita": "destinar, al menos, el 10% de sus ingresos no tributarios a la planificación y ejecución de programas sociales",
+    "pag": 4
+   }
+  ],
+  "otros": [
+   {
+    "t": "Ampliar y mejorar la infraestructura del Hospital Básico de Paute.",
+    "que": "El plan lo pide. No dice quién paga ni cuándo se haría.",
+    "v": "baja",
+    "n": "Los hospitales no son tarea del Municipio. El plan no dice quién paga ni cuándo.",
+    "cita": "Por lo que es necesario una intervención en este establecimiento de salud para una ampliación y mejoramiento de infraestructura.",
+    "pag": 12
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Cuidar el agua y la naturaleza, manejar la basura y prevenir riesgos.",
+    "que": "El plan no dice qué obras ni dónde. Menciona conservar, restaurar, manejar residuos y prevenir riesgos. No dice cuánto costará.",
+    "v": "media",
+    "n": "La basura y los riesgos son del Municipio; el agua y la conservación dependen también de otros.",
+    "cita": "mediante acciones de conservación, restauración, manejo de residuos y gestión integral del riesgo.",
+    "pag": 28
+   }
+  ]
+ },
+ "metas": [
+  "Destinar al menos el 10% de los ingresos que no son impuestos a programas sociales.",
+  "Hacer audiencias públicas de rendición de cuentas cada año.",
+  "El período de gestión es de 2027 a 2031."
+ ],
+ "notas": [
+  "Gran parte del texto es diagnóstico copiado de otro documento. La matriz de metas (páginas 31 a 35) no tiene texto legible.",
+  "El plan no dice cuánto costará ni cuándo se harán las obras. Varias propuestas son de otros niveles de gobierno o de salud."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40
+ ],
+ "paginas": 40
+}

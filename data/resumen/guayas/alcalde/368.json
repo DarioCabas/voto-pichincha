@@ -1,0 +1,132 @@
+{
+ "enfoque": "Obras de agua potable, drenaje contra inundaciones, calles, basura y parques en Balzar. Casi no dice cuánto costarán. Parte del texto copia el plan de desarrollo del cantón.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Extender el agua potable al 100% del área urbana y a los recintos rurales.",
+    "que": "El plan no dice cuánto costará. Dice que se hará a mediano plazo, con préstamos del Banco de Desarrollo y apoyo del Ministerio del Ambiente.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de préstamos y de otras entidades.",
+    "cita": "Extensión de la cobertura de agua potable hacia el 100% del área urbana y recintos rurales.",
+    "pag": 18
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar y ampliar el drenaje de lluvia en zonas bajas que se inundan.",
+    "que": "El plan no dice cuánto costará. Dice que se hará a corto plazo, con convenios técnicos y fondos de emergencia.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Intervención en redes de evacuación de aguas de lluvia para evitar desbordamientos en zonas bajas.",
+    "pag": 16
+   },
+   {
+    "t": "Arreglar arterias principales y caminos rústicos para sacar la producción.",
+    "que": "El plan no dice cuánto costará. Dice que se hará a corto plazo. Los caminos rurales se harían junto con la Prefectura del Guayas.",
+    "v": "media",
+    "n": "Calles le tocan al Municipio; los caminos rurales piden acuerdo con la Prefectura.",
+    "cita": "Rehabilitación integral de arterias principales y caminos rústicos para asegurar la salida de productos.",
+    "pag": 17
+   },
+   {
+    "t": "Recuperar parques con luz, mobiliario urbano y mantenimiento.",
+    "que": "El plan no dice cuánto costará. Dice que se hará a corto plazo, en parques de la ciudad.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Recuperación del espacio público mediante la instalación de iluminación, mobiliario urbano y mantenimiento.",
+    "pag": 15
+   },
+   {
+    "t": "Revisar con más cuidado los permisos para construir casas y edificios.",
+    "que": "El plan no dice cuánto costará ni cuándo. Dice que las normas de seguridad y sostenibilidad se aplicarán en los permisos.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Normativa rigurosa en la emisión de permisos de edificación bajo estándares de seguridad y sostenibilidad.",
+    "pag": 14
+   },
+   {
+    "t": "Mejorar mercados municipales con acuerdos para vender mejor.",
+    "que": "El plan no dice qué cambios harán en los mercados ni cuánto costará. Tampoco dice en qué plazo.",
+    "v": "media",
+    "n": "Los mercados sí le tocan, pero el plan no dice qué mejoras harán.",
+    "cita": "Optimización de mercados locales y gestión de acuerdos estratégicos para garantizar canales de venta eficientes.",
+    "pag": 13
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Cambiar horarios y rutas de recolección de basura y cerrar botaderos.",
+    "que": "El plan no dice cuánto costará ni en qué plazo. No dice qué botaderos se cerrarán.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Optimizar los horarios y rutas de recolección de basura, erradicando botaderos e impulsando el cuidado de nuestras cuencas de agua.",
+    "pag": 28
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear un equipo municipal que ayude a productores a conseguir financiamiento.",
+    "que": "El plan no dice cuánto costará ni cuándo. Dice que el equipo ayudará a los productores a conseguir dinero para sus proyectos.",
+    "v": "media",
+    "n": "Ayudar es tarea del Municipio, pero el dinero depende de bancos y otras entidades.",
+    "cita": "Crear un equipo municipal especializado en impulsar la economía local, que trabaje hombro a hombro con los productores y facilite el financiamiento de sus proyectos.",
+    "pag": 20
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Arreglar o construir casetas de vigilancia y patrullar con la Policía.",
+    "que": "El plan no dice cuánto costará. Dice que se hará a corto plazo.",
+    "v": "baja",
+    "n": "La seguridad es de la Policía, no del alcalde.",
+    "cita": "Construcción o adecuación de UPCS/Puntos de Vigilancia y coordinación de patrullajes.",
+    "pag": 19
+   }
+  ]
+ },
+ "metas": [
+  "Agua potable al 100% del área urbana y recintos rurales (mediano plazo).",
+  "Drenaje de lluvia en sectores con más riesgo de inundación: 2027–2030.",
+  "Plan Maestro de Agua Potable y Alcantarillado: 2027–2031.",
+  "Plan de inversión municipal para cuatro años: 2027–2031.",
+  "Asambleas en barrios y recintos, y una presentación pública cada año."
+ ],
+ "notas": [
+  "Casi ninguna obra tiene costo. El plan no dice cuánto cuesta cada proyecto ni de dónde sale todo el dinero.",
+  "Parte del texto copia el plan de desarrollo del cantón y habla de temas de la Policía y de la Prefectura, que no son del alcalde."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30
+ ],
+ "paginas": 30
+}

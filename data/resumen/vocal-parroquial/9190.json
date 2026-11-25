@@ -1,0 +1,130 @@
+{
+ "enfoque": "Plan general: arreglar caminos con la Prefectura, cuidar espacios públicos y el ambiente, hacer mingas y apoyar productores. No da costos ni cifras.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a los caminos rurales de la parroquia, junto con la Prefectura.",
+    "que": "El plan no dice qué caminos se arreglarán ni cuánto costará. Se hará según el presupuesto disponible y la planificación.",
+    "v": "media",
+    "n": "Es tarea de la junta con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Impulsar progresivamente acciones de mantenimiento de la vialidad parroquial rural, en coordinación con el Gobierno Provincial de Pichincha y de acuerdo con la planificación y disponibilidad presupuestaria.",
+    "pag": 16
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar y mejorar parques, equipamientos y espacios públicos de la parroquia.",
+    "que": "El plan no dice qué espacios se arreglarán, dónde ni cuánto costará. Se hará poco a poco, según el presupuesto.",
+    "v": "alta",
+    "n": "Parques y espacios sí son de la junta. El plan no dice dónde ni cuándo.",
+    "cita": "Planificar e impulsar progresivamente el mantenimiento, adecuación y mejoramiento de la infraestructura física, equipamientos y espacios públicos parroquiales.",
+    "pag": 16
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar mingas, es decir trabajos comunitarios, para obras de interés de todos.",
+    "que": "El plan no dice cuántas mingas habrá, dónde se harán ni cuánto costarán.",
+    "v": "alta",
+    "n": "La junta sí puede organizar mingas. El plan no da cifras ni lugares.",
+    "cita": "Promover la participación de la ciudadanía mediante mingas y otras formas de trabajo comunitario para acciones de interés colectivo.",
+    "pag": 15
+   }
+  ],
+  "economia": [
+   {
+    "t": "Juntar a productores y emprendedores en asociaciones.",
+    "que": "El plan no dice cuántos grupos se formarán ni qué apoyo recibirán. Tampoco dice cuánto costará.",
+    "v": "alta",
+    "n": "Apoyar a productores sí le toca a la junta. El plan no dice con qué recursos.",
+    "cita": "Promover la organización y asociatividad de productores y emprendedores de la parroquia.",
+    "pag": 12
+   },
+   {
+    "t": "Buscar formas de vender los productos y emprendimientos de la parroquia.",
+    "que": "El plan no dice qué mecanismos usará ni dónde venderán. Se hará con instituciones competentes. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Ferias y promoción sí están al alcance de la junta. El plan no dice cuándo.",
+    "cita": "Impulsar mecanismos de promoción y comercialización de productos y emprendimientos de la parroquia, en coordinación con las instituciones y organizaciones competentes.",
+    "pag": 19
+   },
+   {
+    "t": "Promover turismo rural, comunitario y de naturaleza en la parroquia.",
+    "que": "El plan no dice qué proyectos de turismo se harán ni cuánto costarán. Se hará con las entidades competentes.",
+    "v": "media",
+    "n": "Necesita acuerdo con otras entidades. El plan no dice cuánto costará.",
+    "cita": "Promover iniciativas de turismo rural, comunitario y de naturaleza, de acuerdo con las potencialidades de cada parroquia.",
+    "pag": 19
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer acciones comunitarias para cuidar y recuperar espacios naturales.",
+    "que": "El plan no dice qué espacios naturales se cuidarán ni cuándo. Se hará en coordinación con las entidades competentes.",
+    "v": "alta",
+    "n": "El ambiente sí es competencia de la junta. El plan no dice cuánto costará.",
+    "cita": "Impulsar acciones comunitarias de conservación y recuperación de espacios naturales, en coordinación con las entidades competentes.",
+    "pag": 20
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer seguimiento a las obras y servicios públicos de la parroquia.",
+    "que": "El plan no dice qué obras vigilará ni cómo lo hará. Tampoco dice cuánto costará.",
+    "v": "alta",
+    "n": "Vigilar obras es tarea de la junta. El plan no dice con qué herramientas.",
+    "cita": "Fortalecer la vigilancia y seguimiento de las obras y servicios públicos que se desarrollen en la parroquia.",
+    "pag": 15
+   },
+   {
+    "t": "Hacer una rendición de cuentas anual con informes sobre el plan.",
+    "que": "Se presentarán informes periódicos sobre el avance del plan. El plan no dice en qué fecha ni en qué lugar.",
+    "v": "alta",
+    "n": "Le toca a la junta. El plan no dice qué fecha tendrá.",
+    "cita": "Rendición anual de cuentas e informes periódicos sobre el avance del Plan de Trabajo, conforme a la normativa vigente.",
+    "pag": 27
+   }
+  ]
+ },
+ "metas": [
+  "Plan de trabajo para el período 2027 a 2031.",
+  "Rendición de cuentas anual durante el período 2027 a 2031."
+ ],
+ "notas": [
+  "El plan no da costos, cifras ni lugares concretos. Casi todo usa 'fortalecer' o 'impulsar' sin decir qué se hará.",
+  "Parece copiado de una plantilla: deja '[Nombre de la Parroquia]' sin llenar. No propone acciones sobre agua, seguridad ni salud."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29
+ ],
+ "paginas": 29
+}

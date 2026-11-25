@@ -1,0 +1,147 @@
+{
+ "enfoque": "Plan general: cuidar caminos junto con la Prefectura, mantener espacios públicos, proteger el ambiente, organizar productores y hacer mingas. No dice qué obras ni cuánto cuestan.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Mantener la vialidad parroquial rural (caminos) junto con el Gobierno Provincial de Pichincha.",
+    "que": "El plan no dice qué caminos ni cuánto costará. Dice que depende de la disponibilidad de presupuesto.",
+    "v": "alta",
+    "n": "Es competencia de la junta, con coordinación con la Prefectura. Cuesta poco si se organizan mingas.",
+    "cita": "Planificar y gestionar el mantenimiento de la vialidad parroquial rural, en coordinación con el Gobierno Provincial de Pichincha.",
+    "pag": 15
+   },
+   {
+    "t": "Identificar y priorizar los caminos rurales que necesitan mantenimiento.",
+    "que": "El plan no dice cuáles caminos ni en qué plazo. Solo dice que se priorizará según la conexión de comunidades y zonas productivas.",
+    "v": "alta",
+    "n": "Identificar caminos es trabajo de la junta. No requiere gran presupuesto.",
+    "cita": "Identificar y priorizar las vías y caminos rurales que requieran mantenimiento",
+    "pag": 16
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Mantener y mejorar espacios públicos, equipamientos e infraestructura física de la parroquia.",
+    "que": "El plan no dice qué espacios ni cuánto costará. Habla de hacerlo progresivamente, según el presupuesto.",
+    "v": "alta",
+    "n": "Parques y espacios de la parroquia son competencia de la junta. El plan no dice montos.",
+    "cita": "Planificar e impulsar progresivamente el mantenimiento, adecuación y mejoramiento de la infraestructura física, equipamientos y espacios públicos parroquiales.",
+    "pag": 16
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Incentivar acciones comunitarias para proteger la biodiversidad y el patrimonio natural.",
+    "que": "El plan no dice qué acciones, en qué lugares ni cuánto costarán. Se hará con participación de la comunidad.",
+    "v": "alta",
+    "n": "Cuidar el ambiente es competencia de la junta. Se hace con la comunidad.",
+    "cita": "Incentivar acciones comunitarias para la protección de la biodiversidad y el patrimonio natural.",
+    "pag": 19
+   },
+   {
+    "t": "Impulsar acciones comunitarias de conservación y recuperación de espacios naturales de la parroquia.",
+    "que": "El plan no dice qué espacios naturales ni cuándo. Dice que se hará junto con las entidades competentes.",
+    "v": "alta",
+    "n": "Acción comunitaria. Si hay obras grandes, necesita a otras entidades.",
+    "cita": "Impulsar acciones comunitarias de conservación y recuperación de espacios naturales, en coordinación con las entidades competentes.",
+    "pag": 20
+   }
+  ],
+  "economia": [
+   {
+    "t": "Promover la organización de productores y emprendedores de la parroquia.",
+    "que": "El plan no dice cuántos productores ni cómo se organizarán. No dice costos.",
+    "v": "alta",
+    "n": "Organizar productores es trabajo de la junta.",
+    "cita": "Promover la organización y asociatividad de productores y emprendedores de la parroquia.",
+    "pag": 12
+   },
+   {
+    "t": "Impulsar mecanismos para vender y promocionar productos locales.",
+    "que": "El plan no dice qué mecanismos ni dónde se venderán. Dice que se hará con otras instituciones.",
+    "v": "media",
+    "n": "Necesita acuerdo con otras instituciones. El plan no dice cómo se pagará.",
+    "cita": "Impulsar mecanismos de promoción y comercialización de productos locales.",
+    "pag": 19
+   },
+   {
+    "t": "Promover iniciativas de turismo rural, comunitario y de naturaleza.",
+    "que": "El plan no dice qué iniciativas ni dónde. Dice que dependerá de las potencialidades de cada parroquia.",
+    "v": "media",
+    "n": "Requiere coordinación con entidades competentes. El plan no dice costos.",
+    "cita": "Promover iniciativas de turismo rural, comunitario y de naturaleza, de acuerdo con las potencialidades de cada parroquia.",
+    "pag": 19
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Promover mecanismos permanentes para que la ciudadanía participe en planificar y priorizar necesidades.",
+    "que": "El plan no dice qué mecanismos ni con qué frecuencia. Dice que se usarán asambleas y reuniones comunitarias.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es competencia de la junta.",
+    "cita": "Promover mecanismos permanentes de participación ciudadana en la planificación y priorización de las necesidades parroquiales.",
+    "pag": 23
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar mingas y otros trabajos comunitarios para obras de interés colectivo.",
+    "que": "El plan no dice en qué obras ni cuándo. Las mingas son trabajo de la comunidad, sin costo fijo declarado.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es competencia de la junta.",
+    "cita": "Promover la participación de la ciudadanía mediante mingas y otras formas de trabajo comunitario para acciones de interés colectivo.",
+    "pag": 15
+   },
+   {
+    "t": "Rendir cuentas cada año sobre el avance del plan y publicar informes.",
+    "que": "El plan dice que habrá rendición anual y publicación de información, por asambleas, web y redes.",
+    "v": "alta",
+    "n": "Rendir cuentas es responsabilidad de la junta. No cuesta mucho.",
+    "cita": "Rendición anual de cuentas e informes periódicos sobre el avance del Plan de Trabajo",
+    "pag": 28
+   }
+  ]
+ },
+ "metas": [
+  "Ejecutar el plan durante el período 2027–2031.",
+  "Hacer rendición anual de cuentas sobre el avance del plan."
+ ],
+ "notas": [
+  "El plan no da costos, lugares concretos ni fechas de obras. Casi todo dice impulsar o promover, sin obra definida.",
+  "Gran parte del texto es general para las 33 parroquias rurales de Quito. Tiene poca información propia de Nanegalito."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30
+ ],
+ "paginas": 30
+}

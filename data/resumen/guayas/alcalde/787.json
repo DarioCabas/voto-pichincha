@@ -1,0 +1,157 @@
+{
+ "enfoque": "Plan de la alcaldía de Milagro: agua, alcantarillado, drenaje contra inundaciones, calles, basura y parques. Gran parte del dinero depende de otros niveles de gobierno.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Construir red de alcantarillado sanitario en sectores sin cobertura.",
+    "que": "Va en zonas de mayor densidad de Milagro, con un costo de $8.000.000 según el plan. La empresa EPAMIL-EP la ejecuta. Empieza en el año 2 y es de plazo largo.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el plan dice que el dinero sale de transferencias del Gobierno Central.",
+    "cita": "Construcción de red de alcantarillado sanitario en sectores sin cobertura",
+    "pag": 21
+   },
+   {
+    "t": "Dar mantenimiento permanente a las redes de agua y alcantarillado existentes.",
+    "que": "El agua la arregla la empresa EPAMIL-EP con sus propios recursos. El alcantarillado cuesta $2.000.000 del presupuesto municipal. Meta: 20 a 45 km de red con mantenimiento.",
+    "v": "alta",
+    "n": "Le toca al Municipio y a su empresa de agua, con dinero propio.",
+    "cita": "Recuperación y mantenimiento continuo de la red de agua potable existente",
+    "pag": 21
+   },
+   {
+    "t": "Revisar y actualizar el sistema de recolección y manejo de basura.",
+    "que": "Cuesta $16.000.000 con ingresos propios, en plazo corto (años 1 y 2). Meta: 1 estudio aprobado y su primera fase. El plan no detalla qué cambios concretos incluye.",
+    "v": "alta",
+    "n": "Le toca al Municipio y se paga con ingresos propios. Falta detalle de qué se hará.",
+    "cita": "Revisión y actualización del sistema municipal de recolección y gestión de residuos sólidos",
+    "pag": 21
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Ampliar y rehabilitar la red vial del cantón.",
+    "que": "Costo de $32.000.000, plazo largo. Lo pagan transferencias del Gobierno Central o financiamiento externo, sin decir cuál. Meta: entre 35 y 70 km de vía urbana rehabilitada.",
+    "v": "media",
+    "n": "Es del Municipio, pero depende de transferencias y de un préstamo nuevo sin banco definido.",
+    "cita": "Ampliación y rehabilitación estructural de la red vial del cantón",
+    "pag": 21
+   },
+   {
+    "t": "Ordenar el tránsito y el transporte público en el centro urbano.",
+    "que": "Es para el casco comercial y calles congestionadas, como García Moreno. No tiene costo en el plan ($0). Lo ejecuta la empresa ACT con sus propios recursos. Plazo mediano.",
+    "v": "alta",
+    "n": "Le toca al Municipio (tránsito y buses). La empresa ACT lo paga con sus recursos.",
+    "cita": "Plan de ordenamiento del tránsito y transporte público en el centro urbano",
+    "pag": 22
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Arreglar y ampliar el sistema de drenaje de agua de lluvia de la ciudad.",
+    "que": "Es para el casco comercial y zonas que se inundan. Cuesta $6.000.000, en los años 1 a 3. Según el plan, lo pagan transferencias del Gobierno Central o financiamiento externo, sin decir cuál.",
+    "v": "media",
+    "n": "Es del Municipio, pero depende de dinero del Gobierno Central o de préstamos.",
+    "cita": "Rehabilitación y ampliación del sistema de drenaje pluvial urbano",
+    "pag": 21
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Regularizar predios y barrios informales y ponerlos en el catastro.",
+    "que": "Costo de $400.000 con la empresa del Registro de la Propiedad, plazo largo. Meta: entre 800 y 2.000 predios regularizados. Beneficia a asentamientos informales priorizados.",
+    "v": "alta",
+    "n": "Le toca al Municipio (uso del suelo y catastro). El costo es bajo y tiene meta de predios.",
+    "cita": "Regularización de la tenencia de predios y asentamientos informales, articulada al catastro municipal",
+    "pag": 22
+   },
+   {
+    "t": "Construir y recuperar parques y canchas en la ciudad.",
+    "que": "Costo de $4.680.000 en barrios y ciudadelas de la cabecera. Meta: entre 15 y 30 espacios recuperados. Se paga con ingresos propios o con crédito o cooperación.",
+    "v": "alta",
+    "n": "Le toca al Municipio (parques). Parte del dinero depende de crédito o cooperación.",
+    "cita": "Mejoramiento de espacios públicos urbanos, con la construcción y recuperación de parques, canchas y equipamiento comunitario",
+    "pag": 7
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Firmar convenio con la Policía para dar seguridad cerca de escuelas.",
+    "que": "La Policía da la seguridad; el Municipio solo firma el convenio. El costo es $80.000, en plazo mediano, según el plan.",
+    "v": "baja",
+    "n": "No le toca al Municipio: la policía y las escuelas son de otros niveles.",
+    "cita": "Convenio de cooperación con la Policía Nacional para generar condiciones de seguridad en el entorno de unidades educativas",
+    "pag": 19
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer cursos técnicos y de oficios con universidades y empresas.",
+    "que": "Costo de $260.000 en la cabecera, según el plan. Meta: entre 800 y 1.800 personas certificadas. Lo ejecutan la academia y el sector productivo.",
+    "v": "baja",
+    "n": "No le toca al Municipio: la formación laboral es de la academia y otros niveles.",
+    "cita": "Programa de formación técnica y de oficios, articulado con la academia y el sector productivo",
+    "pag": 20
+   }
+  ]
+ },
+ "metas": [
+  "Cobertura de alcantarillado de entre 30% y 35% de viviendas en 4 años (hoy 26,6%).",
+  "Cobertura de agua por red pública de entre 72% y 78% de viviendas en 4 años.",
+  "Entre 35 y 70 km de vía urbana rehabilitada en 4 años.",
+  "Entre 15 y 30 espacios públicos recuperados en 4 años.",
+  "1 plan de tránsito aprobado y al menos 40% de sus medidas en 4 años."
+ ],
+ "notas": [
+  "Pide $4.905.000 de crédito o cooperación sin decir la fuente; gran parte del dinero depende del Gobierno Central.",
+  "Varias obras dependen del Gobierno Central o de préstamos; el plan no asegura ese dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45
+ ],
+ "paginas": 45
+}

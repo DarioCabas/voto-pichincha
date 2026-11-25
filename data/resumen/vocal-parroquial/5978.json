@@ -1,0 +1,142 @@
+{
+ "enfoque": "Plan de la junta de Alangasí: ferias y cursos para productores, riego, huertos, rutas turísticas, arreglo de caminos con la Prefectura y el Municipio, y parques.",
+ "tabla": {
+  "economia": [
+   {
+    "t": "Hacer al menos 4 ferias al año para vender directo del productor al consumidor.",
+    "que": "El plan dice al menos 4 ferias por año, para vender sin intermediarios. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "La junta puede organizar ferias. El plan no dice cuánto costará.",
+    "cita": "Coordinar y promover ferias parroquiales para la venta directa de productos agrícolas, gastronomía local, artesanías y emprendimientos.",
+    "pag": 15
+   },
+   {
+    "t": "Dar al menos 4 cursos al año a productores y emprendedores.",
+    "que": "Los temas son emprendimiento, administración, comercialización, transformación de productos y educación financiera. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar cursos entra en el apoyo a productores. El plan no dice cuánto costará.",
+    "cita": "Organizar e impartir procesos de capacitación en emprendimiento, administración, comercialización, transformación de productos y educación financiera.",
+    "pag": 15
+   },
+   {
+    "t": "Revisar el sistema de riego y pedir a otras entidades que lo mejoren.",
+    "que": "Primer año: diagnóstico. Desde el segundo año, gestionar proyectos prioritarios de riego. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Las obras de riego dependen de otras entidades. El plan no dice quién paga.",
+    "cita": "Realizar diagnósticos de infraestructura hídrica y gestionar ante las entidades competentes proyectos de mejora en sistemas de riego y tecnificación.",
+    "pag": 17
+   },
+   {
+    "t": "Hacer huertos familiares y comunitarios en sectores priorizados.",
+    "que": "Se hará poco a poco durante los 4 años. El plan no dice cuántos huertos ni cuánto costará.",
+    "v": "alta",
+    "n": "La junta puede organizar huertos con vecinos. El plan no dice cuánto costará.",
+    "cita": "Fomentar e implementar huertos familiares y comunitarios en sectores",
+    "pag": 17
+   }
+  ],
+  "otros": [
+   {
+    "t": "Diseñar y promocionar al menos 3 rutas turísticas.",
+    "que": "Diseñar y promocionar al menos 3 rutas hasta el segundo año. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Coordinar mejoras con otras instituciones. El plan no dice cuánto costará.",
+    "cita": "Diseñar, señalizar y promocionar rutas turísticas integrales que vinculen naturaleza, cultura, gastronomía y emprendimientos locales.",
+    "pag": 18
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer un diagnóstico técnico de las vías rurales en el primer año.",
+    "que": "Sirve para armar un mapa de qué caminos arreglar primero. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "La junta puede hacer el diagnóstico. El plan no dice cuánto costará.",
+    "cita": "Realizar un levantamiento técnico y diagnóstico de las vías rurales para estructurar un mapa de prioridades de intervención.",
+    "pag": 19
+   },
+   {
+    "t": "Pedir a la Prefectura y al Municipio asfaltado y adoquinado de vías rurales.",
+    "que": "Se hará según el diagnóstico y el presupuesto de cada año. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Las obras las hacen la Prefectura o el Municipio, no la junta. El plan no dice cuánto costará.",
+    "cita": "Gestionar ante la Prefectura, Municipio y entidades competentes el asfaltado, adoquinado, empedrado y mantenimiento de vías rurales",
+    "pag": 17
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar poco a poco parques y canchas para el uso de las familias.",
+    "que": "Se hará durante todo el período. El plan no dice qué parques ni cuánto costará.",
+    "v": "alta",
+    "n": "Parques y espacios públicos son competencia de la junta. El plan no dice cuánto costará.",
+    "cita": "Intervenir y recuperar progresivamente parques, canchas e infraestructura pública comunitaria para el esparcimiento familiar.",
+    "pag": 20
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Hacer al menos 2 reuniones al año con la Policía y el Municipio.",
+    "que": "Las mesas incluirán a la Policía, al Municipio y a dirigentes de barrios. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "La Policía no es de la junta; solo puede reunir y coordinar. El plan no dice cuánto costará.",
+    "cita": "Instalar y liderar mesas de trabajo institucional con la Policía Nacional",
+    "pag": 21
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear comités de vecinos que vigilen las obras viales.",
+    "que": "Se hará desde el primer año. El plan no dice cuántos comités ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es tarea de la junta. El plan no dice cuánto costará.",
+    "cita": "Conformar comités y herramientas de veeduría y seguimiento ciudadano para controlar la ejecución y calidad de las obras viales.",
+    "pag": 20
+   }
+  ]
+ },
+ "metas": [
+  "Al menos 4 procesos de capacitación por año.",
+  "Al menos 4 ferias productivas y de emprendimiento por año.",
+  "Al menos 5 alianzas o convenios durante el período de gestión.",
+  "Diseñar y promocionar al menos 3 rutas turísticas hasta el segundo año.",
+  "Al menos 2 mesas de coordinación de seguridad por año."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará casi ninguna propuesta. Depende de convenios con el Municipio, la Prefectura y la cooperación internacional.",
+  "Es un plan para todo el gobierno parroquial, no solo del vocal. Incluye temas que no son de la junta, como la Policía."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30
+ ],
+ "paginas": 30
+}

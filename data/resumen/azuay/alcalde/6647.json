@@ -1,0 +1,132 @@
+{
+ "enfoque": "Plan basado en el plan de desarrollo del cantón 2024-2027: agua, alcantarillado, calles, basura, camal, mercado y riesgo por deslizamientos de tierra.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar y asfaltar calles urbanas y caminos productivos, y hacer aceras y bordillos.",
+    "que": "Meta: arreglar el 65 % de las vías en mal estado al 2031. Se paga con convenio con el gobierno provincial del Azuay y asignaciones del Estado. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Las calles urbanas le tocan al Municipio, pero depende de un convenio con la provincia.",
+    "cita": "Plan de Mantenimiento y Asfaltado de la red vial urbana y productiva, construcción de aceras/bordillos",
+    "pag": 9
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar la red de alcantarillado para llegar al 60 % de cobertura al 2031.",
+    "que": "Subir la cobertura de alcantarillado de 36 % a 60 %. Se pagaría con un crédito del Banco de Desarrollo (BDE) y asignaciones del Estado. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de un préstamo del banco BDE.",
+    "cita": "Incrementar la cobertura de alcantarillado del 36,0 % al 60,0 % y agua potable",
+    "pag": 8
+   },
+   {
+    "t": "Renovar la planta que potabiliza el agua y arreglar las plantas de aguas residuales.",
+    "que": "Plazo 2027-2031. Renovar la planta potabilizadora y repotenciar (arreglar y reforzar) las plantas de tratamiento de aguas residuales (PTAR) viejas. Se paga con crédito del BDE y asignaciones del Estado. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Agua y alcantarillado le tocan al Municipio, pero depende de un préstamo.",
+    "cita": "Renovación de la Planta Potabilizadora Cantonal, repotenciación de las Plantas de Tratamiento de Aguas Residuales (PTAR) obsoletas",
+    "pag": 8
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Construir plantas para convertir la basura orgánica en abono (compost).",
+    "que": "Meta: procesar el 100 % de los residuos orgánicos recolectados al año 2030. Se pagaría con crédito del BDE y presupuesto propio del Municipio. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "La basura le toca al Municipio, pero depende de un crédito del banco.",
+    "cita": "Construcción e implementación de plantas de tratamiento con tecnología de oxigenación y compostaje aeróbico para el área urbana y rural",
+    "pag": 6
+   },
+   {
+    "t": "Registrar y regular más de 1 500 reservorios agrícolas (depósitos de agua del campo) y reducir riesgo en viviendas.",
+    "que": "Meta: regularizar el 100 % de los reservorios y reducir el riesgo en el 50 % de 1 400 viviendas en zonas de alta susceptibilidad a movimientos en masa al 2029. Se paga con tasas municipales y un convenio nacional.",
+    "v": "media",
+    "n": "Uso del suelo y riesgos le tocan al Municipio, pero parte del dinero depende de un convenio nacional.",
+    "cita": "Catastro técnico y regulación de los más de 1 500 reservorios agrícolas",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir un camal (lugar para faenar animales) acreditado y remodelar el Mercado Central.",
+    "que": "Meta: 1 camal acreditado y 1 espacio comercial. Plazo 2027-2029. Se pagaría con crédito del BDE, recursos propios o alianzas público-privadas. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Mercados y camales le tocan al Municipio, pero depende del préstamo del BDE.",
+    "cita": "Construcción del Camal Municipal Acreditado y remodelación del Mercado Central de Santa Isabel",
+    "pag": 8
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Pasar los trámites municipales a sistema digital y actualizar el registro de predios.",
+    "que": "Meta: digitalizar el 100 % de los trámites y actualizar el catastro (registro de terrenos y casas) al 2028. Se paga con crédito del BDE y recursos propios. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Los trámites le tocan al Municipio, pero el plan depende de un crédito del banco.",
+    "cita": "Implementación del Sistema de Tramitología Digital y actualización",
+    "pag": 12
+   },
+   {
+    "t": "Revisar y reformar las 10 ordenanzas (leyes municipales) que no están de acuerdo con la ley superior.",
+    "que": "Meta: 100 % de la normativa municipal actualizada al 2028. Plazo 2027-2028. Se paga con recursos propios del Municipio.",
+    "v": "alta",
+    "n": "Le toca al Municipio y se paga con sus propios fondos.",
+    "cita": "Reingeniería de procesos del GAD Municipal y reforma de las 10 ordenanzas no alineadas",
+    "pag": 11
+   }
+  ],
+  "social": [
+   {
+    "t": "Repotenciar la Unidad Educativa Luis Alberto Luna Tobar para personas con discapacidad.",
+    "que": "Plazo 2028-2029. Se haría con convenios con el Ministerio de Inclusión Económica y Social (MIES). El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "Las escuelas no le tocan al Municipio; le toca al Ministerio de Educación.",
+    "cita": "repotenciación de la Unidad Educativa Luis Alberto Luna Tobar para atención de personas con discapacidad",
+    "pag": 8
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar 20 puntos seguros integrados con la Policía Nacional.",
+    "que": "Meta al 2029. Se pagaría con la tasa municipal de seguridad y recursos propios. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "La policía es del Gobierno nacional, no del Municipio.",
+    "cita": "Instalar 20 puntos seguros integrados con la Policía Nacional al 2029",
+    "pag": 11
+   }
+  ]
+ },
+ "metas": [
+  "Procesar el 100 % de los residuos orgánicos recolectados al año 2030.",
+  "Subir la cobertura de alcantarillado del 36 % al 60 % al 2031.",
+  "Arreglar el 65 % de la red vial cantonal en mal estado al 2031.",
+  "Regularizar el 100 % de los reservorios agrícolas al 2029.",
+  "Digitalizar el 100 % de los trámites municipales al 2028."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra. Dice de dónde saldría el dinero: préstamos, fondos propios y convenios.",
+  "Gran parte del plan se basa en el plan de desarrollo del cantón 2024-2027. Varios proyectos dependen de préstamos o convenios."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "paginas": 18
+}

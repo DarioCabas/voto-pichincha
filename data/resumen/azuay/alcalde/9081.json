@@ -1,0 +1,147 @@
+{
+ "enfoque": "Propone arreglar calles, agua, alcantarillado, alumbrado, paradas de buses y ferias. Gran parte del texto está copiado de documentos del cantón y de parroquias.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Pedir al concejo reformar la ordenanza de las áreas de conservación municipal.",
+    "que": "El plan dice que la ordenanza tiene problemas y propone pedir al concejo su reforma. No dice cuándo.",
+    "v": "alta",
+    "n": "Es competencia municipal; el concejo aprueba la reforma.",
+    "cita": "solicitar al concejo cantonal la socialización y reforma de la ordenanza de ACMUS.",
+    "pag": 25
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar y mantener el alcantarillado y la planta de aguas servidas.",
+    "que": "El plan no dice dónde se hará ni cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice costo.",
+    "cita": "Desarrollo de planes y proyectos de infraestructura que brinde cuidado y reducción del impacto ambiental del ser humano en la naturaleza.",
+    "pag": 25
+   },
+   {
+    "t": "Ampliar y desarrollar el sistema de agua potable de Chordeleg.",
+    "que": "El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice costo.",
+    "cita": "Ampliación y desarrollo del sistema de agua potable de Chordeleg",
+    "pag": 29
+   },
+   {
+    "t": "Hacer un plan de mantenimiento del alumbrado público del cantón y las parroquias.",
+    "que": "Se haría con la empresa eléctrica y las juntas parroquiales. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de la empresa eléctrica y de las juntas parroquiales.",
+    "cita": "plan de mantenimiento del alumbrado público de Chordeleg y sus parroquias",
+    "pag": 28
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Modernizar los accesos y distribuidores viales norte y sur.",
+    "que": "El plan no dice qué calles se arreglarán ni cuánto costará.",
+    "v": "alta",
+    "n": "Las calles le tocan al Municipio; falta costo y plazo.",
+    "cita": "Modernización de los Accesos y Distribuidores Viales Norte y Sur",
+    "pag": 29
+   },
+   {
+    "t": "Hacer un plan permanente de mantenimiento de calles del cantón.",
+    "que": "Se haría con las juntas parroquiales y el gobierno provincial. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de las juntas parroquiales y de la provincia.",
+    "cita": "un plan de mantenimiento vial permanente del cantón, en conjunto con la gestión hacia los GADs parroquiales y GAD provincial.",
+    "pag": 12
+   },
+   {
+    "t": "Arreglar paradas de buses y construir nuevas donde hagan falta.",
+    "que": "Se hará según estudios de tránsito y transporte. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: tránsito y transporte.",
+    "cita": "Mantenimiento de las paradas del servicio público de transporte, y construcción de nuevas paradas de ser necesario",
+    "pag": 28
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer normas y dar presupuesto para ferias de productos artesanales.",
+    "que": "Se haría con las juntas parroquiales. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Puede hacerlo el Municipio, pero depende de las juntas.",
+    "cita": "a través de ferias locales, de productos elaborados y artesanales, procurando el apoyo o convenio con los GADs parroquiales",
+    "pag": 6
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear por resolución un programa permanente de rendición de cuentas.",
+    "que": "Se haría por medios electrónicos y de manera física. El plan no dice cuándo empieza.",
+    "v": "alta",
+    "n": "Le toca al Municipio; es decisión interna.",
+    "cita": "Generar por resolución el programa permanente de rendición de cuentas del equipo legislativo y ejecutivo",
+    "pag": 30
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Ampliar el sistema de seguridad del cantón.",
+    "que": "El plan no dice qué es ese sistema ni cómo se pagará.",
+    "v": "baja",
+    "n": "La seguridad es de la Policía; el alcalde solo coordina.",
+    "cita": "Proponer la ampliación y puesta en marcha efectiva del sistema de seguridad.",
+    "pag": 28
+   }
+  ]
+ },
+ "metas": [
+  "Rendición de cuentas una vez al año, en asamblea ciudadana."
+ ],
+ "notas": [
+  "Gran parte del texto copia documentos del cantón y de parroquias; menciona \"presidente y vocales\", cargos de juntas parroquiales.",
+  "Casi ninguna propuesta dice cuánto costará ni cuándo. Las obras no dicen en qué calles ni barrios."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39
+ ],
+ "paginas": 39
+}

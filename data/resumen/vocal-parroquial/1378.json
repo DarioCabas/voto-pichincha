@@ -1,0 +1,120 @@
+{
+ "enfoque": "Plan para todo el gobierno de la parroquia, no solo para vocales: caminos, reforestación, escuela de campo, turismo y espacios públicos. Varias obras son de otros niveles.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar y lastrar los caminos vecinales que llevan la producción hacia las vías principales.",
+    "que": "Plan permanente de mantenimiento de caminos de tierra, con meta de atender el 80% de la red vial rural no pavimentada, junto con la Prefectura. Fases semestrales en los años 1 al 4. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Los caminos son de la junta con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Plan permanente de lastrado, nivelación, cuneteo y ensanche de caminos vecinales que conectan los sectores productivos de leche y agricultura",
+    "pag": 9
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Sembrar árboles nativos en las orillas del río Naranjal y en las laderas del volcán El Corazón.",
+    "que": "Campaña para sembrar 10.000 plantas nativas y firmar 5 pactos para cuidar el agua con las juntas de agua. Años 1 al 4. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Cuidar el ambiente y organizar a los vecinos es tarea de la junta. El plan no dice cuánto costará.",
+    "cita": "Campaña masiva de reforestación en las márgenes del río Naranjal y laderas del volcán El Corazón con especies nativas",
+    "pag": 11
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Formar un comité de alerta temprana y 6 brigadas barriales para responder a inundaciones.",
+    "que": "Montar el comité y hacer mapas de evacuación en el año 1. Simulacros en los años 2 a 4, con 2 al año. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Las brigadas son de la junta, pero el plan pide trabajar con el comité de emergencias del cantón.",
+    "cita": "Conformar 6 brigadas barriales de primera respuesta y realizar 2 simulacros parroquiales anuales.",
+    "pag": 11
+   }
+  ],
+  "economia": [
+   {
+    "t": "Abrir una escuela de campo para agricultores, ganaderos y apicultores de la parroquia.",
+    "que": "Clases de manejo de plagas, pastoreo y trabajo en grupo. Meta: capacitar y certificar a 150 pequeños productores y gestionar una asociación de apicultores. Años 1 al 3. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Cursos y apoyo a productores son tareas de la junta.",
+    "cita": "Creación de la Escuela de Campo para Agricultores, Ganaderos y Apicultores de Alóag, brindando asistencia técnica",
+    "pag": 10
+   },
+   {
+    "t": "Capacitar a los 19 paraderos del Obelisco en manejo de comida y poner 12 letreros turísticos.",
+    "que": "Meta: categorizar al 60% de los locales de comida y poner 12 tótems (letreros grandes) de señalización turística. Años 2 y 3. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Los permisos y la categorización necesitan acuerdo con el Municipio y otras entidades.",
+    "cita": "Programa de regularización, capacitación en manipulación de alimentos y categorización turística para los 19 paraderos del Obelisco,",
+    "pag": 10
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar la entrada principal a Alóag, con parqueaderos, luces y áreas verdes en la piscina.",
+    "que": "Obra con parqueaderos, iluminación técnica y áreas verdes. Meta: ejecutar el 100% de las obras con dinero del Municipio y de empresas. Años 2 y 3. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Obra grande que depende de dinero del Municipio y de empresas. El plan no dice cuánto costará.",
+    "cita": "Diseño e intervención urbana del acceso principal a Alóag, incluyendo la adecuación de parqueaderos, iluminación técnica y la construcción de áreas verdes",
+    "pag": 10
+   },
+   {
+    "t": "Actualizar el plan que dice qué zonas son para vivir, para fábricas, para cultivar y para proteger.",
+    "que": "Se contrata a alguien con participación de la gente. Meta: entregar el plan aprobado en el año 1. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Definir zonas necesita acuerdo con el Municipio. El plan no dice cuánto costará.",
+    "cita": "Contratación participativa del nuevo Plan de Desarrollo y Ordenamiento Territorial de Alóag para definir zonas de uso residencial,",
+    "pag": 9
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Instalar 4 zonas de internet de uso público en casas comunales de barrios alejados.",
+    "que": "El plan dice 4 zonas, pero el calendario habla de 6 puntos (3 en el año 1 y 3 en el año 2). El plan no dice cuánto costará ni quién pagará el internet.",
+    "v": "media",
+    "n": "El internet no figura entre las tareas de la junta; necesita acuerdos. El plan no dice cuánto costará.",
+    "cita": "Implementar 4 zonas de WiFi comunitario de uso público y educativo.",
+    "pag": 9
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear espacios de encuentro diario y actividades recreativas para adultos mayores y grupos vulnerables.",
+    "que": "Incluye fisioterapia preventiva y entregas de asistencia técnica. Meta: usar como mínimo el 10% del presupuesto de la institución. El plan no dice cuánto es ese presupuesto.",
+    "v": "media",
+    "n": "Los espacios sí son tarea de la junta. La fisioterapia es de salud, no de la junta.",
+    "cita": "Creación de espacios de encuentro diario, fisioterapia preventiva, actividades recreativas y entregas de asistencia técnica para adultos mayores,",
+    "pag": 11
+   }
+  ]
+ },
+ "metas": [
+  "Dar mantenimiento preventivo al 80% de la red vial terciaria no pavimentada.",
+  "Sembrar 10.000 plantas nativas.",
+  "Conformar 6 brigadas barriales de primera respuesta.",
+  "Capacitar y certificar a 150 pequeños productores locales.",
+  "Implementar 4 zonas de WiFi comunitario."
+ ],
+ "notas": [
+  "Varias obras no son de la junta (agua, alcantarillado, asfalto). Muchas dependen de la Alcaldía o la Prefectura.",
+  "El plan casi no dice cuánto costará ninguna obra ni de dónde saldrá el dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14
+ ],
+ "paginas": 14
+}

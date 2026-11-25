@@ -1,0 +1,89 @@
+{
+ "enfoque": "Plan para Sevilla de Oro: agua, alcantarillado, basura y calles, con 5 km de asfalto urbano y 5 km rural. No dice cuánto costará ni cuándo.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Cuidar fuentes de agua y reforestar, según los planes de manejo de cuencas.",
+    "que": "El plan no dice en qué zonas, cuánto costará ni cuándo. Solo aparece como objetivo y en el cronograma.",
+    "v": "media",
+    "n": "Puede hacerla en parte, pero depende de otros niveles de gobierno. El plan no dice cómo se paga.",
+    "cita": "Aportar a la conservación de los recursos naturales, con énfasis en los recursos hídricos.",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una rendición de cuentas pública cada año, en asamblea ciudadana.",
+    "que": "El alcalde presentará resultados en un acto público con asamblea ciudadana. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al alcalde. Es un acto anual, sin costo indicado.",
+    "cita": "el alcalde del Cantón Sevilla de Oro realizara el proceso de Rendición de",
+    "pag": 5
+   },
+   {
+    "t": "Dar participación a la ciudadanía en las decisiones municipales.",
+    "que": "El plan no dice cómo ni cuándo se hará la participación, ni qué mecanismo se usará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice qué mecanismo usará.",
+    "cita": "Garantizar la participación ciudadana en las decisiones de la administración municipal",
+    "pag": 3
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Poner asfalto en 5 km de calles urbanas y 5 km de caminos rurales.",
+    "que": "El plan no dice cuánto costará ni cuándo se hará. Las vías rurales dependen de otros niveles de gobierno.",
+    "v": "media",
+    "n": "Calles le tocan al Municipio; caminos rurales dependen de otros niveles de gobierno.",
+    "cita": "Mantener y mejorar la vialidad urbana y rural en articulación con otros niveles de",
+    "pag": 3
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Construir y mejorar sistemas de agua potable y alcantarillado en comunidades y centros poblados.",
+    "que": "El plan no dice cuánto costará ni en qué año se hará. Alcanza a comunidades y centros poblados del cantón.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cómo lo pagará.",
+    "cita": "Mejorar la calidad y cobertura de los servicios de agua potable",
+    "pag": 3
+   },
+   {
+    "t": "Ampliar la recolección de basura en comunidades y centros poblados.",
+    "que": "El plan no dice cuánto costará ni cuándo se hará. Está en su lista como mejorar y ampliar la cobertura.",
+    "v": "alta",
+    "n": "Le toca al Municipio: la basura es competencia municipal.",
+    "cita": "recolección de desechos en las comunidades y centros poblados del cantón.",
+    "pag": 3
+   }
+  ],
+  "social": [
+   {
+    "t": "Ampliar servicios para grupos de atención prioritaria.",
+    "que": "El plan no dice qué servicios ni a cuántas personas. No queda claro qué parte es del Municipio.",
+    "v": "baja",
+    "n": "No aparece entre lo que le toca al Municipio, y el plan no lo detalla.",
+    "cita": "Mejorar y ampliar la cobertura de los servicios a los grupos de atención prioritaria",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [
+  "Asfaltar 5 km de vías urbanas",
+  "Asfaltar 5 km de vías rurales",
+  "Rendición de cuentas una vez al año"
+ ],
+ "notas": [
+  "Varias propuestas no dicen cuánto cuestan ni en qué año se hacen. El cronograma está borroso.",
+  "Parte del texto copia la ley y datos generales. No dice en qué comunidades se hará cada obra."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "paginas": 5
+}

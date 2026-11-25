@@ -1,0 +1,103 @@
+{
+ "enfoque": "Copiado del plan general de la parroquia: ordenar zonas industriales, cuidar el ambiente y caminos, hacer espacios culturales y publicar cuentas.",
+ "tabla": {
+  "gobierno": [
+   {
+    "t": "Formar grupos de vecinos que vigilen las obras de la parroquia.",
+    "que": "La junta pedirá al Consejo de Participación Ciudadana que los forme y les dará facilidades. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita al Consejo de Participación Ciudadana para formarlos.",
+    "cita": "El GAD Parroquial promoverá y dará facilidades ante el Consejo de Participación Ciudadana y Control Social (CPCCS)",
+    "pag": 7
+   },
+   {
+    "t": "Publicar en internet las sesiones de la junta cada tres meses.",
+    "que": "Habrá una página web de acceso libre con las sesiones y el cumplimiento del plan. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Requiere recursos para la página; el plan no dice de dónde salen.",
+    "cita": "se publicarán trimestralmente información sobre las sesiones de la junta",
+    "pag": 7
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Vigilar que las obras de caminos de la parroquia se hagan bien.",
+    "que": "Vecinos revisarán la calidad de las obras viales, las que haga la parroquia o las que se le deleguen. El plan no dice qué caminos ni cuánto costará.",
+    "v": "alta",
+    "n": "Vigilar es tarea de vecinos y de la junta. El plan no dice qué caminos.",
+    "cita": "la calidad de la obra pública vial delegada o directa",
+    "pag": 2
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Ordenar el territorio para zonas industriales, logísticas y residenciales.",
+    "que": "El plan no dice qué obras harán ni dónde. Solo dice que se priorizarán zonas de crecimiento. No dice cuánto costará.",
+    "v": "baja",
+    "n": "Decidir el uso de terrenos le toca al Municipio, no a la junta.",
+    "cita": "Mejorar las condiciones de ordenamiento territorial, vialidad, alumbrado, conectividad y servicios de la",
+    "pag": 3
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer reciclaje y charlas de educación ambiental.",
+    "que": "El plan también habla de controlar focos de contaminación en zonas industriales. No dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Charlas y reciclaje, sí. Controlar fábricas le toca a otro nivel.",
+    "cita": "acciones de reciclaje, educación ambiental, control de focos de contaminación y adaptación climática",
+    "pag": 3
+   }
+  ],
+  "otros": [
+   {
+    "t": "Recuperar y mejorar espacios para actividades culturales, artísticas y recreativas.",
+    "que": "El plan no dice qué espacios serán, dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Parques y espacios de la parroquia sí le tocan a la junta.",
+    "cita": "recuperación y mejoramiento de espacios destinados a actividades culturales, artísticas y recreativas",
+    "pag": 2
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer actividades preventivas para familias vulnerables y grupos prioritarios.",
+    "que": "El plan no dice qué actividades serán, cuántas ni cuánto costarán.",
+    "v": "media",
+    "n": "Necesita apoyo de otras instituciones; el plan no dice cómo.",
+    "cita": "promoviendo la atención social y preventiva de familias vulnerables, trabajadores y grupos",
+    "pag": 2
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar oportunidades de venta a productores y emprendedores.",
+    "que": "El plan no dice qué ferias ni mercados habrá, ni dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar ventas y ferias sí le toca a la junta.",
+    "cita": "la generación de oportunidades de comercialización para productores y emprendedores",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [
+  "Publicar las sesiones de la junta cada tres meses (trimestralmente)."
+ ],
+ "notas": [
+  "Plan copiado del plan general de la parroquia (habla de industria y logística). Casi no dice qué obras hará la junta.",
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "paginas": 9
+}

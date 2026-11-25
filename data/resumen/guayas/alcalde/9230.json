@@ -1,0 +1,130 @@
+{
+ "enfoque": "Propone agua, drenajes, caminos, catastro, trámites en línea y apoyo a la economía local. Está basado en su plan 2023-2027.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Llevar agua segura a más hogares, con plan maestro y pozos en zonas rurales.",
+    "que": "Plazo 2027-2031. Incluye plan maestro, control de calidad y pozos o soluciones para el campo. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de préstamos del Banco de Desarrollo y otras entidades.",
+    "cita": "Incrementar progresivamente el acceso a agua segura, saneamiento y",
+    "pag": 8
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer reforestación, proteger riberas y obras contra inundaciones.",
+    "que": "Incluye albergues, mapas, alerta temprana y brigadas. Plazo 2027-2031. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio en parte. Depende de la Secretaría de Gestión de Riesgos y la Prefectura.",
+    "cita": "albergues, reforestación, protección de riberas y obras de mitigación",
+    "pag": 11
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar calles urbanas, caminos productivos, puentes y alcantarillas.",
+    "que": "Incluye catastro vial, convenios para caminos rurales y mantenimiento. El plan no dice cuánto costará ni en qué año se hará cada tramo.",
+    "v": "media",
+    "n": "Calles urbanas son del Municipio. Caminos rurales dependen de la Prefectura y del Ministerio de Transporte y Obras Públicas.",
+    "cita": "Catastro vial, rehabilitación urbana, convenios rurales, caminos productivos, puentes",
+    "pag": 11
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar el catastro (registro de terrenos) y controlar las construcciones.",
+    "que": "Plazo 2027-2029. Incluye regularizar terrenos priorizados, zonas verdes y vivienda social. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: catastro y uso del suelo. El plan no dice cuánto costará.",
+    "cita": "control urbano, zonas verdes y gestión de vivienda social",
+    "pag": 11
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear una ventanilla única y trámites en línea para los diez más pedidos.",
+    "que": "Simplificar los diez trámites más pedidos entre los días 45 y 90. Incluye datos abiertos y un espacio para seguir las obras. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Los trámites municipales son del Municipio. El plan no dice cuánto costará.",
+    "cita": "única, expediente digital, datos abiertos, observatorio de obras, participación y contratación trazable",
+    "pag": 13
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar asistencia, cursos y ferias a emprendedores, con énfasis en jóvenes y mujeres.",
+    "que": "Plazo 2027-2031. Incluye compras públicas y dinero inicial con aliados. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "El Municipio puede promover, pero no crea empleo por sí solo. Depende de aliados.",
+    "cita": "Asistencia, formación, ferias, compras públicas, economía solidaria, inclusión financiera y capital semilla aliado",
+    "pag": 12
+   },
+   {
+    "t": "Crear una marca de Santa Lucía y promover turismo rural y productos locales.",
+    "que": "Plazo 2027-2031. Incluye agenda cultural, patrimonio, gastronomía y promoción de productos locales. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Turismo y cultura se pueden promover desde el Municipio. Depende del Ministerio de Turismo.",
+    "cita": "Marca territorial, agenda cultural, patrimonio, gastronomía, turismo rural y promoción de productos locales",
+    "pag": 12
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Recuperar puntos peligrosos y poner alarmas en barrios y recintos.",
+    "que": "Incluye consejos de seguridad y prevención de violencia con la Policía y la comunidad. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "La seguridad y la Policía no le tocan al Municipio.",
+    "cita": "recuperación de puntos críticos, alarmas, consejos de seguridad, prevención de violencia y coordinación",
+    "pag": 12
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear una mesa cantonal y llevar servicios móviles a barrios y recintos.",
+    "que": "Incluye rutas para derivar casos y servicios móviles. El plan no dice qué servicios ni cuánto costará.",
+    "v": "baja",
+    "n": "Salud, educación y cuidado de niños no son del Municipio.",
+    "cita": "Mesa cantonal; puntos críticos; plan de iluminación; rutas de derivación y servicios móviles",
+    "pag": 17
+   }
+  ]
+ },
+ "metas": [
+  "Diagnóstico rápido de agua, recolección, drenajes, alumbrado, vías y puntos de riesgo en los primeros 30 días.",
+  "Simplificar los diez trámites más pedidos entre los días 45 y 90.",
+  "Avanzar con catastro y regularización de terrenos entre 2027 y 2029.",
+  "Evaluación de medio término en 2029 y evaluación final en 2031.",
+  "Tablero público de metas actualizado cada trimestre."
+ ],
+ "notas": [
+  "El plan da montos en millones de dólares, pero dice que son techos preliminares, no gasto asegurado.",
+  "Gran parte del texto viene de su plan 2023-2027 y de datos de 2022. El plan dice que deben validarse al inicio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22
+ ],
+ "paginas": 22
+}

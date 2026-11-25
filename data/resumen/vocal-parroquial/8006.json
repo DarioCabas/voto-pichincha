@@ -1,0 +1,142 @@
+{
+ "enfoque": "Plan general de todo el gobierno parroquial: caminos, agua, salud, sala de velación y cementerio. Varias metas son de otros niveles y no le tocan a la junta.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Reforestar con especies nativas y recuperar suelos.",
+    "que": "El plan dice que hará proyectos de reforestación con plantas nativas y recuperación de suelos. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Cuidar el ambiente sí le toca a la junta. El plan no dice cuánto cuesta.",
+    "cita": "implementar proyectos de reforestación con especies nativas y recuperación de suelos",
+    "pag": 16
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Readecuar el cementerio: nichos, accesos, drenaje, iluminación y baños.",
+    "que": "Incluye nichos, bóvedas, accesos, drenajes, luces, baterías sanitarias y zonas verdes. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Es una obra grande. Necesita al Municipio y al Ministerio de Vivienda. El plan no dice cuánto cuesta.",
+    "cita": "Readecuar integralmente el cementerio de la parroquia de Pintag, mejorando su",
+    "pag": 11
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a los caminos con maquinaria propia o alquilada.",
+    "que": "Se haría con las comunas. El plan no dice qué caminos, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Cuidar caminos sí le toca, junto con la Prefectura. El plan no dice cuánto cuesta.",
+    "cita": "implementar mantenimiento vial con maquinaria propia o alquilada involucrando a las comunas",
+    "pag": 15
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir más red de agua potable y tanques en las comunidades altas.",
+    "que": "El plan dice que gestionará la ampliación de la red de agua y tanques de almacenamiento. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "El agua potable no le toca a la junta. Le toca a otros niveles.",
+    "cita": "gestionar ampliación de red de agua potable y tanques de almacenamiento en comunidades altas",
+    "pag": 15
+   }
+  ],
+  "economia": [
+   {
+    "t": "Conseguir insumos, semillas y herramientas a precios accesibles para productores.",
+    "que": "El plan dice que gestionará semillas, insumos y herramientas a precios accesibles, con alianzas con el Ministerio de Agricultura. No dice cuánto costará.",
+    "v": "media",
+    "n": "Apoyar a productores sí le toca. Necesita alianzas con el MAG y otras instituciones.",
+    "cita": "gestionar la provisión de insumos, semillas mejoradas y herramientas a precios accesibles",
+    "pag": 11
+   },
+   {
+    "t": "Instalar 7 puestos desmontables de información turística en puntos clave.",
+    "que": "Los puestos irían en el aeropuerto, la entrada de la parroquia, la plaza central y la Reserva Antisana. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita permisos del Municipio, de la Reserva y de otras instituciones. El plan no dice cuánto cuesta.",
+    "cita": "adquirir 7 módulos desmontables (carpas, quioscos o stands) con identidad visual de la parroquia",
+    "pag": 15
+   }
+  ],
+  "social": [
+   {
+    "t": "Dotar una sala de velación en el centro sociocultural Somos Pintag.",
+    "que": "Tendría féretros, bancas, sonido, cocina y baños. El plan dice que se financiará con presupuesto participativo, donaciones y alianzas. No dice cuánto cuesta ni cuándo.",
+    "v": "media",
+    "n": "Requiere permisos de otras autoridades y dinero de donaciones. El plan no dice cuánto cuesta.",
+    "cita": "Dotar a la parroquia de Pintag de una sala de velación digna y funcional, con espacios",
+    "pag": 10
+   },
+   {
+    "t": "Hacer brigadas médicas de desparasitación y anemia en el centro y barrios.",
+    "que": "Habría consultas, tamizajes, medicinas básicas y visitas a casas, con jornadas mensuales. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "La salud no le toca a la junta. Le toca al Ministerio de Salud.",
+    "cita": "Implementar brigadas médicas de desparasitación y prevención de anemia en el centro y barrios de la parroquia",
+    "pag": 12
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Formar comités de seguridad en los barrios con vecinos y dirigentes.",
+    "que": "Los comités harían rondas y patrullajes mixtos con la Policía. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Organizar vecinos sí. La policía y las cámaras no le tocan a la junta.",
+    "cita": "Conformar comités de seguridad barrial con participación de moradores, lideres comunitarios",
+    "pag": 21
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer rendición de cuentas cada seis meses con participación ciudadana.",
+    "que": "Se hará en asamblea con vecinos, y los informes se publicarán en la web. El plan no dice cuánto cuesta.",
+    "v": "alta",
+    "n": "Rendir cuentas es tarea de la junta. El plan no dice cuánto cuesta.",
+    "cita": "realizar rendiciones de cuentas semestrales con participación ciudadana activa",
+    "pag": 23
+   }
+  ]
+ },
+ "metas": [
+  "Adquirir 7 módulos desmontables para información turística.",
+  "Jornadas mensuales de atención en salud en el centro y barrios.",
+  "Campañas quirúrgicas mensuales en puntos fijos para mascotas.",
+  "Rendición de cuentas cada seis meses.",
+  "Período del plan: 2027 a 2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto cuesta la mayoría de propuestas ni cuándo se harán.",
+  "Mucho es de salud, agua y policía, que no le tocan a la junta. Parece un plan general del gobierno parroquial."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26
+ ],
+ "paginas": 26
+}

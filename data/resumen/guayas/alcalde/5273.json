@@ -1,0 +1,112 @@
+{
+ "enfoque": "Obras municipales de agua, calles, basura, parques, mercado y uso del suelo. Sin costos ni plazos; incluye temas de salud, escuelas y policía que no son del Municipio.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Llevar agua y alcantarillado a barrios urbanos y rurales que no tienen buen servicio.",
+    "que": "El plan no dice qué barrios, cuánto costará ni cuándo. Es un servicio que sí le toca al Municipio.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Ampliar la cobertura de agua potable y alcantarillado en los sectores urbanos y rurales con déficit.",
+    "pag": 6
+   },
+   {
+    "t": "Comprar recolectores de basura y ampliar el servicio a más sectores.",
+    "que": "El plan no dice cuántos recolectores, en qué sectores ni cuánto costará.",
+    "v": "alta",
+    "n": "La basura es del Municipio. El plan no dice cuántos ni cuándo.",
+    "cita": "Adquirir recolectores y ampliar la cobertura del servicio.",
+    "pag": 7
+   },
+   {
+    "t": "Crear un programa de reciclaje y dar un destino final técnico a la basura.",
+    "que": "Disposición final técnica es el lugar donde termina la basura. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "La basura es del Municipio. El plan no dice cuándo empieza ni cuánto cuesta.",
+    "cita": "Implementar un programa cantonal de reciclaje y disposición final técnica.",
+    "pag": 8
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Conseguir maquinaria para arreglar y asfaltar calles.",
+    "que": "El plan dice nivelar, adoquinar y asfaltar calles, pero no dice cuáles, cuánto costará ni de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Calles son del Municipio, pero el plan no dice cómo pagará la maquinaria.",
+    "cita": "Gestionar maquinaria para nivelación, adoquinado y asfaltado de calles.",
+    "pag": 7
+   },
+   {
+    "t": "Organizar el tránsito y el transporte terrestre del cantón.",
+    "que": "El plan también habla de señales, semáforos y pasos peatonales, pero no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Tránsito y buses son del Municipio. El plan no dice cuándo ni cuánto cuesta.",
+    "cita": "Fortalecer la planificación y control del tránsito y transporte terrestre cantonal.",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Remodelar el mercado municipal y el camal (matadero).",
+    "que": "El camal es el lugar donde se matan animales para la carne. El plan no dice qué obras, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Mercados y camales son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Remodelar y adecuar el mercado municipal y el camal.",
+    "pag": 8
+   },
+   {
+    "t": "Arreglar parques, canchas y espacios recreativos del cantón.",
+    "que": "El plan no dice qué parques ni cuánto costará. Incluye canchas de uso múltiple, para varios deportes.",
+    "v": "alta",
+    "n": "Parques son del Municipio. El plan no dice qué parques ni cuándo.",
+    "cita": "Rehabilitar y dar mantenimiento a parques, canchas de uso múltiple y espacios recreativos.",
+    "pag": 8
+   },
+   {
+    "t": "Actualizar las reglas de uso del suelo y el plan de ordenamiento de la ciudad.",
+    "que": "El PDOT es el plan que dice dónde se puede construir y cómo crece el cantón. El plan no dice cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "Uso del suelo es competencia del Municipio. El plan no dice cuándo estará listo.",
+    "cita": "Actualizar el PDOT y las ordenanzas de uso y ocupación del suelo.",
+    "pag": 7
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar un centro de videovigilancia y cámaras en zonas estratégicas.",
+    "que": "El plan no dice qué zonas ni cuánto costará. Dice que se coordinará con la Policía Nacional, que no es del Municipio.",
+    "v": "media",
+    "n": "La policía no es del Municipio; las cámaras dependen de coordinar con ella.",
+    "cita": "Implementar un centro de videovigilancia y cámaras en zonas estratégicas.",
+    "pag": 9
+   },
+   {
+    "t": "Apoyar a los bomberos y al plan del cantón para emergencias.",
+    "que": "El plan no dice qué apoyo, cuánto costará ni cuándo. Prevención de desastres sí es competencia del Municipio.",
+    "v": "alta",
+    "n": "Prevención de desastres es del Municipio. El plan no dice con qué recursos.",
+    "cita": "Fortalecer el Cuerpo de Bomberos y el sistema cantonal de gestión de riesgos.",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni en qué años se hará. Casi todo son frases generales.",
+  "Incluye temas que no son del Municipio (salud, escuelas, policía). Esos no los puede cumplir el alcalde."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "paginas": 10
+}

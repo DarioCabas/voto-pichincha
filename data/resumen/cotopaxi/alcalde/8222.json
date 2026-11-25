@@ -1,0 +1,163 @@
+{
+ "enfoque": "Propone agua potable, basura con reciclaje, mantenimiento de vías, ordenanzas de uso del suelo y de ruido. Casi todo sin costos ni fechas claras; parte del texto viene del PDOT 2024.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Construir sistemas de agua potable en los lugares que no tienen el servicio.",
+    "que": "El plan dice que la obra es para lugares sin agua y también habla de plantas de aguas servidas. No dice cuánto costará ni cuándo. Propone buscar créditos y cooperación.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el plan depende de créditos y cooperación.",
+    "cita": "Construcción de sistemas de agua potable en los lugares que no disponen de este servicio",
+    "pag": 30
+   },
+   {
+    "t": "Tener un sistema de basura que cubra todo el cantón, con reciclaje.",
+    "que": "El plan dice que al finalizar la gestión habrá un sistema de basura con reciclaje. No dice cuánto costará ni cómo se pagará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Al finalizar la gestión tener un sistema de gestión de residuos sólidos integral, con una cobertura de servicio incluido el reciclaje",
+    "pag": 27
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Crear un sistema de mantenimiento de las vías cantonales al final de la gestión.",
+    "que": "El plan dice que estará listo al final de la gestión, con trabajos preventivos con materiales de calidad. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Para el final de la gestión haber implementado un sistema de mantenimiento vial de la capa de rodadura cantonal",
+    "pag": 34
+   },
+   {
+    "t": "Hacer estudios y diseños de mini terminales y paradas de bus en zonas urbanas.",
+    "que": "El plan dice que primero se harán estudios y diseños. No dice cuánto costará ni cuándo se construirá.",
+    "v": "alta",
+    "n": "Tránsito y buses le tocan al Municipio. Solo llega a estudios y diseños.",
+    "cita": "Estudio y diseño de mini terminales terrestres y paradas de transporte publico",
+    "pag": 34
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Aprobar el plan de desarrollo y el plan de uso del suelo desde el segundo año.",
+    "que": "El plan dice que estos planes se aprueban a partir del segundo año. No dice cuánto costará; menciona pedir un crédito al BDE para los estudios.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará los estudios.",
+    "cita": "Tener aprobado el PDOT y PUGs a partir del 2do año de administración",
+    "pag": 26
+   },
+   {
+    "t": "Aprobar una ordenanza para que las familias regularicen la propiedad de sus terrenos.",
+    "que": "El plan dice que se hará a partir del segundo año, para terrenos urbanos y rurales. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, porque es uso del suelo y ordenanzas.",
+    "cita": "Aprobar la Ordenanza que permita la regularización de la propiedad de predios",
+    "pag": 30
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Crear una ordenanza contra el ruido de vehículos, motos y negocios.",
+    "que": "El plan dice que la ordenanza se aprueba desde el segundo año. No dice cómo se controlará el ruido ni cuánto costará.",
+    "v": "alta",
+    "n": "Las ordenanzas las aprueba el Municipio. Falta decir cómo se controla.",
+    "cita": "Aprobar la Ordenanza contra la contaminación acústica y/o sonora",
+    "pag": 30
+   }
+  ],
+  "economia": [
+   {
+    "t": "Arreglar el Mirador de Pihuapungo para que atraiga turistas de la región.",
+    "que": "El plan dice que primero se hará el diseño del sitio hasta el tercer año, y luego el proyecto según el dinero disponible. No dice cuánto costará.",
+    "v": "media",
+    "n": "El turismo no está en la lista de lo que le toca. Depende de otros niveles.",
+    "cita": "Repotenciar el “Mirador de Pihuapungo” como sitio turístico de nivel regional",
+    "pag": 26
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Presupuestar y crear un Centro de Seguridad Ciudadana antes de que acabe la gestión.",
+    "que": "El plan dice que lo presupuestará hasta el final de la gestión. No dice cuánto costará ni dónde se ubicará.",
+    "v": "baja",
+    "n": "La policía es del Gobierno, no del Municipio.",
+    "cita": "Presupuestar hasta el final de la gestión para la creación del Centro de Seguridad ciudadana",
+    "pag": 28
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer planes para que familias de bajos recursos accedan a una vivienda digna.",
+    "que": "El plan dice que al final de la gestión habrá planes y programas de vivienda. No dice cuántas familias ni cuánto costará.",
+    "v": "media",
+    "n": "La vivienda depende de otros niveles. El Municipio solo planifica.",
+    "cita": "planes y programas que faciliten el acceso de familias de escasos recursos a una vivienda digna",
+    "pag": 24
+   }
+  ],
+  "otros": [
+   {
+    "t": "Dejar listo un programa de atención a emergencias en todo el cantón.",
+    "que": "El plan dice que estará listo al final de la gestión, con una mejora presupuestaria. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Prevenir desastres le toca al Municipio. El plan no dice montos.",
+    "cita": "Al final de la gestión municipal tener establecido el programa integral",
+    "pag": 36
+   }
+  ]
+ },
+ "metas": [
+  "Presupuestar y crear el Centro de Seguridad Ciudadana antes del fin de la gestión.",
+  "Tener aprobados los planes de desarrollo y de uso del suelo desde el segundo año.",
+  "Aprobar la ordenanza contra el ruido desde el segundo año de gestión.",
+  "Tener un sistema de basura con reciclaje al finalizar la gestión.",
+  "Tener un sistema de mantenimiento de vías cantonales al final de la gestión."
+ ],
+ "notas": [
+  "Casi ninguna propuesta dice cuánto cuesta ni de dónde sale el dinero. La tabla de presupuesto 2026 no aparece en el texto.",
+  "Gran parte del texto es diagnóstico copiado del PDOT 2024. Seguridad, salud y educación no son del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39
+ ],
+ "paginas": 39
+}

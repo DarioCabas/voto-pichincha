@@ -1,0 +1,137 @@
+{
+ "enfoque": "Arreglar calles y caminos, cambiar el cobro de basura, crear parques junto a los ríos y hacer obras comunitarias. Muchas tareas dependen de otros niveles de gobierno.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Mantener en buen estado las calles urbanas del centro cantonal.",
+    "que": "El plan dice que se hará de forma directa y todo el año. No dice cuánto costará ni cuándo se terminará.",
+    "v": "alta",
+    "n": "Las calles urbanas le tocan al Municipio. Falta el costo.",
+    "cita": "Promover el buen estado de las vías urbanas (de forma directa) y rurales (mediante convenios de concurrencia y gestión)",
+    "pag": 13
+   },
+   {
+    "t": "Arreglar caminos rurales junto con la Prefectura y las parroquias.",
+    "que": "El plan dice que se hará mediante convenios con el GAD provincial del Azuay. No dice cuánto costará ni quién pone el dinero.",
+    "v": "media",
+    "n": "Depende de la Prefectura y las parroquias, no solo del Municipio.",
+    "cita": "rurales (mediante convenios de concurrencia y gestión) del centro cantonal y parroquiales y de las comunidades durante todo el año",
+    "pag": 13
+   },
+   {
+    "t": "Revisar el puente de la calle Arturo Sández sobre el río Chorro.",
+    "que": "El plan dice que primero se evaluará la estructura y luego se gestionará el puente definitivo. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Es una calle municipal, pero el plan solo dice que lo gestionará.",
+    "cita": "Evaluación de la estructura existente y gestión para el puente definitivo de la calle Arturo Sández sobre el río Chorro",
+    "pag": 15
+   },
+   {
+    "t": "Impulsar una terminal terrestre para pasajeros (primera fase).",
+    "que": "El plan dice que es la primera fase de la plataforma de pasajeros. No dice cuánto costará ni dónde se hará.",
+    "v": "media",
+    "n": "Buses y terminales son del Municipio, pero el plan no dice costo ni fecha.",
+    "cita": "Impulsar la implementación de una PLATAFORMA DE INTERCAMBIO DE PASAJEROS (FASE 1 TERMINAL TERRESTRE), que brinde condiciones de bienestar y confort",
+    "pag": 15
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Subir en un 25% la cobertura de agua potable y alcantarillado hasta 2031.",
+    "que": "El plan no dice cuánto costará. Dice que para las obras grandes se buscarán recursos fuera del Municipio.",
+    "v": "media",
+    "n": "Es tarea del Municipio, pero depende de recursos que el plan no detalla.",
+    "cita": "Mejorar en un 25% la cobertura de los servicios básicos de agua potable y alcantarillado",
+    "pag": 21
+   },
+   {
+    "t": "Reformar la ordenanza de cobro de basura para cobrar una tasa justa.",
+    "que": "El plan dice que la reforma empieza el primer año, con mesas de trabajo. No dice cuánto se cobrará ni cuánto costará.",
+    "v": "alta",
+    "n": "Basura le toca al Municipio, pero el plan no dice cuánto cambiará el cobro.",
+    "cita": "Impulsar en el territorio cantonal de Girón, la reforma a la ordenanza para el cobro por el servicio de recolección de basura",
+    "pag": 15
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Crear parques lineales en las orillas de los ríos, empezando por el río Chorro.",
+    "que": "El plan dice que empezará de forma tentativa por el tramo del río Chorro que cruza la vía Girón‐Pasaje. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Parques son competencia del Municipio. Los terrenos vienen de cesiones.",
+    "cita": "implementación de parques lineales y embellecimiento de las orillas de los ríos, iniciando tentativamente por el tramo del río Chorro",
+    "pag": 13
+   },
+   {
+    "t": "Impulsar edificios de tres pisos o más en el centro histórico y en todo el cantón.",
+    "que": "El plan no dice qué normas cambiarán ni cuándo. Dice que buscará también la gestión del patrimonio cultural.",
+    "v": "alta",
+    "n": "Uso del suelo le toca al Municipio. Falta decir qué normas cambiarán.",
+    "cita": "Impulsar la construcción en altura (tres pisos o más) tanto en el centro histórico como las áreas posteriores del centro histórico",
+    "pag": 14
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Gestionar cámaras de vigilancia en espacios públicos y entradas del cantón.",
+    "que": "El plan no dice cuánto costará ni quién pagará. Dice que se pedirá a los entes competentes.",
+    "v": "baja",
+    "n": "La seguridad no le toca al Municipio: es de la Policía. Solo puede gestionarla.",
+    "cita": "Gestionar con los entes competentes, la mejora sustancial en temas de seguridad, a través de la dotación de sistema de vigilancia",
+    "pag": 17
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer obras comunitarias por administración directa, con mano de obra de la población.",
+    "que": "El plan dice que los vecinos ponen mano de obra no calificada y que los estudios serán a costo cero. No dice cuánto costará en total.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto dinero habrá para estas obras.",
+    "cita": "Optimizar el rendimiento de los presupuestos participativos en beneficio de la población, ejecutando en lo posible las obras comunitarias por administración directa",
+    "pag": 12
+   }
+  ]
+ },
+ "metas": [
+  "Cobertura de agua potable y alcantarillado sube 25% hasta 2031.",
+  "Equipamientos comunitarios mejorados en el 100 % de las comunidades hasta 2031.",
+  "Al menos 2 eventos por año de cultura y tradiciones hasta 2031.",
+  "Ampliar en un 50% los beneficiarios de grupos vulnerables hasta 2031.",
+  "Llegar al 25% de la población con prácticas de conservación hasta 2031."
+ ],
+ "notas": [
+  "Muchas obras dependen de la Prefectura, ministerios o parroquias. El plan casi no dice cuánto cuesta ni de dónde sale el dinero.",
+  "Varias propuestas solo dicen 'evaluar' o 'gestionar', sin fecha ni costo. Algunas son de salud, que no le toca al Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27
+ ],
+ "paginas": 27
+}

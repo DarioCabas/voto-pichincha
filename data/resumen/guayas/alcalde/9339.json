@@ -1,0 +1,176 @@
+{
+ "enfoque": "Plan de 7 ejes: agua y drenajes, luces, calles y parques, títulos de casas y ayuda a vendedores de calle. No pone montos de dinero para cada obra.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar la red de agua potable en sectores que hoy no tienen cobertura suficiente.",
+    "que": "Prioriza primero a los sectores sin agua. El plan no dice cuánto costará ni en qué año llegará el agua a cada barrio.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Ampliar progresivamente la cobertura de agua potable en sectores de déficit.",
+    "pag": 12
+   },
+   {
+    "t": "Rehabilitar tramos críticos del drenaje para reducir las inundaciones.",
+    "que": "Se hará según el dinero que haya tras revisar las cuentas del municipio. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará ni de dónde saldrá.",
+    "cita": "rehabilitación progresiva de tramos críticos, con ejecución sujeta a la disponibilidad presupuestaria certificada",
+    "pag": 17
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Cambiar luminarias por luces LED en corredores críticos, parques y zonas escolares.",
+    "que": "Las obras de luz empiezan en el segundo semestre del Año 1. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "La luz pública es del municipio, pero la seguridad no. El plan no dice costos.",
+    "cita": "sustitución progresiva de luminarias, ampliación de cobertura LED en corredores críticos, parques y zonas escolares.",
+    "pag": 20
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar calles, espacios públicos y corredores comerciales de forma permanente.",
+    "que": "Es un programa continuo, no una sola obra. El plan no dice cuánto costará ni qué calles irán primero.",
+    "v": "alta",
+    "n": "Le toca al Municipio: calles, parques y espacios públicos.",
+    "cita": "programa continuo de recuperación de espacios públicos, calles y corredores comerciales",
+    "pag": 18
+   },
+   {
+    "t": "Dar títulos de propiedad a familias con casas sin papeles, corrigiendo medidas de terreno.",
+    "que": "Se inscribe en el Registro de la Propiedad. El plan no dice cuántas familias se beneficiarán ni cuánto costará.",
+    "v": "media",
+    "n": "Depende del Registro de la Propiedad y de la Autoridad Agraria, no solo del Municipio.",
+    "cita": "con inscripción en el Registro de la Propiedad, la herramienta legal más ágil para",
+    "pag": 18
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Sembrar más áreas verdes y árboles por habitante en zonas priorizadas.",
+    "que": "Prioriza sectores con más riesgo de inundación y menos árboles. El plan no dice cuántos metros cuadrados ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: parques y áreas verdes.",
+    "cita": "incremento progresivo de áreas verdes por habitante y reforestación en zonas priorizadas",
+    "pag": 26
+   },
+   {
+    "t": "Adoptar normas municipales para prevenir desastres y gestionar riesgos, con el comité de emergencias.",
+    "que": "Se hará en años 1 y 2, en coordinación con el comité de operaciones de emergencia (COE). El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: prevención de desastres.",
+    "cita": "adopción de normas técnicas municipales de prevención y gestión de riesgos, conforme al Art. 140 del COOTAD",
+    "pag": 26
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar permiso municipal a vendedores de calle tras un censo, sin sacarlos del lugar donde venden.",
+    "que": "Primero hace un censo y una consulta con los comerciantes. El plan no dice cuántos vendedores ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: mercados y ordenanzas.",
+    "cita": "para extender la formalización, basada en censo municipal actualizado, a los comerciantes autónomos que hoy operan fuera de ese sistema integrado",
+    "pag": 22
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Presentar públicamente el estado de cuentas del municipio: deudas y compromisos heredados.",
+    "que": "Se presentará en los primeros noventa días y incluirá deuda y compromisos activos. El plan no dice qué pasará después si las cuentas son peores.",
+    "v": "alta",
+    "n": "Le toca al alcalde: es una revisión de las cuentas del propio municipio.",
+    "cita": "presentaré públicamente el diagnóstico presupuestario real del GAD, incluyendo sus pasivos y compromisos vigentes",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Asignar al menos el 10% de ingresos no tributarios a grupos de atención prioritaria.",
+    "que": "Se cumplirá cada año de los cuatro del período, según el plan. El plan no dice a cuánto dinero equivale.",
+    "v": "alta",
+    "n": "Le toca al municipio en su propio presupuesto.",
+    "cita": "Garantizar la asignación obligatoria del 10% de ingresos no tributarios a grupos de atención prioritaria",
+    "pag": 27
+   }
+  ]
+ },
+ "metas": [
+  "Presentar públicamente el diagnóstico del presupuesto municipal en los primeros 90 días de gestión.",
+  "Destinar al menos el 60% del Plan Anual de Inversiones a seguridad y drenajes en los dos primeros años.",
+  "Asignar el 10% de ingresos no tributarios a grupos de atención prioritaria, en cada año de gestión.",
+  "Actualizar el mapa de largo plazo de la ciudad (PDOT) en los primeros nueve meses.",
+  "Hacer una rendición de cuentas pública cada año."
+ ],
+ "notas": [
+  "El plan no pone montos de dinero en ninguna obra. Dice que primero revisará las cuentas del municipio.",
+  "Varias propuestas dependen de la Policía, del Registro de la Propiedad o del Gobierno Central. El plan lo reconoce.",
+  "Plan muy largo (74 págs.): se resumieron las 61 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  8,
+  9,
+  10,
+  11,
+  12,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  43,
+  44,
+  46,
+  47,
+  48,
+  49,
+  51,
+  53,
+  54,
+  55,
+  56,
+  58,
+  59,
+  60,
+  62,
+  63,
+  64,
+  65,
+  66,
+  67,
+  68,
+  69,
+  70,
+  72
+ ],
+ "paginas": 74
+}

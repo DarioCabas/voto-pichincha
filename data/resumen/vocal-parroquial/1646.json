@@ -1,0 +1,131 @@
+{
+ "enfoque": "Plan copiado en gran parte del plan de desarrollo de la parroquia de Checa. Propone caminos, parques, árboles, ferias y que los vecinos decidan y vigilen el gasto.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Mantener, arreglar y mejorar las vías rurales de la parroquia",
+    "que": "Dice que se hará un plan de mantenimiento, arreglo y mejora de la red de caminos rurales y urbanos de la parroquia. El plan no dice qué caminos, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca a la junta con la Prefectura, no sola. El plan no dice cómo se paga.",
+    "cita": "Ejecutar el plan de mantenimiento, rehabilitación y mejoramiento progresivo de la red vial rural y urbana de la parroquia",
+    "pag": 6
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Expandir redes de agua potable y alcantarillado",
+    "que": "Está en los objetivos, pero se haría con la Prefectura, el Municipio y la empresa de agua de Quito (EPMAPS). El plan no dice dónde ni cuánto costará.",
+    "v": "baja",
+    "n": "Le toca a la empresa de agua y al Municipio, no a la junta.",
+    "cita": "la expansión de redes de agua potable, alcantarillado y la expansión de infraestructura básica comunitaria",
+    "pag": 4
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Sembrar árboles nativos y cuidar quebradas y cuencas",
+    "que": "Dice que se harán programas para cuidar ecosistemas, quebradas y cuencas, y para sembrar árboles nativos. El plan no dice dónde, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Son trabajos de la comunidad y la junta (mingas). El plan no dice cuánto cuesta.",
+    "cita": "Implementar programas de conservación de ecosistemas locales, gestión integral de cuencas y quebradas, y reforestación con especies nativas",
+    "pag": 7
+   }
+  ],
+  "social": [
+   {
+    "t": "Cuidar centros comunitarios, espacios recreativos y deportivos",
+    "que": "Dice que la junta cuidará y arreglará los centros comunitarios y los espacios recreativos y deportivos. El plan no dice cuáles, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Parques y espacios son de la junta. El plan no dice cuánto cuesta.",
+    "cita": "la gestión y mantenimiento de equipamientos comunitarios, espacios recreativos y deportivos",
+    "pag": 7
+   }
+  ],
+  "economia": [
+   {
+    "t": "Promover ferias productivas para emprendedores locales",
+    "que": "Dice que se harán ferias para productores y emprendedores de la parroquia. El plan no dice cuántas, dónde, cuánto costarán ni cuándo.",
+    "v": "alta",
+    "n": "Apoyar a productores es tarea de la junta. El plan no dice cuánto cuesta.",
+    "cita": "Impulsar el desarrollo económico local sostenible mediante el fortalecimiento de capacidades de emprendedores locales, la promoción de ferias productivas",
+    "pag": 7
+   }
+  ],
+  "otros": [
+   {
+    "t": "Actualizar el plan de emergencias y hacer simulacros",
+    "que": "Dice que se actualizará el plan de emergencias, se capacitará a la gente y se harán simulacros en zonas vulnerables. El plan no dice cuándo ni dónde.",
+    "v": "media",
+    "n": "Hay que coordinar con el sistema nacional de gestión de riesgos. El plan no dice cuánto costará.",
+    "cita": "la actualización e implementación del Plan Integral de Emergencias, la capacitación constante, la realización de simulacros",
+    "pag": 7
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear una página web con presupuesto, contratos y obras de la junta",
+    "que": "Se publicarán cada tres meses las sesiones, el presupuesto, los contratos, el avance de obras y el inventario de bienes. El plan no dice cuánto costará la página.",
+    "v": "alta",
+    "n": "Es trabajo de la junta. El plan no dice cuánto costará.",
+    "cita": "Se implementará un sitio web de libre acceso que fungirá como repositorio oficial de transparencia.",
+    "pag": 14
+   },
+   {
+    "t": "Hacer asambleas de vecinos cada tres meses en cada barrio y comuna",
+    "que": "Dice que habrá asambleas en los barrios, comunas y sectores cada tres meses para mostrar avances, metas y gasto. El plan no dice cuánto costarán.",
+    "v": "alta",
+    "n": "Reunir a la gente es trabajo de la junta. El plan no dice cuánto cuesta.",
+    "cita": "Se institucionalizarán asambleas ciudadanas trimestrales en los diferentes barrios, comunas y sectores de la parroquia",
+    "pag": 13
+   },
+   {
+    "t": "Decidir con delegados de barrios el uso de los fondos de inversión de la junta",
+    "que": "Dice que todo el dinero de inversión que recibe la junta se decidirá en reuniones públicas con delegados de barrios y comunidades. El plan no dice cuánto es ni cuándo.",
+    "v": "alta",
+    "n": "Son fondos de la junta; decidir en comunidad es su tarea. El plan no dice el monto.",
+    "cita": "será discutido, priorizado y aprobado democráticamente mediante deliberaciones públicas con delegados barriales y comunitarios",
+    "pag": 13
+   },
+   {
+    "t": "Ayudar a formar grupos de vecinos que vigilen obras y el centro de cuidados",
+    "que": "Dice que la junta dará facilidades ante el Consejo de Participación Ciudadana (CPCCS) para formar grupos de vecinos que revisen caminos, el centro de cuidados y las obras.",
+    "v": "alta",
+    "n": "La junta organiza a la gente; el trámite lo hace el CPCCS. El plan no dice cuánto cuesta.",
+    "cita": "estas células auditarán de manera constante el mantenimiento de las ligas barriales, el funcionamiento del centro de cuidados",
+    "pag": 14
+   }
+  ]
+ },
+ "metas": [
+  "Asambleas en barrios, comunas y sectores cada tres meses.",
+  "Publicar cada tres meses en la página web las sesiones y el presupuesto de la junta.",
+  "Decidir con delegados el 100% de los fondos de inversión que recibe la junta.",
+  "Plazo del plan: los próximos 4 años."
+ ],
+ "notas": [
+  "Gran parte del texto copia el plan de desarrollo de la parroquia. No dice cuánto costará cada propuesta ni cómo se pagará.",
+  "Incluye agua potable y alcantarillado, que no le tocan a la junta. Las obras y los lugares no están detallados."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "paginas": 18
+}

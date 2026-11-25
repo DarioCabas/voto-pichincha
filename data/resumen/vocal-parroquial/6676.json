@@ -1,0 +1,121 @@
+{
+ "enfoque": "Plan único de los cinco vocales de Cumbayá: calles y parques, ferias, basura y río, deporte, seguridad vecinal y rendición de cuentas.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Gestionar el arreglo y mejora de vías y accesos ante quien le toca.",
+    "que": "El plan no dice qué vías ni cuánto costará ni cuándo. Las vías rurales se coordinan con la Prefectura.",
+    "v": "media",
+    "n": "Las vías rurales se hacen con la Prefectura. La junta solo gestiona. Sin costo dicho.",
+    "cita": "Gestionar mantenimiento y mejoramiento de vías y accesos según la competencia aplicable.",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar y dar mantenimiento a parques, canchas y casas comunales.",
+    "que": "El plan no dice qué parques ni cuánto costará ni cuándo se hará.",
+    "v": "alta",
+    "n": "Parques y casas comunales sí son parte de lo que puede hacer la junta.",
+    "cita": "Promover recuperación y mantenimiento de parques, canchas y casas comunales.",
+    "pag": 7
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer jornadas de limpieza en el río San Pedro, quebradas y parques.",
+    "que": "El plan no dice cuándo ni cuánto costará. La estrategia dice que lo harán comités y organizaciones comunitarias.",
+    "v": "alta",
+    "n": "Son trabajos comunitarios que organiza la junta. El plan no dice cuánto cuesta.",
+    "cita": "Promover jornadas de limpieza y recuperación del río San Pedro, quebradas, parques y espacios públicos.",
+    "pag": 8
+   }
+  ],
+  "economia": [
+   {
+    "t": "Organizar ferias de productos, artesanías, comida y emprendimientos.",
+    "que": "El plan no dice dónde, cuándo ni cuánto costará. La estrategia usa espacios públicos con permiso.",
+    "v": "alta",
+    "n": "Ferias y uso de espacios públicos están dentro de lo que puede hacer la junta.",
+    "cita": "Impulsar ferias productivas, artesanales, gastronómicas y de emprendimientos.",
+    "pag": 8
+   },
+   {
+    "t": "Pedir cursos de finanzas, ventas, herramientas digitales y comercialización.",
+    "que": "El plan no dice quién dará los cursos ni cuánto costarán. Dice que se harán con alianzas con instituciones.",
+    "v": "media",
+    "n": "Depende de que otras instituciones den los cursos. El plan no dice cuánto cuesta.",
+    "cita": "Gestionar capacitación en finanzas, marketing, herramientas digitales, producción sostenible y comercialización.",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar actividades deportivas y recreativas para barrios y comuna.",
+    "que": "El plan no dice qué actividades, cuántas veces al año ni cuánto costará.",
+    "v": "alta",
+    "n": "Actividades comunitarias que sí puede hacer la junta. El plan no dice cuánto cuesta.",
+    "cita": "Promover actividades deportivas y recreativas abiertas a barrios y comuna.",
+    "pag": 8
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Pedir alarmas, cámaras de vigilancia e iluminación en los puntos que se prioricen.",
+    "que": "El plan no dice qué puntos ni cuánto costará. La junta solo lo pediría ante las autoridades competentes.",
+    "v": "media",
+    "n": "Le toca a otras autoridades; la junta solo gestiona. El plan no dice cuánto cuesta.",
+    "cita": "Gestionar alarmas comunitarias, videovigilancia e iluminación en puntos priorizados ante las autoridades competentes.",
+    "pag": 9
+   },
+   {
+    "t": "Organizar reuniones de seguridad con barrios, comuna y la Policía Nacional.",
+    "que": "El plan no dice cada cuánto ni dónde se reunirán. La junta no reemplaza a la Policía.",
+    "v": "alta",
+    "n": "Reunir vecinos sí es tarea de la junta. Las funciones policiales no lo son.",
+    "cita": "Promover mesas de seguridad con barrios, comuna y Policía Nacional.",
+    "pag": 9
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar resoluciones, proyectos, convenios, presupuesto y avance del plan.",
+    "que": "El plan no dice en qué medio ni cada cuánto se publicará. Dice que se usarán canales oficiales y carteleras.",
+    "v": "alta",
+    "n": "Publicar información es tarea de la junta. El plan no dice cada cuánto.",
+    "cita": "Publicar información sobre resoluciones, proyectos, convenios, presupuesto y avance del plan.",
+    "pag": 10
+   }
+  ]
+ },
+ "metas": [
+  "Matriz de seguimiento del plan: cada tres meses (trimestral).",
+  "Informe público de avance: cada seis meses (semestral).",
+  "Rendición pública de cuentas: una vez al año.",
+  "Evaluación final del plan al cierre del período 2027-2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "El texto habla de 'el plan originalmente presentado' y usa datos del Municipio: parece basado en otro documento."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16
+ ],
+ "paginas": 16
+}

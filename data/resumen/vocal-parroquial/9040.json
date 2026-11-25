@@ -1,0 +1,120 @@
+{
+ "enfoque": "Plan copiado del plan de desarrollo de la parroquia. Pide obras de agua, salud y escuelas que no son de la junta. Lo que sí puede hacer la junta: cursos, campañas, caminos y ambiente.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Plantar árboles maderables, frutales y de adorno en zonas dañadas.",
+    "que": "Se haría con convenio de la Prefectura, el Municipio y el Ministerio del Ambiente, en los años 1 a 4. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita convenio con la Prefectura, el Municipio y el Ministerio del Ambiente.",
+    "cita": "Programa de reforestación de especies maderables, frutales y ornamentales para la recuperación de áreas degradadas",
+    "pag": 11
+   },
+   {
+    "t": "Dar talleres y cursos de educación ambiental en la parroquia.",
+    "que": "Se haría en los años 1 a 4, con apoyo de la Prefectura, el Municipio y el Ministerio del Ambiente. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Cursos y talleres son tarea de la junta y cuestan poco.",
+    "cita": "Coordinar la realización de talleres, cursos y programas de educación ambiental",
+    "pag": 11
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Mantener las vías de la parroquia, cabecera y comunidades.",
+    "que": "Se haría en los años 1 a 3, con la Prefectura y el Municipio. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Puede hacerlo con la Prefectura y el Municipio, no sola.",
+    "cita": "Coordinar, gestionar y apoyar el mantenimiento del sistema vial de la parroquia, cabecera parroquial y comunidades",
+    "pag": 14
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Gestionar más cobertura de agua potable y alcantarillado.",
+    "que": "Se haría con el Municipio y BEDE. El plan no dice cuánto costará ni cuándo se terminará.",
+    "v": "baja",
+    "n": "Es tarea del Municipio y del Estado, no de la junta. El plan no dice cómo lo pagará.",
+    "cita": "Coordinar, gestionar, dar seguimiento y apoyar sobre el buen manejo y aumento de cobertura de los servicios de agua potable, alcantarillado",
+    "pag": 14
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Gestionar obras públicas sociales, deportivas y recreativas en la parroquia.",
+    "que": "Se haría con la Prefectura y el Municipio. El plan no dice dónde se construirán ni cuánto costarán.",
+    "v": "media",
+    "n": "Las obras grandes dependen de la Prefectura y del Municipio.",
+    "cita": "Coordinar, gestionar, dar seguimiento y apoyar la construcción y mantenimiento de la infraestructura pública social, deportiva y recreativa de la parroquia",
+    "pag": 14
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Organizar a los vecinos en brigadas y alarmas, y pedir más iluminación.",
+    "que": "El plan no dice dónde ni cuánto costará. Dice que no reemplaza a la Policía Nacional, sino que coordina con ella y con el Municipio.",
+    "v": "media",
+    "n": "Organizar vecinos sí; la luz depende del Municipio. La policía no le toca a la junta.",
+    "cita": "construir una estrategia de: organización comunitaria, brigadas, alarmas, iluminación, recuperación de espacios públicos",
+    "pag": 9
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer campañas contra la violencia familiar, de género e infantil.",
+    "que": "También incluye prevenir el embarazo adolescente. Se haría en los años 1 a 4, con el Ministerio de Salud, el MIES y el Municipio. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Campañas y charlas las puede organizar la junta, con ayuda de ministerios.",
+    "cita": "Coordinar campañas de prevención de la violencia de género, familiar e infantil, así como la prevención de embarazo adolescente",
+    "pag": 12
+   },
+   {
+    "t": "Invertir el 10% en proyectos para grupos de atención prioritaria.",
+    "que": "Grupos de atención prioritaria son personas que necesitan más apoyo. El plan no dice cuánto dinero es ese 10% ni cuándo se usará.",
+    "v": "media",
+    "n": "Depende del dinero que tenga la junta; el plan no dice cuánto es.",
+    "cita": "Gestionar proyectos para los grupos de atención prioritaria e invertir el 10% según lo establece el artículo 249 de la COOTAD",
+    "pag": 12
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar cursos de producción agropecuaria sostenible y de turismo comunitario.",
+    "que": "Se haría en los años 1 a 4, con la Prefectura, el Municipio, el Ministerio de Agricultura y el Ministerio de Turismo. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Cursos y capacitación son tarea que la junta sí puede organizar.",
+    "cita": "Coordinar y apoyar procesos de capacitación productivos en producción agropecuaria sustentable y en turismo asociativo y comunitario",
+    "pag": 12
+   }
+  ]
+ },
+ "metas": [
+  "Invertir el 10% en grupos de atención prioritaria, según el artículo 249 del Código de organización territorial (COOTAD).",
+  "Plan de trabajo de 4 años: de 2027 a 2031."
+ ],
+ "notas": [
+  "Plan copiado del plan de desarrollo de la parroquia y del cantón. Varias acciones (agua, salud, escuelas) no le tocan a la junta.",
+  "No dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero. Solo marca los años 1 a 4 en una tabla."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17
+ ],
+ "paginas": 17
+}

@@ -3,6 +3,8 @@
 interface Props { candidatos: any[]; temas: { id: string; nombre: string }[] }
 const { candidatos, temas } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+// Los PDF (public/planes, ~1,2 GB) no van en git: en producción se sirven desde PUBLIC_PLANES_URL (ver README)
+const planes = (import.meta.env.PUBLIC_PLANES_URL ?? '').replace(/\/$/, '') || base;
 const nombreTema = Object.fromEntries(temas.map((t) => [t.id, t.nombre]));
 ---
 
@@ -42,7 +44,7 @@ const nombreTema = Object.fromEntries(temas.map((t) => [t.id, t.nombre]));
         {c.objetivos?.length > 0 && (<section><h4>Objetivos declarados</h4><ul>{c.objetivos.map((m) => <li>{m}</li>)}</ul></section>)}
         {c.notas?.length > 0 && (<section><h4>Notas</h4><ul class="muted">{c.notas.map((m) => <li>{m}</li>)}</ul></section>)}
         <p class="links">
-          {c.pdf && <a href={base + c.pdf} target="_blank">PDF original{c.paginas ? ` (${c.paginas} p.)` : ''}</a>}
+          {c.pdf && <a href={planes + c.pdf} target="_blank">PDF original{c.paginas ? ` (${c.paginas} p.)` : ''}</a>}
           {c.txt && <> · <a href={base + c.txt} target="_blank">Texto completo extraído</a></>}
           {' · '}<a href={c.cne} target="_blank" rel="noopener">Ficha CNE</a>
         </p>

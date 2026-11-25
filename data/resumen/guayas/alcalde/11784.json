@@ -1,0 +1,136 @@
+{
+ "enfoque": "Plan centrado en agua y alcantarillado, vías, riesgo de inundaciones y basura. Se basa en el diagnóstico del propio municipio (PDOT 2024-2027).",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Poner en operación la planta de tratamiento de aguas residuales de la cabecera cantonal.",
+    "que": "El plan dice que la planta ya está construida y tiene equipos. Antes hará una auditoría de equipos y contratará su operación. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio y el plazo es de un año. Falta el costo.",
+    "cita": "Poner en operación, dentro del primer año de gestión, la planta de tratamiento de aguas residuales de la cabecera cantonal",
+    "pag": 7
+   },
+   {
+    "t": "Ejecutar un programa de alcantarillado para Salitre, Junquillal, La Victoria y General Vernaza.",
+    "que": "Costaría 7.600.000 dólares. Lo gestionaría con el Banco de Desarrollo del Ecuador y cooperación. El plan no dice en qué plazo.",
+    "v": "media",
+    "n": "Depende de un préstamo y de cooperación, no solo del Municipio.",
+    "cita": "Ejecutar el programa de alcantarillado sanitario para Salitre, Junquillal, La Victoria y General Vernaza que el propio PDOT identifica y presupuesta en 7.600.000 dólares",
+    "pag": 8
+   },
+   {
+    "t": "Crear una empresa pública municipal de agua potable y alcantarillado.",
+    "que": "Tendría tarifa, lista de usuarios y plan de inversiones propios. Según las metas, funcionaría en los dos primeros años. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que puede crear su propia empresa.",
+    "cita": "Constituir la empresa pública municipal de agua potable y alcantarillado prevista en el PDOT",
+    "pag": 8
+   },
+   {
+    "t": "Poner sistemas de potabilización en los pozos profundos de los recintos.",
+    "que": "Hoy 8.051 hogares se abastecen de pozo, sin tratamiento. El plan no dice cuántos pozos ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta el costo.",
+    "cita": "Ejecutar el programa de agua para consumo humano en los recintos, dotando de sistemas de potabilización a los pozos profundos",
+    "pag": 8
+   },
+   {
+    "t": "Construir baños (unidades básicas sanitarias) para 2.306 hogares sin servicio higiénico.",
+    "que": "Con prioridad en los recintos. Incluye también a 780 hogares que usan letrina. El plan no dice cuánto costará ni en cuánto tiempo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Faltan costo y plazo.",
+    "cita": "Ejecutar un programa de unidades básicas sanitarias para los 2.306 hogares que hoy no tienen servicio higiénico alguno",
+    "pag": 9
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Publicar un cronograma anual de arreglos de vías por recinto, con fechas y montos.",
+    "que": "Incluirá responsables y un reporte cada tres meses. El 87,76 % de la red está en mal estado. El plan no dice el costo total.",
+    "v": "alta",
+    "n": "Le toca al Municipio, en calles y caminos locales.",
+    "cita": "Elaborar y publicar un cronograma anual de intervención vial por recinto, parroquia y barrio, con fechas, montos y responsables",
+    "pag": 9
+   },
+   {
+    "t": "Rehabilitar el puente que une la cabecera con Durán Chiquito.",
+    "que": "Según las metas, estará listo en los dos primeros años, junto con el puente de La Florida. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta el costo.",
+    "cita": "Rehabilitar el puente que conecta la cabecera cantonal con Durán Chiquito, cuyas planchas metálicas sueltas y roturas están documentadas en el PDOT",
+    "pag": 9
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Ampliar la recolección de basura a los recintos, con horarios publicados.",
+    "que": "Hoy solo el 33,3 % del cantón tiene recolección. El plan pide subir esa cifra con meta anual. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: la basura es competencia municipal.",
+    "cita": "Ampliar las rutas de recolección hacia los recintos, con frecuencias y horarios publicados por parroquia",
+    "pag": 11
+   },
+   {
+    "t": "Hacer obras para proteger las riberas de los ríos en cuatro puntos con socavamiento.",
+    "que": "Empezaría por La Pitahaya, La Piedad, La Holanda y La Esmeraldita. El plan no dice cuánto costará ni en cuánto tiempo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice el costo.",
+    "cita": "Ejecutar obras de protección de riberas en los puntos de socavamiento documentados en el PDOT, empezando por La Pitahaya, La Piedad, La Holanda y La Esmeraldita",
+    "pag": 10
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar el catastro (registro de terrenos y casas) urbano y rural.",
+    "que": "El plan dice que costará 400.000 dólares y que estará listo en tres años. Incluye regularizar la tenencia de la tierra.",
+    "v": "alta",
+    "n": "Le toca al Municipio y el plan dice cuánto cuesta.",
+    "cita": "Ejecutar el programa de actualización del catastro predial urbano y rural previsto en el PDOT",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Llevar brigadas médicas y odontológicas a los recintos más alejados.",
+    "que": "El plan dice que se hará con el Distrito 09D20 de Salud. No dice cuánto costará.",
+    "v": "baja",
+    "n": "Es tema de salud. El Municipio solo coordina; no le toca.",
+    "cita": "Implantar brigadas médicas y odontológicas itinerantes hacia los recintos más alejados, en coordinación con el Distrito 09D20 de Salud",
+    "pag": 13
+   }
+  ]
+ },
+ "metas": [
+  "Planta de aguas residuales de la cabecera operando durante el primer año de gestión.",
+  "Empresa pública municipal de agua constituida y operando dentro de los dos primeros años.",
+  "Puente de Durán Chiquito rehabilitado y puente de La Florida sustituido dentro de los dos primeros años.",
+  "Catastro urbano y rural actualizado y en operación dentro de los tres primeros años.",
+  "Cobertura de recolección de basura por encima del 33,3 % de línea base, con meta anual publicada."
+ ],
+ "notas": [
+  "El plan usa el diagnóstico del propio municipio (PDOT 2024-2027). Muchas propuestas no dicen cuánto cuestan ni cuándo.",
+  "Varias metas de salud, educación y empleo no son del Municipio; solo puede coordinar o apoyar."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "paginas": 18
+}

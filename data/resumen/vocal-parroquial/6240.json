@@ -1,0 +1,129 @@
+{
+ "enfoque": "Arreglar caminos con mingas, ferias para vender sin intermediarios, reforestación y talleres ambientales, y cultura. No dice cuánto costará; algunas propuestas son de otros niveles.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar y mantener caminos vecinales con mingas y equipo caminero.",
+    "que": "Mingas periódicas con el equipo caminero del GAD Parroquial, la Prefectura y el Municipio. Meta: 10 proyectos de arreglo de vías. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura y el Municipio para las máquinas.",
+    "cita": "Organizar mingas parroquiales periódicas combinando el equipo carrinero del GAD Parroquial, Provincial y Municipio",
+    "pag": 15
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer un plan turístico y ferias para vender sin intermediarios.",
+    "que": "Diseñar un plan turístico parroquial, ferias de venta directa y cursos para prestadores de servicios. Meta: 15 proyectos al 2031. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Ferias y cursos los puede organizar la junta.",
+    "cita": "ferias de comercialización directa sin intermediarios y capacitación a prestadores de servicios",
+    "pag": 13
+   },
+   {
+    "t": "Montar 3 nodos para juntar y vender tilapia y leche en recintos clave.",
+    "que": "Los nodos son puntos de acopio y venta para tilapia y leche. El plan no dice cuánto costará ni de dónde saldrá el dinero. Plazos: 2028, 2029 y 2031.",
+    "v": "media",
+    "n": "Necesita dinero para la obra; el plan no dice de dónde sale.",
+    "cita": "Fomentar nodos productivos acopio/comercialización de tilapia y leche y habilitar centros comunitarios de día para adultos mayores y grupos vulnerables",
+    "pag": 13
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer 10 talleres y mingas de reforestación y control de fuentes de agua.",
+    "que": "Talleres de educación ambiental, reforestación de microcuencas y control de fuentes de agua en Nanegalito y comunidades del noroccidente. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Talleres y mingas los puede organizar la junta.",
+    "cita": "Ejecutar talleres comunitarios de educación ambiental, mingas de reforestación y control participativo de fuentes de agua",
+    "pag": 14
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear talleres y programas escolares de salud mental y prevención del embarazo.",
+    "que": "Se coordinaría con los DECE, el Ministerio de Salud y clubes deportivos. Plazos 2028 a 2031. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "Salud y escuelas le tocan a otros niveles, no a la junta.",
+    "cita": "Crear programas escolares de salud mental, talleres de prevención del embarazo precoz y escuelas",
+    "pag": 15
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Hacer documentos de riesgo y capacitar a vecinos sobre deslaves e inundaciones.",
+    "que": "Documentos técnicos y capacitaciones ciudadanas, con bomberos locales y la Secretaría de Gestión de Riesgos. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "El mapa de riesgos depende de la Secretaría de Gestión de Riesgos.",
+    "cita": "Elaborar documentos técnicos y capacitaciones ciudadanas en prevención de deslaves e inundaciones",
+    "pag": 18
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Buscar fondos de ONG y organismos internacionales para proyectos.",
+    "que": "Gestionar fondos no reembolsables y asistencia técnica. Meta: 4 convenios, uno al año, de 2028 a 2031. El plan no dice cuánto dinero se conseguirá.",
+    "v": "media",
+    "n": "Depende de que otras organizaciones aprueben los fondos.",
+    "cita": "Gestionar fondos no reembolsables y asistencia técnica ante ONG y organismos internacionales",
+    "pag": 12
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar y mantener centros comunitarios, canchas y espacios recreativos.",
+    "que": "Adecuar y mantener centros comunitarios, áreas deportivas y espacios recreativos. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Parques y espacios de la parroquia sí son de la junta.",
+    "cita": "Adecuar y mantener centros comunitarios, áreas deportivas y espacios recreativos",
+    "pag": 12
+   }
+  ],
+  "otros": [
+   {
+    "t": "Organizar festivales, rescatar la memoria y hacer ferias de comida típica.",
+    "que": "Festivales culturales, rescate de la memoria de Nanegalito y ferias gastronómicas. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Eventos y ferias los puede organizar la junta.",
+    "cita": "Organizar festivales culturales, rescate de la memoria de Nanegalito y ferias gastronómicas",
+    "pag": 18
+   }
+  ]
+ },
+ "metas": [
+  "15 proyectos productivos o turísticos en funcionamiento al 2031.",
+  "10 talleres de educación y remediación ambiental, entre 2028 y 2031.",
+  "10 proyectos de arreglo y mantenimiento de vías, entre 2028 y 2031.",
+  "4 convenios de cooperación, uno al año, de 2028 a 2031.",
+  "3 nodos de desarrollo productivo en operación."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni cómo se pagará. Varias metas dependen de otros niveles de gobierno.",
+  "Incluye temas de salud, escuelas y saneamiento que no le tocan a la junta parroquial; la junta solo podría apoyar."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21
+ ],
+ "paginas": 21
+}

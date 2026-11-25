@@ -1,0 +1,127 @@
+{
+ "enfoque": "Plan para Balzar: agua, alcantarillado y calles en la ciudad, caminos rurales junto a la Prefectura, prevención de inundaciones, apoyo a productores y control público de obras.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Actualizar el plan de agua potable, alcantarillado y drenaje de aguas lluvias.",
+    "que": "El plan no dice cuánto costará ni en qué sectores. Lo ubica en el año 1 del cronograma.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Actualizar diagnóstico y planificación de agua potable, alcantarillado sanitario y drenaje pluvial.",
+    "pag": 4
+   },
+   {
+    "t": "Reforzar la recolección de basura, la limpieza y el reciclaje.",
+    "que": "El plan no dice en qué barrios ni cuánto costará. Incluye eliminar puntos críticos de basura.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Fortalecer recolección de residuos, limpieza, reciclaje y eliminación de puntos críticos.",
+    "pag": 4
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer mantenimiento anual de calles y drenajes urbanos de la ciudad.",
+    "que": "El plan no dice cuánto costará ni qué calles se arreglarán primero. Es un plan anual de mantenimiento.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice con qué dinero.",
+    "cita": "Plan anual de mantenimiento de calles y drenajes urbanos de competencia municipal.",
+    "pag": 5
+   },
+   {
+    "t": "Gestionar con la Prefectura caminos rurales, puentes y alcantarillas.",
+    "que": "El plan no dice cuánto costará ni cuándo. La Alcaldía solo gestiona, coordina y firma convenios.",
+    "v": "media",
+    "n": "La puede empujar, pero los caminos rurales son de la Prefectura.",
+    "cita": "Gestión con Prefectura para caminos rurales, puentes, alcantarillas y accesos productivos.",
+    "pag": 5
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer un mapa de zonas de peligro y un plan anual de prevención.",
+    "que": "El plan no dice cuánto costará. Dice que se revisarán cada año los puntos críticos por lluvias y crecidas.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Contar con mapa actualizado de amenazas y programa anual de prevención.",
+    "pag": 9
+   },
+   {
+    "t": "Gestionar la protección de puentes, riberas, esteros y vías con otras entidades.",
+    "que": "El plan no dice cuánto costará ni quién pone el dinero. Las obras corresponden a otras entidades.",
+    "v": "media",
+    "n": "Depende de otras entidades. La Alcaldía solo gestiona.",
+    "cita": "Gestionar protección de puentes, riberas, esteros y vías con las entidades competentes.",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias permanentes y temporales para productores y emprendedores.",
+    "que": "El plan no dice dónde ni cuánto costará. Las ferias son para productores y emprendedores de Balzar.",
+    "v": "alta",
+    "n": "Le toca al Municipio (desarrollo económico). El plan no dice cuánto costará.",
+    "cita": "Ferias permanentes y temporales para productores y emprendedores.",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Llevar programas de atención social a los sectores rurales.",
+    "que": "El plan no dice cuánto costará ni cuántas veces al año llegarán. Atiende niños, jóvenes, adultos mayores y familias.",
+    "v": "alta",
+    "n": "Le toca al Municipio (protección integral). El plan no dice cuánto costará.",
+    "cita": "Programas itinerantes de atención social y comunitaria en sectores rurales.",
+    "pag": 5
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Coordinar prevención y convivencia con la Policía Nacional.",
+    "que": "El plan no dice cuánto costará. Solo habla de coordinar con la Policía y el Consejo de Seguridad.",
+    "v": "baja",
+    "n": "La policía no le toca al Municipio; solo se coordina.",
+    "cita": "Prevención y convivencia mediante coordinación con Policía Nacional y Consejo de Seguridad.",
+    "pag": 6
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar contratos, cronogramas, presupuesto y avance de obras.",
+    "que": "El plan no dice cuándo empieza. Dice que se publicará la información de cada obra y contrato.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Es publicar información, sin costo.",
+    "cita": "Publicación de contratos, cronogramas, presupuesto y avance de proyectos.",
+    "pag": 6
+   }
+  ]
+ },
+ "metas": [
+  "Informe de avance del plan cada seis meses (semestral).",
+  "Tablero digital de metas actualizado cada tres meses (trimestral).",
+  "Rendición pública de cuentas una vez al año.",
+  "Presupuesto participativo: los vecinos priorizan obras cada año.",
+  "Evaluación pública final que compara el plan con los resultados en el año 4."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero.",
+  "Caminos, puentes, seguridad y riesgos dependen en parte de la Prefectura o del Gobierno. El plan solo promete gestionarlos."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ],
+ "paginas": 13
+}

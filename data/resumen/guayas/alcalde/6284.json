@@ -1,0 +1,128 @@
+{
+ "enfoque": "Obras de agua, alcantarillado, aceras, parques y basura; la mayoría depende de conseguir dinero ante otras entidades.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Sembrar árboles y recuperar áreas verdes en zonas urbanas y rurales.",
+    "que": "El plan no dice cuántos árboles ni cuánto costará. Se medirá con árboles sembrados y áreas reforestadas.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará.",
+    "cita": "Gestionar e implementar programas de reforestación, recuperación de áreas verdes y restauración de ecosistemas urbanos y rurales.",
+    "pag": 27
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Construir y arreglar aceras y bordillos para caminar con seguridad.",
+    "que": "Se hará en sectores priorizados que el plan no nombra. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio; el plan no dice dónde ni cuánto costará.",
+    "cita": "Gestionar proyectos para la construcción, rehabilitación y ampliación de aceras, bordillos y obras complementarias de movilidad peatonal.",
+    "pag": 22
+   }
+  ],
+  "otros": [
+   {
+    "t": "Actualizar planes y hacer simulacros para responder a desastres.",
+    "que": "El plan no dice cuándo se harán los simulacros ni cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca al Municipio: prevenir desastres es parte de sus funciones.",
+    "cita": "Ejecución de acciones preventivas, simulacros y preparación ante eventos adversos",
+    "pag": 33
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Construir una planta para tratar el agua potable.",
+    "que": "Pedir dinero al Gobierno Central, cooperación y bancos para la planta. El plan no dice cuánto costará ni en qué año estará lista.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de dinero que pide a otras entidades.",
+    "cita": "Gestionar recursos técnicos y financieros ante el Gobierno Central, organismos de cooperación y entidades financieras",
+    "pag": 21
+   },
+   {
+    "t": "Ampliar y arreglar el sistema de agua potable en sectores priorizados.",
+    "que": "El plan no dice qué sectores son ni cuánto costará. Tampoco dice cuándo se hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio; el plan no dice cuánto costará.",
+    "cita": "Gestión y ejecución de proyectos para la ampliación, rehabilitación y optimización de los sistemas de agua potable.",
+    "pag": 20
+   },
+   {
+    "t": "Construir y mejorar el alcantarillado de aguas lluvias para bajar inundaciones.",
+    "que": "Busca reducir inundaciones en sectores críticos. El plan no dice cuáles sectores ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio; el plan no dice costo ni plazo.",
+    "cita": "Gestión y ejecución de proyectos para la construcción, ampliación y mejoramiento de sistemas de alcantarillado pluvial",
+    "pag": 20
+   },
+   {
+    "t": "Gestionar la compra e instalación de contenedores de basura en espacios públicos.",
+    "que": "El plan no dice cuántos contenedores ni en qué lugares, ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: la basura es de su competencia.",
+    "cita": "Gestionar la adquisición e instalación de contenedores, estaciones ecológicas y mobiliario urbano",
+    "pag": 27
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir, arreglar y equipar parques, plazas y áreas recreativas.",
+    "que": "El plan no dice qué parques ni cuánto costará. Se medirá con el número de espacios públicos intervenidos.",
+    "v": "alta",
+    "n": "Le toca al Municipio; el plan no dice dónde ni cuánto costará.",
+    "cita": "Gestionar la construcción, regeneración, mantenimiento y equipamiento de parques, plazas y áreas recreativas.",
+    "pag": 22
+   }
+  ]
+ },
+ "metas": [
+  "Una asamblea por sector cada año.",
+  "Rendición de cuentas anual en cada año del período 2027–2031.",
+  "Planta de agua potable: conseguir financiamiento e iniciar la ejecución durante el período 2027–2031.",
+  "Tener el 100% de los predios actualizados."
+ ],
+ "notas": [
+  "Casi ninguna obra tiene costo ni fecha. Muchos proyectos dicen 'gestionar' dinero ante otras entidades.",
+  "No dice nada de buses, tránsito ni mercados, que sí son competencia del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35
+ ],
+ "paginas": 35
+}

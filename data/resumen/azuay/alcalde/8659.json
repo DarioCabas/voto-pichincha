@@ -1,0 +1,109 @@
+{
+ "enfoque": "Plan general basado en el plan de desarrollo vigente del cantón: agua, vías, basura, ambiente y participación. No trae obras concretas, costos ni fechas por proyecto.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar y mejorar agua potable, saneamiento y manejo de basura, donde hay déficit.",
+    "que": "El plan prioriza sectores con déficit comprobado. No dice cuáles, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Agua y basura son del Municipio. Faltan montos y fechas; las obras grandes dependen de estudios.",
+    "cita": "Ampliar y mejorar progresivamente agua potable, saneamiento y gestión de residuos, priorizando sectores con déficit verificado.",
+    "pag": 5
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a calles urbanas y hacer convenios para caminos rurales.",
+    "que": "El mantenimiento tendrá programación anual pública. El plan no dice qué calles, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Lo urbano sí es del Municipio. La red rural depende de convenios con otros niveles de gobierno.",
+    "cita": "Mejorar la movilidad y seguridad vial mediante mantenimiento urbano y convenios para la red rural, con programación anual pública.",
+    "pag": 5
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger fuentes de agua, suelos y ecosistemas con reglas, restauración y trabajo comunitario.",
+    "que": "Habla de ecosistemas priorizados, durante 2027-2031. El plan no dice qué zonas ni cuánto costará.",
+    "v": "media",
+    "n": "Poner reglas sí es del Municipio. La restauración necesita fondos que el plan no dice de dónde salen.",
+    "cita": "Proteger las fuentes hídricas, suelos y ecosistemas priorizados mediante regulación, restauración y gestión comunitaria durante 2027-2031",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Aplicar el plan de uso del suelo y actualizar los registros de terrenos y riesgos.",
+    "que": "La idea es orientar inversiones y controlar el crecimiento. El plan no dice fechas ni costos.",
+    "v": "alta",
+    "n": "Uso del suelo y registros de terrenos son del Municipio. Falta calendario y presupuesto.",
+    "cita": "Aplicar el PUGS y actualizar la información territorial, catastral y de riesgos para orientar inversiones y controlar el crecimiento.",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar a productores y turismo con asistencia, ferias y promoción.",
+    "que": "El plan habla de asistencia, ferias, promoción e infraestructura básica. No dice cuánto costará ni a quién llegará.",
+    "v": "media",
+    "n": "Ferias y promoción sí son del alcalde; la asistencia agropecuaria depende de otros niveles de gobierno.",
+    "cita": "Fortalecer la producción agropecuaria, comercialización y turismo sostenible mediante asistencia, ferias, promoción e infraestructura básica",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer programas de cultura, deporte y oportunidades para jóvenes y grupos prioritarios.",
+    "que": "El plan no dice qué programas se harán, cuánto costarán ni cuántos beneficiarios tendrán.",
+    "v": "media",
+    "n": "Cultura y deporte sí son municipales. Falta presupuesto y detalle de programas.",
+    "cita": "Fortalecer el sistema cantonal de protección de derechos y los programas de cultura, deporte y oportunidades para juventudes y grupos prioritarios",
+    "pag": 5
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Pasar a internet los trámites municipales prioritarios y publicar datos de gestión.",
+    "que": "El plan no dice qué trámites ni cuándo. Dice que también se publicará la información de gestión.",
+    "v": "alta",
+    "n": "Es función propia de la municipalidad. Faltan fecha y costo.",
+    "cita": "Modernizar los procesos municipales, digitalizar servicios prioritarios y publicar información de gestión y datos abiertos",
+    "pag": 5
+   },
+   {
+    "t": "Rendir cuentas cada seis meses y hacer presupuesto participativo con los vecinos.",
+    "que": "Habrá asambleas y audiencias públicas para decidir prioridades y revisar el avance del plan. No dice cuánto cuesta.",
+    "v": "alta",
+    "n": "Son procesos propios del alcalde. El plan no dice cuánto cuesta organizarlos.",
+    "cita": "Institucionalizar la participación, el presupuesto participativo y la rendición semestral de cuentas con seguimiento del plan.",
+    "pag": 5
+   }
+  ]
+ },
+ "metas": [
+  "Ejecutar el plan entre 2027 y 2031.",
+  "Informe de avance del plan cada seis meses.",
+  "Rendición de cuentas anual en audiencia cantonal.",
+  "Actualizar cifras de agua, alcantarillado, basura y vías durante el primer año."
+ ],
+ "notas": [
+  "Son objetivos generales. El plan no da costos, lugares ni fechas por obra. Las obras grandes dependen de estudios y dinero.",
+  "Copia el plan de desarrollo del cantón. Varias páginas están ilegibles y el cuadro de montos no se puede leer."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "paginas": 12
+}

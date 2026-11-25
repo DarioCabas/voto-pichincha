@@ -1,0 +1,138 @@
+{
+ "enfoque": "Plan de 7 ejes para Latacunga: agua, basura, calles, suelo y riesgos, mercados, seguridad y trámites digitales. Casi no dice cuánto costará.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Construir y mantener calles y caminos rurales y urbanos, con anillos viales entre parroquias.",
+    "que": "Se haría compartiendo la obra con otros niveles de gobierno o delegándola. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Construcción y mantenimiento periódico de la red vial rural y urbana",
+    "pag": 12
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Cambiar la recolección de basura y ampliar rutas hacia zonas alejadas.",
+    "que": "Revisar la recolección, el transporte y el lugar final de la basura. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Basura y rutas son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Reestructuración de las fases de recolección, transporte y disposición final.",
+    "pag": 11
+   },
+   {
+    "t": "Arreglar y volver a poner en marcha las plantas que tratan aguas residuales.",
+    "que": "Su objetivo es dejar de contaminar los ríos. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "optimización, mantenimiento y reactivación de las plantas de tratamiento de aguas residuales del cantón",
+    "pag": 11
+   },
+   {
+    "t": "Llevar agua segura y alcantarillado a zonas rurales periféricas.",
+    "que": "Meta: subir 15% la cobertura en esas zonas. Incluye construir un sistema de almacenamiento de agua. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Agua y alcantarillado son del Municipio. El plan no dice cuánto costará.",
+    "cita": "elevar la cobertura de agua segura y alcantarillado en un 15% en las zonas rurales periféricas del cantón",
+    "pag": 17
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger páramos y zonas que dan agua, junto a barrios y comunidades.",
+    "que": "Con financiamiento compartido y con las juntas administradoras de agua. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de comunidades y otros fondos. El plan no dice cuánto costará.",
+    "cita": "Implementación de una estrategia cantonal para la protección de ecosistemas frágiles, fuentes de recarga hídrica y páramos",
+    "pag": 11
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Prohibir casas informales en zonas de alto riesgo por lodo de volcán, deslizamientos o inundaciones.",
+    "que": "Plan 'Hábitat para Vivir Mejor': suelo urbanizado y seguro para vivir. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que maneja el uso del suelo. El plan no dice cuánto costará.",
+    "cita": "prohíba asentamientos informales en zonas de amenaza alta por lahares, movimientos en masa o inundaciones",
+    "pag": 12
+   },
+   {
+    "t": "Arreglar la parte física y tecnológica de los mercados que ya existen.",
+    "que": "Incluye mejor higiene y revisar los cobros a comerciantes. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Los mercados son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Interversión física y tecnológica en la red de mercados existentes",
+    "pag": 11
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Ampliar cámaras de vigilancia y alarmas comunitarias, junto a la Policía.",
+    "que": "Se haría con la Policía Nacional y el Gobierno Central. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "La Policía no es del Municipio; solo puede aportar cámaras y alarmas.",
+    "cita": "Ampliación del sistema de videovigilancia y alarmas comunitarias",
+    "pag": 13
+   }
+  ],
+  "social": [
+   {
+    "t": "Abrir centros de apoyo psicológico y legal para mujeres y menores víctimas de violencia.",
+    "que": "Incluye fortalecer casas de acogida. El plan no dice cuánto costará ni dónde se abrirán los centros.",
+    "v": "media",
+    "n": "Es tarea compartida con otros niveles de gobierno. El plan no dice cuánto costará.",
+    "cita": "apertura de centros de atención psicolegal dedicados a la protección efectiva",
+    "pag": 13
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Pasar los trámites municipales a plataformas web para simplificarlos.",
+    "que": "Meta: digitalizar el 100% de los trámites ciudadanos. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Los trámites municipales son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Automatización, simplificación y migración de trámites administrativos a plataformas web",
+    "pag": 14
+   }
+  ]
+ },
+ "metas": [
+  "Subir al 15% la cobertura de agua segura y alcantarillado en zonas rurales periféricas.",
+  "Construir 1 sistema de almacenamiento de agua multipropósito.",
+  "Actualizar el 100% de los planes de uso del suelo y de ordenamiento del territorio.",
+  "Digitalizar el 100% de los trámites ciudadanos.",
+  "Incorporar al 30% de la población en los comités de seguridad ciudadana."
+ ],
+ "notas": [
+  "Casi ninguna propuesta dice cuánto costará ni cuándo. Solo hay porcentajes del presupuesto en la matriz, sin montos.",
+  "Incluye policía, salud y escuelas, que no son competencia del Municipio. Esas partes dependen de otros niveles de gobierno."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24
+ ],
+ "paginas": 24
+}

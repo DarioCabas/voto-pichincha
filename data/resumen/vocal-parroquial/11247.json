@@ -1,0 +1,126 @@
+{
+ "enfoque": "Caminos, espacio público, apoyo a productores, cuidado del ambiente y reuniones con la gente. Muchas cosas dependen del Municipio o la Prefectura, y parte del texto es general.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Pedir al Municipio proteger quebradas y áreas naturales.",
+    "que": "El plan no dice qué quebradas ni cuánto costará. Lo deja en gestiones con el Municipio.",
+    "v": "media",
+    "n": "Le toca al Municipio. La junta solo puede pedir y gestionar.",
+    "cita": "Realizar gestiones con el municipio para la protección y manejo de quebradas y áreas naturales.",
+    "pag": 8
+   },
+   {
+    "t": "Pedir a la Prefectura manejar cuencas y fuentes de agua.",
+    "que": "El plan no dice qué fuentes ni cuánto costará.",
+    "v": "media",
+    "n": "Le toca a la Prefectura. No incluye agua potable para las casas.",
+    "cita": "Realizar gestiones con la prefectura para el manejo de cuencas hídricas y fuentes de agua.",
+    "pag": 8
+   }
+  ],
+  "economia": [
+   {
+    "t": "Asesorar a productores para que vayan a ferias locales, nacionales e internacionales.",
+    "que": "El plan no dice cuántas ferias ni cuándo, ni cuánto costará.",
+    "v": "alta",
+    "n": "Asesorar a productores es tarea de la junta.",
+    "cita": "Asesoramiento a los productores de la parroquia para participar en ferias productivas a nivel local, nacional e internacional.",
+    "pag": 8
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas en la parroquia para decidir en qué gastar el presupuesto participativo.",
+    "que": "El plan no dice cuánto dinero ni cuándo. Los presupuestos son del Municipio y la Prefectura.",
+    "v": "media",
+    "n": "Los presupuestos son de otros niveles. La junta solo organiza la asamblea.",
+    "cita": "Asambleas parroquiales para la priorización de los presupuestos participativos municipales y provinciales.",
+    "pag": 9
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer reuniones cada tres meses con la Prefectura para acordar el arreglo de vías.",
+    "que": "El plan no dice cuánto costará. Dice que se acordarán las vías que tendrán mantenimiento periódico.",
+    "v": "media",
+    "n": "La Prefectura arregla las vías. La junta solo acuerda y pide.",
+    "cita": "Reuniones trimestrales con la Prefectura de Pichincha para acordar los cronogramas de mantenimiento vial y las vías a las que se brindará el mantenimiento periódico.",
+    "pag": 7
+   },
+   {
+    "t": "Hacer talleres con vecinos y organizaciones para elegir cada año qué vías arreglar.",
+    "que": "El plan no dice cuánto costará. Los talleres sirven para elegir las obras viales de cada año.",
+    "v": "alta",
+    "n": "Hacer talleres es tarea de la junta. Las obras las paga otro nivel.",
+    "cita": "Talleres con la ciudadanía y las organizaciones sociales para la priorización anual de las obras viales de la parroquia",
+    "pag": 7
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer el plan de desarrollo de la parroquia con la gente y las organizaciones.",
+    "que": "El plan dice que se hará con talleres de participación. No dice cuánto costará ni cuándo estará listo.",
+    "v": "alta",
+    "n": "Son talleres y reuniones. La junta puede organizarlos.",
+    "cita": "Diseño del Plan de Desarrollo y Ordenamiento Territorial de la parroquia con la participación de la ciudadanía y las organizaciones sociales del territorio.",
+    "pag": 7
+   },
+   {
+    "t": "Reunirse cada seis meses con organizaciones sociales para revisar el plan de la parroquia.",
+    "que": "El plan no dice cuánto costará. Es una reunión para dar seguimiento al plan de la parroquia.",
+    "v": "alta",
+    "n": "Son reuniones. La junta puede hacerlas sola.",
+    "cita": "Reuniones semestrales con las organizaciones sociales para el seguimiento del Plan de Desarrollo y Ordenamiento Territorial de la parroquia.",
+    "pag": 9
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Promover el uso del espacio público con actividades deportivas y culturales.",
+    "que": "El plan no dice en qué parques ni cuánto costará. La junta organiza las actividades.",
+    "v": "alta",
+    "n": "Organizar actividades está dentro de lo que la junta puede hacer.",
+    "cita": "Promoción del uso del espacio público parroquial mediante la organización de actividades deportivas y culturales.",
+    "pag": 7
+   },
+   {
+    "t": "Construir y arreglar la infraestructura que la gente priorice en el plan.",
+    "que": "El plan no dice qué obras ni cuánto costarán. Dice que se pagará con varias fuentes, como la Prefectura y el Municipio.",
+    "v": "media",
+    "n": "Las obras grandes necesitan acuerdo con el Municipio o la Prefectura.",
+    "cita": "Construcción y mantenimiento de la infraestructura física priorizada por la ciudadanía en el plan de desarrollo y ordenamiento territorial construido participativamente.",
+    "pag": 7
+   }
+  ]
+ },
+ "metas": [
+  "Reuniones cada tres meses con la Prefectura de Pichincha para acordar el mantenimiento de vías.",
+  "Reuniones cada seis meses con las organizaciones sociales para seguir el plan de la parroquia.",
+  "Asamblea de rendición de cuentas una vez al año."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni cuánto dinero tendrá la junta. Muchas cosas dependen del Municipio o la Prefectura.",
+  "Parte del texto habla del GAD cantonal y del Concejo Municipal, y tiene un modelo general de planes para vocales. Parece copiado de otro documento."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16
+ ],
+ "paginas": 16
+}

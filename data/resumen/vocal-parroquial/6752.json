@@ -1,0 +1,127 @@
+{
+ "enfoque": "Muchas propuestas dependen del Municipio o la Prefectura. La junta sí puede hacer mingas, campañas, actividades culturales, cursos y arreglar espacios deportivos.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Hacer una minga cada mes para limpiar quebradas y espacios públicos.",
+    "que": "Recuperar quebradas y espacios públicos con mingas. El plan dice que se dará seguimiento a los espacios trabajados. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar mingas sí le toca a la junta. El plan no dice de dónde salen los materiales.",
+    "cita": "Realizar una minga mensual y dar seguimiento a los espacios intervenidos.",
+    "pag": 15
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar las rutas de recolección de basura en la parroquia.",
+    "que": "Más rutas y frecuencia de recolección. Meta: subir la cobertura en un 2 %. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Le toca al Municipio y a la empresa de aseo, no a la junta.",
+    "cita": "Ampliar y mejorar las rutas y frecuencias de recolección",
+    "pag": 14
+   },
+   {
+    "t": "Vigilar cada mes las obras de agua potable que haga el Municipio.",
+    "que": "La junta solo vigilaría las obras y pediría más líneas de agua. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "El agua potable le toca al Municipio, no a la junta.",
+    "cita": "Vigilar mensualmente la ejecución de obras para dotar agua potable.",
+    "pag": 13
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Pedir al Municipio un análisis de buses y camionetas en los barrios.",
+    "que": "Recoger datos de rutas por barrio y pedir al Municipio un análisis técnico. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio. La junta no decide las rutas.",
+    "cita": "Gestionar ante el Municipio el análisis técnico de las necesidades de cobertura del transporte.",
+    "pag": 24
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer un plan de mantenimiento de calles y caminos de la parroquia.",
+    "que": "Meta: mejorar y mantener el 10 % de las vías secundarias. Lo haría con la Prefectura y el Municipio. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Los caminos se hacen junto con la Prefectura. Necesita acuerdo, no lo decide la junta sola.",
+    "cita": "Realizar un plan de mantenimeinto vial urbano y rural.",
+    "pag": 12
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer una actividad cultural cada mes en distintos sectores.",
+    "que": "Música, danza u otras actividades en distintos barrios. Lo harían con la Administración Zonal Los Chillos y la Prefectura. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar actividades sí le toca a la junta. Pide apoyo a otras instituciones.",
+    "cita": "Realizar una activación cultural mensual en diferentes sectores de la parroquia.",
+    "pag": 19
+   }
+  ],
+  "otros": [
+   {
+    "t": "Dar materiales para arreglar espacios deportivos y recreativos cada año.",
+    "que": "Entrega de materiales y gestión ante otras instituciones para obras mayores. El plan no dice cuánto costará ni qué espacios.",
+    "v": "alta",
+    "n": "Arreglar espacios sí le toca a la junta. Las obras grandes pasan al Municipio o a la Prefectura.",
+    "cita": "Apoyar anualmente la adecuación de espacios deportivos y recreativos priorizados",
+    "pag": 18
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Coordinar acciones de prevención en eventos y sectores priorizados.",
+    "que": "Meta: al menos cuatro acciones preventivas al año, con el Municipio y la Policía. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "La Policía le toca a otro nivel. La junta solo puede coordinar.",
+    "cita": "Coordinar acciones preventivas en eventos y sectores priorizados.",
+    "pag": 24
+   }
+  ]
+ },
+ "metas": [
+  "Una minga cada mes para recuperar quebradas y espacios públicos.",
+  "Gestionar 1 km al mes de trazados viales.",
+  "Subir en un 2 % la cobertura de recolección de basura.",
+  "Capacitar al 20 % de los emprendedores identificados.",
+  "Una actividad cultural cada mes en distintos sectores."
+ ],
+ "notas": [
+  "El plan no dice cuánto cuesta ninguna propuesta ni de dónde sale el dinero.",
+  "Casi todo depende del Municipio de Quito o de la Prefectura. La junta tiene poco presupuesto."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29
+ ],
+ "paginas": 29
+}

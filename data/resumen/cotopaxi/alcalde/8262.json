@@ -1,0 +1,118 @@
+{
+ "enfoque": "Arreglar agua, basura, calles y el tránsito de ferias en Saquisilí. También propone seguridad y salud, que no son del Municipio. El plan no dice cuánto costará.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Arreglar y ampliar los sistemas de agua potable en la ciudad y las tres parroquias rurales.",
+    "que": "Arreglar captación, conducción y plantas de agua, y ampliar redes de alcantarillado. Busca dinero del Gobierno Nacional y del Banco de Desarrollo (BDE). El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Ejecutar y repotenciar los sistemas de captación, conducción y plantas de tratamiento de agua potable en la cabecera cantonal",
+    "pag": 8
+   },
+   {
+    "t": "Separar la basura por tipos y mejorar el centro donde se trata.",
+    "que": "Recoger la basura separada y modernizar el centro de manejo de residuos sólidos. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Implementar la recolección diferenciada y la tecnificación del centro de manejo de residuos sólidos",
+    "pag": 8
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Adoquinar, asfaltar y reconstruir calles urbanas y caminos hacia las parroquias rurales.",
+    "que": "Arreglar las calles principales de la ciudad y los caminos a Canchagua, Chantilín y Cochapamba. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará.",
+    "cita": "Implementar el Plan Integral de Adoquinado, Asfaltado y Reconstructivo de las arterias urbanas",
+    "pag": 8
+   },
+   {
+    "t": "Ordenar dónde cargan, descargan y estacionan vehículos los días de feria.",
+    "que": "Cambiar las zonas de carga, descarga y estacionamiento en el centro y calles cerca de plazas y mercados durante la feria. El plan no dice cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: tránsito y mercados. El plan no dice plazos.",
+    "cita": "Reorganizar las zonas de carga, descarga y estacionamiento en el centro urbano y zonas aledañas a las plazas y mercados durante los días de feria",
+    "pag": 8
+   },
+   {
+    "t": "Hacer un plan de rutas y frecuencias de buses y vehículos comerciales.",
+    "que": "Definir qué rutas y cada cuánto pasan buses y vehículos comerciales, para no saturar el centro. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: buses y tránsito. El plan no dice plazo.",
+    "cita": "Definir un plan de rutas y frecuencias para el transporte público y comercial",
+    "pag": 9
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar cámaras de vigilancia en ferias, mercados y accesos principales.",
+    "que": "Poner cámaras conectadas al sistema ECU-911 en ferias, mercados y entradas principales. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende del ECU-911 y de la Policía, no solo del Municipio.",
+    "cita": "Instalación y repotenciación de puntos de videovigilancia interconectados al",
+    "pag": 9
+   },
+   {
+    "t": "Armar un plan de seguridad con la Policía Nacional y el Ministerio del Interior.",
+    "que": "El plan de seguridad sería junto con la Policía y el Ministerio del Interior. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "La Policía no es del Municipio. El alcalde solo coordina.",
+    "cita": "Implementar el Plan Cantonal de Seguridad Ciudadana en coordinación con la Policía Nacional",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Coordinar con el Ministerio de Salud los centros de salud y las brigadas médicas.",
+    "que": "Pedir al Ministerio de Salud arreglar los centros de salud locales y hacer brigadas médicas móviles. El plan no dice cuánto ni cuándo.",
+    "v": "baja",
+    "n": "La salud no le toca al Municipio; solo coordina.",
+    "cita": "Coordinar con el Ministerio de Salud Pública (MSP) el fortalecimiento de los centros de salud locales",
+    "pag": 8
+   }
+  ],
+  "economia": [
+   {
+    "t": "Arreglar la limpieza y el orden en plazas y mercados para comerciantes y visitantes.",
+    "que": "Ordenar plazas y mercados para comerciantes locales y visitantes, dentro del uso de suelo comercial. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que maneja plazas y mercados.",
+    "cita": "garantizando un ordenamiento justo para comerciantes locales y visitantes dentro del uso de suelo comercial asignado",
+    "pag": 9
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Decidir en barrios y comunidades rurales en qué gastar parte del presupuesto municipal.",
+    "que": "Los barrios y comunidades rurales participan en decidir en qué se gasta el presupuesto del Municipio. El plan no dice cuánto.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Es una forma de decidir en qué gastar.",
+    "cita": "Promover el uso eficiente del presupuesto municipal mediante",
+    "pag": 10
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni en qué plazo. Muchas propuestas dependen de Policía, Salud o ministerios.",
+  "Texto escaneado con partes cortadas o difíciles de leer; algunas propuestas pueden faltar."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "paginas": 12
+}

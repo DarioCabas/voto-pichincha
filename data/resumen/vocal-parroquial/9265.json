@@ -1,0 +1,124 @@
+{
+ "enfoque": "Reuniones con vecinos, pedidos de arreglo de vías, coliseo, iluminación, deporte, ferias para productores y campañas ambientales. No dice cuánto costará.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Pedir el arreglo y la mejora de las vías de la parroquia.",
+    "que": "El plan no dice qué vías, cuánto costará ni cuándo. Dice que se gestionará ante las instituciones competentes.",
+    "v": "media",
+    "n": "Le toca a la Prefectura o al Municipio. La junta solo puede pedirlo.",
+    "cita": "Gestionar el mantenimiento y mejoramiento de vías parroquiales.",
+    "pag": 4
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Impulsar el arreglo y cuidado del coliseo parroquial.",
+    "que": "El plan no dice cuánto costará ni quién pagará el arreglo.",
+    "v": "media",
+    "n": "Es un espacio de la parroquia. El plan no dice cómo se pagará.",
+    "cita": "Impulsar el mantenimiento y fortalecimiento del coliseo parroquial.",
+    "pag": 4
+   },
+   {
+    "t": "Pedir mejor iluminación en los sectores que la necesitan.",
+    "que": "El plan no dice qué sectores ni cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio. La junta solo puede pedirla.",
+    "cita": "Gestionar acciones para mejorar la iluminación de sectores prioritarios.",
+    "pag": 4
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Reunirse con la Policía y el Municipio sobre seguridad.",
+    "que": "El plan no dice cuántas veces se reunirán ni qué resultados habrá.",
+    "v": "baja",
+    "n": "La policía no le toca a la junta. Solo puede coordinar.",
+    "cita": "Fortalecer la coordinación con Policía Nacional, Municipio y demás instituciones competentes.",
+    "pag": 4
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer reuniones directas entre autoridades y vecinos.",
+    "que": "El plan dice al menos una reunión de diálogo cada año. No dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Es trabajo de la junta y cuesta poco.",
+    "cita": "Crear espacios de diálogo directo entre autoridades y ciudadanía.",
+    "pag": 3
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer cada año programas deportivos, recreativos y juveniles.",
+    "que": "El plan no dice qué programas ni cuánto costarán. Se hará con organizaciones locales.",
+    "v": "alta",
+    "n": "Es trabajo de la junta y cuesta poco.",
+    "cita": "Desarrollar anualmente programas deportivos, recreativos y juveniles en coordinación con organizaciones locales.",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer cada año espacios de capacitación y venta para productores.",
+    "que": "El plan no dice cuántos espacios ni cuánto costará. Incluye promoción y comercialización.",
+    "v": "alta",
+    "n": "Son ferias y cursos. El plan no dice de dónde sale el dinero.",
+    "cita": "Generar anualmente espacios de capacitación, promoción y comercialización para productores y emprendedores de la parroquia.",
+    "pag": 5
+   },
+   {
+    "t": "Buscar acuerdos con instituciones públicas, privadas y educativas.",
+    "que": "El plan no dice con cuáles instituciones ni para qué. No dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de que otras instituciones acepten.",
+    "cita": "Gestionar convenios con instituciones públicas, privadas y educativas.",
+    "pag": 5
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Promover que la gente separe y maneje bien la basura.",
+    "que": "El plan no dice dónde ni cuándo. Se hará con barrios, escuelas y organizaciones.",
+    "v": "alta",
+    "n": "Es trabajo de la junta y cuesta poco.",
+    "cita": "Promover la clasificación y manejo responsable de residuos.",
+    "pag": 5
+   },
+   {
+    "t": "Hacer campañas ambientales cada año con barrios y escuelas.",
+    "que": "El plan no dice cuánto costará ni qué campañas serán.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es tarea de la junta.",
+    "cita": "Realizar anualmente campañas ambientales con participación de barrios, instituciones educativas y organizaciones de la parroquia.",
+    "pag": 6
+   }
+  ]
+ },
+ "metas": [
+  "Al menos una jornada de diálogo y seguimiento con los sectores cada año.",
+  "Programas deportivos, recreativos y juveniles cada año.",
+  "Espacios de capacitación, promoción y comercialización cada año.",
+  "Campañas ambientales cada año.",
+  "Programas para grupos de atención prioritaria durante todo el período."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Varias obras y la seguridad dependen del Municipio, la Prefectura o la Policía. La junta solo puede gestionarlas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "paginas": 10
+}

@@ -1,0 +1,155 @@
+{
+ "enfoque": "Obras en calles, aceras y parques, semáforos, ciclovías y trámites en línea. Incluye seguridad y capacitación, que no son del Municipio.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Modernizar los semáforos para mejorar el paso de autos y peatones.",
+    "que": "Cambiar la infraestructura de semáforos por sistemas inteligentes de control. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (tránsito). El plan no dice cuánto costará ni en qué plazo.",
+    "cita": "Modernización progresiva de la infraestructura semafórica para mejorar la circulación vehicular y peatonal mediante sistemas inteligentes de control.",
+    "pag": 25
+   },
+   {
+    "t": "Hacer infraestructura para bicicletas y promover su uso en la ciudad.",
+    "que": "El plan habla de infraestructura adecuada para bicicletas y de programas de movilidad activa. No dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (vías y tránsito). El plan no dice dónde ni cuánto costará.",
+    "cita": "Promoción del uso de la bicicleta mediante infraestructura adecuada, programas de movilidad activa y fortalecimiento de la seguridad para ciclistas.",
+    "pag": 26
+   },
+   {
+    "t": "Arreglar aceras y cruces peatonales para que sean accesibles para todos.",
+    "que": "Mejorar aceras, cruces de peatones e infraestructura accesible en el cantón. El plan no dice en qué sectores ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (calles y aceras). El plan no dice dónde ni cuánto costará.",
+    "cita": "Mejoramiento de aceras, cruces peatonales, infraestructura accesible y condiciones de movilidad para todos los usuarios del espacio público.",
+    "pag": 25
+   },
+   {
+    "t": "Hacer educación vial permanente y atender puntos peligrosos de tránsito.",
+    "que": "Dar programas permanentes de educación vial y atender puntos críticos del cantón. El plan no dice cuáles puntos ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (tránsito). El plan no dice cuántos puntos ni cuánto costará.",
+    "cita": "Implementación de programas permanentes de educación vial, prevención de siniestros de tránsito e intervención en puntos críticos del cantón.",
+    "pag": 26
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer mantenimiento preventivo de calles, parques y obras municipales.",
+    "que": "Revisar y reparar antes de que se dañen las vías, parques y equipamientos comunitarios. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (calles y parques). El plan no dice cuánto costará ni con qué dinero.",
+    "cita": "Programa integral de mantenimiento preventivo de vías, parques, equipamientos comunitarios e infraestructura municipal.",
+    "pag": 14
+   },
+   {
+    "t": "Recuperar parques, áreas verdes y espacios recreativos de la ciudad.",
+    "que": "Arreglar y mejorar parques, áreas verdes y espacios para recreación. El plan no dice qué parques ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (parques). El plan no dice qué parques ni cuánto costará.",
+    "cita": "Recuperación y fortalecimiento de parques, áreas verdes y espacios recreativos.",
+    "pag": 23
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Mejorar la iluminación de espacios públicos, parques y zonas escolares.",
+    "que": "Reforzar la luz en espacios públicos, parques, zonas escolares y sectores priorizados. El plan no dice cuántos sectores ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (calles y parques). El plan no dice cuánto costará ni cuándo.",
+    "cita": "Fortalecimiento de la infraestructura de iluminación en espacios públicos, parques, zonas escolares y sectores priorizados.",
+    "pag": 5
+   },
+   {
+    "t": "Usar tecnología, como monitoreo, para apoyar la prevención de la inseguridad.",
+    "que": "El plan incluye un Centro Inteligente de Monitoreo Preventivo y una Plataforma Municipal de Seguridad. El plan no dice cuánto costarán.",
+    "v": "baja",
+    "n": "La policía y la seguridad no son del Municipio. Solo puede apoyar con tecnología.",
+    "cita": "Implementación de herramientas tecnológicas para fortalecer la prevención y mejorar la capacidad de respuesta institucional desde el ámbito de las competencias municipales.",
+    "pag": 14
+   }
+  ],
+  "social": [
+   {
+    "t": "Abrir centros barriales para cursos, deporte, cultura y emprendimiento.",
+    "que": "Usar casas comunales existentes como centros para cursos, deporte, cultura y emprendimiento. El plan no dice cuántos ni cuánto costará.",
+    "v": "media",
+    "n": "Usa casas comunales del Municipio. Los cursos dependen de otros; el plan no dice cuánto costará.",
+    "cita": "Implementación progresiva de una red de Centros de Desarrollo Ciudadano mediante el aprovechamiento de casas comunales e infraestructura comunitaria existente para desarrollar",
+    "pag": 18
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer en línea los principales trámites municipales.",
+    "que": "Digitalizar poco a poco los servicios municipales principales, para reducir tiempos de atención. El plan no dice cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni en qué plazo.",
+    "cita": "Digitalización progresiva de los principales servicios municipales para facilitar el acceso ciudadano y reducir tiempos de atención.",
+    "pag": 27
+   }
+  ]
+ },
+ "metas": [
+  "Implementar una red de Centros de Desarrollo Ciudadano durante el período 2027–2031.",
+  "Año 2027: empezar programas de seguridad preventiva, digitalización de servicios y mantenimiento de infraestructura.",
+  "Año 2028: subir la inversión en infraestructura barrial y movilidad.",
+  "Año 2029: consolidar proyectos de desarrollo económico y transformación digital."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará cada obra ni fija cifras de metas. Dice que usará ingresos propios, transferencias y préstamos.",
+  "Muchas propuestas son ideas de un banco de proyectos; el plan dice que no se ejecutan de inmediato. Algunas no son del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46
+ ],
+ "paginas": 46
+}

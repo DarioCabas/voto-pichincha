@@ -1,0 +1,119 @@
+{
+ "enfoque": "Plan general para Perucho: arreglar caminos junto con la Prefectura, cuidar espacios públicos y el ambiente, y apoyar a productores. No dice cuánto costará.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a los caminos rurales de la parroquia, junto con la Prefectura.",
+    "que": "El plan dice que el mantenimiento se hará entre 2027 y 2031, según la planificación y el presupuesto. No dice cuánto costará ni qué caminos se arreglarán.",
+    "v": "media",
+    "n": "Le toca a la junta, pero necesita acuerdo con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Impulsar progresivamente acciones de mantenimiento de la vialidad parroquial rural, en coordinación con el Gobierno Provincial de Pichincha",
+    "pag": 15
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Dar mantenimiento y mejorar la infraestructura y los espacios públicos de la parroquia.",
+    "que": "El plan dice que este trabajo se hará entre 2027 y 2031. No dice qué espacios se arreglarán ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta. El plan no dice qué espacios se arreglarán ni cuánto costará.",
+    "cita": "Impulsar el mantenimiento y mejoramiento progresivo de la infraestructura y los espacios públicos parroquiales",
+    "pag": 14
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer acciones con vecinos para cuidar la biodiversidad y la naturaleza de la parroquia.",
+    "que": "El plan habla de acciones comunitarias de protección. No dice qué acciones concretas, en qué lugares ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta, con apoyo de vecinos. El plan no dice qué acciones ni cuánto costará.",
+    "cita": "Incentivar acciones comunitarias para la protección de la biodiversidad y el patrimonio natural",
+    "pag": 18
+   }
+  ],
+  "economia": [
+   {
+    "t": "Juntar a los productores y emprendedores de la parroquia en asociaciones.",
+    "que": "El plan dice que se promoverá la organización de productores. No dice cómo se hará, con qué apoyo ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta. El plan no dice cómo lo hará ni con qué apoyo.",
+    "cita": "Promover la organización y asociatividad de productores y emprendedores de la parroquia",
+    "pag": 11
+   },
+   {
+    "t": "Buscar formas de vender mejor los productos de la parroquia.",
+    "que": "El plan habla de buscar mecanismos de venta de productos locales, en coordinación con otras instituciones. No dice cuáles ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdos con otras instituciones. El plan no dice qué mecanismos ni cuánto costará.",
+    "cita": "Impulsar mecanismos de promoción y comercialización de productos locales",
+    "pag": 18
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer mingas, trabajos en común con vecinos, para acciones de interés colectivo.",
+    "que": "Las mingas son trabajos hechos entre vecinos. El plan no dice qué obras se harán con mingas ni cuándo.",
+    "v": "alta",
+    "n": "Le toca a la junta: organizar a la comunidad. El plan no dice qué obras ni cuándo.",
+    "cita": "Impulsar la participación comunitaria y las mingas para el desarrollo de acciones de interés colectivo",
+    "pag": 21
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Rendir cuentas cada año y entregar informes periódicos sobre el avance del plan.",
+    "que": "El plan dice que habrá rendición anual de cuentas en el período 2027–2031. No dice cómo ni dónde se entregarán los informes.",
+    "v": "alta",
+    "n": "Le toca a la junta. El plan no dice cómo ni dónde se entregarán los informes.",
+    "cita": "Rendición anual de cuentas e informes periódicos sobre el avance del Plan de Trabajo",
+    "pag": 24
+   },
+   {
+    "t": "Revisar el avance de las obras y servicios públicos que se hacen en la parroquia.",
+    "que": "El plan dice que se vigilará la ejecución de obras y servicios en la parroquia. No dice cómo lo hará ni con qué recursos.",
+    "v": "alta",
+    "n": "Es competencia de la junta. El plan no dice cómo lo hará ni con qué recursos.",
+    "cita": "Fortalecer la vigilancia y seguimiento de las obras y servicios públicos que se desarrollen en la parroquia",
+    "pag": 15
+   }
+  ]
+ },
+ "metas": [
+  "Todas las acciones del plan se harán durante 2027–2031.",
+  "Rendición anual de cuentas durante el período 2027–2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna acción ni de dónde saldrá el dinero; solo habla de disponibilidad presupuestaria.",
+  "Mucho texto es diagnóstico general de Quito rural. El cierre dice '[Nombre de la Parroquia]' sin llenar."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26
+ ],
+ "paginas": 26
+}

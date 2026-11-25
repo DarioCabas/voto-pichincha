@@ -1,0 +1,129 @@
+{
+ "enfoque": "Plan único para los cinco candidatos de la lista: seguridad, árboles, ferias, mingas y talleres. Varios temas no son del cargo de vocal.",
+ "tabla": {
+  "seguridad": [
+   {
+    "t": "Instalar cámaras de vigilancia en la parroquia, conectadas al monitoreo del cantón.",
+    "que": "Los puntos se conectarían a los centros de monitoreo del cantón o a servicios de emergencia. El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio. El plan no dice quién pagará las cámaras.",
+    "cita": "Instalar puntos de videovigilancia parroquial conectados a los centros de monitoreo cantonal o servicios de emergencia.",
+    "pag": 9
+   },
+   {
+    "t": "Poner alarmas comunitarias y chats de seguridad en los barrios.",
+    "que": "Las alarmas y chats se coordinarían con todos los barrios y estarían enlazados con la Policía Nacional. El plan no dice cuánto cuesta.",
+    "v": "media",
+    "n": "Organizar a los vecinos sí. Enlazarlo con la Policía no le toca a la junta.",
+    "cita": "implementar alarmas comunitarias y chats de seguridad articulados y coordinados",
+    "pag": 9
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Poner luz en parques, plazas y paradas de buses.",
+    "que": "El plan no dice en qué parques ni cuántas luces. Tampoco dice cuánto costará ni quién pagará la luz.",
+    "v": "media",
+    "n": "Los parques sí le tocan. Las paradas de buses pueden necesitar al Municipio.",
+    "cita": "Recuperación de espacios: Iluminar parques, plazas y paradas de buses.",
+    "pag": 9
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Plantar árboles nativos en las cuencas de la parroquia.",
+    "que": "Se usarían especies nativas como aliso y yagual en las cuencas locales. El plan no dice cuántos árboles ni cuánto costará.",
+    "v": "alta",
+    "n": "Cuidar el ambiente sí le toca a la junta. El plan no dice cuántos árboles ni cuándo.",
+    "cita": "Reforestar las cuencas hidrográficas locales con especies nativas",
+    "pag": 11
+   },
+   {
+    "t": "Hacer un proyecto de reciclaje y de abono con restos orgánicos del campo.",
+    "que": "Sería un proyecto comunitario de reciclaje y de compostaje (abono hecho con restos orgánicos). El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "La basura le toca al Municipio. El plan no dice cómo se hará ni cuánto cuesta.",
+    "cita": "Proyecto de reciclaje comunitario y compostaje de desechos orgánicos agrícolas.",
+    "pag": 11
+   }
+  ],
+  "economia": [
+   {
+    "t": "Abrir un centro de acopio para vender la producción sin intermediarios.",
+    "que": "Sería un lugar parroquial donde se juntan productos para venderlos directo. El plan no dice dónde estará ni cuánto costará.",
+    "v": "media",
+    "n": "Apoyar a productores sí le toca. Necesita local y dinero que el plan no explica.",
+    "cita": "Implementar un centro de acopio parroquial para evitar intermediarios comerciales.",
+    "pag": 11
+   },
+   {
+    "t": "Organizar una feria semanal para vender directo del productor al consumidor.",
+    "que": "La feria sería la \"Feria Parroquial Solidaria\", cada semana. El plan no dice dónde se haría ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar ferias sí le toca a la junta. El plan no dice en qué lugar se haría.",
+    "cita": "para la venta directa del productor al consumidor",
+    "pag": 11
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Gestionar con la Prefectura el asfaltado de las vías principales.",
+    "que": "La junta pediría la obra a la Prefectura de Pichincha. El plan no dice qué vías ni cuándo, ni quién pagará.",
+    "v": "media",
+    "n": "Le toca a la Prefectura. La junta solo puede pedirlo. Sin acuerdo no se hace.",
+    "cita": "Gestionar de forma urgente con la Prefectura de Pichincha",
+    "pag": 13
+   },
+   {
+    "t": "Hacer mingas viales para limpiar cunetas y tapar baches con lastre (piedra suelta).",
+    "que": "Las mingas son trabajos hechos entre vecinos. El plan también quiere comprar maquinaria, pero no dice cuánto cuesta.",
+    "v": "alta",
+    "n": "Las mingas sí le tocan a la junta. El plan no dice cuánto costará la maquinaria.",
+    "cita": "para limpieza de cunetas y bacheo en lastre",
+    "pag": 13
+   }
+  ],
+  "social": [
+   {
+    "t": "Abrir talleres gratuitos de danza, música y artesanías para niños.",
+    "que": "Serían talleres permanentes y gratuitos para niños. El plan no dice dónde se darán ni quién los dará.",
+    "v": "alta",
+    "n": "Cursos y talleres sí le tocan a la junta. El plan no dice dónde ni cuánto cuesta.",
+    "cita": "Fundar talleres permanentes y gratuitos de danza folclórica, música tradicional y artesanías para niños.",
+    "pag": 13
+   }
+  ]
+ },
+ "metas": [
+  "Feria Parroquial Solidaria cada semana.",
+  "Campamentos deportivos y recreativos cada año, en vacaciones escolares.",
+  "Informe de rendición de cuentas cada año, en audiencia pública.",
+  "Período de gestión 2027-2031."
+ ],
+ "notas": [
+  "Es un plan único para los cinco candidatos de la lista. Incluye temas que no son del cargo, como la Policía Nacional y las cámaras del Municipio.",
+  "El plan casi no dice cuánto costará cada propuesta ni de dónde saldrá el dinero. Solo dice que el presupuesto es limitado."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "paginas": 18
+}

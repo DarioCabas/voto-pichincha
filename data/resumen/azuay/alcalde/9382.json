@@ -1,0 +1,95 @@
+{
+ "enfoque": "Plan de concejales de San Fernando (Azuay), no del alcalde de Nabón: vigilar obras, aprobar ordenanzas y seguir proyectos de agua, basura y parques.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Promover una ordenanza con sanciones para quienes provoquen incendios forestales.",
+    "que": "El plan no dice cuánto costará ni cuándo. Se haría en coordinación con las entidades pertinentes.",
+    "v": "media",
+    "n": "La ordenanza la aprueba el Concejo. El plan no dice cuándo.",
+    "cita": "una ordenanza que regule procedimientos y establezca sanciones a quienes produjeran incendios forestales",
+    "pag": 3
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Dar seguimiento a la planta de tratamiento de aguas residuales, etapa por etapa.",
+    "que": "El plan no dice cuánto costará ni en qué plazo se construirá. Solo pide revisar y seguir las etapas.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará ni cuándo.",
+    "cita": "Realizar el análisis previo y dar seguimiento oportuno a las actividades propuestas para la ejecución por etapas",
+    "pag": 4
+   },
+   {
+    "t": "Vigilar que se cumplan los proyectos municipales de basura (residuos sólidos).",
+    "que": "El plan no dice cuánto costará ni cuándo. Es un trabajo de control, no de obra.",
+    "v": "alta",
+    "n": "La basura es competencia municipal. El concejal solo vigila.",
+    "cita": "Fiscalizar el cumplimiento de las políticas y proyectos municipales relacionados con la gestión de residuos sólidos",
+    "pag": 4
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Aprobar proyectos para mantener y mejorar parques, áreas verdes y espacios públicos.",
+    "que": "El plan no dice qué parques ni cuánto costará. Tampoco dice cuándo se haría.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "para el mantenimiento y mejoramiento de áreas verdes, parques y espacios públicos",
+    "pag": 3
+   },
+   {
+    "t": "Apoyar mejoras de las vías urbanas y rurales del cantón.",
+    "que": "El plan no dice qué calles ni cuánto costará. Tampoco dice cuándo.",
+    "v": "media",
+    "n": "Las decisiones son generales. El plan no dice qué vías ni cuándo.",
+    "cita": "las decisiones adecuadas para el mejoramiento de la vialidad urbana y rural",
+    "pag": 3
+   },
+   {
+    "t": "Apoyar un plan integral de vías para dar más seguridad vial en el cantón.",
+    "que": "El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el plan no dice cómo se pagará.",
+    "cita": "Respaldar a la administración municipal en la ejecución de un Plan integral vial",
+    "pag": 3
+   },
+   {
+    "t": "Aprobar y vigilar el complejo deportivo y turístico del Parque Chaupiuco.",
+    "que": "El plan no dice cuánto costará ni cuándo se terminaría. Solo pide aprobarlo y vigilarlo.",
+    "v": "media",
+    "n": "Parque es competencia municipal. El plan no dice cuánto costará.",
+    "cita": "Aprobar y fiscalizar el proyecto para la implementación del Complejo Deportivo, Recreativo y Turístico del Parque Chaupiuco",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Promover ferias productivas, agropecuarias, artesanales y gastronómicas.",
+    "que": "El plan no dice dónde, cuándo ni cuánto costará. Lo harían los departamentos municipales.",
+    "v": "media",
+    "n": "Puede hacerlo el Municipio, pero depende del presupuesto.",
+    "cita": "para la realización de ferias productivas, agropecuarias, artesanales y gastronómicas",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [
+  "Informe público cada año sobre las actividades del concejo.",
+  "Evaluación anual del avance de las propuestas del plan."
+ ],
+ "notas": [
+  "El plan es de concejales de San Fernando (Azuay), no del alcalde de Nabón. Revise que sea el documento correcto.",
+  "El nombre Armando Carrión no aparece en el texto. El plan no dice costos ni plazos para sus propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "paginas": 6
+}

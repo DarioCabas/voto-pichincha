@@ -1,0 +1,142 @@
+{
+ "enfoque": "Propone arreglar agua, alcantarillado, basura, calles y parques. Muchas acciones son estudios previos y el plan no dice cuánto costarán.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Revisar el sistema de agua potable del centro cantonal: pérdidas, tuberías y tanques.",
+    "que": "Revisará pérdidas de agua, cortes, tuberías, tanques y conexiones sin permiso. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Es un estudio técnico; el plan no dice cuánto cuesta.",
+    "cita": "Realizar una evaluación técnica integral del sistema de agua potable del centro cantonal",
+    "pag": 15
+   },
+   {
+    "t": "Ampliar el alcantarillado y el agua potable a más barrios y comunidades.",
+    "que": "Se hará poco a poco, según estudios y fuentes de dinero identificadas. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero necesita dinero de créditos u otras fuentes.",
+    "cita": "ampliar progresivamente la cobertura de alcantarillado y agua potable en barrios, cabeceras parroquiales, comunidades consolidadas y sectores prioritarios",
+    "pag": 16
+   },
+   {
+    "t": "Hacer un programa de basura con rutas, más cobertura, reciclaje y menos puntos de acumulación.",
+    "que": "Incluye revisar rutas y frecuencias, ampliar la cobertura, reciclar y reducir los puntos donde se acumula basura. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto cuesta ni en qué plazo.",
+    "cita": "Se desarrollar un programa de gestión integral de residuos sólidos que comprenda",
+    "pag": 18
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar y mantener las calles urbanas de la cabecera cantonal, con un plan hasta 2031.",
+    "que": "Incluye construir, poner señales y dar mantenimiento. Se hará según el presupuesto municipal. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Depende de su presupuesto; el plan no dice cuánto.",
+    "cita": "Se programará la construcción, implementación de señalización, rehabilitación y mantenimiento de las vías urbanas de la cabecera cantonal",
+    "pag": 21
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar parques, canchas y espacios abandonados en el cantón.",
+    "que": "Dice que se priorizarán espacios con poca luz, basura o consumo de alcohol. El plan no dice cuántos ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan dice que depende de su capacidad económica.",
+    "cita": "Implementar un programa de recuperación integral, considerando siempre la capacidad",
+    "pag": 26
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Poner más cámaras de vigilancia en puntos peligrosos.",
+    "que": "Las cámaras se ampliarán poco a poco, según necesidad y presupuesto. El plan no dice cuántas ni cuánto costarán.",
+    "v": "baja",
+    "n": "La seguridad le toca a la Policía; el Municipio solo ayuda con control.",
+    "cita": "Ampliar progresivamente la videovigilancia en puntos críticos, siempre que su instalación",
+    "pag": 16
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer de los mercados municipales centros de venta de productos locales.",
+    "que": "El plan incluye ferias permanentes. No dice qué mercados se arreglarán ni cuánto costará.",
+    "v": "alta",
+    "n": "Los mercados son competencia municipal, pero el plan no dice cuánto cuesta.",
+    "cita": "Fortalecer los mercados municipales como centros de abastecimiento, comercialización, encuentro ciudadano y promoción de la producción local",
+    "pag": 22
+   },
+   {
+    "t": "Crear una estrategia para vender lo que producen artesanos y productores locales.",
+    "que": "Busca que los productos tengan oferta permanente. El plan no dice cuánto costará ni cuándo estará lista.",
+    "v": "media",
+    "n": "Puede impulsarlo, pero depende de otros. El plan no dice cuánto cuesta.",
+    "cita": "Desarrollar una estrategia cantonal de comercialización que permita a productores, artesanos y emprendedores mantener una oferta permanente",
+    "pag": 22
+   }
+  ],
+  "social": [
+   {
+    "t": "Apoyar el arreglo de escuelas y centros de salud, solo con convenios.",
+    "que": "Solo se hará con autorización y convenios con los ministerios de Educación y de Salud. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "Escuelas y salud no son del Municipio; dependen de los ministerios.",
+    "cita": "Apoyar el mantenimiento o mejoramiento de infraestructura educativa y sanitaria",
+    "pag": 28
+   }
+  ]
+ },
+ "metas": [
+  "Plan de mantenimiento de calles urbanas para 2027–2031.",
+  "Meta 2031: reducir de forma medible las vías municipales en mal estado. El plan no da cifra.",
+  "Meta 2031: contar con mantenimiento programado de calles en todas las cabeceras parroquiales."
+ ],
+ "notas": [
+  "Gran parte del diagnóstico viene del plan de desarrollo del cantón. Muchas acciones son estudios que se harán antes de obras.",
+  "El plan no da costos por obra ni dice de dónde saldrá el dinero exacto; casi todo depende de presupuesto, créditos o convenios."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40
+ ],
+ "paginas": 40
+}

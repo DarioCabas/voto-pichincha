@@ -1,0 +1,134 @@
+{
+ "enfoque": "Plan copiado del plan de desarrollo de la parroquia: caminos, producción, turismo, ambiente y organización. Varias obras dependen de la Prefectura o del Municipio.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer mantenimiento y mejoras a caminos y vías rurales, junto con la Prefectura.",
+    "que": "El plan menciona caminos en La Unión, San Antonio, Cruz Pamba, Gobernador, La Comuna, San Pablo, El Cascajo, La Moca y El Zuro. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Gestionar y ejecutar progresivamente acciones de mantenimiento y mejoramiento de la vialidad parroquial rural, en coordinación con el GAD Provincial de Pichincha.",
+    "pag": 13
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar y cuidar parques y espacios públicos de la parroquia, según prioridades y presupuesto.",
+    "que": "El plan habla de cuidar la infraestructura y los espacios públicos parroquiales según prioridades ciudadanas y presupuesto. El plan no dice qué espacios ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta. El plan no dice qué espacios ni cuánto costará.",
+    "cita": "Fortalecer progresivamente la infraestructura, equipamientos y espacios públicos de competencia parroquial, conforme a planificación, prioridades ciudadanas y disponibilidad presupuestaria.",
+    "pag": 13
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Plantar árboles y recuperar zonas degradadas en sectores priorizados de la parroquia.",
+    "que": "El plan propone reforestación y restauración ambiental en sectores priorizados, sin decir cuáles. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Cuidar el ambiente le toca a la junta. El plan no dice dónde ni cuánto costará.",
+    "cita": "Impulsar progresivamente acciones de reforestación, restauración y recuperación ambiental en sectores priorizados de la parroquia.",
+    "pag": 12
+   },
+   {
+    "t": "Cuidar fuentes de agua, quebradas y ecosistemas con participación de la comunidad.",
+    "que": "El plan propone proteger fuentes de agua, quebradas y ecosistemas, con participación comunitaria y apoyo de otras instituciones. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Cuidar el ambiente y organizar a la comunidad sí le toca. El plan no dice cuánto costará.",
+    "cita": "Promover acciones de conservación, protección y recuperación de fuentes hídricas, quebradas y ecosistemas naturales mediante participación comunitaria y articulación institucional.",
+    "pag": 12
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar capacitación y asistencia técnica a productores agrícolas y ganaderos.",
+    "que": "El plan propone capacitación, asistencia técnica y asociarse entre productores, con apoyo de otras instituciones. El plan no dice cuántos cursos ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar cursos y apoyar productores sí le toca. El plan no dice cuánto costará.",
+    "cita": "Fortalecer las capacidades de los productores agrícolas y ganaderos mediante capacitación, asistencia técnica, asociatividad y articulación con las instituciones competentes.",
+    "pag": 12
+   },
+   {
+    "t": "Ayudar a productores y emprendedores a vender en ferias y otros espacios.",
+    "que": "El plan busca que productores y emprendedores tengan acceso a ferias y espacios de venta, de forma progresiva. El plan no dice cuántas ferias ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar ferias y apoyar productores le toca a la junta.",
+    "cita": "Promover mecanismos de organización y articulación que faciliten progresivamente el acceso de productores y emprendedores a espacios de promoción y comercialización.",
+    "pag": 13
+   },
+   {
+    "t": "Armar rutas turísticas rurales, con guías locales y festivales.",
+    "que": "El plan ya propone rutas turísticas rurales, turismo comunitario, guías locales, festivales gastronómicos y culturales y promoción digital. El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio o la Prefectura. El plan no dice cuánto costará.",
+    "cita": "El documento inicial ya plantea rutas turísticas rurales, turismo comunitario, guías locales, festivales gastronómicos y culturales y promoción digital.",
+    "pag": 16
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar actividades deportivas, culturales y recreativas para toda la parroquia.",
+    "que": "El plan propone actividades deportivas, recreativas, culturales y comunitarias para la población. El plan no dice cuántas ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar actividades para la comunidad le toca a la junta.",
+    "cita": "Promover actividades deportivas, recreativas, culturales y comunitarias que fortalezcan la integración y participación de la población.",
+    "pag": 12
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Rendir cuentas al público cada año y al final del periodo.",
+    "que": "El plan prevé informar cada año sobre resultados, avances y presupuesto, y publicar la información. El plan no dice cómo se hará ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta. El plan no dice cuánto costará.",
+    "cita": "El GAD Parroquial Rural de Rumipamba implementará mecanismos públicos y periódicos que permitan a la ciudadanía conocer el avance del Plan de Trabajo",
+    "pag": 2
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir al Municipio que atienda agua potable, alcantarillado y saneamiento.",
+    "que": "La junta gestionará y dará seguimiento ante el Municipio, que es quien ejecuta. El plan no dice cuándo ni cuánto costará.",
+    "v": "baja",
+    "n": "Le toca al Municipio, no a la junta.",
+    "cita": "Gestionar y dar seguimiento ante el GAD Municipal de Rumiñahui a la atención progresiva de las necesidades priorizadas de agua potable, alcantarillado y saneamiento.",
+    "pag": 13
+   }
+  ]
+ },
+ "metas": [
+  "Rendir cuentas cada año entre 2027 y 2031, y una rendición final al terminar el periodo.",
+  "Ejecutar o gestionar cada año las acciones priorizadas de vialidad, ambiente y turismo. El plan no pone cifras."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero exacto; solo menciona fuentes en general.",
+  "Mucho del texto es copia del plan de desarrollo de la parroquia y del cantón. Varias obras dependen de la Prefectura o el Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23
+ ],
+ "paginas": 23
+}

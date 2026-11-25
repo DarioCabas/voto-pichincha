@@ -1,0 +1,150 @@
+{
+ "enfoque": "Agua, alcantarillado, caminos rurales, basura y alertas contra inundaciones. Mucho texto copia el plan de desarrollo del cantón.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar el agua potable y el alcantarillado (tubería de desagüe) en el cantón.",
+    "que": "Agua: de 56,2% a 80% de cobertura (rural de 44,3% a 70%). Alcantarillado: de 21,3% a 45%. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Construcción y mantenimiento de sistemas de agua potable y alcantarillado (redes rurales y urbanas)",
+    "pag": 26
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar el 70% de los caminos rurales que están en mal estado.",
+    "que": "Incluye lastrado (poner material en el camino), mantenimiento y bacheo, con maquinaria municipal. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Los caminos vecinales son del Municipio; trabaja con la Prefectura.",
+    "cita": "interviniendo el 70% de vías rurales que se encuentran en mal estado (lastrado, mantenimiento, bacheo), con maquinaria municipal y",
+    "pag": 33
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Prohibir nuevas casas en zonas que se inundan o son inestables.",
+    "que": "Se hará con el control del uso del suelo. El plan no dice cómo se vigilará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: el uso del suelo es su competencia.",
+    "cita": "áreas inundables o inestables, mediante el control del uso del suelo",
+    "pag": 32
+   },
+   {
+    "t": "Crear centros de acopio municipales y ordenar los mercados locales.",
+    "que": "Centros de acopio: lugares para juntar y guardar la producción. El plan no dice dónde se harán ni cuánto costarán.",
+    "v": "alta",
+    "n": "Mercados y acopio son competencia municipal.",
+    "cita": "Creación de centros de acopio municipales y regulación de mercados locales.",
+    "pag": 25
+   },
+   {
+    "t": "Modernizar el alumbrado público con luces LED y reducir los cortes en invierno.",
+    "que": "El plan habla de eficiencia en las luces y de cortes de luz en época de invierno. El plan no dice cuántas luces ni cuánto costará.",
+    "v": "media",
+    "n": "El Municipio maneja las luces; la electricidad la da una empresa estatal.",
+    "cita": "en coordinación con CNEL EP, para reducir las interrupciones en época invernal y mejorar la seguridad ciudadana.",
+    "pag": 8
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer un sistema de basura con reciclaje y compostaje, y cerrar el basurero a cielo abierto.",
+    "que": "Hoy la basura va a un botadero a cielo abierto sin control. El plan no dice cuánto costará ni en qué año se cierra.",
+    "v": "alta",
+    "n": "Le toca al Municipio: la basura es su competencia.",
+    "cita": "Implementar un sistema integral de residuos sólidos (actual botadero a cielo abierto), en",
+    "pag": 32
+   },
+   {
+    "t": "Instalar alerta temprana en 18 comunidades, con planes para emergencias en todas las parroquias.",
+    "que": "Con planes de contingencia participativos (qué hacer en una emergencia, hechos con la gente). El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Puede hacerlo el Municipio, pero las alertas dependen del Gobierno Nacional.",
+    "cita": "de alerta temprana en 18 comunidades con planes de contingencia participativos en todas las",
+    "pag": 25
+   },
+   {
+    "t": "Reubicar a familias que viven en zonas de alto riesgo que no se pueden arreglar.",
+    "que": "Con bonos o casas de la entidad nacional de vivienda. El plan no dice cuántas familias ni en qué año.",
+    "v": "media",
+    "n": "Depende de bonos y casas que entrega el Gobierno Nacional.",
+    "cita": "Reubicar progresivamente a las familias asentadas en zonas de alto riesgo no mitigable",
+    "pag": 32
+   }
+  ],
+  "economia": [
+   {
+    "t": "Poner señalización y miradores turísticos, y hacer campañas de promoción.",
+    "que": "La meta dice 90% de visitantes en temporada de guayacanes; la tabla de metas dice 4.000 visitantes. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Señales y miradores sí; la promoción nacional y los hoteles dependen de otros.",
+    "cita": "infraestructura básica (señalización, miradores, hospedaje) y campañas de promoción con",
+    "pag": 32
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Dejar el 5% de la inversión para obras que elija la ciudadanía en asambleas.",
+    "que": "Cada año habrá asambleas en cada parroquia y recinto para elegir proyectos. El plan no dice cuánto dinero es ese 5%.",
+    "v": "alta",
+    "n": "Lo maneja el Municipio con su propio presupuesto.",
+    "cita": "Presupuesto participativo anual: asignación del 5% de la inversión a proyectos priorizados por la",
+    "pag": 33
+   }
+  ]
+ },
+ "metas": [
+  "Cobertura de agua potable: de 56,2% a 80% hasta 2031.",
+  "Cobertura de alcantarillado: de 21,3% a 45% hasta 2031.",
+  "Hectáreas reforestadas: de 0 a 200 hasta 2031.",
+  "Comunidades con alerta temprana: de 0 a 18 hasta 2031.",
+  "Desnutrición crónica infantil en niños: de 24% a 15% hasta 2031."
+ ],
+ "notas": [
+  "El plan no pone montos en dólares por obra: la columna de costo solo tiene porcentajes.",
+  "Mucho texto copia el plan de desarrollo del cantón. Salud, escuelas y policía no son del alcalde.",
+  "Plan muy largo (55 págs.): se resumieron las 37 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  2,
+  4,
+  8,
+  9,
+  13,
+  19,
+  22,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  53,
+  55
+ ],
+ "paginas": 55
+}

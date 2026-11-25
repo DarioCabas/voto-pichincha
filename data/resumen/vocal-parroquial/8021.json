@@ -1,0 +1,112 @@
+{
+ "enfoque": "Propone cuidar bosques y quebradas, ferias y cursos para emprendedores, y pedir más salud y servicios al Estado. Parece copiado de otro lugar: menciona Pastaza.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Sembrar árboles y hacer campañas de buenas prácticas ambientales.",
+    "que": "El plan no dice dónde, cuántos árboles ni cuánto costará. Tampoco dice quién lo pagará.",
+    "v": "alta",
+    "n": "Plantar y hacer campañas lo puede organizar la junta con la comunidad.",
+    "cita": "reforestación, arborización, campaña de sensibilización de buenas prácticas ambientales",
+    "pag": 3
+   },
+   {
+    "t": "Vigilar las actividades que sacan recursos del suelo, junto con las autoridades cantonales.",
+    "que": "El plan dice que se hará en coordinación con las autoridades cantonales y la comunidad. No dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca a las autoridades cantonales. La junta solo puede coordinar.",
+    "cita": "mediante la fiscalización y control de actividades extractivas, el manejo sostenible del suelo",
+    "pag": 4
+   },
+   {
+    "t": "Organizar brigadas de vecinos y planes de emergencia por barrio.",
+    "que": "El plan no dice cuántas brigadas, en qué barrios ni cuánto costará. Incluye incendios forestales y deslizamientos de tierra.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es tarea de la junta. El plan no dice el costo.",
+    "cita": "fortaleciendo las brigadas comunitarias, los planes de emergencia barriales y la protección de zonas de riesgo",
+    "pag": 4
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias permanentes para vender lo que producen los emprendedores locales.",
+    "que": "El plan no dice dónde ni cuándo serán las ferias, ni cuánto costarán.",
+    "v": "alta",
+    "n": "Las ferias son tarea de la junta. El plan no dice el lugar ni el costo.",
+    "cita": "de buenas prácticas comerciales y la gestión de espacios dignos y seguros a través de ferias",
+    "pag": 3
+   },
+   {
+    "t": "Dar cursos de publicidad en internet a los emprendedores locales.",
+    "que": "El plan no dice cuándo serán los cursos ni cuánto costarán.",
+    "v": "alta",
+    "n": "Los cursos son tarea de la junta. El plan no dice cuánto cuestan.",
+    "cita": "Brindar soporte y capacitación en la creación de contenido estratégico y marketing digital para",
+    "pag": 3
+   }
+  ],
+  "social": [
+   {
+    "t": "Explicar a la comunidad en qué se gasta el presupuesto de la parroquia.",
+    "que": "El plan no dice cada cuánto ni dónde se hará. Busca que la gente participe en decidir en qué se usa el dinero.",
+    "v": "alta",
+    "n": "Es una reunión o charla pública. Cuesta poco.",
+    "cita": "Socializar de manera clara y detallada el presupuesto parroquial, explicando las asignaciones",
+    "pag": 5
+   },
+   {
+    "t": "Crear programas de participación para niños, jóvenes, mujeres y personas mayores.",
+    "que": "El plan no dice qué programas ni cuánto costarán. Están dirigidos a niños, jóvenes, mujeres y personas de la tercera edad.",
+    "v": "media",
+    "n": "Los programas necesitan dinero o apoyo. El plan no dice de dónde saldrá.",
+    "cita": "Implementar programas de inclusión social y participación, orientados a niños, jóvenes, mujeres",
+    "pag": 3
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir al Estado más atención en el centro de salud de la parroquia.",
+    "que": "El plan dice que se fortalecerá el centro de salud, con campañas de vacunación y visitas a pacientes. No dice cuánto costará.",
+    "v": "baja",
+    "n": "La salud no le toca a la junta. Le toca al Estado.",
+    "cita": "Fortalecer el sistema de salud en la Parroquia, que es atendida por centros de salud pública y",
+    "pag": 3
+   },
+   {
+    "t": "Pedir al Estado servicios básicos y sociales para la parroquia.",
+    "que": "El plan no dice qué servicios ni cuándo llegarán. Habla de ampliar y mejorar el acceso a ellos.",
+    "v": "baja",
+    "n": "Agua y servicios básicos le tocan a otro nivel, no a la junta.",
+    "cita": "Gestionar y articular acciones interinstitucionales con las entidades competentes del Estado para",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Buscar acuerdos con instituciones públicas y privadas para traer recursos.",
+    "que": "El plan no dice con quién ni cuánto dinero se conseguirá. Habla de ejecutar proyectos de desarrollo.",
+    "v": "media",
+    "n": "Necesita acuerdos con otras instituciones. El plan no dice cuáles.",
+    "cita": "Gestionar alianzas estratégicas y mecanismos de cooperación con instituciones públicas, privadas,",
+    "pag": 4
+   }
+  ]
+ },
+ "metas": [
+  "El plan cubre el periodo 2027 a 2031."
+ ],
+ "notas": [
+  "El plan parece copiado: menciona Pastaza y su diagnóstico es de la parroquia, no de un trabajo de la junta.",
+  "El plan no dice cuánto cuesta ninguna propuesta ni de dónde saldrá el dinero. No habla de caminos ni parques."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "paginas": 6
+}

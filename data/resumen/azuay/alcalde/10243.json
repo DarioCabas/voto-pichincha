@@ -1,0 +1,123 @@
+{
+ "enfoque": "Plan de calles, paso lateral, agua, alcantarillado y basura. Casi todo dice \"gestionar\" o \"concientizar\" y no dice cuánto costará ni cuándo.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Construir un paso lateral para proteger las calles del centro urbano.",
+    "que": "El plan dice que es prioridad construir un paso lateral para evitar la destrucción de las calles del centro. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de conseguir inversión de otras entidades. El plan no dice cuánto costará.",
+    "cita": "destrucción de las calles y por el progreso de Sígsig, es prioridad construir un paso lateral.",
+    "pag": 6
+   },
+   {
+    "t": "Mantener y mejorar las calles de las áreas urbanas.",
+    "que": "El plan dice que se hará en las calles urbanas, con coordinación con parroquias y líderes barriales. No dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Las calles urbanas le tocan al Municipio. El plan no dice cuánto costará.",
+    "cita": "Gestionar el mantenimiento y mejoramiento de las calles de las áreas",
+    "pag": 8
+   },
+   {
+    "t": "Poner asfalto o doble tratamiento a la vía Cutchil - Puente de Ludo.",
+    "que": "El plan propone un convenio con las entidades beneficiarias y un concesionario, y planear con ellas cobros por peajes. No dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de otras entidades y de un concesionario. El plan no dice cuánto costará.",
+    "cita": "Gestión la implementación del doble tratamiento Bituminoso y o asfalto de la",
+    "pag": 9
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Dar materiales y herramientas a las juntas de agua del campo.",
+    "que": "El plan dice que dará materiales y herramientas a las juntas de agua potable de las zonas rurales y periféricas. No dice cuánto costará.",
+    "v": "alta",
+    "n": "El agua potable le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "será nuestra prioridad apoyar y dotar de los materiales y",
+    "pag": 10
+   },
+   {
+    "t": "Ampliar la red de alcantarillado en el área rural.",
+    "que": "El plan dice que hay que tener más red de alcantarillado en el campo, en lugar de pozos sépticos. No dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "El alcantarillado le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "En el área rural, es importante contar con un mayor servicio de red de alcantarillado, es de",
+    "pag": 5
+   },
+   {
+    "t": "Ampliar la recogida de basura y mejorar la separación de desechos.",
+    "que": "El plan dice que ampliará el servicio de recolección y mejorará la separación de residuos. No dice en qué zonas ni cuánto costará.",
+    "v": "alta",
+    "n": "La basura le toca al Municipio. El plan no dice en qué zonas ni cuánto costará.",
+    "cita": "Ampliación del servicio de recolección y mejoramiento en la clasificación",
+    "pag": 15
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Hacer un plan de seguridad con acciones de prevención.",
+    "que": "El plan propone un plan de seguridad con acciones de prevención y unir a instituciones y población. No dice cuánto costará.",
+    "v": "baja",
+    "n": "La policía y la seguridad no le tocan al Municipio. El plan no dice cuánto costará.",
+    "cita": "Construir un plan de seguridad que impulse acciones de prevención,",
+    "pag": 15
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Formar un comité de ciudadanos y medios que vigile las compras municipales.",
+    "que": "El plan dice que un comité con sociedad civil y medios de comunicación vigilará los procesos de contratación. No dice quiénes lo integrarán.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice quiénes lo integrarán ni cuándo.",
+    "cita": "Para lo cual se formará un comité que involucre a la sociedad civil, medios de comunicación, y otros,",
+    "pag": 12
+   }
+  ],
+  "otros": [
+   {
+    "t": "Buscar un terreno y construir un nuevo camal municipal.",
+    "que": "El plan dice que buscará financiamiento para comprar el terreno y construir el camal. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de conseguir financiamiento. El plan no dice cuánto costará.",
+    "cita": "Gestionar un espacio para la construcción de un nuevo camal, Municipal.",
+    "pag": 11
+   },
+   {
+    "t": "Hacer un estudio geológico sobre la falla de Pucala.",
+    "que": "El plan dice que hará un estudio geológico para definir acciones de prevención en la zona de la falla de Pucala. No dice cuánto costará.",
+    "v": "alta",
+    "n": "La prevención de desastres le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "en especial elaborar un estudio geológico para establecer acciones de mitigación ubicadas",
+    "pag": 11
+   }
+  ]
+ },
+ "metas": [
+  "Rendición de cuentas general cada año, según el plan."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni en qué plazo se hará. Muchas propuestas dicen solo \"gestionar\" o \"concientizar\"."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "paginas": 18
+}

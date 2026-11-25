@@ -1,0 +1,128 @@
+{
+ "enfoque": "Plan de toda la parroquia, copiado en parte del plan de desarrollo de Mindo: turismo, vías, agua y ambiente. Casi todo depende de otros niveles de gobierno.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Hacer campañas para reducir, reciclar y reutilizar basura, dirigidas a vecinos y negocios turísticos.",
+    "que": "Campañas permanentes para la población y los prestadores de servicios turísticos. El plan no dice cuánto costará ni cuándo empieza.",
+    "v": "alta",
+    "n": "Charlas y campañas con la comunidad: le toca a la junta. El plan no dice costo.",
+    "cita": "Realizar campañas permanentes de reducción, reciclaje y reutilización dirigidas a la población y a los prestadores de servicios turísticos.",
+    "pag": 16
+   },
+   {
+    "t": "Hacer mingas para limpiar ríos y quebradas de los lugares que visitan los turistas.",
+    "que": "Trabajo comunitario en ríos y quebradas frecuentados por visitantes. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Mingas con vecinos: se puede hacer desde la junta. El plan no dice costo.",
+    "cita": "Impulsar mingas de limpieza en ríos y quebradas, atractivos turísticos frecuentados por visitantes.",
+    "pag": 16
+   },
+   {
+    "t": "Sembrar árboles nativos en orillas de ríos y zonas dañadas, con viveros comunitarios.",
+    "que": "El plan dice que se hará con viveros comunitarios, mingas y apoyo de la Prefectura. No dice costo ni fechas.",
+    "v": "media",
+    "n": "Necesita apoyo de la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Impulsar la reforestación de riberas y zonas degradadas con especies nativas del Chocó Andino.",
+    "pag": 16
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a las vías de tierra y lastre de barrios y recintos, primero en los más alejados.",
+    "que": "Prioriza barrios y recintos con más dispersión de casas. Se haría con mingas y máquinas del Municipio y de la Prefectura. No dice costo.",
+    "v": "media",
+    "n": "Necesita máquinas y acuerdo con la Prefectura y el Municipio. El plan no dice costo.",
+    "cita": "Dar mantenimiento y mejorar las vías internas de lastre (51 % del total) priorizando barrios y recintos con mayor dispersión poblacional.",
+    "pag": 14
+   },
+   {
+    "t": "Pedir a la Prefectura y al Municipio el arreglo periódico de las vías vecinales.",
+    "que": "Vías como Mindo-Nambillo-Río Bravo, Mindo-El Cinto y Mindo-Cunuco. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Lo hacen la Prefectura y el Municipio; la junta solo gestiona. El plan no dice costo.",
+    "cita": "Gestionar ante el GAD provincial y cantonal el mantenimiento periódico de las vías vecinales",
+    "pag": 14
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir al Municipio que más casas tengan agua potable tratada, hoy 58 %.",
+    "que": "El plan dice que la cobertura de agua tratada es de 58 % y que se ampliará. No dice costo ni fechas.",
+    "v": "baja",
+    "n": "Le toca al Municipio, no a la junta. El plan no dice cuándo llegará.",
+    "cita": "Gestionar la ampliación de la cobertura de agua potable tratada, hoy limitada al 58 %",
+    "pag": 15
+   },
+   {
+    "t": "Pedir que más sectores rurales tengan luz eléctrica y alumbrado público.",
+    "que": "Sectores sin luz son el 6 % de la población. El plan habla de un convenio con la empresa eléctrica de Quito. No dice costo.",
+    "v": "baja",
+    "n": "Le toca a la empresa eléctrica, no a la junta. Solo puede pedirlo.",
+    "cita": "Promover el acceso a energía eléctrica y alumbrado público en los sectores rurales",
+    "pag": 15
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar escuelas deportivas y recreativas en barrios y recintos para niños, jóvenes y adultos mayores.",
+    "que": "Se haría con la Liga Parroquial, el Ministerio del Deporte y el Consejo Provincial. El plan no dice costo ni cuándo.",
+    "v": "alta",
+    "n": "Organizar grupos en barrios le toca a la junta. El plan no dice cuánto cuesta.",
+    "cita": "Fomentar escuelas deportivas y recreativas para niños, jóvenes y adultos mayores en los distintos barrios y recintos.",
+    "pag": 17
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Dar mantenimiento a espacios públicos, canchas y áreas recreativas de la parroquia.",
+    "que": "Se haría con mingas y con el Municipio. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Parques y espacios públicos son tarea de la junta. El plan no dice costo.",
+    "cita": "Mejorar y dar mantenimiento a los espacios públicos, canchas y áreas recreativas de la parroquia.",
+    "pag": 17
+   }
+  ],
+  "economia": [
+   {
+    "t": "Organizar ferias periódicas para vender directo lo que producen los agricultores locales.",
+    "que": "Ferias agroecológicas y agroturísticas. El plan no dice cuántas ferias al año ni cuánto costará.",
+    "v": "alta",
+    "n": "Ferias y coordinación con productores: tarea de la junta. El plan no dice costo.",
+    "cita": "Impulsar ferias agroecológicas y agro turísticas periódicas para la comercialización directa de la producción local.",
+    "pag": 15
+   }
+  ]
+ },
+ "metas": [
+  "Rendición de cuentas cada seis meses (semestral) con barrios y recintos.",
+  "Informes anuales de rendición de cuentas y presupuesto participativo."
+ ],
+ "notas": [
+  "Muchas propuestas (agua, luz, vías grandes, policía) no son de la junta. El plan no dice cuánto cuesta ninguna.",
+  "Es el plan de todo el gobierno parroquial, basado en el plan de desarrollo de Mindo, no del cargo de vocal."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19
+ ],
+ "paginas": 19
+}

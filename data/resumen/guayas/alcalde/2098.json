@@ -1,0 +1,153 @@
+{
+ "enfoque": "Propone arreglar calles, agua, drenaje, basura, parques, ferias y programas sociales. No dice cuánto costará ni en qué barrios. Parte del texto parece copiada de otro plan.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Implementar un Plan Cantonal de Vialidad y Movilidad, junto con la Prefectura del Guayas.",
+    "que": "Incluye mantenimiento de calles urbanas en cada año de 2027 a 2031. El plan no dice qué calles ni cuánto costará.",
+    "v": "alta",
+    "n": "Las calles urbanas son del Municipio. Falta el costo.",
+    "cita": "implementar un Plan Cantonal de Vialidad y Movilidad, coordinando las competencias municipales con la Prefectura del Guayas",
+    "pag": 7
+   },
+   {
+    "t": "Arreglar calles, aceras, bordillos y señalización de vías urbanas.",
+    "que": "El plan no dice en qué barrios se hará ni cuánto costará.",
+    "v": "alta",
+    "n": "Calles y aceras son del Municipio. Falta el costo y los lugares.",
+    "cita": "orientado al mantenimiento y mejoramiento de calles, aceras, bordillos, caminos vecinales y señalización",
+    "pag": 12
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Hacer un programa de agua potable y alcantarillado para los sectores con más necesidad.",
+    "que": "El plan dice que se atenderá poco a poco. No dice qué sectores, cuánto costará ni en qué año.",
+    "v": "alta",
+    "n": "El agua y el alcantarillado son del Municipio. Falta el costo.",
+    "cita": "establecer un programa integral de agua potable, alcantarillado y drenaje que permita atender progresivamente los sectores con mayores necesidades",
+    "pag": 6
+   },
+   {
+    "t": "Limpiar y construir sistemas de drenaje para el agua de lluvia.",
+    "que": "Se haría en cada año desde 2027. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "El drenaje es del Municipio. Falta el costo y los lugares.",
+    "cita": "Limpieza, mantenimiento y construcción de sistemas de drenaje",
+    "pag": 14
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Desarrollar el programa El Triunfo Limpio y Verde: basura, reciclaje y árboles.",
+    "que": "Incluye recoger basura, reciclar, limpiar y sembrar árboles. El plan no dice cuánto costará ni en qué zonas.",
+    "v": "alta",
+    "n": "La basura y las áreas verdes son del Municipio. Falta el costo.",
+    "cita": "con énfasis en recolección eficiente, reciclaje, limpieza, arborización y educación ambiental",
+    "pag": 8
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar parques y espacios públicos, con luz y mantenimiento.",
+    "que": "Incluye luces y mantenimiento de espacios públicos cada año. El plan no dice cuántos espacios ni cuánto costará.",
+    "v": "alta",
+    "n": "Parques y luces son del Municipio. La policía no; el plan no la incluye.",
+    "cita": "implementar una política municipal de prevención y recuperación de espacios públicos, articulada con las instituciones responsables de la seguridad",
+    "pag": 9
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer programas y convenios para adultos mayores y personas con discapacidad.",
+    "que": "El plan no dice cuántas personas se beneficiarán ni cuánto costará.",
+    "v": "media",
+    "n": "Depende en parte de convenios con otras instituciones. Falta el costo.",
+    "cita": "desarrollando programas y convenios destinados a personas adultas mayores, personas con discapacidad",
+    "pag": 12
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias para productores, comerciantes y emprendedores de El Triunfo.",
+    "que": "El plan dice que habrá ferias cada año desde 2027. No dice dónde, cuántas ni cuánto costarán.",
+    "v": "alta",
+    "n": "Mercados y ferias son del Municipio. Falta el lugar y el costo.",
+    "cita": "Ferias productivas Ferias para productores, comerciantes y emprendedores locales",
+    "pag": 15
+   },
+   {
+    "t": "Crear la Mesa Cantonal de Desarrollo Agropecuario para coordinar a productores e instituciones.",
+    "que": "La mesa sirve para coordinar. El plan no dice quién paga ni qué obras hará.",
+    "v": "media",
+    "n": "Depende de la Prefectura y del Ministerio de Agricultura. Sin costo.",
+    "cita": "establecer una Mesa Cantonal de Desarrollo Agropecuario para coordinar soluciones entre productores, organizaciones campesinas, instituciones públicas y Gobierno Municipal",
+    "pag": 8
+   }
+  ],
+  "otros": [
+   {
+    "t": "Implementar el modelo Municipio Abierto: asambleas en barrios y presupuesto participativo.",
+    "que": "Incluye información pública, asambleas cada trimestre y control de la gente sobre las obras. El plan no dice costo.",
+    "v": "alta",
+    "n": "Es del Municipio, con su propio presupuesto. Falta el costo.",
+    "cita": "con información pública accesible, asambleas territoriales, presupuesto participativo y seguimiento ciudadano de las obras",
+    "pag": 10
+   }
+  ]
+ },
+ "metas": [
+  "Cuatro informes al año sobre avance del plan, obras y programas.",
+  "Una rendición de cuentas pública cada año.",
+  "Un proceso de presupuesto participativo cada año.",
+  "100 % de proyectos de inversión con ficha técnica.",
+  "Evaluación trimestral de metas y presupuesto."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará casi ninguna propuesta ni en qué barrios. Dice que las metas numéricas se fijarán después.",
+  "Partes del texto son de un plan de concejales y de un borrador con notas para revisar. La policía no es del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39
+ ],
+ "paginas": 39
+}

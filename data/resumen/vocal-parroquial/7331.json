@@ -1,0 +1,130 @@
+{
+ "enfoque": "Plan para producir y vender lo de la parroquia: ferias, capacitación a emprendedores, turismo y ayuda a productores, con apoyo de otras instituciones.",
+ "tabla": {
+  "economia": [
+   {
+    "t": "Crear un registro parroquial de emprendimientos y productores.",
+    "que": "El plan lo pone en el primer año. No dice qué datos se pedirán ni cuánto costará.",
+    "v": "alta",
+    "n": "Es un registro; lo puede hacer la junta.",
+    "cita": "Crear un registro parroquial de emprendimientos y productores.",
+    "pag": 10
+   },
+   {
+    "t": "Crear ferias de productores los fines de semana para vender directo al público.",
+    "que": "Está previsto para el segundo año. El plan no dice dónde se harán ni cuánto costarán.",
+    "v": "alta",
+    "n": "Organizar ferias es trabajo de la junta; el plan no dice el lugar.",
+    "cita": "Crear y fortalecer espacios de comercialización, especialmente ferias comunitarias de fines de semana que permitan al productor vender directamente al consumidor.",
+    "pag": 9
+   },
+   {
+    "t": "Gestionar capital semilla, semillas e insumos para pequeños productores.",
+    "que": "El plan dice que se pedirán a otras instituciones. No dice cuánto dinero habrá ni de dónde saldrá.",
+    "v": "media",
+    "n": "Depende de dinero de otras instituciones. La junta tiene poco presupuesto.",
+    "cita": "Identificar productores, elaborar proyectos, gestionar capital semilla, entregar insumos según proyectos gestionados",
+    "pag": 15
+   },
+   {
+    "t": "Crear rutas turísticas y promocionar fincas y atractivos naturales.",
+    "que": "Iniciar proyectos de turismo agroecológico en el segundo año. El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Promover fincas puede hacerlo la junta; las rutas pueden necesitar otras instituciones.",
+    "cita": "Crear rutas, promocionar fincas y atractivos naturales y culturales",
+    "pag": 9
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Promover reforestación y protección de fuentes de agua.",
+    "que": "El plan no dice dónde, cuánto costará ni cuándo. Solo dice que hay que promover estas prácticas.",
+    "v": "alta",
+    "n": "La junta puede organizar a la comunidad para cuidar el ambiente.",
+    "cita": "protección de fuentes de agua, reforestación",
+    "pag": 8
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar la piscina comunitaria y otros espacios recreativos.",
+    "que": "El plan no dice cuánto costará ni cuándo se hará. Tampoco dice quién la administrará.",
+    "v": "media",
+    "n": "Un espacio de la parroquia sí, pero una piscina es obra grande y el plan no dice el costo.",
+    "cita": "así como recuperar espacios recreativos como la piscina comunitaria",
+    "pag": 8
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Mantener caminos vecinales junto con la Prefectura.",
+    "que": "El plan no dice qué caminos ni cuánto costará. Solo dice que se gestionará el mantenimiento.",
+    "v": "media",
+    "n": "Le toca junto con la Prefectura, no sola. El plan no dice qué caminos.",
+    "cita": "Gestión del mantenimiento vial. Mejoramiento de caminos vecinales. Gestión de conectividad.",
+    "pag": 11
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una rendición de cuentas pública cada año.",
+    "que": "Mostrará obras, proyectos, dinero recibido y convenios firmados. El plan no dice la fecha ni el lugar.",
+    "v": "alta",
+    "n": "Es trabajo propio de la junta.",
+    "cita": "Realizar una rendición de cuentas pública cada año",
+    "pag": 13
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer reuniones periódicas con barrios y comunidades.",
+    "que": "Para escuchar necesidades, elegir proyectos, informar avances y evaluar la gestión. El plan no dice cada cuánto.",
+    "v": "alta",
+    "n": "Reunir a los barrios es trabajo propio de la junta.",
+    "cita": "Realizar reuniones periódicas con los barrios y comunidades",
+    "pag": 13
+   },
+   {
+    "t": "Capacitar a jóvenes con convenios con instituciones educativas.",
+    "que": "El plan no dice cuántos jóvenes se beneficiarán, cuándo ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdos con otras instituciones; la educación no es de la junta.",
+    "cita": "Convenios con instituciones educativas y organismos de capacitación",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Crear o fortalecer 20 emprendimientos durante los 4 años.",
+  "Beneficiar a 50 pequeños productores durante el período de gestión.",
+  "Implementar o fortalecer al menos 10 iniciativas de transformación de productos durante los 4 años."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Muchas propuestas dependen de otras instituciones. El plan incluye agua y saneamiento, que no es competencia de la junta."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20
+ ],
+ "paginas": 20
+}

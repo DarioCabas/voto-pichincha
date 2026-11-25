@@ -1,0 +1,147 @@
+{
+ "enfoque": "Propone agua, alcantarillado, calles, basura y parques en el cantón; también salud, educación y seguridad, que no son del Municipio. No dice cuánto costará.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar el agua potable y el alcantarillado en zonas urbanas y rurales con falta de servicio.",
+    "que": "El plan no dice cuánto costará ni cuántas casas se conectarán. Primero habrá estudios técnicos, luego obras.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice con qué dinero se pagará.",
+    "cita": "Ampliar la cobertura de agua potable y alcantarillado en los sectores urbanos y rurales con déficit.",
+    "pag": 15
+   },
+   {
+    "t": "Arreglar y ampliar las dos plantas de aguas residuales de Santa Elena y Matilde Esther.",
+    "que": "Hoy las plantas funcionan de forma limitada. El plan no dice cuánto costará ni en qué año se harán las obras.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Rehabilitar y ampliar las plantas de tratamiento de aguas residuales de Santa Elena y Matilde Esther.",
+    "pag": 13
+   },
+   {
+    "t": "Renovar los camiones de basura y llevar el servicio con más frecuencia a los recintos rurales.",
+    "que": "Hoy la basura se recoge a diario en el centro y con menos frecuencia en los recintos. El plan no dice cuántos camiones ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. No dice cuántos camiones se comprarán.",
+    "cita": "Renovar el parque de recolectores y ampliar la cobertura del servicio en los recintos rurales.",
+    "pag": 26
+   }
+  ],
+  "economia": [
+   {
+    "t": "Remodelar el mercado municipal y gestionar la construcción de un camal (matadero) municipal.",
+    "que": "El plan dice que el mercado funciona en malas condiciones. No dice cuánto costará ni cuándo se hará.",
+    "v": "media",
+    "n": "El mercado sí es del Municipio; el camal depende de otras entidades y de dinero externo.",
+    "cita": "Remodelar y adecuar el mercado municipal y gestionar la construcción de un camal municipal tecnificado.",
+    "pag": 26
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Gestionar maquinaria para nivelar, adoquinar y asfaltar calles y vías rurales.",
+    "que": "El plan no dice qué calles ni cuánto costará. Las vías rurales también dependen de la Prefectura (gobierno de la provincia).",
+    "v": "media",
+    "n": "Calles urbanas, sí. Las vías rurales dependen de la Prefectura y de dinero externo.",
+    "cita": "Gestionar maquinaria para nivelación, adoquinado y asfaltado de calles urbanas y vías rurales.",
+    "pag": 25
+   },
+   {
+    "t": "Firmar convenios con la Prefectura del Guayas para pavimentar y mantener vías rurales.",
+    "que": "La Prefectura es el gobierno de la provincia. El plan no dice qué vías se harán, cuánto costará ni en qué plazo.",
+    "v": "media",
+    "n": "Depende de otro gobierno; el Municipio solo puede firmar y gestionar.",
+    "cita": "Suscribir convenios interinstitucionales con la Prefectura del Guayas para la pavimentación y el mantenimiento vial rural.",
+    "pag": 25
+   },
+   {
+    "t": "Poner señales, semáforos y pasos peatonales seguros en la cabecera cantonal (centro urbano).",
+    "que": "El plan no dice cuántos semáforos ni cuánto costará. El tránsito sí es competencia municipal.",
+    "v": "alta",
+    "n": "Le toca al Municipio (tránsito). El plan no dice cuánto costará.",
+    "cita": "Implementar señalización, semaforización y pasos peatonales seguros en la cabecera cantonal.",
+    "pag": 25
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar parques, canchas y espacios recreativos en la ciudad y en los recintos.",
+    "que": "El plan no dice cuántos parques ni cuánto costará. Dice que hay pocas actividades y canchas para niños y jóvenes.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni dónde.",
+    "cita": "Rehabilitar parques, canchas de uso múltiple y espacios recreativos en el área urbana y en los recintos.",
+    "pag": 26
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar cámaras de videovigilancia en zonas estratégicas del casco urbano.",
+    "que": "El plan dice que se coordinará con la Policía Nacional. No dice cuántas cámaras ni cuánto costará.",
+    "v": "baja",
+    "n": "Seguridad y policía no son competencia del Municipio.",
+    "cita": "Implementar un centro de videovigilancia y cámaras en las zonas estratégicas del casco urbano.",
+    "pag": 28
+   }
+  ],
+  "social": [
+   {
+    "t": "Gestionar más atención médica e infraestructura de salud en el cantón.",
+    "que": "La salud la dan el Ministerio de Salud y el Seguro Social, no el Municipio. El plan no dice cuántos médicos ni cuánto costará.",
+    "v": "baja",
+    "n": "Le toca al Ministerio de Salud, no al Municipio.",
+    "cita": "Gestionar la ampliación de cobertura médica e infraestructura sanitaria",
+    "pag": 15
+   }
+  ]
+ },
+ "metas": [
+  "Informe de rendición de cuentas ante la Asamblea Ciudadana en los primeros 60 días de cada año.",
+  "Informes de avance cada seis meses (semestrales) ante el Concejo, los concejales del cantón."
+ ],
+ "notas": [
+  "El plan no dice cuánto cuesta ninguna obra ni de dónde saldrá el dinero exacto. Solo lista posibles fuentes.",
+  "Incluye salud, educación y policía, que no son del Municipio. Varias obras dependen de la Prefectura u otro gobierno."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38
+ ],
+ "paginas": 38
+}

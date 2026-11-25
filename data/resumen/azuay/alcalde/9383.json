@@ -1,0 +1,163 @@
+{
+ "enfoque": "Obras de agua, calles, parques y un mercado; muchas dependen de convenios. Varias metas (salud, educación) no le tocan al alcalde. Parte del texto viene del plan de desarrollo del cantón.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Alcanzar 100% de agua potable y 85% de alcantarillado en el cantón.",
+    "que": "El plan pone esa meta para los cuatro periodos (2027 a 2031). El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Agua y alcantarillado le tocan al Municipio. El plan no dice el costo.",
+    "cita": "Alcanzar el 100% de cobertura de agua potable, el 85%",
+    "pag": 46
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Comprar terrenos en el páramo donde están las fuentes de agua.",
+    "que": "Compra de terrenos para proteger las fuentes que abastecen el agua potable. El plan no dice cuántos terrenos ni cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto cuesta ni de dónde sale el dinero.",
+    "cita": "Adquisición de predios en el páramo donde se localicen fuentes hídricas",
+    "pag": 46
+   },
+   {
+    "t": "Pedir que se saque del bosque protector zonas con casas, para legalizar predios.",
+    "que": "Primero haría estudios técnicos y jurídicos. Solo si la ley ambiental lo permite. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de la ley ambiental y de otras entidades, no solo del Municipio.",
+    "cita": "Gestionar la elaboración de estudios técnicos y jurídicos para identificar y solicitar la desvinculación de zonas específicas de bosque protector",
+    "pag": 46
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Pavimentar y ampliar las calles del centro urbano cantonal.",
+    "que": "Obra en el centro de Pucará. El plan no dice qué calles ni cuánto costará. Aparece en los cuatro periodos (2027 a 2031).",
+    "v": "alta",
+    "n": "Las calles le tocan al Municipio. El plan no dice el costo.",
+    "cita": "Ampliación, mejoramiento y pavimentación de las calles del centro urbano cantonal.",
+    "pag": 47
+   },
+   {
+    "t": "Construir parques infantiles en cuatro sectores del cantón.",
+    "que": "Lugares: San Rafael de Zharug, Sarayunga, Cerro Negro y Guarumal. El plan no dice cuánto costará ni cuándo se harán.",
+    "v": "alta",
+    "n": "Los parques le tocan al Municipio. El plan no dice el costo.",
+    "cita": "Gestión y Construcción de parques de recreación infantil en San Rafael de Zharug, Sarayunga, Cerro Negro y Guarumal.",
+    "pag": 45
+   },
+   {
+    "t": "Diseñar y construir un mercado en San Rafael de Sharug.",
+    "que": "El plan no dice cuánto costará ni de dónde saldrá el dinero. Aparece en los cuatro periodos (2027 a 2031).",
+    "v": "alta",
+    "n": "Los mercados le tocan al Municipio. El plan no dice el costo.",
+    "cita": "Diseño y construcción del mercado de San Rafael de Sharug.",
+    "pag": 43
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento permanente a la vía Minas Tablón – Pucará.",
+    "que": "Se haría mediante convenios con otras instituciones. El plan no dice cuánto costará ni cada cuánto se hará el mantenimiento.",
+    "v": "media",
+    "n": "Las vías le tocan al Municipio, pero depende de convenios con otros.",
+    "cita": "Mantenimiento permanente de la vía Minas Tablón – Pucara, mediante convenios de concurrencia.",
+    "pag": 48
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Digitalizar el catastro (registro de terrenos) para cobrar impuestos prediales.",
+    "que": "Sirve para cobrar impuestos de terrenos y casas, ajustados a la realidad. El plan no dice cuánto costará ni cuándo estará listo.",
+    "v": "alta",
+    "n": "El catastro y el cobro de impuestos le tocan al Municipio.",
+    "cita": "Digitalización del catastro para el cobro de impuestos prediales y mejoras, ajustados a la realidad.",
+    "pag": 41
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear un centro de acopio y distribución de productos de las tres zonas del cantón.",
+    "que": "Para vender en mercados local, provincial, nacional e internacional. El plan no dice dónde se ubicará ni cuánto costará.",
+    "v": "media",
+    "n": "Un centro de acopio puede hacerlo el Municipio, pero el plan no dice cómo lo pagará.",
+    "cita": "Creación de centro de acopio y distribución de productos de la zona alta, media y baja",
+    "pag": 39
+   }
+  ],
+  "otros": [
+   {
+    "t": "Gestionar la construcción de un centro de salud tipo B.",
+    "que": "Lo pediría con otras entidades (Ministerio de Salud, instituciones públicas y privadas). El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "La salud no le toca al Municipio; es del Ministerio de Salud.",
+    "cita": "Gestionar recursos, promover convenios para la construcción y operatividad de centro de salud tipo B",
+    "pag": 40
+   }
+  ]
+ },
+ "metas": [
+  "100% de cobertura de agua potable en el cantón (plan 2027-2031).",
+  "85% de cobertura de alcantarillado en el cantón (plan 2027-2031).",
+  "Servicio adicional al público en la municipalidad un domingo de cada mes.",
+  "Impuestos liberados por tres años para el sector privado que invierta en turismo."
+ ],
+ "notas": [
+  "Gran parte del texto es diagnóstico copiado del plan de desarrollo del cantón. Casi no dice cuánto costará cada obra.",
+  "Incluye salud, becas y educación, que no le tocan al alcalde. Muchas acciones dicen 'gestionar', es decir, pedir a otras entidades."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50
+ ],
+ "paginas": 50
+}

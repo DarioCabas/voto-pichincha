@@ -1,0 +1,136 @@
+{
+ "enfoque": "Obras de agua, basura, alcantarillado, vías rurales y parques. Varias dependen de otros niveles de gobierno. Parte del texto viene copiado del plan de desarrollo del cantón.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar y mantener las vías rurales de los recintos y parroquias",
+    "que": "Plazo: 50 km con mantenimiento hasta 2031, beneficiando a 100 familias. Lo hará junto con la Prefectura. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Las vías rurales se comparten con la Prefectura. El Municipio solo puede empujarlas.",
+    "cita": "Gestionar la reconstrucción y mantenimiento de la vialidad rural en los recintos y parroquias",
+    "pag": 12
+   },
+   {
+    "t": "Cobrar 2 dólares a camiones pesados por usar las vías de concreto en Salitre",
+    "que": "Se haría por ordenanza desde el primer año, en la cabecera de Salitre. El plan no dice cuánto dinero se recaudará ni en qué se usará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: las ordenanzas de cobros son su competencia.",
+    "cita": "por el uso de las vías de concreto desde el primer año de gestión",
+    "pag": 12
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Construir un sistema de agua potable para todo el cantón",
+    "que": "Plazo: funcionando al 100% al tercer año. Dinero de la Secretaría del Agua, del Banco de Desarrollo y fondos propios. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de la Secretaría del Agua y del Banco de Desarrollo.",
+    "cita": "Construir el sistema integral de agua potable en el cantón",
+    "pag": 12
+   },
+   {
+    "t": "Conseguir máquinas para perforar pozos profundos en los recintos",
+    "que": "Desde el primer año, junto con las comunidades, para dar agua apta para consumo humano. El plan no dice cuánto costará la máquina.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice de dónde saldrá el dinero.",
+    "cita": "Gestionar la adquisición de maquinarias para la perforación de pozos profundos en los recintos",
+    "pag": 12
+   },
+   {
+    "t": "Llevar al 80% la basura que va a un lugar final adecuado para 2031",
+    "que": "Pasa del 70,3% al 80% de residuos sólidos no peligrosos con disposición final adecuada, con el Ministerio del Ambiente. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero pide ayuda al Ministerio del Ambiente.",
+    "cita": "Incrementar del 70,3% al 80% los residuos sólidos no peligrosos con disposición final adecuada",
+    "pag": 13
+   },
+   {
+    "t": "Construir alcantarillado de aguas lluvias y aguas servidas en la ciudad y recintos",
+    "que": "Meta: 60% de la cabecera y 20% del sector rural al cuarto año. Con la Secretaría del Agua, el Ministerio del Ambiente, Salud y el Banco de Desarrollo. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero necesita apoyo de otras entidades.",
+    "cita": "Implementar el Sistema de alcantarillado Pluvial y Sanitario, asi como las Unidades",
+    "pag": 12
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir un parque lineal desde el recinto La Victoria hasta Salitre",
+    "que": "Se haría con los actores locales para hacer ejercicio y mejorar la salud. El plan no dice cuánto costará ni cuándo estará listo.",
+    "v": "alta",
+    "n": "Los parques son competencia del Municipio. Falta el costo.",
+    "cita": "en alianza con los actores locales, para promover la actividad fisica y mejorar la salud de los ciudadanos",
+    "pag": 12
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Gestionar el servicio de incendios para llegar más rápido a emergencias",
+    "que": "Con el Ministerio de Defensa, bomberos y otros actores. Meta: avanzar 20% en tiempo de respuesta para el cuarto año. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Es tarea municipal, pero depende de Defensa y otros actores.",
+    "cita": "Gestionar los servicios de prevención, protección, socorro y extinción de incendios en el cantón",
+    "pag": 2
+   }
+  ],
+  "otros": [
+   {
+    "t": "Gestionar un centro de diálisis (tratamiento de riñón) en el cantón",
+    "que": "Lo haría con el Ministerio de Salud, ONG y la Prefectura. Funcionando al 100% al tercer año. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "La salud no es del Municipio. Es del Ministerio de Salud.",
+    "cita": "Gestionar la construcción de infraestructura para un centro de diálisis en el territorio",
+    "pag": 13
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear una fábrica de adoquines (piedra para calles) en la cabecera",
+    "que": "Se haría en alianza con actores locales para generar desarrollo. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Fabricar no es competencia del Municipio. Falta el costo.",
+    "cita": "Implementar una fábrica de adoquines en la cabecera cantonal de Salitre",
+    "pag": 12
+   }
+  ]
+ },
+ "metas": [
+  "50 km de vías rurales con mantenimiento hasta 2031, para 100 familias.",
+  "Sistema de agua potable funcionando al 100% al tercer año de gestión.",
+  "Basura con disposición final adecuada: del 70,3% al 80% para 2031.",
+  "Alcantarillado: 60% de la cabecera y 20% del sector rural al cuarto año.",
+  "Servicio de incendios: avanzar 20% en tiempo de respuesta para el cuarto año."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará casi ninguna obra. Muchas metas dependen de la Secretaría del Agua, el Banco de Desarrollo o el Ministerio de Salud.",
+  "Parte del texto viene copiado del plan de desarrollo del cantón. Algunas propuestas son de salud, que no le toca al Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24
+ ],
+ "paginas": 24
+}

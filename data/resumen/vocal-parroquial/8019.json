@@ -1,0 +1,125 @@
+{
+ "enfoque": "Plan general de San Antonio de Pichincha: parques, mingas, ferias, reforestación y cuentas públicas. Casi todo se pide a otras entidades y no dice costos.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Pedir con la Prefectura el mantenimiento y mejoramiento de caminos rurales.",
+    "que": "Se haría junto con el gobierno provincial de Pichincha. El plan no dice dónde, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura. Es competencia compartida con el nivel provincial.",
+    "cita": "Gestionar con el GAD Provincial de Pichincha y entidades competentes el mantenimiento y mejoramiento de vías rurales.",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer proyectos comunitarios de parques, áreas recreativas y espacios deportivos.",
+    "que": "El plan no dice dónde se harían, cuánto costarían ni cuándo.",
+    "v": "alta",
+    "n": "Parques y espacios de la parroquia sí son del cargo, aunque el presupuesto es poco.",
+    "cita": "Promover proyectos comunitarios para parques, áreas recreativas, espacios deportivos y",
+    "pag": 7
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Organizar jornadas de limpieza y recuperación de espacios con la comunidad.",
+    "que": "El plan no dice en qué espacios, cuántas veces ni cuánto costará.",
+    "v": "alta",
+    "n": "Mingas y limpieza son trabajo que sí puede organizar la junta.",
+    "cita": "Gestionar jornadas comunitarias de limpieza y recuperación de espacios.",
+    "pag": 6
+   },
+   {
+    "t": "Hacer acciones de reforestación y recuperar áreas degradadas.",
+    "que": "El plan no dice dónde se plantará, cuántos árboles ni cuánto costará.",
+    "v": "alta",
+    "n": "Cuidar el ambiente sí es del cargo. El plan no dice cuánto costará.",
+    "cita": "Gestionar acciones de reforestación y recuperación de áreas degradadas.",
+    "pag": 6
+   },
+   {
+    "t": "Gestionar jornadas de vacunación y esterilización de animales.",
+    "que": "El plan no dice cuántas jornadas, dónde ni cuánto costará. Lo haría con entidades competentes.",
+    "v": "media",
+    "n": "Necesita acuerdo con las entidades competentes, que el plan no nombra.",
+    "cita": "Gestionar jornadas de sensibilización, vacunación y esterilización con entidades",
+    "pag": 4
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias parroquiales permanentes para vender productos y servicios.",
+    "que": "El plan no dice dónde se harán ni cuánto costarán. Son para comercialización de productos y servicios.",
+    "v": "alta",
+    "n": "Ferias y apoyo a productores sí son del cargo.",
+    "cita": "Impulsar ferias parroquiales permanentes para comercialización de productos y servicios.",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer programas de recreación, cultura y deporte para niños, jóvenes y adultos mayores.",
+    "que": "El plan no dice cuántos programas, dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar actividades comunitarias sí es del cargo.",
+    "cita": "Promover programas comunitarios de recreación, capacitación, cultura y deporte.",
+    "pag": 4
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una asamblea pública de rendición de cuentas cada año.",
+    "que": "En la asamblea se presentarían proyectos, gastos y resultados. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Informar a los vecinos es parte del trabajo del vocal.",
+    "cita": "Realizar, al menos una vez al año, una Asamblea Parroquial Pública de Rendición de Cuentas en",
+    "pag": 9
+   },
+   {
+    "t": "Revisar el avance de las obras y el presupuesto de la junta.",
+    "que": "El plan no dice cada cuánto se revisará ni cuánto costará.",
+    "v": "alta",
+    "n": "Fiscalizar es una atribución expresa de los vocales.",
+    "cita": "Realizar seguimiento a la ejecución de Obras, proyectos, presupuesto",
+    "pag": 8
+   }
+  ],
+  "otros": [
+   {
+    "t": "Hacer campañas de prevención en nutrición y salud mental.",
+    "que": "El plan no dice cuántas campañas ni cuándo se harían.",
+    "v": "baja",
+    "n": "La salud le toca al Ministerio de Salud, no a la junta.",
+    "cita": "Promover campañas de prevención en nutrición, salud mental, salud sexual y reproductiva",
+    "pag": 4
+   }
+  ]
+ },
+ "metas": [
+  "Asamblea pública de rendición de cuentas al menos una vez al año.",
+  "Informes semestrales de gestión.",
+  "Plan de trabajo para el período 2027-2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldría el dinero.",
+  "Muchas propuestas dicen 'gestionar' o 'promover': dependen de otras entidades. Incluye temas que no son del vocal, como salud."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ],
+ "paginas": 13
+}

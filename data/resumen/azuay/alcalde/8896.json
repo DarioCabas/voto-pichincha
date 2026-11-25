@@ -1,0 +1,139 @@
+{
+ "enfoque": "Plan 2027-2031 para calles, agua y saneamiento, uso del suelo, parques y prevención de desastres. Casi sin costos, y varios proyectos vienen de planes del cantón ya existentes.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Hacer mantenimiento permanente y planificado de las calles urbanas del cantón.",
+    "que": "Incluye arreglos preventivos, no solo cuando hay un daño. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta el costo, pero es su competencia directa.",
+    "cita": "Implementar un modelo permanente, técnico y planificado de gestión y mantenimiento vial, priorizando la conservación preventiva y correctiva de la red vial urbana",
+    "pag": 10
+   },
+   {
+    "t": "Arreglar caminos rurales junto con otras instituciones, por convenio.",
+    "que": "Se haría con convenios y trabajo conjunto con otras entidades. El plan no dice cuánto costará ni qué caminos se arreglarán.",
+    "v": "media",
+    "n": "Depende de convenios con otras instituciones. El plan no define los caminos.",
+    "cita": "fortaleciendo, mediante convenios y articulación interinstitucional, la intervención en la vialidad rural",
+    "pag": 10
+   },
+   {
+    "t": "Ordenar el uso del suelo con planes técnicos que cuiden la naturaleza.",
+    "que": "Busca un desarrollo urbano ordenado y preparado para el cambio climático. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "El uso del suelo es competencia del Municipio. Faltan costo y plazo.",
+    "cita": "Administrar el uso y gestión del suelo mediante la aplicación de planes técnicos que protejan los recursos naturales",
+    "pag": 7
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Actualizar el plan de movilidad, tránsito y transporte del cantón.",
+    "que": "Incluye estudios de demanda para ubicar mejor las paradas de bus. El plan dice 2027-2028, pero no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: tránsito y buses. Falta el costo.",
+    "cita": "Actualizar e implementar el sistema integral de movilidad, tránsito, transporte y seguridad vial del cantón.",
+    "pag": 10
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Aumentar el tratamiento de aguas residuales en sectores priorizados.",
+    "que": "Sobre todo en zonas rurales. Lo harían con juntas y comunidades. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Es del Municipio, pero depende de juntas, comunidades y fondos no definidos.",
+    "cita": "Incrementar progresivamente las soluciones de saneamiento ambiental y tratamiento de aguas residuales en sectores priorizados.",
+    "pag": 8
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger y recuperar fuentes de agua, ecosistemas y zonas sensibles del cantón.",
+    "que": "Con conservación, restauración y control del territorio. Meta: intervenir el 100 % de las zonas prioritarias. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Lo hace en cooperación con otros. El plan no dice quién pone el dinero.",
+    "cita": "Proteger y recuperar las fuentes hídricas, ecosistemas y áreas ambientalmente sensibles del cantón",
+    "pag": 8
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Recuperar, mantener e iluminar parques y plazas para más seguridad.",
+    "que": "Busca que plazas y parques sean lugares de encuentro y convivencia. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Parques y plazas son del Municipio. La policía no lo es.",
+    "cita": "Gestionar la seguridad cantonal a través de la recuperación, mantenimiento e iluminación de parques, plazas y equipamientos sociales",
+    "pag": 7
+   }
+  ],
+  "otros": [
+   {
+    "t": "Implementar un plan de gestión de riesgos para prevenir desastres.",
+    "que": "Incluye monitoreo, preparación y respuesta ante inundaciones, incendios y movimientos de masa. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Prevenir desastres es competencia del Municipio. Falta el costo.",
+    "cita": "incorporando la implementación de un Plan Integral de Gestión de Riesgos y mecanismos permanentes",
+    "pag": 11
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Impulsar un observatorio para que vecinos revisen gastos y obras.",
+    "que": "Los ciudadanos podrían seguir en tiempo real el presupuesto, las compras públicas y el impacto de las obras. El plan no dice cuándo empieza.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuándo empieza.",
+    "cita": "donde la ciudadanía organizada pueda fiscalizar, en tiempo real, la ejecución presupuestaria, la contratación pública y el impacto social de nuestras obras",
+    "pag": 21
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear ferias cantonales y circuitos de productos locales.",
+    "que": "Apoyan a productores, comerciantes y emprendedores. El plan no dice dónde se harán ni cuánto costarán.",
+    "v": "alta",
+    "n": "Ferias y mercados son del Municipio. Faltan lugares y costos.",
+    "cita": "Impulsar la economía local y el emprendimiento mediante la creación de circuitos productivos locales, ferias cantonales y políticas de fomento al comercio justo",
+    "pag": 7
+   }
+  ]
+ },
+ "metas": [
+  "Plan de movilidad actualizado e implementado en 2031.",
+  "Ejecutar más del 80 % de la programación anual de mantenimiento vial.",
+  "Atender más del 90 % de los puntos críticos de señalización priorizados.",
+  "Intervenir el 100 % de las zonas prioritarias de fuentes de agua.",
+  "Consolidar hasta 3 nodos productivos agroindustriales."
+ ],
+ "notas": [
+  "Casi ningún proyecto tiene costo: el plan dice 'por determinar' y no dice de dónde saldrá el dinero.",
+  "Muchos proyectos vienen de planes del cantón ya existentes. Cámaras y coordinación con la Policía no son del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23
+ ],
+ "paginas": 23
+}

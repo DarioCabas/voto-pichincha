@@ -1,0 +1,124 @@
+{
+ "enfoque": "Plan general de la parroquia, basado en el PDOT. Pide gestionar ante Municipio, Ministerios y ONG; pocas acciones son de la junta. No dice cuánto cuesta nada.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Reunir papeles con las directivas de los barrios para legalizarlos.",
+    "que": "El plan dice que en el año 1 hará mesas de trabajo con las directivas barriales para juntar documentos. No dice cuánto costará ni cuándo termina.",
+    "v": "media",
+    "n": "Los títulos los da el Municipio; la junta puede ayudar con los papeles.",
+    "cita": "conformando mesas de trabajo con las directivas barriales para recopilar",
+    "pag": 8
+   },
+   {
+    "t": "Remodelar el parque central para que sea más seguro.",
+    "que": "El plan dice que en el año 1 diseñará la remodelación y en el año 2 la empezará. No dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Los parques sí le tocan a la junta, pero una remodelación cuesta y el plan no dice con qué dinero.",
+    "cita": "Realizar la gestión para diseñar la remodelación del parque central haciéndolo más seguro",
+    "pag": 2
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Mejorar vías y hacer alcantarillado en los sectores más urgentes.",
+    "que": "El plan dice que en el año 2 mejorará los trazados viales y construirá alcantarillado en los sectores más urgentes. No dice cuánto costará.",
+    "v": "media",
+    "n": "Caminos: la junta cuida con la Prefectura. Alcantarillado: le toca al Municipio, no a la junta.",
+    "cita": "Realizar la gestión para continuar mejorando vías y alcantarillado",
+    "pag": 2
+   },
+   {
+    "t": "Gestionar que taxis y camionetas pasen a servicio legal y activo.",
+    "que": "El plan dice que pedirá a la Agencia Nacional de Tránsito que los taxis y camionetas se regularicen. No dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "La Agencia Nacional de Tránsito decide, no la junta.",
+    "cita": "actualmente operan como servicio pasivo puedan regularizarse y pasar a ser",
+    "pag": 8
+   }
+  ],
+  "economia": [
+   {
+    "t": "Buscar mercados internacionales para el aguacate y la chirimoya.",
+    "que": "El plan dice que dará a conocer estas frutas en el año 2 y buscará mercados internacionales en el año 3. No dice cuánto costará.",
+    "v": "media",
+    "n": "Vender fuera del país depende de otros niveles de gobierno; el plan no dice con quién.",
+    "cita": "buscar mercados para el aguacate y la chirimoya de Guayllabamba",
+    "pag": 9
+   },
+   {
+    "t": "Poner a funcionar una biofábrica de biofertilizantes y dar insumos a agricultores.",
+    "que": "El plan dice que hará estudios en el año 1 y la pondrá en funcionamiento en el año 2. No dice cuánto costará ni quién la pagará.",
+    "v": "media",
+    "n": "Apoyar a productores sí le toca; una fábrica necesita dinero y aliados que el plan no nombra.",
+    "cita": "Realizar la gestión para poner en funcionamiento la biofábrica de",
+    "pag": 2
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Cuidar el medio ambiente, las vertientes de agua y los lugares patrimoniales.",
+    "que": "El plan dice que en el año 3 hará la gestión para conservar el ambiente, las vertientes y los lugares patrimoniales. No dice qué acciones ni cuánto costará.",
+    "v": "alta",
+    "n": "Cuidar el ambiente sí le toca a la junta, pero el plan no dice qué hará exactamente.",
+    "cita": "Realizar la gestión para conservar el medio ambiente, cuidar nuestras vertientes",
+    "pag": 2
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Analizar las vertientes de agua y llevar agua propia a los sectores.",
+    "que": "El plan dice que en el año 1 analizará las vertientes y en el año 2 llevará agua de fuentes propias a los sectores. No dice cuánto costará.",
+    "v": "baja",
+    "n": "El agua potable no le toca a la junta; le toca a otras entidades.",
+    "cita": "Realizar la gestión para realizar análisis de las vertientes de agua existentes",
+    "pag": 2
+   },
+   {
+    "t": "Lograr que el subcentro de salud sea Centro de Salud Tipo C.",
+    "que": "El plan dice que pedirá al Ministerio de Salud ampliar, equipar y dar personal al subcentro. No dice cuándo ni cuánto costará.",
+    "v": "baja",
+    "n": "La salud no le toca a la junta; le toca al Ministerio de Salud.",
+    "cita": "fin de lograr la categorización del actual subcentro como Centro de Salud Tipo C",
+    "pag": 9
+   },
+   {
+    "t": "Instalar contenedores de basura en todos los barrios y sectores.",
+    "que": "El plan dice que en el año 1 gestionará los primeros contenedores y en el año 2 los instalará en todos los barrios. No dice cuánto costará.",
+    "v": "media",
+    "n": "La recolección de basura suele ser del Municipio; la junta solo puede ayudar.",
+    "cita": "practicar la autogestión para instalar contenedores de basura en todos los barrios",
+    "pag": 2
+   }
+  ]
+ },
+ "metas": [
+  "Levantar el inventario de los 73 barrios y su situación jurídica en el año 1 (2027-2028).",
+  "Entregar kits saludables cada mes a familias vulnerables, desde el año 2.",
+  "Hacer una asamblea pública de rendición de cuentas al año.",
+  "Presentar informes semestrales o trimestrales sobre avances y presupuesto.",
+  "Presentar la evaluación final de la gestión en el año 4 (2030-2031)."
+ ],
+ "notas": [
+  "Casi todas las acciones dicen \"realizar la gestión\". Muchas son de otros niveles de gobierno (agua, salud, escuelas, transporte).",
+  "El plan no dice cuánto cuesta ninguna obra ni de dónde sale el dinero. Parte del texto es un diagnóstico general de la parroquia."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14
+ ],
+ "paginas": 14
+}

@@ -1,0 +1,116 @@
+{
+ "enfoque": "Plan con partes generales. Propone calles, agua, alcantarillado, basura, parques y un camal, pero casi todo depende de pedir fondos. No dice costos ni plazos.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Gestionar dinero para construir y poner en marcha una planta de agua potable.",
+    "que": "Es para dar agua de calidad a la población. El plan no dice cuánto costará ni cuándo. Solo dice que se buscará el financiamiento.",
+    "v": "media",
+    "n": "Es del Municipio, pero depende de conseguir fondos. El plan no dice de dónde saldrá el dinero.",
+    "cita": "Gestionar el financiamiento de los recursos económicos necesarios para la construcción y puesta en funcionamiento de la planta de tratamiento de agua potable",
+    "pag": 7
+   },
+   {
+    "t": "Gestionar la construcción de alcantarillado pluvial en varios sectores del cantón.",
+    "que": "El plan no dice qué sectores, cuánto costará ni cuándo. Solo dice que se gestionará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de conseguir fondos.",
+    "cita": "Gestionar Construcción del alcantarillado Pluvial en diferentes sectores del Canton",
+    "pag": 7
+   },
+   {
+    "t": "Gestionar la compra de un recolector de basura para los sectores del cantón.",
+    "que": "Sirve para cubrir la alta demanda de basura. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "La basura es del Municipio, pero el plan no dice cómo se paga la compra.",
+    "cita": "Gestionar adquisición de Recolector de Basura para cubrir la alta demanda de desechos sólidos",
+    "pag": 8
+   },
+   {
+    "t": "Construir un camal municipal con normas sanitarias y ambientales.",
+    "que": "Es el lugar para sacrificar animales para vender carne. El plan no dice dónde, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Es del Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Construcción, del Camal Municipal con estándares sanitarios, ambientales y de inocuidad alimentaria",
+    "pag": 5
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Asfaltar calles urbanas y construir aceras y bordillos.",
+    "que": "Es para que la gente pueda caminar mejor. El plan no dice qué calles, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Las calles son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Continuar con Asfaltado de calles urbanas, Construcción de aceras y bordillos para una movilidad peatonal",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar parques, plazas y espacios deportivos, y mejorar zonas comerciales.",
+    "que": "También embellecer la ciudad. El plan no dice en qué lugares, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Parques y espacios públicos son del Municipio. Faltan costos.",
+    "cita": "Regeneración de parques, plazas y espacios deportivos, mejoramiento de zonas comerciales, embellecimiento urbano",
+    "pag": 7
+   },
+   {
+    "t": "Actualizar el catastro urbano y rural, con los datos de terrenos y su valor.",
+    "que": "Sirve para regularizar terrenos y poner al día sus avalúos. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Catastro y uso del suelo son del Municipio. El plan no dice plazo.",
+    "cita": "Regularización de predios y actualización de avalúos conforme a la normativa vigente",
+    "pag": 7
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer acciones para prevenir desastres y adaptarse al cambio climático.",
+    "que": "El plan no dice qué acciones concretas, dónde ni cuánto costará. Habla de reducir daños en las comunidades.",
+    "v": "alta",
+    "n": "Prevenir desastres sí le toca al Municipio. Faltan acciones concretas.",
+    "cita": "Implementar acciones de gestión de riesgos y adaptación al cambio climático, orientadas a la prevención",
+    "pag": 7
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar cámaras de videovigilancia en sectores estratégicos del cantón.",
+    "que": "El plan no dice qué sectores, cuánto costará ni cómo se pagará. Dice que se coordinará con la Policía.",
+    "v": "baja",
+    "n": "La seguridad y la policía no le tocan al alcalde.",
+    "cita": "Instalar en sectores estratégicos cámaras de videovigilancia para convertir a Lomas de Sargentillo en un cantón seguro",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Repotenciar la Maternidad Municipal y crear un área de fisioterapia.",
+    "que": "Es para un servicio de salud. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "La salud no le toca al alcalde; es del Ministerio de Salud.",
+    "cita": "repotenciar la Maternidad Municipal, crear el área de fisioterapia",
+    "pag": 5
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "Muchas propuestas dicen 'gestionar' o piden ayuda al Gobierno. Casi ningún punto dice cuánto costará ni cuándo.",
+  "Parte del texto es general y repite leyes y planes de otros niveles de gobierno. Varias propuestas son de salud, policía o escuelas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "paginas": 10
+}

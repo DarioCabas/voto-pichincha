@@ -1,0 +1,139 @@
+{
+ "enfoque": "Plan copiado de un documento de la parroquia. Propone parques, reciclaje, ferias y paradas de bus, pero casi todo depende del Municipio, la Policía o los ministerios.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Arreglar y cuidar parques, canchas y áreas verdes de la parroquia.",
+    "que": "El plan no dice cuánto costará ni de dónde saldrá el dinero. Busca que parques y áreas verdes se vean mejor que antes.",
+    "v": "alta",
+    "n": "Parques y áreas verdes sí son tareas de la junta. Falta el costo.",
+    "cita": "Mejorar el aspecto de parques, escenarios deportivos, áreas verdes y zonas de protección con respecto a los años anteriores",
+    "pag": 17
+   },
+   {
+    "t": "Pedir a la empresa de aseo un plan de reciclaje y recolección separada.",
+    "que": "El plan dice que hará un acuerdo con la Empresa Metropolitana de Aseo. No dice cuánto costará. Meta: subir el reciclaje del 4% al 8%.",
+    "v": "media",
+    "n": "Necesita acuerdo con la empresa de aseo, que depende del Municipio.",
+    "cita": "Establecer un convenio de cooperación con la Empresa Metropolitana de Aseo para contribuir con el manejo de residuos y desechos",
+    "pag": 15
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Cambiar la imagen de las 12 paradas de buses de la vía principal.",
+    "que": "El plan no dice cuánto costará. Lo haría con el Municipio de Quito y la Agencia Metropolitana de Transporte. Fecha: 2024.",
+    "v": "media",
+    "n": "Las paradas las maneja el Municipio. Hace falta acuerdo con él.",
+    "cita": "Cambiar la imagen de las 12 paradas de buses que se encuentran en la via principal.",
+    "pag": 21
+   },
+   {
+    "t": "Pedir obras de bordillos, adoquín y asfalto en comunas y barrios.",
+    "que": "El dinero saldría de presupuestos del Gobierno Provincial y del Municipio. El plan pone fecha de diciembre de 2024, pero no dice cuánto costará.",
+    "v": "media",
+    "n": "Obras grandes de vías las pagan el Provincial o el Municipio, no la junta.",
+    "cita": "Priorizar obras de construcción de bordillos, adoquinado y asfaltado en las comunas, barrios y sectores de nuestra parroquia",
+    "pag": 13
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Pedir un acuerdo para revisar permisos de construcción de proyectos nuevos.",
+    "que": "El plan no dice cuánto costará ni cuándo. Busca que los proyectos inmobiliarios tengan aprobación antes de construir.",
+    "v": "media",
+    "n": "Los permisos son del Municipio. Hace falta acuerdo con él.",
+    "cita": "Establecer un acuerdo de cooperación con la Administración Zonal Tumbaco para que se controle y se fiscalice la aprobación",
+    "pag": 9
+   }
+  ],
+  "otros": [
+   {
+    "t": "Pedir al Ministerio de Salud construir y equipar el centro de salud.",
+    "que": "El plan no dice cuánto costará ni cuándo. Quiere pasar de un centro básico a un hospital del día.",
+    "v": "baja",
+    "n": "La salud le toca al Ministerio de Salud, no a la junta.",
+    "cita": "Establecer un convenio de cooperación con el Ministerio de Salud Pública para la construcción y equipamiento del Centro de Salud de El Quinche",
+    "pag": 15
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Formar brigadas civiles para apoyar a la Policía con vigilancia.",
+    "que": "El plan pone fecha de diciembre de 2023. No dice cuánto costará ni quién lo paga. Busca bajar la delincuencia.",
+    "v": "baja",
+    "n": "La Policía no le toca a la junta. Es de otro nivel de gobierno.",
+    "cita": "Brindar respaldo a la policía nacional a través de brigadas civiles, ampliando el rango de vigilancia para devolver la paz",
+    "pag": 29
+   },
+   {
+    "t": "Dar charlas de seguridad y contra el vandalismo a jóvenes y niños.",
+    "que": "Serían charlas en las unidades educativas de El Quinche. El plan no dice cuánto costará ni cuándo se harán.",
+    "v": "media",
+    "n": "Hace falta permiso de las escuelas. El plan no dice costos.",
+    "cita": "A través de charlas educativas dirigidas a jóvenes y niños en las unidades educativas de El Quínche",
+    "pag": 9
+   }
+  ],
+  "economia": [
+   {
+    "t": "Coordinar ferias periódicas con artesanos y emprendedores de la parroquia.",
+    "que": "Las ferias serían para artesanos, emprendedores y empresas de servicios. El plan pone fecha de mayo de 2027. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar ferias y coordinar con comerciantes es tarea de la junta.",
+    "cita": "Coordinar con artesanos, emprendedores, empresas de servicios ferias periódicas que causen impacto en residentes y visitantes.",
+    "pag": 15
+   },
+   {
+    "t": "Hacer proyectos de agroturismo comunitario con el Ministerio de Turismo.",
+    "que": "Sería con un acuerdo con el Ministerio de Turismo. El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Ministerio de Turismo.",
+    "cita": "Establecer un acuerdo de cooperación con el Ministerio de Turismo para implementar proyectos de agroturismo",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Subir el reciclaje en El Quinche del 4% al 8%, hasta finales de 2023.",
+  "Cambiar la imagen de 12 paradas de buses en 2024.",
+  "Readecuar el centro de salud de El Quinche al 2027.",
+  "Duplicar las ferias de emprendimiento para dinamizar la economía local."
+ ],
+ "notas": [
+  "El texto parece copiado de un plan de desarrollo de la parroquia: habla de centro de salud, policía y hospitales que no son de la junta.",
+  "Casi no da costos ni de dónde saldría el dinero. Muchas fechas (2023 y 2024) ya pasaron.",
+  "Plan muy largo (38 págs.): se resumieron las 27 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  6,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36
+ ],
+ "paginas": 38
+}

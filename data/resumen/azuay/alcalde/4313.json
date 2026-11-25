@@ -1,0 +1,132 @@
+{
+ "enfoque": "Gran parte del plan repite el plan de desarrollo del cantón (PDOT 2023-2027). Propone calles, agua, alcantarillado y catastro; varias obras dependen de otros niveles de gobierno.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Mantener y mejorar calles urbanas y caminos rurales, con lastre o asfalto.",
+    "que": "Costará USD 1 000 000, según el plan de inversión. Lo pagarían el GAD, la Prefectura y el MTOP. Plazo: 2027-2031.",
+    "v": "media",
+    "n": "Las calles urbanas son del Municipio; los caminos rurales dependen de la Prefectura y del MTOP.",
+    "cita": "Mantenimiento y mejoramiento de la vialidad urbana y rural (lastre, asfaltado).",
+    "pag": 20
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar la red pública de agua potable en Palmas y Amaluza.",
+    "que": "Costará USD 450 000, con dinero del GAD. Plazo: 2027-2030. Meta: 20 puntos más de cobertura de agua por red pública.",
+    "v": "alta",
+    "n": "El agua potable es competencia del Municipio y el plan dice costo y plazo.",
+    "cita": "Ampliación y mejoramiento de sistemas de agua potable en parroquias rurales.",
+    "pag": 21
+   },
+   {
+    "t": "Ampliar el alcantarillado en sectores dispersos de Palmas y Amaluza.",
+    "que": "Costará USD 180 000, con dinero del GAD. Plazo: 2028-2031. Meta: subir 15 puntos la cobertura de alcantarillado.",
+    "v": "alta",
+    "n": "El alcantarillado es competencia del Municipio y el plan dice costo y plazo.",
+    "cita": "Ampliación de cobertura de alcantarillado en sectores dispersos.",
+    "pag": 21
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar el catastro de terrenos y casas urbanos y rurales.",
+    "que": "Costará USD 200 000, con dinero del GAD. Plazo: 2027-2029. Meta: 100% del catastro urbano y 70% del rural.",
+    "v": "alta",
+    "n": "El catastro es competencia del Municipio y el plan dice costo y plazo.",
+    "cita": "Actualización del catastro urbano y rural del cantón.",
+    "pag": 21
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Hacer un plan para prevenir desastres, con énfasis en Amaluza.",
+    "que": "Costará USD 100 000. Plazo: 2027-2028. Lo harían el GAD con la Secretaría Nacional de Gestión de Riesgos y la Prefectura.",
+    "v": "media",
+    "n": "Prevenir desastres sí es del Municipio, pero depende del Gobierno y de la Prefectura.",
+    "cita": "Plan de gestión de riesgos con medidas de mitigación, énfasis en Amaluza.",
+    "pag": 21
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer un plan de turismo comunitario y ecoturismo para todo el cantón.",
+    "que": "Costará USD 220 000. Plazo: 2027-2029. Lo harían el GAD, el Ministerio de Turismo y la Prefectura. Meta: al menos 3 circuitos turísticos señalizados.",
+    "v": "media",
+    "n": "Es tarea compartida con el Ministerio de Turismo y la Prefectura; no está en la lista de competencias del alcalde.",
+    "cita": "Elaborar e implementar un plan estratégico de turismo comunitario y ecoturismo para el cantón Sevilla de Oro.",
+    "pag": 20
+   },
+   {
+    "t": "Negociar con el Gobierno y CELEC EP (empresa eléctrica) compensaciones por las hidroeléctricas.",
+    "que": "Costará USD 60 000. Plazo: 2028-2030. Meta: firmar al menos 1 convenio con CELEC EP.",
+    "v": "baja",
+    "n": "No le toca al Municipio; la deciden el Gobierno y la empresa eléctrica.",
+    "cita": "Gestión de compensación e inversión social derivada de proyectos hidroeléctricos.",
+    "pag": 21
+   }
+  ],
+  "social": [
+   {
+    "t": "Construir o adecuar al menos un espacio deportivo por parroquia.",
+    "que": "Costará USD 90 000. Plazo: 2027-2029. Lo harían el GAD y el Ministerio del Deporte.",
+    "v": "media",
+    "n": "Los espacios deportivos son del Municipio, pero el Ministerio del Deporte también participa.",
+    "cita": "Dotación de infraestructura deportiva a las parroquias y comunidades.",
+    "pag": 21
+   },
+   {
+    "t": "Buscar convenios con el MIDUVI para casas de familias en situación de vulnerabilidad.",
+    "que": "El plan no dice cuánto costará ni cuándo. Depende del MIDUVI, el ministerio de vivienda.",
+    "v": "baja",
+    "n": "La vivienda la maneja el ministerio; el Municipio solo pediría convenios.",
+    "cita": "Gestionar convenios de concurrencia con el MIDUVI para proyectos de vivienda solidaria.",
+    "pag": 20
+   }
+  ]
+ },
+ "metas": [
+  "Mantener el 100% de las calles urbanas y rurales en estado regular o bueno al final del período.",
+  "Subir 20 puntos la cobertura de agua potable por red pública en Palmas y Amaluza.",
+  "Subir 15 puntos la cobertura de alcantarillado en Palmas y Amaluza.",
+  "Actualizar el 100% del catastro urbano y al menos el 70% del rural.",
+  "Elaborar e implementar 1 plan cantonal de gestión de riesgos."
+ ],
+ "notas": [
+  "Gran parte del texto está copiado del plan de desarrollo del cantón (PDOT 2023-2027). Los montos son referenciales, según el plan.",
+  "Varias propuestas (vivienda, hidroeléctricas, deporte, turismo) dependen de ministerios, la Prefectura o empresas, no solo del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28
+ ],
+ "paginas": 28
+}

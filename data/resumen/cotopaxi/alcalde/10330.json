@@ -1,0 +1,112 @@
+{
+ "enfoque": "Plan de agua, alcantarillado, basura, calles, tránsito, parques y uso del suelo. Varias metas no tienen cifras ni costos.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Reducir pérdidas de agua y aumentar los hogares con agua segura cada año.",
+    "que": "El plan no dice cuánto costará. Incluye medir el agua, arreglar fugas y ampliar redes según factibilidad.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cómo se pagará.",
+    "cita": "Reducir pérdidas y aumentar continuidad y hogares con servicio seguro cada año.",
+    "pag": 4
+   },
+   {
+    "t": "Revisar las redes de alcantarillado y las zonas que no tienen este servicio.",
+    "que": "Primero hará un plan con diseños, costos y fases. El plan no dice cuánto costará ni cuándo se construirá.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Es un estudio; el plan no dice cuánto costarán las obras.",
+    "cita": "Diagnóstico de redes, colectores, plantas, lluvias y zonas sin cobertura.",
+    "pag": 5
+   },
+   {
+    "t": "Revisar y arreglar las plantas de tratamiento de aguas residuales municipales.",
+    "que": "Incluye revisar, arreglar y medir lo que sale de las plantas. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, con apoyo del Ministerio del Ambiente. El plan no dice el costo.",
+    "cita": "Auditoría, rehabilitación, operación y monitoreo de efluentes y lodos.",
+    "pag": 5
+   },
+   {
+    "t": "Cambiar rutas y horarios de recolección de basura, junto con la mancomunidad.",
+    "que": "Incluye GPS, revisar los puntos críticos y ajustar horarios. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Lo hace el Municipio con la mancomunidad de Saquisilí y Pujilí. El plan no dice el costo.",
+    "cita": "Elevar la recolección y gestión integral de residuos mediante la mancomunidad.",
+    "pag": 2
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Revisar todas las calles urbanas y hacer un programa de arreglos cada año.",
+    "que": "Revisa calzada, aceras, drenajes y señales. El plan no dice cuánto costará ni cuántas calles se arreglarán.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice con qué dinero se harán los arreglos.",
+    "cita": "Estado de calzada, aceras, drenajes y señalización; programación.",
+    "pag": 5
+   },
+   {
+    "t": "Hacer un inventario y mantener parques, plazas y mercados.",
+    "que": "Incluye mobiliario, luces y árboles. El plan no dice cuánto costará el mantenimiento.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni en qué plazo.",
+    "cita": "Catastro de espacios, baterías, mobiliario, luminarias y arbolado.",
+    "pag": 7
+   },
+   {
+    "t": "Actualizar las reglas de uso del suelo y el registro de terrenos del cantón.",
+    "que": "Incluye actualizar el plan de ordenamiento y el catastro, que es el registro de terrenos. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que maneja el uso del suelo. El plan no dice el costo.",
+    "cita": "Actualizar instrumentos, control de suelo, nomenclatura y catastro multipropósito.",
+    "pag": 8
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Ordenar el tránsito y mejorar la seguridad vial junto con la EPMC.",
+    "que": "La EPMC maneja tránsito y revisión de vehículos. Incluye rutas, estacionamiento y peatones. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, por medio de la EPMC. El plan no dice cuánto costará.",
+    "cita": "Mejorar movilidad y seguridad vial a través de la EPMC.",
+    "pag": 2
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear el Municipio Digital: trámites en línea y un solo lugar para servicios.",
+    "que": "Incluye expediente único, pagos, consultas y firma. El plan dice que la primera fase empieza en 2028. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "cita": "Implantar Municipio Digital, Balcón de Servicios y datos abiertos.",
+    "pag": 2
+   }
+  ]
+ },
+ "metas": [
+  "100% de la infraestructura principal de agua inventariada, con la línea base publicada.",
+  "Reporte trimestral de la calidad del agua.",
+  "100% de las plantas de tratamiento municipales evaluadas.",
+  "Tablero público de obras y gastos, actualizado cada mes.",
+  "Informe de 100 días con línea base y hoja de ruta."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero, salvo reglas generales.",
+  "Muchas metas de ampliación se fijarán después de una línea base en 100 días. Hoy no tienen cifra."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "paginas": 12
+}

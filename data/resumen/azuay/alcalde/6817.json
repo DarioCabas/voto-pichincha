@@ -1,0 +1,124 @@
+{
+ "enfoque": "Seguir obras de agua, alcantarillado, caminos y parques. Las grandes dependen de dinero de otras entidades. Gran parte del texto copia el plan de desarrollo del cantón.",
+ "tabla": {
+  "gobierno": [
+   {
+    "t": "Dar atención en una alcaldía itinerante, que se lleve a los territorios del cantón.",
+    "que": "La idea es acercar la alcaldía a cada territorio. El plan no dice con qué frecuencia ni en qué lugares.",
+    "v": "alta",
+    "n": "Lo decide el propio alcalde; el plan no dice cada cuánto.",
+    "cita": "planteando la alcaldía itinerante, para que la ciudadanía pueda tener esa cercanía",
+    "pag": 16
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Renovar el equipo de caminos (máquinas viales) para mantener las vías del cantón.",
+    "que": "Busca que las vías de los sectores estén en buenas condiciones. El plan no dice cuántas máquinas ni cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice el costo.",
+    "cita": "la renovación del equipo caminero que permita brindar un servicio oportuno y eficiente a los diferentes sectores del cantón",
+    "pag": 13
+   }
+  ],
+  "otros": [
+   {
+    "t": "Hacer planes para responder a desastres y mantenerlos al día.",
+    "que": "Los planes de respuesta se actualizarían de forma permanente. El plan no dice cuánto costará ni cuándo se harán.",
+    "v": "alta",
+    "n": "Le toca al Municipio: prevención de desastres.",
+    "cita": "se mantendrá una actualización permanente de los planes de contingencia en respuesta a desastres",
+    "pag": 14
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Hacer nuevas tomas de agua y tuberías para llevar agua potable a la cabecera cantonal.",
+    "que": "Se buscaría dinero de bancos estatales o entes internacionales, en su mayoría que no se devuelve. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de dinero externo. El plan no da fechas.",
+    "cita": "entre ellos las nuevas captaciones y conducción de agua potable para la cabecera cantonal",
+    "pag": 13
+   },
+   {
+    "t": "Hacer las siguientes etapas de los colectores (tuberías principales) de aguas residuales.",
+    "que": "Incluye alcantarillado para parroquias, barrios y comunidades, de forma equitativa. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de dinero de bancos estatales u organismos internacionales.",
+    "cita": "la ejecución de las siguientes etapas de los colectores de aguas residuales",
+    "pag": 6
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Seguir el registro de terrenos (catastro) hasta cubrir todo el cantón.",
+    "que": "Busca registrar todo el territorio para planificar mejor. El plan no dice cuánto costará ni cuándo estará listo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, no a otra entidad.",
+    "cita": "dar continuidad al proyecto de actualización catastral y que se registre el cien por ciento del territorio",
+    "pag": 13
+   },
+   {
+    "t": "Instalar más equipamientos deportivos y comunitarios en distintos sectores del cantón.",
+    "que": "Busca cerrar la brecha con estándares internacionales. El plan no dice dónde, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, como parques y espacios públicos.",
+    "cita": "se dará continuidad en la dotación de equipamientos deportivos y comunitarios en los diferentes sectores del cantón",
+    "pag": 13
+   },
+   {
+    "t": "Hacer planes especiales para cuidar y aprovechar las zonas arqueológicas.",
+    "que": "Esas zonas son parte de la riqueza ancestral y podrían ser atractivo turístico. El plan no dice con quién ni cuándo.",
+    "v": "media",
+    "n": "Zonas con protección arqueológica; el plan no dice cómo se hará.",
+    "cita": "se propone generar planes especiales que permitan gestionar dichos espacios",
+    "pag": 13
+   },
+   {
+    "t": "Hacer proyectos de regeneración urbana (renovar zonas de la ciudad) usando estudios ya hechos.",
+    "que": "El plan no dice qué zonas, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: calles y uso del suelo.",
+    "cita": "promover proyectos de regeneración urbana utilizando estudios que han sido realizados por la actual administración",
+    "pag": 14
+   },
+   {
+    "t": "Controlar con rigor en qué terrenos se puede construir, para evitar riesgos.",
+    "que": "El plan no dice cómo se hará el control ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: uso y ocupación del suelo.",
+    "cita": "se llevará un riguroso control del uso y ocupación del suelo",
+    "pag": 14
+   }
+  ]
+ },
+ "metas": [
+  "Registrar el cien por ciento del territorio del cantón en el catastro.",
+  "Plan de trabajo para el periodo 2027-2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni en qué plazo se hará.",
+  "No propone nada sobre basura, mercados ni transporte en buses. Gran parte del texto copia el plan de desarrollo del cantón."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17
+ ],
+ "paginas": 17
+}

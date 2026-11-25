@@ -1,0 +1,93 @@
+{
+ "enfoque": "Plan copiado del plan cantonal de Cayambe. Propone caminos, parques, apoyo a productores, asambleas con vecinos y cuidado de fuentes de agua.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Proteger las fuentes de agua de la parroquia.",
+    "que": "El plan habla de dar prioridad a proteger las fuentes de agua. No dice cuánto costará ni cuándo se hará.",
+    "v": "alta",
+    "n": "Cuidar el ambiente sí es tarea de la junta.",
+    "cita": "Promover la conservación y el uso sostenible de los recursos naturales",
+    "pag": 4
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Gestionar el mantenimiento de las vías rurales de la parroquia.",
+    "que": "El plan habla de dar mantenimiento a vías rurales. No dice cuánto costará ni cuándo se hará.",
+    "v": "media",
+    "n": "La junta puede gestionarlo con otros niveles. Obra grande depende de ellos.",
+    "cita": "mediante la gestión y mantenimiento de vías rurales",
+    "pag": 4
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Mejorar la atención comunitaria y la seguridad del territorio parroquial.",
+    "que": "El plan habla de acciones de seguridad, pero no dice cuáles ni cuánto costarán.",
+    "v": "baja",
+    "n": "La seguridad le toca a la Policía, no a la junta.",
+    "cita": "acciones orientadas a mejorar la atención comunitaria y la seguridad en el territorio parroquial",
+    "pag": 4
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas en los barrios y comunas cada tres meses.",
+    "que": "Las asambleas serán itinerantes, es decir, en los barrios y no en un solo lugar. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Reunir vecinos en sus barrios sí es tarea de la junta.",
+    "cita": "convocatoria trimestral a Asambleas de carácter itinerante en los diferentes barrios",
+    "pag": 9
+   },
+   {
+    "t": "Decidir con vecinos el gasto de inversión de la junta.",
+    "que": "El 100% de los fondos de inversión de la junta se discutirá en reuniones públicas con delegados de los barrios. El plan no dice de cuánto es el fondo.",
+    "v": "alta",
+    "n": "Decidir el gasto con vecinos sí es tarea de la junta. El plan no dice de cuánto es.",
+    "cita": "será discutido, priorizado y aprobado democráticamente mediante deliberaciones públicas con delegados barriales",
+    "pag": 9
+   },
+   {
+    "t": "Ayudar a vecinos a formar veedurías que revisen las obras.",
+    "que": "El plan dice que la junta dará facilidades ante el Consejo de Participación Ciudadana (CPCCS). No dice cuándo ni cuántas.",
+    "v": "media",
+    "n": "La junta apoya; el trámite lo hace el Consejo de Participación (CPCCS).",
+    "cita": "para la conformación de veedurías ciudadanas independientes integradas por los propios vecinos",
+    "pag": 9
+   },
+   {
+    "t": "Crear una página web con información de la junta y sus sesiones.",
+    "que": "Se implementará un sitio web de libre acceso con información de la junta. El plan no dice cuánto costará ni quién lo mantendrá.",
+    "v": "media",
+    "n": "Necesita apoyo técnico y dinero. El plan no dice cuánto costará.",
+    "cita": "Se implementará un sitio web de libre acceso que fungirá como repositorio oficial de transparencia",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Asambleas en los barrios cada tres meses",
+  "100% de los fondos de inversión de la junta se decidirán con delegados de los barrios",
+  "Plan de trabajo para 2027-2031"
+ ],
+ "notas": [
+  "Parte del plan es copia de la visión del plan cantonal de Cayambe. Varias acciones son de otros niveles, no de la junta.",
+  "Casi ninguna propuesta dice cuánto costará ni de dónde saldrá el dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "paginas": 11
+}

@@ -1,0 +1,178 @@
+{
+ "enfoque": "Plan centrado en empleo, artesanía y turismo. Incluye obras de agua, calles y parques, pero sin costos ni fechas, y copia mucho del plan de desarrollo del cantón.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Construir y ampliar alcantarillado sanitario y pluvial.",
+    "que": "El plan dice que habrá obras de alcantarillado sanitario y pluvial. No dice en qué sectores, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cómo se pagará.",
+    "cita": "Construcción y ampliación de alcantarillado sanitario y pluvial.",
+    "pag": 44
+   },
+   {
+    "t": "Dar mantenimiento general a la planta de agua potable.",
+    "que": "El plan dice que esa planta necesita mantenimiento general, porque es clave para el servicio. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que maneja el agua. El plan no dice el costo.",
+    "cita": "Mantenimiento de la planta de tratamiento de agua potable.",
+    "pag": 19
+   },
+   {
+    "t": "Subir la cobertura de recolección de basura.",
+    "que": "Es una de las acciones de basura del plan. El plan no dice en qué zonas ni cuánto costará.",
+    "v": "alta",
+    "n": "La basura es competencia del Municipio. El plan no dice cómo se pagará.",
+    "cita": "Mejoramiento e incremento de la cobertura del servicio de recolección de desechos sólidos.",
+    "pag": 18
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Mejorar vías urbanas y caminos rurales.",
+    "que": "Incluye mejorar la vialidad urbana y la rural. El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "media",
+    "n": "Calles sí; caminos rurales se hacen en conjunto con otros. El plan no dice costo.",
+    "cita": "Mejoramiento vial urbano y cogestión de la vialidad rural.",
+    "pag": 42
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Poner baños públicos en la Plaza Artesanal.",
+    "que": "El plan lo incluye entre los equipamientos del centro. El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "alta",
+    "n": "Plazas y espacios públicos son del Municipio. El plan no dice el costo.",
+    "cita": "Incorporación de baños públicos en el área de la Plaza Artesanal.",
+    "pag": 19
+   },
+   {
+    "t": "Gestionar luces en vías y edificios públicos.",
+    "que": "El plan dice que se coordinará con la empresa eléctrica. No dice cuánto costará ni cuándo se instalarán.",
+    "v": "media",
+    "n": "Depende de la empresa eléctrica, no solo del Municipio.",
+    "cita": "Gestionar la implementación de luminarias en vías, equipamientos e infraestructura pública",
+    "pag": 18
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Recuperar zonas dañadas y proteger bosques nativos.",
+    "que": "El plan lo pone como proyecto priorizado. No dice en qué zonas ni cuánto costará.",
+    "v": "media",
+    "n": "Depende de otras instituciones y de fondos. El plan no dice el costo.",
+    "cita": "Entre los proyectos priorizados constan la recuperación de zonas degradadas, la protección de bosques nativos",
+    "pag": 37
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear un centro municipal de emprendimiento e innovación.",
+    "que": "Daría capacitación, asesoría y apoyo a emprendedores, según el plan. No dice cuánto costará ni cuándo abrirá.",
+    "v": "media",
+    "n": "El Municipio lo puede crear, pero el empleo lo crean los negocios.",
+    "cita": "Crear el Centro Municipal de Emprendimiento e Innovación.",
+    "pag": 37
+   },
+   {
+    "t": "Crear un fondo de dinero para nuevos negocios.",
+    "que": "El fondo daría dinero inicial y acompañamiento técnico. El plan solo nombra posibles fuentes y no dice cuánto dinero tendrá.",
+    "v": "media",
+    "n": "Depende de bancos y del Gobierno; el plan no dice montos.",
+    "cita": "Implementar un fondo municipal orientado a financiar y acompañar emprendimientos con potencial de crecimiento",
+    "pag": 69
+   },
+   {
+    "t": "Crear una red de mercados y ferias para productos locales.",
+    "que": "Serviría para vender productos locales directo al público, sin tantos intermediarios. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Los mercados son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Implementar una red de mercados y ferias permanentes que facilite la comercialización directa de productos locales",
+    "pag": 75
+   }
+  ]
+ },
+ "metas": [
+  "Diez proyectos de empleo para los primeros 100 días de gobierno.",
+  "Ejecución de los proyectos entre 2027 y 2031.",
+  "Reporte de avances publicado cada trimestre."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará casi ninguna obra. Solo nombra posibles fuentes de dinero, como el presupuesto municipal y bancos.",
+  "Mucho texto copia el plan de desarrollo y el plan de uso del suelo del cantón. No habla de tránsito ni de buses.",
+  "Plan muy largo (87 págs.): se resumieron las 69 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  11,
+  13,
+  14,
+  15,
+  16,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  51,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61,
+  63,
+  65,
+  66,
+  68,
+  69,
+  71,
+  72,
+  73,
+  74,
+  75,
+  77,
+  78,
+  79,
+  80,
+  81,
+  82,
+  83,
+  84,
+  86,
+  87
+ ],
+ "paginas": 87
+}

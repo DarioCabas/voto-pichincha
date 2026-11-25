@@ -1,0 +1,151 @@
+{
+ "enfoque": "Sigue las obras de la gestión actual (barrios, agua, mercado, terminal), muchas con financiamiento externo. Parte del texto copia el plan municipal 2023-2027.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Construir, rehabilitar y mantener calles, avenidas y vías urbanas.",
+    "que": "Figuran como aliados el BDE (Banco de Desarrollo del Ecuador) y la comunidad. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Construcción, rehabilitación y mantenimiento de calles, avenidas y vías urbanas.",
+    "pag": 31
+   },
+   {
+    "t": "Construir el Terminal Terrestre, solo si hay financiamiento y condiciones técnicas.",
+    "que": "Los estudios tienen un costo referencial de USD 7,442,200.76. Gestionaría financiamiento con el BDE y bancos internacionales. El plan no dice cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de fondos externos y del Ministerio de Transporte.",
+    "cita": "Gestionar el financiamiento y ejecutar la construcción del Terminal Terrestre del cantón, conforme a los estudios",
+    "pag": 31
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Intervenir seis barrios más con el programa Barrio Blanco, Activo y Saludable.",
+    "que": "Obras como calles, aceras, árboles y luces. Costo superior a USD 3 millones, con financiamiento del BDE. El plan dice cuatro barrios en otra parte.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende del financiamiento del Banco de Desarrollo.",
+    "cita": "al finalizar la presente administración se prevé intervenir, con financiamiento del Banco de Desarrollo del Ecuador (BDE), seis barrios y sectores adicionales",
+    "pag": 16
+   },
+   {
+    "t": "Legalizar de forma masiva los predios urbanos y rurales del cantón.",
+    "que": "Meta: aumentar en un 15% los predios regularizados. Trabajaría con el Registro de la Propiedad; en lo rural, con ministerios. El plan no dice costo.",
+    "v": "media",
+    "n": "Catastro y predios urbanos son del Municipio; lo rural depende de ministerios.",
+    "cita": "Programa de legalización masiva de predios urbanos y rurales.",
+    "pag": 27
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Aumentar el agua potable: más producción, nuevas redes y una planta en Valle de la Virgen.",
+    "que": "Hoy se producen unos 57 litros por segundo y se necesitan cerca de 81. Prioridad: La Estacada. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende del Banco de Desarrollo y de cooperación.",
+    "cita": "Gestionar y ejecutar proyectos para incrementar la producción de agua potable, ampliar las redes de distribución",
+    "pag": 29
+   },
+   {
+    "t": "Comprar equipos y ajustar rutas para recoger la basura en zona urbana y rural.",
+    "que": "Mantener y ampliar la recolección en lo urbano y lo rural. Financiado con el Banco de Desarrollo. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, y ya compró vehículos antes. El plan no dice costo.",
+    "cita": "Fortalecer la recolección, transporte y disposición final de residuos sólidos mediante la compra de equipos",
+    "pag": 30
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Limpiar de forma permanente canales, esteros, alcantarillas y drenajes para evitar inundaciones.",
+    "que": "Lo haría con el vehículo limpiador municipal y con la Prefectura del Guayas. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: drenaje y canales urbanos. El plan no dice costo.",
+    "cita": "Ejecutar permanentemente la limpieza de canales, esteros, alcantarillas y sistemas de drenaje",
+    "pag": 36
+   },
+   {
+    "t": "Instalar una red nueva de cámaras de videovigilancia en el cantón.",
+    "que": "El ECU 911 (servicio nacional de emergencias) la operaría. El plan no dice cuántas cámaras ni cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "No le toca al alcalde: la operan el ECU 911 y la Policía Nacional.",
+    "cita": "Al finalizar la presente administración se implementará una nueva red de cámaras de videovigilancia",
+    "pag": 16
+   }
+  ],
+  "social": [
+   {
+    "t": "Construir cubiertas metálicas en escuelas, con convenio con el Ministerio de Educación.",
+    "que": "Lo haría solo con convenio firmado con el Ministerio. El plan no dice cuántas cubiertas, cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Las escuelas son del Ministerio de Educación; el Municipio solo puede ayudar.",
+    "cita": "Construcción de cubiertas metálicas en instituciones educativas mediante un convenio con el Ministerio de educación",
+    "pag": 38
+   }
+  ],
+  "economia": [
+   {
+    "t": "Construir el nuevo Mercado Municipal, si se consiguen los fondos.",
+    "que": "Costo referencial de los estudios: unos USD 4,9 millones. Gestionaría fondos con el Banco de Desarrollo y bancos internacionales. El plan no dice cuándo.",
+    "v": "media",
+    "n": "Mercados son del Municipio, pero depende de fondos externos y de comerciantes.",
+    "cita": "Gestionar el financiamiento y ejecutar la construcción del nuevo Mercado Municipal",
+    "pag": 31
+   }
+  ]
+ },
+ "metas": [
+  "Intervenir seis barrios adicionales al finalizar la administración.",
+  "Aumentar en un 15% los predios regularizados al 2031.",
+  "Completar la entrega de más de 800 equipos adicionales a estudiantes al término de la administración."
+ ],
+ "notas": [
+  "Muchas obras dependen de préstamos o de otros niveles de gobierno. La mayoría de metas no tiene costo ni fecha.",
+  "El plan dice cuatro y seis barrios en partes distintas, y varias obras son de la gestión actual 2023-2027."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41
+ ],
+ "paginas": 41
+}

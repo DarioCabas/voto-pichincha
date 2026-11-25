@@ -1,0 +1,183 @@
+{
+ "enfoque": "Plan que copia el plan de desarrollo del cantón. Propone agua, alcantarillado, basura, calles, tránsito y parques, pero sin montos ni fechas.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Arreglar y mantener el agua potable del cantón, primero donde hay más necesidad.",
+    "que": "El plan no dice cuánto costará ni en qué año. Se hará según el dinero disponible y dará prioridad a los sectores con mayores necesidades.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Mantenimiento, mejoramiento y rehabilitación progresiva de los sistemas de agua potable del cantón, priorizando los sectores que presenten mayores necesidades",
+    "pag": 24
+   },
+   {
+    "t": "Ampliar y mejorar las redes de alcantarillado, según necesidad y dinero disponible.",
+    "que": "Dice que se gestionará y se priorizará según el dinero disponible y los aportes de otras instituciones. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de dinero externo o préstamos.",
+    "cita": "Gestionar y priorizar la ampliación y mejoramiento de las redes de alcantarillado, de acuerdo con las necesidades identificadas",
+    "pag": 24
+   },
+   {
+    "t": "Hacer estudios y buscar dinero para tratar las aguas residuales (aguas sucias).",
+    "que": "El plan no dice cuándo ni cuánto costará. Solo habla de estudios y financiamiento; la obra se hará si es viable técnica y financieramente.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero necesita estudios y dinero de otras fuentes.",
+    "cita": "Gestión de estudios, alternativas técnicas y financiamiento para sistemas de tratamiento de aguas residuales",
+    "pag": 24
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Optimizar el servicio de recolección de basura, poco a poco.",
+    "que": "El plan no dice qué cambios hará ni cuánto costará. También habla de separar la basura en casa y reciclar, sin plazos.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué cambios ni cuándo.",
+    "cita": "Fortalecimiento y optimización progresiva del servicio municipal de recolección de residuos sólidos",
+    "pag": 33
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento periódico a las calles urbanas que son del Municipio.",
+    "que": "El plan no dice cuántas calles ni cuánto costará. Incluye revisar los puntos críticos de la red vial urbana con seguimiento.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuántas calles ni cuánto costará.",
+    "cita": "Gestionar el mantenimiento periódico y preventivo de la vialidad urbana de competencia municipal",
+    "pag": 38
+   },
+   {
+    "t": "Pedir al Gobierno Provincial del Azuay que atienda los caminos rurales del cantón.",
+    "que": "El Municipio impulsará y vigilará el pedido, con convenios y apoyo logístico. El plan no dice cuándo se harán las obras ni cuánto costarán.",
+    "v": "media",
+    "n": "No es competencia del Municipio; la Prefectura debe hacerlo. El plan no dice cuándo.",
+    "cita": "ante el Gobierno Provincial del Azuay, coordinando convenios de concurrencia",
+    "pag": 38
+   },
+   {
+    "t": "Poner señales y ordenar el tránsito donde hay congestión.",
+    "que": "Dice que habrá señalización horizontal y vertical (pintura en calles y letreros) y campañas de educación vial. No dice cuánto ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto ni cuándo.",
+    "cita": "Gestión de medidas de ordenamiento del tránsito en sectores que presenten congestión o conflictos de circulación",
+    "pag": 39
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar parques, plazas y áreas verdes existentes; nuevos solo con necesidad probada.",
+    "que": "El plan no dice cuánto costará ni en qué año. Dice que primero se arreglan los que hay; los nuevos solo con estudios, terrenos y dinero.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Mantenimiento, rehabilitación y mejoramiento de parques, plazas, áreas verdes y espacios recreativos",
+    "pag": 8
+   },
+   {
+    "t": "Orientar sobre el uso adecuado del suelo y facilitar trámites de terrenos.",
+    "que": "El plan no dice cuántas familias ni cuándo. Incluye actualizar la información de terrenos y apoyar la regularización de predios.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuándo se hará.",
+    "cita": "Mejoramiento de la planificación y orientación sobre el uso adecuado del suelo, conforme a la normativa vigente",
+    "pag": 23
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Tomar medidas para prevenir daños en zonas de riesgo, como deslizamientos e inundaciones.",
+    "que": "El plan no dice qué zonas ni cuándo. Incluye identificar sectores expuestos y poner sistemas de alerta, con avance progresivo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Implementación progresiva de medidas preventivas y de mitigación en zonas vulnerables",
+    "pag": 32
+   }
+  ]
+ },
+ "metas": [
+  "Asistencia técnica para el 100 % de los 338 productores registrados, según la meta del plan de desarrollo vigente.",
+  "Presentar cada año el avance del plan y el cumplimiento de metas.",
+  "Hacer cada año procesos de presupuesto participativo con la ciudadanía."
+ ],
+ "notas": [
+  "Casi todo el texto copia el plan de desarrollo del cantón. Las metas son generales y no dicen cuánto costará cada obra.",
+  "No tiene montos ni fechas por obra. Muchas acciones dicen 'gestionar' o dependen del dinero disponible.",
+  "Plan muy largo (93 págs.): se resumieron las 74 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  4,
+  7,
+  8,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  58,
+  59,
+  60,
+  61,
+  63,
+  64,
+  65,
+  66,
+  67,
+  69,
+  70,
+  71,
+  72,
+  73,
+  74,
+  75,
+  76,
+  77,
+  78,
+  79,
+  81,
+  82,
+  83,
+  84,
+  85,
+  86,
+  87,
+  88,
+  89,
+  90,
+  91,
+  92,
+  93
+ ],
+ "paginas": 93
+}

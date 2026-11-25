@@ -1,0 +1,153 @@
+{
+ "enfoque": "Ampliar alcantarillado y agua en barrios periféricos, regularizar predios, mejorar parques, basura y señalización vial. Varias metas dependen de otras entidades.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Regularizar predios de familias sin título y actualizar la lista de predios (catastro).",
+    "que": "Atender hasta 500 expedientes de predios sin título legal. El plan no dice cuánto costará. Otra parte del plan habla de 1.000 predios.",
+    "v": "alta",
+    "n": "Le toca al Municipio: el catastro y los predios son su competencia.",
+    "cita": "Actualizar e incorporar 500 predios al catastro municipal.",
+    "pag": 13
+   },
+   {
+    "t": "Construir o habilitar al menos 5 espacios recreativos nuevos y arreglar parques y canchas.",
+    "que": "Los espacios nuevos serán en barrios y recintos urbanos y rurales. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: parques y canchas son su competencia.",
+    "cita": "Construir o habilitar al menos 5 nuevos espacios recreativos en sectores priorizados urbanos y rurales.",
+    "pag": 29
+   },
+   {
+    "t": "Adecuar espacios públicos, miradores y áreas de descanso para la ruta turística.",
+    "que": "Se pagaría con la tasa por uso de espacio público. El plan no dice cu��nto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: el espacio público y el turismo local.",
+    "cita": "Adecuar espacios públicos, miradores y áreas de descanso.",
+    "pag": 12
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Dar mantenimiento y ampliar el alcantarillado sanitario y pluvial en barrios periféricos y recintos.",
+    "que": "Limpiar pozos y colectores, y ampliar la red en sectores priorizados. El plan no dice cuánto costará ni en qué fechas.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Ejecutar acciones de mantenimiento y ampliación de la infraestructura de alcantarillado sanitario y pluvial",
+    "pag": 10
+   },
+   {
+    "t": "Hacer los estudios y diseños de una planta potabilizadora de agua para el cantón.",
+    "que": "Se financiaría con crédito del Banco de Desarrollo del Ecuador. El plan no dice cuánto costará la planta ni cuándo empezará.",
+    "v": "media",
+    "n": "Depende de un crédito del banco. El plan solo llega a tener los estudios.",
+    "cita": "Contar con los estudios definitivos para la construcción de la planta potabilizadora de agua.",
+    "pag": 13
+   },
+   {
+    "t": "Ampliar rutas de recolección de basura hacia sectores con poco servicio y revisar horarios.",
+    "que": "Mantener o subir la cobertura en sectores priorizados. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: la basura es su competencia.",
+    "cita": "Ampliar rutas hacia sectores con atención limitada. Revisar horarios de recolección según generación de residuos.",
+    "pag": 15
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Pintar pasos peatonales y zonas escolares, y mejorar la luz en cruces peligrosos.",
+    "que": "Incluye pintura de calles y campañas para peatones y conductores. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: tránsito y calles. La policía no es del Municipio.",
+    "cita": "Pintar pasos peatonales, líneas de circulación y zonas escolares.",
+    "pag": 16
+   }
+  ],
+  "economia": [
+   {
+    "t": "Diseñar y gestionar un centro municipal de acopio para vender productos del campo.",
+    "que": "Busca que productores vendan sin intermediarios. Depende de estudios, presupuesto y acuerdo con la Prefectura. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "El Municipio puede impulsarlo, pero depende de la Prefectura y del presupuesto.",
+    "cita": "Diseñar y gestionar, con productores y GAD Provincial, un centro municipal de acopio/comercialización, sujeto a factibilidad, modelo de gestión y presupuesto",
+    "pag": 9
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Digitalizar al menos 10 trámites municipales prioritarios.",
+    "que": "Pasar trámites a formularios en línea con seguimiento. Usará ayuda de la Asociación de Municipalidades (AME), sujeta a convenio. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Trámite interno del Municipio. Depende de un convenio con la AME.",
+    "cita": "Digitalizar al menos 10 trámites o servicios municipales prioritarios.",
+    "pag": 37
+   }
+  ],
+  "otros": [
+   {
+    "t": "Hacer un diagnóstico de amenazas y riesgos del cantón, como inundaciones.",
+    "que": "Después, poner protocolos de actuación y mapas de zonas de riesgo. Se pagaría con el Fondo de Emergencia Municipal. El plan no dice cuánto.",
+    "v": "alta",
+    "n": "Prevenir desastres es competencia del Municipio. Coordina con bomberos.",
+    "cita": "Realizar diagnóstico de amenazas y vulnerabilidades del cantón.",
+    "pag": 13
+   }
+  ]
+ },
+ "metas": [
+  "Construir o habilitar 5 espacios recreativos nuevos en sectores urbanos y rurales.",
+  "Incorporar al menos 500 predios regularizados al sistema de cobro de impuestos del Municipio.",
+  "Digitalizar al menos 10 trámites municipales prioritarios.",
+  "Intervenir el 100 % de las vías urbanas priorizadas en el inventario.",
+  "Tener el 70 % de los sistemas de riego y drenaje del cantón inventariados y ubicados en mapa."
+ ],
+ "notas": [
+  "El plan da dos cifras de predios: 1.000 en unas páginas y 500 en otras. Tampoco dice cuánto costará ninguna obra.",
+  "Varias metas dependen de la Prefectura, del Gobierno o de créditos del Banco de Desarrollo. La planta de agua solo llega a estudios."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41
+ ],
+ "paginas": 41
+}

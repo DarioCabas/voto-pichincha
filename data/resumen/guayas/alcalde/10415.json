@@ -1,0 +1,157 @@
+{
+ "enfoque": "Plan 2027–2031 para agua, calles, caminos rurales, basura, parques y vendedores. El hospital y la policía no son del Municipio.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Dar mantenimiento permanente a pozos, bombas y redes de agua.",
+    "que": "Revisar y arreglar pozos, estaciones de bombeo y redes de forma permanente. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Implementar un programa permanente de mantenimiento preventivo y correctivo de pozos, estaciones de bombeo y redes.",
+    "pag": 19
+   },
+   {
+    "t": "Evaluar la piscina de oxidación para reducir la contaminación del Río Verde.",
+    "que": "La piscina de oxidación trata aguas sucias. El plan solo dice que la evaluará. No dice qué hará después ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero solo prevé evaluar, no construir.",
+    "cita": "Evaluar la piscina de oxidación y el tratamiento de aguas residuales para reducir el impacto sobre el Río Verde.",
+    "pag": 20
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Mantener y rehabilitar calles y avenidas urbanas y rurales.",
+    "que": "Dará prioridad a los sectores con más necesidades. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Planificar, gestionar y ejecutar programas permanentes de mantenimiento, rehabilitación y mejoramiento de calles, avenidas y vías urbanas y rurales, priorizando los sectores con mayores necesidades.",
+    "pag": 21
+   },
+   {
+    "t": "Mantener y mejorar caminos vecinales y vías rurales.",
+    "que": "Busca conectar los recintos y apoyar el desarrollo productivo del cantón. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "vías rurales que fortalezcan la conectividad y el desarrollo productivo del cantón.",
+    "pag": 24
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Mejorar la recolección, el transporte y la disposición final de la basura.",
+    "que": "Busca un servicio más eficiente y con más cobertura. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: el manejo de basura es su competencia.",
+    "cita": "Fortalecer el sistema integral de recolección, transporte y disposición final de los residuos sólidos, priorizando la eficiencia y la cobertura del servicio.",
+    "pag": 6
+   },
+   {
+    "t": "Cerrar técnicamente el botadero municipal actual y recuperar el terreno.",
+    "que": "El plan dice que lo gestionará con otras instituciones. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende del Ministerio del Ambiente y otras instituciones. El plan no dice cuándo.",
+    "cita": "Gestionar e impulsar el cierre técnico y la recuperación ambiental del actual botadero municipal",
+    "pag": 25
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar y mantener parques, áreas verdes y espacios públicos.",
+    "que": "El plan no dice qué parques se arreglarán ni cuánto costará. Busca mejorar la convivencia ciudadana.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué parques ni cuánto costará.",
+    "cita": "Impulsar proyectos de regeneración urbana, recuperación y mantenimiento de parques, áreas verdes y espacios públicos",
+    "pag": 22
+   }
+  ],
+  "economia": [
+   {
+    "t": "Entregar carretas estandarizadas a vendedores que trabajan por cuenta propia.",
+    "que": "Se entregarán poco a poco, con acompañamiento técnico. El plan no dice cuántas carretas ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pues ordena el espacio público. El plan no dice cuánto costará.",
+    "cita": "Implementar programas municipales para fortalecer el comercio autónomo mediante la entrega progresiva de carretas estandarizadas",
+    "pag": 35
+   }
+  ],
+  "social": [
+   {
+    "t": "Pedir al Gobierno Nacional un Hospital Básico para El Triunfo.",
+    "que": "El Municipio solo gestionaría la obra junto al Gobierno Nacional. El plan no dice cuándo ni cuánto costará.",
+    "v": "baja",
+    "n": "No le toca al Municipio: los hospitales son del Gobierno. El plan no dice cuándo.",
+    "cita": "la implementación de un Hospital Básico para el cantón El Triunfo",
+    "pag": 14
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Coordinar con la Policía Nacional acciones de prevención.",
+    "que": "El plan no dice qué acciones ni cuánto costará. La policía no depende del Municipio.",
+    "v": "baja",
+    "n": "No le toca al Municipio: la policía es del Gobierno Nacional.",
+    "cita": "Fortalecer la coordinación y el trabajo conjunto con la Policía Nacional",
+    "pag": 11
+   }
+  ]
+ },
+ "metas": [
+  "Plan de 4 años, periodo 2027–2031.",
+  "Rendición de cuentas una vez al año."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero.",
+  "Muchos textos son generales y repiten frases de planes de desarrollo; pocas propuestas tienen detalle."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46
+ ],
+ "paginas": 46
+}

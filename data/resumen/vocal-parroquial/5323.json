@@ -1,0 +1,127 @@
+{
+ "enfoque": "Caminos, cuidado del ambiente y producción. Buena parte está copiada del plan de desarrollo de la parroquia, e incluye obras de otros niveles.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Construir 8 km de adoquinado en la parroquia hasta 2029",
+    "que": "Obra de caminos en la parroquia. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura. Es una obra grande.",
+    "cita": "Construir 8 Km de adoquinado en la Parroquia Olmedo/Pesillo al 2029",
+    "pag": 6
+   },
+   {
+    "t": "Construir 15 km de empedrado, primero en sitios turísticos",
+    "que": "Hasta 2030. Prioriza Ventanas de Pesillo, Golondrinas de La Chimba, cerro Cusin de El Chaupi y San Pablo Urco. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura. El plan no dice cómo se paga.",
+    "cita": "Construir 15 Km de empedrado en la Parroquia Olmedo/Pesillo al 2030",
+    "pag": 6
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Crear un fondo verde pagado por los usuarios del agua",
+    "que": "Modelo de cuidado del ambiente desde 2027. El plan no dice cuánto dinero tendrá ni cómo se manejará.",
+    "v": "media",
+    "n": "Depende de los usuarios del agua y de un acuerdo. El plan no lo explica.",
+    "cita": "a través de un fondo verde que inyectaran los usuarios del agua",
+    "pag": 8
+   },
+   {
+    "t": "Reunirse con todas las comunidades para cuidar el ambiente",
+    "que": "Reuniones para explicar por qué cuidar el ambiente y cómo hacerlo. El plan no dice cuántas ni cuándo.",
+    "v": "alta",
+    "n": "Es organizar a la comunidad, tarea de la junta.",
+    "cita": "Gestionar y reunirse con todas las comunidades, para la concientización sobre la importancia de nuestro ambiente y como cuidarlo",
+    "pag": 8
+   },
+   {
+    "t": "Crear políticas para separar la basura",
+    "que": "Reglas para clasificar la basura. El plan no dice quién las aprueba ni cuánto costará.",
+    "v": "media",
+    "n": "Las reglas de basura necesitan al Municipio, no solo la junta.",
+    "cita": "Al 2028 se creará políticas para clasificación de desechos sólidos",
+    "pag": 6
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer estudios para que un centro de leche pueda industrializarla",
+    "que": "Estudios para que al menos un centro de acopio de leche procese su materia prima, al 2028. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Pide gestiones ante instituciones provinciales y nacionales.",
+    "cita": "necesarios para que al 2028 al menos un centro de acopio de leche de la Parroquia, pueda industrializar su materia prima",
+    "pag": 6
+   },
+   {
+    "t": "Capacitar a las comunidades para tener riego tecnificado",
+    "que": "Capacitación para que el 75% del riego sea tecnificado, al 2028. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Pide apoyo de instituciones provinciales y nacionales.",
+    "cita": "Al 2028 se contará con capacitación en las comunidades de la parroquia para que el 75% de riego sea tecnificado",
+    "pag": 6
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Gestionar agua potable y alcantarillado para comunidades sin servicio",
+    "que": "Meta: 70% de familias con agua y alcantarillado al 2030. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "Agua y alcantarillado le tocan al Municipio, no a la junta.",
+    "cita": "dotar de agua potable y alcantarillado aquellas comunidades que no cuentan con el servicio",
+    "pag": 7
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Crear una brigada comunitaria de seguridad",
+    "que": "Brigada lista al 2028. El plan no dice cuántas personas tendrá ni con qué presupuesto.",
+    "v": "media",
+    "n": "La junta puede organizarla, pero la policía no le toca.",
+    "cita": "Al 2028 la parroquia contara con una brigada comunitaria",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Entregar víveres al 100% de la población vulnerable",
+    "que": "Hasta 2030. El plan dice que lo harán entidades del Estado, pero no dice cuánto costará.",
+    "v": "baja",
+    "n": "Lo dan entidades del Estado, no la junta.",
+    "cita": "Al 2030 se entregará víveres al 100% de la población vulnerable",
+    "pag": 7
+   }
+  ]
+ },
+ "metas": [
+  "8 km de adoquinado al 2029",
+  "15 km de empedrado al 2030",
+  "7 puentes al 2030",
+  "75% del riego tecnificado al 2028",
+  "70% de familias con agua y alcantarillado al 2030"
+ ],
+ "notas": [
+  "Gran parte del plan está copiada del plan de desarrollo de la parroquia. Varias metas son de otros niveles, como agua y salud.",
+  "Ninguna obra dice cuánto costará ni de dónde saldrá el dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15
+ ],
+ "paginas": 15
+}

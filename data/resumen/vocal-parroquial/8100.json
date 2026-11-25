@@ -1,0 +1,134 @@
+{
+ "enfoque": "Caminos rurales con la Prefectura, mantenimiento de canchas y casas comunales, ferias de productores, asambleas en barrios y comités de seguridad. Usa el plan de desarrollo parroquial 2023-2027.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer mingas cada seis meses para arreglar caminos en cada barrio rural.",
+    "que": "Mingas cada seis meses en cada barrio rural, con maquinaria que se pide al Municipio de Mejía. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "La minga la organiza la junta, pero la maquinaria depende del Municipio.",
+    "cita": "Reactivación del mantenimiento vial comunitario con maquinaria gestionada ante el GAD cantonal.",
+    "pag": 10
+   },
+   {
+    "t": "Pedir a la Prefectura el lastrado y asfaltado de caminos rurales.",
+    "que": "Meta de al menos 10 km de caminos rurales arreglados entre los años 1 y 4. Necesita dinero y técnicos de la Prefectura. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "La junta gestiona, pero la obra depende de la Prefectura.",
+    "cita": "Diagnóstico técnico y gestión ante la Prefectura para lastrado y asfaltado",
+    "pag": 10
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Dar mantenimiento cada año a casas comunales, canchas y canchas multiuso.",
+    "que": "Mantenimiento de 14 casas comunales, 8 canchas deportivas y 11 canchas de uso múltiple, cada año. Lo paga el presupuesto propio de la junta. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Son espacios de la parroquia y se pagan con dinero propio de la junta.",
+    "cita": "Plan de mantenimiento de las 14 casas comunales, 8 canchas deportivas y 11 canchas de uso múltiple existentes.",
+    "pag": 11
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Instalar un punto de acopio de envases de agroquímicos y hacer campañas.",
+    "que": "Un punto de acopio en funcionamiento en los años 1 y 2, con campañas de sensibilización. Se gestiona con el Municipio de Mejía y el Ministerio de Agricultura (MAG). El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita al Municipio y al Ministerio de Agricultura para el punto de acopio.",
+    "cita": "Campañas de sensibilización y punto de acopio de residuos y envases agroquímicos.",
+    "pag": 13
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Formar comités de seguridad y capacitarlos en los 23 barrios.",
+    "que": "Comités de seguridad en los 23 barrios, con capacitación. Se gestiona con la Policía Nacional y el Municipio. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Organizar a los vecinos sí le toca a la junta. La policía no es de la junta.",
+    "cita": "Conformación y capacitación de comités comunitarios de seguridad ciudadana y prevención del delito en los 23 barrios.",
+    "pag": 15
+   }
+  ],
+  "social": [
+   {
+    "t": "Pedir al Ministerio de Inclusión Económica y Social (MIES) reabrir el CDI.",
+    "que": "Gestionar la firma de un convenio para reabrir el Centro de Desarrollo Infantil (CDI) de la parroquia. Plazo: año 1. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "Le toca al MIES, no a la junta. La junta solo puede pedirlo.",
+    "cita": "Gestión ante el MIES de la firma del convenio pendiente para reabrir el CDI parroquial.",
+    "pag": 11
+   }
+  ],
+  "economia": [
+   {
+    "t": "Organizar ferias periódicas para que los productores vendan directo.",
+    "que": "Al menos 4 ferias al año, de forma permanente, con gestión ante el Ministerio de Agricultura (MAG) y la junta. El plan no dice cuánto costará ni dónde se harán.",
+    "v": "alta",
+    "n": "Organizar ferias sí le toca a la junta y cuesta poco.",
+    "cita": "Organización de ferias periódicas para venta directa de productores locales.",
+    "pag": 12
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas en los barrios rurales, no solo en la cabecera.",
+    "que": "Al menos 2 asambleas al año en los barrios rurales. Es permanente. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Reunir a la comunidad sí le toca a la junta y cuesta poco.",
+    "cita": "Sesiones del Consejo de Planificación y asambleas en los barrios rurales, no solo en la cabecera.",
+    "pag": 14
+   },
+   {
+    "t": "Publicar cada semestre el gasto, contratos y obras de la junta.",
+    "que": "Informe público cada semestre con la ejecución del presupuesto, contratos y obras de la junta. Es permanente. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Publicar cuentas es tarea de la junta y cuesta poco.",
+    "cita": "Publicación abierta de la ejecución presupuestaria, contratos y obras del GAD.",
+    "pag": 14
+   },
+   {
+    "t": "Dejar que los barrios decidan una parte del presupuesto anual de obras.",
+    "que": "Los barrios priorizan una parte del presupuesto de inversión cada año, desde el año 1. El plan no dice qué parte ni cuánto es.",
+    "v": "alta",
+    "n": "Lo decide la junta con los barrios. El plan no dice qué porcentaje.",
+    "cita": "Priorización comunitaria de una parte del presupuesto de inversión anual.",
+    "pag": 14
+   }
+  ]
+ },
+ "metas": [
+  "Al menos 10 km de caminos rurales intervenidos, en los años 1 a 4.",
+  "Mingas viales cada seis meses en cada barrio rural.",
+  "Mantenimiento anual de 14 casas comunales, 8 canchas deportivas y 11 canchas de uso múltiple.",
+  "Al menos 4 ferias de productores al año.",
+  "Al menos 2 asambleas al año en barrios rurales."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará cada propuesta. Dice que la junta maneja unos USD 80.000 al año, insuficientes por sí solos.",
+  "Varias metas son de otros niveles: agua, Centro de Desarrollo Infantil, policía y vías grandes. La junta solo puede pedirlas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20
+ ],
+ "paginas": 20
+}

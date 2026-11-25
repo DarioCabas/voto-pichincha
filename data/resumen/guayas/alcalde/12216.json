@@ -1,0 +1,132 @@
+{
+ "enfoque": "Agua y alcantarillado para el campo, arreglo de la vía de La Aurora, centros de arroz, cámaras y trámites digitales. Varias obras dependen de crédito o de otros niveles de gobierno.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Llevar agua potable y alcantarillado al campo y a zonas periféricas.",
+    "que": "Meta: 80% con agua potable y 65% con alcantarillado en el campo y zonas periféricas. El plan no dice cuánto costará. Se pagaría con dinero del Estado, ingresos propios y créditos.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará; depende de créditos y del Estado.",
+    "cita": "Alcanzar el 80% de cobertura de agua potable y el 65% de alcantarillado sanitario en el sector rural y comunidades periféricas del cantón.",
+    "pag": 12
+   },
+   {
+    "t": "Arreglar y construir plantas para tratar aguas residuales.",
+    "que": "El plan no dice cuánto costará ni cuándo. Entra en la inversión de agua y alcantarillado, que es el 28% del presupuesto de inversión.",
+    "v": "alta",
+    "n": "Le toca al Municipio (alcantarillado). El plan no dice costo ni plazo.",
+    "cita": "repotenciar y construir Plantas de Tratamiento de Aguas Residuales (PTAR)",
+    "pag": 9
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer pasos elevados y pasos deprimidos en la avenida León Febres-Cordero, en La Aurora.",
+    "que": "Meta: reducir 35% el tiempo de traslado en esa avenida. El plan no dice cuánto costará ni en qué año se terminará. Pide crédito del Banco de Desarrollo.",
+    "v": "alta",
+    "n": "Le toca al Municipio (calles y tránsito). El plan no dice cuánto costará.",
+    "cita": "Ejecutar el Plan Solución Vial La Aurora, construyendo pasos elevados, pasos deprimidos,",
+    "pag": 12
+   },
+   {
+    "t": "Firmar convenios con la Prefectura para mantener las vías rurales.",
+    "que": "El plan no dice cuánto costará ni cuándo. Depende de que la Prefectura del Guayas firme los convenios.",
+    "v": "media",
+    "n": "Las vías rurales no están en la lista del alcalde. Depende de que la Prefectura firme.",
+    "cita": "Convenios concurrentes prioritarios para el mantenimiento vial rural asfáltico",
+    "pag": 13
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Construir obras para proteger de inundaciones las orillas de Laurel, Limonal y Los Lojas.",
+    "que": "Lo haría junto con la Prefectura y el servicio nacional de riesgos. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Prevenir inundaciones sí le toca. Depende de la Prefectura y del servicio nacional de riesgos.",
+    "cita": "construyendo obras de protección de márgenes en Laurel, Limonal y Los Lojas",
+    "pag": 12
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear centros para secar y guardar arroz con tarifas comunitarias.",
+    "que": "Meta: capacidad de 15.000 toneladas de arroz al año. Busca bajar 25% la intermediación. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "No está en la lista de competencias del alcalde. Necesita alianzas y dinero de otros.",
+    "cita": "Crear la Red Cantonal de Centros de Acopio",
+    "pag": 12
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar centrales de monitoreo y cámaras con inteligencia artificial.",
+    "que": "Las cámaras se conectarían con el servicio de emergencias 911. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Las cámaras sí, pero la policía no le toca al alcalde. Depende de la Policía y del Gobierno.",
+    "cita": "instalando centrales de monitoreo, videovigilancia con Inteligencia Artificial",
+    "pag": 12
+   }
+  ],
+  "social": [
+   {
+    "t": "Gastar el 60% de las obras municipales en zonas rurales y barrios periféricos.",
+    "que": "Lo dice el plan para reducir la desigualdad entre La Aurora y el campo. El plan no dice cuánto es ese 60% en dólares.",
+    "v": "alta",
+    "n": "Le toca al Municipio decidir sus obras. Es un porcentaje, no un monto en dólares.",
+    "cita": "invirtiendo el 60% del presupuesto de obras públicas municipales en sectores rurales",
+    "pag": 12
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Abrir una sede en La Aurora y oficinas técnicas en parroquias rurales.",
+    "que": "El plan también pide pasar el 100% de los trámites a digital. No dice cuánto costará ni en qué año.",
+    "v": "alta",
+    "n": "Le toca al Municipio: son sus propios trámites y oficinas. El plan no dice costo.",
+    "cita": "implementar la Sede Administrativa Desconcentrada de La Aurora y Oficinas Técnicas en Parroquias Rurales",
+    "pag": 12
+   },
+   {
+    "t": "Poner al día el registro de propiedades para cobrar impuestos de forma justa.",
+    "que": "El plan no dice cuánto costará ni en qué plazo. Busca que el cobro de impuestos sea justo y transparente.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Actualizar el Catastro Multipropósito Cantonal para garantizar una recaudación justa, progresiva y transparente",
+    "pag": 12
+   }
+  ]
+ },
+ "metas": [
+  "80% de cobertura de agua potable en el campo y zonas periféricas, hasta 2031.",
+  "65% de cobertura de alcantarillado en el campo y zonas periféricas, hasta 2031.",
+  "Reducir 35% el tiempo de traslado en la avenida León Febres-Cordero (La Aurora).",
+  "Centro de acopio de arroz con capacidad de 15.000 toneladas al año.",
+  "100% de trámites municipales digitalizados, hasta 2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará casi ninguna obra. Varias dependen de créditos, del Estado o de la Prefectura.",
+  "Usa datos del PDOT de la parroquia San Jacinto de Daule, que no es del cantón. La evaluación de medio término dice 2023."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "paginas": 18
+}

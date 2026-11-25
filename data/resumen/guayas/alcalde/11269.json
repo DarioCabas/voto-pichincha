@@ -1,0 +1,131 @@
+{
+ "enfoque": "Plan de obras municipales: agua y alcantarillado, calles, basura, parques y uso del suelo, por etapas hasta 2031. No dice cuánto costará.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar y mejorar el agua potable y el alcantarillado del cantón.",
+    "que": "Primero se identifican las zonas con más necesidad (2027). Luego se ejecutan obras en 2028 y 2029. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Identificar las zonas con mayores necesidades de agua potable, alcantarillado y drenaje.",
+    "pag": 17
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer un plan y arreglar calles, aceras y drenajes urbanos.",
+    "que": "Primero se hace un plan de intervención vial (2027). Luego se arreglan calles de 2028 a 2030. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Calles y aceras urbanas son del Municipio. Caminos rurales dependen de la Prefectura.",
+    "cita": "Se requiere implementar un programa integral de mantenimiento vial urbano y rural,",
+    "pag": 7
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Mejorar las rutas y frecuencias de recolección de basura.",
+    "que": "Diagnóstico y campaña en 2027; implementación en 2028. El plan no dice cuánto costará ni cuántas rutas se cambiarán.",
+    "v": "alta",
+    "n": "La basura es competencia del Municipio. El plan no dice costos.",
+    "cita": "Necesidad de mejorar rutas y frecuencias de recolección.",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar parques, canchas y áreas verdes.",
+    "que": "Priorización en 2027; obras en 2028 a 2030; mantenimiento en 2031. El plan no dice cuáles parques ni cuánto costará.",
+    "v": "alta",
+    "n": "Parques y espacios públicos son del Municipio. El plan no dice costos.",
+    "cita": "Recuperar, ampliar y mantener los espacios públicos, parques, áreas verdes,",
+    "pag": 14
+   },
+   {
+    "t": "Aplicar el plan de uso del suelo y frenar asentamientos en zonas de riesgo.",
+    "que": "El plan busca evitar asentamientos en zonas de riesgo y ordenar el crecimiento. El plan no dice cómo ni cuánto costará.",
+    "v": "alta",
+    "n": "El uso del suelo es competencia municipal. El plan no dice cuándo ni cómo.",
+    "cita": "evitando asentamientos en zonas de riesgo y garantizando una adecuada distribución de",
+    "pag": 14
+   }
+  ],
+  "otros": [
+   {
+    "t": "Actualizar mapas de riesgo y limpiar canales de aguas lluvias.",
+    "que": "Mapas de riesgo en 2027; obras preventivas en 2028 y 2029. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Prevenir desastres es competencia del Municipio. El plan no dice costos.",
+    "cita": "Realizar limpieza preventiva de canales y sistemas de evacuación de aguas, dentro",
+    "pag": 11
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas de barrio y presupuesto participativo cada año.",
+    "que": "Cada año se abren espacios para decidir prioridades de barrios y comunidades. El plan no dice cuánto dinero se decidirá así.",
+    "v": "alta",
+    "n": "Es función propia del Municipio. El plan no dice cuántas asambleas.",
+    "cita": "Cada año se promoverán espacios de participación para determinar las principales",
+    "pag": 29
+   }
+  ],
+  "economia": [
+   {
+    "t": "Diseñar programas de apoyo a emprendimientos y producción local.",
+    "que": "En 2027 solo se diseñan; en 2028 se fortalecen. El plan no dice cuánto costará ni cuántas personas se beneficiarán.",
+    "v": "media",
+    "n": "Crear empleo no es del Municipio; solo puede apoyar a emprendedores.",
+    "cita": "Diseñar programas de apoyo al emprendimiento y producción local.",
+    "pag": 17
+   }
+  ]
+ },
+ "metas": [
+  "Informe público de gestión cada tres meses.",
+  "Asambleas ciudadanas cada seis meses en barrios y comunidades.",
+  "100 % de proyectos prioritarios con seguimiento de avance.",
+  "Evaluación intermedia del plan en 2029.",
+  "Programa anual de capacitación para el personal municipal."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará casi ninguna obra; casi todo depende de dinero del Estado o de convenios.",
+  "Parte de la introducción habla de concejales y parroquias urbanas: el texto puede venir de otro cargo."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33
+ ],
+ "paginas": 33
+}

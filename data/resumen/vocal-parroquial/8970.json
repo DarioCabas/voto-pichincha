@@ -1,0 +1,139 @@
+{
+ "enfoque": "Plan general: cuidar caminos rurales con la Prefectura, mantener espacios públicos, cuidar el ambiente y organizar mingas y a la comunidad. Sin costos ni lugares.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Elegir qué caminos rurales se arreglan primero, según su importancia para las comunidades.",
+    "que": "El plan no dice qué caminos ni cuándo. Dice que se elegirán según su uso para comunidades y zonas productivas. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Planificar y elegir prioridades cuesta poco y le toca a la junta.",
+    "cita": "Planificación de la vialidad parroquial rural: identificar y priorizar las vías y caminos",
+    "pag": 16
+   },
+   {
+    "t": "Hacer mantenimiento de caminos rurales junto con la Prefectura de Pichincha.",
+    "que": "El plan no dice cuánto costará. Se hará según el presupuesto disponible, en coordinación con el Gobierno Provincial de Pichincha, en 2027-2031.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura. El plan no dice con qué dinero se paga.",
+    "cita": "de mantenimiento de la vialidad parroquial rural, en coordinación con el Gobierno",
+    "pag": 16
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Dar mantenimiento y mejorar la infraestructura y los espacios públicos de la parroquia.",
+    "que": "El plan no dice qué obras ni dónde, ni cuánto costará. Se hará poco a poco, según el presupuesto disponible.",
+    "v": "media",
+    "n": "Espacios pequeños sí; obras grandes necesitan acuerdo con el Municipio.",
+    "cita": "impulsar progresivamente el mantenimiento, adecuación y mejoramiento de la",
+    "pag": 16
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Animar a la comunidad a cuidar la biodiversidad y el patrimonio natural.",
+    "que": "El plan no dice qué acciones ni dónde, ni cuánto costará. Se hará con la participación de la comunidad.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta. Cuesta poco.",
+    "cita": "Incentivar acciones comunitarias para la protección de la biodiversidad y el",
+    "pag": 19
+   },
+   {
+    "t": "Recuperar espacios naturales de la parroquia con acciones comunitarias.",
+    "que": "El plan no dice cuáles espacios ni cuánto costará. Se hará junto con las instituciones competentes.",
+    "v": "media",
+    "n": "Necesita acuerdo con otras instituciones. La junta organiza a la gente.",
+    "cita": "recuperación de espacios naturales de la parroquia, en coordinación con las entidades",
+    "pag": 20
+   }
+  ],
+  "economia": [
+   {
+    "t": "Ayudar a vender productos locales, con apoyo de instituciones y organizaciones.",
+    "que": "El plan no dice cómo, dónde ni cuánto costará. Se hará en coordinación con las instituciones y organizaciones competentes.",
+    "v": "media",
+    "n": "La junta puede organizar ventas, pero necesita aliados. El plan no dice cuáles.",
+    "cita": "Impulsar mecanismos de promoción y comercialización de productos locales.",
+    "pag": 19
+   }
+  ],
+  "social": [
+   {
+    "t": "Ayudar a los barrios, comunas y comunidades a organizarse y participar.",
+    "que": "El plan no dice cuántas organizaciones ni cuánto costará. Se hará con mecanismos permanentes de participación ciudadana.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta. Cuesta poco.",
+    "cita": "Fortalecer la organización y participación de barrios, comunas, comunidades y",
+    "pag": 23
+   },
+   {
+    "t": "Organizar mingas, es decir trabajo comunitario, para obras de interés colectivo.",
+    "que": "El plan no dice cuántas mingas ni dónde. Dice que servirán para acciones de interés colectivo.",
+    "v": "alta",
+    "n": "Las mingas son trabajo de la comunidad; la junta las puede convocar.",
+    "cita": "Impulsar la participación comunitaria y las mingas para el desarrollo de acciones de",
+    "pag": 23
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Informar a la comunidad sobre la gestión, con rendición de cuentas.",
+    "que": "El plan no dice cuándo ni con qué medios. Dice que habrá rendición de cuentas anual e información pública sobre la gestión.",
+    "v": "alta",
+    "n": "Es tarea de la junta y cuesta poco.",
+    "cita": "Fortalecer la transparencia, rendición de cuentas y acceso ciudadano a la",
+    "pag": 23
+   },
+   {
+    "t": "Vigilar la ejecución de obras y servicios públicos de la parroquia.",
+    "que": "El plan no dice qué obras ni cuándo. Dice que la ciudadanía hará seguimiento de las obras y servicios que se hagan en la parroquia.",
+    "v": "alta",
+    "n": "Vigilar obras sí le toca a la junta. No le toca arreglar agua, salud ni escuelas.",
+    "cita": "Fortalecer la vigilancia ciudadana y el seguimiento de las obras y servicios públicos",
+    "pag": 15
+   }
+  ]
+ },
+ "metas": [
+  "Plan válido para el periodo 2027-2031.",
+  "Rendición de cuentas anual, según el plan."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero. Solo dice que depende del presupuesto disponible.",
+  "Texto muy general: no nombra caminos, parques ni lugares. Parte del diagnóstico viene de planes del Distrito y de la parroquia."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30
+ ],
+ "paginas": 30
+}

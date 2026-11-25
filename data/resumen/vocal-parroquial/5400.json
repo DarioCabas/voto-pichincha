@@ -1,0 +1,64 @@
+{
+ "enfoque": "Asambleas comunitarias, ferias de productores, mingas ambientales y pedir arreglo de caminos rurales. El plan no dice cuánto costará nada.",
+ "tabla": {
+  "social": [
+   {
+    "t": "Dar cursos de liderazgo comunitario a jóvenes y mujeres.",
+    "que": "El plan dice que habrá capacitaciones de liderazgo y formación anual de líderes. No dice cuánto costará ni quién dará los cursos.",
+    "v": "alta",
+    "n": "Cursos y reuniones los puede organizar la junta. Cuesta poco.",
+    "cita": "Capacitaciones de Liderazgo Comunitario para jóvenes y mujeres",
+    "pag": 2
+   }
+  ],
+  "economia": [
+   {
+    "t": "Impulsar proyectos para dar más valor a productos locales.",
+    "que": "El plan no dice qué proyectos serán ni cuánto costarán. Tampoco dice de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Puede necesitar apoyo del Municipio; el plan no dice cómo se paga.",
+    "cita": "Impulsar proyectos de valor agregado para productos locales",
+    "pag": 2
+   },
+   {
+    "t": "Crear ferias permanentes de productores y pedir cursos técnicos para agricultores.",
+    "que": "El plan no dice dónde ni cuándo serán las ferias ni cuánto costarán. No dice a qué entidad se pedirán los cursos.",
+    "v": "media",
+    "n": "La junta puede organizar ferias. Los cursos dependen de otras entidades.",
+    "cita": "Crear ferias permanentes de productores. Gestionar capacitación técnica para agricultores.",
+    "pag": 2
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Plantar árboles en la comunidad y recuperar quebradas y vertientes de agua.",
+    "que": "El plan no dice cuántos árboles ni cuántas hectáreas, ni cuánto costará. Tampoco dice en qué lugares ni cuándo.",
+    "v": "media",
+    "n": "Puede hacerse en parte con mingas; obras grandes necesitarían apoyo de otras entidades.",
+    "cita": "Programa de reforestación comunitaria. Recuperación de quebradas, vertientes y zonas de recarga",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [
+  "100% de comunidades participando en asambleas.",
+  "Rendición de cuentas cada seis meses (semestrales).",
+  "Formación anual de líderes comunitarios."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Incluye temas de salud y programas de otras entidades que la junta solo puede pedir, no hacer."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "paginas": 8
+}

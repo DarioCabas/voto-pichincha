@@ -1,0 +1,124 @@
+{
+ "enfoque": "Plan copiado del plan de desarrollo de la parroquia: calles, seguridad, ambiente, empleo y turismo. Casi todo depende del Municipio.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer mantenimiento de vías parroquiales, aceras y espacios públicos.",
+    "que": "Revisar y arreglar calles, aceras y espacios públicos. Está en el plan para el Año 1. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio o la Prefectura. El plan no dice cuánto cuesta.",
+    "cita": "Mantenimiento preventivo de vías parroquiales, aceras y espacios públicos",
+    "pag": 12
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar parques, plazas y espacios recreativos, y ponerles luz.",
+    "que": "Recuperar parques, plazas y espacios recreativos, con luz. El plan no dice en qué año se hará ni cuánto costará.",
+    "v": "media",
+    "n": "Los parques sí son de la junta; la luz pública depende de acuerdo con el Municipio.",
+    "cita": "Recuperación e iluminación de parques, plazas y espacios recreativos",
+    "pag": 13
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer jornadas de limpieza y siembra de árboles en las quebradas.",
+    "que": "Mingas para limpiar quebradas y sembrar árboles. Está en el Año 1. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Mingas con vecinos: le toca a la junta y cuesta poco.",
+    "cita": "Jornadas de limpieza, reforestación y recuperación de quebradas",
+    "pag": 12
+   },
+   {
+    "t": "Dar composteras a la comunidad y enseñar a reciclar.",
+    "que": "Comprar composteras comunitarias y dar cursos sobre reciclaje y economía circular. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Comprar equipos cuesta dinero y el plan no dice de dónde saldrá.",
+    "cita": "Adquisición y dotación de composteras comunitarias junto con jornadas permanentes de capacitación técnica en economía circular y reciclaje en la fuente",
+    "pag": 13
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Formar grupos de vecinos para la convivencia y la seguridad en barrios.",
+    "que": "Organizar brigadas de vecinos en los barrios. El plan no dice cuánto costará ni cuándo empezará.",
+    "v": "media",
+    "n": "Organizar vecinos sí le toca a la junta; la policía no le toca.",
+    "cita": "Conformación de brigadas comunitarias de seguridad y convivencia",
+    "pag": 12
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas de vecinos cada tres meses en barrios y sectores.",
+    "que": "Reunir a cada barrio y sector cada tres meses para ver el avance de obras y proponer cambios. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Reunir a la comunidad le toca a la junta y cuesta poco.",
+    "cita": "Se institucionalizará la realización de Asambleas Ciudadanas trimestrales en los diferentes barrios, comunas y sectores de Pomasqui",
+    "pag": 15
+   },
+   {
+    "t": "Crear mesas permanentes con el Municipio, ministerios y universidades.",
+    "que": "Mesas para planear y decidir obras con el Municipio, ministerios, universidades y empresas. El plan no dice cuándo se instalarán.",
+    "v": "media",
+    "n": "Depende de que otras instituciones participen. El plan no dice cuándo.",
+    "cita": "Se conformarán Mesas Técnicas Permanentes de Cogestión, integradas por representantes del",
+    "pag": 15
+   }
+  ],
+  "social": [
+   {
+    "t": "Dar cursos de emprendimiento, inglés, inteligencia artificial y marketing digital.",
+    "que": "Cursos de formación continua sobre esos temas y liderazgo comunitario. El plan no dice cuánto costará ni dónde se darán.",
+    "v": "alta",
+    "n": "Organizar cursos sí le toca a la junta. El plan no dice cuánto costará.",
+    "cita": "en emprendimiento, inglés, inteligencia artificial, marketing digital y liderazgo comunitario",
+    "pag": 12
+   }
+  ],
+  "economia": [
+   {
+    "t": "Armar rutas turísticas por patrimonio, comida y bienestar.",
+    "que": "Diseñar recorridos turísticos de Pomasqui. El plan no dice cuánto costará ni quién los hará.",
+    "v": "media",
+    "n": "Turismo necesita acuerdo con el Municipio. El plan no dice costos.",
+    "cita": "Diseño e implementación de rutas patrimoniales, gastronómicas y de bienestar",
+    "pag": 13
+   }
+  ]
+ },
+ "metas": [
+  "Asambleas ciudadanas cada tres meses (trimestrales) en barrios y sectores.",
+  "Evaluación técnica del plan al final de cada año de gestión.",
+  "Año 4: evaluación integral del plan y publicación del informe de gestión."
+ ],
+ "notas": [
+  "Texto copiado del plan de desarrollo de la parroquia. Casi no dice cuánto costará ni de dónde saldrá el dinero.",
+  "Parte del texto está borrosa por el escaneo. Lo firma Denis Vivas (Vocal Primera); no se ven firmas de los otros cuatro candidatos."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20
+ ],
+ "paginas": 20
+}

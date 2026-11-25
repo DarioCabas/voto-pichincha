@@ -1,0 +1,115 @@
+{
+ "enfoque": "Plan para Bucay: arreglar agua y alcantarillado, mantener calles, prevenir riesgos y ordenar mercados y parques. No dice cuánto costará ni cuándo se hará.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Dar mantenimiento a las redes de agua y arreglar el alcantarillado, con el Programa Agua Segura Bucay.",
+    "que": "El plan dice que se hará por etapas, dando prioridad a los sectores con más necesidad. El plan no dice cuánto costará ni en qué año se hará cada parte.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Programa Agua Segura Bucay; mantenimiento y sectorización de redes; rehabilitación de sistemas de alcantarillado; drenaje pluvial",
+    "pag": 9
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento vial cada año y arreglar calles urbanas por prioridad.",
+    "que": "El plan no dice cuántas calles se arreglarán ni cuánto costará. Los caminos rurales dependen de coordinación con otro nivel de gobierno.",
+    "v": "alta",
+    "n": "Calles urbanas: le tocan al Municipio. Caminos rurales: los lleva otro nivel.",
+    "cita": "Plan anual de mantenimiento vial; intervención de calles urbanas por prioridad; caminos de acceso productivo mediante coordinación",
+    "pag": 9
+   },
+   {
+    "t": "Poner señalización, mejorar la accesibilidad peatonal e iluminar puntos críticos.",
+    "que": "El plan no dice en qué calles ni cuánto costará. La luz en puntos críticos se hará según la competencia que tenga el Municipio.",
+    "v": "media",
+    "n": "Parte sí le toca al Municipio; la iluminación depende de su competencia.",
+    "cita": "señalización; accesibilidad peatonal; iluminación en puntos críticos según competencia",
+    "pag": 9
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer un mapa de riesgos y limpiar drenajes y cauces donde corresponda.",
+    "que": "El plan no dice en qué zonas ni cuánto costará. Incluye también protocolos comunitarios y reforestación.",
+    "v": "alta",
+    "n": "Prevenir desastres le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Mapa operativo de riesgos; limpieza preventiva de drenajes y cauces donde corresponda; protocolos comunitarios",
+    "pag": 10
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Controlar el uso del suelo y mejorar el espacio público con accesibilidad para todos.",
+    "que": "El plan no dice qué espacios se mejorarán ni cuánto costará. Dice que se deben evitar nuevas ocupaciones en zonas de riesgo.",
+    "v": "alta",
+    "n": "Uso del suelo le toca al Municipio. El plan no dice dónde ni cuándo.",
+    "cita": "control de uso de suelo; mejoramiento de espacio público; accesibilidad universal.",
+    "pag": 10
+   },
+   {
+    "t": "Recuperar parques y hacer una agenda cultural en el cantón.",
+    "que": "El plan no dice qué parques se arreglarán ni cuánto costará. Incluye escuelas deportivas comunitarias.",
+    "v": "alta",
+    "n": "Parques le tocan al Municipio. El plan no dice cuáles ni cuánto costará.",
+    "cita": "Recuperación de parques; agenda cultural; escuelas deportivas comunitarias;",
+    "pag": 10
+   }
+  ],
+  "economia": [
+   {
+    "t": "Ordenar mercados y ferias, y hacer un calendario de ferias productivas.",
+    "que": "El plan no dice dónde ni cuánto costará. La capacitación a productores se hará mediante convenios con otras entidades.",
+    "v": "alta",
+    "n": "Mercados le tocan al Municipio. La capacitación depende de convenios.",
+    "cita": "Mercados y ferias ordenadas; calendario de ferias productivas; capacitación y asistencia mediante convenios",
+    "pag": 9
+   },
+   {
+    "t": "Armar la Ruta Bucay Naturaleza y Aventura, con señales y puntos de información.",
+    "que": "El plan no dice cuándo estará lista ni cuánto costará. Depende de convenios y de la coordinación con operadores turísticos.",
+    "v": "media",
+    "n": "Depende de convenios y operadores. El plan no dice cuánto costará.",
+    "cita": "Ruta Bucay Naturaleza y Aventura; señalización turística; puntos de información;",
+    "pag": 9
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear una ventanilla única para trámites y un portal para seguir los proyectos.",
+    "que": "El plan no dice qué trámites se incluyen ni en cuánto tiempo. Dice que la digitalización será gradual.",
+    "v": "alta",
+    "n": "Trámites son del Municipio. El plan no dice plazos ni costos.",
+    "cita": "Ventanilla única; digitalización gradual; tablero de proyectos; portal de seguimiento;",
+    "pag": 10
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan no da costos ni fechas por obra. Las tablas de inversión y metas salen ilegibles en partes del documento.",
+  "Muchas líneas se repiten igual en cada eje y casi no dan lugares concretos. Las metas se fijarán tras 100 días."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17
+ ],
+ "paginas": 17
+}

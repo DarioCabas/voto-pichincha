@@ -1,0 +1,164 @@
+{
+ "enfoque": "Propone arreglar caminos, parques y casas comunales, dar cursos a productores, hacer ferias y talleres ambientales y organizar asambleas en los 22 barrios. No dice cuánto costará.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Recuperar parques, casas comunales y escenarios deportivos de la parroquia.",
+    "que": "Dar mantenimiento y arreglar espacios públicos, casas comunales y escenarios deportivos, con mingas comunitarias. Plazo: 2027-2031. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta: parques y espacios de la parroquia. El plan no dice cuánto costará.",
+    "cita": "Ejecutar el Plan de Recuperación de Espacios Públicos, mantenimiento de casos comunales y mejoramiento de escenarios deportivos de la parroquia",
+    "pag": 35
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar caminos rurales y accesos entre barrios.",
+    "que": "Hacer 10 proyectos de mantenimiento y mejoramiento de vías rurales entre 2027 y 2031, con convenios con la Prefectura. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Los caminos se hacen junto con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Ejecutar 10 proyectos de mantenimiento y mejoramiento vial rural",
+    "pag": 47
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear escuelas formativas deportivas para niños y jóvenes.",
+    "que": "Formar entrenadores locales y organizar campeonatos entre barrios, con apoyo del Ministerio del Deporte. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Ministerio del Deporte. El plan no dice cuánto costará.",
+    "cita": "Creación y fortalecimiento de escuelas formativas deportivas, capacitación de entrenadores",
+    "pag": 35
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar talleres y asistencia técnica a emprendedores, agricultores y artesanos.",
+    "que": "Dar cursos de educación financiera, publicidad digital y agroecología. Meta: apoyar 10 proyectos productivos, 2027-2031. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Cursos y talleres son tarea de la junta. El plan no dice cuánto costará.",
+    "cita": "Talleres de capacitación práctica, formación en digitalización de negocios, impulso a la agroecología y asistencia técnica a emprendedores",
+    "pag": 37
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Plantar especies nativas y proteger vertientes de agua.",
+    "que": "Reforestar con especies nativas, cuidar vertientes, dar talleres de educación ambiental y prevenir incendios. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Cuidar el ambiente es tarea de la junta. El plan no dice cuánto costará.",
+    "cita": "Reforestación con especies nativas, rotección de vertientes hídricas",
+    "pag": 41
+   }
+  ],
+  "otros": [
+   {
+    "t": "Organizar festivales y las fiestas patronales de San Cristóbal.",
+    "que": "Hacer festivales, difundir la fiesta patronal y apoyar a artistas y gestores culturales locales. Plazo: 2027-2031. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es tarea de la junta. El plan no dice cuánto costará.",
+    "cita": "Organización de festivales, difusión de festividades patronales en honor a nuestro patrono San Cristóbal",
+    "pag": 43
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar cuentas en una web y hacer asambleas y presupuestos participativos en los barrios.",
+    "que": "Hacer asambleas barriales, presupuestos participativos, veedurías y un portal web. El plan también prevé 4 convenios de cooperación internacional. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Asambleas y cuentas públicas son tarea de la junta. Los convenios dependen de otras instancias.",
+    "cita": "Portal web transparente, asambleas barriales, presupuestos participativos, veedurías y banco de cooperación internacional",
+    "pag": 47
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Poner iluminación y seguridad en espacios públicos con otras instituciones.",
+    "que": "Mantenimiento directo, iluminación y seguridad coordinados con otras instituciones. El plan no dice cómo ni cuánto costará.",
+    "v": "baja",
+    "n": "La seguridad le toca a la policía, no a la junta. El plan no dice cómo se hará.",
+    "cita": "mantenimiento físico directo e iluminación y seguridad mediante coordinación interinstitucionial",
+    "pag": 35
+   }
+  ]
+ },
+ "metas": [
+  "Intervenir escenarios deportivos, parques y casas comunales al 2031.",
+  "Implementar escuelas formativas deportivas parroquiales al 2031.",
+  "Ejecutar 10 proyectos de mantenimiento y mejoramiento vial rural.",
+  "Consolidar la Escuela de Emprendimiento y apoyar 10 proyectos productivos.",
+  "Realizar 10 talleres y campañas de conservación ambiental."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Muchas propuestas dependen de la Prefectura, el MIES o el Ministerio del Deporte. Incluye seguridad, que no le toca a la junta."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61,
+  62,
+  63,
+  64
+ ],
+ "paginas": 64
+}

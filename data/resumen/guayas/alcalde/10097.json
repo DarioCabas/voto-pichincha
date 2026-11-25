@@ -1,0 +1,92 @@
+{
+ "enfoque": "Pocas propuestas concretas: un sistema de aguas lluvias para la cabecera, obras junto a la empresa privada y audiencias mensuales. No dice costos ni fechas.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Implementar un sistema de aguas lluvias en toda la cabecera cantonal.",
+    "que": "El plan busca sacar el agua de lluvia más rápido de la ciudad. El plan no dice cuánto costará, cómo se pagará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio (alcantarillado). El plan no dice costo ni plazo.",
+    "cita": "tiene como objetivo implementar un sistema pluvial a toda la cabecera cantonal",
+    "pag": 11
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer obras de infraestructura junto con la empresa privada.",
+    "que": "El plan no dice qué obras ni dónde se harán. Tampoco dice cuánto costarán ni cuándo.",
+    "v": "media",
+    "n": "Depende de la empresa privada. El plan no dice qué obras ni cuándo.",
+    "cita": "Generar proyectos en infraestructura considerando la participación de la empresa privada, pensando en una visión futurista de crecimiento poblacional",
+    "pag": 12
+   }
+  ],
+  "social": [
+   {
+    "t": "Planificar, construir y mantener centros y equipos de salud para la cabecera.",
+    "que": "El plan habla de salud para la cabecera y sus recintos, pero no dice qué centros ni cuánto costarán. No dice cuándo.",
+    "v": "baja",
+    "n": "La salud no es competencia del Municipio. El plan no dice cuándo.",
+    "cita": "planificar, construir y mantener la infraestructura física y los equipamientos de salud necesarios para cubrir las necesidades de la cabecera cantonal",
+    "pag": 12
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer audiencias públicas de rendición de cuentas al menos una vez al mes.",
+    "que": "Serán en el salón de la ciudad y en conservatorios, con medios de comunicación locales, provinciales y nacionales. Se harán cada mes.",
+    "v": "alta",
+    "n": "Le toca al alcalde. El plan fija la frecuencia: una vez al mes.",
+    "cita": "Se realizarán audiencias públicas en el salón de la ciudad y conservatorios con los medios de comunicación locales",
+    "pag": 16
+   },
+   {
+    "t": "Modernizar la Municipalidad para una gestión más eficiente y eficaz.",
+    "que": "El plan no dice qué cambios hará ni cuánto costarán. Tampoco dice en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice qué cambios hará.",
+    "cita": "Promover la modernización de la Municipalidad, a fin de lograr una gestión eficiente y eficaz",
+    "pag": 13
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar a productores, emprendedores y turismo del cantón.",
+    "que": "El plan no dice qué apoyo dará, a quién ni con qué dinero. No dice cuándo.",
+    "v": "media",
+    "n": "Mercados y turismo sí le tocan. El resto depende de otras entidades.",
+    "cita": "Impulsar proyectos que generen desarrollo económico por medio del apoyo a sectores productivos",
+    "pag": 12
+   }
+  ]
+ },
+ "metas": [
+  "Rendir cuentas al menos una vez al año.",
+  "Hacer audiencias públicas al menos una vez al mes."
+ ],
+ "notas": [
+  "Gran parte del texto es diagnóstico tomado del plan de desarrollo del cantón 2020-2027. Casi no hay costos ni plazos.",
+  "El plan dice que no hay proyectos nuevos de alcantarillado sanitario en la cabecera ni en los recintos."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17
+ ],
+ "paginas": 17
+}

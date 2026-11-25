@@ -1,0 +1,139 @@
+{
+ "enfoque": "Calles, agua, alcantarillado y basura primero. El plan se basa en el plan de desarrollo del cantón (PDOT) y no fija costos de obras.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer un inventario de las calles municipales y un plan vial de 2027 a 2031.",
+    "que": "Ordenar los arreglos de calles por estado, tránsito y población, con un plan que se revisa cada año. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "cita": "Actualizar el inventario de la red municipal; clasificar segmentos por estado, jerarquía, tránsito, población,",
+    "pag": 15
+   },
+   {
+    "t": "Hacer arreglos preventivos de calles, cunetas, alcantarillas, puentes y señalización.",
+    "que": "Ciclos de mantenimiento programados, con atención a la temporada de lluvias y a los puntos críticos. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, en vías urbanas y puentes municipales. El costo no está en el plan.",
+    "cita": "Organizar ciclos preventivos para calzada, bacheo, cunetas, alcantarillas, taludes, señalización y puentes municipales.",
+    "pag": 15
+   },
+   {
+    "t": "Revisar puntos críticos de tránsito y transporte público con estudios técnicos.",
+    "que": "Estudios de tránsito, estacionamiento, transporte público y carga en puntos con problemas, y luego arreglos de cruces y aceras. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: tránsito y transporte. El plan no dice plazos ni costos.",
+    "cita": "Intervenir puntos críticos con estudios de circulación, estacionamiento, transporte público, seguridad vial y logística.",
+    "pag": 16
+   },
+   {
+    "t": "Acordar con la Prefectura y los gobiernos parroquiales qué caminos rurales se arreglan.",
+    "que": "Los acuerdos dirán qué tramos, cuánto aporta cada institución y quién mantiene. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de la Prefectura y de los gobiernos parroquiales; el alcalde solo coordina.",
+    "cita": "Construir con la Prefectura y GAD parroquiales una agenda de corredores que conecten cabeceras, comunidades,",
+    "pag": 15
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Usar el Plan Maestro de Agua Gualaceo 2050 como guía y validar sus fases.",
+    "que": "Se respalda el Plan Maestro de Agua Potable Gualaceo 2050 como hoja de ruta, con proyectos por fases y control de pérdidas. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Agua potable le toca al Municipio. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "cita": "Respaldar el Plan Maestro de Agua Potable Gualaceo 2050 como hoja de ruta; validar líneas base y fases;",
+    "pag": 18
+   },
+   {
+    "t": "Preparar una lista de obras para ampliar y mejorar el alcantarillado.",
+    "que": "Las obras se elegirán según cuántas casas hay, el tipo de terreno y el costo de operación. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Alcantarillado es competencia municipal. El plan no fija plazos ni costos.",
+    "cita": "Estructurar una cartera de ampliación y mejoramiento de alcantarillado, soluciones descentralizadas donde",
+    "pag": 18
+   },
+   {
+    "t": "Ajustar rutas y frecuencia de recolección de basura y separarla por tipo, poco a poco.",
+    "que": "Primero se revisan rutas y horarios; luego se separa la basura en sectores de prueba, con reciclaje y compost. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Basura es competencia municipal. El plan no dice cuánto costará la disposición final.",
+    "cita": "Optimizar rutas y frecuencias; desarrollar separación gradual; fortalecer reciclaje y compostaje; controlar",
+    "pag": 12
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer inventario, arreglo y mantenimiento de parques, canchas y áreas verdes.",
+    "que": "Cada espacio tendrá estado, programación, accesibilidad y responsable. Se dará prioridad a mantener antes que construir obras nuevas. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Parques son competencia municipal. El plan no dice presupuesto ni plazos por parque.",
+    "cita": "Parques, canchas, monumentos y áreas verdes contarán con inventario, condición, programación, accesibilidad y responsables.",
+    "pag": 19
+   }
+  ],
+  "economia": [
+   {
+    "t": "Ordenar mercados y ferias: higiene, información y reglas claras para vender.",
+    "que": "Circuitos cortos y espacios periódicos para productores, con reglas de acceso públicas y medición de ventas. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Mercados son competencia municipal. El plan no dice cuánto costará.",
+    "cita": "Mejorar organización, salubridad, información, promoción y condiciones de venta en mercados y ferias.",
+    "pag": 17
+   }
+  ],
+  "otros": [
+   {
+    "t": "Mantener cunetas, alcantarillas, drenajes y taludes antes de la época de lluvias.",
+    "que": "Mapas de puntos críticos y reglas para responder a emergencias. El plan no dice cuánto costará ni cuántos puntos se atenderán.",
+    "v": "alta",
+    "n": "Prevención de desastres es competencia municipal. El plan no dice plazos ni costos.",
+    "cita": "Mantener cunetas, alcantarillas, drenajes y taludes antes de la época lluviosa.",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Al menos 2 convenios o gestiones formalizadas para caminos rurales en 2027.",
+  "Tablero público de obras y presupuesto, actualizado al menos cada mes.",
+  "Reporte semestral de metas del plan.",
+  "Rendición de cuentas pública cada año."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará casi ninguna obra ni de dónde saldrá el dinero. Varias metas dependen de estudios previos.",
+  "Varias propuestas dependen de la Prefectura, del Gobierno o de otros; el plan dice que el municipio solo gestionará y coordinará."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30
+ ],
+ "paginas": 30
+}

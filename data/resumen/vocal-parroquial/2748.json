@@ -1,0 +1,106 @@
+{
+ "enfoque": "Arreglos de caminos rurales, reforestación, campañas, asambleas y actividades. Turismo y emprendimiento sin detalles. Seguridad, agua y salud solo se piden o coordinan con otros niveles.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Coordinar con el Gobierno Provincial el arreglo de caminos rurales.",
+    "que": "El plan no dice qué caminos, cuánto costará ni cuándo. Lo haría junto con el Gobierno Provincial de Pichincha.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Gobierno Provincial. El plan no dice cuánto costará.",
+    "cita": "Gestión de mantenimiento vial y caminos rurales, en coordinación con el Gobierno Provincial de Pichincha",
+    "pag": 3
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir al Municipio de Quito que mejore la luz pública de la parroquia.",
+    "que": "El plan no dice en qué sectores ni cuánto costará ni cuándo. Sería una petición al Municipio.",
+    "v": "media",
+    "n": "Le toca al Municipio. La junta solo puede pedirlo.",
+    "cita": "Gestión ante el Municipio del Distrito Metropolitano de Quito (EPMAPS) del mejoramiento de alumbrado público",
+    "pag": 3
+   },
+   {
+    "t": "Pedir al Municipio mejoras de agua potable y alcantarillado.",
+    "que": "El plan no dice dónde ni cuánto costará. Solo sería una petición ante el Municipio de Quito.",
+    "v": "baja",
+    "n": "El agua potable le toca al Municipio, no a la junta.",
+    "cita": "Gestión ante el Municipio del Distrito Metropolitano de Quito (EPMAPS) del mejoramiento de alumbrado público, agua potable y alcantarillado.",
+    "pag": 3
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Organizar jornadas para sembrar árboles y recuperar áreas verdes.",
+    "que": "El plan no dice dónde, cuántos árboles ni cuánto costará. Serían jornadas con los vecinos.",
+    "v": "alta",
+    "n": "Son jornadas comunitarias que la junta puede organizar.",
+    "cita": "Jornadas de reforestación y recuperación de áreas verdes.",
+    "pag": 3
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Hacer campañas para prevenir drogas, alcohol y violencia.",
+    "que": "El plan no dice dónde, cuándo ni cuánto costará. Serían campañas de prevención en la parroquia.",
+    "v": "alta",
+    "n": "Son campañas que la junta puede organizar.",
+    "cita": "Campañas de prevención de drogas, alcohol y violencia.",
+    "pag": 3
+   },
+   {
+    "t": "Coordinar con la Policía Nacional y comités de barrio.",
+    "que": "El plan no dice qué resultado tendrá la coordinación ni en qué plazo. Plantea coordinar con la Policía Nacional.",
+    "v": "baja",
+    "n": "La policía le toca al Estado. La junta solo puede coordinar.",
+    "cita": "Coordinación con la Policía Nacional y comités barriales.",
+    "pag": 2
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar jornadas médicas de prevención con el Ministerio de Salud.",
+    "que": "El plan no dice cuándo ni dónde. Se haría en coordinación con el Ministerio de Salud Pública.",
+    "v": "baja",
+    "n": "La salud le toca al Ministerio, no a la junta.",
+    "cita": "Jornadas médicas preventivas, en coordinación con el Ministerio de Salud Pública.",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una asamblea pública cada año para informar en qué se usa el dinero.",
+    "que": "El plan no dice la fecha ni cuánto costará. Se informaría sobre la gestión, proyectos y gastos.",
+    "v": "alta",
+    "n": "Es una reunión que la junta puede organizar.",
+    "cita": "Asambleas públicas anuales para informar sobre la gestión, proyectos y ejecución presupuestaria.",
+    "pag": 3
+   },
+   {
+    "t": "Dar seguimiento a los pedidos que hagan los vecinos a la junta.",
+    "que": "El plan no dice en qué plazo se responderá a cada pedido.",
+    "v": "alta",
+    "n": "Es trabajo propio de la junta.",
+    "cita": "Fortalecer la atención y seguimiento a solicitudes ciudadanas.",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [
+  "Asambleas públicas anuales para informar sobre la gestión.",
+  "Informe anual de labores presentado a la ciudadanía."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni en qué plazo se hará.",
+  "Varias propuestas dependen del Municipio, la Prefectura o la Policía, y el plan no dice en qué sectores se harán."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "paginas": 5
+}

@@ -1,0 +1,125 @@
+{
+ "enfoque": "Agua, alcantarillado, caminos, basura, parques y control de riesgos en Balzar. Las cifras vienen del plan de desarrollo del cantón. El plan no dice cuánto costará.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar las redes de agua y perforar nuevos pozos en el cantón.",
+    "que": "Meta: cobertura de agua del 63 % al 85 % de los hogares y 1.000 familias más conectadas al 2031. Pedirá financiamiento al Banco de Desarrollo y a ministerios. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de préstamos y de ministerios. El plan no dice cuánto costará.",
+    "cita": "Ampliar las redes de distribución de agua potable, perforar nuevos pozos y mejorar las estaciones de bombeo.",
+    "pag": 7
+   },
+   {
+    "t": "Construir redes de alcantarillado sanitario, primero en la cabecera cantonal y San Jacinto.",
+    "que": "Meta: 1.000 nuevas conexiones domiciliarias y cobertura del 45 % al 65 % al 2031. El plan no dice cuánto costará ni en qué año se hará cada fase.",
+    "v": "media",
+    "n": "Depende de financiamiento externo. El plan no dice cuánto costará.",
+    "cita": "Construir y ampliar las redes de alcantarillado sanitario, con prioridad en la cabecera cantonal y",
+    "pag": 7
+   },
+   {
+    "t": "Modernizar el sistema de recolección y transporte de basura.",
+    "que": "Separación de basura en barrios y escuelas, reciclaje y compostaje. Meta: sistema de manejo de residuos en marcha al 2031. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Modernizar y fortalecer el sistema de recolección y transporte de residuos sólidos.",
+    "pag": 9
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Lastrar 40 kilómetros de caminos rurales cada año.",
+    "que": "Meta: 160 km de vías rurales lastradas y mantenidas al 2031, en convenio con la Prefectura del Guayas. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de la Prefectura del Guayas. El plan no dice cuánto costará.",
+    "cita": "Lastrar 40 kilómetros anuales de vías rurales prioritarias, con limpieza de alcantarillas y cunetas",
+    "pag": 9
+   },
+   {
+    "t": "Comprar o legalizar un terreno para el Terminal Terrestre Municipal.",
+    "que": "Meta: terreno adquirido y estudios técnicos aprobados hasta 2031. El plan no dice cuánto costará ni cuándo se construirá el terminal.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero la obra no tiene fecha ni costo.",
+    "cita": "Identificar y adquirir o legalizar el predio para el futuro Terminal Terrestre Municipal, y elaborar",
+    "pag": 9
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Pavimentar al menos 10 kilómetros de calles urbanas.",
+    "que": "Meta: 10 km de vías del área urbana pavimentadas y mejoradas al 2031, con bordillos y aceras. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Pavimentar y mejorar progresivamente al menos 10 km de vías del área urbana al 2031.",
+    "pag": 9
+   },
+   {
+    "t": "Rehabilitar 5 parques y espacios comunitarios.",
+    "que": "Incluye mobiliario, iluminación, accesibilidad y árboles. Meta: áreas verdes urbanas +30 % al 2031. El plan no dice cuánto costará ni en qué barrios.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Rehabilitar 5 parques y espacios comunitarios, con mobiliario urbano, iluminación, accesibilidad",
+    "pag": 10
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Crear por ordenanza la Dirección de Gestión de Riesgos.",
+    "que": "Con presupuesto y personal técnico propio. Meta: ordenanza aprobada y dirección con presupuesto hasta 2028. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio por ordenanza. El plan no dice cuánto costará.",
+    "cita": "Elaborar y aprobar la ordenanza de creación de la Dirección de Gestión de Riesgos, asignarle",
+    "pag": 11
+   },
+   {
+    "t": "Instalar sistemas de alerta temprana en comunidades vulnerables.",
+    "que": "Meta: alerta temprana en 10 comunidades al 2030, con planes de emergencia en 20 comunidades al 2031. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará.",
+    "cita": "Instalar sistemas de alerta temprana (SAT) y desarrollar protocolos de activación y evacuación",
+    "pag": 11
+   }
+  ],
+  "otros": [
+   {
+    "t": "Gestionar la compra de al menos una ambulancia municipal.",
+    "que": "El plan dice que la gestionará junto al Cuerpo de Bomberos y al Ministerio de Salud Pública. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "La salud no le toca al alcalde. El plan no dice cuánto costará.",
+    "cita": "Gestionar la adquisición y puesta en funcionamiento de al menos una ambulancia municipal, en",
+    "pag": 10
+   }
+  ]
+ },
+ "metas": [
+  "Cobertura de agua potable del 63 % al 85 % de los hogares al 2031.",
+  "1.000 nuevas conexiones de alcantarillado sanitario al 2031.",
+  "Lastrar y mantener 160 km de vías rurales al 2031.",
+  "Pavimentar al menos 10 km de vías urbanas al 2031.",
+  "Sistemas de alerta temprana en 10 comunidades vulnerables al 2030."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero, salvo préstamos y convenios.",
+  "Varias metas de salud, cultura y empleo no son competencia del alcalde. Revise qué le toca a cada cargo."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15
+ ],
+ "paginas": 15
+}

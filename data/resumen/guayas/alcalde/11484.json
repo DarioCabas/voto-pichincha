@@ -1,0 +1,126 @@
+{
+ "enfoque": "Dos mercados nuevos, calles y bacheo en la cabecera, y alcantarillado y agua en Virgen de Fátima y Pedro J. Montero. No dice cuánto costará cada obra.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Construir dos mercados municipales: uno en la cabecera cantonal y otro en Virgen de Fátima.",
+    "que": "Serán centros de abasto modernos, con condiciones de salubridad. El plan no dice cuánto costarán ni cuándo se harán.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Se ejecutarán dos nuevos centros de abasto modernos: uno en la Cabecera Cantonal y otro en la parroquia Virgen de Fátima",
+    "pag": 9
+   },
+   {
+    "t": "Pavimentar y reparar baches en las calles principales y secundarias de la cabecera cantonal.",
+    "que": "Incluye señalización horizontal y vertical. El plan no dice cuánto costará ni en qué plazo se hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni en qué plazo.",
+    "cita": "Plan de pavimentación integral y bacheo asfáltico en las calles principales y secundarias de la zona urbana",
+    "pag": 9
+   },
+   {
+    "t": "Poner asfalto o hormigón, aceras y bordillos en las ciudadelas Pedro J. Montero y María Eugenia.",
+    "que": "Es prioridad en esas ciudadelas y en sectores periféricos. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Son calles, le toca al Municipio. El plan no dice el costo.",
+    "cita": "Intervención prioritaria en las ciudadelas Pedro J. Montero, Maria Eugenia y sectores periféricos",
+    "pag": 9
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Hacer redes de alcantarillado y agua potable en Virgen de Fátima y Pedro J. Montero.",
+    "que": "Es el Plan Maestro de alcantarillado sanitario, pluvial y agua potable. El costo se recuperará con un cobro a los vecinos beneficiados. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni en qué plazo.",
+    "cita": "Ejecutar el Plan Maestro de Alcantarillado Sanitario, Pluvial y Agua Potable en las",
+    "pag": 8
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Mantener los ríos Yaguachi, Milagro y Bulubulu con dragado y muros de contención.",
+    "que": "También habrá acciones preventivas en esteros y canales del cantón, con el Gobierno Provincial del Guayas. El plan no dice costo.",
+    "v": "media",
+    "n": "Puede hacerlo el Municipio, pero depende del Gobierno Provincial. El plan no dice costo.",
+    "cita": "Mantenimiento permanente de los lechos de los rios Yaguachi, Milagro y Bulubulu, coordinando acciones preventivas",
+    "pag": 10
+   }
+  ],
+  "economia": [
+   {
+    "t": "Poner en marcha una mesa técnica para atraer inversiones que generen empleo local.",
+    "que": "El plan no dice qué empresas ni cuántos empleos se crearán. Tampoco dice cuánto costará la mesa.",
+    "v": "media",
+    "n": "El Municipio puede convocarla, pero el empleo depende de empresas e inversionistas.",
+    "cita": "Operatividad de la Mesa Técnica para atraer inversiones que generen empleo local",
+    "pag": 10
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear en cada parroquia presupuestos participativos y la silla vacía para los vecinos.",
+    "que": "Los vecinos participarán en planificar y vigilar el gasto público. El plan no dice cómo ni cuándo se hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que decide sus propias reglas de participación.",
+    "cita": "y los presupuestos participativos en cada parroquia, asegurando que la ciudadanía sea parte protagónica",
+    "pag": 8
+   },
+   {
+    "t": "Hacer una asamblea ciudadana cada año para informar sobre metas y gasto.",
+    "que": "Se informará sobre el cumplimiento de metas y cómo se usó el presupuesto. El plan no dice fechas exactas.",
+    "v": "alta",
+    "n": "Le toca al Municipio y es una reunión anual, fácil de cumplir.",
+    "cita": "Convocatoria anual a las asambleas ciudadanas territoriales para informar sobre el",
+    "pag": 11
+   }
+  ],
+  "otros": [
+   {
+    "t": "Firmar convenios con protectoras para rescatar, esterilizar y dar refugio a animales de calle.",
+    "que": "Habrá centros de acogida temporal y campañas de esterilización. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de convenios con protectoras externas.",
+    "cita": "Firma de convenios con organizaciones protectoras legalmente constituidas para la",
+    "pag": 11
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Coordinar con la Policía acciones de prevención y uso de tecnología para proteger a las familias.",
+    "que": "El Consejo de Seguridad Ciudadana Municipal coordinará con la Policía y la comunidad. El plan no dice cómo.",
+    "v": "baja",
+    "n": "No le toca al Municipio: la policía es del Gobierno Central.",
+    "cita": "coordinando con la Policia Nacional y la comunidad acciones preventivas",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "Dos mercados nuevos: uno en la cabecera cantonal y otro en la parroquia Virgen de Fátima.",
+  "Plan de trabajo de mayo de 2027 a mayo de 2031.",
+  "Asamblea ciudadana de rendición de cuentas una vez al año.",
+  "Audiencias públicas cada año y al final de la gestión."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra. Tampoco fija fechas exactas para cada obra.",
+  "Basura y tránsito no tienen propuestas concretas. Seguridad y empleo dependen de la Policía y de empresas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ],
+ "paginas": 13
+}

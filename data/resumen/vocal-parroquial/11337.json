@@ -1,0 +1,118 @@
+{
+ "enfoque": "Plan general: caminos rurales con la Prefectura, espacios públicos, apoyo a productores, cuidado de la naturaleza y mingas. Parece una plantilla para toda la Quito rural.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a caminos rurales de la parroquia, junto con la Prefectura.",
+    "que": "El plan no dice qué caminos ni cuánto costará. Se hará según el presupuesto disponible, entre 2027 y 2031.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Impulsar progresivamente acciones de mantenimiento de la vialidad parroquial rural, en coordinación con el Gobierno Provincial de Pichincha y de acuerdo con la planificación y disponibilidad presupuestaria.",
+    "pag": 17
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Mantener y adecuar la infraestructura y los espacios públicos de la parroquia.",
+    "que": "El plan no dice qué espacios ni qué obras ni cuánto costarán. Se hará de forma progresiva, entre 2027 y 2031.",
+    "v": "alta",
+    "n": "Le toca a la junta: espacios públicos parroquiales. El plan no dice cuánto costarán.",
+    "cita": "Planificar e impulsar progresivamente el mantenimiento, adecuación y mejoramiento de la infraestructura física, equipamientos y espacios públicos parroquiales.",
+    "pag": 18
+   }
+  ],
+  "economia": [
+   {
+    "t": "Promover la venta de productos locales de la parroquia.",
+    "que": "El plan no dice qué mecanismos usará ni cuánto costará. Es para productos y emprendimientos de la parroquia.",
+    "v": "media",
+    "n": "Necesita acuerdo con otras instituciones. El plan no dice cuánto costará.",
+    "cita": "Impulsar mecanismos de promoción y comercialización de productos locales.",
+    "pag": 20
+   },
+   {
+    "t": "Organizar a productores y emprendedores de la parroquia.",
+    "que": "El plan no dice cómo ni cuánto costará. Es para productores y emprendedores de la parroquia, entre 2027 y 2031.",
+    "v": "alta",
+    "n": "Le toca a la junta apoyar a productores y organizarlos.",
+    "cita": "Promover la organización y asociatividad de productores y emprendedores de la parroquia.",
+    "pag": 13
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Organizar acciones comunitarias para cuidar la biodiversidad y el patrimonio natural de la parroquia.",
+    "que": "El plan no dice qué acciones ni dónde ni cuánto costará. Se hará con participación comunitaria, entre 2027 y 2031.",
+    "v": "alta",
+    "n": "Le toca a la junta cuidar el ambiente y organizar a la comunidad.",
+    "cita": "Incentivar acciones comunitarias para la protección de la biodiversidad y el patrimonio natural.",
+    "pag": 20
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Dar cuentas cada año a la comunidad sobre el avance del plan.",
+    "que": "Se hará cada año, según el plan. El plan no dice dónde se hará ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta. El plan no dice el lugar de la rendición.",
+    "cita": "Rendición anual de cuentas e informes periódicos sobre el avance del Plan de Trabajo, conforme a la normativa vigente.",
+    "pag": 29
+   },
+   {
+    "t": "Organizar mingas para trabajos que beneficien a toda la comunidad.",
+    "que": "Se hará mediante mingas y trabajo comunitario. El plan no dice cuántas mingas ni cuánto costará. Período 2027–2031.",
+    "v": "alta",
+    "n": "Le toca a la junta organizar a la comunidad.",
+    "cita": "Promover la participación ciudadana mediante mingas y otras formas de trabajo comunitario para acciones de interés colectivo.",
+    "pag": 16
+   }
+  ]
+ },
+ "metas": [
+  "Ejecutar las acciones del plan entre 2027 y 2031.",
+  "Rendir cuentas cada año sobre el avance del plan."
+ ],
+ "notas": [
+  "El texto es general: habla de la ruralidad de todo Quito y deja '[Nombre de la Parroquia]' sin llenar. Parece copiado de una plantilla.",
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero. Casi todo depende del presupuesto disponible."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35
+ ],
+ "paginas": 35
+}

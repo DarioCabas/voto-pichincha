@@ -1,0 +1,133 @@
+{
+ "enfoque": "Plan con mucho diagnóstico. Propone agua, vías, espacios para el comercio, apoyo al campo y reuniones con vecinos, pero casi no dice cuánto cuesta ni cuándo.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Llevar agua segura a una cobertura del 90% del cantón.",
+    "que": "El plan busca agua segura para el 90%. No dice cuánto costará ni en qué plazo. Tampoco explica cómo se llegará a ese 90%.",
+    "v": "media",
+    "n": "Agua es del Municipio, pero las Juntas de agua y el plan no dicen cómo llegar.",
+    "cita": "Nabón con agua segura en una cobertura del 90%.",
+    "pag": 11
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer vías en la cabecera cantonal, sin decir cuáles.",
+    "que": "El plan dice que hace falta contar con vías en la cabecera cantonal. No dice qué vías ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice dónde ni en qué plazo.",
+    "cita": "contar con vías principalmente en la cabecera cantonal",
+    "pag": 8
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Revisar y actualizar el plan que ordena el uso del suelo del cantón.",
+    "que": "El plan dice que es urgente revisar y actualizar el plan de ordenamiento. No dice cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "Uso del suelo le toca al alcalde. El plan no dice plazos ni costos.",
+    "cita": "es urgente revisar y actualizar el Plan de Ordenamiento territorial del cantón",
+    "pag": 8
+   },
+   {
+    "t": "Facilitar espacios públicos para generar movimiento económico y trabajo.",
+    "que": "El plan dice que se facilitarán espacios públicos para el comercio. No dice qué espacios, dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Espacios públicos son del Municipio. El plan no dice qué lugares.",
+    "cita": "Facilitar los espacios públicos para generar dinamismo económico en observancia a una sana y armónica convivencia",
+    "pag": 11
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar a agricultores y ganaderos con programas o proyectos.",
+    "que": "El plan habla de programas de apoyo al campo y la ganadería. No dice qué apoyo, cuánto costará ni quién lo pagará.",
+    "v": "media",
+    "n": "Depende de otras entidades. El plan no dice cómo ni con qué dinero.",
+    "cita": "Generar programas o proyectos de apoyo al agricultor y ganadero",
+    "pag": 11
+   },
+   {
+    "t": "Generar empleo en lo que la gente ya sabe hacer.",
+    "que": "El plan quiere crear empleo en lo que la gente sabe hacer. No dice cómo ni cuánto costará.",
+    "v": "baja",
+    "n": "Crear empleo no es tarea directa del Municipio, según la ley.",
+    "cita": "aplicar políticas organizativas que generen empleo en aquello que la gente sabe hacer",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear programas de apoyo a familias afectadas por deslizamientos.",
+    "que": "El plan habla de ayuda a familias afectadas por los deslizamientos y grupos vulnerables. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de otros niveles de gobierno. El plan no dice cuánto ni cuándo.",
+    "cita": "Generar programas y proyectos de apoyo a las familias afectadas por los macro deslizamientos y grupos vulnerables.",
+    "pag": 11
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Cambiar los trámites municipales para que la gente pierda menos tiempo.",
+    "que": "El plan dice que se mejorarán los procesos municipales. No dice qué trámites ni en cuánto tiempo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué trámites ni en qué plazo.",
+    "cita": "Mejora de procesos municipales optimizando el tiempo de los ciudadanos.",
+    "pag": 12
+   },
+   {
+    "t": "Hacer reuniones abiertas en barrios y comunidades para informar y escuchar.",
+    "que": "El plan dice que habrá reuniones periódicas en barrios y comunidades sobre decisiones del Concejo. No dice cada cuánto ni dónde.",
+    "v": "alta",
+    "n": "Le toca al alcalde y al Concejo. El plan no dice fechas.",
+    "cita": "se planteará la realización periódica de espacios abiertos en barrios y comunidades para informar decisiones del Concejo Municipal",
+    "pag": 21
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer políticas para cuidar el agua, los bosques y la biodiversidad.",
+    "que": "El plan dice que se promoverán políticas de conservación de fuentes de agua, bosques y biodiversidad. No dice cómo ni cuánto costará.",
+    "v": "media",
+    "n": "Requiere convenios con otras instituciones. El plan no dice costos.",
+    "cita": "Se promoverán políticas de conservación de fuentes hídricas, bosques y biodiversidad",
+    "pag": 13
+   }
+  ]
+ },
+ "metas": [
+  "Agua segura con cobertura del 90%. El plan no dice para cuándo.",
+  "Rendición de cuentas anual."
+ ],
+ "notas": [
+  "Casi todo el plan es diagnóstico. Muchas propuestas son frases generales, sin costos ni plazos.",
+  "El plan se basa en el Plan de Desarrollo y Ordenamiento Territorial del cantón y en diálogos con grupos. No explica cómo se pagará."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22
+ ],
+ "paginas": 22
+}

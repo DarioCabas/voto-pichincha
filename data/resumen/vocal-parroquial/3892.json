@@ -1,0 +1,68 @@
+{
+ "enfoque": "Mantener caminos y parques, apoyar ferias y emprendimientos, y decidir el presupuesto con la comunidad. Mucho depende de convenios con el Municipio y la Prefectura.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a caminos vecinales, accesos y rutas de las comunidades.",
+    "que": "Hará un inventario de caminos y los atenderá por prioridad, con mingas y convenios. Meta: 150 km atendidos hasta 2031. El plan no separa cuánto cuesta cada tramo.",
+    "v": "media",
+    "n": "Necesita convenios con la Prefectura y el Municipio para maquinaria y dinero.",
+    "cita": "Planificar y mejorar el mantenimiento de caminos vecinales, accesos y movilidad comunitaria dentro de las competencias y convenios aplicables.",
+    "pag": 3
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar y mantener espacios públicos de la parroquia, como parques y canchas.",
+    "que": "Meta: 2 espacios recuperados y 75% con plan de mantenimiento anual. Costo referencial de $20 mil, con presupuesto parroquial, transferencias y convenios.",
+    "v": "alta",
+    "n": "Le toca a la junta: son parques y espacios de la parroquia.",
+    "cita": "Recuperar y mantener espacios públicos e infraestructura parroquial.",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias y apoyar a emprendimientos y asociaciones de la parroquia.",
+    "que": "Meta: 10 emprendimientos, 5 ferias al año y 2 rutas culturales o productivas. Costo referencial de $20 mil, con recursos de la parroquia, cooperación y aportes compartidos.",
+    "v": "alta",
+    "n": "Ferias y cursos sí están entre lo que puede hacer la junta.",
+    "cita": "Fortalecer asociaciones, emprendimientos, ferias, cultura y turismo local.",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Decidir el presupuesto con la gente, en sesiones itinerantes y rendición de cuentas.",
+    "que": "Incluye publicar cada mes información sobre cuentas, obras y convenios. Meta: 12 jornadas de rendición de cuentas al año. Costo referencial de $25 mil.",
+    "v": "alta",
+    "n": "Le toca a la junta organizar a la comunidad y rendir cuentas.",
+    "cita": "Implementar presupuesto participativo, seguimiento de obras, sesiones itinerantes y rendición de cuentas mensual,",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [
+  "150 km de caminos atendidos hasta 2031.",
+  "2 espacios recuperados; 75% con plan de mantenimiento anual.",
+  "10 emprendimientos y 5 ferias al año.",
+  "30 asambleas sectoriales en el período 2027-2031.",
+  "12 jornadas de rendición de cuentas al año."
+ ],
+ "notas": [
+  "El plan no dice cuánto cuesta cada propuesta por separado; los costos están en una tabla por años.",
+  "Parte de la tabla de costos y metas es borrosa en el documento; confirme las cifras en el original."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "paginas": 8
+}

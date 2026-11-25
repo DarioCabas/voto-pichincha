@@ -1,0 +1,154 @@
+{
+ "enfoque": "Obras de alcantarillado, vías, paraderos y mercado, pero sin costos ni fechas. Varias propuestas son de salud, escuelas e internet, que no son del alcalde.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Arreglar por fases el alcantarillado y las plantas de aguas residuales de la ciudad.",
+    "que": "Primero hará estudios y diseños, luego obras por fases en la cabecera cantonal. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio (alcantarillado). El plan no dice cómo lo pagará.",
+    "cita": "diagnóstico, diseño y ejecución por fases de mejoras en redes de alcantarillado, colectores y sistemas de tratamiento",
+    "pag": 30
+   },
+   {
+    "t": "Hacer estudios y poner soluciones de saneamiento en La Asunción, San Gerardo y comunidades.",
+    "que": "Primero estudios; luego soluciones colectivas o individuales, según cada zona. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio (agua y alcantarillado). El plan no dice cuánto ni cuándo.",
+    "cita": "estudios e implementación progresiva de soluciones colectivas o individuales en La Asunción, San Gerardo y comunidades priorizadas",
+    "pag": 31
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar las vías y hacer drenajes en los puntos críticos, cada año.",
+    "que": "Cada año hará inventario y prioriza vías, mantenimiento preventivo y drenajes por fases. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Calles sí; vías rurales pueden depender de convenios con la Prefectura. El plan no dice costo.",
+    "cita": "inventario y priorización anual de la red vial, mantenimiento preventivo y ejecución gradual de drenajes",
+    "pag": 34
+   },
+   {
+    "t": "Construir paraderos seguros en puntos priorizados por estudios técnicos.",
+    "que": "Primero un estudio de rutas, frecuencias y demanda; luego paraderos por etapas. El plan no dice cuántos ni cuándo.",
+    "v": "alta",
+    "n": "Buses y paraderos sí son del Municipio. El plan no dice cuánto costará.",
+    "cita": "construcción progresiva de paraderos seguros en ubicaciones técnicamente priorizadas",
+    "pag": 34
+   }
+  ],
+  "economia": [
+   {
+    "t": "Arreglar el Mercado Municipal por fases, con estudios antes de cada obra.",
+    "que": "Procurará que los comerciantes sigan vendiendo durante las obras. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Los mercados son competencia del Municipio. El plan no dice cuánto costará.",
+    "cita": "ejecutar por fases la mejora funcional del Mercado Municipal, conforme a estudios y disponibilidad operativa",
+    "pag": 30
+   },
+   {
+    "t": "Poner equipos de acopio y enfriamiento de leche en zonas productoras elegidas.",
+    "que": "Primero evaluará la demanda y un modelo de gestión; luego instalará equipos por etapas. El plan no dice cuánto ni cuándo.",
+    "v": "media",
+    "n": "No es competencia directa; depende de productores y de otros fondos. El plan no dice costo.",
+    "cita": "implementación progresiva de infraestructura o equipamiento de acopio y enfriamiento en nodos productivos priorizados",
+    "pag": 29
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Revisar las reglas de uso del suelo y de construcción con mapas y estudios de riesgo.",
+    "que": "Actualizará las ordenanzas de uso del suelo con datos de catastro, medio ambiente y riesgos, con participación ciudadana. El plan no dice cuándo.",
+    "v": "alta",
+    "n": "Uso del suelo es competencia municipal. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Se revisarán los instrumentos y ordenanzas de uso y gestión del suelo con base en información catastral",
+    "pag": 31
+   }
+  ],
+  "otros": [
+   {
+    "t": "Actualizar planes de prevención y rutas de evacuación en sectores de mayor riesgo.",
+    "que": "Hará protocolos comunitarios, señales y rutas de evacuación en los sectores con más riesgo según análisis. El plan no dice cuándo.",
+    "v": "alta",
+    "n": "Prevención de desastres sí es competencia municipal. El plan no dice cuánto costará.",
+    "cita": "Se actualizarán protocolos comunitarios de prevención y respuesta, señalización, rutas de evacuación",
+    "pag": 39
+   }
+  ],
+  "social": [
+   {
+    "t": "Abrir un servicio de cuidado de día para adultos mayores, cuando sea posible.",
+    "que": "Usará edificios municipales si es viable y se hará poco a poco. El plan no dice cuántos cupos ni cuánto costará.",
+    "v": "baja",
+    "n": "No está en la lista de competencias del Municipio. El plan no dice costo.",
+    "cita": "implementación progresiva de un servicio de cuidado diurno para personas adultas mayores",
+    "pag": 29
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger zonas que dan agua, con acuerdos con los dueños de los terrenos.",
+    "que": "Primero marcará las zonas prioritarias. Comprará terrenos solo con estudio técnico, dinero disponible y acuerdo de dueños. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Puede hacerlo con dueños y uso del suelo, pero depende de estudios y dinero. El plan no dice costo.",
+    "cita": "identificación, delimitación y gestión de predios o áreas prioritarias mediante acuerdos voluntarios",
+    "pag": 28
+   }
+  ]
+ },
+ "metas": [
+  "Al menos una modalidad de cuidado diurno para adultos mayores, implementada poco a poco entre 2027 y 2031.",
+  "Digitalizar hasta el 80% de los procesos administrativos.",
+  "Informe anual de avances y rendición de cuentas cada año.",
+  "Evaluación a mitad de período y evaluación final en 2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero. Casi todo dice 'progresivamente' o 'según estudios'.",
+  "Varias propuestas (salud, escuelas, internet, turismo) no son del Municipio. Parte del texto copia leyes y metas nacionales."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41
+ ],
+ "paginas": 41
+}

@@ -1,0 +1,128 @@
+{
+ "enfoque": "Plan copiado del plan de desarrollo del cantón 2024-2027: agua y alcantarillado rurales, catastro, riesgos, áreas verdes y seguridad.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Adoptar un plan cantonal de gestión de riesgos por inundaciones e incendios.",
+    "que": "Meta: plan adoptado y funcionando; hoy no hay plan (2026). El plan no dice cuánto costará. Se ubica en plazo corto según la lista de proyectos.",
+    "v": "alta",
+    "n": "Le toca al Municipio: prevenir desastres es su función.",
+    "cita": "Plan cantonal de gestión de riesgos adoptado y operando",
+    "pag": 12
+   },
+   {
+    "t": "Valorar crear empresas públicas o consorcios para residuos, agua y saneamiento.",
+    "que": "El plan solo dice que lo evaluará; no fija fecha ni costo. También menciona turismo. Hay un proyecto de relleno sanitario con prioridad alta.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan solo dice que lo evaluará.",
+    "cita": "Valorar la conformación de empresas públicas, mancomunidades y consorcios para la gestión de residuos, agua y saneamiento y desarrollo turístico",
+    "pag": 27
+   }
+  ],
+  "economia": [
+   {
+    "t": "Estudiar centros de acopio para dar valor agregado a productos locales.",
+    "que": "Meta: 1 estudio de centros de acopio (hoy 0, en 2026). Proyecto de plazo largo. El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Depende de productores y otros niveles; el plan solo pide un estudio.",
+    "cita": "Centros de acopio y agregación de cadena de valor de productos locales",
+    "pag": 14
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Actualizar y digitalizar el catastro de terrenos y casas, urbano y rural.",
+    "que": "Meta: 60 % del catastro actualizado y 25 % más de recaudación propia. Presupuesto institucional de 538.590 dólares para ordenamiento y catastro. Plazo: corto a mediano.",
+    "v": "alta",
+    "n": "Le toca al Municipio, y el plan da una meta concreta.",
+    "cita": "la actualización y digitalización del catastro inmobiliario urbano y rural constituye la base para incrementar la recaudación propia",
+    "pag": 14
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Crear una unidad de convivencia ciudadana y el Consejo de Seguridad Ciudadana.",
+    "que": "Coordinar con la Policía Nacional y las unidades de policía comunitaria. Meta: consejo funcionando; hoy no hay consejo (2026). El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "La policía es del Gobierno. El Municipio solo crea y coordina el consejo.",
+    "cita": "Institucionalizar la unidad de Seguridad y Convivencia Ciudadana, con el Consejo Cantonal de Seguridad Ciudadana, en coordinación con la Policía Nacional y las UPC del cantón",
+    "pag": 27
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Dirigir el plan de agua potable y saneamiento rural de las parroquias.",
+    "que": "Meta: +10 puntos de agua y de alcantarillado rural. Costo referencial de 21,6 millones de dólares en 2027-2030. Pagaría el Municipio 40 %, un crédito del Banco de Desarrollo 50 % y el Gobierno central 10 %.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero depende de crédito y aportes del Gobierno central.",
+    "cita": "Fortalecer la Dirección de Gestión de Agua Potable y Alcantarillado para conducir el Plan Maestro de Agua Potable y el saneamiento rural",
+    "pag": 26
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar áreas verdes y espacios públicos en la cabecera y en recintos.",
+    "que": "Meta: sumar 3 m² de área verde por habitante, de 4,41 m² hoy (meta 2031, referencial). El plan no dice qué parques ni cuánto costará. Plazo: mediano.",
+    "v": "alta",
+    "n": "Le toca al Municipio: parques y espacios públicos son su tarea.",
+    "cita": "Recuperación y dotación de áreas verdes y espacios públicos",
+    "pag": 25
+   },
+   {
+    "t": "Rehabilitar el sistema del Mercado Municipal de la cabecera cantonal.",
+    "que": "Prioridad media, plazo mediano. El plan no dice cuánto costará ni qué arreglos se harán.",
+    "v": "alta",
+    "n": "Los mercados son competencia del Municipio.",
+    "cita": "Rehabilitación del sistema del Mercado Municipal Cabecera cantonal",
+    "pag": 25
+   }
+  ]
+ },
+ "metas": [
+  "Alcantarillado rural: +10 puntos de cobertura (hoy 24,58 %, 2022).",
+  "60 % del catastro actualizado y 25 % más de recaudación propia.",
+  "Consejo de Seguridad funcionando (hoy no hay, 2026).",
+  "Desnutrición infantil por debajo del 18 % en menores de cinco años (meta 2031, referencial).",
+  "+3 m² de área verde por habitante (hoy 4,41 m², meta 2031, referencial)."
+ ],
+ "notas": [
+  "El texto copia el plan de desarrollo del cantón 2024-2027. Las cifras de dinero son referenciales y el plan no dice de dónde saldrá todo.",
+  "Varias ideas (hospital, desnutrición, policía) no son del Municipio. Dependen de créditos y del Gobierno central."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32
+ ],
+ "paginas": 32
+}

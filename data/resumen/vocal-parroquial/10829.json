@@ -1,0 +1,111 @@
+{
+ "enfoque": "Plan copiado en gran parte del plan de desarrollo de la parroquia: cuidar agua y suelo, apoyar productores y ferias, arreglar caminos y organizar la comunidad.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Proteger las fuentes de agua (vertientes) y dar educación ambiental.",
+    "que": "El plan dice que hay que priorizarlo, pero no dice cómo se hará ni cuánto costará.",
+    "v": "media",
+    "n": "Cuidar fuentes y educar lo hace la junta, pero el control lo comparte con otros niveles.",
+    "cita": "Por ello, se requiere priorizar la protección de vertientes, la educación ambiental,",
+    "pag": 6
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear un tablero ciudadano con reportes cada tres meses del avance de los proyectos.",
+    "que": "El tablero mostraría avance físico y presupuesto, con datos abiertos. El plan no dice cuánto costará ni quién lo maneja.",
+    "v": "alta",
+    "n": "Es una tarea de transparencia de la propia junta. El plan no dice cuánto costará.",
+    "cita": "Implementar tablero ciudadano, reportes trimestrales y datos abiertos de avance",
+    "pag": 20
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear una escuela de liderazgo y mecanismos inclusivos de consulta.",
+    "que": "Busca que más jóvenes y mujeres participen. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Organizar a la gente es tarea de la junta. El plan no dice cuánto costará.",
+    "cita": "Crear una escuela de liderazgo y mecanismos inclusivos de consulta y",
+    "pag": 20
+   }
+  ],
+  "economia": [
+   {
+    "t": "Promover circuitos cortos, un catálogo local y acuerdos de comercialización justa.",
+    "que": "Busca unir compras locales, ferias y venta de productores. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Ferias y apoyo a productores le tocan a la junta. El plan no dice cuánto costará.",
+    "cita": "Promover circuitos cortos, catálogo local y acuerdos de comercialización justa.",
+    "pag": 20
+   },
+   {
+    "t": "Preparar estudios y proyectos para pedir apoyo a otras instituciones.",
+    "que": "El plan dice que se harán perfiles, estudios básicos y una lista de proyectos para pedir apoyo. No dice cuánto costará.",
+    "v": "media",
+    "n": "Pedir apoyo a otros niveles de gobierno es un acuerdo, no algo que la junta pague sola.",
+    "cita": "Diseñar perfiles, estudios básicos y cartera priorizada para cooperación y",
+    "pag": 20
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer un plan anual de mantenimiento de obras, con responsables y costos.",
+    "que": "El plan dice que tendrá fichas, responsables y costos, y que se harán mingas coordinadas. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Mingas y organización le tocan a la junta. El plan no dice de dónde sale el dinero.",
+    "cita": "Aplicar un plan anual de mantenimiento con fichas, responsables, costos y",
+    "pag": 21
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Mantener y mejorar el eje vial rural prioritario, con señalización.",
+    "que": "El plan incluye señalización, coordinación y control social de la comunidad. No dice cuánto costará ni en qué plazo.",
+    "v": "media",
+    "n": "Caminos rurales: la junta trabaja con la Prefectura (gobierno provincial). El plan no dice el costo.",
+    "cita": "Mantener y mejorar el eje vial rural priorizado con señalización,",
+    "pag": 19
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Organizar brigadas comunitarias, alertas y simulacros frente a emergencias.",
+    "que": "El plan dice que habrá rutas de respuesta, puntos seguros y ejercicios periódicos, con instituciones de emergencia. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad le toca a la junta; Bomberos es otra entidad.",
+    "cita": "Organizar brigadas, rutas de respuesta, alertas, simulacros y coordinación con",
+    "pag": 20
+   }
+  ]
+ },
+ "metas": [
+  "Reportes trimestrales de avance (cada tres meses).",
+  "Plan para el período 2027-2031."
+ ],
+ "notas": [
+  "Gran parte del texto está copiado del plan de desarrollo de la parroquia. Muchas acciones son de la Municipalidad o del Gobierno Central.",
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Plan muy largo (36 págs.): se resumieron las 15 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  6,
+  8,
+  9,
+  10,
+  15,
+  16,
+  17,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25
+ ],
+ "paginas": 36
+}

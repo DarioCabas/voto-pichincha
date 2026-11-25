@@ -1,0 +1,144 @@
+{
+ "enfoque": "Agua, calles, tasas, mercado, parques y transparencia. También pide más policías, que no le toca al Municipio. Varias partes parecen copiadas de otro plan.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar y mejorar las redes de agua potable, alcantarillado y saneamiento.",
+    "que": "Reducir el déficit actual en al menos 30% en 4 años. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Implementar proyectos de ampliación, mejora e infraestructura de saneamiento reduciendo el déficit actual en al menos un 30% en los 4 años de gestión.",
+    "pag": 25
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Planificar y construir una terminal terrestre para buses entre cantones y parroquias.",
+    "que": "El plan no dice cuánto costará ni cuándo estará lista. También propone evaluar salir de la mancomunidad de tránsito.",
+    "v": "media",
+    "n": "Sí le toca al Municipio, pero el plan no dice cómo la pagará.",
+    "cita": "planificación y construcción de una terminal terrestre intercantonal e interparroquial para mejorar el servicio a la población.",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar calles con adoquín, asfalto y aceras, con obra hecha por el propio Municipio.",
+    "que": "Intervenir el 40% del área urbana y rural desatendida en 4 años. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "cita": "Regeneración urbana mediante adoquinado, asfaltado y aceras por administración directa.",
+    "pag": 7
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Pedir a la Policía Nacional más policías, equipos y cámaras de vigilancia.",
+    "que": "Coordinar con la Policía Nacional y comités de barrio. El plan no dice cuándo ni cuánto costará.",
+    "v": "baja",
+    "n": "No le toca al Municipio: los policías dependen del Gobierno.",
+    "cita": "Gestionar con la Policía Nacional e instituciones de seguridad el incremento de efectivos, equipamiento, sistemas de videovigilancia y comités comunitarios.",
+    "pag": 19
+   }
+  ],
+  "social": [
+   {
+    "t": "Destinar al menos 10% del presupuesto municipal a programas para grupos vulnerables.",
+    "que": "Protección social para niños, jóvenes, adultos mayores y personas con discapacidad. El plan no dice el monto en dólares.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que maneja su propio presupuesto.",
+    "cita": "Asignar al menos el 10% del presupuesto municipal para programas permanentes de protección social e inclusión.",
+    "pag": 19
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar cursos y apoyo para emprender a pequeños negocios locales.",
+    "que": "Buscar créditos para emprendedores. El plan no dice cuánto costará ni de qué fondos saldrá el dinero.",
+    "v": "media",
+    "n": "Depende de créditos y del Gobierno; el plan no da cifras.",
+    "cita": "Fomentar el emprendimiento, capacitaciones productivas e impulso a la economía popular y solidaria.",
+    "pag": 19
+   }
+  ],
+  "otros": [
+   {
+    "t": "Modernizar y equipar el mercado, camal, cementerio y puente municipales.",
+    "que": "Dar atención digna y bajo normas sanitarias. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Modernización, equipamiento y regulación de los servicios públicos municipales bajo estándares sanitarios y de calidad.",
+    "pag": 19
+   },
+   {
+    "t": "Dar mantenimiento, sembrar árboles y recuperar parques y plazas.",
+    "que": "El plan busca cubrir el 30% de parques y espacios. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Mantenimiento continuo, arborización y recuperación de parques, plazas y espacios recreativos cantonales.",
+    "pag": 20
+   },
+   {
+    "t": "Revisar las tasas e impuestos municipales para ajustarlos a lo que la gente puede pagar.",
+    "que": "Cambiar las ordenanzas tributarias del Concejo. El plan no dice qué tasas bajarán ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio por ordenanza; el plan no dice qué tasas cambian.",
+    "cita": "Revisión integral de las ordenanzas tributarias para ajustar tasas a la capacidad socioeconómica real de la población.",
+    "pag": 20
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar cada mes en internet contratos, presupuestos y avance de obras.",
+    "que": "Una página para consultar la gestión municipal, con transmisión en vivo de la rendición de cuentas. El plan no dice costo.",
+    "v": "alta",
+    "n": "Le toca al Municipio; no depende de otros niveles de gobierno.",
+    "cita": "Implementación de una plataforma digital actualizada mensualmente para la consulta ciudadana de contratos, presupuestos y ejecución de obras del GADM de Pedro Carbo.",
+    "pag": 28
+   }
+  ]
+ },
+ "metas": [
+  "Reducir el déficit de agua y alcantarillado en al menos 30% en 4 años.",
+  "Intervenir el 40% del área urbana y rural desatendida en 4 años.",
+  "Reducir la pobreza extrema en al menos 15% durante la gestión.",
+  "Asignar al menos 10% del presupuesto municipal a protección social.",
+  "Cubrir el 30% de parques y espacios recreativos con mantenimiento."
+ ],
+ "notas": [
+  "El plan nombra al Movimiento Revolución Ciudadana, no a la lista 3: parece copiado de otro documento.",
+  "Casi no dice cuánto costará cada obra ni de dónde saldrá el dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28
+ ],
+ "paginas": 28
+}

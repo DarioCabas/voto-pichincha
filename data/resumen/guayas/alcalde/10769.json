@@ -1,0 +1,133 @@
+{
+ "enfoque": "Prioridad: alcantarillado, agua, basura y vías rurales. Muchas obras dependen de préstamos. Copia metas del plan de desarrollo del cantón.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Hacer el primer sistema de alcantarillado en Santa Rosa de Flandes y Jesús María.",
+    "que": "Forma parte de un proyecto de USD 3.000.000 en 4 años, con crédito del Banco de Desarrollo. La fase 2 llega en 2030.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de un préstamo que aún debe estudiarse.",
+    "cita": "Ejecutar el primer sistema de alcantarillado de Santa Rosa de Flandes, que hoy ene el 0,33 %",
+    "pag": 9
+   },
+   {
+    "t": "Construir una planta para tratar las aguas residuales antes de devolverlas al río.",
+    "que": "Costaría USD 12.000.000 en 4 años, con crédito blando del Banco Europeo de Inversiones. Es el proyecto más caro del plan.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de un crédito del Banco Europeo de Inversiones.",
+    "cita": "Construir y poner en operación el tratamiento de aguas residuales, para que la ampliación de la red no traslade el problema",
+    "pag": 9
+   },
+   {
+    "t": "Elevar la cobertura de agua potable al 90 % del cantón, con prioridad en Taura.",
+    "que": "Plan maestro de agua de USD 5.000.000 en 2 años, con crédito del Banco de Desarrollo. La meta de 90 % viene del plan de desarrollo del cantón.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de un crédito del Banco de Desarrollo.",
+    "cita": "Ejecutar el plan maestro de agua potable con la meta que el propio PDOT ja: elevar la cobertura",
+    "pag": 10
+   },
+   {
+    "t": "Construir el nuevo relleno sanitario y cerrar los botaderos a cielo abierto.",
+    "que": "USD 5.000.000 en 3 años, con crédito del Banco de Desarrollo. El relleno actual tiene unos dos años de vida útil.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de un crédito del Banco de Desarrollo.",
+    "cita": "Construir y poner en operación el relleno sanitario cantonal, y cerrar técnicamente los botaderos",
+    "pag": 9
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer un programa anual de arreglo de vías, con lista pública de tramos y su estado.",
+    "que": "USD 1.500.000 al año, para lastrado y bacheo. Se paga con el presupuesto anual del Municipio.",
+    "v": "alta",
+    "n": "Le toca al Municipio y se paga con su presupuesto anual.",
+    "cita": "Establecer un programa anual de mantenimiento vial con inventario público de tramos, su estado",
+    "pag": 12
+   },
+   {
+    "t": "Construir un terminal terrestre para sacar buses y camiones pesados de la Panamericana.",
+    "que": "USD 4.500.000 en 4 años. Lo haría un privado con concesión, según el plan.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero lo haría una empresa privada por concesión.",
+    "cita": "Terminal terrestre de Naranjal, para sacar el transporte pesado y de pasajeros",
+    "pag": 12
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Ampliar el alumbrado público y recuperar espacios públicos deteriorados.",
+    "que": "USD 80.000 al año con luces LED, pagado con ingresos propios del Municipio.",
+    "v": "alta",
+    "n": "Le toca al Municipio y se paga con ingresos propios.",
+    "cita": "Ampliar el alumbrado público y recuperar los espacios públicos degradados, que es donde la",
+    "pag": 15
+   },
+   {
+    "t": "Coordinar con la Policía Nacional la presencia policial en el cantón.",
+    "que": "El plan no dice cuánto costará. La policía es del Gobierno central, no del Municipio.",
+    "v": "baja",
+    "n": "No le toca al Municipio. Es tarea de la Policía Nacional.",
+    "cita": "Coordinar de forma permanente con la Policía Nacional y con el ministerio rector de la seguridad",
+    "pag": 15
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Actualizar el catastro urbano y rural y ordenar el cobro de impuestos.",
+    "que": "Se paga con el presupuesto anual, en 2 años. Busca cobrar con una tarifa equitativa.",
+    "v": "alta",
+    "n": "Le toca al Municipio y se paga con el presupuesto anual.",
+    "cita": "Actualizar el catastro urbano y rural y ordenar la recaudación con una tarifa equitava",
+    "pag": 16
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Ordenar y equipar los mercados municipales.",
+    "que": "El plan no dice cuánto costará ni en cuánto tiempo. Incluye la infraestructura de comercialización.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Ordenar y equipar los mercados municipales y la infraestructura de comercialización",
+    "pag": 13
+   }
+  ]
+ },
+ "metas": [
+  "Cobertura de alcantarillado: de 36,7 % (2025) a 55 % en 2031.",
+  "Cobertura de agua: de 79,8 % a 90 % en 2031.",
+  "Vías en buen estado: de unos 30 % a 55 % de la red en 2031.",
+  "Relleno sanitario nuevo con 20 años de vida útil.",
+  "Dos asambleas de presupuesto participativo al año desde el año 1."
+ ],
+ "notas": [
+  "Muchas obras dependen de préstamos. El plan dice que ningún crédito se firma antes de un estudio de capacidad de pago.",
+  "Parte del plan copia metas del plan de desarrollo del cantón. Los montos son referenciales, no un compromiso de contratación."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23
+ ],
+ "paginas": 23
+}

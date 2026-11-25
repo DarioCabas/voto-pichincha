@@ -1,0 +1,138 @@
+{
+ "enfoque": "Obras de agua, calles, canchas, prevención de desastres y trámites en línea, pero sin costos ni plazos; varias acciones dependen de otras instituciones.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Gestionar la rehabilitación y mantenimiento de vías urbanas y rurales.",
+    "que": "Lo haría con el Gobierno Provincial del Azuay y el Ministerio de Obras Públicas (MTOP). El plan no dice cuánto costará ni qué vías.",
+    "v": "media",
+    "n": "Las calles son del Municipio; las vías rurales dependen de la Prefectura y del MTOP.",
+    "cita": "Fortaleceremos la gestión vial mediante la articulación con el Gobierno Provincial del Azuay",
+    "pag": 10
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar y arreglar los sistemas de agua potable y alcantarillado.",
+    "que": "Primero identificará sectores con más necesidades, pero el plan no dice cuáles ni cuánto costará.",
+    "v": "media",
+    "n": "Es tarea del Municipio, pero depende de financiamiento y cooperación de otros.",
+    "cita": "Gestionaremos proyectos de ampliación, rehabilitación y repotenciación de sistemas de agua potable y alcantarillado",
+    "pag": 11
+   },
+   {
+    "t": "Gestionar más cobertura de internet y telefonía con empresas de telecomunicaciones.",
+    "que": "El plan no dice cuánto costará ni cuándo. Depende de empresas y entidades públicas.",
+    "v": "baja",
+    "n": "No le toca al Municipio; las empresas de telefonía deciden la cobertura.",
+    "cita": "Gestionaremos alianzas con entidades públicas y empresas de telecomunicaciones para ampliar la cobertura de internet y telefonía",
+    "pag": 12
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar canchas, plazas y espacios deportivos deteriorados.",
+    "que": "Prioriza espacios comunitarios deteriorados. El plan no dice cuáles, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Plazas y canchas son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Impulsaremos la recuperación, y fortalecimiento de infraestructura deportiva como espacios de convivencia comunitaria",
+    "pag": 11
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Gestionar plantas para tratar aguas residuales y mejorar las existentes.",
+    "que": "Lo hará poco a poco y con otras entidades. El plan no dice cuánto costará ni cuándo estará listo.",
+    "v": "media",
+    "n": "Tratar aguas es del Municipio, pero depende de estudios y dinero de otros.",
+    "cita": "Gestionaremos proyectos de saneamiento ambiental mediante planificación progresiva y articulación con entidades competentes",
+    "pag": 11
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar cámaras de vigilancia en puntos estratégicos del cantón.",
+    "que": "Lo haría con la empresa pública CELEC EP y otras entidades. El plan no dice cuántas cámaras ni cuánto costará.",
+    "v": "baja",
+    "n": "La seguridad es de la Policía, no del alcalde.",
+    "cita": "la implementación de sistemas de videovigilancia para fortalecer la seguridad",
+    "pag": 3
+   }
+  ],
+  "otros": [
+   {
+    "t": "Preparar al cantón para emergencias con capacitación y planes de respuesta.",
+    "que": "Capacitar a la comunidad y actualizar planes y protocolos. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Prevenir desastres es tarea del Municipio. El plan no dice con qué dinero.",
+    "cita": "Impulsaremos acciones preventivas mediante coordinación con organismos de respuesta",
+    "pag": 17
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Implementar una ventanilla única virtual para trámites municipales.",
+    "que": "Incluye trámites en línea y seguimiento de trámites. El plan no dice cuándo estará lista ni cuánto costará.",
+    "v": "alta",
+    "n": "Es un trámite municipal. El plan no dice plazo ni costo.",
+    "cita": "Implementar una ventanilla única virtual para trámites y servicios municipales",
+    "pag": 21
+   },
+   {
+    "t": "Hacer asambleas ciudadanas cada semestre en comunidades y parroquias.",
+    "que": "Espacios para hacer preguntas, recibir respuestas y propuestas de la gente. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al alcalde; el plan no dice cuánto costará.",
+    "cita": "Realizar asambleas ciudadanas en las comunidades y parroquias del cantón",
+    "pag": 23
+   }
+  ],
+  "social": [
+   {
+    "t": "Ampliar la atención a adultos mayores, personas con discapacidad y grupos vulnerables.",
+    "que": "Lo haría junto con otras instituciones. El plan no dice cuántas personas ni cuánto costará.",
+    "v": "baja",
+    "n": "Estos programas no son competencia del alcalde; dependen de otras instituciones.",
+    "cita": "Fortaleceremos programas sociales mediante coordinación con instituciones competentes para ampliar la atención",
+    "pag": 14
+   }
+  ]
+ },
+ "metas": [
+  "Asambleas ciudadanas de rendición de cuentas cada semestre.",
+  "Plan para el período 2027-2031, cuatro años."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará casi ninguna obra ni de dónde saldrá el dinero.",
+  "No habla de basura, mercados, tránsito ni buses, que sí le tocan al alcalde."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25
+ ],
+ "paginas": 25
+}

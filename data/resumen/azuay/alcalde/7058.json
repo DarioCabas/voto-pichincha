@@ -1,0 +1,102 @@
+{
+ "enfoque": "Plan general: arreglar vías y señales, obras de agua y calles, basura, mercados y uso del suelo. También pide salud, escuelas y empleo, que no son del Municipio.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Hacer obras de calles, agua potable, alcantarillado y espacios públicos.",
+    "que": "El plan habla de inversiones en esas obras, pero no dice dónde, cuánto costarán ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice dónde ni cuánto costará.",
+    "cita": "mediante inversiones sostenibles en vialidad, agua potable, alcantarillado, espacios públicos, equipamientos e infraestructura comunitaria.",
+    "pag": 5
+   },
+   {
+    "t": "Hacer cumplir las ordenanzas de limpieza de calles y recolección de basura.",
+    "que": "Aplicará medidas coercitivas en barrios en desarrollo, con administración directa. El plan no dice cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, con sus propias ordenanzas.",
+    "cita": "Aplicar medidas coercitivas para el cumplimiento de las ordenanzas de limpieza de calles",
+    "pag": 10
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar los planes que ordenan el uso del suelo y el crecimiento urbano y rural.",
+    "que": "Actualizará de forma permanente los instrumentos de planificación y controlará el uso del suelo. El plan no dice cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Es una competencia municipal.",
+    "cita": "mediante la actualización permanente de los instrumentos de planificación, el control del uso del suelo",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Revisar el estado de los dos mercados que están en construcción.",
+    "que": "El plan dice que se revisará el avance y las condiciones de los dos mercados. No dice cuándo se abren ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Los mercados son de su competencia.",
+    "cita": "Realizar un diagnóstico del avance y condiciones actuales de los dos mercados en",
+    "pag": 7
+   },
+   {
+    "t": "Buscar apoyo técnico y dinero de otras instituciones para proyectos del cantón.",
+    "que": "Buscará alianzas con organismos de cooperación y entidades externas. El plan no dice qué proyectos ni cuánto dinero.",
+    "v": "media",
+    "n": "Depende de que otras instituciones den el apoyo.",
+    "cita": "Gestionar y fortalecer alianzas con organismos de cooperación y entidades externas para obtener apoyo técnico,",
+    "pag": 14
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Explicar a la población el presupuesto del cantón, con gastos e inversiones.",
+    "que": "Dice que socializará de manera clara y detallada el presupuesto, con gastos ejecutados. El plan no dice cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Es informar, no construir.",
+    "cita": "Socializar de manera clara y detallada el presupuesto cantonal, explicando las asignaciones, inversiones y gastos ejecutados.",
+    "pag": 28
+   }
+  ]
+ },
+ "metas": [
+  "Período de gestión 2027-2031.",
+  "Al año 2031, un cantón ordenado, inclusivo y ambientalmente sostenible, según el plan (sin cifras)."
+ ],
+ "notas": [
+  "Casi todas las propuestas son 'gestionar' o 'coordinar' con ministerios. Pocas dicen costos, lugares o plazos.",
+  "Salud, escuelas, becas, desarrollo infantil y empleo no son del Municipio. El plan los mezcla con lo municipal."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29
+ ],
+ "paginas": 29
+}

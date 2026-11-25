@@ -1,0 +1,174 @@
+{
+ "enfoque": "Obras de agua, alcantarillado, calles, río y árboles en Milagro. No da costo por obra. Parte del diagnóstico menciona Daule.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Recuperar el río Milagro y sus bordes, en una primera etapa.",
+    "que": "El plan no dice cuánto costará. Participan el Municipio, la Prefectura del Guayas y otras instituciones.",
+    "v": "media",
+    "n": "Depende de la Prefectura y otras instituciones. Falta el costo.",
+    "cita": "Ejecutar la primera etapa de recuperación del río Milagro y sus bordes.",
+    "pag": 33
+   },
+   {
+    "t": "Sembrar 10.000 árboles y recuperar áreas verdes prioritarias.",
+    "que": "Según el plan, hay 0,57 m² de áreas verdes por habitante; el referencial es 9 m². El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que maneja parques y áreas verdes. Falta el costo.",
+    "cita": "Sembrar 10.000 árboles y recuperar áreas verdes prioritarias.",
+    "pag": 33
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Construir sistema de agua potable en la parroquia Roberto Astudillo.",
+    "que": "Se pagaría con crédito de un organismo internacional (BID, CAF u otro). El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "El agua es del Municipio, pero depende de crédito y del ente de agua.",
+    "cita": "Alcanzar el 70% de cobertura de agua potable en la parroquia al término de la gestión",
+    "pag": 34
+   },
+   {
+    "t": "Subir entre 3 y 5 puntos la cobertura de alcantarillado en zonas priorizadas.",
+    "que": "Hoy solo 26,6% de viviendas tienen alcantarillado, según el plan. El plan no dice qué sectores ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan depende de créditos del Banco de Desarrollo.",
+    "cita": "Incrementar la cobertura entre 3 y 5 puntos porcentuales en sectores priorizados.",
+    "pag": 35
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar huecos y repavimentar calles urbanas de la cabecera.",
+    "que": "El banco de ideas lo ubica como trabajo permanente. El plan no dice cuánto costará ni qué calles.",
+    "v": "alta",
+    "n": "Las calles son del Municipio. Falta costo y lista de calles.",
+    "cita": "Plan de Repavimentación y Bacheo de Vías Urbanas",
+    "pag": 42
+   },
+   {
+    "t": "Arreglar calles, aceras y espacio público en entre 3 y 8 barrios.",
+    "que": "El plan no dice qué barrios ni cuánto costará. Incluye obras públicas y participación de los vecinos.",
+    "v": "alta",
+    "n": "Calles, aceras y espacio público son del Municipio. Falta el costo.",
+    "cita": "Intervenir integralmente entre 3 y 8 barrios priorizados.",
+    "pag": 35
+   },
+   {
+    "t": "Recuperar el Boulevard Juan Montalvo, eje comercial de la ciudad.",
+    "que": "El plan no dice cuánto costará. El banco de ideas lo ubica en el corto plazo.",
+    "v": "alta",
+    "n": "Calles y espacio público son del Municipio. Falta el costo.",
+    "cita": "Ejecutar la recuperación integral del Boulevard Juan Montalvo.",
+    "pag": 35
+   },
+   {
+    "t": "Entregar unos 50 lotes con servicios básicos a familias sin terreno propio.",
+    "que": "Es cifra referencial, que puede cambiar tras estudios. Se haría con el Ministerio de Vivienda y el banco público. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Los lotes son del Municipio, pero depende del Ministerio de Vivienda y del banco.",
+    "cita": "Entregar aproximadamente 50 lotes con servicios básicos a familias",
+    "pag": 34
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Ampliar alumbrado y cámaras de video-vigilancia en sectores priorizados.",
+    "que": "Lo harían con la Policía Nacional y la Fiscalía. El plan no dice cuántos puntos ni cuánto costará.",
+    "v": "baja",
+    "n": "La policía no es del Municipio. Ese trabajo lo hacen la Policía y la Fiscalía.",
+    "cita": "Ampliar cobertura de alumbrado y video-vigilancia en sectores priorizados.",
+    "pag": 36
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Digitalizar la mitad de los trámites municipales y acortar la atención en 20%.",
+    "que": "Meta: digitalizar el 50% de los trámites y reducir en 20% el tiempo de atención. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Es trabajo interno del Municipio. El plan no da costo ni fecha.",
+    "cita": "Digitalizar el 50% de los trámites municipales y reducir en 20% los tiempos de atención.",
+    "pag": 38
+   }
+  ]
+ },
+ "metas": [
+  "Sembrar 10.000 árboles y recuperar áreas verdes prioritarias (2027-2031).",
+  "Alcanzar 70% de cobertura de agua potable en Roberto Astudillo al terminar la gestión.",
+  "Subir entre 3 y 5 puntos la cobertura de alcantarillado en sectores priorizados.",
+  "Entregar unos 50 lotes con servicios básicos (cifra referencial).",
+  "Digitalizar el 50% de los trámites municipales y reducir 20% los tiempos de atención."
+ ],
+ "notas": [
+  "Parte del diagnóstico menciona el cantón Daule, lo que sugiere texto copiado de otro plan. Revise antes de decidir.",
+  "No da costo por proyecto ni fecha exacta. Varios proyectos dependen de créditos, la Prefectura o el Gobierno."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61,
+  62,
+  63,
+  64
+ ],
+ "paginas": 64
+}

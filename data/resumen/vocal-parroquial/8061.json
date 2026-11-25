@@ -1,0 +1,109 @@
+{
+ "enfoque": "Ideas generales sobre caminos, espacios, productores, jóvenes y ambiente. Gran parte del texto copia el plan de desarrollo de la parroquia, sin costos ni plazos.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a caminos y revisar drenajes de la parroquia",
+    "que": "El plan dice que se priorizará el mantenimiento vial y los drenajes, junto con el Municipio y la Prefectura. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Los caminos son de la Prefectura o el Municipio. La junta puede ayudar con el mantenimiento.",
+    "cita": "El plan priorizará mantenimiento vial, drenajes, espacios comunitarios y formulación de proyectos de saneamiento, articulando con Municipio",
+    "pag": 3
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Dar mantenimiento a espacios comunitarios de la parroquia",
+    "que": "El plan habla de mantener espacios comunitarios, pero no dice cuáles ni en qué lugares. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Parques y espacios comunitarios sí son competencia de la junta.",
+    "cita": "El plan priorizará mantenimiento vial, drenajes, espacios comunitarios y formulación de proyectos de saneamiento, articulando con Municipio",
+    "pag": 3
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Revisar brechas de saneamiento en sectores puntuales",
+    "que": "El plan dice que se prioriza el mantenimiento, la calidad, el saneamiento y brechas puntuales, no cobertura general. No dice qué sectores ni cuánto costará.",
+    "v": "baja",
+    "n": "El agua potable le toca a otros niveles, no a la junta.",
+    "cita": "la propuesta, por tanto, prioriza mantenimiento, calidad, saneamiento y brechas puntuales,",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Organizar ferias y cursos para que productores vendan mejor",
+    "que": "El plan habla de ferias, capacitación, registro y alianzas para vender lo que producen. No dice cuánto costará ni en qué fechas.",
+    "v": "alta",
+    "n": "Ferias y cursos los puede organizar la junta. El plan no dice cuánto costará.",
+    "cita": "El plan propone fortalecer capacidades y mercados con proyectos",
+    "pag": 3
+   }
+  ],
+  "social": [
+   {
+    "t": "Dar cursos, deporte y cultura para jóvenes y grupos prioritarios",
+    "que": "El plan habla de formación, deporte y emprendimiento para jóvenes. No dice qué cursos, en qué lugares ni cu��nto costará.",
+    "v": "alta",
+    "n": "Cursos y deporte son trabajo de la junta. El plan no dice cuánto costará.",
+    "cita": "Ampliar oportunidades de formación, deporte, cultura e inclusión",
+    "pag": 2
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Cuidar el agua, el suelo y el entorno natural de la parroquia",
+    "que": "El plan dice que hará prevención, educación y restauración. Menciona prevención de incendios. No dice en qué lugares ni cuánto costará.",
+    "v": "alta",
+    "n": "Educación y prevención las puede hacer la junta. El plan no dice dónde.",
+    "cita": "Proteger agua, suelo y entorno natural y reducir riesgos",
+    "pag": 2
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas públicas para informar sobre la gestión",
+    "que": "El plan dice que habrá asambleas con mujeres, jóvenes y pueblos indígenas. No dice con qué frecuencia exacta ni en qué lugares.",
+    "v": "alta",
+    "n": "Reunir a la comunidad para informar le toca a la junta.",
+    "cita": "Convocar periódicamente a las comunidades, organizaciones sociales, juntas vecinales",
+    "pag": 5
+   },
+   {
+    "t": "Explicar el presupuesto de la parroquia a la comunidad",
+    "que": "El plan dice que se explicará en qué se gasta el dinero y que la comunidad participará en decidir prioridades. No dice cuándo.",
+    "v": "alta",
+    "n": "Informar sobre el presupuesto le toca a la junta. El plan no dice cuándo.",
+    "cita": "Socializar de manera clara y detallada el presupuesto parroquial, explicando las",
+    "pag": 5
+   },
+   {
+    "t": "Publicar información en tableros, boletines y redes sociales",
+    "que": "El plan dice que habrá tableros, boletines, redes sociales y reuniones virtuales. No dice cuándo empiezan.",
+    "v": "alta",
+    "n": "Informar a la gente es tarea de la junta.",
+    "cita": "Mantener canales permanentes de información, como tableros comunitarios, boletines,",
+    "pag": 5
+   }
+  ]
+ },
+ "metas": [
+  "Periodo del plan: 2027-2031."
+ ],
+ "notas": [
+  "Gran parte del texto repite el plan de desarrollo de la parroquia y habla de obras de otros niveles de gobierno.",
+  "Ninguna propuesta dice cuánto costará ni en qué plazo se hará. No tiene metas con cifras."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "paginas": 7
+}

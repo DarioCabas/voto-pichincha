@@ -1,0 +1,167 @@
+{
+ "enfoque": "Propuestas generales sobre agua, basura, riesgos y gobierno abierto. Casi no dice cuánto costará, cuándo ni en qué barrios.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Garantizar agua potable, alcantarillado y saneamiento para toda la población del cantón.",
+    "que": "Dice que lo hará modernizando la infraestructura. El plan no dice en qué sectores, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Garantizar el acceso progresivo, continuo, seguro y sostenible al agua potable, alcantarillado y saneamiento para toda la población del cantón",
+    "pag": 30
+   },
+   {
+    "t": "Dar prioridad a ampliar la cobertura de agua y reducir pérdidas en la red.",
+    "que": "El plan no dice en qué parroquias, cuánto costará ni cuándo. También habla de proteger las fuentes de agua.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta saber qué obras y en qué plazo.",
+    "cita": "priorice la ampliación de la cobertura, la modernización de la infraestructura existente, la reducción de pérdidas en la red",
+    "pag": 33
+   },
+   {
+    "t": "Reducir, reutilizar y reciclar la basura, con un modelo de manejo de desechos.",
+    "que": "Dice que hace falta infraestructura para el destino final de la basura. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Recoger y manejar la basura es del Municipio. El plan no dice cuándo.",
+    "cita": "promover un modelo de gestión integral que priorice la reducción, reutilización, reciclaje y aprovechamiento de los desechos",
+    "pag": 10
+   }
+  ],
+  "otros": [
+   {
+    "t": "Implementar un sistema para identificar y manejar riesgos, como los del volcán Cotopaxi.",
+    "que": "Lista riesgos como menos ingresos municipales, cambios de leyes, inundaciones y el volcán. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Prevenir desastres es del Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "la administración municipal implementará un Sistema Integral de Gestión de Riesgos que permita identificar, monitorear y gestionar oportunamente",
+    "pag": 22
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Aplicar un modelo de prevención de la inseguridad, con tecnología y espacios públicos.",
+    "que": "Incluye recuperar espacios públicos y coordinar con otras instituciones. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "La policía es del Gobierno. El Municipio solo aporta en prevención y espacios públicos.",
+    "cita": "Fortalecer la seguridad integral del cantón Latacunga mediante un modelo de prevención inteligente",
+    "pag": 34
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Planificar y ejecutar el desarrollo urbano y rural, con infraestructura y movilidad eficiente.",
+    "que": "El plan no dice qué calles, obras ni barrios, ni cuánto costará ni cuándo. Solo da la idea general.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice qué obras.",
+    "cita": "Planificar y ejecutar el desarrollo urbano y rural de Latacunga mediante infraestructura de calidad, movilidad eficiente",
+    "pag": 34
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer de Latacunga el principal polo de oportunidades económicas de la Sierra Centro.",
+    "que": "Habla de impulsar empleo, emprendimiento y comercio local. El plan no dice cómo ni cuánto costará.",
+    "v": "media",
+    "n": "El Municipio no crea empleo directo; solo puede apoyar. El plan no dice cómo.",
+    "cita": "Convertir a Latacunga en el principal polo de oportunidades económicas de la Sierra Centro",
+    "pag": 34
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger el ambiente y los recursos naturales del cantón.",
+    "que": "Incluye el bienestar de los animales. El plan no dice qué acciones concretas ni cuánto costará.",
+    "v": "media",
+    "n": "Parte es del Municipio, pero el plan no dice qué acciones concretas hará.",
+    "cita": "Promover un desarrollo sostenible del cantón Latacunga mediante la protección del ambiente",
+    "pag": 34
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una política de gobierno abierto para informar a la gente de forma clara y permanente.",
+    "que": "Incluye comunicación institucional y herramientas para que la ciudadanía interactúe con el Municipio. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Es una tarea del Municipio. El plan no dice cuándo ni con qué recursos.",
+    "cita": "Se impulsará una política de Gobierno Abierto, incorporando estrategias de comunicación institucional que permitan informar",
+    "pag": 22
+   },
+   {
+    "t": "Crear un sistema de seguimiento con metas anuales, informes y evaluación.",
+    "que": "Incluye tablero de control, informes trimestrales y evaluación anual del cumplimiento. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Las metas anuales no tienen cifras en el plan.",
+    "cita": "Se implementará un Sistema Municipal de Seguimiento y Evaluación basado en resultados",
+    "pag": 22
+   },
+   {
+    "t": "Hacer presupuestos participativos para que la población intervenga en las prioridades de inversión.",
+    "que": "El plan no dice qué parte del presupuesto se decidirá así ni cuándo empezará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto dinero entrará en este proceso.",
+    "cita": "la consolidación de procesos de presupuestos participativos que permitan a la población intervenir en la definición de las prioridades de inversión",
+    "pag": 22
+   }
+  ]
+ },
+ "metas": [
+  "Informes de avance cada tres meses (trimestrales).",
+  "Evaluación de impacto al terminar el período 2027-2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni en qué plazo se hará. Solo nombra posibles fuentes de dinero.",
+  "Gran parte del texto son leyes y diagnósticos. Hay poco sobre calles, buses o mercados, que sí son del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48
+ ],
+ "paginas": 48
+}

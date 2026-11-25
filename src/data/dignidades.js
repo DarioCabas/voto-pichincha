@@ -9,6 +9,15 @@ export const DIGNIDADES = [
   { slug: 'junta-parroquial', raw: 'vocal-parroquial', nombre: 'Juntas parroquiales', cargo: 'Vocales de junta parroquial', territorio: 'sub', modo: 'auto' },
 ];
 
+// Provincias publicadas. Pichincha usa las URL sin prefijo (/alcaldia/...); las demás, /<slug>/alcaldia/...
+export const PROVINCIAS = [
+  { slug: 'pichincha', nombre: 'Pichincha' },
+  { slug: 'azuay', nombre: 'Azuay' },
+  { slug: 'cotopaxi', nombre: 'Cotopaxi' },
+  { slug: 'guayas', nombre: 'Guayas' },
+];
+export const provPath = (prov) => (!prov || prov === 'pichincha' ? '' : `/${prov}`);
+
 export const TEMAS_LOCALES = [
   { id: 'movilidad', nombre: 'Vialidad y movilidad' },
   { id: 'servicios', nombre: 'Agua y servicios básicos' },
@@ -22,8 +31,8 @@ export const TEMAS_LOCALES = [
 ];
 
 export const COMPETENCIAS = {
-  prefectura: 'COOTAD art. 42: vialidad rural, riego, cuencas, gestión ambiental, fomento productivo y agropecuario, cooperación internacional.',
-  alcaldia: 'COOTAD art. 55: vialidad urbana, agua potable y alcantarillado, residuos, tránsito y transporte, uso del suelo, espacios públicos, mercados, catastro, riesgos e incendios.',
-  concejo: 'COOTAD art. 58: un concejal no ejecuta obras. Presenta ordenanzas y resoluciones, fiscaliza al alcalde y vota el presupuesto.',
-  junta: 'COOTAD art. 65: espacios públicos parroquiales, vialidad parroquial (con la Prefectura), actividades productivas comunitarias, ambiente, organización ciudadana y cooperación. Agua, salud, educación y seguridad son de otros niveles.',
+  prefectura: 'Sí puede: vías entre parroquias y cantones, riego, cuidado de ríos y ambiente, apoyo al campo y a la producción. No le toca: calles de la ciudad, agua potable, salud, educación ni policía. (Ley COOTAD, art. 42)',
+  alcaldia: 'Sí puede: calles, agua potable y alcantarillado, basura, tránsito y buses, parques, mercados, uso del suelo y prevención de desastres. No le toca: policía, hospitales, escuelas ni crear empleo directamente. (Ley COOTAD, art. 55)',
+  concejo: 'Un concejal no hace obras. Sí puede: crear ordenanzas (leyes del cantón), vigilar cómo gasta el alcalde y votar el presupuesto. Si promete construir algo, depende del alcalde. (Ley COOTAD, art. 58)',
+  junta: 'Sí puede: parques y espacios de la parroquia, cuidar caminos junto con la Prefectura, apoyar a productores, cuidar el ambiente y organizar a la comunidad. No le toca: agua potable, salud, educación ni policía. (Ley COOTAD, art. 65)',
 };

@@ -1,0 +1,110 @@
+{
+ "enfoque": "Reuniones cada tres meses con vecinos, cuentas publicadas en internet y pedidos al Municipio para vías y temas ambientales. No dice cuánto cuesta.",
+ "tabla": {
+  "gobierno": [
+   {
+    "t": "Hacer asambleas con vecinos cada tres meses en barrios, comunas y sectores rurales.",
+    "que": "Para informar del avance de obras y proyectos y recoger observaciones. El plan no dice cuánto costará ni dónde será cada una.",
+    "v": "alta",
+    "n": "Es reunir a vecinos, está dentro de lo que puede hacer la junta.",
+    "cita": "Se realizarán asambleas ciudadanas de forma trimestral en los distintos barrios, comunas y sectores rurales",
+    "pag": 7
+   },
+   {
+    "t": "Decidir en conjunto con barrios y organizaciones en qué se usa la inversión.",
+    "que": "Las decisiones las toman representantes de barrios, comunas y organizaciones. El plan no dice cuánto dinero se maneja.",
+    "v": "alta",
+    "n": "Es decidir en comunidad. La junta tiene poco presupuesto.",
+    "cita": "Los recursos destinados a inversión serán priorizados mediante procesos participativos",
+    "pag": 7
+   },
+   {
+    "t": "Promover veedurías ciudadanas que revisen obras, programas y proyectos.",
+    "que": "Son grupos de vecinos que revisan el trabajo, con registro ante el Consejo de Participación Ciudadana. El plan no dice cómo se hará.",
+    "v": "alta",
+    "n": "Organizar vecinos es tarea de la junta; el registro lo da otra entidad.",
+    "cita": "promoverá la conformación de veedurías ciudadanas acreditadas ante el Consejo de Participación Ciudadana y Control Social",
+    "pag": 7
+   },
+   {
+    "t": "Publicar en internet las cuentas: gastos, obras, actas, informes y contratos.",
+    "que": "Un portal público con ejecución del dinero, avance de obras, actas, informes de rendición de cuentas y procesos de contratación. El plan no dice cuándo estará listo.",
+    "v": "alta",
+    "n": "Publicar información está dentro de la junta. El plan no dice cuánto cuesta.",
+    "cita": "un portal digital de acceso público donde se publicará periódicamente",
+    "pag": 7
+   },
+   {
+    "t": "Crear mesas de diálogo permanentes con barrios, comunas, jóvenes y adultos mayores.",
+    "que": "Se reunirán para revisar el avance del plan y fijar nuevas prioridades. El plan no dice cada cuánto se reunirán.",
+    "v": "alta",
+    "n": "Son reuniones con vecinos que la junta puede convocar.",
+    "cita": "Se establecerán mesas de trabajo permanentes con representantes de barrios, comunas",
+    "pag": 8
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Gestionar el mantenimiento de vías y caminos vecinales de la parroquia.",
+    "que": "El plan dice que se coordinará con el Municipio para hacer intervenciones en vías y caminos. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio o la Prefectura.",
+    "cita": "la gestión del mantenimiento de la vialidad parroquial, la mejora de la accesibilidad, la señalización vial",
+    "pag": 3
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer programas de reforestación y recuperar espacios naturales de la parroquia.",
+    "que": "Se hará en coordinación con el Municipio y la comunidad, junto con manejo de basura. El plan no dice dónde, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita coordinar con el Municipio. El plan no dice dónde ni cuánto.",
+    "cita": "impulsar programas de reforestación, recuperación de espacios naturales, manejo integral de residuos sólidos",
+    "pag": 2
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar actividades culturales y deportivas para la población.",
+    "que": "Dice que dará prioridad a grupos vulnerables. El plan no dice qué actividades habrá, dónde ni cuánto costarán.",
+    "v": "alta",
+    "n": "Organizar actividades está al alcance de la junta.",
+    "cita": "el impulso de actividades culturales y deportivas, y la participación",
+    "pag": 2
+   }
+  ],
+  "economia": [
+   {
+    "t": "Ayudar a productores y emprendedores de la parroquia.",
+    "que": "Dice que hará acciones para cadenas productivas, emprendimientos y turismo sostenible. El plan no dice qué ayuda dará ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita apoyo de otras instituciones. El plan no dice cómo.",
+    "cita": "promover acciones orientadas al fortalecimiento de las cadenas productivas, el impulso al emprendimiento, el turismo sostenible",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [
+  "Asambleas ciudadanas cada tres meses.",
+  "Plan de trabajo para el período 2027-2031."
+ ],
+ "notas": [
+  "El plan casi no dice cuánto cuesta ni cuándo se hará. Muchas frases son generales y se repiten.",
+  "La mayoría de propuestas son reuniones y publicar información. Pocas son obras concretas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "paginas": 11
+}

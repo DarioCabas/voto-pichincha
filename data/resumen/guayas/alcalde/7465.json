@@ -1,0 +1,120 @@
+{
+ "enfoque": "Plan general sobre agua, alcantarillado, basura, parques y trámites. Casi no dice dónde, cuánto cuesta ni cuándo; gran parte copia la ley.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Ejecutar proyectos de vialidad, agua, saneamiento y espacios públicos.",
+    "que": "El plan no dice qué calles ni cuánto costará. Es un objetivo general, sin lugares ni plazos.",
+    "v": "alta",
+    "n": "Le toca al Municipio; el plan no dice qué calles ni cuánto costará.",
+    "cita": "ejecución y gestión de proyectos de infraestructura, agua potable, saneamiento, vialidad, espacios públicos",
+    "pag": 12
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Dar seguimiento a los proyectos de agua potable del cantón.",
+    "que": "El Concejo Municipal vigilará las obras y buscará más cobertura. El plan no dice qué obras ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio; el plan no dice qué obras ni cuánto costará.",
+    "cita": "Promoveramos, desde el Concejo Municipal, el seguimiento permanente a la planificación y ejecución de los proyectos de agua potable",
+    "pag": 17
+   },
+   {
+    "t": "Dar prioridad a proyectos de alcantarillado y saneamiento en la planificación.",
+    "que": "Buscará convenios con el Gobierno Nacional para ampliar el alcantarillado. El plan no dice qué barrios ni cuánto costará.",
+    "v": "media",
+    "n": "Depende de convenios con el Gobierno Nacional; el plan no dice cuánto costará.",
+    "cita": "Impulsaremos la priorización de proyectos de saneamiento dentro de la planificación municipal",
+    "pag": 17
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer campañas permanentes de educación ambiental y reciclaje.",
+    "que": "Habrá programas de reciclaje y separación de basura en la fuente, en la ciudad y en el campo. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio; el plan no dice cuánto costará ni cuándo empieza.",
+    "cita": "Promoveremos iniciativas que fortalezcan la gestión integral de residuos sólidos mediante campañas permanentes de educación ambiental",
+    "pag": 17
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Dar mantenimiento y equipar parques y espacios públicos del cantón.",
+    "que": "Busca conservar y mejorar parques, áreas verdes y canchas, con accesibilidad y seguridad. El plan no dice cuáles ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio; el plan no dice qué parques ni cuánto costará.",
+    "cita": "orientadas a la conservación y mejoramiento de los espacios públicos del cantón",
+    "pag": 12
+   }
+  ],
+  "social": [
+   {
+    "t": "Aprobar ordenanzas, programas y convenios para grupos prioritarios.",
+    "que": "Buscará protección social, inclusión y oportunidades para adultos mayores, personas con discapacidad y niños. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Las ordenanzas sí son del Municipio; los programas dependen de otras entidades.",
+    "cita": "Impulsaremos la aprobación de ordenanzas, programas y convenios",
+    "pag": 18
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Simplificar trámites municipales con herramientas tecnológicas.",
+    "que": "Se usarán sistemas digitales para agilizar trámites y dar información pública. El plan no dice cuál sistema ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio; el plan no dice qué sistema usará ni en qué plazo.",
+    "cita": "mediante la Incorporación de herramientas tecnológicas que simplifiquen los trámites",
+    "pag": 18
+   },
+   {
+    "t": "Publicar un informe mensual de la gestión municipal.",
+    "que": "Se publicará cada lunes de inicio de mes, además de boletines y redes sociales. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al alcalde; depende solo de la propia administración.",
+    "cita": "Informe mensual de la gestión Institucional cada lunes de inicio de mes",
+    "pag": 23
+   }
+  ]
+ },
+ "metas": [
+  "Agua para consumo humano para el 100% de la población, en 4 años.",
+  "Seguimiento semanal de trámites ingresados y resueltos.",
+  "Informe mensual de la gestión municipal.",
+  "Visitas mensuales a los sectores del cantón."
+ ],
+ "notas": [
+  "Casi no dice cuánto costará ni cuándo. Muchas frases son generales y no dicen dónde se hará cada obra.",
+  "Parte del texto copia la ley y el plan de desarrollo del cantón. Policía, salud y escuelas no son del alcalde."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25
+ ],
+ "paginas": 25
+}

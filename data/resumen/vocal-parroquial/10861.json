@@ -1,0 +1,124 @@
+{
+ "enfoque": "Plan general de Mindo: cuidar el ambiente, mantener caminos con la Prefectura, apoyar productores y hacer reportes. Casi no dice costos ni fechas.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Organizar mingas (trabajo voluntario de vecinos) para cuidar el ambiente y los espacios comunitarios.",
+    "que": "El plan no dice en qué lugares ni cuántas mingas se harán. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es algo que la junta sí puede hacer.",
+    "cita": "Organización de mingas, conservación ambiental, mantenimiento y cuidado de infraestructura y espacios comunitarios",
+    "pag": 29
+   },
+   {
+    "t": "Hacer acciones de medio ambiente y gestión de riesgos junto con el Municipio y la Prefectura.",
+    "que": "El plan no dice qué acciones ni en qué lugares. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio y la Prefectura.",
+    "cita": "Ejecución coordinada de acciones relacionadas con la gestión ambiental y la gestión de riesgos",
+    "pag": 29
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer mantenimiento de caminos de la parroquia junto con la Prefectura.",
+    "que": "El plan no dice qué caminos se arreglarán ni cuánto costará. El plan no dice en qué plazo.",
+    "v": "media",
+    "n": "Va junto con la Prefectura. La junta no puede hacerlo sola.",
+    "cita": "Planificación y mantenimiento de la vialidad parroquial rural en coordinación con el GAD Provincial",
+    "pag": 29
+   }
+  ],
+  "economia": [
+   {
+    "t": "Gestionar créditos y asistencia técnica en el Banco de Desarrollo para productores.",
+    "que": "El plan no dice para qué productores ni cuánto dinero. Es una gestión de trámites, no dinero propio de la junta.",
+    "v": "media",
+    "n": "Depende del banco. La junta solo hace la gestión.",
+    "cita": "Gestión de créditos, asistencia técnica y recursos de preinversión ante el Banco de Desarrollo del Ecuador B.P.",
+    "pag": 29
+   },
+   {
+    "t": "Gestionar asistencia técnica, cursos y dinero no reembolsable de otras instituciones para productores.",
+    "que": "El plan no dice qué instituciones ni cuánto dinero. El plan no dice cuándo llegará.",
+    "v": "media",
+    "n": "Depende de terceros que el plan no nombra.",
+    "cita": "Gestión de asistencia técnica, financiamiento no reembolsable, capacitación, investigación, innovación",
+    "pag": 29
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar información periódica sobre la gestión, el presupuesto y los proyectos.",
+    "que": "El plan dice periódicamente, pero no dice cada cuánto ni en qué medio. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Lo hace la propia junta, sin depender de otro nivel.",
+    "cita": "Publicar periódicamente información relacionada con la gestión institucional, el presupuesto, los proyectos y la rendición de cuentas",
+    "pag": 28
+   },
+   {
+    "t": "Hacer reportes cada tres meses sobre metas, indicadores y gasto.",
+    "que": "El plan no dice quién los revisará ni cuánto costará. Dice que serán trimestrales.",
+    "v": "alta",
+    "n": "Es trabajo de la propia junta.",
+    "cita": "Elaborar reportes trimestrales sobre el cumplimiento de metas, indicadores y ejecución presupuestaria.",
+    "pag": 27
+   },
+   {
+    "t": "Hacer cuatro cursos de capacitación para autoridades, vocales y personal hasta 2031.",
+    "que": "El plan no dice de qué temas serán ni cuánto costarán. Son para la propia junta, no para los vecinos.",
+    "v": "alta",
+    "n": "Los cursos son para la propia junta; cuestan poco.",
+    "cita": "Ejecutar cuatro procesos de capacitación dirigidos a los autoridades, vocales y personal administrativo",
+    "pag": 27
+   },
+   {
+    "t": "Tener una lista al día de proyectos, con papeles, convenios y posibles fuentes de dinero.",
+    "que": "El plan no dice cuántos proyectos ni cuándo estará lista. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Es trabajo de organización de la junta.",
+    "cita": "Organizar y mantener actualizada una cartera parroquial de proyectos",
+    "pag": 27
+   }
+  ]
+ },
+ "metas": [
+  "Cuatro procesos de capacitación hasta 2031 para autoridades, vocales y personal.",
+  "Reportes trimestrales (cada tres meses) sobre metas y gasto.",
+  "Informes de gestión cada seis meses.",
+  "Asamblea parroquial al menos una vez al año.",
+  "Plan de trabajo para el período 2027-2031."
+ ],
+ "notas": [
+  "La portada dice 'Distrito Metropolitano de Quito', pero Mindo está en San Miguel de los Bancos. Revise si el plan es de este cargo.",
+  "Pocas propuestas tienen costo, lugar o fecha. Muchas son de organizar reuniones y reportes, no obras.",
+  "Plan muy largo (52 págs.): se resumieron las 23 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  16,
+  17,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  41,
+  48,
+  49,
+  52
+ ],
+ "paginas": 52
+}

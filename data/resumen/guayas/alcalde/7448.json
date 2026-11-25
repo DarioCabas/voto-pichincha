@@ -1,0 +1,64 @@
+{
+ "enfoque": "Pide tareas al Gobierno y a otras entidades. Incluye agua, calles, parques y cámaras; parece copiado de un plan parroquial.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Cuidar fuentes de agua y bosques, con control y participación de la comunidad.",
+    "que": "El plan no dice qué acciones ni dónde ni cuánto costará. Otras entidades del Estado también cuidan el agua y los bosques.",
+    "v": "media",
+    "n": "El Municipio puede ayudar, pero depende de otras entidades. El plan no da detalles.",
+    "cita": "Proteger y conservar las fuentes de agua, bosques y ecosistemas estratégicos, mediante acciones",
+    "pag": 2
+   }
+  ],
+  "otros": [
+   {
+    "t": "Preparar acciones para prevenir riesgos y adaptarse al cambio climático.",
+    "que": "El plan no dice qué acciones ni en qué lugares. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio (prevención de desastres). El plan no dice qué hará ni cuándo.",
+    "cita": "Implementar acciones de gestión de riesgos y adaptación al cambio climático.",
+    "pag": 2
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Dar más agua potable y alcantarillado en sectores urbanos y rurales.",
+    "que": "El plan también habla de arreglar el alcantarillado, limpiar canales y esteros y hacer plantas de tratamiento. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará ni en qué plazo.",
+    "cita": "Alcanzar una mayor cobertura de agua potable y alcantarillado en sectores urbanos y rurales",
+    "pag": 3
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Asfaltar calles y mantener caminos vecinales de forma permanente.",
+    "que": "El plan no dice qué calles ni en qué barrios. No dice cuánto costará ni cuándo se hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta saber dónde y con qué dinero.",
+    "cita": "Mejorar la conectividad urbana y rural. Acciones Pavimentación y asfaltado de calles",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [
+  "Rendición de cuentas cada seis meses (semestral).",
+  "Período del plan: 2027 a 2031."
+ ],
+ "notas": [
+  "Parece copiado de un plan parroquial: habla de 'gestión parroquial'. Varias tareas son del Gobierno Nacional, no del Municipio.",
+  "No dice costos ni fechas. No habla de basura, mercados ni tránsito. Salud, escuelas y policía no le tocan al alcalde."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "paginas": 7
+}

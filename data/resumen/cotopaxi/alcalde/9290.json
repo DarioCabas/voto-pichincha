@@ -1,0 +1,176 @@
+{
+ "enfoque": "Obras de agua, alcantarillado, basura, parques, mercado y alerta por el lodo del Cotopaxi. Muchas dependen del Estado o de préstamos, y no hay costos en dólares.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar el agua potable rural en las cinco parroquias, con tratamiento completo y medidores de consumo.",
+    "que": "El plan no dice cuánto costará. Primero harán estudios en las cinco parroquias rurales. Se pagaría con dinero del Estado, el Banco de Desarrollo y cooperación. Plazo: 2027 a 2030.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de dinero del Estado y de préstamos.",
+    "cita": "Ampliar y tecnificar los sistemas de agua potable del área rural, incorporando tratamiento completo, reserva adecuada y micromedición",
+    "pag": 47
+   },
+   {
+    "t": "Dar apoyo técnico a las juntas de agua comunitarias, sin quitarles el servicio rural.",
+    "que": "El plan no dice cuánto costará. Es un complemento del programa que ya existe para los prestadores rurales. Plazo: 2027 a 2031.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Es acompañamiento técnico; el plan no dice cuánto cuesta.",
+    "cita": "Cualquier mejora sostenible del servicio rural pasa por acompañar a esas juntas, no por sustituirlas.",
+    "pag": 22
+   },
+   {
+    "t": "Optimizar la planta de aguas residuales de El Camal para que su descarga cumpla la norma.",
+    "que": "El plan no dice cuánto costará. Primero se mide qué entra y qué sale de la planta; luego se decide la obra. Plazo: 2027 a 2029.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto cuesta.",
+    "cita": "Diagnóstico operativo: caracterización simultánea de afluente y efluente; comparación contra los límites del TULSMA;",
+    "pag": 64
+   },
+   {
+    "t": "Estudiar cuánto le queda de vida útil al relleno sanitario de Jachaguango.",
+    "que": "El plan no dice cuánto costará el estudio nuevo. La consultoría de 2026 por USD 15.000 se usará como insumo. Plazo: 2027.",
+    "v": "alta",
+    "n": "Le toca al Municipio, y ya hay dinero de 2026 para esta consultoría.",
+    "cita": "Por ello, el Plan Anual de Contratación 2026 contempla una consultoría que permitirá obtener esta información",
+    "pag": 26
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer cunetas, alcantarillas y cabezales en caminos rurales, por convenio con el Gobierno Provincial.",
+    "que": "El plan no dice cuánto costará. Se pagaría con fondos del Estado y del Gobierno Provincial, por convenio. Plazo: 2028 a 2031.",
+    "v": "media",
+    "n": "Le toca al Gobierno Provincial; el Municipio solo lo empuja por convenio.",
+    "cita": "Por esa razón el programa vial de este plan se organiza alrededor de las obras de arte y no del recapeo.",
+    "pag": 29
+   }
+  ],
+  "otros": [
+   {
+    "t": "Instalar sirenas de alerta en los sectores de la zona por donde llegaría el lodo del Cotopaxi.",
+    "que": "Se hará junto con el Instituto Geofísico y la Secretaría de Gestión de Riesgos. El plan no dice cuánto costará. Plazo: 2028 a 2030.",
+    "v": "media",
+    "n": "Depende de la Secretaría de Gestión de Riesgos, del Gobierno Nacional.",
+    "cita": "sistema de sirenas con cobertura acústica verificada en los sectores de la zona de flujo",
+    "pag": 67
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Crear una ordenanza que limite el uso del suelo en la zona de peligro por el lodo del Cotopaxi.",
+    "que": "Se incorpora al Plan de Uso y Gestión del Suelo (PUGS). El plan no dice cuánto costará. Plazo: 2027.",
+    "v": "alta",
+    "n": "Le toca al Municipio: el uso del suelo es su competencia.",
+    "cita": "Ordenanza de restricción de uso y ocupación del suelo en la zona de amenaza, incorporada al PUGS",
+    "pag": 36
+   },
+   {
+    "t": "Construir el Parque de la Familia en el sector del Nagsiche, con zonas por edad y canchas.",
+    "que": "El plan no dice cuánto costará. Se pagaría con recursos propios, del Estado y del Ministerio del Deporte. Obra en 2028 y 2029; acuerdo de mantenimiento con la parroquia antes de entregarlo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, como espacio público. El plan no dice cuánto cuesta.",
+    "cita": "Zonas diferenciadas para primera infancia, niñez, juventud y personas adultas mayores, con mobiliario y superficies apropiadas a cada uso",
+    "pag": 72
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear un centro de comercio para artesanos en la cabecera cantonal, con puestos por reglamento.",
+    "que": "El plan no dice cuánto costará. Obra en 2028 y 2029, con recursos propios, del Estado y cooperación. Los puestos se dan por reglamento, primero a artesanos productores.",
+    "v": "alta",
+    "n": "Le toca al Municipio: plazas y mercados son su competencia.",
+    "cita": "Puestos modulares adjudicados por reglamento, con prioridad al artesano productor sobre el revendedor",
+    "pag": 73
+   }
+  ]
+ },
+ "metas": [
+  "Centro de Comercio de Artesanos entregado al 2029, con reglamento de uso aprobado.",
+  "Al menos 120 artesanos con puesto asignado y registro vigente.",
+  "Parque de la Familia Nagsiche entregado al 2030, con accesibilidad para personas con discapacidad verificada.",
+  "Al menos ocho sistemas comunitarios de agua con convenio firmado al 2031.",
+  "Inventario técnico de la infraestructura del cantón: 100 % catastrado y publicado al 2031."
+ ],
+ "notas": [
+  "El plan no pone costos en dólares por proyecto: dice 'Por determinar', porque aún no hay presupuesto del período.",
+  "Varias obras dependen del Gobierno Provincial, del Estado o de préstamos. Algunas metas se fijan recién en el primer año.",
+  "Plan muy largo (104 págs.): se resumieron las 73 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  6,
+  7,
+  8,
+  10,
+  11,
+  12,
+  13,
+  16,
+  19,
+  22,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  47,
+  48,
+  49,
+  50,
+  51,
+  53,
+  55,
+  56,
+  57,
+  58,
+  59,
+  64,
+  65,
+  67,
+  68,
+  69,
+  72,
+  73,
+  75,
+  76,
+  77,
+  78,
+  79,
+  80,
+  81,
+  82,
+  83,
+  84,
+  85,
+  86,
+  87,
+  88,
+  89,
+  90,
+  91,
+  92,
+  93,
+  94,
+  95,
+  96,
+  97,
+  98,
+  99,
+  102,
+  103,
+  104
+ ],
+ "paginas": 104
+}

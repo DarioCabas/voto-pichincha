@@ -1,0 +1,139 @@
+{
+ "enfoque": "Plan copiado en parte del PDOT del cantón. Propone agua, saneamiento, basura, calles rurales, parques, producción de leche y gestión de riesgos, sin costos.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar y mejorar los sistemas de agua potable del cantón.",
+    "que": "Es un plan de cuatro años (años 1 a 4), como referencia. El plan no dice cuánto costará ni cómo se pagará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Plan Cantonal de Agua Potable y Seguridad Hídrica",
+    "pag": 23
+   },
+   {
+    "t": "Construir o mejorar plantas de tratamiento de aguas residuales.",
+    "que": "Incluye un plan de saneamiento y plantas de tratamiento. El plan no dice cuánto costará; solo marca años 1 a 4, como referencia.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Plan Cantonal de Saneamiento y Plantas de Tratamiento de Aguas Residuales",
+    "pag": 23
+   },
+   {
+    "t": "Cambiar cómo se maneja y dónde se deposita la basura del cantón.",
+    "que": "El plan no dice qué cambios hará, dónde ni cuánto costará. Aparece en los años 1 a 4, como referencia.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cómo lo hará.",
+    "cita": "Fortalecimiento de la gestión y disposición de residuos sólidos",
+    "pag": 5
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Gestionar el asfaltado de la vía Nuñurco - Santa Rosa.",
+    "que": "Es una gestión: pedir que se haga. El plan no dice quién paga ni cuánto costará. Aparece en los años 1 a 4.",
+    "v": "media",
+    "n": "Vía rural: depende de la Prefectura o del Gobierno. El plan no dice cuánto cuesta.",
+    "cita": "Gestión para el mejoramiento y asfaltado de la vía Nuñurco Santa Rosa",
+    "pag": 23
+   },
+   {
+    "t": "Gestionar el tránsito y el transporte del cantón.",
+    "que": "El plan no dice qué cambios hará, dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Tránsito y buses le tocan al Municipio. El plan no detalla acciones.",
+    "cita": "Fortalecimiento de la gestión del tránsito y transporte",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar y mantener el parque lineal del río Collay, en el centro.",
+    "que": "Parque a lo largo del río en el centro cantonal. Aparece en los años 1 a 4. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Parques le tocan al Municipio. El plan no dice cuánto costará.",
+    "cita": "Regeneración, recuperación y mantenimiento del Parque Lineal del río Collay en el centro cantonal",
+    "pag": 23
+   },
+   {
+    "t": "Rediseñar y regenerar la Plaza Cívica de Sevilla de Oro.",
+    "que": "Según la tabla, es un proyecto de los años 1 y 2. El plan no dice cuánto costará ni qué diseño tendrá.",
+    "v": "alta",
+    "n": "Espacios públicos le tocan al Municipio. El plan no dice cuánto cuesta.",
+    "cita": "Rediseño y regeneración de la Plaza Cívica de Sevilla de Oro",
+    "pag": 23
+   }
+  ],
+  "otros": [
+   {
+    "t": "Hacer estudios y obras en zonas con riesgo de deslizamientos de tierra.",
+    "que": "El plan pone estudios y obras en zonas susceptibles a deslizamientos. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Prevenir desastres le toca al Municipio. Falta el costo.",
+    "cita": "Estudios y obras de mitigación en zonas susceptibles a movimientos de masa",
+    "pag": 16
+   },
+   {
+    "t": "Gestionar la construcción de un hospital básico en Sevilla de Oro.",
+    "que": "El Municipio solo gestiona ante otros. El plan no dice cuánto costará ni cuándo se construirá.",
+    "v": "baja",
+    "n": "Los hospitales no le tocan al alcalde. Es tema de salud.",
+    "cita": "Gestión para la construcción del Hospital Básico Sevilla de Oro",
+    "pag": 23
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar la producción de leche en Sevilla de Oro, Palmas y Amaluza.",
+    "que": "El plan no dice qué ayuda dará ni a cuántos productores. Aparece en los años 1 a 4; no dice cuánto cuesta.",
+    "v": "media",
+    "n": "La producción no está en las competencias del Municipio. Depende de otros.",
+    "cita": "Fortalecimiento de la producción láctea en Sevilla, Palmas y Amaluza",
+    "pag": 5
+   }
+  ]
+ },
+ "metas": [
+  "Informe anual de gestión y rendición de cuentas, cada año de 2027 a 2031.",
+  "Informe final de gestión al terminar el período 2027-2031."
+ ],
+ "notas": [
+  "Plan copiado en gran parte del PDOT del cantón. Casi ningún proyecto dice cuánto costará ni de dónde saldrá el dinero.",
+  "Incluye obras que no son del Municipio, como el hospital. Los años son referenciales, según el propio plan."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32
+ ],
+ "paginas": 32
+}

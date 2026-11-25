@@ -1,0 +1,121 @@
+{
+ "enfoque": "Plan de Guayllabamba: caminos, riego, centro de acopio y ambiente. Incluye salud, agua y policía, que no son de la junta. Casi no dice cuánto cuesta.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Crear áreas de conservación comunitaria en las laderas y márgenes de los ríos Guayllabamba y Pisque.",
+    "que": "El plan dice que estas áreas se harán en las laderas y orillas de los ríos Guayllabamba y Pisque. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Cuidar el ambiente sí es tarea de la junta. El plan no dice costos.",
+    "cita": "Crear áreas de conservación comunitaria en las laderas y márgenes de los ríos Guayllabamba y Pisque",
+    "pag": 8
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento periódico a los caminos de lastre, con cunetas y drenaje.",
+    "que": "El plan dice que se darán arreglos periódicos a los caminos de lastre, con cunetas y drenaje para el agua de lluvia. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Los caminos los cuida la junta junto con la Prefectura. El plan no dice costos.",
+    "cita": "Mantenimiento periódico de caminos de lastre con obras complementarias de cunetas y",
+    "pag": 9
+   },
+   {
+    "t": "Asfaltar y adoquinar los caminos principales entre el centro parroquial y las zonas agrícolas.",
+    "que": "El plan dice que se asfaltará y adoquinará la vía principal hacia las zonas agrícolas. No dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Es una obra grande. Le toca a la Prefectura o al Municipio. El plan no dice costos.",
+    "cita": "Asfaltado y adoquinado de los ejes viales principales de conexión entre el centro parroquial",
+    "pag": 8
+   },
+   {
+    "t": "Construir puentes para carros y alcantarillas en las quebradas más peligrosas.",
+    "que": "El plan dice que se construirán puentes y alcantarillas en los pasos de quebradas críticas. No dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Es una obra grande. Le toca a la Prefectura o al Municipio. El plan no dice costos.",
+    "cita": "Construcción de puentes vehiculares y alcantarillas en pasos de quebradas críticas.",
+    "pag": 8
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir al Ministerio de Salud (MSP) que el centro de salud pase a Tipo C.",
+    "que": "El plan dice que se pedirá al Ministerio de Salud que el centro tenga camas, sala de partos, urgencias 24 horas y una ambulancia. No dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "La salud no es de la junta. Solo puede pedirla al Ministerio de Salud.",
+    "cita": "Gestionar ante el MSP la transición programada del Centro de Salud hacia una categoría Tipo C",
+    "pag": 7
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Hacer patrullajes rurales junto con la Policía, la Guardia Ciudadana y brigadas comunitarias.",
+    "que": "El plan dice que habrá patrullajes con alarmas comunitarias y cámaras de videovigilancia. No dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "La policía no es de la junta. Solo puede coordinar con la comunidad.",
+    "cita": "coordinados entre la Policía Nacional, la Guardia Ciudadana del DMQ y las brigadas comunitarias,",
+    "pag": 7
+   }
+  ],
+  "economia": [
+   {
+    "t": "Mejorar el riego por goteo o aspersión con el Ministerio de Agricultura y la Prefectura.",
+    "que": "El plan dice que se hará con el Ministerio de Agricultura (MAGO) y la Prefectura de Pichincha. No dice cuánto costará ni quién paga.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Ministerio y la Prefectura. El plan no dice costos.",
+    "cita": "Articular con el Ministerio de Agricultura y Ganadería (MAGO) y el GAD Provincial de Pichincha la tecnificación del riego por goteo/aspersión",
+    "pag": 6
+   },
+   {
+    "t": "Crear un centro parroquial para vender productos directo, sin intermediarios.",
+    "que": "El plan dice que se creará un centro de acopio y venta directa en la parroquia. No dice dónde, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Apoyar productores es de la junta, pero necesita acuerdos. El plan no dice costos.",
+    "cita": "y el establecimiento de un Centro Parroquial de Acopio y Comercialización Directa,",
+    "pag": 8
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Pasar a internet los trámites y certificados que da la junta parroquial.",
+    "que": "El plan dice que los trámites y certificados de la junta se digitalizarán para atender más rápido. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Son trámites propios de la junta. El plan no dice costos.",
+    "cita": "Digitalizar los trámites y certificados expedidos por el GAD Parroquial para agilizar la atención ciudadana.",
+    "pag": 9
+   },
+   {
+    "t": "Hacer asambleas abiertas cada seis meses para rendir cuentas y decidir obras.",
+    "que": "El plan dice que habrá asambleas semestrales con juntas de agua, asociaciones agropecuarias y sectores vulnerables. Además, publicará montos cada tres meses.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí es tarea de la junta.",
+    "cita": "Asambleas Parroquiales Ordinarias: Convocatoria semestral abierta a la ciudadanía,",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Asambleas abiertas a la ciudadanía cada seis meses (semestral).",
+  "Publicar montos y contratos en la web cada tres meses (trimestral)."
+ ],
+ "notas": [
+  "Muchas propuestas (salud, agua, policía, asfalto) no son de la junta. Casi ninguna dice cuánto cuesta ni de dónde sale el dinero.",
+  "Parte del texto viene de un plan de Quito. Las páginas 10 y 11 casi no tienen texto legible."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "paginas": 12
+}

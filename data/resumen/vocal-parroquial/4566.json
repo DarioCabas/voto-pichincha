@@ -1,0 +1,130 @@
+{
+ "enfoque": "Plan copiado del plan general de la parroquia Calderón, no hecho para vocal. Mezcla obras y temas que no le tocan a la junta, como agua potable y salud.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Impulsar la recuperación de quebradas y la reforestación en la parroquia.",
+    "que": "El plan no dice dónde ni cuánto costará ni cuándo. Incluye acciones con especies nativas, es decir, plantas propias de la zona.",
+    "v": "media",
+    "n": "Parte le toca al Municipio, que maneja el saneamiento de quebradas.",
+    "cita": "impulsar la recuperación de quebradas, la reforestación, la protección del bosque seco, el manejo responsable de residuos",
+    "pag": 27
+   },
+   {
+    "t": "Cuidar áreas verdes y fuentes de agua con la comunidad, y dar capacitaciones.",
+    "que": "El plan no dice dónde ni cuánto costará ni cuándo. Incluye capacitación y simulacros para prevenir riesgos.",
+    "v": "alta",
+    "n": "Es trabajo de la junta: cuidar el ambiente y organizar a la comunidad.",
+    "cita": "mantenimiento de áreas verdes, protección comunitaria de fuentes hídricas, capacitación, simulacros, identificación de amenazas",
+    "pag": 27
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer proyectos para arreglar aceras, bordillos, drenajes, parques, canchas y plazas.",
+    "que": "El plan no dice cuánto costará ni cuándo. Dice que lo que supere a la junta se gestionará ante las instituciones competentes.",
+    "v": "media",
+    "n": "Calles y drenajes suelen ser del Municipio; la junta necesita acuerdo.",
+    "cita": "aceras, bordillos, drenajes, parques, canchas, casas comunales, plazas y demás espacios de uso comunitario",
+    "pag": 26
+   },
+   {
+    "t": "Mejorar los parques, canchas y plazas que ya existen.",
+    "que": "El plan no dice dónde ni cuánto costará ni cuándo. Pide mantenimiento, seguridad y accesibilidad en esos espacios.",
+    "v": "alta",
+    "n": "Parques y canchas sí son de la junta. El plan no dice cuánto costará.",
+    "cita": "aprovechando y mejorando los parques, canchas, plazas y equipamientos existentes",
+    "pag": 27
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Organizar mesas de seguridad, alertas vecinales y campañas de prevención.",
+    "que": "El plan no dice cuánto costará ni cuándo. La policía sigue siendo competencia del Gobierno nacional.",
+    "v": "media",
+    "n": "Organizar vecinos sí le toca. La policía no le toca a la junta.",
+    "cita": "mesas de seguridad, mecanismos comunitarios de alerta, recuperación de parques y espacios críticos, campañas de prevención",
+    "pag": 26
+   }
+  ],
+  "social": [
+   {
+    "t": "Promover actividades deportivas, recreativas y culturales para todos, con prioridad a niños y adultos mayores.",
+    "que": "El plan no dice cuánto costará ni cuándo. Dice que se dará prioridad a la niñez, juventud, mujeres, adultos mayores y personas con discapacidad.",
+    "v": "alta",
+    "n": "Actividades y programación comunitaria son trabajo de la junta.",
+    "cita": "Promover el acceso inclusivo y permanente a actividades deportivas, recreativas, culturales y comunitarias",
+    "pag": 27
+   },
+   {
+    "t": "Promover salud preventiva y sistemas de cuidado.",
+    "que": "El plan no dice cuánto costará ni cuándo ni con qué recursos.",
+    "v": "baja",
+    "n": "La salud no le toca a la junta. Es de otro nivel de gobierno.",
+    "cita": "Promoverá la salud preventiva, los sistemas de cuidado, la protección de derechos",
+    "pag": 29
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias periódicas y encuentros para vender productos locales.",
+    "que": "El plan no dice dónde, cuándo ni cuánto costará. Incluye capacitación técnica y administrativa para emprendedores.",
+    "v": "alta",
+    "n": "Ferias y cursos sí son de la junta. Falta saber cuánto cuestan.",
+    "cita": "capacitación técnica y administrativa, innovación, formalización, promoción, comercialización, ferias periódicas",
+    "pag": 27
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer mesas territoriales, audiencias y presupuestos participativos con los vecinos.",
+    "que": "El plan no dice cuánto costará. Dice que en el presupuesto participativo la gente participa en priorizar obras.",
+    "v": "alta",
+    "n": "Organizar asambleas y audiencias es tarea de la junta.",
+    "cita": "mesas territoriales, consejos consultivos, presupuestos participativos, audiencias, veedurías y mecanismos de control social",
+    "pag": 28
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Dar seguimiento al proyecto de agua potable de Calderón.",
+    "que": "El proyecto ya está en marcha y supera los USD 130 millones. El plan no dice qué más hará la junta que dar seguimiento.",
+    "v": "baja",
+    "n": "El agua potable le toca al Municipio, no a la junta.",
+    "cita": "Se dará especial seguimiento a la culminación y funcionamiento integral del Proyecto Agua Potable para Calderón",
+    "pag": 26
+   }
+  ]
+ },
+ "metas": [
+  "Actualizar el plan de desarrollo de la parroquia durante el primer año de gobierno."
+ ],
+ "notas": [
+  "Casi ninguna propuesta dice cuánto costará ni de dónde saldrá el dinero. El plan parece copiado del plan de la parroquia.",
+  "Varias propuestas son de otros niveles de gobierno, como agua potable, salud y policía. La junta no puede hacerlas.",
+  "Plan muy largo (38 págs.): se resumieron las 19 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  5,
+  6,
+  9,
+  15,
+  17,
+  20,
+  21,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  35,
+  36,
+  38
+ ],
+ "paginas": 38
+}

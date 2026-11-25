@@ -1,0 +1,111 @@
+{
+ "enfoque": "Plan copiado del plan de la parroquia. Propone caminos, parques, casas comunales, ferias y organizar comunidades. Mucho (salud, escuelas, seguridad) no es de la junta.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer mantenimiento de caminos vecinales, junto con la Prefectura.",
+    "que": "Se hace con la Prefectura, con su maquinaria y recursos. Lastrado es echar grava. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Gestionar el mantenimiento y lastrado de caminos vecinales.",
+    "pag": 6
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir y arreglar parques, espacios públicos y canchas deportivas.",
+    "que": "Son espacios para la gente de la parroquia. Las obras grandes se piden a otros niveles de gobierno. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Parques sí son de la junta, pero con poco presupuesto. El plan no dice cuánto costará.",
+    "cita": "Construir y rehabilitar espacios públicos, parques y canchas deportivas.",
+    "pag": 5
+   },
+   {
+    "t": "Arreglar casas comunales y equipamiento de uso colectivo.",
+    "que": "Son los locales y equipos que usa la comunidad en común. El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "alta",
+    "n": "Espacios de la parroquia; la junta puede hacerlo. El plan no dice cuánto costará.",
+    "cita": "Mejorar casas comunales y equipamiento de uso colectivo.",
+    "pag": 6
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer programas para sembrar árboles y cuidar las fuentes de agua.",
+    "que": "El plan no dice dónde se sembrarán los árboles ni cuánto costará. Tampoco dice cuándo se hará.",
+    "v": "alta",
+    "n": "Le toca a la junta cuidar el ambiente. El plan no dice dónde ni cuánto.",
+    "cita": "Ejecutar programas de reforestación y protección de fuentes de agua.",
+    "pag": 6
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar ferias y emprendimientos de la parroquia.",
+    "que": "Ayudar a emprendedores y a ferias productivas. El plan no dice cuánto se gastará ni cuántas ferias habrá.",
+    "v": "alta",
+    "n": "Le toca a la junta apoyar la producción. El plan no dice cuánto costará.",
+    "cita": "Apoyar emprendimientos y ferias productivas de la parroquia.",
+    "pag": 6
+   },
+   {
+    "t": "Apoyar el turismo comunitario y los productos elaborados en la parroquia.",
+    "que": "Busca que la parroquia gane con el turismo y los productos locales. El plan no dice cómo se hará ni con qué dinero.",
+    "v": "alta",
+    "n": "Le toca a la junta apoyar. El plan no dice con qué dinero.",
+    "cita": "Impulsar el turismo comunitario y el valor agregado local.",
+    "pag": 6
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Actualizar el plan de desarrollo de la parroquia con las comunidades.",
+    "que": "Se pide la opinión de cada comunidad para definir las obras. El plan no dice cuándo se hará.",
+    "v": "alta",
+    "n": "Le toca a la junta. Debe coordinarse con el cantón y la provincia.",
+    "cita": "Actualizar el PDOT parroquial con participación de las comunidades.",
+    "pag": 5
+   },
+   {
+    "t": "Ayudar a legalizar las organizaciones de cada comunidad.",
+    "que": "Son grupos comunitarios de base. El plan no dice cuántos grupos se legalizarán ni en qué plazo.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es tarea de la junta.",
+    "cita": "Promover y legalizar las organizaciones comunitarias de base.",
+    "pag": 6
+   },
+   {
+    "t": "Revisar las obras que se hacen en la parroquia.",
+    "que": "El plan dice que se reportará a la ciudadanía. No dice cada cuánto ni cómo.",
+    "v": "alta",
+    "n": "Vigilar obras es tarea de la junta. El plan no dice cuánto costará.",
+    "cita": "Dar seguimiento a las obras que se ejecutan en la parroquia.",
+    "pag": 2
+   }
+  ]
+ },
+ "metas": [
+  "Informe anual de rendición de cuentas en audiencia pública.",
+  "Informes trimestrales sobre el uso de recursos."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni cuándo se hará. No da presupuesto.",
+  "Gran parte es copia del plan de la parroquia: salud, escuelas y policía no le tocan a la junta."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "paginas": 12
+}

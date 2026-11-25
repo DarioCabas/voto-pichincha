@@ -1,0 +1,162 @@
+{
+ "enfoque": "Plan 2027-2031 con agua, alcantarillado, terrenos, calles, parques, drenaje, basura y trámites productivos. Varias tablas del escaneo no se leen bien.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Medir el servicio de agua por sector y reducir pérdidas y cortes.",
+    "que": "Primero se medirá el servicio de cada sector. Después se harán obras por etapas. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, a través de su empresa de agua. El plan no dice el costo.",
+    "cita": "La primera decisión será consolidar una línea base por sector",
+    "pag": 28
+   },
+   {
+    "t": "Ampliar redes de alcantarillado y tratamiento de aguas residuales por etapas.",
+    "que": "Cada etapa debe mostrar cuánta gente atiende y que hay dinero para operarla. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cómo lo pagará.",
+    "cita": "Las redes, conexiones domiciliarias, estaciones de bombeo, capacidad",
+    "pag": 29
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Ordenar el catastro y dar una ruta pública para legalizar terrenos urbanos.",
+    "que": "El Municipio tramitará los trámites urbanos. Los terrenos rurales los decide otra autoridad. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio en lo urbano. En lo rural decide otra entidad.",
+    "cita": "el Municipio tramitará los procedimientos urbanos que le correspondan",
+    "pag": 30
+   },
+   {
+    "t": "Recuperar parques y canchas con luz, accesos y actividades para jóvenes.",
+    "que": "Se harán planes para parques y canchas con deporte, cultura y mediación. Meta: 25 espacios hasta 2031. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Parques y canchas son del Municipio. El plan no dice el costo.",
+    "cita": "Parques, canchas y centralidades se recuperarán como espacios de encuentro,",
+    "pag": 34
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar 60 puntos críticos de calles con aceras, cruces y luz hasta 2031.",
+    "que": "Cada punto tendrá aceras, cruces, iluminación, señales y drenaje. Prioridad para niños y personas con discapacidad. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Calles de la ciudad: le toca al Municipio. Vías rurales: depende del gobierno provincial.",
+    "cita": "Las intervenciones integrarán aceras, cruces, paradas, iluminación, señalización, drenaje y",
+    "pag": 32
+   }
+  ],
+  "economia": [
+   {
+    "t": "Bajar 40 % el tiempo de los trámites productivos municipales.",
+    "que": "Primero revisará requisitos y tiempos de cada trámite. Luego abrirá atención presencial, itinerante y digital. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Trámites municipales: le toca al Municipio. El plan no dice costo.",
+    "cita": "Reducir en un 40% el tiempo mediano de los trámites productivos",
+    "pag": 32
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Arreglar puntos que se inundan: drenajes, riberas y mantenimiento.",
+    "que": "Cada punto tendrá causa analizada, solución y responsable de mantenimiento. Parte se hará con plantas nativas junto a ríos. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio en gran parte. El plan no dice cuánto costará.",
+    "cita": "Cada punto crítico deberá contar con causa analizada",
+    "pag": 37
+   },
+   {
+    "t": "Elegir una solución técnica para la basura final, con evaluación completa.",
+    "que": "Se evaluará llevar la basura a una instalación técnica o usar una solución regional. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Basura: le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Se realizará una evaluación técnica, ambiental, jurídica y financiera",
+    "pag": 38
+   }
+  ],
+  "social": [
+   {
+    "t": "Promover una mesa con el Estado sobre la oferta de hospitales.",
+    "que": "El Municipio solo promueve la mesa y da permisos si la autoridad de salud aprueba un hospital. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "Hospitales: competencia del Estado, no del Municipio.",
+    "cita": "Municipio promoverá una mesa para fortalecer la oferta hospitalaria",
+    "pag": 33
+   }
+  ]
+ },
+ "metas": [
+  "90 % de los sectores priorizados con agua en el estándar del servicio en 2031",
+  "Llegar al 80 % de viviendas con alcantarillado conectado (año no legible en el texto)",
+  "95 % de los terrenos priorizados con datos completos en 2031",
+  "Reducir 15 % el tiempo de viaje en los corredores priorizados para 2031",
+  "15 % de la basura recolectada aprovechada en 2031"
+ ],
+ "notas": [
+  "Varias tablas del plan están dañadas por el escaneo. Algunas metas no dicen año ni costo.",
+  "Incluye temas que no son del Municipio, como hospitales y seguridad con la Policía. Revise el plan completo."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58
+ ],
+ "paginas": 58
+}

@@ -1,0 +1,123 @@
+{
+ "enfoque": "Plan para Yaruquí con caminos, quebradas, parques, cursos para productores y asambleas. Varias obras dependen del Municipio o la Prefectura, y no dice cuánto costarán.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar y mantener los caminos rurales y vecinales, junto con otras instituciones.",
+    "que": "El plan no dice qué caminos ni cuánto costará. Lo haría junto con las instituciones competentes, sin decir cuáles.",
+    "v": "media",
+    "n": "Caminos son de la junta junto con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Gestionar el mantenimiento de la red vial rural, caminos vecinales y espacios públicos en coordinación con las instituciones competentes.",
+    "pag": 4
+   },
+   {
+    "t": "Revisar el estado de las vías y actualizar el plan de conectividad de la parroquia.",
+    "que": "El plan no dice cuánto costará ni en qué plazo. Lo haría articulándolo con la planificación de movilidad de Quito.",
+    "v": "media",
+    "n": "Es un estudio técnico, pero depende de la planificación del Municipio de Quito.",
+    "cita": "Ejecutar una auditoría técnica de la infraestructura vial y la actualización del Plan de Conectividad Parroquial",
+    "pag": 6
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir al Municipio, a la Prefectura y a empresas públicas más agua y alcantarillado.",
+    "que": "La junta solo coordinaría. El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "baja",
+    "n": "Agua y alcantarillado no le tocan a la junta. Le toca al Municipio y empresas públicas.",
+    "cita": "Articular acciones con el Municipio, la Prefectura y empresas públicas para ampliar la cobertura de agua potable, alcantarillado, movilidad y demás servicios básicos.",
+    "pag": 4
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer programas comunitarios para cuidar quebradas y sembrar árboles.",
+    "que": "Son programas con la comunidad. El plan no dice en qué quebradas, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca a la junta: programas comunitarios de cuidado y siembra.",
+    "cita": "Impulsar programas comunitarios de protección ambiental, recuperación de quebradas y reforestación.",
+    "pag": 4
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar parques y canchas y mejorar su iluminación.",
+    "que": "Incluye luces LED, arreglo de canchas y mobiliario infantil. El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Parques sí son de la junta. El plan no dice cuánto costará ni cómo se pagará.",
+    "cita": "Mejorar y mantener los parques, canchas y espacios comunitarios de Yaruquí mediante acciones de iluminación, equipamiento y recuperación de infraestructura",
+    "pag": 6
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer brigadas de salud preventiva en barrios con difícil movilidad.",
+    "que": "La junta coordinaría con el hospital y el subcentro de salud. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "La salud no le toca a la junta. Le toca al hospital y al subcentro de salud.",
+    "cita": "Implementar brigadas comunitarias de salud preventiva en barrios y comunas de Yaruquí con limitaciones de movilidad",
+    "pag": 5
+   },
+   {
+    "t": "Hacer mingas y mesas de trabajo con barrios y comunas para ver sus necesidades.",
+    "que": "Son reuniones y trabajo comunitario. El plan no dice cuántas mingas se harán ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta: organizar a la comunidad.",
+    "cita": "Fortalecer la participación ciudadana y la cogestión mediante mesas de trabajo, mingas y seguimiento permanente",
+    "pag": 4
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar talleres a productores, artesanos y comerciantes con universidades de la capital.",
+    "que": "El plan no dice cuántos talleres ni cuánto costarán. Dice que habría alianzas con universidades.",
+    "v": "alta",
+    "n": "Cursos sí son de la junta. Depende de que las universidades participen.",
+    "cita": "Establecimiento de alianzas estratégicas con universidades de la capital para dictar talleres de transferencia tecnológica, marketing digital y mejora de procesos productivos.",
+    "pag": 6
+   },
+   {
+    "t": "Crear una plataforma digital comercial para productos de la parroquia.",
+    "que": "Busca conectar productos con cadenas productivas y logística. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Fomento productivo es de la junta. El plan no dice cómo se pagará.",
+    "cita": "se consolidará la plataforma digital comercial del GAD Parroquial para promover encadenamientos",
+    "pag": 6
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas periódicas en barrios y comunidades sobre la gestión de la junta.",
+    "que": "El plan no dice cada cuánto ni cuánto costará. Dice que la gente decidirá sobre la gestión.",
+    "v": "alta",
+    "n": "Le toca a la junta: son reuniones con la comunidad.",
+    "cita": "Se institucionalizará la realización periódica de asambleas ciudadanas en los diferentes barrios, comunidades y sectores de la parroquia",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "Rendición de cuentas pública una vez al año",
+  "Gestión planificada para cuatro años"
+ ],
+ "notas": [
+  "Gran parte del texto es diagnóstico de la ciudad y del plan de la parroquia, no propuestas concretas de la junta.",
+  "El plan no dice cuánto cuesta ninguna propuesta ni de dónde sale el dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "paginas": 12
+}

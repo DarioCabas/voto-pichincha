@@ -1,0 +1,151 @@
+{
+ "enfoque": "Calles nuevas, ciclovías, agua, basura, cementerio y un centro para adultos mayores. Parte del texto parece copiada: menciona parroquias rurales que no existen en Naranjito.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Construir 20 calles nuevas en barrios de los bordes urbanos.",
+    "que": "Meta hasta 2031 en barrios urbanos perimetrales. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Le toca al Municipio: calles y vialidad urbana son de su competencia.",
+    "cita": "20 nuevas calles construidas hasta el año 2031",
+    "pag": 33
+   },
+   {
+    "t": "Diseñar y construir 3 ciclovías que conecten zonas atractivas.",
+    "que": "El plan no dice dónde ni en qué año. Tampoco dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Le toca al Municipio: tránsito y vialidad son de su competencia.",
+    "cita": "Diseñar e implementar ciclo vías que conecte las diferentes",
+    "pag": 12
+   }
+  ],
+  "otros": [
+   {
+    "t": "Hacer obras para reducir riesgos de desastres en el cantón.",
+    "que": "Meta hasta 2031. El plan no dice dónde se harán ni cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca al Municipio: prevención de desastres es su competencia.",
+    "cita": "Se han ejecutado obras de mitigación de riesgos hasta el año 2031",
+    "pag": 32
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar 100 cámaras con reconocimiento facial y lectura de placas.",
+    "que": "Meta de 100 cámaras en puntos de la ciudad. El texto no dice el año ni el costo.",
+    "v": "media",
+    "n": "La seguridad es de la Policía; el Municipio solo puede apoyar.",
+    "cita": "prevención, iluminación pública y sistemas tecnológicos de vigilancia",
+    "pag": 22
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Subir al 80% la cobertura de agua potable en casas registradas.",
+    "que": "Meta hasta 2031. El plan no dice cuánto costará ni cómo se pagará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: agua potable es su competencia.",
+    "cita": "Aumentar al 80% la cobertura y acceso de agua",
+    "pag": 35
+   },
+   {
+    "t": "Comprar 2 nuevos recolectores de desechos sólidos para el cantón.",
+    "que": "Meta para 2028. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Le toca al Municipio: la basura es su competencia.",
+    "cita": "desechos solidos para el cantón hasta el 2028",
+    "pag": 36
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear un centro gerontológico para adultos mayores de escasos recursos.",
+    "que": "Meta: 1 centro hasta 2030. El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Puede hacerlo el Municipio, pero el plan no dice con qué dinero.",
+    "cita": "Crear un centro gerontológico para adultos mayores de escasos recursos",
+    "pag": 30
+   },
+   {
+    "t": "Crear una escuela municipal para niños y adolescentes.",
+    "que": "Meta hasta 2031. El plan no dice cuánto costará ni quién dará las clases.",
+    "v": "baja",
+    "n": "La educación no es del Municipio; le toca al Ministerio de Educación.",
+    "cita": "Crear una Escuela Municipal hasta el año 2031",
+    "pag": 31
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir un nuevo cementerio general, con anfiteatro.",
+    "que": "Meta hasta 2031. El plan no dice dónde quedará ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: los cementerios son de su competencia.",
+    "cita": "Se ha construido un nuevo cementerio general hasta el año 2031",
+    "pag": 31
+   },
+   {
+    "t": "Reactivar el casco comercial de la ciudad.",
+    "que": "Meta hasta 2031. El plan no dice qué se hará ni cuánto costará.",
+    "v": "media",
+    "n": "Puede impulsarlo, pero el plan no dice cómo ni con qué dinero.",
+    "cita": "Reactivado del casco comercial hasta el año 2031",
+    "pag": 31
+   }
+  ]
+ },
+ "metas": [
+  "1 centro gerontológico para adultos mayores, hasta 2030.",
+  "20 nuevas calles construidas hasta 2031.",
+  "3 ciclovías diseñadas e implementadas; el plan no da fecha.",
+  "Llegar al 80% de cobertura de agua potable en casas registradas, hasta 2031.",
+  "Crear la Casa de los Emprendedores hasta 2029."
+ ],
+ "notas": [
+  "El plan casi no dice cuánto costará cada obra ni de dónde saldrá el dinero.",
+  "Parte del texto parece copiada: menciona parroquias rurales, y el mismo plan dice que Naranjito no las tiene."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39
+ ],
+ "paginas": 39
+}

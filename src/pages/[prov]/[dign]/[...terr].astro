@@ -1,0 +1,11 @@
+---
+import PaginaDignidad from '../../../components/PaginaDignidad.astro';
+import { PROVINCIAS } from '../../../data/dignidades.js';
+import { rutasDignidad } from '../../../lib/datos.js';
+
+// Otras provincias: /<prov>/alcaldia/<canton>/
+export const getStaticPaths = () =>
+  PROVINCIAS.filter((p) => p.slug !== 'pichincha').flatMap((p) => rutasDignidad(p.slug).map((r) => ({ params: { prov: p.slug, ...r.params }, props: r.props })));
+---
+
+<PaginaDignidad {...Astro.props} />

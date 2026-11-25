@@ -1,0 +1,122 @@
+{
+ "enfoque": "Obras de agua, alcantarillado, basura y calles, con metas de cobertura y kilómetros. No dice cuánto costará. Parte del texto copia el plan de desarrollo del cantón.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Construir o arreglar el agua potable en todo el cantón hasta llegar al 95% de cobertura.",
+    "que": "El plan no dice cuánto costará ni en qué año se hará. La meta declarada es 95% de cobertura en todo el cantón.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cómo lo pagará.",
+    "cita": "Construcción y mejoramiento de los sistemas de Agua Potable en todo el cantón hasta alcanzar un 95% de cobertura.",
+    "pag": 7
+   },
+   {
+    "t": "Construir o arreglar el alcantarillado en todo el cantón hasta llegar al 55% de cobertura.",
+    "que": "El plan no dice cuánto costará ni cuándo se hará. La meta declarada es 55% de cobertura en todo el cantón.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cómo lo pagará.",
+    "cita": "Construcción y mejoramiento de los sistemas de Alcantarillado en todo el cantón hasta alcanzar un 55% de cobertura.",
+    "pag": 7
+   },
+   {
+    "t": "Ampliar la recolección de basura en todo el cantón hasta llegar al 90% de cobertura.",
+    "que": "Se hará junto con las juntas parroquiales. El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero necesita a las juntas. El plan no dice cómo lo pagará.",
+    "cita": "Ampliación de la recolección de desechos en todo el cantón en articulación con los GAD parroquiales, hasta alcanzar un 90% de cobertura.",
+    "pag": 7
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Poner asfalto en calles urbanas: 4 km en el centro y 6 km en las parroquias.",
+    "que": "Se hará con las juntas parroquiales y con los dueños de las casas frente a la calle. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Las calles urbanas son del Municipio. El plan no dice cómo lo pagará.",
+    "cita": "Mejoramiento de la vialidad urbana a nivel de asfalto con doble tratamiento superficial bituminoso DTSB en el centro cantonal",
+    "pag": 6
+   },
+   {
+    "t": "Poner asfalto en caminos rurales: 20 km en el centro y 20 km en las parroquias.",
+    "que": "Se haría con las juntas parroquiales y la Prefectura del Azuay. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de la Prefectura y de otros niveles de gobierno. El plan no dice cómo lo pagará.",
+    "cita": "Mejoramiento de la vialidad rural a nivel de asfalto con doble tratamiento superficial bituminoso DTSB en el centro cantonal y en",
+    "pag": 6
+   }
+  ],
+  "economia": [
+   {
+    "t": "Mejorar y ampliar los lugares de venta (mercados) en el centro y en las parroquias.",
+    "que": "El plan no dice cuántos mercados se harán ni cuánto costarán. Tampoco dice cuándo se harán.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cómo lo pagará.",
+    "cita": "Mejoramiento y ampliación de la infraestructura de comercialización, tanto en el centro cantonal como en las parroquias",
+    "pag": 7
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Producir plantas forestales, frutales y hortalizas en el vivero municipal.",
+    "que": "El plan también habla de sembrar en zonas deforestadas. No dice cuántas plantas se producirán ni cuánto costará.",
+    "v": "alta",
+    "n": "Lo hace el Municipio con su propio vivero. El plan no dice cuánto costará.",
+    "cita": "Producción de plantas forestales, frutales, hortalizas en el vivero municipal",
+    "pag": 7
+   },
+   {
+    "t": "Vigilar las actividades mineras junto con las instituciones que controlan la minería.",
+    "que": "El plan no dice cómo ni con qué personal lo hará. Tampoco dice cuándo empieza.",
+    "v": "baja",
+    "n": "La minería la controla sobre todo el Estado, no el alcalde. El plan no dice cómo.",
+    "cita": "Vigilancia permanente de las actividades mineras en articulación con las instituciones competentes",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar los planes que ordenan el uso del suelo y el crecimiento del cantón.",
+    "que": "Incluye un sistema para revisar el avance de forma permanente. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio (uso del suelo). El plan no dice en qué plazo.",
+    "cita": "Actualizar los instrumentos de planificación, Plan de desarrollo y Ordenamiento Territorial y Plan de Uso y Gestión del Suelo",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer programas para grupos vulnerables con juntas parroquiales y ministerios.",
+    "que": "El plan no dice qué programas serán ni cuánto costarán. Beneficiaría a grupos de atención prioritaria.",
+    "v": "baja",
+    "n": "Esta tarea es de los ministerios, no está en lo que le toca al Municipio.",
+    "cita": "Ejecución de programas de atención a grupos vulnerables en articulación con los GAD parroquiales y Ministerios afines.",
+    "pag": 7
+   }
+  ]
+ },
+ "metas": [
+  "Agua potable: llegar al 95% de cobertura en todo el cantón.",
+  "Alcantarillado: llegar al 55% de cobertura en todo el cantón.",
+  "Recolección de basura: llegar al 90% de cobertura en todo el cantón.",
+  "Calles urbanas: 4 km en el centro y 6 km en las parroquias.",
+  "Caminos rurales: 20 km en el centro y 20 km en las parroquias."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero.",
+  "Parte del texto (diagnóstico) viene del plan de desarrollo del cantón de 2020. Tiene cronograma de 4 años, pero no marca qué obra va en cada año."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "paginas": 10
+}

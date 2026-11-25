@@ -28,6 +28,6 @@ for (const f of fs.readdirSync(pdfDir).filter((f) => f.endsWith('.pdf'))) {
     pendientes.push(f); stats.push([f, 0, 0, 'error ' + e.message]);
   }
 }
-fs.writeFileSync(path.join(ROOT, `data/ocr-pendiente-${slug}.txt`), pendientes.join('\n'));
+fs.writeFileSync(path.join(ROOT, `data/ocr-pendiente-${slug.replace('/', '-')}.txt`), pendientes.join('\n'));
 const ocr = stats.filter((s) => s[3] !== 'texto');
 console.log(`${slug}: ${stats.length} nuevos, ${stats.length - ocr.length} con texto, ${ocr.length} para OCR (${ocr.reduce((a, s) => a + s[1], 0)} páginas)`);

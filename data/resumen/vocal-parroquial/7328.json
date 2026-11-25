@@ -1,0 +1,125 @@
+{
+ "enfoque": "Plan general de la lista: mingas, reforestación, ferias, cursos y rendición de cuentas. Las obras grandes dependen de otros niveles de gobierno.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Organizar mingas para limpiar ríos, quebradas y fuentes de agua.",
+    "que": "El plan no dice cuánto costará ni cuándo. Serían trabajos con barrios y comunidades para cuidar ríos y fuentes de agua.",
+    "v": "alta",
+    "n": "Es trabajo comunitario; la junta organiza a la gente.",
+    "cita": "Promover mingas para la limpieza y conservación de ríos, quebradas, fuentes de agua y espacios naturales",
+    "pag": 8
+   },
+   {
+    "t": "Hacer jornadas de reforestación con plantas nativas en zonas prioritarias.",
+    "que": "El plan no dice qué zonas ni cuánto costará. Meta del plan: dos áreas reforestadas.",
+    "v": "alta",
+    "n": "Son jornadas comunitarias; la junta las puede organizar.",
+    "cita": "Gestionar jornadas comunitarias de reforestación con especies nativas en zonas prioritarias de la parroquia",
+    "pag": 8
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Organizar brigadas de seguridad en los barrios y comunidades.",
+    "que": "El plan no dice cuántas brigadas ni cuánto costará. Serían grupos de vecinos organizados por barrio o comunidad.",
+    "v": "alta",
+    "n": "La junta organiza a los vecinos; la policía no es de la junta.",
+    "cita": "Fomentar y fortalecer las brigadas de seguridad barrial y comunitarias",
+    "pag": 6
+   },
+   {
+    "t": "Gestionar cámaras de vigilancia y alarmas comunitarias.",
+    "que": "El plan no dice dónde ni cuánto costará. Se haría en coordinación con las instituciones encargadas de la seguridad.",
+    "v": "media",
+    "n": "Depende de otras instituciones; la junta solo gestiona.",
+    "cita": "Gestionar la implementación de sistemas de videovigilancia y alarmas comunitarias",
+    "pag": 6
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Dar mantenimiento a casas comunales y barriales.",
+    "que": "El plan dice que se gestionará el mantenimiento y mejora de casas comunales, barriales, áreas deportivas y espacios públicos. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita recursos de entidades públicas; el plan no dice cuánto.",
+    "cita": "Gestionar el mantenimiento y mejoramiento de la infraestructura como casas comunales y barriales",
+    "pag": 7
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a la red de caminos rurales.",
+    "que": "Se haría junto con el Municipio y el consejo provincial. El plan no dice qué caminos ni cuánto costará.",
+    "v": "media",
+    "n": "Los caminos son compartidos; necesita acuerdo con el Municipio y la Prefectura.",
+    "cita": "Gestionar el mantenimiento y mejoramiento de la red vial rural en coordinación con el municipio y consejo provincial",
+    "pag": 7
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Gestionar un proyecto para ampliar el agua potable, alcantarillado y drenaje.",
+    "que": "El plan no dice dónde ni cuánto costará. Se haría con las instituciones competentes.",
+    "v": "baja",
+    "n": "El agua potable le toca a otro nivel, no a la junta.",
+    "cita": "Gestionar proyecto para ampliar y mejorar los sistemas de agua potable, alcantarillado y drenaje",
+    "pag": 7
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias de productos agropecuarios y de emprendimiento.",
+    "que": "Las ferias serían para vender productos locales. El plan no dice dónde, cuántas veces ni cuánto costará.",
+    "v": "alta",
+    "n": "Es organizar un evento local; le toca a la junta.",
+    "cita": "Promover ferias productivas, agropecuarias y de emprendimiento para impulsar la comercialización de productos locales",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Dar cursos de liderazgo, participación ciudadana y gestión pública.",
+    "que": "Serían para barrios, comunidades y dirigentes. El plan no dice cuántos cursos ni cuánto costará.",
+    "v": "alta",
+    "n": "Son cursos y organización de la comunidad: le toca a la junta.",
+    "cita": "Realizar capacitación en liderazgo, participación ciudadana y gestión publica",
+    "pag": 5
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer rendición de cuentas cada año con audiencias públicas.",
+    "que": "Se publicaría de forma periódica el presupuesto, las compras y el avance de obras. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Informar a la gente sobre la junta es parte de su trabajo.",
+    "cita": "se realizarán procesos anuales de rendición de cuentas en cumplimiento de la Constitución",
+    "pag": 4
+   }
+  ]
+ },
+ "metas": [
+  "Dos áreas reforestadas y cuatro talleres y capacitaciones ejecutadas.",
+  "Una actividad por año de recreación, deporte o cultura.",
+  "Contar con los símbolos parroquiales oficiales aprobados al término de la gestión."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero. La junta tiene poco presupuesto.",
+  "Es un plan general de la lista, no de cada candidato. Varias obras (agua, alumbrado, policía) no son de la junta."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "paginas": 11
+}

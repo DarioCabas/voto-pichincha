@@ -1,0 +1,117 @@
+{
+ "enfoque": "Plan de la lista 3 para Guayllabamba: pedir obras al Municipio y a la Prefectura, y organizar ferias, mingas y grupos de vecinos para cuidar las calles.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Organizar mingas (trabajo entre vecinos) para limpiar los ríos y quebradas de la parroquia.",
+    "que": "El plan no dice cada cuánto se harán las mingas, cuánta gente participará ni cuánto costarán.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta.",
+    "cita": "Organización de mingas comunitarias de limpieza de los ríos y quebradas de la parroquia.",
+    "pag": 5
+   },
+   {
+    "t": "Gestionar paneles solares para los edificios de la junta parroquial.",
+    "que": "Paneles que dan luz con el sol, en los edificios de la junta. El plan no dice cuántos, cuánto costarán ni cuándo.",
+    "v": "media",
+    "n": "Necesita dinero o un acuerdo. El plan no dice cómo se pagará.",
+    "cita": "Gestión de Instalación de paneles solares en la infraestructura propia del GAD parroquial.",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Organizar ferias mensuales de emprendimientos y una ruta turística de atractivos locales.",
+    "que": "Se hará con la Secretaría de Turismo del Municipio y el GAD Provincial. El plan no dice cuánto costará ni cuándo empieza.",
+    "v": "alta",
+    "n": "Organizar ferias sí le toca a la junta. El plan no dice cuánto costará.",
+    "cita": "Organización de ferias mensuales de emprendimientos y de una ruta turística de atractivos locales",
+    "pag": 3
+   },
+   {
+    "t": "Pedir un centro de acopio para aguacate, chirimoya y cítricos, ante el Ministerio de Agricultura.",
+    "que": "Acopio es juntar la producción en un lugar. El plan tambi��n pide cursos sobre suelos y compost. El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Ministerio y a la Prefectura. La junta solo lo gestiona.",
+    "cita": "Gestión ante el Ministerio de Agricultura y Ganadería (MAG) y el GAD Provincial de Pichincha de un centro de",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una asamblea cada seis meses para rendir cuentas y escuchar a la gente.",
+    "que": "Es una reunión pública donde la junta explica su trabajo y recibe opiniones. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta. El plan no dice dónde se hará.",
+    "cita": "Asambleas semestrales de rendición de cuentas y participación ciudadana.",
+    "pag": 4
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Planificar y mantener los caminos rurales de la parroquia, junto con la Prefectura.",
+    "que": "Incluye recuperar la vialidad antigua (las vías viejas). El plan no dice qué caminos se arreglarán ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta, junto con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Planificación y mantenimiento de la vialidad parroquial rural",
+    "pag": 4
+   },
+   {
+    "t": "Pedir al Municipio puentes para peatones sobre la Panamericana en los tramos de mayor riesgo.",
+    "que": "El plan no dice en qué tramos exactos, cuántos puentes ni cuánto costarán ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio, no a la junta.",
+    "cita": "Gestión ante el Municipio del DMQ de puentes peatonales de cruce sobre la Panamericana en los tramos de mayor riesgo",
+    "pag": 3
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Promover y registrar grupos de vecinos para cuidar cada cuadra (Cuadras Seguras).",
+    "que": "Incluye alarmas comunitarias entre vecinos. El plan no dice cuántos grupos se formarán ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a los vecinos sí le toca a la junta.",
+    "cita": "Promoción y registro de redes vecinales de seguridad comunitaria",
+    "pag": 4
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Pedir al Municipio el mejoramiento (obras) del Parque del Guambra.",
+    "que": "Es un espacio público de la parroquia. El plan no dice qué obras se harán, cuánto costarán ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio. La junta solo lo pide.",
+    "cita": "Gestión ante el Municipio del DMQ del mejoramiento del espacio público conocido como Parque del Guambra",
+    "pag": 3
+   },
+   {
+    "t": "Pedir al Municipio y a la Empresa Eléctrica un plan para cambiar el alumbrado público por luces LED.",
+    "que": "Cambiar el alumbrado público por luces LED. El plan no dice dónde, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio y a la Empresa Eléctrica, no a la junta.",
+    "cita": "Gestión ante el Municipio del DMA y la Empresa Eléctrica Quito de un plan de renovación de alumbrado",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [
+  "Ferias de emprendimientos cada mes.",
+  "Asambleas de rendición de cuentas cada seis meses.",
+  "Informe de las gestiones publicado cada seis meses.",
+  "Rendición de cuentas anual ante la ciudadanía."
+ ],
+ "notas": [
+  "Hay pedidos de salud, escuelas y policía que no le tocan a la junta. El plan los presenta como gestiones ante otros niveles.",
+  "El plan casi no dice cuánto costará ni cuándo. Es un plan de la lista 3, no de un solo candidato."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "paginas": 6
+}

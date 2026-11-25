@@ -1,0 +1,128 @@
+{
+ "enfoque": "Primero crear datos y un diagnóstico de seguridad; luego agua, alcantarillado, calles, basura y control del suelo. Varias metas dependen de la Policía.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Seguir construyendo y arreglando pozos de agua, usando como modelo el pozo del recinto San Antonio.",
+    "que": "El plan dice que el modelo es el pozo de ochenta metros del recinto San Antonio. No dice cuántos pozos ni dónde, ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Continuar la construcción y rehabilitación de pozos profundos y sistemas de captación, replicando",
+    "pag": 8
+   },
+   {
+    "t": "Hacer obras de desagüe de lluvia en las zonas que se inundan seguido.",
+    "que": "El plan no dice qué zonas, cuánto costará ni en qué plazo se hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará.",
+    "cita": "Ejecutar un plan de drenaje pluvial en las zonas de anegamiento recurrente",
+    "pag": 7
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Publicar un calendario anual de arreglo de calles por barrio y recinto.",
+    "que": "Según el plan, el calendario tendrá fechas, montos y responsables. No dice cuánto costará el total.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Es un calendario que sí puede cumplir.",
+    "cita": "Elaborar y publicar un cronograma anual de intervención vial por barrio y por recinto",
+    "pag": 9
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Hacer un estudio de seguridad del cantón en seis meses y publicarlo.",
+    "que": "Se hará con la Policía Nacional y el ECU 911 (central de emergencias) y marcará dónde pasan los hechos por barrio y recinto. No dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de la Policía y del ECU 911. El plan no dice cuánto costará.",
+    "cita": "Elaborar, dentro de los primeros seis meses, el diagnóstico cantonal de seguridad y convivencia",
+    "pag": 7
+   },
+   {
+    "t": "Instalar un sistema de cámaras municipales con central de monitoreo.",
+    "que": "El plan dice que se priorizarán los accesos viales y los puntos que salga del estudio. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Lo puede empujar el Municipio, pero la Policía debe actuar. El plan no dice costo.",
+    "cita": "Implementar un sistema municipal de videovigilancia con central de monitoreo, priorizando los",
+    "pag": 7
+   },
+   {
+    "t": "Pedir al Ministerio del Interior más apoyo para las unidades de policía comunitaria.",
+    "que": "El plan solo dice que lo gestionará. No dice cómo ni cuándo.",
+    "v": "baja",
+    "n": "La Policía no le toca al Municipio; solo puede pedirla.",
+    "cita": "Gestionar ante el Ministerio del Interior el fortalecimiento de las Unidades de Policía Comunitaria",
+    "pag": 7
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Terminar la celda de emergencia del relleno sanitario, donde va la basura.",
+    "que": "El plan dice que la celda tenía 86 % de avance al cierre de 2025. No dice cuánto falta en dinero ni cuándo termina.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Concluir la celda emergente del relleno sanitario, que al cierre de 2025 registraba un",
+    "pag": 12
+   },
+   {
+    "t": "Crear un centro de acopio y reciclaje, donde se junta lo que se puede reciclar.",
+    "que": "El plan dice que dará empleo local. No dice dónde se construirá ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice dónde ni cuánto costará.",
+    "cita": "Crear un centro de acopio y reciclaje que genere empleo local.",
+    "pag": 11
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar el catastro de terrenos y casas, urbano y rural.",
+    "que": "Sirve para planificar la ciudad y cobrar el impuesto predial. El plan no dice cuánto costará ni cuándo termina.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Ejecutar la actualización del catastro inmobiliario urbano y rural como base de la planificación",
+    "pag": 12
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear una oficina municipal de juventud y empleo, con presupuesto propio.",
+    "que": "El plan dice que tendrá metas anuales publicadas y una Bolsa de Empleo Joven con ingenios y bananeras. No dice cuánto costará.",
+    "v": "media",
+    "n": "El Municipio puede unir gente con empleos, pero no crear empleo directamente.",
+    "cita": "Crear la Jefatura Municipal de Juventud y Empleo, con presupuesto propio y metas anuales",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Diagnóstico de seguridad publicado dentro del primer semestre.",
+  "Boletín trimestral de seguridad publicado desde el primer año.",
+  "Línea base de agua, alcantarillado y recolección publicada durante el primer año.",
+  "Jefatura de Juventud y Empleo creada y operando durante el primer año.",
+  "Publicación mensual de la ejecución presupuestaria desde el primer trimestre de gestión."
+ ],
+ "notas": [
+  "El plan casi no dice cuánto costará cada obra ni de dónde saldrá el dinero.",
+  "Varias acciones de seguridad dependen de la Policía, que no le toca al Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16
+ ],
+ "paginas": 16
+}

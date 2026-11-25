@@ -1,0 +1,117 @@
+{
+ "enfoque": "Propone ordenar la playa y el varadero, ampliar el alcantarillado y combatir la inseguridad. Gran parte depende de la Policía, del Gobierno o de cooperativas, no del Municipio.",
+ "tabla": {
+  "economia": [
+   {
+    "t": "Reformar la Ordenanza 003-2012 para ordenar el varadero.",
+    "que": "El plan no dice qué cambiará en la ordenanza ni en qué plazo. Actores: cooperativas pesqueras y Ministerio de Producción.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice en qué plazo.",
+    "cita": "Ordenar el varadero y mejorar la cadena de valor pesquera.",
+    "pag": 3
+   },
+   {
+    "t": "Construir un muelle para la pesca artesanal.",
+    "que": "El plan no dice dónde se construirá, cuánto costará ni cuándo. Figuran cooperativas pesqueras y el Ministerio de Producción.",
+    "v": "media",
+    "n": "Podría depender del Ministerio de Producción. El plan no dice costo ni plazo.",
+    "cita": "La construcción de un muelle pesquero, una promesa de décadas, es el proyecto ancla para profesionalizar al sector",
+    "pag": 4
+   },
+   {
+    "t": "Cobrar una tasa de 16 centavos por metro cuadrado a las concesiones pesqueras.",
+    "que": "Antes esa tasa no se cobraba. El plan no dice cuándo empieza ni cuánto dinero dejará.",
+    "v": "alta",
+    "n": "Le toca al Municipio cobrarla. El plan no dice cuánto dinero dejará.",
+    "cita": "la tasa de 16 centavos por metro cuadrado en concesiones pesqueras que antes no se cobraba.",
+    "pag": 4
+   },
+   {
+    "t": "Buscar alianzas con empresas privadas (APP) para obras turísticas y pesqueras.",
+    "que": "El plan no dice qué obras serán ni cuánto costarán. Depende de inversión privada.",
+    "v": "media",
+    "n": "Depende de empresas privadas, no solo del Municipio. El plan no dice montos.",
+    "cita": "Se buscarán Alianzas Público-Privadas (APP) para el desarrollo de infraestructura turística y pesquera",
+    "pag": 4
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear el Comité de Competitividad Municipal y hablar con gremios.",
+    "que": "El plan no dice quiénes lo integrarán ni cuándo se creará. Participan sociedad civil y gremios productivos.",
+    "v": "alta",
+    "n": "Un comité lo crea el Municipio. El plan no dice cuánto costará.",
+    "cita": "Creación del Comité de Competitividad Municipal y diálogo permanente con gremios.",
+    "pag": 3
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Construir un cuartel blindado y un centro de monitoreo con IA.",
+    "que": "El plan no dice cuánto costará ni dónde se construirá. Actores: Policía Nacional, FICE y Fuerzas Armadas.",
+    "v": "baja",
+    "n": "Policía y cuarteles no son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Construcción de cuartel blindado y centro de monitoreo con IA.",
+    "pag": 3
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Aumentar la cobertura de alcantarillado y agua potable.",
+    "que": "El plan busca duplicar el alcantarillado hasta el 35%. Hoy llega al 17,2% de las viviendas. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Agua y alcantarillado son del Municipio. El plan no dice cómo lo pagará.",
+    "cita": "Incrementar la cobertura de alcantarillado y agua potable, reduciendo la dependencia de carros repartidores.",
+    "pag": 3
+   }
+  ],
+  "social": [
+   {
+    "t": "Dar cursos gratuitos de arte y deporte en espacios públicos.",
+    "que": "Busca prevenir delitos entre jóvenes. El plan no dice cuántos cursos, cuándo empiezan ni cuánto cuestan.",
+    "v": "media",
+    "n": "Usa espacios del Municipio, pero prevenir delitos es tarea de la Policía.",
+    "cita": "el plan prioriza la prevención del delito a través del arte y el deporte",
+    "pag": 4
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Ordenar las carpas y parasoles de la playa.",
+    "que": "Va junto con una certificación de \"Destino Seguro\". El plan no dice cuántos puestos ni cuándo se hará.",
+    "v": "alta",
+    "n": "Ordenar la playa y el espacio público le toca al Municipio.",
+    "cita": "Certificación de \"Destino Seguro\" y ordenamiento de carpas/parasoles.",
+    "pag": 3
+   },
+   {
+    "t": "Dividir la playa en zonas de uso permitido y no permitido.",
+    "que": "Usa el Plan de Manejo de la Playa aprobado en 2022. El plan no dice cuándo ni cómo se marcarán las zonas.",
+    "v": "alta",
+    "n": "El uso del suelo y el espacio público son del Municipio. Falta el plazo.",
+    "cita": "Se aplicará con rigor el Plan de Manejo de la Playa (aprobado en 2022) para delimitar zonas de uso permitido y no permitido",
+    "pag": 4
+   }
+  ]
+ },
+ "metas": [
+  "Alcantarillado llega al 35% en 2031.",
+  "Ocupación de hoteles al 60% promedio al año.",
+  "Recuperar el 80% de ocupación en feriados.",
+  "0 denuncias de \"vacunas\" en zonas turísticas en 2031.",
+  "100% de barcos pesqueros regulados y un astillero oficial."
+ ],
+ "notas": [
+  "Muchas metas de seguridad dependen de la Policía y las Fuerzas Armadas, que no son competencia del Municipio.",
+  "El plan casi no dice cuánto costará cada obra ni en qué plazo se hará."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "paginas": 5
+}

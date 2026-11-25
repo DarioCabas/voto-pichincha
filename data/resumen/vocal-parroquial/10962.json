@@ -1,0 +1,121 @@
+{
+ "enfoque": "Plan copiado del plan de desarrollo de Nayón: arreglar calles, limpiar quebradas, marca para viveristas, asambleas en los 14 barrios y brigadas de seguridad.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar con asfalto y bacheo las vías vecinales y colectoras de la parroquia.",
+    "que": "El plan dice que cuesta $130.306,61 al año, con convenios con la Prefectura y el Municipio. No dice qué calles ni cuándo empieza.",
+    "v": "media",
+    "n": "Necesita convenio con la Prefectura y el Municipio. La junta sola no puede.",
+    "cita": "la ejecución del plan vial de bacheo y asfaltado de vías vecinales y colectoras por un costo anual estimado",
+    "pag": 10
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Limpiar y reforestar quebradas con la comunidad.",
+    "que": "El plan dice $5.152,00 al año. Busca recuperar 4 frentes de las principales quebradas. No dice cuáles quebradas.",
+    "v": "alta",
+    "n": "Le toca a la junta cuidar el ambiente. Cuesta $5.152 al año.",
+    "cita": "enfocado en la limpieza y reforestación comunitaria de las cuencas hídricas locales",
+    "pag": 10
+   }
+  ],
+  "economia": [
+   {
+    "t": "Armar una red de viveristas con la marca 'Nayón, el Jardín de Quito'.",
+    "que": "El plan dice $4.480 al año. Busca 150 productores capacitados y vender directo, sin depender de grandes cadenas.",
+    "v": "alta",
+    "n": "Le toca a la junta apoyar a productores. Cuesta $4.480 al año.",
+    "cita": "fortaleciendo la comercialización directa y protegiendo a los pequeños productores frente a las grandes cadenas comerciales",
+    "pag": 10
+   },
+   {
+    "t": "Promover turismo local y la identidad Kitu Kara junto con Quito Turismo.",
+    "que": "El plan dice $26.786,00 al año. No detalla qué actividades harán.",
+    "v": "media",
+    "n": "Le toca a la junta, pero depende de un acuerdo con Quito Turismo.",
+    "cita": "asigna $26.786,00 anuales para el proyecto de turismo local y la revalorización de la identidad Kitu Kara",
+    "pag": 10
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Organizar brigadas barriales conectadas entre sí, con alarmas y cámaras.",
+    "que": "El plan no dice cuánto cuestan las alarmas y cámaras ni cuándo se harán.",
+    "v": "media",
+    "n": "Organizar vecinos sí. Alarmas y cámaras necesitan acuerdo con la Policía y el Municipio.",
+    "cita": "Implementar un Plan Parroquial Integral de Seguridad con brigadas barriales",
+    "pag": 7
+   }
+  ],
+  "social": [
+   {
+    "t": "Apoyar centros de desarrollo infantil, adultos mayores y personas con discapacidad.",
+    "que": "El plan dice $132.412,56 al año, en coordinación con el MIES (Ministerio de Inclusión Económica y Social) y el Patronato San José.",
+    "v": "media",
+    "n": "Le toca al MIES y al Patronato. La junta necesita acuerdo con ellos.",
+    "cita": "con una inversión anual de $132.412,56 en estrecha coordinación con el MIES y el Patronato San José",
+    "pag": 10
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer que la silla vacía participe en todas las sesiones de la junta parroquial.",
+    "que": "La silla vacía es un puesto para la ciudadanía en cada sesión. El plan no dice cuánto cuesta.",
+    "v": "alta",
+    "n": "Le toca a la junta en sus propias sesiones.",
+    "cita": "Activación real de la silla vacía en todas las sesiones de la Junta Parroquial",
+    "pag": 14
+   },
+   {
+    "t": "Hacer reuniones cada tres meses en los 14 barrios para contar avances del plan.",
+    "que": "Cada reunión presentará el avance del plan de trabajo de cada año (POA). El plan no dice cuánto cuestan.",
+    "v": "alta",
+    "n": "Le toca a la junta organizar reuniones con la comunidad.",
+    "cita": "Reuniones trimestrales en cada uno de los 14 barrios",
+    "pag": 14
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Coordinar con EPMAPS, la empresa de agua de Quito, para el acceso al agua segura.",
+    "que": "El plan dice $17.386,53 al año. Pero el agua potable le toca a EPMAPS, no a la junta.",
+    "v": "baja",
+    "n": "El agua potable no le toca a la junta.",
+    "cita": "para optimizar la gestión y el acceso eficiente al agua segura",
+    "pag": 11
+   }
+  ]
+ },
+ "metas": [
+  "Al 2031: 100% de las vías priorizadas en los 14 barrios mantenidas.",
+  "Al 2031: recuperar 4 frentes de las principales cuencas y quebradas.",
+  "Al 2031: 150 productores capacitados con la marca 'Marca Nayón'.",
+  "Al 2031: 100% del presupuesto de inversión decidido en asamblea."
+ ],
+ "notas": [
+  "El plan repite el plan de desarrollo de la parroquia y mezcla nombres: habla de Unidad Popular y de Alianza Ciudadana.",
+  "Muchas obras son del Municipio, la Prefectura, la Policía o EPMAPS. El plan no dice cuánto cuesta la seguridad."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16
+ ],
+ "paginas": 16
+}

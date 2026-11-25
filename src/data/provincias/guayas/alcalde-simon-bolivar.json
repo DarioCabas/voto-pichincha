@@ -1,0 +1,305 @@
+{
+  "canton": "SIMON BOLIVAR",
+  "candidatos": [
+    {
+      "codFormulario": 5412,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Seguir obras de agua, alcantarillado y calles en la cabecera, caminos rurales con la Prefectura y ferias para productores. El plan no dice cuánto costará.",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Arreglar 30 km de caminos rurales junto con la Prefectura del Guayas.",
+            "que": "El Municipio gestiona y cofinancia; la Prefectura tiene la competencia vial rural. El plan no dice cuánto costará.",
+            "v": "media",
+            "n": "La vialidad rural es de la Prefectura; el Municipio solo apoya.",
+            "cita": "Gestionar y cofinanciar con la Prefectura del Guayas el mejoramiento de 30 km de caminos rurales y vecinales",
+            "pag": 33
+          },
+          {
+            "t": "Gestionar y ejecutar el puente estratégico y 3 obras de conectividad.",
+            "que": "El puente principal tiene más de 50 años. El plan no dice dónde ni cuánto costará.",
+            "v": "media",
+            "n": "Depende del BDE, la Prefectura y el Gobierno Central.",
+            "cita": "Gestionar y ejecutar el puente estratégico y 3 obras adicionales prioritarias de conectividad territorial",
+            "pag": 32
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Subir la cobertura de agua por red pública de 49,2% a al menos 55%.",
+            "que": "Con obras en 10 sectores priorizados y mejora de sistemas existentes. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+            "cita": "la cobertura del servicio de agua potable del 49,2% a al menos 55%",
+            "pag": 33
+          },
+          {
+            "t": "Ampliar el alcantarillado en 6 sectores de la cabecera y subir la cobertura de 3,5% a 5%.",
+            "que": "Incluye estudios, presupuesto y contratación. Se prioriza antes que el asfaltado definitivo. El plan no dice cuánto costará.",
+            "v": "media",
+            "n": "Es del Municipio, pero depende de un crédito del BDE.",
+            "cita": "Gestionar y ejecutar la ampliación del sistema de alcantarillado en 6 sectores priorizados",
+            "pag": 32
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Limpiar canales y arreglar drenajes en 5 puntos críticos contra inundaciones.",
+            "que": "Obras de drenaje, limpieza, mantenimiento y mitigación de riesgos en 5 puntos. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio, con apoyo de Prefectura y gestión de riesgos.",
+            "cita": "Intervenir 5 puntos críticos del cantón con obras de drenaje, limpieza, mantenimiento y mitigación de riesgos",
+            "pag": 26
+          }
+        ],
+        "economia": [
+          {
+            "t": "Construir y equipar un centro de acopio para al menos 100 productores.",
+            "que": "Para almacenar, clasificar y vender en conjunto y no depender de intermediarios. El plan no dice dónde ni cuánto costará.",
+            "v": "media",
+            "n": "Depende de asociaciones y de la Prefectura. El plan no dice costo.",
+            "cita": "Construir y equipar un Centro de Acopio Comunitario con capacidad para al menos 100 productores",
+            "pag": 28
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Reactivar y pasar a ECU 911 las 230 cámaras municipales.",
+            "que": "Y ampliar Vecinos Unidos a 20 barrios y recintos. El plan no dice cuánto costará.",
+            "v": "media",
+            "n": "Las cámaras sí son municipales; la policía y ECU 911 no.",
+            "cita": "Reactivar y transferir a ECU 911 el sistema de 230 cámaras municipales",
+            "pag": 32
+          }
+        ],
+        "social": [
+          {
+            "t": "Pedir al Ministerio de Salud ampliar el Centro de Salud Tipo B de la cabecera.",
+            "que": "Con capacidad de parto y enfoque materno-infantil. El plan no dice cuándo ni cuánto costará.",
+            "v": "baja",
+            "n": "La salud no es competencia municipal; el Municipio solo gestiona.",
+            "cita": "gestionar ante el MSP la ampliación del Centro de Salud Tipo B de la cabecera cantonal",
+            "pag": 31
+          }
+        ]
+      },
+      "metas": [
+        "Subir el agua por red pública de 49,2% a al menos 55%.",
+        "Subir el alcantarillado de 3,5% a al menos 5%.",
+        "Intervenir 20 km de vías urbanas.",
+        "Gestionar 30 km de caminos rurales con la Prefectura del Guayas.",
+        "Implementar 16 ferias productivas."
+      ],
+      "notas": [
+        "El plan no dice cuánto costará la mayoría de los proyectos ni con qué dinero se pagarán.",
+        "Muchas propuestas vienen del plan de desarrollo del cantón 2024-2027 (PDOT). Varias obras ya están en marcha."
+      ]
+    },
+    {
+      "codFormulario": 8969,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Mejorar agua, alcantarillado, basura, calles y parques, también en zonas rurales. El plan no dice cuánto costará ni cuándo.",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Mejorar calles, caminos y accesos dentro de las competencias del Municipio.",
+            "que": "El plan no dice qué calles ni en qué barrios. No dice cuánto costará ni en qué plazo.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+            "cita": "Mejoramento de calles, caminos y accesos dentro de Lis oompeteneíós municipales",
+            "pag": 23
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Mejorar el sistema de agua potable y ampliar su cobertura.",
+            "que": "El plan dice que dará prioridad a ampliar la cobertura y mejorar la infraestructura. No dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Le toca al Municipio, pero el plan no dice cuánto costará.",
+            "cita": "Mejoramiento y fortalecimiento de los sistemas de ague porable.",
+            "pag": 23
+          },
+          {
+            "t": "Dar prioridad a proyectos de alcantarillado y saneamiento.",
+            "que": "Plantea ampliar y modernizar la infraestructura sanitaria, con convenios con el Gobierno Nacional. No dice costo ni plazo.",
+            "v": "media",
+            "n": "Le toca al Municipio, pero depende de convenios con el Gobierno Nacional.",
+            "cita": "Iimpulsaremos la priorización de proyectos de saneamiento dentro de la planificación",
+            "pag": 28
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Hacer campañas de reciclaje y separar la basura desde el origen.",
+            "que": "Campañas de educación ambiental y programas de reciclaje, en zonas urbanas y rurales. El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Le toca al Municipio: la basura es de su competencia.",
+            "cita": "campañas permanentes de educación ambiental, progrunas de reciclaje y separación en Lo",
+            "pag": 28
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Recuperar y construir parques, canchas y espacios comunitarios.",
+            "que": "El plan no dice cuántos espacios ni dónde, ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio: los espacios públicos son de su competencia.",
+            "cita": "Recuperacnan y vonstrucción de parquex, concha y expuons de reortarión",
+            "pag": 24
+          },
+          {
+            "t": "Dar espacios para vender los productos del cantón.",
+            "que": "El plan no dice dónde ni cuántos espacios. No dice cuánto costará ni cómo se pagará.",
+            "v": "alta",
+            "n": "Le toca al Municipio: los mercados son de su competencia. Falta el lugar.",
+            "cita": "Gestión de espacios para la comercialización de productos",
+            "pag": 25
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Digitalizar trámites municipales para que se hagan más rápido.",
+            "que": "Usar herramientas tecnológicas para simplificar trámites y dar más información pública. El plan no dice cuánto costará ni el plazo.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice en qué plazo ni cuánto costará.",
+            "cita": "Desde la Administración municipal, se modernizani la gestión municipal mediante la",
+            "pag": 13
+          },
+          {
+            "t": "Presentar un informe mensual de la gestión municipal.",
+            "que": "El informe se publicaría cada mes en medios escritos de la ciudad y en redes oficiales. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al alcalde. El plan no dice cuánto costará.",
+            "cita": "informe mensual de la gestión Instilucional cada lunes de melo de mes",
+            "pag": 38
+          }
+        ]
+      },
+      "metas": [
+        "Periodo de gestión: del 14 de mayo de 2027 al 13 de mayo de 2031.",
+        "Informe mensual de la gestión municipal."
+      ],
+      "notas": [
+        "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero.",
+        "Texto en mal estado y con mucho diagnóstico general. Varias partes no se leen bien y muchas frases vienen de leyes."
+      ]
+    },
+    {
+      "codFormulario": 10032,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Propone terminar obras paradas, llevar agua segura a los recintos rurales y arreglar caminos, con una oficina de juventud. Casi no dice cuánto costará.",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Construir la vía que conecta Santo Domingo, La Palanca y Simón Bolívar.",
+            "que": "Es una demanda de los recintos. El plan no dice cuánto costará ni en qué plazo se hará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto cuesta ni cuándo.",
+            "cita": "Ejecutar la construcción de la vía que conecta Santo Domingo, La Palanca y Simón Bolívar.",
+            "pag": 9
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Terminar las obras de regeneración del Parque Central, Malecón y avenida Mariscal Sucre.",
+            "que": "Son obras empezadas y sin terminar. El plan dice que los saldos por gastar suman más de tres millones setecientos mil dólares. No dice en qué plazo.",
+            "v": "media",
+            "n": "Le toca al Municipio. Parte del dinero es un crédito del Banco de Desarrollo.",
+            "cita": "Concluir las obras arrastradas de regeneración urbana del Parque Central y Malecón, y de la avenida Mariscal Sucre",
+            "pag": 8
+          },
+          {
+            "t": "Actualizar el catastro (registro de terrenos y casas) urbano y rural.",
+            "que": "Es la base para cobrar el impuesto predial. El plan no dice cuánto costará ni cuándo quedará listo.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto cuesta ni cuándo termina.",
+            "cita": "Actualizar el catastro inmobiliario urbano y rural, base de la recaudación del impuesto predial",
+            "pag": 7
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Ampliar el servicio de agua segura en los sectores rurales.",
+            "que": "El plan no dice cuántos recintos recibirán agua ni cuánto costará. Su meta es llegar al 81,10 % de cobertura.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto cuesta ni en qué plazo.",
+            "cita": "Ejecutar un plan de ampliación de la cobertura de agua segura en los sectores rurales identificados",
+            "pag": 9
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Ampliar las rutas de recolección de basura hacia los recintos.",
+            "que": "Con frecuencia y horarios publicados. El plan no dice cuántas rutas nuevas ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio: la recolección de basura es de su competencia.",
+            "cita": "Ampliar y ordenar las rutas de recolección de residuos hacia los recintos, con frecuencia y horarios publicados.",
+            "pag": 10
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Pedir al Ministerio del Interior policías comunitarios para barrios y recintos.",
+            "que": "El plan no dice cuándo llegarían ni cuánto costará. La policía de barrio no es tarea del Municipio.",
+            "v": "baja",
+            "n": "No le toca al Municipio. Solo puede pedir la policía al Ministerio del Interior.",
+            "cita": "Gestionar ante el Ministerio del Interior la dotación de Unidades de Policía Comunitaria",
+            "pag": 6
+          },
+          {
+            "t": "Hacer un plan de alumbrado (luces de calle) en zonas con más delitos.",
+            "que": "El plan incluye zonas con mayor incidencia delictiva. No dice cuántas luces se pondrán ni cuánto costará.",
+            "v": "media",
+            "n": "Depende de la empresa eléctrica. El plan no dice cuánto cuesta.",
+            "cita": "Ejecutar un plan de alumbrado público en las zonas con mayor incidencia delictiva",
+            "pag": 9
+          }
+        ],
+        "social": [
+          {
+            "t": "Mantener la atención en casa a adultos mayores que viven solos y a personas con discapacidad.",
+            "que": "Se financia con el convenio del Ministerio de Inclusión Económica y Social. El plan no dice cuántas personas más atenderá.",
+            "v": "media",
+            "n": "Depende del convenio con el Ministerio de Inclusión Económica y Social.",
+            "cita": "Sostener la atención domiciliaria a adultos mayores que viven solos y la atención en el hogar a",
+            "pag": 12
+          }
+        ],
+        "economia": [
+          {
+            "t": "Crear una jefatura municipal de juventud y empleo, con presupuesto propio.",
+            "que": "El plan dice que tendrá metas anuales públicas. No dice cuánto costará ni quién la dirigirá.",
+            "v": "media",
+            "n": "La oficina sí es del Municipio. El empleo joven no lo crea directamente.",
+            "cita": "Crear la Jefatura Municipal de Juventud y Empleo, con presupuesto propio y metas anuales",
+            "pag": 8
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Publicar cada mes en línea cuánto se gasta y cómo avanza cada obra.",
+            "que": "Incluye el gasto del presupuesto y el avance de cada contrato de obra. Empieza en el primer trimestre de gestión.",
+            "v": "alta",
+            "n": "Lo decide el propio Municipio. Es una tarea interna, sin depender de otros.",
+            "cita": "Publicar mensualmente, en formato abierto, la ejecución presupuestaria y el avance físico y financiero de cada contrato de obra.",
+            "pag": 13
+          }
+        ]
+      },
+      "metas": [
+        "Ejecución de obra pública por encima del 10 % de 2025, con meta anual publicada.",
+        "Cobertura de agua y saneamiento superior al 81,10 % hacia el final del período.",
+        "Jefatura de Juventud y Empleo creada y funcionando en el primer año.",
+        "Convenio con el Ministerio de Inclusión Económica y Social renovado en el primer año.",
+        "Publicación mensual de la ejecución presupuestaria desde el primer trimestre de gestión."
+      ],
+      "notas": [
+        "Muchas acciones no dicen cuánto cuestan ni cuándo. La policía de barrio no es tarea del Municipio.",
+        "El plan se basa en el presupuesto 2025 del propio Municipio, que solo se gastó en un 52 %."
+      ]
+    }
+  ]
+}

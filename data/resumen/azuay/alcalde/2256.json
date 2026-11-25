@@ -1,0 +1,148 @@
+{
+ "enfoque": "Propone ordenar el crecimiento de la ciudad, mejorar transporte, mercados y servicios rurales, y crear un sistema de participación. Casi no da costos ni fechas.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Integrar buses, bicicleta, caminata y transporte rural en un solo sistema de movilidad.",
+    "que": "Busca conectar zonas rurales y periféricas con trabajo, escuelas, salud y mercados. El plan no dice cuánto costará ni en qué año se hará.",
+    "v": "alta",
+    "n": "Buses y tránsito son del Municipio. El plan no dice cuánto cuesta.",
+    "cita": "programas estructurantes del modelo territorial. Su propósito será integrar transporte público,",
+    "pag": 50
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Intervenir en agua, saneamiento y basura de parroquias rurales con más carencias.",
+    "que": "Se haría junto con vivienda y conectividad en las parroquias con mayores brechas. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Agua y basura sí son del Municipio; vivienda y conectividad dependen de otros.",
+    "cita": "sobre vivienda, agua, saneamiento, residuos, conectividad y condiciones de habitabilidad,",
+    "pag": 50
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Crear una base única para marcar zonas de agua y áreas de protección.",
+    "que": "Se haría con participación de comunidades y entidades nacionales. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "media",
+    "n": "Parte es del Municipio; delimitar zonas de agua necesita a entidades nacionales.",
+    "cita": "normativa única para la delimitación de zonas de recarga hídrica y áreas de protección.",
+    "pag": 49
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Frenar la expansión dispersa y ocupar primero las áreas urbanas ya existentes.",
+    "que": "Evitar crecer sobre zonas de riesgo y áreas de protección ambiental. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Uso del suelo y planificación son del Municipio. El plan no dice plazos.",
+    "cita": "ocupación eficiente de las áreas urbanas y periurbanas existentes, evitando que la expansión se",
+    "pag": 50
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Recuperar parques y calles con luz y diseño seguro para prevenir violencia.",
+    "que": "Se harían también rutas seguras para mujeres, niños y adolescentes. El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "media",
+    "n": "Luces, parques y calles sí son del Municipio; la policía no lo es.",
+    "cita": "violencia, recuperación de espacios públicos, iluminación y diseño urbano seguro, rutas seguras",
+    "pag": 51
+   }
+  ],
+  "social": [
+   {
+    "t": "Dar salud preventiva y trabajo comunitario en las parroquias.",
+    "que": "Trata enfermedades crónicas, salud mental y nutrición. El plan no dice cuánto costará ni quién lo pagará.",
+    "v": "baja",
+    "n": "La salud no es del Municipio; le toca al Gobierno Nacional.",
+    "cita": "El Programa de Salud Integral y Prevención Comunitaria fortalecerá las acciones preventivas",
+    "pag": 49
+   }
+  ],
+  "economia": [
+   {
+    "t": "Abrir mercados campesinos, ferias y ventas directas entre productores y consumidores.",
+    "que": "Incluye plataformas digitales para vender directo. El plan no dice cuántos mercados abrirá, dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Mercados sí son del Municipio. El plan no dice cuántos ni dónde.",
+    "cita": "campesinos, ferias, espacios de comercialización directa y plataformas digitales que permitan",
+    "pag": 50
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar una ficha de cada proyecto con presupuesto, avance y responsable.",
+    "que": "La ficha tendría cronograma, población beneficiaria y ubicación. El plan no dice cuándo empezará a publicarse.",
+    "v": "alta",
+    "n": "Es decisión del Municipio. El plan no dice la fecha de inicio.",
+    "cita": "Cada proyecto estratégico deberá contar con una ficha pública que permita conocer su",
+    "pag": 62
+   },
+   {
+    "t": "Crear un Sistema Cantonal de Participación Social para decidir y vigilar obras.",
+    "que": "La gente opinaría en prioridades, presupuesto y seguimiento de proyectos. El plan no dice cómo ni cuándo funcionará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cómo se organizará.",
+    "cita": "mediante el cual se implementará el Sistema Cantonal de Participación Social. Este",
+    "pag": 52
+   },
+   {
+    "t": "Actualizar el catastro, cobrar mejor los impuestos y las deudas atrasadas.",
+    "que": "El catastro es el registro de propiedades que sirve para cobrar impuestos. El plan no dice cuánto recaudará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio; el plan no dice cuánto dinero se conseguirá.",
+    "cita": "Se buscará fortalecer los ingresos propios mediante actualización catastral, mejora de mecanismos",
+    "pag": 60
+   }
+  ]
+ },
+ "metas": [
+  "Aumentar en al menos 20% los productores vinculados a circuitos cortos, sujeto a validar una línea base.",
+  "Implementar intervenciones integrales en el 100% de las parroquias priorizadas.",
+  "Llegar a 0% de cabeceras parroquiales rurales sin planificación aprobada y vigente.",
+  "Plan de inversión a cuatro años, con fases de preparación, ejecución y evaluación."
+ ],
+ "notas": [
+  "Casi no dice cuánto cuesta cada propuesta. El presupuesto es referencial y no incluye empresas públicas ni entidades adscritas.",
+  "Gran parte del texto es diagnóstico del cantón. Varias propuestas dependen del Gobierno Nacional o de parroquias.",
+  "Plan muy largo (63 págs.): se resumieron las 32 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  14,
+  20,
+  21,
+  29,
+  30,
+  32,
+  33,
+  35,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61,
+  62
+ ],
+ "paginas": 63
+}

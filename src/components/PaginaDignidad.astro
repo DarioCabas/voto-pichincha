@@ -1,0 +1,83 @@
+---
+// Página de una dignidad en una provincia: selector de cantón/subterritorio, tabla comparativa y fichas.
+import Layout from '../layouts/Layout.astro';
+import CompareTable from './CompareTable.astro';
+import Fichas from './Fichas.astro';
+import { TEMAS_LOCALES, COMPETENCIAS, PROVINCIAS, provPath } from '../data/dignidades.js';
+import { titulo, contextoCanton } from '../lib/datos.js';
+
+const { d, ts, t, canton, prov = 'pichincha' } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '') + provPath(prov);
+const nombreProv = PROVINCIAS.find((p) => p.slug === prov)?.nombre;
+const comp = d.slug === 'alcaldia' ? COMPETENCIAS.alcaldia : d.slug === 'junta-parroquial' ? COMPETENCIAS.junta : COMPETENCIAS.concejo;
+const cantones = [...new Map(ts.map((x) => [x.canton, x.path.split('/')[0]])).entries()];
+const cantonActual = t?.canton ?? canton ?? null;
+const subs = cantonActual && d.territorio === 'sub' ? ts.filter((x) => x.canton === cantonActual) : [];
+const etiquetaSub = d.slug === 'junta-parroquial' ? 'Parroquia' : 'Circunscripción';
+const nombreTerr = t ? (t.sub ? `${titulo(t.sub)} · ${titulo(t.canton)}` : titulo(t.canton)) : cantonActual ? titulo(cantonActual) : null;
+const totalListas = ts.reduce((a, x) => a + x.n, 0);
+const ctx = t && d.slug === 'alcaldia' && prov === 'pichincha' ? contextoCanton(t.canton) : [];
+---
+<Layout title={nombreTerr ? `${d.nombre} · ${nombreTerr}` : d.nombre} activo={d.slug} prov={prov}>
+  <h1>{d.nombre}{prov !== 'pichincha' && !nombreTerr && <span class="muted"> · {nombreProv}</span>}{nombreTerr && <span class="muted"> · {nombreTerr}</span>}</h1>
+  <p class="sub">{comp}</p>
+
+  {ts.length === 0 ? (
+    <p class="muted">Datos en preparación.</p>
+  ) : (
+    <>
+      <nav class="pills" aria-label="Cantón">
+        {cantones.map(([c, p]) => (
+          <a href={`${base}/${d.slug}/${p}/`} class:list={{ on: c === cantonActual }}>
+            {titulo(c)}<span class="n">{ts.filter((x) => x.canton === c).reduce((a, x) => a + x.n, 0)}</span>
+          </a>
+        ))}
+      </nav>
+
+      {subs.length > 0 && (
+        <nav class="pills subs" aria-label={etiquetaSub}>
+          <span class="muted small lbl">{etiquetaSub}:</span>
+          {subs.map((x) => (
+            <a href={`${base}/${d.slug}/${x.path}/`} class:list={{ on: t?.sub === x.sub }}>{titulo(x.sub)}<span class="n">{x.n}</span></a>
+          ))}
+        </nav>
+      )}
+
+      {t ? (
+        <>
+          {ctx.length > 0 && (
+            <div class="kpis">
+              {ctx.map((k) => (
+                <details class="kpi">
+                  <summary><span class="k">{k.titulo}</span><span class="v">{k.valor}</span></summary>
+                  <p>{k.detalle} <a href={k.url} target="_blank" rel="noopener">{k.fuente} ↗</a></p>
+                </details>
+              ))}
+            </div>
+          )}
+          <CompareTable candidatos={t.cands} temas={TEMAS_LOCALES} auto={d.modo === 'auto' || t.cands.some((c) => c.auto)} />
+          <Fichas candidatos={t.cands} temas={TEMAS_LOCALES} />
+        </>
+      ) : (
+        <p class="pick">
+          {cantonActual
+            ? `Elige una ${etiquetaSub.toLowerCase()} de ${titulo(cantonActual)} para comparar sus listas.`
+            : `Elige un cantón. ${totalListas} listas en ${ts.length} ${d.territorio === 'sub' ? 'territorios' : 'cantones'}.`}
+        </p>
+      )}
+    </>
+  )}
+</Layout>
+
+<style>
+  .subs { margin-top: -6px; align-items: center; }
+  .lbl { margin-right: 2px; }
+  .pick { padding: 40px 0; color: var(--muted); font-size: 16px; }
+  .kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; margin: 0 0 16px; align-items: start; }
+  .kpi { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; }
+  .kpi summary { cursor: pointer; list-style: none; display: flex; flex-direction: column; }
+  .kpi summary::-webkit-details-marker { display: none; }
+  .kpi .k { font-size: 12px; color: var(--muted); }
+  .kpi .v { font-size: 14.5px; font-weight: 650; }
+  .kpi p { margin: 8px 0 0; font-size: 13px; color: var(--muted); }
+</style>

@@ -1,0 +1,122 @@
+{
+ "enfoque": "Plan copiado en gran parte del PDOT del cantón y de la parroquia. Propone caminos, reforestación, manual de riesgos, ferias, turismo y servicios para adultos mayores.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento y abrir el eje vial, y construir infraestructura vial.",
+    "que": "El plan pone 100.000,00 en 2027 y 409.090,34 en cuatro años, con dinero del GAD, Municipio, Prefectura y convenios. No dice qué caminos.",
+    "v": "media",
+    "n": "Los caminos se hacen con la Prefectura. Necesita acuerdo con Prefectura y Municipio.",
+    "cita": "Gestionar el mantenimiento y apertura del eje vial y construcción de infraestructura vial.",
+    "pag": 4
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Sembrar especies nativas en zonas degradadas (reforestación).",
+    "que": "El plan pone 5.000,00 en 2027 y 20.454,51 en total, con recursos propios y cooperación. No dice cuántas plantas ni en qué lugares.",
+    "v": "alta",
+    "n": "Cuidar el ambiente le toca a la junta. El costo anual es pequeño.",
+    "cita": "Proteger y conservar a través de la reforestación con especies nativas en zonas degradadas",
+    "pag": 4
+   },
+   {
+    "t": "Integrar zonas de conservación como áreas de especial interés, mediante ordenanza.",
+    "que": "El plan pone 8.000,00 en 2027 y 32.727,23 en total. No dice qué zonas son ni cuándo se aprueba.",
+    "v": "media",
+    "n": "La ordenanza la aprueba el Municipio. Necesita acuerdo con el Municipio.",
+    "cita": "Integración de zonas de conservación como áreas de especial interés / ordenanza",
+    "pag": 4
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Implementar el manual de gestión de riesgos para emergencias.",
+    "que": "El plan pone 10.000,00 en 2027 y 40.909,03 en total. Cronograma: manual, luego implementación y simulacros. No dice qué emergencias cubre.",
+    "v": "media",
+    "n": "Trata de inundaciones e incendios, no de policía. Necesita apoyo de entidades de riesgos.",
+    "cita": "Implementar el manual de gestión de riesgos institucional y territorial",
+    "pag": 4
+   }
+  ],
+  "economia": [
+   {
+    "t": "Promover un plan de turismo comunitario.",
+    "que": "El plan pone 15.000,00 en 2027 y 61.363,54 en total. No dice qué lugares ni atractivos se usarán.",
+    "v": "media",
+    "n": "Necesita apoyo del Ministerio de Turismo y del Municipio o Prefectura.",
+    "cita": "Promover el plan de turismo comunitario, dentro del programa de turismo comunitario.",
+    "pag": 4
+   },
+   {
+    "t": "Facilitar ferias productivas y gastronómicas con comercio justo.",
+    "que": "El plan pone 3.000,00 en 2027 y 12.272,70 en total para asociatividad y ferias. No dice dónde ni cuándo se hacen las ferias.",
+    "v": "alta",
+    "n": "Ferias y apoyo a productores son tareas de la junta, con poco dinero.",
+    "cita": "Facilitar ferias productivas y gastronómicas como idea de proyecto vinculada al comercio justo.",
+    "pag": 4
+   }
+  ],
+  "social": [
+   {
+    "t": "Gestionar servicios de atención integral para adultos mayores.",
+    "que": "El plan pone 10.000,00 en 2027 y 40.909,03 en total, con MIES y aliados. No dice qué servicios se darán ni dónde.",
+    "v": "media",
+    "n": "Los servicios sociales son del MIES. La junta necesita acuerdo con el MIES.",
+    "cita": "Gestionar servicios de atención integral para adultos mayores, dentro del programa de grupos prioritarios.",
+    "pag": 3
+   },
+   {
+    "t": "Implementar una expo de ciencia y emprendimiento para jóvenes rurales.",
+    "que": "El plan pone 8.000,00 en 2027 y 32.727,23 en total. No dice dónde se hará ni cuántos jóvenes participarán.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es tarea de la junta, y el costo es bajo.",
+    "cita": "Implementar expo ciencia y emprendimiento juvenil rural, dentro del programa de protección integral.",
+    "pag": 3
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Adecuar y mejorar espacios públicos de la parroquia.",
+    "que": "El plan pone 5.000,00 en 2027 y 20.454,51 en total. La tabla de metas habla de 4 espacios en 2027, pero no dice cuáles.",
+    "v": "alta",
+    "n": "Parques y espacios públicos son competencia de la junta.",
+    "cita": "Adecuación y mejoramiento de espacios públicos, dentro del programa de espacios públicos.",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Implementar un registro de pedidos ciudadanos y darles respuesta.",
+    "que": "El plan pone 137.574,91 en 2027 para mejorar la atención a vecinos. No dice qué incluye esa cifra ni cuándo estará listo.",
+    "v": "media",
+    "n": "Es trabajo de la junta, pero la cifra es grande y el plan no dice de dónde sale.",
+    "cita": "Implementar el registro, seguimiento y respuesta de requerimientos de atención ciudadana.",
+    "pag": 4
+   }
+  ]
+ },
+ "metas": [
+  "60 km de vía intervenidos en 2027, según la tabla de metas",
+  "Un manual de gestión de riesgos en 2027",
+  "4 espacios públicos intervenidos en 2027"
+ ],
+ "notas": [
+  "Muchas cifras salen de recursos propios y de otros niveles de gobierno. Varias acciones dependen de convenios que el plan no detalla.",
+  "El plan repite el PDOT y tiene mucho diagnóstico. Varias propuestas no dicen dónde ni cuándo se harán."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "paginas": 10
+}

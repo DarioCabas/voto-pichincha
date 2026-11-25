@@ -1,0 +1,91 @@
+{
+ "enfoque": "Pocas propuestas concretas: agua y alcantarillado en recintos, calles, espacios para adultos mayores y catastro. Sin costos ni plazos. Mucho texto es copiado de leyes y planes generales.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Reconstruir y mantener las calles urbanas y los caminos rurales del cantón.",
+    "que": "Lo haría junto con el Gobierno de la provincia del Guayas y con RVE, entidad que el plan no explica. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de la provincia y de otra entidad.",
+    "cita": "Gestionar la reconstrucción y mantenimiento de la vialidad Urbana y rural, articulando con GAD Provincial del Guayas y RVE.",
+    "pag": 8
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Construir sistemas de agua potable en los recintos (zonas rurales).",
+    "que": "Se haría con el Banco de Desarrollo (BDE), organizaciones sin fines de lucro y dinero propio del Municipio. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de préstamos y otras entidades.",
+    "cita": "Construir sistemas de agua en recintos en gestión con el BDE, ONGs y fondos propios.",
+    "pag": 8
+   },
+   {
+    "t": "Construir alcantarillado de aguas lluvias y de aguas servidas.",
+    "que": "Lo haría con otras entidades y con dinero propio del Municipio. El plan no dice en qué lugares, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de otras entidades y de financiamiento.",
+    "cita": "Implementar sistema pluvial, sanitario y con EPMAPALS, MAATE, MSP, BDE y fondos propios.",
+    "pag": 8
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir espacios públicos incluyentes, pensados para adultos mayores.",
+    "que": "Lo haría con varias entidades del Estado, el Gobierno de la provincia y dinero propio. El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Los parques son del Municipio, pero el plan lo atribuye a varias entidades.",
+    "cita": "Promover la construcción de espacios públicos incluyentes con MIDUVI, MIES, MSP, GAD Provincial y fondos propios.",
+    "pag": 8
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Revisar el catastro de terrenos y casas, urbano y rural, del cantón.",
+    "que": "Lo haría con los responsables del sistema informático. El plan no dice cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio por ley. El plan no dice plazos.",
+    "cita": "Promover la revisión del catastro urbano y rural con responsables del sistema informático y basado al COOTAD.",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Apoyar programas de desarrollo infantil junto con ministerios del Gobierno nacional.",
+    "que": "Lo haría junto con el MIES y el MINEDUC, ministerios nacionales. El plan no dice qué programas ni cuánto costarán.",
+    "v": "baja",
+    "n": "No le toca al Municipio: es tarea de ministerios nacionales.",
+    "cita": "Fortalecer programas de desarrollo infantil articulando acciones con MIES, MINEDUC y SAFPI.",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "Presentar un informe de rendición de cuentas al cumplir un año de gestión, en los primeros sesenta días del año siguiente."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni en qué plazo se haría.",
+  "Gran parte del texto son leyes y diagnósticos copiados de planes generales; hay pocas propuestas concretas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17
+ ],
+ "paginas": 17
+}

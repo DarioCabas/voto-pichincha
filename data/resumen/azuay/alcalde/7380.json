@@ -1,0 +1,161 @@
+{
+ "enfoque": "Copia en gran parte el plan de desarrollo del cantón 2023-2027. Prioriza agua, aguas residuales, calles, incendios y un vivero. No dice cuánto cuesta cada obra.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Arreglar y mejorar las plantas que dan agua potable del cantón.",
+    "que": "Meta: subir la capacidad de las plantas de agua del 60 % al 75 % hasta 2031. El plan no dice cuánto cuesta.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto cuesta.",
+    "cita": "Rehabilitación y optimización de las plantas potabilizadoras de agua del cantón.",
+    "pag": 32
+   },
+   {
+    "t": "Arreglar y poner a funcionar bien las plantas de aguas residuales.",
+    "que": "Meta: al menos 80 % de funcionamiento en las plantas de aguas residuales. El plan no dice cuánto cuesta ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio (alcantarillado). El plan no dice cuánto cuesta.",
+    "cita": "Intervención integral y operación sostenible de las cinco PTAR",
+    "pag": 31
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar y poner asfalto en calles de San Fernando y Chumblín.",
+    "que": "Meta: rehabilitar y poner asfalto en al menos 10 % de los tramos viales en estado regular o malo hasta 2031. El plan no dice cuánto cuesta.",
+    "v": "alta",
+    "n": "Le toca al Municipio (calles). El plan no dice cuánto cuesta.",
+    "cita": "Mejoramiento integral de la red vial cantonal y parroquial mediante la rehabilitación y colocación progresiva de",
+    "pag": 31
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Prevenir incendios forestales y recuperar las áreas quemadas.",
+    "que": "Meta: reducir 40 % las áreas afectadas por incendios forestales. Plazo de ejecución 2027-2028. El plan no dice cuánto cuesta.",
+    "v": "alta",
+    "n": "Le toca al Municipio (prevención de desastres). Falta el costo.",
+    "cita": "Prevención de incendios forestales y restauración de áreas afectadas.",
+    "pag": 7
+   },
+   {
+    "t": "Montar un vivero municipal para producir plantas y hortalizas.",
+    "que": "Meta: producir y distribuir 100 mil plantas hasta 2031, para escuelas, recintos y huertos. El plan no dice cuánto cuesta.",
+    "v": "media",
+    "n": "Parte municipal, pero depende de convenios con otras instituciones.",
+    "cita": "Implementación de un vivero-invernadero cantonal para la producción de plantas nativas, forestales, ornamentales y plántulas hortícolas.",
+    "pag": 32
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Crear una ordenanza para cuidar y restaurar casas patrimoniales.",
+    "que": "Plazo previsto 2027-2028. El plan no dice cuánto cuesta ni cuántas casas se atenderían.",
+    "v": "alta",
+    "n": "Le toca al Municipio (uso del suelo), pero la aprueba el concejo.",
+    "cita": "Ordenanza para recuperación y conservación de casas patrimoniales del cantón",
+    "pag": 31
+   }
+  ],
+  "social": [
+   {
+    "t": "Construir una pista de atletismo y una piscina municipal.",
+    "que": "Meta: ejecutar la fase 2 de la obra. El plan no dice cuánto cuesta ni cuándo se termina.",
+    "v": "media",
+    "n": "Puede hacerlo el Municipio, pero depende de convenios.",
+    "cita": "Construcción de la Pista Atlética y Piscina Municipal",
+    "pag": 31
+   },
+   {
+    "t": "Dar brigadas móviles de salud en el cantón y las parroquias.",
+    "que": "Equipamiento y brigadas de salud a nivel cantonal y parroquial. El plan no dice cuánto cuesta.",
+    "v": "baja",
+    "n": "No le toca al Municipio: la salud la maneja el Ministerio de Salud.",
+    "cita": "Fortalecimiento de la atención primaria, preventiva y comunitaria mediante equipamiento y brigadas móviles de salud",
+    "pag": 31
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer un plan de turismo sostenible para el cantón.",
+    "que": "El plan no dice cuánto cuesta ni cuándo se hace. Lo ejecutarían con el Ministerio de Turismo y la Cámara de Turismo de Cuenca.",
+    "v": "media",
+    "n": "Depende de otras instituciones. El plan no dice cuánto cuesta.",
+    "cita": "Elaboración e implementación del Plan Estratégico de Turismo Sostenible",
+    "pag": 31
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear un sistema para atender y responder los pedidos de la gente.",
+    "que": "Meta: responder al 80 % de los pedidos ciudadanos. El plan no dice cuánto cuesta.",
+    "v": "alta",
+    "n": "Le toca al Municipio, es gestión interna. Falta el costo.",
+    "cita": "Implementación del Sistema Integral de Participación y Atención Ciudadana",
+    "pag": 32
+   }
+  ]
+ },
+ "metas": [
+  "Subir la capacidad de las plantas de agua del 60 % al 75 % hasta 2031.",
+  "Tener al menos 80 % de funcionamiento en las plantas de aguas residuales.",
+  "Rehabilitar y poner asfalto en al menos 10 % de tramos viales en mal estado hasta 2031.",
+  "Reducir 40 % las áreas afectadas por incendios forestales.",
+  "Producir y distribuir 100 mil plantas hasta 2031."
+ ],
+ "notas": [
+  "El plan no pone cuánto cuesta ninguna obra ni de dónde saldrá el dinero.",
+  "El plan dice cuatro plantas de agua en una parte y cinco en otra. Revise antes de votar."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47
+ ],
+ "paginas": 47
+}

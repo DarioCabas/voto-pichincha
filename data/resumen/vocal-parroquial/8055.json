@@ -1,0 +1,112 @@
+{
+ "enfoque": "Pide más servicios y obras al Estado y a la Alcaldía. La junta puede cuidar el ambiente, organizar a la comunidad y apoyar productores. El plan no dice cuánto costará.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Cuidar las fuentes de agua, bosques y ecosistemas con control y participación comunitaria.",
+    "que": "El plan dice que se hará con control, manejo sostenible y participación de la comunidad. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Cuidar el ambiente y organizar a la gente sí le toca a la junta. El plan no dice cuánto cuesta.",
+    "cita": "Proteger y conservar las fuentes de agua, bosques y ecosistemas estratégicos, mediante acciones",
+    "pag": 2
+   },
+   {
+    "t": "Hacer educación ambiental con la comunidad sobre el cuidado del territorio.",
+    "que": "El plan habla de educación ambiental comunitaria, con respeto a los saberes ancestrales. El plan no dice cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "Trabajar con vecinos en educación ambiental sí le toca a la junta. El plan no dice cuánto cuesta.",
+    "cita": "Fortalecer la educación ambiental comunitaria, promoviendo la corresponsabilidad ciudadana, los",
+    "pag": 2
+   },
+   {
+    "t": "Hacer obras para frenar deslizamientos en laderas críticas del río Toachi.",
+    "que": "El plan incluye esta obra en la lista de obras prioritarias con la Alcaldía de Mejía. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Obras grandes de laderas le tocan a otro nivel, no a la junta. El plan no dice cuánto cuesta.",
+    "cita": "Obras físicas de mitigación de deslizamientos en laderas criticas del río Toachi.",
+    "pag": 5
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Construir redes de alcantarillado básico en la cabecera parroquial.",
+    "que": "Está en la lista de obras prioritarias con la Alcaldía. El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "baja",
+    "n": "El alcantarillado no le toca a la junta. El plan no dice cuánto cuesta.",
+    "cita": "Construcción de redes de alcantarillado básico para la cabecera parroquial.",
+    "pag": 5
+   },
+   {
+    "t": "Poner luces solares en los paraderos rurales de la vía principal.",
+    "que": "Está en la lista de obras prioritarias con la Alcaldía. El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "baja",
+    "n": "El alumbrado de paraderos no es función de la junta. El plan no dice cuánto cuesta.",
+    "cita": "Instalación de luminarias solares en paraderos rurales de la vía principal.",
+    "pag": 5
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Poner material de lastre y mantener el camino de acceso a fincas frutícolas.",
+    "que": "Está en la lista de obras con la Alcaldía. El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "media",
+    "n": "Los caminos los cuida la junta junto con la Prefectura. El plan no dice cuánto cuesta.",
+    "cita": "Lastrado y mantenimiento vial del tramo de acceso a fincas frutícolas.",
+    "pag": 5
+   },
+   {
+    "t": "Poner señales e infraestructura para la Ruta Gastronómica de Tandapi.",
+    "que": "Está en la lista de obras con la Alcaldía. El plan menciona la vía E-20, pero no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Alcaldía o la Prefectura. El plan no dice cuánto cuesta.",
+    "cita": "Infraestructura y señalización para la Ruta Gastronómica de Tandapi (E-20).",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer programas de inclusión social para mujeres, jóvenes y adultos mayores.",
+    "que": "El plan dice que tendrán enfoque de derechos, equidad de género e interculturalidad. El plan no dice cuántos habrá ni cuándo.",
+    "v": "alta",
+    "n": "Organizar programas con la comunidad sí le toca a la junta. El plan no dice cuánto cuesta.",
+    "cita": "Implementar programas de inclusión social y participación, orientados a mujeres, jóvenes y",
+    "pag": 2
+   }
+  ],
+  "economia": [
+   {
+    "t": "Conseguir cursos y asistencia técnica para productores, con entidades del Estado.",
+    "que": "El plan dice que se hará en coordinación con las entidades estatales. El plan no dice cuántos cursos habrá ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita coordinar con instituciones del Estado. El plan no dice cuánto cuesta.",
+    "cita": "Facilitar el acceso a procesos de capacitación, asistencia técnica y transferencia de conocimientos,",
+    "pag": 2
+   },
+   {
+    "t": "Acompañar emprendimientos comunitarios de economía popular y solidaria.",
+    "que": "El plan dice que tendrán apoyo técnico, financiero y comercial de instituciones del Estado. El plan no dice cuánto dinero habrá.",
+    "v": "media",
+    "n": "Necesita apoyo de instituciones del Estado. El plan no dice cuánto dinero ni cuándo.",
+    "cita": "Impulsar emprendimientos comunitarios y asociativos, priorizando iniciativas de economia",
+    "pag": 2
+   }
+  ]
+ },
+ "metas": [
+  "Período del plan: 2027 a 2031."
+ ],
+ "notas": [
+  "Las obras grandes de la lista son de la Alcaldía o la Prefectura, no de la junta. El plan no dice cuánto costará ninguna.",
+  "Casi todo el plan pide acciones a otros niveles del Estado. No da costos ni plazos concretos."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "paginas": 6
+}

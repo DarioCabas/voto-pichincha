@@ -1,0 +1,117 @@
+{
+ "enfoque": "Plan para Cumbayá en cinco temas: turismo, seguridad, calles y parques, cultura y deporte, y ambiente. Muchas acciones son pedir o coordinar con otras entidades.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Recuperar espacios verdes para que los vecinos los usen",
+    "que": "El plan no dice qué espacios, dónde ni cuánto costará. No dice cuándo.",
+    "v": "alta",
+    "n": "Le toca a la junta. El plan no dice dónde ni cuánto costará.",
+    "cita": "Recuperación de espacios verdes para uso de la población",
+    "pag": 4
+   },
+   {
+    "t": "Sembrar árboles nativos con estudiantes",
+    "que": "El plan no dice dónde ni cuántos árboles. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca a la junta cuidar el ambiente. El plan no dice cuántos árboles ni cuándo.",
+    "cita": "Trabajos de forestación y reforestación con especies nativas, con participación estudiantil",
+    "pag": 4
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar vías con adoquín, empedrado o resanado",
+    "que": "El plan dice que se pedirá al Municipio y a la Prefectura. No dice qué calles ni cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio y a la Prefectura; la junta solo pide. El plan no dice dónde ni cuánto costará.",
+    "cita": "Gestión del mejoramiento de vías mediante adoquinado, empedrado o resanado",
+    "pag": 3
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Dar charlas de seguridad y prevención en los barrios",
+    "que": "El plan no dice cuántas charlas ni cuándo. No dice cuánto costará.",
+    "v": "alta",
+    "n": "La junta puede organizar charlas. La policía no es de la junta. El plan no dice cuándo.",
+    "cita": "Impulso de charlas de seguridad y manejo de crisis en los barrios, con énfasis en la prevención",
+    "pag": 3
+   },
+   {
+    "t": "Apoyar a los barrios que tengan grupos de vecinos para cuidarse",
+    "que": "El plan no dice cómo se apoyará ni con qué dinero.",
+    "v": "alta",
+    "n": "Le toca a la junta organizar a los vecinos. El plan no dice cómo ni con qué dinero.",
+    "cita": "Apoyo a iniciativas barriales de “barrio seguro” y redes de apoyo vecinal",
+    "pag": 3
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear espacios culturales en los barrios",
+    "que": "El plan no dice dónde se crearán ni cuánto costará. No dice cuándo.",
+    "v": "media",
+    "n": "Necesita un lugar y dinero. El plan no dice dónde ni cuánto costará.",
+    "cita": "Creación y fortalecimiento de espacios y centros culturales barriales",
+    "pag": 3
+   },
+   {
+    "t": "Arreglar el coliseo parroquial y las canchas",
+    "que": "El plan no dice qué arreglos ni cuánto costarán. No dice cuándo.",
+    "v": "alta",
+    "n": "Le toca a la junta cuidar espacios de la parroquia. El plan no dice cuánto costará.",
+    "cita": "Mejoramiento de la infraestructura deportiva de las ligas barriales y mantenimiento del coliseo parroquial",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar cursos a dueños de negocios turísticos y de comida",
+    "que": "El plan no dice cuántos cursos, cuándo ni con qué dinero.",
+    "v": "alta",
+    "n": "Los cursos son de la junta. El plan no dice cuántos cursos ni cuándo.",
+    "cita": "Capacitación a los propietarios de negocios turísticos y gastronómicos locales",
+    "pag": 3
+   },
+   {
+    "t": "Crear un centro de información turística",
+    "que": "El plan dice que se gestionará. No dice dónde ni cuánto costará ni quién lo pagará.",
+    "v": "media",
+    "n": "La junta solo gestiona. El plan no dice dónde ni cuánto costará.",
+    "cita": "Gestión para la creación de un centro de información turística que mejore la atención al visitante",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Informar cada mes del trabajo por medios digitales",
+    "que": "El plan dice que se hará cada mes por medios digitales y redes sociales.",
+    "v": "alta",
+    "n": "Le toca a la junta informar. No tiene costo alto.",
+    "cita": "Mensualmente se socializará, a través de medios de comunicación digital establecidos en la parroquia",
+    "pag": 4
+   }
+  ]
+ },
+ "metas": [
+  "Informar del trabajo cada mes por medios digitales y redes sociales.",
+  "Presentar un informe de actividades en asamblea ciudadana cada semestre.",
+  "Entregar la información a los organismos de control cada año.",
+  "Presentar un informe al Consejo de Participación Ciudadana cada año."
+ ],
+ "notas": [
+  "El plan no dice cuánto dinero costará ninguna propuesta ni de dónde saldrá.",
+  "El plan habla de agua, servicios básicos y seguridad, que no son competencia de la junta. Muchas acciones son solo pedir o coordinar."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "paginas": 6
+}

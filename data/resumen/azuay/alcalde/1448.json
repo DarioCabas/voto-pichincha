@@ -1,0 +1,119 @@
+{
+ "enfoque": "Propone calles, semáforos, un complejo deportivo en Chaupiuco y una planta de aguas residuales. No dice cuánto costará.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar y mantener calles, caminos y puentes urbanos y rurales.",
+    "que": "Se hará con el Gobierno Provincial y el Nacional, según el presupuesto. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Las calles sí son del Municipio; caminos y puentes dependen de otros gobiernos.",
+    "cita": "Gestionar, en coordinación con el Gobierno Provincial y el Gobierno Nacional, el mejoramiento y mantenimiento progresivo de la infraestructura vial urbana y rural",
+    "pag": 5
+   },
+   {
+    "t": "Instalar semáforos inteligentes, señales y pasos peatonales en el centro.",
+    "que": "En las principales esquinas del centro cantonal, con campañas de educación vial. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "El tránsito es competencia del Municipio. El plan no dice cuánto costará.",
+    "cita": "Impulsar un Plan Integral de Semaforización y Seguridad Vial para el centro cantonal",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Gestionar techos para las canchas de tres instituciones educativas.",
+    "que": "Se pedirán al Ministerio de Educación y a la Prefectura. El plan no dice cuánto costará ni cuándo se harán.",
+    "v": "baja",
+    "n": "Las escuelas son del Ministerio de Educación, no del Municipio.",
+    "cita": "Gestionar, en coordinación con el Ministerio de Educación, el Gobierno Provincial y demás entidades competentes, la construcción de cubiertas",
+    "pag": 5
+   },
+   {
+    "t": "Hacer campañas de salud con jornadas y controles básicos.",
+    "que": "Se harán con médicos del sector público y privado. El plan no dice cuánto costará ni con qué frecuencia.",
+    "v": "baja",
+    "n": "La salud no es competencia del Municipio; solo puede apoyar.",
+    "cita": "Implementar campañas de salud, mediante la articulación y coordinación con",
+    "pag": 4
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir por fases un complejo deportivo en el Parque Chaupiuco.",
+    "que": "Incluye piscinas, pista atlética, sauna, juegos infantiles y cancha de básquet. El plan no dice cuánto costará ni en qué fecha.",
+    "v": "media",
+    "n": "Los parques son del Municipio, pero depende del presupuesto y de dinero de otras entidades.",
+    "cita": "Implementación progresiva en el Parque Chaupiuco un Complejo Deportivo, Recreativo y Turístico",
+    "pag": 5
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Hacer estudios y construir por etapas una planta de aguas residuales.",
+    "que": "Primero en la cabecera cantonal, luego ampliar el sistema. El plan no dice cuánto costará ni en cuántos años.",
+    "v": "media",
+    "n": "El alcantarillado sí es del Municipio, pero el dinero no está asegurado.",
+    "cita": "Gestionar los estudios, el financiamiento y la construcción por etapas de una Planta de Tratamiento de Aguas residuales",
+    "pag": 6
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Crear un programa para cuidar y recuperar las fuentes de agua del cantón.",
+    "que": "Se hará con las juntas de agua y las comunidades. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Va en parte con el Municipio; también necesita a juntas y comunidades.",
+    "cita": "Implementar un Programa Cantonal de Conservación y Recuperación de Fuentes Hídricas, en coordinación con las juntas de agua",
+    "pag": 6
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Poner cámaras de vigilancia y luces en espacios públicos.",
+    "que": "Se coordinará con la Policía Nacional y el servicio de emergencias ECU 911. El plan no dice cuánto costará ni dónde.",
+    "v": "media",
+    "n": "Las luces sí son del Municipio; la vigilancia y la policía no.",
+    "cita": "la implementación de sistemas de video vigilancia, iluminación de espacios públicos, planes de prevención",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias de productos del campo, artesanías y comida.",
+    "que": "Buscan vender productos locales y generar empleo. El plan no dice dónde, cuándo ni cuánto costará.",
+    "v": "media",
+    "n": "El Municipio puede organizar ferias, pero el plan no dice dónde ni cuándo.",
+    "cita": "Realizar ferias productivas, agropecuarias, artesanales y gastronómicas, impulsando la comercialización de productos locales",
+    "pag": 4
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar informes de gestión, gastos y compras del Municipio.",
+    "que": "Se publicarán de forma periódica en medios oficiales. El plan no dice con qué frecuencia exacta.",
+    "v": "alta",
+    "n": "Le toca al Municipio y no depende de otros. El plan no da fechas.",
+    "cita": "Cumplir con los mecanismos de transparencia y control social mediante la publicación",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan casi no da costos ni fechas. Muchas obras dependen de dinero del Gobierno Nacional, la Prefectura o préstamos.",
+  "Escuelas, salud y policía no son del Municipio. El plan los incluye, así que el alcalde solo podría apoyarlos."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "paginas": 9
+}

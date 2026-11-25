@@ -1,0 +1,115 @@
+{
+ "enfoque": "Organizar ferias, cursos y asambleas, y pedir al Municipio, la Prefectura y los ministerios vías, luz, riego, salud y educación.",
+ "tabla": {
+  "economia": [
+   {
+    "t": "Pedir al MAG y al Municipio capacitación, asistencia técnica y ferias para productores.",
+    "que": "Son pedidos a otras entidades (MAG, Municipio, universidades). El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "media",
+    "n": "Depende de acuerdos con el MAG y el Municipio.",
+    "cita": "Gestión de capacitaciones, asistencia técnica, ferias agropecuarias, mejoramiento genético y acceso a",
+    "pag": 3
+   },
+   {
+    "t": "Pedir al MAG y a la Prefectura proyectos de riego para el campo.",
+    "que": "El plan no dice en qué zonas ni cuánto costará. Incluye también a las asociaciones de productores.",
+    "v": "media",
+    "n": "Le toca al MAG y a la Prefectura, no a la junta.",
+    "cita": "Gestión de proyectos de riego ante el MAG y el GAD Provincial de Pichincha",
+    "pag": 3
+   },
+   {
+    "t": "Promocionar rutas turísticas, festivales y señalética en la parroquia.",
+    "que": "Se hará junto con Quito Turismo, el Ministerio de Turismo, operadores, haciendas y comunidades. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con Quito Turismo y el Ministerio de Turismo.",
+    "cita": "Promoción de rutas turísticas, festivales culturales y señalética turística parroquial, en coordinación con Quito",
+    "pag": 3
+   },
+   {
+    "t": "Dar cursos a emprendedores y ayudarles a promocionarse en internet.",
+    "que": "Cursos para negocios de turismo rural, ecológico y gastronómico. El plan no dice cuántos cursos ni cuánto costará.",
+    "v": "alta",
+    "n": "Cursos y promoción: cosas que la junta sí puede hacer.",
+    "cita": "Capacitación a emprendedores, promoción digital y fortalecimiento de emprendimientos locales vinculados",
+    "pag": 3
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Pedir al Municipio y a la Prefectura dar mantenimiento a vías rurales y espacios públicos.",
+    "que": "Incluye casas comunales y áreas recreativas, con presupuesto participativo. El plan no dice qué vías ni cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio y a la Prefectura, no a la junta.",
+    "cita": "Gestión ante el Municipio del DMA y la Prefectura de Pichincha del mantenimiento de vías rurales, espacios públicos, casas comunales y áreas recreativas",
+    "pag": 3
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir al Municipio y a la Empresa Eléctrica poner luz en sectores prioritarios.",
+    "que": "El plan no dice qué sectores ni cuánto costará.",
+    "v": "baja",
+    "n": "Le toca al Municipio y a la Empresa Eléctrica, no a la junta.",
+    "cita": "Gestión de iluminación pública ante el Municipio del DMQ y la Empresa Eléctrica Quito en sectores",
+    "pag": 3
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Organizar a los vecinos para cuidarse y pedir cámaras al Municipio.",
+    "que": "Incluye coordinar con la Policía Nacional y hacer campañas de prevención. El plan no dice cuántas cámaras ni cuánto costará.",
+    "v": "media",
+    "n": "Organizar vecinos sí. Las cámaras son del Municipio; la policía no es de la junta.",
+    "cita": "Organización comunitaria para la seguridad, con gestión de tecnología de vigilancia ante el Municipio del DMA",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas y presupuestos participativos con los vecinos.",
+    "que": "Son reuniones con la comunidad sobre el presupuesto. El plan no dice cuántas habrá ni cuándo.",
+    "v": "alta",
+    "n": "Reuniones con vecinos: la junta sí las puede organizar.",
+    "cita": "Realización de asambleas comunitarias y presupuestos participativos que fortalezcan el tejido social de la",
+    "pag": 3
+   }
+  ],
+  "social": [
+   {
+    "t": "Dar programas, actividades culturales y deportivas a jóvenes y adultos mayores.",
+    "que": "Incluye campañas de prevención con colegios y organizaciones de barrio. El plan no dice cuántos programas ni cuánto costará.",
+    "v": "alta",
+    "n": "Actividades y campañas: la junta sí puede organizarlas.",
+    "cita": "Programas para jóvenes y adultos mayores, actividades culturales y deportivas, y campañas de prevención y",
+    "pag": 3
+   },
+   {
+    "t": "Pedir al Ministerio de Salud atención de salud cercana en la parroquia.",
+    "que": "El plan no dice cuántos centros habrá ni cuánto costará.",
+    "v": "baja",
+    "n": "La salud le toca al Ministerio de Salud, no a la junta.",
+    "cita": "Gestión ante el Ministerio de Salud Pública de atención de salud cercana y programas de salud integral en el territorio",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [
+  "Propuestas de agro, turismo y economía: del segundo al cuarto año.",
+  "Propuestas de infraestructura, participación y seguridad: todos los años.",
+  "Propuestas de cultura, educación, salud y grupos prioritarios: del segundo al cuarto año."
+ ],
+ "notas": [
+  "La mayoría de propuestas son pedidos a otras entidades. El plan no dice cuánto costará ni de dónde saldría el dinero.",
+  "El plan menciona salud, educación y policía, que no son competencia de la junta. Las plantea como gestión, no como obra propia."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "paginas": 5
+}

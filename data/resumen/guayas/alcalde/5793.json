@@ -1,0 +1,144 @@
+{
+ "enfoque": "Propone arreglar calles y caminos, coordinar seguridad, dar capacitación, brigadas de salud, ayuda a emprendedores y actividades culturales y deportivas. No dice cuánto costará.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Elaborar un diagnóstico de todas las vías y un mapa para decidir cuáles arreglar primero.",
+    "que": "Sirve para decidir qué vías van primero, según su impacto social y productivo. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Elaborar un diagnóstico vial integral. Crear un mapa de prioridades viales.",
+    "pag": 17
+   },
+   {
+    "t": "Arreglar vías rurales y caminos que usan los productores.",
+    "que": "Incluye reconformar vías rurales y mejorar caminos productivos, en coordinación con la Prefectura del Guayas. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Las vías rurales dependen en parte de la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Realizar reconformación de vías rurales. Gestionar mejoramiento de caminos productivos. Atender puntos críticos de movilidad.",
+    "pag": 17
+   },
+   {
+    "t": "Asfaltar calles prioritarias y mejorar la señalización vial.",
+    "que": "El plan dice que se gestionará el asfaltado, no que el Municipio lo pagará. No dice qué calles ni cuánto costará.",
+    "v": "media",
+    "n": "Depende de fondos y de otras instancias. El plan no dice cuánto costará.",
+    "cita": "Gestionar asfaltado o pavimentación de calles prioritarias. Mejorar señalización vial.",
+    "pag": 17
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Crear mesas de trabajo con la Policía, las Fuerzas Armadas y el servicio de emergencias 911.",
+    "que": "Las mesas reúnen a las instituciones de seguridad para coordinar. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "La Policía no es competencia del Municipio; solo puede coordinar. El plan no dice cuánto costará.",
+    "cita": "Crear mesas permanentes de coordinación con Policía Nacional, Fuerzas Armadas, ECU 911, organismos de emergencia",
+    "pag": 16
+   },
+   {
+    "t": "Gestionar luz y recuperación de espacios públicos en sectores prioritarios.",
+    "que": "El plan no dice qué sectores son prioritarios ni cuánto costará la iluminación.",
+    "v": "alta",
+    "n": "Le toca al Municipio (calles y espacios públicos). El plan no dice cuánto costará.",
+    "cita": "Gestionar iluminación y recuperación de espacios públicos en sectores prioritarios.",
+    "pag": 16
+   }
+  ],
+  "otros": [
+   {
+    "t": "Organizar brigadas médicas periódicas y jornadas de medicina preventiva.",
+    "que": "Llevarían prevención a barrios y sectores rurales, mediante convenios. El plan no dice cuánto costará ni cuántas habrá.",
+    "v": "baja",
+    "n": "La salud es del Ministerio de Salud. El Municipio solo puede gestionar convenios.",
+    "cita": "Gestionar brigadas médicas periódicas. Realizar jornadas de medicina preventiva.",
+    "pag": 19
+   },
+   {
+    "t": "Crear un Centro Municipal de Capacitación y Formación.",
+    "que": "Daría cursos a jóvenes, adultos, emprendedores y agricultores, con convenios con universidades. Los cursos serían gratuitos o de bajo costo, según el presupuesto. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de convenios y del presupuesto. El plan no dice cuánto costará.",
+    "cita": "Crear el Centro Municipal de Capacitación y Formación.",
+    "pag": 19
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear espacios para vender productos locales y promover emprendimientos juveniles.",
+    "que": "Son espacios para comercializar productos de Naranjito. El plan no dice dónde se ubicarán ni cuánto costarán.",
+    "v": "alta",
+    "n": "Mercados y espacios de venta son del Municipio. El plan no dice dónde.",
+    "cita": "Crear espacios para comercialización local. Promover emprendimientos juveniles.",
+    "pag": 21
+   }
+  ],
+  "social": [
+   {
+    "t": "Mejorar programas para adultos mayores y personas con discapacidad.",
+    "que": "El plan no dice qué programas serán ni cuánto costarán. Tampoco dice cuántas personas se beneficiarán.",
+    "v": "media",
+    "n": "La ayuda social no aparece entre las tareas del cargo; depende de convenios.",
+    "cita": "Fortalecer programas para adultos mayores. Promover actividades para personas con discapacidad.",
+    "pag": 22
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Mejorar la atención a la ciudadanía y hacer trámites por internet.",
+    "que": "Incluye una página web con trámites y consultas digitales, y seguimiento de solicitudes. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Trámites y atención son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Mejorar los canales de atención ciudadana. Fortalecer la página web institucional. Promover trámites y consultas digitales.",
+    "pag": 23
+   }
+  ]
+ },
+ "metas": [
+  "2027: diagnóstico vial y diagnóstico de seguridad, durante el primer año.",
+  "2027: organizar el Centro Municipal de Capacitación.",
+  "2028: iniciar obras de proyectos que tengan estudios, presupuesto y viabilidad.",
+  "Programación vial anual para arreglar calles y caminos por orden de necesidad.",
+  "2031: evaluación final del plan y presentación pública de resultados."
+ ],
+ "notas": [
+  "El plan no incluye agua potable ni alcantarillado como ejes principales; dice que se concentra en otras necesidades.",
+  "Muchas propuestas dicen \"gestionar\" o \"coordinar\". El plan casi no dice cuánto costarán ni de dónde saldrá el dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32
+ ],
+ "paginas": 32
+}

@@ -1,0 +1,114 @@
+{
+ "enfoque": "Plan general de Ascázubi: cuidar el ambiente y las fuentes de agua, arreglar caminos y espacios públicos, y apoyar a productores. Se basa en el plan de desarrollo de la parroquia.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Sembrar árboles con la comunidad en la parroquia.",
+    "que": "El plan dice reforestación comunitaria, pero no dice en qué lugares, cuántos árboles ni cuánto costará.",
+    "v": "alta",
+    "n": "Es trabajo de la junta y de la comunidad. El plan no dice cuánto costará.",
+    "cita": "Fortalecimiento de la cobertura vegetal y recuperación ambiental mediante reforestación comunitaria.",
+    "pag": 2
+   },
+   {
+    "t": "Cuidar las fuentes de agua y las microcuencas de la parroquia.",
+    "que": "El plan habla de proteger fuentes de agua y microcuencas. No dice dónde ni con qué dinero.",
+    "v": "media",
+    "n": "Cuidar el ambiente sí; el agua potable no. El plan no dice cuánto costará.",
+    "cita": "Protección y conservación de fuentes de agua y microcuencas.",
+    "pag": 5
+   },
+   {
+    "t": "Recuperar y dar mantenimiento a quebradas y zonas dañadas.",
+    "que": "El plan dice que se recuperarán quebradas y áreas degradadas. No dice cuáles ni cuándo.",
+    "v": "alta",
+    "n": "Es trabajo ambiental de la junta. El plan no dice cuánto costará.",
+    "cita": "Recuperación y mantenimiento de quebradas y áreas degradadas.",
+    "pag": 5
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar y mantener los caminos de la parroquia.",
+    "que": "El plan dice mejorar y mantener la red vial parroquial. No dice qué caminos ni cuánto costará.",
+    "v": "media",
+    "n": "La junta cuida caminos junto con la Prefectura. El plan no dice cuánto costará ni dónde.",
+    "cita": "Mejoramiento y mantenimiento de la red vial parroquial.",
+    "pag": 3
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar y adecuar espacios públicos para la convivencia y la recreación.",
+    "que": "El plan dice recuperar espacios públicos para convivir y recrearse. No dice cuáles ni cuánto costará.",
+    "v": "alta",
+    "n": "Parques y espacios públicos son de la junta. El plan no dice cuánto costará.",
+    "cita": "la recuperación y adecuación de espacios públicos destinados a la convivencia ciudadana y la recreación",
+    "pag": 3
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Gestionar el arreglo del alumbrado público en varios sectores.",
+    "que": "El plan habla de fortalecer el alumbrado público en varios sectores. No dice cuáles ni cuánto costará.",
+    "v": "media",
+    "n": "Suele ser del Municipio. El plan no dice quién lo paga ni cuánto cuesta.",
+    "cita": "así como el fortalecimiento del alumbrado público en varios sectores de la parroquia",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar cursos y asistencia técnica a los productores.",
+    "que": "El plan dice que habrá escuelas de formación y asistencia técnica para productores. No dice cuántos ni cuánto costará.",
+    "v": "alta",
+    "n": "Cursos y ayuda al campo son de la junta. El plan no dice cuánto costará.",
+    "cita": "Escuelas de formación y asistencia técnica para productores.",
+    "pag": 5
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Informar a la comunidad sobre cuentas y uso del dinero.",
+    "que": "El plan dice que habrá rendición de cuentas, acceso a la información y comunicación con la comunidad. No dice cada cuánto.",
+    "v": "alta",
+    "n": "Lo puede hacer la junta. El plan no dice con qué frecuencia.",
+    "cita": "mediante procesos de rendición de cuentas, acceso a la información pública y una comunicación permanente con la comunidad",
+    "pag": 6
+   },
+   {
+    "t": "Firmar acuerdos con el Municipio y la Prefectura para conseguir recursos.",
+    "que": "El plan dice que buscará convenios con el Municipio de Cayambe y la Prefectura. No dice qué se conseguirá ni cuánto.",
+    "v": "media",
+    "n": "Depende de que el Municipio y la Prefectura acepten. El plan no dice montos.",
+    "cita": "se promoverá la suscripción de convenios y acuerdos de cooperación con el Municipio de Cayambe, la Prefectura de Pichincha",
+    "pag": 6
+   }
+  ]
+ },
+ "metas": [
+  "Año 2027: prioridad en agua, vialidad, planificación y ambiente.",
+  "Año 2028: producción, turismo y emprendimientos.",
+  "Año 2029: espacios públicos, deporte y cultura.",
+  "Año 2030: innovación, conectividad y fortalecimiento institucional.",
+  "Año 2031: consolidación y evaluación de resultados."
+ ],
+ "notas": [
+  "El plan no da montos de dinero ni cuántas obras harán. Solo lista de dónde podría venir el dinero.",
+  "El plan pone agua potable como prioridad de 2027 y no separa lo que sí puede hacer la junta."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "paginas": 10
+}

@@ -1,0 +1,104 @@
+{
+ "enfoque": "Plan para Cuenca 2027-2031 sobre seguridad, movilidad, agua, espacio público y gestión municipal; casi no da costos ni plazos.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Crear un sistema de transporte que conecte la ciudad y las parroquias rurales.",
+    "que": "Busca que la gente se mueva con seguridad, con transporte público, caminando o en bicicleta. El plan no dice cuánto costará ni cuándo estará listo.",
+    "v": "alta",
+    "n": "Le toca al Municipio (tránsito y buses). El plan no dice costo ni plazo.",
+    "cita": "Garantizar desplazamientos seguros, previsibles, accesibles y sostenibles, mediante un sistema integrando de movilidad, que conecte eficientemente la ciudad y parroquias rurales.",
+    "pag": 6
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Ordenar el crecimiento de la ciudad y consolidar espacios públicos cerca de los barrios.",
+    "que": "Incluye mejorar vivienda y barrios. El plan no dice en qué barrios ni cuánto costará.",
+    "v": "media",
+    "n": "El uso del suelo es del Municipio; la vivienda depende de otros niveles.",
+    "cita": "Ordenar el crecimiento, mejorar vivienda y barrios y consolidar una red de proximidad, patrimonio vivo y espacio público de calidad.",
+    "pag": 6
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger el agua y los ecosistemas, y recuperar ríos y quebradas.",
+    "que": "Cuidar fuentes de agua, ríos y quebradas del cantón. El plan no dice dónde, cuánto costará ni en qué plazo.",
+    "v": "media",
+    "n": "El agua y las quebradas son del Municipio, pero comparte la tarea con otros niveles.",
+    "cita": "Proteger agua y ecosistemas, recuperar rios y quebradas y aumentar la resiliencia cllmática.",
+    "pag": 6
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Usar iluminación, cámaras de video y diseño urbano para prevenir delitos.",
+    "que": "El Municipio ayuda con luces, cámaras y diseño de espacios, sin reemplazar a la Policía. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "La Policía y la justicia no son del Municipio. El plan no dice costos.",
+    "cita": "incide mediante iluminación, videovgllancia interoperable, diseño urbano, prevención socio - cultural, gestión del espacio público y coordinación territorial.",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer compras locales transparentes y apoyar economías culturales y creativas.",
+    "que": "Dice que hace falta comprar en el cantón y apoyar economías creativas, urbanas y rurales. El plan no dice cómo ni cuánto.",
+    "v": "media",
+    "n": "Las compras municipales sí le tocan. Crear empleo directamente no le toca.",
+    "cita": "compras locales transparentes y apoyo a economías culturales y creativas tanto en los entornos urbanos como rurales.",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer presupuesto participativo: los vecinos eligen obras y se sigue cada una.",
+    "que": "El plan dice que cada obra se sigue desde que se elige hasta que se entrega y se mantiene. El plan no dice cuánto dinero se destinará.",
+    "v": "alta",
+    "n": "El presupuesto lo maneja el Municipio. El plan no dice qué monto.",
+    "cita": "Presupuesto participativo con trazabilidad desde la priorizeción hasta la entrega y mantenimiento.",
+    "pag": 15
+   }
+  ],
+  "social": [
+   {
+    "t": "Firmar acuerdos de varios años con las 21 parroquias rurales.",
+    "que": "Se firmarán acuerdos con cada parroquia rural y se hará seguimiento conjunto. El plan no dice montos ni plazos.",
+    "v": "media",
+    "n": "Depende de acuerdos con las parroquias y de su dinero. El plan no dice montos.",
+    "cita": "Acuerdos plurienuales con las 21 parroquias rurales y seguimiento conjunta.",
+    "pag": 15
+   }
+  ]
+ },
+ "metas": [
+  "Confirmar líneas base y metas anuales en los primeros cien días de gobierno.",
+  "Informes de avance del plan cada tres meses (trimestral).",
+  "Cierre y evaluación final del plan en 2031."
+ ],
+ "notas": [
+  "Páginas 7 a 12 salieron ilegibles en el texto. Pueden faltar propuestas; revise el plan original en el CNE.",
+  "El plan no dice cuánto costará cada propuesta ni de dónde saldrá el dinero; solo menciona fuentes en general."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16
+ ],
+ "paginas": 16
+}

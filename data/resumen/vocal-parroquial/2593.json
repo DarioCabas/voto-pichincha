@@ -1,0 +1,133 @@
+{
+ "enfoque": "Plan de la junta de Tocachi copiado del plan de desarrollo parroquial: caminos, espacios públicos, minga y productores. Incluye metas de agua, salud y educación que no son de la junta.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Mantener caminos rurales con la Prefectura de Pichincha.",
+    "que": "Metas de 3 km en el año 2 y 16 km más en el año 3, con recursos propios y convenio con la Prefectura. El plan no dice el costo por km.",
+    "v": "media",
+    "n": "Necesita convenio con la Prefectura. Los caminos sí son parte de la junta.",
+    "cita": "Convenio bipartito con el GAD Provincial de Pichincha — Vialidad rural.",
+    "pag": 8
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Mejorar espacios públicos y canchas con el Municipio.",
+    "que": "Metas de 2 espacios en el año 2 y 13 en el año 3. El plan no dice en qué barrios se harán ni cuánto costará.",
+    "v": "media",
+    "n": "Parques y espacios sí son de la junta, pero el convenio es con el Municipio.",
+    "cita": "Convenio con el GAD Municipal de Pedro Moncayo — Espacios públicos.",
+    "pag": 8
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger las fuentes de agua y los páramos de la parroquia.",
+    "que": "Habla de reforestación de cuencas, sin decir dónde ni cuánto costará. El plan no dice qué acciones se harán cada año.",
+    "v": "alta",
+    "n": "Cuidar el ambiente sí le toca a la junta. El plan no dice el costo.",
+    "cita": "Garantizar la sostenibilidad ambiental de Tocachi mediante la protección de fuentes de agua y páramos",
+    "pag": 11
+   }
+  ],
+  "economia": [
+   {
+    "t": "Vender la producción directo al comprador, sin intermediarios.",
+    "que": "El plan dice que cortará a los intermediarios, pero no dice cómo, dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Apoyar a productores sí le toca a la junta.",
+    "cita": "canales de comercialización directa que eliminen la intermediación abusiva",
+    "pag": 11
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas cada tres meses en barrios y comunidades.",
+    "que": "Las reuniones serían trimestrales para hablar de la gestión. El plan no dice cuánto cuesta.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta.",
+    "cita": "Cabildos y asambleas barriales/comunitarias trimestrales (mecanismo de la minga aplicado a la gestión pública).",
+    "pag": 17
+   },
+   {
+    "t": "Crear comités de vigilancia de obras en cada barrio, comunidad y comuna.",
+    "que": "Los vecinos vigilarían cada obra. El plan no dice cuándo se forman ni quién los coordina.",
+    "v": "alta",
+    "n": "Vigilar obras sí es función de la junta.",
+    "cita": "Veedurías ciudadanas y comités de seguimiento de obra por barrio, comunidad y comuna.",
+    "pag": 8
+   },
+   {
+    "t": "Hacer un presupuesto anual donde la ciudadanía decide parte de la inversión.",
+    "que": "El plan no dice qué porcentaje ni cuánto dinero decidirá la gente. Tampoco dice cuándo empieza.",
+    "v": "alta",
+    "n": "Le toca a la junta. El plan no dice el porcentaje.",
+    "cita": "Presupuesto participativo anual, con priorización directa de la ciudadanía sobre un porcentaje de la inversión.",
+    "pag": 17
+   },
+   {
+    "t": "Publicar avances de obras en la cartelera y en canales digitales.",
+    "que": "La publicación sería periódica, pero el plan no dice cada cuánto ni qué costo tiene.",
+    "v": "alta",
+    "n": "Informar a la gente sí le toca a la junta.",
+    "cita": "Publicación periódica de avances en cartelera parroquial y canales digitales",
+    "pag": 17
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar agua, saneamiento y basura con la Prefectura y el Municipio.",
+    "que": "El plan dice que la junta solo gestiona y vigila. No dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Agua, saneamiento y basura le tocan al Municipio u otro nivel, no a la junta.",
+    "cita": "la ampliación de la cobertura de agua, saneamiento y gestión de residuos",
+    "pag": 10
+   }
+  ],
+  "social": [
+   {
+    "t": "Bajar la desnutrición infantil con servicios de nutrición y salud.",
+    "que": "Lo haría junto con el sistema de salud y el ministerio de inclusión social (MIES). El plan no dice cuánto cuesta ni cuándo.",
+    "v": "baja",
+    "n": "Salud y nutrición le tocan a otro nivel, no a la junta.",
+    "cita": "servicios que reduzcan la desnutrición crónica infantil, atiendan a la población",
+    "pag": 10
+   }
+  ]
+ },
+ "metas": [
+  "3 km de vía rural mantenidos en el año 2.",
+  "16 km de vía rural adicionales mantenidos en el año 3.",
+  "2 espacios públicos comunitarios mejorados en el año 2.",
+  "12 rendiciones de cuentas realizadas en el período (anual e intermedia).",
+  "60 productores asociados en el año 4."
+ ],
+ "notas": [
+  "El plan está copiado del plan de desarrollo parroquial y cantonal. Sirve para toda la junta, no solo para el cargo de vocal.",
+  "Hay cifras que no cuadran: 13 espacios públicos en el año 3 y 5 en total en el año 4. El costo total (USD 377.000) es referencial."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19
+ ],
+ "paginas": 19
+}

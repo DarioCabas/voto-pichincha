@@ -1,0 +1,125 @@
+{
+ "enfoque": "Parece copiado del plan de desarrollo del cantón. Propone agua, alcantarillado, calles, mercados y cuidar bosques y ríos, pero no dice dónde ni cuánto cuesta cada obra.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar agua potable, alcantarillado y recogida de basura, sobre todo en las parroquias rurales.",
+    "que": "Presupuesto tentativo de 250.000 en cada uno de los cuatro años. El plan dice que sale sobre todo de recursos municipales. No dice qué obras ni dónde.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué obras se harán primero.",
+    "cita": "mediante el mejoramiento y ampliación de los sistemas de agua potable, alcantarillado y gestión de residuos",
+    "pag": 15
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Recuperar y mantener la red de vías del cantón.",
+    "que": "Presupuesto tentativo de 250.000 por año. La meta es kilómetros de vías mejoradas, sin cifra final. No dice qué vías se arreglarán ni en qué orden.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuántos kilómetros ni qué vías.",
+    "cita": "recuperación y mantenimiento de la red vial cantonal",
+    "pag": 16
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Controlar la división de terrenos rurales y evitar construir en zonas de riesgo.",
+    "que": "La tabla de presupuesto pone cifras tentativas de 80.000 y 100.000 para planes de ordenamiento. El plan no dice cómo se hará el control ni en qué zonas.",
+    "v": "alta",
+    "n": "Uso del suelo y permisos son del Municipio. El plan no dice cuándo.",
+    "cita": "evitando la ocupación de zonas de riesgo y el fraccionamiento descontrolado del suelo rural",
+    "pag": 16
+   }
+  ],
+  "economia": [
+   {
+    "t": "Mejorar los mercados y crear centros de acopio (lugares donde se junta la producción para vender).",
+    "que": "El plan no dice cuánto cuesta ni dónde se harán los centros de acopio. Tampoco dice cómo se pagará.",
+    "v": "alta",
+    "n": "Mercados y venta de productos son del Municipio. Faltan cifra y ubicación.",
+    "cita": "mejorar la infraestructura de comercialización mediante centros de acopio",
+    "pag": 6
+   },
+   {
+    "t": "Dar asistencia técnica y capacitación a pequeños productores y emprendedores.",
+    "que": "Presupuesto tentativo de 80.000 por año para cadenas de productos del campo. El plan no dice qué apoyo concreto dará ni a quién.",
+    "v": "media",
+    "n": "Apoyar productores es posible, pero depende de otras instituciones.",
+    "cita": "promoviendo asistencia técnica, capacitación, acceso a financiamiento, innovación",
+    "pag": 16
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger fuentes de agua, bosques y áreas de conservación del cantón.",
+    "que": "Presupuesto tentativo de 50.000 por año para restaurar y cuidar ecosistemas. El plan no dice qué áreas se protegerán ni cómo.",
+    "v": "media",
+    "n": "Puede hacer parte. Bosques y áreas de conservación dependen también de otros niveles.",
+    "cita": "protección de las fuentes hídricas, bosques, ecosistemas y áreas de conservación del cantón",
+    "pag": 15
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Recuperar espacios públicos y mejorar la iluminación como parte de la prevención de violencia.",
+    "que": "Es una categoría de la matriz de inversión, sin cifra en el plan. El plan no dice qué lugares ni cuánto costará.",
+    "v": "media",
+    "n": "Luz y espacios públicos sí son del Municipio. La vigilancia y la policía no.",
+    "cita": "recuperación de espacios públicos, iluminación, movilidad segura, prevención comunitaria",
+    "pag": 25
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una agenda anual para rendir cuentas en el cantón y en las parroquias.",
+    "que": "Dice que habrá rendiciones cantonales, parroquiales y sectoriales. El plan no dice cuándo son ni cuánto cuesta.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Es un compromiso de proceso, sin costo declarado.",
+    "cita": "Se propone establecer una Agenda Anual de Rendición de Cuentas",
+    "pag": 23
+   }
+  ]
+ },
+ "metas": [
+  "Plan de inversión de cuatro años, con el cuarto año para terminar proyectos y evaluar resultados.",
+  "Presupuesto tentativo de 250.000 por año para agua, alcantarillado y basura.",
+  "Presupuesto tentativo de 250.000 por año para vías del cantón."
+ ],
+ "notas": [
+  "Las cifras de la tabla no dicen moneda ni obra exacta. Muchas metas son solo indicadores, sin número final.",
+  "Seguridad, salud, educación y empleo no son del Municipio. El plan los mezcla con lo que sí le toca."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29
+ ],
+ "paginas": 29
+}

@@ -1,0 +1,120 @@
+{
+ "enfoque": "Plan de 4 años: agua, alcantarillado y basura para la ciudad y los recintos rurales, calles y cuentas públicas. No dice cuánto costará.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Reparar la toma de agua del Río Limón y cambiar tubos dañados.",
+    "que": "Es una obra de emergencia del primer año en el Río Limón. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "El agua potable es competencia del Municipio. Falta el costo.",
+    "cita": "Intervención de emergencia para la repotenciación del sistema de captación en el Río Limón y sustitución de tramos críticos de tubería en mal estado.",
+    "pag": 7
+   },
+   {
+    "t": "Empezar la nueva fase de la planta de agua para sectores alejados del centro.",
+    "que": "Se empieza en el segundo año. El plan no dice cuánto costará ni cuándo terminará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Faltan el costo y la fecha de fin.",
+    "cita": "Iniciar la construcción de la nueva fase de la Planta de Potabilización de Agua para garantizar cobertura continua e higiénica en sectores periféricos.",
+    "pag": 8
+   },
+   {
+    "t": "Llevar alcantarillado y tratamiento de aguas negras a recintos rurales.",
+    "que": "Recintos: La Esperanza, Matilde Esther y San Antonio. Se hace en el segundo año. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "El alcantarillado es competencia del Municipio. Falta el costo.",
+    "cita": "Extensión de redes de alcantarillado sanitario e instalación de sistemas de saneamiento técnico biodigestor en recintos rurales dispersos",
+    "pag": 8
+   },
+   {
+    "t": "Cambiar las rutas y horarios de recolección de basura en la ciudad.",
+    "que": "Se hace en el primer año, en la ciudad y los recintos principales. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "La basura es competencia del Municipio. Falta el costo.",
+    "cita": "Reorganización de las rutas y horarios de recolección de desechos sólidos en el área urbana y recintos principales.",
+    "pag": 7
+   },
+   {
+    "t": "Abrir una planta para separar la basura y un programa de reciclaje.",
+    "que": "Se hace en el tercer año. El plan no dice dónde estará la planta ni cuánto costará.",
+    "v": "alta",
+    "n": "La basura y el reciclaje son del Municipio. Falta el lugar y el costo.",
+    "cita": "Implementación de la planta de separación de desechos sólidos y puesta en marcha del programa municipal de reciclaje inclusivo y compostaje.",
+    "pag": 9
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Pavimentar calles, poner adoquines y hacer aceras en la ciudad.",
+    "que": "Se hace en el tercer año, en la cabecera urbana (la ciudad). El plan no dice qué calles ni cuánto costará.",
+    "v": "alta",
+    "n": "Las calles son competencia del Municipio. Falta el costo.",
+    "cita": "Plan intensivo de pavimentación, adoquinado y aceras en la cabecera urbana",
+    "pag": 9
+   },
+   {
+    "t": "Dar mantenimiento a los caminos rurales para sacar productos del campo.",
+    "que": "Es para el traslado de cacao, caña y banano, en el tercer año. El plan no dice qué caminos ni cuánto costará.",
+    "v": "media",
+    "n": "Los caminos rurales podrían depender de otra entidad. El plan no lo aclara.",
+    "cita": "Mantenimiento preventivo y mejoramiento continuo de la red vial rural para facilitar el traslado de productos agrícolas",
+    "pag": 9
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer obras en el Río Chimbo para evitar inundaciones en recintos rurales.",
+    "que": "Son obras de draga (sacar tierra del fondo) y piedras en puntos débiles, en el primer año. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Prevenir inundaciones es municipal, pero el plan no dice con quién lo hará.",
+    "cita": "Obras de draga y enrocado en puntos vulnerables del Río Chimbo para prevenir inundaciones en recintos rurales.",
+    "pag": 8
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas en barrios y recintos para elegir las obras prioritarias.",
+    "que": "Se activan en el primer año, en barrios y recintos. El plan no dice cuántas asambleas se harán ni con qué dinero.",
+    "v": "alta",
+    "n": "Es un proceso del Municipio. El plan no dice cuántas asambleas habrá.",
+    "cita": "Activación de las Asambleas Cantonales y Presupuestos Participativos en barrios y recintos para la definición de prioridades directas.",
+    "pag": 8
+   },
+   {
+    "t": "Crear un portal de transparencia con contratos, presupuestos y gastos.",
+    "que": "Se publicarán contratos, compras públicas, presupuestos y la nómina municipal, con acceso libre. El plan no dice cuándo estará listo.",
+    "v": "alta",
+    "n": "Es decisión del Municipio. El plan no dice cuánto costará ni cuándo estará.",
+    "cita": "Implementación de un portal de transparencia de acceso libre y simplificado, donde se publicarán periódicamente los contratos, licitaciones",
+    "pag": 10
+   }
+  ]
+ },
+ "metas": [
+  "Año 1: revisar la planta de agua y limpiar el alcantarillado antes de la época de lluvias.",
+  "Año 2: empezar la nueva fase de la planta de agua y extender alcantarillado a recintos rurales.",
+  "Año 3: plan de pavimentación y aceras en la ciudad, y planta de separación de basura.",
+  "Asambleas de rendición de cuentas cada seis meses y cada año.",
+  "Año 4: informe final de rendición de cuentas."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero.",
+  "La mayoría de obras no dicen en qué lugar exacto se harán ni cuándo terminarán."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "paginas": 12
+}

@@ -1,0 +1,102 @@
+{
+ "enfoque": "Plan copiado de uno para concejales (menciona Naranjito). Propone algunas obras viales, de parques y de terrenos, sin costos ni plazos.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer obras de lastre, adoquín o asfalto en vías de zonas pobladas.",
+    "que": "El plan dice que se gestionará la ejecución de estas obras. No dice cuánto costarán, en qué calles ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice de dónde saldrá el dinero.",
+    "cita": "Gestionar la ejecución de proyectos viales que permitan el mejoramiento de las condiciones de circulación peatonal y vehicular por medio del lastrado, adoquinado o asfaltado en zonas pobladas",
+    "pag": 4
+   },
+   {
+    "t": "Dar apoyo al transporte público; el plan no dice qué hará.",
+    "que": "El plan menciona el transporte público solo como sector importante. No dice qué obras, buses ni rutas se harán, ni cuánto costará.",
+    "v": "media",
+    "n": "Sí es tema municipal, pero el plan no dice qué acción tomará.",
+    "cita": "el fortalecimiento del transporte público como sector estratégico para la generación de nuevos polos de desarrollo",
+    "pag": 4
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Dar mantenimiento a parques y áreas verdes.",
+    "que": "El plan dice que se hará el mantenimiento de parques y áreas verdes. No dice en cuáles, con qué dinero ni cada cuánto.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta saber cuánto costará y cuándo.",
+    "cita": "Gestión del mantenimiento de parques y áreas verdes.",
+    "pag": 5
+   },
+   {
+    "t": "Preparar el plan de ordenamiento territorial, que dice cómo se usan los terrenos.",
+    "que": "El plan dice que se gestionará la elaboración de este plan. No dice cuánto costará ni en qué plazo estará listo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuándo estará listo.",
+    "cita": "Gestión para la elaboración del plan de Ordenamiento territorial.",
+    "pag": 5
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Dar servicios públicos de calidad; el plan no dice cuáles.",
+    "que": "El plan no nombra qué servicios públicos se darán. No dice cuánto costarán ni cuándo llegarán.",
+    "v": "media",
+    "n": "Es tema del Municipio, pero el plan no dice qué servicios ni cómo.",
+    "cita": "Gestión para la provisión de servicios públicos de calidad por parte del GAD Municipal",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear ordenanzas para ayudar a asociaciones de economía popular a procesar sus productos.",
+    "que": "El plan dice que las ordenanzas servirán para que las asociaciones procesen productos terminados, no solo materia prima. No dice cuánto costará.",
+    "v": "media",
+    "n": "Las ordenanzas las aprueba el Concejo; el alcalde las puede proponer.",
+    "cita": "Gestionar ordenanzas de Fortalecimiento de las Asociaciones de",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer actividades para atender a grupos que necesitan más ayuda.",
+    "que": "El plan dice que se usarán recursos propios y convenios con el Gobierno Central. No dice qué actividades ni cuánto costarán.",
+    "v": "media",
+    "n": "Depende de convenios con el Gobierno; el plan no dice qué hará.",
+    "cita": "Gestionar diferentes actividades para atender las necesidades de los grupos de atención prioritaria",
+    "pag": 4
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer que agricultores usen prácticas que cuiden el ambiente.",
+    "que": "El plan no dice qué prácticas, con qué agricultores ni cómo se hará. No es una tarea que la ley le dé directamente al Municipio.",
+    "v": "baja",
+    "n": "No es competencia directa del Municipio; el plan no dice cómo.",
+    "cita": "Gestión para que los agricultores realicen prácticas productivas comunitarias preservando el ambiente y la biodiversidad",
+    "pag": 5
+   }
+  ]
+ },
+ "metas": [
+  "Informe público de gestión en el 100 % de los años del periodo 2027-2031."
+ ],
+ "notas": [
+  "Este plan parece copiado de uno para concejales: habla de concejales y de Naranjito, que no es El Empalme.",
+  "No dice cuánto costará ninguna obra ni de dónde saldrá el dinero. La mayoría de propuestas empiezan con \"gestionar\"."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "paginas": 10
+}

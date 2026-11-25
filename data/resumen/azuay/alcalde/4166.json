@@ -1,0 +1,130 @@
+{
+ "enfoque": "Obras de agua y alcantarillado, calles, aceras, parques, mercado y basura, casi todas tomadas del plan de desarrollo del cantón. No dice cuánto cuestan.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Estudiar y construir por etapas el colector de aguas servidas de San Ignacio a Chicti.",
+    "que": "Incluye estudios, trámites de terrenos y permisos, y se hará por tramos. El plan no dice cuánto costará ni cuándo termina.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto cuesta ni cómo se paga.",
+    "cita": "Actualizar estudios y construir por etapas el colector de aguas servidas.",
+    "pag": 7
+   },
+   {
+    "t": "Hacer estudios y construir o mejorar la planta que trata el agua usada del centro urbano.",
+    "que": "Incluye analizar opciones, elegir el terreno y pedir licencia ambiental y financiamiento. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de financiamiento. El plan no dice costos.",
+    "cita": "la solución de tratamiento para el centro urbano.",
+    "pag": 8
+   },
+   {
+    "t": "Revisar y ampliar el agua potable de Bulán, cuidando calidad y continuidad.",
+    "que": "Lo harán con la junta de agua, el gobierno de la parroquia y la autoridad del agua. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de la junta de agua y de la parroquia. El plan no dice costos.",
+    "cita": "Diagnosticar, actualizar estudios y fortalecer/ampliar el sistema, priorizando calidad, continuidad y sostenibilidad.",
+    "pag": 9
+   },
+   {
+    "t": "Probar y luego ampliar la recolección segura de basura en casas urbanas y rurales.",
+    "que": "Empieza con pilotos, una ordenanza y educación. El plan no dice cuánto costará ni cuándo llegará a todos los hogares.",
+    "v": "alta",
+    "n": "La basura le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Implementar progresivamente dispositivos y soluciones diferenciadas para residuos en sectores urbanos y rurales.",
+    "pag": 8
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Estudiar y alargar la avenida Luis Enrique Vásquez desde Zhumir hacia El Cabo.",
+    "que": "Incluye prefactibilidad, trazado, diseños y fases. Llega hasta donde lo permita el estudio. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Las vías urbanas le tocan al Municipio. El plan no dice cuánto costará.",
+    "cita": "Estudiar y ejecutar la prolongación desde Zhumir hacia El Cabo hasta donde la factibilidad determine.",
+    "pag": 8
+   },
+   {
+    "t": "Revisar la accesibilidad de las aceras urbanas de Paute y hacer un plan anual de obras.",
+    "que": "Incluye ensanchar aceras, poner iluminación y quitar barreras. El plan no dice cuánto costará ni cuándo termina.",
+    "v": "alta",
+    "n": "Las aceras le tocan al Municipio. El plan no dice cuánto costará.",
+    "cita": "Auditoría de accesibilidad y plan anual de intervención.",
+    "pag": 8
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar el Parque Central y los parques lineales, con más árboles, seguridad y acceso.",
+    "que": "Se hará con diseño participativo y mantenimiento. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Los parques le tocan al Municipio. El plan no dice cuánto costará.",
+    "cita": "Regenerar espacios con accesibilidad, arborización, seguridad, recreación y protección ribereña.",
+    "pag": 8
+   }
+  ],
+  "economia": [
+   {
+    "t": "Estudiar y, si es viable, construir un mercado mayorista.",
+    "que": "Primero estudios de demanda, ubicación y forma de gestión. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Los mercados sí le tocan al Municipio, pero depende de estudios y alianzas.",
+    "cita": "Realizar estudios de demanda, localización y modelo de gestión; construir si es viable.",
+    "pag": 8
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Coordinar el Consejo de Seguridad y acciones preventivas de convivencia.",
+    "que": "El plan no dice qué acciones concretas ni cuánto costarán.",
+    "v": "baja",
+    "n": "La policía no le toca al Municipio; solo puede coordinar.",
+    "cita": "Fortalecer el Consejo de Seguridad y la coordinación preventiva.",
+    "pag": 10
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Actualizar el mapa de riesgos del cantón y hacer estudios en zonas críticas.",
+    "que": "El PDOT prioriza estudios en sectores como Llapzhún, Cristo del Consuelo, Bellavista, Uzhupud y Tomebamba. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Mapa cantonal actualizado; estudios y medidas en zonas críticas; protocolos y simulacros.",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Tener diagnóstico del 100 % de proyectos priorizados en 2027.",
+  "Publicar tablero público desde 2027.",
+  "Informe trimestral de gestión cada tres meses.",
+  "Evaluación de medio término en el segundo semestre de 2029.",
+  "Informe final de gestión en el primer trimestre de 2031."
+ ],
+ "notas": [
+  "Casi todas las obras vienen del plan de desarrollo del cantón. El plan no da costos; dice que se verán con estudios y presupuesto.",
+  "Varias obras dependen de convenios, préstamos o del Gobierno. La seguridad y la policía no le tocan al Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "paginas": 18
+}

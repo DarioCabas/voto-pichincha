@@ -1,0 +1,123 @@
+{
+ "enfoque": "Plan de Pintag con calles, aceras, parques, cuidado ambiental y apoyo a agricultores. Varias propuestas son de otros niveles y no dice cuánto cuesta.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer un plan de bacheo y mantener los caminos vecinales de la parroquia.",
+    "que": "Se haría con convenios y presión ante el Municipio de Quito. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "media",
+    "n": "Los caminos los cuida la junta con la Prefectura; el bacheo pide acuerdo con el Municipio.",
+    "cita": "Ejecución de un plan emergente de bacheo, mantenimiento",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Gestionar con el Municipio las aceras de las calles principales de la parroquia.",
+    "que": "El plan dice que se hará mediante el Municipio de Quito y la Prefectura de Pichincha. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio y la Prefectura; la junta solo puede gestionarlo.",
+    "cita": "Gestionar las aceras de las calles principales de la parroquia mediante el Municipio",
+    "pag": 6
+   },
+   {
+    "t": "Recuperar espacios verdes para uso de la población de la parroquia.",
+    "que": "El plan dice que hoy este punto es nulo en la parroquia. No dice qué terrenos usará, cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "Parques y espacios verdes sí le tocan a la junta; falta saber los terrenos.",
+    "cita": "Recuperar espacios verdes para uso de la población",
+    "pag": 4
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer campañas de reciclaje a cargo de la junta parroquial.",
+    "que": "El plan dice que la campaña de reciclaje estará a cargo del Gobierno Parroquial. No dice cuánto costará ni cuándo empieza.",
+    "v": "alta",
+    "n": "Organizar campañas es trabajo de la junta.",
+    "cita": "Campaña de reciclaje a cargo del Gobierno Parroquial",
+    "pag": 4
+   },
+   {
+    "t": "Sembrar árboles nativos con estudiantes y vecinos de la parroquia.",
+    "que": "El plan dice que será con estudiantes y todos los habitantes. No dice dónde, cuántos árboles ni cuánto costará.",
+    "v": "alta",
+    "n": "Siembras y mingas las puede organizar la junta.",
+    "cita": "Trabajos de forestación y reforestación con especies nativas con la participación de",
+    "pag": 4
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Organizar charlas de prevención en los barrios sobre seguridad.",
+    "que": "El plan no dice quién las dará, cuándo ni cuánto costará. Busca la prevención y la seguridad entre vecinos.",
+    "v": "media",
+    "n": "Las charlas sí puede organizarlas la junta; la seguridad le toca a la Policía.",
+    "cita": "Planificar charlas de seguridad en los barrios con énfasis en la prevención",
+    "pag": 5
+   },
+   {
+    "t": "Crear una partida de dinero para mantener los vehículos de la Policía.",
+    "que": "El plan no dice de dónde saldrá el dinero ni cuánto costará.",
+    "v": "baja",
+    "n": "La Policía es de otro nivel; la junta tiene poco presupuesto.",
+    "cita": "Implantar o crear una partida presupuestaria para ayuda en mantenimiento al",
+    "pag": 5
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir a la Secretaría de Aguas que amplíe el alcantarillado en zonas lejanas.",
+    "que": "El plan dice que se hará con la Secretaría de Aguas en zonas lejanas. No dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Agua y alcantarillado le tocan a otro nivel; la junta solo puede pedirlo.",
+    "cita": "Gestionando con la Secretaría de Aguas la ampliación de alcantarillados en zonas",
+    "pag": 6
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar charlas y cursos a pequeños y medianos agricultores y ganaderos.",
+    "que": "El plan dice que es para mejorar sus productos. No dice dónde, cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "Apoyar a productores sí le toca a la junta.",
+    "cita": "Apoyo a los pequeños, medianos agricultores y ganaderos con charlas y cursos para",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Proponer veedurías ciudadanas, sin vínculo familiar con la junta.",
+    "que": "Veedurías son grupos de vecinos que vigilan el trabajo de la junta. El plan no dice cómo se formarán ni cuándo.",
+    "v": "alta",
+    "n": "La junta puede proponerlo; el plan no dice cómo se forman.",
+    "cita": "Proponer la conformación de veedurías ciudadanas, sin vínculo familiar a la administración",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "Que la quinta parte de los comercios y viviendas de la cabecera separe sus residuos orgánicos.",
+  "Ejecutar el plan durante los próximos 4 años.",
+  "Periodo del plan de trabajo: 2027-2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto cuesta ninguna propuesta ni de dónde saldrá el dinero.",
+  "Varias propuestas son de agua, alcantarillado, policía o colegios, que no son de la junta. Las portadas dicen 2026 y 2024."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "paginas": 11
+}

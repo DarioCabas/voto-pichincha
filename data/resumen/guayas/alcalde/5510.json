@@ -1,0 +1,150 @@
+{
+ "enfoque": "Plan de 15 proyectos: hospital, agua y caminos rurales, cámaras, becas y buses eléctricos. Cuesta USD 109.857.182,40 y depende sobre todo de préstamos y alianzas.",
+ "tabla": {
+  "otros": [
+   {
+    "t": "Construir el Hospital Municipal y arreglar el Centro Santa Ana",
+    "que": "El plan pone USD 1.000.000 como aporte del Municipio para la primera fase. El equipo médico vendría por convenio con el Ministerio de Salud (MSP) y el Banco de Desarrollo (BDE).",
+    "v": "baja",
+    "n": "La salud no le toca al Municipio; el hospital depende del Ministerio de Salud.",
+    "cita": "contempla avanzar con la construcción del nuevo Hospital Municipal del cantón",
+    "pag": 14
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Construir una planta de agua potable en Cerro Madope",
+    "que": "Cuesta USD 32.000.000. Se pagaría con un crédito de la CAF (banco internacional). Año 1: estudios. Meta: planta al 100% en el año 3.",
+    "v": "media",
+    "n": "Es del Municipio, pero depende de un crédito de la CAF sujeto a aprobación.",
+    "cita": "Planta de Agua Potable Cerro Madope (Macroinversión): USD 32.000.000,00.",
+    "pag": 18
+   },
+   {
+    "t": "Llevar agua y letrinas a los recintos rurales",
+    "que": "Cuesta USD 300.124,05. Para los recintos más dispersos, el plan pone biodigestores (equipos para tratar aguas servidas).",
+    "v": "alta",
+    "n": "Agua y saneamiento sí le tocan al Municipio, y el costo está en el plan.",
+    "cita": "Abastecimiento a Recintos Rurales y Letrinización: USD 300.124,05.",
+    "pag": 30
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar 120 km de caminos vecinales del campo",
+    "que": "Cuesta USD 600.000. El plan no dice en qué orden se harían los recintos ni en qué año.",
+    "v": "alta",
+    "n": "Vialidad rural le toca al Municipio, y el plan da el costo.",
+    "cita": "Reconformación y Relleno de Caminos Vecinales Rurales (120 km):",
+    "pag": 32
+   },
+   {
+    "t": "Construir puentes sobre los ríos Babahoyo y Los Tintos",
+    "que": "Es una obra a largo plazo. En el año 4 el plan solo termina los estudios del puente. El plan no dice cuánto cuesta.",
+    "v": "media",
+    "n": "Vialidad es del Municipio, pero el plan no da costo ni fuente de pago.",
+    "cita": "carrozables y peatonales sobre el río Babahoyo y Los Tintos, conectando recintos",
+    "pag": 13
+   },
+   {
+    "t": "Comprar buses eléctricos (Sambo Trolley) para el transporte público",
+    "que": "Cuesta USD 1.200.000. Año 1: incorporar la flota. Se pagaría con un crédito del BID (banco) y alianzas con operadoras privadas.",
+    "v": "media",
+    "n": "Buses sí le tocan al Municipio, pero dependen de un préstamo y de privados.",
+    "cita": "Sistema de Buses Eléctricos (Sambo Trolley): USD 1.200.000,00.",
+    "pag": 32
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar cámaras con inteligencia artificial para vigilar la ciudad",
+    "que": "Cuesta USD 5.700.000 y lo maneja la empresa municipal ATV. Año 4: se conecta con la Policía Nacional y el ECU-911 (emergencias).",
+    "v": "media",
+    "n": "Lo puede hacer el Municipio con ATV, pero la integración con la policía no le toca.",
+    "cita": "Sistema Integrado de Vigilancia Ciudadana (ATV): USD 5.700.000,00.",
+    "pag": 28
+   },
+   {
+    "t": "Hacer patrullaje fluvial en los ríos",
+    "que": "Cuesta USD 2.340.000 y el plan lo pone para el año 3. Se equiparía a la Policía Municipal.",
+    "v": "baja",
+    "n": "Patrullar es trabajo de la policía, no del Municipio.",
+    "cita": "Año 3: Equipamiento de la Policía Municipal e intensificación del patrullaje fluvial.",
+    "pag": 24
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear el programa Somos Valiosas para mujeres",
+    "que": "Cuesta USD 200.000. Incluye microcréditos, asesoría legal y prevención de violencia. Meta: 200 mujeres atendidas al año.",
+    "v": "alta",
+    "n": "Proteger a grupos prioritarios sí le toca al Municipio; el plan da el costo.",
+    "cita": "orientado al empoderamiento económico, prevención de la violencia intrafamiliar y",
+    "pag": 25
+   },
+   {
+    "t": "Abrir centros diurnos para adultos mayores",
+    "que": "Cuesta USD 935.019,73 con dinero del MIES (ministerio del Gobierno para inclusión social). Meta: 700 adultos mayores atendidos.",
+    "v": "media",
+    "n": "Cuidar adultos mayores sí es del Municipio, pero el dinero viene del Gobierno.",
+    "cita": "Convenio MIES - GAD \"Mis Años Dorados\": USD 935.019,73.",
+    "pag": 26
+   }
+  ]
+ },
+ "metas": [
+  "Hospital Municipal y Centro Santa Ana: obra al 100% en el año 3.",
+  "Planta de agua de Cerro Madope: 100% ejecutada al año 3.",
+  "Agua por red en Tarifa y recintos: 100% de cobertura (el plan no pone año).",
+  "Reducir 25% los delitos incidentales.",
+  "Adultos mayores atendidos en centros diurnos: 700."
+ ],
+ "notas": [
+  "Varias propuestas son de salud, educación o policía, que no le tocan al Municipio. El plan las mezcla con obras municipales.",
+  "El plan no tiene caja asegurada: gran parte depende de préstamos (CAF, BDE, BID) y alianzas privadas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40
+ ],
+ "paginas": 40
+}

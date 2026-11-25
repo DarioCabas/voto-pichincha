@@ -1,0 +1,113 @@
+{
+ "enfoque": "Plan general: calles, agua, espacios públicos, turismo y ambiente. Casi no tiene cifras ni plazos, e incluye temas que no son del Municipio.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar y asfaltar vías urbanas priorizadas, con obras complementarias.",
+    "que": "El plan no dice qué vías ni cuánto costará. Tampoco dice en qué plazo se harán.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice qué vías ni cuánto cuesta.",
+    "cita": "Se continuará con la gestión e intervención progresiva de vías urbanas priorizadas, incluyendo procesos de mejoramiento, asfaltado,",
+    "pag": 4
+   },
+   {
+    "t": "Hacer estudios para un terminal terrestre y para mejorar el cementerio.",
+    "que": "Solo son estudios para decidir dónde y cómo hacerlos. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero por ahora son solo estudios sin fecha.",
+    "cita": "Se promoverá el levantamiento de estudios y gestiones necesarias para definir la factibilidad, ubicación y condiciones técnicas de equipamientos estratégicos,",
+    "pag": 4
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Dar seguimiento al agua en las comunidades y aplicar planes de agua y alcantarillado.",
+    "que": "El plan no dice en qué comunidades ni cuánto costará. Tampoco dice en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Se dará continuidad a la gestión de sistemas de agua en las comunidades del cantón,",
+    "pag": 3
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Desarrollar poco a poco un vivero municipal de plantas forestales, frutales y hortalizas.",
+    "que": "El plan no dice dónde ni cuánto costará. Serían para forestación, huertos familiares y seguridad alimentaria.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice dónde ni cuánto costará.",
+    "cita": "Se impulsará el desarrollo progresivo de un vivero municipal orientado a la producción de plantas forestales,",
+    "pag": 5
+   },
+   {
+    "t": "Conservar y restaurar humedales y zonas de agua junto con otras instituciones.",
+    "que": "El plan no dice qué zonas ni cuánto costará. Dice que trabajará con instituciones y vecinos.",
+    "v": "media",
+    "n": "Depende de otras instituciones y el plan no dice cuánto costará.",
+    "cita": "Se fortalecerán las acciones de conservación y restauración ecológica en humedales, zonas de recarga y fuentes de",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Mejorar veredas (aceras), bordillos y espacios públicos en sectores priorizados.",
+    "que": "El plan no dice qué sectores ni cuánto costará. Incluye accesibilidad y circulación peatonal.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué sectores ni cuánto costará.",
+    "cita": "Se impulsarán procesos de regeneración urbana en sectores priorizados, orientados a la integración del espacio público, mejoramiento de veredas,",
+    "pag": 4
+   },
+   {
+    "t": "Actualizar herramientas tecnológicas para planificar el uso del suelo.",
+    "que": "El plan no dice qué herramientas, cuánto costará ni para cuándo estarán listas.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "con el fin de mejorar la gestión del suelo, la toma de decisiones y el",
+    "pag": 3
+   },
+   {
+    "t": "Dar mantenimiento y mejorar espacios públicos, comunitarios y deportivos.",
+    "que": "El plan no dice qué espacios ni cuánto costará. Habla de mantenimiento, adecuación y mejoramiento.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué espacios ni cuánto costará.",
+    "cita": "Se continuará impulsando el mantenimiento, adecuación y mejoramiento de equipamientos públicos, comunitarios",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Equipar y poner en funcionamiento el camal municipal (matadero).",
+    "que": "El plan no dice cuánto costará ni cómo se pagará. Pide coordinar con otras instituciones.",
+    "v": "media",
+    "n": "Es municipal, pero depende de gestiones y el plan no dice cuánto cuesta.",
+    "cita": "Se gestionará la consolidación del equipamiento y funcionamiento del camal municipal, como infraestructura",
+    "pag": 5
+   },
+   {
+    "t": "Acompañar cinco rutas turísticas: Pachamama, Piedra Movedora, Pallcurco, Kingo y Ecoparque.",
+    "que": "El plan no dice qué apoyo concreto dará ni cuánto costará. Pide coordinar con comunidades y privados.",
+    "v": "media",
+    "n": "Depende de comunidades y privados; el plan no dice cuánto costará.",
+    "cita": "Se priorizará el acompañamiento a rutas y experiencias con potencial turístico, como la Ruta",
+    "pag": 5
+   }
+  ]
+ },
+ "metas": [
+  "Visión de desarrollo al año 2031.",
+  "Rendición de cuentas una vez al año."
+ ],
+ "notas": [
+  "Casi no hay cifras de costo ni plazos. La mayoría de frases dicen \"se impulsará\" o \"se fortalecerá\" sin detalle.",
+  "Incluye temas de otros niveles, como minería y centros de desarrollo infantil (CDI). El Municipio no los decide."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "paginas": 6
+}

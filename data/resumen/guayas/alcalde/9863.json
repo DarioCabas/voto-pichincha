@@ -1,0 +1,107 @@
+{
+ "enfoque": "Obras de agua, alcantarillado, calles, basura, uso del suelo y parques. Cada obra depende de estudios y dinero; no dice cuánto costará ni cuándo.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar agua potable, alcantarillado y drenaje de aguas lluvias.",
+    "que": "El plan no dice en qué barrios ni cuánto costará. Dice que cada obra necesita estudios, permisos y presupuesto.",
+    "v": "alta",
+    "n": "Agua y alcantarillado son del Municipio. Falta costo y fecha.",
+    "cita": "Ampliar y mejorar agua segura, alcantarillado sanitario, drenaje pluvial y tratamiento.",
+    "pag": 9
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar vías urbanas y rurales, poner señales y ordenar el transporte.",
+    "que": "El plan no dice qué calles ni cuánto costará. Tampoco dice cuándo se harán.",
+    "v": "alta",
+    "n": "Calles, señales y transporte son del Municipio. Falta costo y fecha.",
+    "cita": "Mejorar la movilidad, vialidad urbana y rural, accesibilidad, señalización y transporte.",
+    "pag": 9
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Manejar mejor la basura, mantener playas limpias y cuidar árboles.",
+    "que": "El plan no dice cuántos camiones ni en qué sectores. Tampoco dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Basura y limpieza de playas son del Municipio. Falta costo.",
+    "cita": "Fortalecer la gestión de residuos, playas limpias, arbolado y protección de ecosistemas.",
+    "pag": 9
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar las reglas de uso del suelo y regularizar barrios informales viables.",
+    "que": "Plan de uso del suelo: decidir dónde se puede construir y proteger zonas de riesgo. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "El uso del suelo es competencia municipal. Falta plazo.",
+    "cita": "Actualizar y aplicar el PUGS, regularizar asentamientos viables y proteger zonas de riesgo.",
+    "pag": 9
+   },
+   {
+    "t": "Recuperar espacios públicos con luz, deporte y cultura.",
+    "que": "El plan no dice qué parques ni cuánto costará. Tampoco dice en qué año se harán.",
+    "v": "alta",
+    "n": "Parques, luz y deporte son del Municipio. Falta costo y fecha.",
+    "cita": "Recuperar espacios públicos con iluminación, deporte, cultura y prevención comunitaria.",
+    "pag": 9
+   }
+  ],
+  "economia": [
+   {
+    "t": "Promover turismo durante todo el año, pesca responsable y emprendimientos.",
+    "que": "El plan no dice qué acciones concretas hará la Alcaldía ni cuánto costará.",
+    "v": "media",
+    "n": "Promover turismo y pesca depende también de Prefectura y Gobierno.",
+    "cita": "Impulsar turismo sostenible durante todo el año, pesca responsable, gastronomía y emprendimiento.",
+    "pag": 9
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Modernizar trámites, catastro, cobro de impuestos y datos abiertos.",
+    "que": "El plan no dice qué trámites ni en qué plazo. Dice que la gestión se hará con resultados medibles.",
+    "v": "alta",
+    "n": "Trámites, catastro y cobro de impuestos son del Municipio.",
+    "cita": "Modernizar trámites, catastros, recaudación, datos abiertos y control por resultados.",
+    "pag": 9
+   },
+   {
+    "t": "Responder en público a las observaciones de los vecinos sobre las obras.",
+    "que": "Cada reporte incluirá obras, presupuesto y contratistas. El plan no dice cuántos días tendrá el plazo de seguimiento.",
+    "v": "alta",
+    "n": "Es decisión del propio Municipio. Falta el plazo exacto.",
+    "cita": "Las observaciones ciudadanas recibirán respuesta pública y plazo de seguimiento.",
+    "pag": 11
+   }
+  ]
+ },
+ "metas": [
+  "Rendición de cuentas formal una vez al año, entre 2027 y 2031.",
+  "Asambleas territoriales en barrios, comunas y recintos cada trimestre."
+ ],
+ "notas": [
+  "Gran parte del texto repite el plan de desarrollo y uso del suelo del cantón. Casi no trae costos ni fechas.",
+  "El texto llega solo hasta la página 14. Faltan el banco de proyectos y las metas que indica el índice."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14
+ ],
+ "paginas": 14
+}

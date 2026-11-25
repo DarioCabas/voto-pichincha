@@ -1,0 +1,103 @@
+{
+ "enfoque": "Plan general: calles, agua, basura, espacios públicos y apoyo a productores. No dice cuánto costará ni cuándo se hará.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Construir, mejorar y mantener calles y caminos urbanos y rurales del cantón.",
+    "que": "El plan dice que se hará la construcción, mejora y mantenimiento de vías urbanas y rurales. No dice qué calles ni cuánto costará.",
+    "v": "alta",
+    "n": "Es competencia municipal. El plan no dice qué calles ni cuánto costará.",
+    "cita": "Gestionar la construcción, mejoramiento y mantenimiento de la infraestructura vial urbana y rural de competencia municipal",
+    "pag": 4
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar y mejorar los servicios públicos básicos de competencia municipal.",
+    "que": "El plan no dice en qué barrios ni cuánto costará. Dice que se ampliará progresivamente, sin fecha.",
+    "v": "alta",
+    "n": "Es competencia del Municipio, pero el plan no dice dónde ni cuánto.",
+    "cita": "Ampliar y mejorar progresivamente la cobertura y calidad de los servicios públicos básicos de competencia municipal",
+    "pag": 5
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer acciones para prevenir y responder ante desastres en el cantón.",
+    "que": "El plan habla de prevenir, preparar y responder ante eventos adversos. No dice qué obras ni cuánto costará.",
+    "v": "alta",
+    "n": "Prevenir desastres es competencia municipal. Falta detalle y costo.",
+    "cita": "Fortalecer el sistema Cantonal de Gestión de Riesgos mediante acciones de prevención, preparación, respuesta y recuperación ante eventos adversos",
+    "pag": 10
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Mejorar y mantener obras municipales para deporte, cultura y recreación.",
+    "que": "El plan no dice qué lugares ni cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Espacios públicos son del Municipio. Sin lugares ni plazos.",
+    "cita": "Mejorar y mantener la infraestructura municipal destinada a actividades sociales, culturales, deportivas y recreativas",
+    "pag": 8
+   },
+   {
+    "t": "Hacer la planificación del uso del suelo para atraer inversiones al cantón.",
+    "que": "El plan no dice qué zonas ni cómo se haría. Busca que las inversiones ayuden a la economía del cantón.",
+    "v": "alta",
+    "n": "El uso del suelo es del Municipio. El plan no dice qué zonas ni plazos.",
+    "cita": "Fortalecer la planificación territorial para impulsar inversiones que favorezcan el desarrollo económico sostenible del cantón",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Promover espacios permanentes para vender productos agrícolas, pecuarios y artesanales.",
+    "que": "El plan no dice dónde ni cuánto costará. Incluye productos del campo, artesanías y emprendimientos del cantón.",
+    "v": "alta",
+    "n": "Los mercados son del Municipio. El plan no dice dónde ni cuánto costará.",
+    "cita": "Promover espacios permanentes para la comercialización de productos agrícolas, pecuarios, artesanales y de emprendimientos locales",
+    "pag": 4
+   },
+   {
+    "t": "Mejorar infraestructura productiva y de apoyo a la actividad económica local.",
+    "que": "El plan no dice qué obras ni dónde ni cuánto costará. Pide coordinar con el Gobierno Central y el Gobierno Provincial.",
+    "v": "media",
+    "n": "Depende de otros niveles de gobierno. El plan no dice cuánto costará.",
+    "cita": "Ejecutar proyectos de mejoramiento de la infraestructura productiva y de apoyo a la actividad económica local",
+    "pag": 4
+   },
+   {
+    "t": "Buscar dinero y asistencia técnica con alianzas nacionales e internacionales.",
+    "que": "El plan no dice qué monto ni qué proyectos. Depende de organismos externos.",
+    "v": "media",
+    "n": "Depende de otras entidades. El plan no dice cuánto se conseguiría.",
+    "cita": "Gestionar recursos financieros y asistencia técnica mediante alianzas estratégicas con organismos nacionales e internacionales",
+    "pag": 5
+   }
+  ]
+ },
+ "metas": [
+  "Rendición de cuentas una vez al año.",
+  "Programas sociales durante los cuatro años de gestión."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni en qué plazo se hará, salvo la rendición de cuentas anual.",
+  "Gran parte del texto es general y repite objetivos. Varias propuestas dependen del Gobierno Central o del Gobierno Provincial."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "paginas": 12
+}

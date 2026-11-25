@@ -1,0 +1,160 @@
+{
+ "enfoque": "Sigue el plan de la ciudad 2023-2027. Propone agua, drenaje contra inundaciones, parques, buses y vías, pero no dice cuánto costará.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Reducir las inundaciones urbanas con el programa Plan Choque.",
+    "que": "Es parte del plan de la gestión 2023-2027 y se haría en los años 1 a 4. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (lluvias y drenaje). El plan no dice el costo.",
+    "cita": "Programa “Plan Choque” para la reducción de inundaciones urbanas",
+    "pag": 40
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar las redes de agua potable por tubería.",
+    "que": "El plan no dice en qué barrios ni cuánto costará. Se pagaría con dinero propio, créditos y convenios.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Faltan barrios y costo.",
+    "cita": "Ampliación de redes de Agua Potable por tubería.",
+    "pag": 40
+   },
+   {
+    "t": "Ampliar la capacidad de las plantas que tratan el agua servida.",
+    "que": "Serviría para tratar más aguas de desagüe antes de soltarlas. El plan no dice cuánto costará ni en qué año.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice costo ni fecha.",
+    "cita": "Ampliación de la capacidad de plantas de tratamiento de agua servidas en Guayaquil",
+    "pag": 34
+   },
+   {
+    "t": "Crear un programa de reciclaje con separación de basura por barrio.",
+    "que": "La basura se separaría desde la casa, barrio por barrio. El plan no dice cuánto costará ni cuándo empieza.",
+    "v": "alta",
+    "n": "La basura le toca al Municipio. Faltan costo y fecha.",
+    "cita": "Programa de reciclaje y separación en la fuente por barrio.",
+    "pag": 39
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar parques, plazas, malecones y calles en zonas ya construidas.",
+    "que": "Se haría en áreas ya consolidadas (ya urbanizadas). El plan no dice cuáles zonas ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Faltan zonas y costo.",
+    "cita": "Programa de mejoramiento urbano del espacio público en áreas consolidadas – parques, plazas, malecones, y vías",
+    "pag": 40
+   },
+   {
+    "t": "Construir parques urbanos nuevos con el programa Calle por Parques.",
+    "que": "El plan no dice cuántos parques ni en qué barrios. Tampoco dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no da cifras.",
+    "cita": "Programa de construcción de nuevos parques urbanos – Calle por Parques.",
+    "pag": 40
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Ampliar la red de troncales de la Metrovía.",
+    "que": "El plan no dice cuántas troncales ni cuánto costará. Se pagaría con crédito, convenios y operadores.",
+    "v": "media",
+    "n": "Depende de créditos y convenios, no solo del Municipio.",
+    "cita": "Programa de ampliación y mejoramiento de la red de troncales de la metro vía",
+    "pag": 40
+   },
+   {
+    "t": "Mejorar los buses del transporte público masivo.",
+    "que": "El plan no dice cuántos buses ni cuánto costará. Se pagaría con dinero municipal, crédito y operadores.",
+    "v": "media",
+    "n": "Depende de los operadores de buses y de créditos.",
+    "cita": "Programa de mejoramiento de buses de transporte público masivo",
+    "pag": 40
+   },
+   {
+    "t": "Crear una red de ciclovías que conecte universidades y espacios públicos.",
+    "que": "El plan no dice cuántos kilómetros ni cuánto costará. Tampoco dice en qué años se haría.",
+    "v": "alta",
+    "n": "Le toca al Municipio (calles y movilidad). Falta el costo.",
+    "cita": "Programa de la red urbana de ciclovías en la zona urbana de Guayaquil que",
+    "pag": 40
+   },
+   {
+    "t": "Construir pasos a desnivel, túnel y ensanchar vías en la Vía a la Costa.",
+    "que": "El plan no dice cuánto costará ni en qué años. Pide también al Gobierno central y a gobiernos locales vecinos.",
+    "v": "media",
+    "n": "Depende también del Gobierno central y de otros gobiernos locales.",
+    "cita": "Construcción de pasos a desnivel, ensanchamiento de vías, construcción de túnel",
+    "pag": 40
+   }
+  ]
+ },
+ "metas": [
+  "Lograr la recuperación de los espacios naturales de la ciudad en 4 años.",
+  "Beneficiar a 10.000 deportistas de los sectores más vulnerables en 12 meses.",
+  "Incrementar la cobertura de servicios municipales en 12 meses.",
+  "Ejecutar proyectos de agua, alcantarillado y tratamiento en los años 1 a 4."
+ ],
+ "notas": [
+  "Casi todo viene del plan de la ciudad 2023-2027 y de la gestión anterior. Los costos de los proyectos están \"por determinar\".",
+  "Incluye salud, seguridad y empleo, que no son competencia del Municipio. Aquí solo se evalúan las propuestas municipales.",
+  "Plan muy largo (69 págs.): se resumieron las 52 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  11,
+  14,
+  15,
+  16,
+  18,
+  19,
+  20,
+  24,
+  26,
+  27,
+  28,
+  30,
+  31,
+  32,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61,
+  62,
+  63,
+  64,
+  65,
+  66,
+  67
+ ],
+ "paginas": 69
+}

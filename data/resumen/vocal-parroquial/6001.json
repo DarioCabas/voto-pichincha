@@ -1,0 +1,154 @@
+{
+ "enfoque": "Cuidar el llaló y las quebradas, hacer ferias y cursos para productores, mejorar parques y caminos, y organizar actividades comunitarias. Frases tomadas del plan de desarrollo parroquial.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Reforestar zonas degradadas, proteger quebradas y hacer campañas ambientales.",
+    "que": "El plan habla de reforestar zonas degradadas, proteger quebradas y hacer campañas permanentes de educación ambiental. El plan no dice cuánto costará ni dónde.",
+    "v": "alta",
+    "n": "Cuidar el ambiente sí le toca a la junta. El plan no dice cuánto costará.",
+    "cita": "Reforestación de zonas degradadas. Recuperación y protección de quebradas. Campañas permanentes de educación ambiental.",
+    "pag": 15
+   },
+   {
+    "t": "Hacer un programa permanente para recuperar el llaló y sus quebradas.",
+    "que": "El plan dice que habrá intervención progresiva en zonas prioritarias del llaló y quebradas. No dice cuáles zonas ni cuánto costará.",
+    "v": "media",
+    "n": "Puede necesitar acuerdo con el Municipio. El plan no dice cuánto costará.",
+    "cita": "Contar con un programa parroquial permanente de recuperación ambiental, con intervención progresiva en zonas prioritarias del llaló y quebrados.",
+    "pag": 15
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias productivas y una feria permanente para productores locales.",
+    "que": "El plan habla de ferias productivas parroquiales y de una feria permanente de productores locales. No dice dónde, cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "Ferias para productores sí le tocan a la junta. El plan no dice costo.",
+    "cita": "Ferias productivas parroquiales. Feria permanente de productores locales. Capacitación para emprendimientos.",
+    "pag": 15
+   },
+   {
+    "t": "Dar cursos a emprendedores y ayudar a productores a vender sus productos.",
+    "que": "El plan incluye capacitación para emprendimientos, unir productores y vender productos locales. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Cursos y ventas son tareas de la junta. El plan no dice con qué dinero.",
+    "cita": "Capacitación para emprendimientos. Asociatividad productiva. Comercialización de productos locales.",
+    "pag": 15
+   },
+   {
+    "t": "Apoyar la agricultura urbana y las iniciativas de mujeres y jóvenes.",
+    "que": "El plan dice fortalecer la agricultura urbana y apoyar iniciativas de mujeres y jóvenes. No dice cómo ni cuánto costará.",
+    "v": "alta",
+    "n": "Apoyar a productores sí le toca a la junta. El plan no dice cómo.",
+    "cita": "Fortalecimiento de la agricultura urbana. Apoyo a iniciativas de mujeres y jóvenes.",
+    "pag": 15
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Mejorar parques, recuperar áreas verdes y hacer parques inclusivos.",
+    "que": "El plan incluye mejorar parques, recuperar áreas verdes y hacer parques inclusivos. No dice en qué barrios ni cuánto costará.",
+    "v": "alta",
+    "n": "Parques sí le tocan a la junta. El plan no dice cuánto costará.",
+    "cita": "Mejoramiento de parques. Recuperación de áreas verdes. Parques inclusivos.",
+    "pag": 23
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Elegir las vías parroquiales prioritarias y pedir su mantenimiento.",
+    "que": "El plan habla de elegir vías parroquiales prioritarias y gestionar su mantenimiento. No dice qué vías ni cuánto costará.",
+    "v": "media",
+    "n": "Caminos se hacen con la Prefectura. El plan no dice qué vías.",
+    "cita": "Priorización de vías parroquiales. Gestión de mantenimiento vial.",
+    "pag": 21
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer actividades para adultos mayores y personas con discapacidad.",
+    "que": "El plan menciona un programa para adultos mayores y actividades para personas con discapacidad. No dice cuánto costará ni cada cuánto.",
+    "v": "alta",
+    "n": "Organizar actividades comunitarias sí le toca. El plan no dice costo.",
+    "cita": "Programa Tumbaco Adulto Mayor. Actividades para personas con discapacidad.",
+    "pag": 19
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas y decidir en conjunto cómo gastar el presupuesto parroquial.",
+    "que": "El plan propone asambleas parroquiales y presupuesto participativo entre barrios y comunas. No dice cuánto dinero habrá.",
+    "v": "alta",
+    "n": "Reunir a la comunidad sí le toca. El plan no dice con qué dinero.",
+    "cita": "Asambleas parroquiales. Presupuesto participativo. Mesas de trabajo por barrios y comunas.",
+    "pag": 23
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Organizar a vecinos para prevenir riesgos y hacer capacitaciones.",
+    "que": "El plan habla de organizar a la comunidad para prevenir, capacitar ante emergencias e identificar puntos seguros. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar vecinos sí le toca. La policía no es tarea de la junta.",
+    "cita": "Organización comunitaria para prevención. Capacitación ante emergencias. Identificación de puntos seguros.",
+    "pag": 23
+   }
+  ]
+ },
+ "metas": [
+  "Para 2031: programa parroquial permanente de recuperación ambiental del llaló y quebradas.",
+  "Para 2031: programa permanente de capacitación, promoción y comercialización para emprendimientos y productores.",
+  "Para 2031: programa parroquial permanente de inclusión y atención comunitaria."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Muchas frases son copia del plan de desarrollo de la parroquia (PDOT) y no dicen lugares ni fechas exactas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42
+ ],
+ "paginas": 42
+}

@@ -1,0 +1,139 @@
+{
+ "enfoque": "Arreglar y mantener caminos con la Prefectura, estudiar agua y alcantarillado con el Municipio y publicar avances cada trimestre.",
+ "tabla": {
+  "economia": [
+   {
+    "t": "Crear formas para que vecinos produzcan juntos, cuidando la biodiversidad.",
+    "que": "Se hará con alianzas con la Prefectura, el Ministerio de Agricultura y universidades. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta apoyar a productores. El plan no dice cuánto costará.",
+    "cita": "se establecerán mecanismos para incentivar a la ciudadanía para que desarrollo actividades productivas de manera comunitaria",
+    "pag": 18
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Revisar y actualizar el plan de desarrollo de la parroquia, con la población.",
+    "que": "Se hará con participación de la población. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta parroquial, con participación de la gente.",
+    "cita": "se evaluará y actualizará el Plan Estratégico de Desarrollo Parroquial y de Ordenamiento Territorial de la Parroquia",
+    "pag": 18
+   },
+   {
+    "t": "Publicar avances cada trimestre y hacer rendición pública cada año.",
+    "que": "Incluye asambleas semestrales y rendición final al cierre de 2031. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta. El plan no dice cuánto costará.",
+    "cita": "publicación trimestral del avance de compromisos e indicadores; asambleas o espacios públicos semestrales de seguimiento; rendición pública anual",
+    "pag": 22
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer dos mantenimientos al año en las vías más usadas de las comunidades.",
+    "que": "Se hace junto con la Prefectura. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Realizar 2 mantenimientos anuales en las vías transitadas de las comunidades",
+    "pag": 20
+   },
+   {
+    "t": "Adoquinar hasta 3 km de vías, según prioridades de las comunidades, hasta 2029.",
+    "que": "Se hace con convenio y según prioridad participativa. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita convenio con la Prefectura o el Municipio.",
+    "cita": "Gestionar y ejecutar, según competencia, convenio y priorización participativa, hasta 3 km de mejoramiento vial/adoquinado al 2029.",
+    "pag": 20
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Coordinar con la Policía Nacional la seguridad de las comunidades, sin hacer labor policial.",
+    "que": "Incluye capacitar a grupos de seguridad y gestionar equipos de comunicación. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "La policía le toca al Estado. La junta solo coordina.",
+    "cita": "Fortalecer la organización comunitaria y la coordinación con Policía Nacional y entidades competentes, sin asumir funciones policiales.",
+    "pag": 21
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Hacer estudios para potabilizar el agua de consumo, con el Municipio.",
+    "que": "La junta gestiona los estudios; la obra depende de convenio y competencia. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "El agua potable le toca al Municipio, no a la junta.",
+    "cita": "Realizar estudios para la potabilización de Agua de Consumo.",
+    "pag": 20
+   },
+   {
+    "t": "Gestionar estudios y dinero para hasta 3 km de alcantarillado.",
+    "que": "La obra la ejecuta el nivel competente. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Le toca al Municipio o a la empresa municipal de agua, no a la junta.",
+    "cita": "Gestionar estudios, convenio y financiamiento para hasta 3 km de alcantarillado, cuya ejecución corresponderá al nivel competente.",
+    "pag": 20
+   },
+   {
+    "t": "Pedir al Municipio mejor recolección de basura y hacer acciones de educación.",
+    "que": "Incluye seguimiento del servicio. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio. La junta solo gestiona y educa.",
+    "cita": "Gestionar con el GAD Municipal la cobertura y mejora del servicio de recolección de residuos, con acciones parroquiales de educación y seguimiento.",
+    "pag": 21
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir y mantener obras, áreas verdes y espacios públicos de la parroquia.",
+    "que": "Las obras se harían según el presupuesto participativo. El plan no dice cuánto costará ni dónde.",
+    "v": "alta",
+    "n": "Le toca a la junta: parques y espacios de la parroquia.",
+    "cita": "generación de empleo, producción agrícola y ganadera, comercio y satisfacción social; creación y/o mantenimiento de áreas verdes.",
+    "pag": 18
+   }
+  ]
+ },
+ "metas": [
+  "Dos mantenimientos al año en las vías transitadas de las comunidades.",
+  "Hasta 3 km de mejoramiento vial o adoquinado al 2029.",
+  "Hasta 4 km de empedrado al 2030.",
+  "Hasta 3 km de alcantarillado, sujeto a estudios y convenio.",
+  "Avances publicados cada trimestre y rendición pública cada año."
+ ],
+ "notas": [
+  "Casi todas las obras dependen de convenios con el Municipio o la Prefectura y del presupuesto. El plan no dice cuánto cuestan.",
+  "Mucho texto copia la ley y el plan de desarrollo de la parroquia. Varias obras son del Municipio o de la Prefectura."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27
+ ],
+ "paginas": 27
+}

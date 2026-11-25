@@ -1,0 +1,145 @@
+{
+ "enfoque": "Propone arreglar agua, basura, calles y parques, y construir un terminal y una plaza de animales. Casi no dice costos ni fechas exactas, y varias partes copian el plan de la ciudad.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Comprar camiones recolectores de basura con compactación y contenedores de reciclaje.",
+    "que": "Los camiones irían en el año 1 del plan y los contenedores en todos los barrios. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Adquisición de camiones recolectores de carga lateral con sistemas de compactación de alta eficiencia",
+    "pag": 17
+   },
+   {
+    "t": "Perforar un nuevo pozo de agua en el suroeste de la ciudad.",
+    "que": "Sería para mejorar la presión de agua en barrios periféricos y del centro-sur. El plan lo ubica en el año 2, pero no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Perforación de un nuevo pozo profundo en el sector sur-oeste de la ciudad para",
+    "pag": 10
+   },
+   {
+    "t": "Construir unidades de saneamiento en el campo para casas sin baño con desagüe adecuado.",
+    "que": "Son para hogares rurales que no tienen sistema adecuado de excretas. El plan no dice cuántas casas ni cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el plan no dice de dónde saldrá el dinero.",
+    "cita": "Construcción de Unidades de Saneamiento Ambiental Rural descentralizadas para hogares que carecen de sistemas adecuados de eliminación de excretas",
+    "pag": 27
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Aprobar una ordenanza que proteja los páramos de Cuburiví Chico y Yacubamba.",
+    "que": "Busca proteger las fuentes de agua que abastecen la ciudad. El plan lo ubica en el año 1, pero no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, porque es una ordenanza de uso del suelo.",
+    "cita": "Expedición de una ordenanza para proteger los páramos de Cuburivi Chico y Yacubamba",
+    "pag": 27
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Asfaltar, adoquinar o empedrar calles en la ciudad y en las cabeceras parroquiales.",
+    "que": "Incluye aceras y rampas. El plan no dice qué calles se harán ni cuánto costará. Lo ubica entre los años 2 y 4.",
+    "v": "media",
+    "n": "Lo de la ciudad sí le toca al Municipio; lo rural depende de la Prefectura.",
+    "cita": "adoquinado o empedrado de vías y calles en el casco urbano y cabeceras",
+    "pag": 31
+   },
+   {
+    "t": "Construir el terminal terrestre cantonal en un plazo de 4 años.",
+    "que": "Incluye estudios, compra de terreno, créditos o alianzas privadas, y obra. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de créditos y de socios privados.",
+    "cita": "Completar el 100% de la infraestructura física del terminal terrestre",
+    "pag": 29
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Reparar las cabañas de la cima del cerro Sinchaguasín y cambiar sus techos.",
+    "que": "Son para uso turístico y cultural. El plan no dice cuánto costará ni en qué fecha exacta se hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, en espacios públicos y patrimonio.",
+    "cita": "Reparación estructural, cambio de cubiertas y adecentamiento estético de las",
+    "pag": 24
+   },
+   {
+    "t": "Arreglar y mejorar la luz de parques y áreas recreativas.",
+    "que": "Busca evitar delitos en esos espacios. El plan no dice en qué parques ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, porque son parques públicos.",
+    "cita": "Adecentamiento y mejoramiento de la iluminación en parques y áreas",
+    "pag": 19
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Usar agentes municipales en operativos de espacio público y predios abandonados.",
+    "que": "Serían operativos periódicos. El plan no dice cuántos agentes ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. No incluye a la Policía, que no es municipal.",
+    "cita": "Fortalecimiento del Cuerpo de Agentes de Control Municipal para",
+    "pag": 19
+   }
+  ],
+  "economia": [
+   {
+    "t": "Construir una plaza de animales fuera del casco urbano, con corrales y oficinas.",
+    "que": "Dice que estará lista en 4 años. El plan no dice cuánto costará; el control sanitario depende de otras entidades.",
+    "v": "media",
+    "n": "Plazas de mercado sí son del Municipio, pero el control sanitario no.",
+    "cita": "Lograr que el 100% de la infraestructura esté construida y equipada en un",
+    "pag": 26
+   }
+  ]
+ },
+ "metas": [
+  "Terminal terrestre: 100% de la obra en 4 años.",
+  "Plaza de animales: 100% construida y equipada en 4 años.",
+  "Cerro Sinchaguasín: +20% de visitantes anuales al mirador principal (sin plazo).",
+  "Al menos 3 convenios con otras instituciones para control sanitario."
+ ],
+ "notas": [
+  "No dice cuánto costará ninguna obra. Varias dependen de créditos, convenios o de otras entidades como Policía y Prefectura.",
+  "Varias partes repiten diagnósticos y metas del plan vigente (PDOT 2021-2026) y no explican cómo se cumplirán."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34
+ ],
+ "paginas": 34
+}

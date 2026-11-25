@@ -1,0 +1,132 @@
+{
+ "enfoque": "Propone terminar obras paradas, llevar agua segura a los recintos rurales y arreglar caminos, con una oficina de juventud. Casi no dice cuánto costará.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Construir la vía que conecta Santo Domingo, La Palanca y Simón Bolívar.",
+    "que": "Es una demanda de los recintos. El plan no dice cuánto costará ni en qué plazo se hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto cuesta ni cuándo.",
+    "cita": "Ejecutar la construcción de la vía que conecta Santo Domingo, La Palanca y Simón Bolívar.",
+    "pag": 9
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Terminar las obras de regeneración del Parque Central, Malecón y avenida Mariscal Sucre.",
+    "que": "Son obras empezadas y sin terminar. El plan dice que los saldos por gastar suman más de tres millones setecientos mil dólares. No dice en qué plazo.",
+    "v": "media",
+    "n": "Le toca al Municipio. Parte del dinero es un crédito del Banco de Desarrollo.",
+    "cita": "Concluir las obras arrastradas de regeneración urbana del Parque Central y Malecón, y de la avenida Mariscal Sucre",
+    "pag": 8
+   },
+   {
+    "t": "Actualizar el catastro (registro de terrenos y casas) urbano y rural.",
+    "que": "Es la base para cobrar el impuesto predial. El plan no dice cuánto costará ni cuándo quedará listo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto cuesta ni cuándo termina.",
+    "cita": "Actualizar el catastro inmobiliario urbano y rural, base de la recaudación del impuesto predial",
+    "pag": 7
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar el servicio de agua segura en los sectores rurales.",
+    "que": "El plan no dice cuántos recintos recibirán agua ni cuánto costará. Su meta es llegar al 81,10 % de cobertura.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto cuesta ni en qué plazo.",
+    "cita": "Ejecutar un plan de ampliación de la cobertura de agua segura en los sectores rurales identificados",
+    "pag": 9
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Ampliar las rutas de recolección de basura hacia los recintos.",
+    "que": "Con frecuencia y horarios publicados. El plan no dice cuántas rutas nuevas ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: la recolección de basura es de su competencia.",
+    "cita": "Ampliar y ordenar las rutas de recolección de residuos hacia los recintos, con frecuencia y horarios publicados.",
+    "pag": 10
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Pedir al Ministerio del Interior policías comunitarios para barrios y recintos.",
+    "que": "El plan no dice cuándo llegarían ni cuánto costará. La policía de barrio no es tarea del Municipio.",
+    "v": "baja",
+    "n": "No le toca al Municipio. Solo puede pedir la policía al Ministerio del Interior.",
+    "cita": "Gestionar ante el Ministerio del Interior la dotación de Unidades de Policía Comunitaria",
+    "pag": 6
+   },
+   {
+    "t": "Hacer un plan de alumbrado (luces de calle) en zonas con más delitos.",
+    "que": "El plan incluye zonas con mayor incidencia delictiva. No dice cuántas luces se pondrán ni cuánto costará.",
+    "v": "media",
+    "n": "Depende de la empresa eléctrica. El plan no dice cuánto cuesta.",
+    "cita": "Ejecutar un plan de alumbrado público en las zonas con mayor incidencia delictiva",
+    "pag": 9
+   }
+  ],
+  "social": [
+   {
+    "t": "Mantener la atención en casa a adultos mayores que viven solos y a personas con discapacidad.",
+    "que": "Se financia con el convenio del Ministerio de Inclusión Económica y Social. El plan no dice cuántas personas más atenderá.",
+    "v": "media",
+    "n": "Depende del convenio con el Ministerio de Inclusión Económica y Social.",
+    "cita": "Sostener la atención domiciliaria a adultos mayores que viven solos y la atención en el hogar a",
+    "pag": 12
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear una jefatura municipal de juventud y empleo, con presupuesto propio.",
+    "que": "El plan dice que tendrá metas anuales públicas. No dice cuánto costará ni quién la dirigirá.",
+    "v": "media",
+    "n": "La oficina sí es del Municipio. El empleo joven no lo crea directamente.",
+    "cita": "Crear la Jefatura Municipal de Juventud y Empleo, con presupuesto propio y metas anuales",
+    "pag": 8
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar cada mes en línea cuánto se gasta y cómo avanza cada obra.",
+    "que": "Incluye el gasto del presupuesto y el avance de cada contrato de obra. Empieza en el primer trimestre de gestión.",
+    "v": "alta",
+    "n": "Lo decide el propio Municipio. Es una tarea interna, sin depender de otros.",
+    "cita": "Publicar mensualmente, en formato abierto, la ejecución presupuestaria y el avance físico y financiero de cada contrato de obra.",
+    "pag": 13
+   }
+  ]
+ },
+ "metas": [
+  "Ejecución de obra pública por encima del 10 % de 2025, con meta anual publicada.",
+  "Cobertura de agua y saneamiento superior al 81,10 % hacia el final del período.",
+  "Jefatura de Juventud y Empleo creada y funcionando en el primer año.",
+  "Convenio con el Ministerio de Inclusión Económica y Social renovado en el primer año.",
+  "Publicación mensual de la ejecución presupuestaria desde el primer trimestre de gestión."
+ ],
+ "notas": [
+  "Muchas acciones no dicen cuánto cuestan ni cuándo. La policía de barrio no es tarea del Municipio.",
+  "El plan se basa en el presupuesto 2025 del propio Municipio, que solo se gastó en un 52 %."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16
+ ],
+ "paginas": 16
+}

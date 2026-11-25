@@ -1,0 +1,89 @@
+{
+ "enfoque": "Plan para las cinco vocalías de Yaruquí: caminos, espacios públicos, ayuda a productores pequeños, ambiente y cuentas públicas. Cifras estimadas.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar caminos vecinales, accesos y paradas con mingas y convenios.",
+    "que": "Meta: 26 km atendidos y 10 puntos críticos resueltos para 2031. Cuesta cerca de $2,6 millones en 5 años; unos $650.000 al año salen de obra pública. El resto, con Prefectura y Municipio.",
+    "v": "media",
+    "n": "Le toca a la junta, pero necesita convenio con la Prefectura y el Municipio para la maquinaria.",
+    "cita": "Mantenimiento y mejora de caminos vecinales, accesos y paradas comunitarias.",
+    "pag": 6
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar casas comunales, canchas, parques y cementerios con mingas.",
+    "que": "Meta: 12 espacios recuperados y 80 % con plan de mantenimiento anual en 2031. Cuesta unos $220.000 en el período. Las recuperaciones grandes dependen del Municipio.",
+    "v": "alta",
+    "n": "Le toca a la junta y cuesta poco. Las recuperaciones grandes necesitan al Municipio.",
+    "cita": "Mantenimiento y recuperación de casas comunales, canchas, parques y cementerios.",
+    "pag": 6
+   }
+  ],
+  "economia": [
+   {
+    "t": "Organizar a pequeños productores de flores y aves, con ferias y rutas de venta.",
+    "que": "Meta: 60 productores, 8 ferias al año y 3 rutas de venta para 2031. Cuesta unos $140.000. No incluye subsidios a empresas privadas. Inversiones grandes: convenios y cooperación.",
+    "v": "alta",
+    "n": "Le toca a la junta: organizar a la comunidad y ferias. No da fondos a empresas privadas grandes.",
+    "cita": "Fomento a la asociatividad de productores comunitarios y familiares",
+    "pag": 5
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Formar brigadas en 6 sectores para cuidar quebradas y suelo agrícola.",
+    "que": "Meta: 6 sectores con brigadas, 12 hectáreas restauradas y 4 simulacros al año. Cuesta unos $90.000. El control y las sanciones ambientales son del Municipio y del Ministerio del Ambiente.",
+    "v": "media",
+    "n": "Puede hacerlo, pero necesita acuerdo con el Municipio y el Ministerio del Ambiente.",
+    "cita": "Brigadas comunitarias, educación ambiental y restauración de quebradas y suelo agrícola",
+    "pag": 7
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer 24 asambleas por sector y publicar una ficha por cada obra.",
+    "que": "Meta: 24 asambleas por sector en el período y 100 % de obras con ficha. Sale del presupuesto de funcionamiento, unos $975.000 al año; el plan dice que no es gasto nuevo.",
+    "v": "alta",
+    "n": "Le toca a la junta y no suma gasto nuevo. Es organizar a la comunidad.",
+    "cita": "Asambleas por sector; portal sencillo; publicación mensual; comisiones con responsabilidades,",
+    "pag": 8
+   },
+   {
+    "t": "Revisar el presupuesto, obras, convenios y deudas, y publicar un informe.",
+    "que": "Informe público y mapa inicial al día 100. Costo referencial de $18.000. Lo hacen la presidencia, los vocales y la secretaría.",
+    "v": "alta",
+    "n": "Le toca a la junta: fiscalizar a la presidencia. Cuesta poco.",
+    "cita": "Auditoría de la cédula presupuestaria, obras, bienes, convenios, contratos y obligaciones pendientes.",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "26 km de caminos atendidos y 10 puntos críticos resueltos para 2031.",
+  "12 espacios públicos recuperados para 2031.",
+  "60 productores vinculados, 8 ferias al año y 3 rutas de venta.",
+  "6 sectores con brigadas y 12 hectáreas restauradas para 2031.",
+  "24 asambleas por sector en el período 2027–2031."
+ ],
+ "notas": [
+  "El plan dice que sus cifras y fechas son estimadas y que es un modelo. El presupuesto debe verificarse antes de inscribirlo.",
+  "El texto habla de 'ejemplos genéricos' y 'otros modelos': parece copiado de una plantilla general."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "paginas": 11
+}

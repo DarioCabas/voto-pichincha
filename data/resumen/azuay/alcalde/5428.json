@@ -1,0 +1,189 @@
+{
+ "enfoque": "Calles, agua, basura, parques y mercado, más salud y apoyo social que no son del Municipio. El plan casi no dice cuánto costará.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer bacheo, mantenimiento y re adoquinado de las calles céntricas del cantón.",
+    "que": "El plan dice que será periódico. No dice cuánto costará ni en qué plazo se hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que maneja las calles. El plan no dice cuánto cuesta.",
+    "cita": "mantenimiento periódico, bacheo y re adoquinado de las calles céntricas del cantón",
+    "pag": 11
+   },
+   {
+    "t": "Abrir y estabilizar vías vecinales que conectan la parroquia y las comunidades.",
+    "que": "El plan no dice cuántas vías ni cuánto costará. Busca conectar comunidades con la red estatal.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que maneja las vías. El plan no dice cuánto cuesta.",
+    "cita": "la apertura, lastrado y estabilización de las vías vecinales que conectan a la parroquia",
+    "pag": 11
+   },
+   {
+    "t": "Construir y reforzar puentes y pasos comunitarios sobre los ríos locales.",
+    "que": "El plan dice que se gestionará, es decir, que depende de otros. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de fondos o de otras entidades. El plan no dice cuánto cuesta.",
+    "cita": "se gestionará la construcción y el reforzamiento de puentes y pasos comunitarios sobre los rios locales",
+    "pag": 11
+   },
+   {
+    "t": "Ampliar la señalización horizontal y vertical en todas las vías del cantón.",
+    "que": "Forma parte de bajar los accidentes de tránsito. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Tránsito es competencia del Municipio. El plan no dice cuánto cuesta.",
+    "cita": "Ampliar la señalización horizontal y vertical en todas las vías",
+    "pag": 28
+   },
+   {
+    "t": "Poner paradas y espacios seguros para buses y camionetas en el cantón.",
+    "que": "El plan no dice dónde ni cuántas paradas habrá, ni cuánto costarán.",
+    "v": "alta",
+    "n": "Buses y tránsito son del Municipio. El plan no dice dónde ni cuánto cuesta.",
+    "cita": "Implementar paradas y espacios seguros en el cantón",
+    "pag": 28
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Diseñar nuevos sistemas de agua para los sectores altos y rurales del cantón.",
+    "que": "También modernizar las plantas de tratamiento existentes. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "media",
+    "n": "El agua es del Municipio, pero depende de fondos externos. El plan no dice cuánto cuesta.",
+    "cita": "el diseño de nuevos sistemas de agua para los sectores altos y rurales del cantón",
+    "pag": 11
+   },
+   {
+    "t": "Repotenciar el sistema de agua entubada en el centro urbano.",
+    "que": "El plan no dice cuánto costará ni cuándo se hará. Busca mejorar el agua para consumo humano.",
+    "v": "alta",
+    "n": "El agua es competencia del Municipio. El plan no dice cuánto cuesta ni cuándo.",
+    "cita": "Repotenciar el sistema de agua entubada en el centro urbano.",
+    "pag": 27
+   },
+   {
+    "t": "Ampliar la recolección de basura separada en el centro y en las comunidades rurales.",
+    "que": "Llegaría también a comunidades rurales dispersas. El plan no dice cuánto costará ni desde cuándo.",
+    "v": "alta",
+    "n": "La basura es del Municipio. El plan no dice cuánto cuesta ni en qué plazo.",
+    "cita": "ampliando la cobertura de recolección diferenciada tanto en el casco urbano",
+    "pag": 14
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Instalar puntos verdes en espacios públicos para reciclar botellas plásticas.",
+    "que": "Los materiales recogidos se usarían en talleres locales. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Basura y espacios públicos son del Municipio. El plan no dice cuánto cuesta.",
+    "cita": "mediante la instalación de puntos verdes estratégicos en los espacios públicos del cantón",
+    "pag": 14
+   },
+   {
+    "t": "Declarar áreas de conservación locales para proteger fuentes de agua y páramos.",
+    "que": "Protegerían los ríos Oña y León y las zonas de recarga de agua. El plan no dice cuándo ni cómo se hará.",
+    "v": "media",
+    "n": "Depende de normas y de otras entidades. El plan no dice cuánto cuesta.",
+    "cita": "la delimitación y declaratoria de Áreas de Conservación y Uso Sostenible locales para",
+    "pag": 14
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Aplicar normas claras de uso del suelo en la zona urbana y rural.",
+    "que": "Usaría el plan de uso del suelo ya aprobado por el Municipio. El plan no dice cuándo se aplicará.",
+    "v": "alta",
+    "n": "El uso del suelo es competencia del Municipio. El plan no dice cuándo.",
+    "cita": "normativas claras que regulen de manera justa el uso y aprovechamiento del suelo urbano y rural",
+    "pag": 15
+   },
+   {
+    "t": "Regenerar plazas, miradores y espacios públicos emblemáticos del cantón.",
+    "que": "El plan no dice cuántos espacios ni cuánto costará. Busca fomentar el sano esparcimiento.",
+    "v": "alta",
+    "n": "Parques y plazas son del Municipio. El plan no dice cuánto cuesta ni cuándo.",
+    "cita": "la administración invertirá en la regeneración de espacios públicos emblemáticos",
+    "pag": 11
+   },
+   {
+    "t": "Rediseñar el mercado municipal con zonas de parqueo, carga y descarga.",
+    "que": "Crearía espacios ordenados según el producto. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Los mercados son del Municipio. El plan no dice cuánto cuesta ni cuándo.",
+    "cita": "Rediseñar el mercado municipal, con zonas de parqueo, carga y descarga",
+    "pag": 26
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar cámaras de seguridad en parques, plazas, colegios y accesos al cantón.",
+    "que": "Se pondrían en parques, plazas, miradores, escuelas y accesos. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "La vigilancia es de la Policía; el Municipio pondría las cámaras.",
+    "cita": "la administración gestionará la instalación estratégica de nuevos puntos de videovigilancia y cámaras de seguridad",
+    "pag": 18
+   }
+  ],
+  "social": [
+   {
+    "t": "Enviar brigadas médicas y odontológicas móviles a cada sector del cantón.",
+    "que": "Atenderían a niños y adultos mayores en sus comunidades. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "La salud no le toca al Municipio; depende de otras entidades.",
+    "cita": "se priorizará el despliegue permanente de brigadas médicas y odontológicas móviles que recorran cada sector",
+    "pag": 10
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear una empresa municipal para vender lácteos, cárnicos, conservas y destilados.",
+    "que": "Daría valor agregado a la producción local. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Es posible, pero el plan no dice cómo la pagará ni cuánto cuesta.",
+    "cita": "Crear una Unidad o Empresa Pública Municipal de Producción y Comercialización",
+    "pag": 22
+   }
+  ]
+ },
+ "metas": [
+  "Plan de trabajo para los años 2027 a 2031.",
+  "En la tabla de programas, varios proyectos están marcados para los años 1 a 4."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra. Casi todo el dinero dependería de convenios y fondos de otras entidades.",
+  "Muchas propuestas son de salud, empleo o apoyo social, que no son competencia del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30
+ ],
+ "paginas": 30
+}

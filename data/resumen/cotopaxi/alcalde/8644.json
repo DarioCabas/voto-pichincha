@@ -1,0 +1,144 @@
+{
+ "enfoque": "Se basa en el PDOT municipal: agua, basura, calles, catastro, mercados, riesgos y participación. Casi no dice cuánto costará.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Concentrarse en arreglar las vías urbanas del cantón",
+    "que": "El plan dice que la Alcaldía se enfoca en las calles urbanas. Para los caminos rurales pide convenios con la Prefectura. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "La Alcaldía debe concentrarse en la vialidad urbana, mientras que la vialidad rural requiere coordinación principalmente con el Gobierno Provincial",
+    "pag": 19
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Proteger fuentes de agua y mejorar captaciones y redes con juntas de agua",
+    "que": "Trabajar con juntas de agua, comunidades, Prefectura y MAATE para cuidar fuentes, mejorar captaciones y redes, y mantener plantas de tratamiento. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de la Prefectura y del MAATE. El plan no dice costos.",
+    "cita": "La Alcaldía deberá trabajar con juntas de agua, comunidades, Prefectura, MAATE y entidades técnicas para:",
+    "pag": 20
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Crear un Sistema Cantonal de Información Ambiental y Territorial",
+    "que": "Un sistema con datos del catastro, mapas de riesgo, fuentes de agua, puntos críticos, obras y áreas de conservación. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Se propone crear un Sistema Cantonal de Información Ambiental y Territorial",
+    "pag": 13
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer accesibles para todos los parques, calles y espacios públicos",
+    "que": "El plan habla de mejorar la accesibilidad universal de parques, calles, edificios y espacios públicos. No dice qué lugares ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué lugares ni cuándo.",
+    "cita": "Mejorar la accesibilidad universal de parques, calles, edificios y espacios públicos.",
+    "pag": 2
+   },
+   {
+    "t": "Actualizar el catastro urbano y rural para planificar la ciudad y cobrar mejor",
+    "que": "El plan busca actualizar el catastro urbano y rural y prevenir la ocupación de zonas de riesgo. No dice plazos ni costos.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice plazos ni costos.",
+    "cita": "Actualizar el catastro urbano y rural, fortalecer el ordenamiento territorial",
+    "pag": 2
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Hacer un plan anual de prevención y convivencia con la Policía",
+    "que": "El plan dice que el orden público es del Estado y que el Municipio coordina prevención y espacios seguros. No dice cuánto costará.",
+    "v": "media",
+    "n": "El orden público es del Estado; el Municipio solo coordina.",
+    "cita": "Ejecutar un plan anual de prevención y convivencia",
+    "pag": 7
+   }
+  ],
+  "social": [
+   {
+    "t": "Firmar convenios con el MIES para grupos prioritarios",
+    "que": "Convenios con el MIES para grupos prioritarios y para reducir la desnutrición infantil. El plan no dice cuántas familias ni cuánto costará.",
+    "v": "media",
+    "n": "Depende del MIES; el Municipio solo firma convenios.",
+    "cita": "fortalecer los convenios con el MIES, enfrentar la desnutrición crónica infantil y garantizar la igualdad de derechos",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Mejorar mercados y espacios de venta, y promover ferias",
+    "que": "El plan dice que el Municipio puede mejorar mercados, regular espacios de venta y promover ferias. No dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice dónde ni cuánto costará.",
+    "cita": "puede mejorar mercados, regular espacios de comercialización, promover ferias, capacitar en coordinación con otras entidades",
+    "pag": 10
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear un banco de proyectos con estudios y presupuestos",
+    "que": "Una lista de obras con estudios y presupuestos antes de ejecutarlas. El plan no dice cuánto costará cada una ni cuándo estará lista.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Crear un banco de proyectos con estudios y presupuestos.",
+    "pag": 5
+   },
+   {
+    "t": "Presentar cada año la rendición de cuentas ante la ciudadanía",
+    "que": "La Alcaldía presentará cada año la rendición de cuentas ante la ciudadanía, el Consejo de Participación Ciudadana y Control Social.",
+    "v": "alta",
+    "n": "Le toca al Municipio; no depende de otras entidades.",
+    "cita": "La Alcaldía presentará la rendición de cuentas anual ante la ciudadanía, el Consejo de Participación Ciudadana y Control Social",
+    "pag": 16
+   },
+   {
+    "t": "Publicar cada tres meses un informe breve de obras y presupuesto",
+    "que": "El informe incluirá obras contratadas, en ejecución y terminadas, servicios, contratos y avance presupuestario. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio; no depende de otras entidades.",
+    "cita": "Cada tres meses se publicará un informe breve con:",
+    "pag": 16
+   }
+  ]
+ },
+ "metas": [
+  "Asambleas en las cinco parroquias al menos una vez al año",
+  "Informe público de obras y presupuesto cada tres meses",
+  "Comité de articulación se reúne cada tres meses"
+ ],
+ "notas": [
+  "El plan casi no dice cuánto costará cada obra ni de dónde saldrá el dinero.",
+  "Varias acciones dependen de ministerios o de la Prefectura. Gran parte del texto repite el diagnóstico del PDOT municipal."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22
+ ],
+ "paginas": 22
+}

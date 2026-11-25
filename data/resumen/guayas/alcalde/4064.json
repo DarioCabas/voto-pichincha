@@ -1,0 +1,152 @@
+{
+ "enfoque": "Propone agua y alcantarillado, basura, calles, drenajes, mercado y parques. Gran parte del texto repite el plan de desarrollo del cantón.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Construir al menos una planta para tratar las aguas residuales.",
+    "que": "Busca evitar que las aguas sucias lleguen sin tratar a los cuerpos de agua del cantón. El plan no dice dónde se construirá ni cuánto costará.",
+    "v": "media",
+    "n": "Depende de fondos externos según el plan. Falta el costo.",
+    "cita": "Diseñar y construir al menos una (1) planta compacta de tratamiento de aguas residuales tecnificada",
+    "pag": 12
+   }
+  ],
+  "economia": [
+   {
+    "t": "Remodelar el Mercado Municipal y las ferias libres del cantón.",
+    "que": "Busca mejor limpieza, frío para alimentos y manejo de basura orgánica. El plan no dice cuánto costará. Según su tabla, se hace en cuatro años.",
+    "v": "alta",
+    "n": "Los mercados son competencia del Municipio. Falta el costo.",
+    "cita": "Remodelar y optimizar la infraestructura del Mercado Municipal y las ferias libres cantonales",
+    "pag": 16
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar caminos rurales y vías agrícolas con convenio de la Prefectura.",
+    "que": "Busca que los caminos rurales se puedan usar todo el año, incluso en invierno. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de un convenio con la Prefectura, que es otra institución.",
+    "cita": "Ejecutar un programa continuo de rehabilitación, reconformación y estabilización de caminos vecinales y vías agrícolas prioritarias",
+    "pag": 13
+   },
+   {
+    "t": "Pavimentar calles con asfalto o adoquín en barrios periféricos de la cabecera cantonal.",
+    "que": "Incluye aceras y bordillos. El plan no dice cuántas calles se harán ni cuánto costará.",
+    "v": "alta",
+    "n": "Las calles son competencia del Municipio. Falta el costo.",
+    "cita": "Implementar un Plan de Pavimentación Integral (asfalto y/o adoquín) en los barrios periféricos y zonas de expansión urbana",
+    "pag": 13
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Llevar agua por red pública al 95% de la cabecera cantonal.",
+    "que": "El plan no dice cuánto costará. Dice que buscará fondos del Banco de Desarrollo del Ecuador. Según su tabla, se hace en cuatro años.",
+    "v": "media",
+    "n": "Depende de fondos del Banco de Desarrollo y de otras instituciones.",
+    "cita": "Incrementar la cobertura de agua potable por red pública en la cabecera cantonal hasta alcanzar el 95%",
+    "pag": 8
+   },
+   {
+    "t": "Arreglar tuberías viejas de agua urbana para que llegue las 24 horas.",
+    "que": "Busca agua continua en zonas ya consolidadas. Según su tabla, se hace en cuatro años. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que maneja el agua urbana. Falta el costo.",
+    "cita": "Rehabilitar las redes obsoletas de conducción y distribución urbana para mitigar las fugas no contabilizadas",
+    "pag": 11
+   },
+   {
+    "t": "Construir nuevas redes de alcantarillado en barrios periféricos y parroquias.",
+    "que": "Busca reducir el déficit histórico en un 25% en el período. El plan no dice qué barrios ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita créditos del Banco de Desarrollo. El plan no dice cuánto costará.",
+    "cita": "Construir e iniciar la operación progresiva de nuevas redes de alcantarillado sanitario y pluvial en las parroquias",
+    "pag": 11
+   },
+   {
+    "t": "Cambiar rutas y horarios de recolección de basura en todo el cantón.",
+    "que": "Busca cubrir el 100% del casco urbano y llegar a recintos rurales principales. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "La basura es competencia del Municipio. Falta el costo.",
+    "cita": "Reestructurar las rutas, frecuencias y horarios de recolección de desechos en todo el cantón",
+    "pag": 14
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir desagües de lluvia en los puntos del casco urbano donde se junta el agua.",
+    "que": "Busca evitar inundaciones y proteger casas y obras públicas. El plan no dice cuántos puntos ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, por calles y prevención de desastres. Falta el costo.",
+    "cita": "Construir redes de drenajes pluviales colectores y sistemas de descargas técnicas en los puntos críticos de acumulación de agua del casco urbano",
+    "pag": 13
+   },
+   {
+    "t": "Construir parques infantiles y familiares en barrios y recintos priorizados.",
+    "que": "Incluye sombra, juegos inclusivos y luz LED para uso de noche. El plan no dice cuántos parques ni cuánto costará.",
+    "v": "alta",
+    "n": "Los parques son competencia del Municipio. Falta el costo.",
+    "cita": "Diseñar y construir nuevos parques infantiles y familiares de tipología moderna en los barrios y recintos priorizados",
+    "pag": 12
+   }
+  ]
+ },
+ "metas": [
+  "Actualizar el Plan Maestro de agua y alcantarillado en los primeros 180 días de gestión.",
+  "Agua por red pública al 95% de la cabecera cantonal.",
+  "Reducir en 25% el déficit histórico de alcantarillado durante el período.",
+  "Agua continua las 24 horas en las zonas consolidadas.",
+  "Recolección de basura con cobertura del 100% en el casco urbano."
+ ],
+ "notas": [
+  "El plan dice que conserva propuestas de un plan de trabajo previo y del plan de desarrollo del cantón. Parte del texto es general.",
+  "Casi no dice cuánto cuestan las obras. Varias dependen de créditos del Banco de Desarrollo, del Gobierno o de la Prefectura."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42
+ ],
+ "paginas": 42
+}

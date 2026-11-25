@@ -1,0 +1,126 @@
+{
+ "enfoque": "Propone agua, alcantarillado, basura, parques, calles y trámites más cerca en parroquias rurales. No dice cuánto cuesta ni dónde se hará.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar, arreglar y dar mantenimiento a los sistemas de agua potable.",
+    "que": "Se hará en los sectores con más necesidades. El plan no dice en qué barrios ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Planificación, ampliación, rehabilitación y mantenimiento de los sistemas de agua potable,",
+    "pag": 24
+   },
+   {
+    "t": "Mejorar poco a poco el alcantarillado y el saneamiento.",
+    "que": "Se priorizarán proyectos que mejoren el ambiente y la salud pública. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará.",
+    "cita": "Fortalecimiento progresivo de la infraestructura de alcantarillado y saneamiento,",
+    "pag": 25
+   },
+   {
+    "t": "Mejorar la recolección de basura: rutas más eficientes y equipos con mantenimiento.",
+    "que": "El plan dice que se optimizarán las rutas y se dará mantenimiento a los equipos. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Modernización progresiva del servicio municipal de recolección de residuos sólidos",
+    "pag": 28
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer campañas para separar la basura en casas, escuelas, mercados y comercios.",
+    "que": "Se harán campañas de clasificación de residuos en hogares, instituciones educativas, mercados y establecimientos comerciales. El plan no dice cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuándo empiezan.",
+    "cita": "Implementación de campañas de clasificación de residuos en hogares, instituciones educativas, mercados y establecimientos comerciales.",
+    "pag": 25
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar parques, plazas y áreas verdes para que la gente los use.",
+    "que": "El plan dice que se recuperarán como lugares seguros para convivir. No dice cuáles ni cuántos, ni cuánto costará.",
+    "v": "alta",
+    "n": "Es competencia del Municipio. El plan no dice cuáles ni cuándo.",
+    "cita": "Recuperación progresiva de parques, plazas, áreas verdes y espacios recreativos como",
+    "pag": 18
+   },
+   {
+    "t": "Empezar en 2027 obras de calles de la ciudad.",
+    "que": "El plan pone la vialidad urbana entre las prioridades de 2027. No dice qué calles ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "proyectos prioritarios de agua potable, vialidad urbana y modernización administrativa",
+    "pag": 32
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Abrir puntos periódicos de trámites municipales en las parroquias rurales.",
+    "que": "Recibirán solicitudes y darán información y orientación a la gente de las parroquias rurales. El plan no dice cuándo ni dónde.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice en qué parroquias.",
+    "cita": "Creación de puntos periódicos de atención administrativa en las parroquias rurales",
+    "pag": 21
+   },
+   {
+    "t": "Crear una plataforma para hacer trámites, consultas y pagos por internet.",
+    "que": "Permitirá consultas, pagos y seguimiento de trámites en línea. El plan no dice cuánto costará ni cuándo estará lista.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Implementación progresiva de una plataforma municipal que permita realizar consultas,",
+    "pag": 21
+   }
+  ]
+ },
+ "metas": [
+  "Presentar un informe de rendición de cuentas cada año, de 2027 a 2031.",
+  "Empezar en 2027 proyectos prioritarios de agua potable y vialidad urbana.",
+  "Consolidar resultados, hacer evaluación final y rendir cuentas en 2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni en qué barrios o calles se hará.",
+  "La certificación dice \"Concejales Urbanos\", no Alcalde. El plan no habla de tránsito ni de buses."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36
+ ],
+ "paginas": 36
+}

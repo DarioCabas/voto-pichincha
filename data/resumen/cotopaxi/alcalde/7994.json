@@ -1,0 +1,127 @@
+{
+ "enfoque": "Plan copiado en gran parte del PDOT y de planes nacionales. Propone agua potable, caminos, control de riesgos y oficinas municipales más cercanas. Casi no dice costos.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Hacer estudios técnicos para nuevos sistemas de agua potable.",
+    "que": "El plan dice que se harán estudios para nuevos sistemas de agua potable en el cantón. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cómo lo pagará.",
+    "cita": "Elaborar estudios técnicos para nuevos sistemas de agua potable",
+    "pag": 50
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear oficinas de atención ciudadana en Moraspungo.",
+    "que": "El plan propone oficinas de atención ciudadana descentralizadas en Moraspungo. No dice cuánto costarán ni cuándo se abrirán.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Crear oficinas de atención ciudadana descentralzadas en Moraspungo",
+    "pag": 48
+   },
+   {
+    "t": "Aprobar una ordenanza para organizar el trabajo interno del municipio por procesos.",
+    "que": "El plan dice que se aprobará una ordenanza de estructura por procesos para la administración. No dice plazo ni costo.",
+    "v": "alta",
+    "n": "Le toca al alcalde y al Concejo. El plan no dice el plazo.",
+    "cita": "Aprobar la ordenanza de estructura orgónica funcional por procesos",
+    "pag": 48
+   },
+   {
+    "t": "Rendir cuentas cada año en eventos públicos en el cantón.",
+    "que": "El plan dice que la rendición de cuentas será anual, con eventos públicos en el territorio cantonal. No dice fechas ni lugares.",
+    "v": "alta",
+    "n": "Le toca al alcalde. Es una obligación de ley municipal.",
+    "cita": "La rendición de cuentas 58 realizará anualmente mediante eventos públicos",
+    "pag": 52
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a la maquinaria caminera del municipio.",
+    "que": "El plan dice que se hará un programa de operación y mantenimiento de la maquinaria de caminos del municipio. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cómo se pagará.",
+    "cita": "Programa de operación y mantenimiento de equipo caminero municipal",
+    "pag": 16
+   },
+   {
+    "t": "Hacer un plan de movilidad con inventario de vías y puntos críticos.",
+    "que": "El plan propone un plan cantonal de movilidad con inventario de vías y puntos críticos. No dice cuánto costará ni cuándo estará listo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Plan Cantonal de Movilidad Sostenible: diognóstico, inventario vwial, puntos criticos e Integración con el PDOT y PUSS",
+    "pag": 15
+   }
+  ]
+ },
+ "metas": [
+  "Actualizar el mapa cantonal de riesgos (2027-2031).",
+  "Conformar brigadas comunitarias de emergencia en cada parroquia (2027-2031).",
+  "Hacer al menos un simulacro cantonal cada año.",
+  "Reducir poco a poco la diferencia en servicios entre la cabecera y las comunidades rurales (2027-2031)."
+ ],
+ "notas": [
+  "El texto tiene muchos errores de lectura. Gran parte copia el PDOT y planes nacionales; las propuestas concretas son pocas.",
+  "El plan casi no dice cuánto costará ni en qué plazo se hará cada obra."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54
+ ],
+ "paginas": 54
+}

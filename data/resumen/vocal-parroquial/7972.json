@@ -1,0 +1,113 @@
+{
+ "enfoque": "Pide coordinar con el Estado para servicios básicos y que la junta cuide el ambiente, apoye productores y haga asambleas. Texto muy general, en parte copiado de planes de desarrollo.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Cuidar fuentes de agua, bosques y ecosistemas con control y participación de la gente.",
+    "que": "El plan no dice cuánto costará ni cuándo. Habla de acciones coordinadas de control, manejo sostenible y participación comunitaria.",
+    "v": "media",
+    "n": "Pide acuerdos con otras entidades para el control. El plan no dice cuánto costará.",
+    "cita": "Proteger y conservar las fuentes de agua, bosques y ecosistemas estratégicos, mediante acciones",
+    "pag": 2
+   },
+   {
+    "t": "Enseñar a la comunidad a cuidar el ambiente.",
+    "que": "El plan no dice cuánto costará ni cuándo. Habla de educación ambiental, corresponsabilidad ciudadana y prácticas sostenibles.",
+    "v": "alta",
+    "n": "Cuidar el ambiente y organizar a la comunidad son parte del cargo.",
+    "cita": "Fortalecer la educación ambiental comunitaria, promoviendo la corresponsabilidad ciudadana,",
+    "pag": 3
+   },
+   {
+    "t": "Hacer acciones para prevenir daños por desastres y por el cambio del clima.",
+    "que": "El plan no dice cuánto costará ni cuándo. No dice qué acciones concretas se harán.",
+    "v": "media",
+    "n": "Necesita acuerdos con otros niveles de gobierno. El plan no dice cuánto costará.",
+    "cita": "Implementar acciones de gestión de riesgos y adaptación al cambio climático, orientadas a la",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar emprendimientos comunitarios con ayuda técnica y financiera del Estado.",
+    "que": "El plan no dice cuánto costará ni cuándo. El apoyo vendría de instituciones del Estado: técnico, financiero y comercial.",
+    "v": "alta",
+    "n": "Apoyar a productores es parte del cargo. El dinero no lo pone la junta.",
+    "cita": "Impulsar emprendimientos comunitarios y asociativos, priorizando iniciativas de economía",
+    "pag": 3
+   },
+   {
+    "t": "Armar turismo comunitario basado en la cultura y la naturaleza de Calderón.",
+    "que": "El plan no dice cuánto costará ni cuándo. No dice qué sitios ni qué grupos participarán.",
+    "v": "media",
+    "n": "Pide acuerdos con otras instituciones. El plan no dice cuánto costará.",
+    "cita": "Promover el turismo comunitario sostenible, basado en la identidad cultural de la parroquia rural",
+    "pag": 3
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer programas de participación para mujeres, jóvenes y adultos mayores.",
+    "que": "El plan no dice cuánto costará ni cuándo. No dice qué programas concretos habrá.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es parte del cargo. El plan no dice el costo.",
+    "cita": "Implementar programas de inclusión social y participación, orientados a mujeres, jóvenes y",
+    "pag": 2
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas públicas periódicas para informar y escuchar a la comunidad.",
+    "que": "El plan no dice cada cuánto ni dónde. Quiere incluir a mujeres, jóvenes, comunas y grupos vulnerables.",
+    "v": "alta",
+    "n": "Reunir a la comunidad es parte del cargo. El plan no dice cuánto costará.",
+    "cita": "Convocar periódicamente a las comunidades, organizaciones sociales, juntas vecinales y",
+    "pag": 4
+   },
+   {
+    "t": "Explicar en público cómo se gasta el presupuesto parroquial.",
+    "que": "El plan no dice cada cuánto ni cómo se hará. Habla de explicar asignaciones, inversiones y gastos.",
+    "v": "alta",
+    "n": "Informar a la gente sobre el gasto está al alcance de la junta.",
+    "cita": "Socializar de manera clara y detallada el presupuesto parroquial, explicando las asignaciones,",
+    "pag": 4
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir a otras entidades del Estado mejores servicios básicos para barrios vulnerables.",
+    "que": "El plan no dice cuánto costará ni cuándo. Los barrios y comunas más vulnerables serían la prioridad.",
+    "v": "baja",
+    "n": "Agua, salud y educación le tocan a otras entidades, no a la junta.",
+    "cita": "ampliar y mejorar el acceso a servicios básicos y sociales, priorizando a los barrios y comunas más",
+    "pag": 2
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Dar prioridad a proyectos de seguridad, salud y educación con el Estado.",
+    "que": "El plan no dice cuánto costará ni cuándo. Promueve proyectos con el Estado central y otros niveles de gobierno.",
+    "v": "baja",
+    "n": "Policía, salud y escuelas no son del cargo. El plan no dice cuánto costará.",
+    "cita": "dando prioridad a los temas de la seguridad, salud y educación.",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni en qué plazo se hará.",
+  "Muchas propuestas son de otras entidades (agua, salud, educación, policía), no de la junta parroquial."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "paginas": 7
+}

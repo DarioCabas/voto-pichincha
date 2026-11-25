@@ -1,0 +1,141 @@
+{
+ "enfoque": "Obras de calles, agua, alcantarillado, reforestación y uso del suelo. Muchas propuestas copian el PDOT del cantón y varias no son del alcalde (policía, salud, ayudas sociales).",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Asfaltar 5 km de vías y mantener 30 km de vías de lastre.",
+    "que": "Asfalto en La Tina–La Dolorosa y calles de La Merced. Costo 2.200.000 USD, con el GAD, la Prefectura del Azuay y el Banco de Desarrollo del Ecuador (BDE), 2027-2030. El plan no dice cuánto aporta cada uno.",
+    "v": "media",
+    "n": "Calles urbanas sí; caminos rurales dependen de la Prefectura y de un crédito del BDE.",
+    "cita": "5 km de vías asfaltadas y 30 km de vías mantenidas a nivel de lastre.",
+    "pag": 23
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Rehabilitar agua potable y ampliar alcantarillado en seis comunidades.",
+    "que": "Obras en La Merced, La Nube, Culebrillas, Potrerillos, El Rosario y Tina Alta. Costo 1.200.000 USD con el GAD, el BDE y las juntas de agua, 2028-2030. Se hará por etapas.",
+    "v": "alta",
+    "n": "Es competencia municipal; depende en parte de un crédito del BDE y de las juntas de agua.",
+    "cita": "Rehabilitación de los sistemas de agua potable Ampliación y Mejoramiento de la Cobertura",
+    "pag": 24
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Plantar 40.000 plantas nativas y proteger 20 fuentes de agua.",
+    "que": "Reforestación y protección en Río Bermejo, Boliche, El Rosario y Potrerillos. Costo 450.000 USD con el GAD, el Ministerio del Ambiente (MAATE) y la Prefectura, 2027-2030.",
+    "v": "media",
+    "n": "El Municipio puede cuidar el ambiente, pero el plan depende del MAATE y de la Prefectura.",
+    "cita": "Establecer 40.000 plantas nativas y proteger al menos 20 fuentes de agua estratégicas.",
+    "pag": 30
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar las reglas de uso del suelo y el registro de terrenos del cantón.",
+    "que": "Actualizar el Plan de Uso y Gestión del Suelo (PUGS) y el catastro (registro de terrenos). Costo 250.000 USD con recursos propios del Municipio, 2027-2028.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El costo y el plazo están en el plan.",
+    "cita": "Actualizar e implementar el PUGS y fortalecer el catastro municipal.",
+    "pag": 30
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar cámaras de videovigilancia en el centro de El Pan y San Vicente.",
+    "que": "Cámaras en el Centro Cantonal El Pan y la parroquia San Vicente. Costo 300.000 USD, con la Policía Nacional y el servicio ECU 911, 2027-2029. El plan no dice quién vigila las cámaras.",
+    "v": "baja",
+    "n": "La seguridad le toca a la Policía, no al alcalde. El Municipio solo pondría las cámaras.",
+    "cita": "Implementar un sistema de videovigilancia en espacios públicos prioritarios.",
+    "pag": 30
+   }
+  ],
+  "social": [
+   {
+    "t": "Dar comida y atención en casa a adultos mayores vulnerables.",
+    "que": "Programa \"Alimentación en Casa\" y ayuda en casa para adultos mayores con poca movilidad. Costo 600.000 USD del programa El Pan Cuida, con MIES y Ministerio de Salud, 2027-2030.",
+    "v": "baja",
+    "n": "Es tarea del MIES y del Ministerio de Salud, no del alcalde.",
+    "cita": "Atención domiciliaria para adultos mayores con movilidad reducida, incluyendo",
+    "pag": 23
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear un centro para recibir y vender la leche de los productores.",
+    "que": "Centro de acopio y empresa mixta de leche. Costo 700.000 USD con el GAD, el MAG y el sector privado, 2027-2029.",
+    "v": "media",
+    "n": "Depende del MAG, de empresas privadas y de productores. El plan no explica cómo se reparten los aportes.",
+    "cita": "Implementar y poner en funcionamiento un Centro de Acopio de Leche con participación de los",
+    "pag": 30
+   },
+   {
+    "t": "Instalar una báscula municipal para pesar el ganado en San Vicente.",
+    "que": "Báscula para pesar ganado en San Vicente, para vender a precio justo. Costo 180.000 USD con recursos propios del Municipio, en 2027.",
+    "v": "alta",
+    "n": "Le toca al Municipio y se paga con recursos propios.",
+    "cita": "Instalar y poner en funcionamiento una báscula ganadera municipal.",
+    "pag": 30
+   }
+  ],
+  "otros": [
+   {
+    "t": "Armar un circuito turístico con señalética y promoción digital.",
+    "que": "Circuito turístico integral en todo el cantón. Costo 500.000 USD con el GAD, el Ministerio de Turismo y la Prefectura, 2027-2030.",
+    "v": "media",
+    "n": "El Municipio puede promocionarlo, pero depende del Ministerio de Turismo y la Prefectura.",
+    "cita": "Implementar un circuito turístico integral con señalética y promoción digital.",
+    "pag": 30
+   }
+  ]
+ },
+ "metas": [
+  "5 km de vías asfaltadas y 30 km de vías mantenidas a nivel de lastre.",
+  "Establecer 40.000 plantas nativas y proteger al menos 20 fuentes de agua.",
+  "Agua y alcantarillado en La Merced, La Nube, Culebrillas, Potrerillos, El Rosario y Tina Alta, 2028-2030.",
+  "Actualizar el PUGS y el catastro, 2027-2028.",
+  "Instalar una báscula ganadera municipal, 2027."
+ ],
+ "notas": [
+  "Mucho del texto copia el PDOT del cantón. Varias propuestas no son del alcalde: policía, salud y programas sociales.",
+  "El plan da costos y años por proyecto, pero no dice cuánto aporta cada institución (Prefectura, BDE, ministerios)."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33
+ ],
+ "paginas": 33
+}

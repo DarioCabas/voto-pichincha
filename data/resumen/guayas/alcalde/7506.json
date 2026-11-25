@@ -1,0 +1,153 @@
+{
+ "enfoque": "Plan de agua, alcantarillado, basura, tránsito, parques y mercados. Mucho texto copia el diagnóstico del cantón y varias metas son de ministerios, no del Municipio.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Construir el sistema de agua potable del cantón con otras entidades",
+    "que": "Meta: agua segura para la población, funcionando al 100% al tercer año. Se hará con SENAGUA y el Banco de Desarrollo. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de SENAGUA y del Banco de Desarrollo; el plan no dice el costo.",
+    "cita": "Gestionar la construcción del sistema integral de agua potable",
+    "pag": 20
+   },
+   {
+    "t": "Mejorar el alcantarillado de lluvias y aguas servidas en la cabecera y recintos",
+    "que": "Meta: 60% de hogares con servicios básicos en la cabecera y 20% en el sector rural, al cuarto año. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de SENAGUA y otras entidades; el plan no dice el costo.",
+    "cita": "Mejorar el Sistema de alcantarillado Pluvial y Sanitario. así como las Unidades Básicas de Saneamiento en la cabécera cantonal",
+    "pag": 21
+   },
+   {
+    "t": "Mejorar el manejo de la basura y su destino final en el cantón",
+    "que": "Meta: pasar de 70,3% a 80% de basura no peligrosa con destino final adecuado, al 2031. El plan no dice cuánto costará ni cómo se pagará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Mejorar el sistema de gestion integral de residuos sólidos en el cantón",
+    "pag": 21
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Ordenar el tránsito y el transporte terrestre en el cantón",
+    "que": "Se hará junto con las entidades nacionales de tránsito y transportistas. Plazo: 100% al cuarto año. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Tránsito y buses son del Municipio. El plan no dice el costo.",
+    "cita": "Implementar las normas de tránsito y traisporte terrestre en el termitorio cantonal en",
+    "pag": 22
+   },
+   {
+    "t": "Gestionar 25 km más de vía estatal en cuatro años",
+    "que": "Plazo: cuatro años de gestión. El plan no dice cuánto costará ni quién lo pagará.",
+    "v": "baja",
+    "n": "Es vía estatal, le toca al Gobierno, no al Municipio.",
+    "cita": "Incrementar en 25 km., la Red Vial Estatal a cuatro años de gestión",
+    "pag": 20
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar el catastro (registro de terrenos y casas) urbano y rural",
+    "que": "Incluye regularizar asentamientos y levantar planos de predios. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "En consecuencia. la gestión cantonal deberá fortalecer un programa permanente de",
+    "pag": 8
+   },
+   {
+    "t": "Construir parques, canchas y espacios de recreación",
+    "que": "Incluye parque inclusivo, canchas, coliseo y malecón. Meta: funcionando al 100% al cuarto año. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Parques y canchas son del Municipio. El plan no dice el costo.",
+    "cita": "Impulsar la Construcción espacios para la recreación y encuentro común",
+    "pag": 21
+   }
+  ],
+  "economia": [
+   {
+    "t": "Construir plazas de mercado, viveros y un centro de faenamiento (matadero)",
+    "que": "Meta: espacios construidos y funcionando al 100% al cuarto año. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Mercados y plazas son del Municipio. El plan no dice el costo.",
+    "cita": "Gestionar la construcción y repotenciación de espacios para el aprovisionamiento y la",
+    "pag": 20
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Mejorar la prevención de riesgos y la respuesta a emergencias",
+    "que": "Se hará con la Secretaría de Gestión de Riesgos y otras entidades. Meta: mejorar 25% el tiempo de respuesta para el cuarto año. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "La prevención de desastres es del Municipio, pero depende de otras entidades.",
+    "cita": "Gestionar la prevención de rieseós en el territorio cantonal",
+    "pag": 21
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar brigadas médicas en parroquias y recintos rurales",
+    "que": "Lo haría el Municipio junto con el Ministerio de Salud. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "La salud le toca al Ministerio de Salud, no al Municipio.",
+    "cita": "Coordinación de brigadas médicas en parroquias y recintos rurales",
+    "pag": 10
+   }
+  ]
+ },
+ "metas": [
+  "Agua segura: sistema funcionando al 100% al tercer año de gestión.",
+  "Alcantarillado: 60% de hogares en la cabecera y 20% en el sector rural, al cuarto año.",
+  "Basura: pasar de 70,3% a 80% con destino final adecuado, al 2031.",
+  "Vía estatal: 25 km más en cuatro años de gestión.",
+  "Mercados y espacios de comercio: funcionando al 100% al cuarto año."
+ ],
+ "notas": [
+  "Mucho texto copia el diagnóstico del cantón. Casi ninguna propuesta dice cuánto costará ni cómo se pagará.",
+  "Varias metas (vía estatal, salud, desarrollo infantil) no son del Municipio; dependen del Gobierno o de ministerios."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41
+ ],
+ "paginas": 41
+}

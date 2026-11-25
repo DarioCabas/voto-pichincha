@@ -1,0 +1,102 @@
+{
+ "enfoque": "Plan de la junta de Rumipamba: cuidar caminos con la Prefectura, parques, apoyo a productores, ambiente, prevención de riesgos y rendir cuentas cada semestre.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Mantener caminos vecinales junto con la Prefectura y planificar su arreglo.",
+    "que": "El plan fija como meta tener el inventario priorizado de caminos al 100%. No dice cuánto costará ni en qué plazo.",
+    "v": "media",
+    "n": "Cuidar caminos sí le toca, pero se hace junto con la Prefectura. El plan no dice cuánto cuesta.",
+    "cita": "Planificar y mantener, coordinadamente con el GAD Provincial, la vialidad parroquial rural",
+    "pag": 6
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Planificar, construir y mantener parques, espacios públicos y equipamientos parroquiales.",
+    "que": "Se harán los incluidos en la planificación y el presupuesto participativo. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Parques y espacios sí le tocan, pero obras grandes dependen de estudios, dinero y convenios.",
+    "cita": "Planificar, construlr y mantener Infraestructura, equipamientos y espacios públicos parroquiales",
+    "pag": 6
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar a productores y emprendedores con asistencia técnica y acceso a mercados.",
+    "que": "El plan habla de ferias o ruedas y de capacitación. No dice cuántas ferias habrá ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta. Las ferias y capacitaciones son acciones que el cargo sí puede hacer.",
+    "cita": "Incentivar actividades productivas comunitarias y fortalecer asociatividad y acceso a mercados.",
+    "pag": 7
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger ríos, quebradas y biodiversidad con reforestación y educación ambiental.",
+    "que": "El plan fija 4 sitios priorizados con acciones acumulativas al 2031. No dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Cuidar el ambiente sí le toca a la junta. Podría necesitar apoyo de otros niveles de gobierno.",
+    "cita": "Incentivar preservación de biodiversidad, protección ambiental y corresponsabilidad comunitaria.",
+    "pag": 7
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Organizar a la comunidad para prepararse ante riesgos, sin reemplazar a Bomberos ni Policía.",
+    "que": "El plan dice que se actualizará el mapa de riesgos y se activarán comités comunitarios. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta. La policía y los bomberos no.",
+    "cita": "Coordinar prevención comunitaria y preparación ante riesgos, sin sustituir a Policía, Bomberos ni al ente rector",
+    "pag": 6
+   }
+  ],
+  "social": [
+   {
+    "t": "Promover organización social y turismo sostenible en la parroquia.",
+    "que": "Plantea rutas de naturaleza, cascadas y senderos, y 4 agendas participativas al año. No dice cuánto costará.",
+    "v": "media",
+    "n": "Las rutas y la señalización piden acuerdo con el Municipio. El plan no dice cuánto costará.",
+    "cita": "Promover organización social, inclusión comunitaria, identidad y turismo sostenible dentro de las compelencias parroquiales",
+    "pag": 7
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer seguimiento a convenios y publicar avances de metas cada semestre.",
+    "que": "Asambleas parroquiales al menos cada semestre; seguimiento de convenios cada tres meses. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Es obligación directa de la junta. El plan no dice cuánto costará.",
+    "cita": "La gestión y el seguimiento sí serán obligaciones directas y documentables de la junta.",
+    "pag": 11
+   }
+  ]
+ },
+ "metas": [
+  "2 asambleas parroquiales por año",
+  "4 convenios gestionados en el periodo",
+  "Al menos 6 perfiles de proyecto",
+  "4 sitios priorizados con acciones acumulativas al 2031",
+  "Plan anual de mantenimiento cumplido en 80%"
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero; depende del presupuesto aprobado.",
+  "Muchas acciones dependen de acuerdos con la Prefectura o el Municipio. Las obras grandes el plan las deja para después de estudios."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "paginas": 12
+}

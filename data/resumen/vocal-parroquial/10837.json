@@ -1,0 +1,97 @@
+{
+ "enfoque": "Plan copiado en gran parte del plan de desarrollo de la parroquia (2023-2027). Pocas propuestas concretas: semillas, maquinaria, brigadas, riego y rendición de cuentas.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Gestionar con el Municipio alternativas de movilidad rural accesible para personas con discapacidad.",
+    "que": "El plan no dice dónde ni cuánto costará. Busca que personas con discapacidad o movilidad reducida lleguen a servicios y oportunidades.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio, no lo hace la junta sola.",
+    "cita": "Gestionar, en coordinación con el GAD Municipal y las instituciones competentes, alternativas de movilidad rural accesible",
+    "pag": 20
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Dar mantenimiento a la maquinaria agrícola y al equipo caminero de la junta.",
+    "que": "Incluye revisiones, reparaciones y cambio programado de equipos. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Usa presupuesto de la junta, que es poco. El plan no dice cuánto cuesta.",
+    "cita": "mantenimiento preventivo y correctivo, la renovación programada y el uso eficiente de la maquinaria agrícola y del equipo caminero",
+    "pag": 20
+   },
+   {
+    "t": "Hacer una asamblea pública de rendición de cuentas cada año.",
+    "que": "Será presencial y abierta, para informar sobre plan, presupuesto, proyectos y metas. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad está entre lo que puede hacer la junta.",
+    "cita": "Se realizará al menos una vez al año, de manera presencial y abierta, para informar",
+    "pag": 45
+   },
+   {
+    "t": "Publicar un informe de avance cada seis meses.",
+    "que": "Dirá porcentaje de avance, gasto y dificultades. Se difundiría por la página web, redes sociales y carteleras comunitarias.",
+    "v": "alta",
+    "n": "Son informes de la propia junta; no necesita a otro nivel.",
+    "cita": "sobre el porcentaje de avance de los programas y proyectos, ejecución presupuestaria",
+    "pag": 45
+   }
+  ],
+  "economia": [
+   {
+    "t": "Facilitar el acceso a semillas de calidad y recuperar variedades nativas para productores.",
+    "que": "Incluye asistencia técnica y prácticas productivas sostenibles. El plan no dice cuántas semillas, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Apoyar a productores es tarea de la junta. El plan no dice el costo.",
+    "cita": "el acceso a semillas de calidad adaptadas al territorio, la recuperación de variedades nativas",
+    "pag": 20
+   },
+   {
+    "t": "Buscar soluciones de cosecha de agua, reservorios y riego para los cultivos.",
+    "que": "Se haría con el GAD Provincial, la autoridad del agua y las organizaciones de regantes. El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "El riego le toca sobre todo al nivel provincial; necesita acuerdo.",
+    "cita": "mediante soluciones sostenibles de cosecha de agua, reservorios y riego tecnificado",
+    "pag": 20
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Organizar brigadas comunitarias no armadas para prevenir la inseguridad y atender emergencias.",
+    "que": "Incluiría mapas de riesgo, redes de alerta, rutas seguras, capacitación y simulacros. No son policía. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es tarea de la junta. No es función policial.",
+    "cita": "mediante brigadas comunitarias no armadas y articuladas con las instituciones competentes",
+    "pag": 20
+   }
+  ]
+ },
+ "metas": [
+  "Asamblea pública de rendición de cuentas al menos una vez al año.",
+  "Informes de avance cada seis meses (semestrales).",
+  "Cumplir al menos el 90 % de los mecanismos de rendición de cuentas programados, cada año."
+ ],
+ "notas": [
+  "Gran parte del texto copia el plan de desarrollo parroquial. Casi no dice costos ni de dónde saldrá el dinero.",
+  "Menciona 25 proyectos, pero el texto no los incluye. Agua potable, salud, escuelas y policía no son de la junta.",
+  "Plan muy largo (49 págs.): se resumieron las 14 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  7,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  20,
+  45,
+  46
+ ],
+ "paginas": 49
+}

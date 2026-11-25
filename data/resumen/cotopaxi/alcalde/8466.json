@@ -1,0 +1,149 @@
+{
+ "enfoque": "Plan muy amplio: mezcla obras municipales (calles, mercados, basura, buses) con salud, cultura y educación, que no son del Municipio. Casi no habla de agua ni alcantarillado.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Construir y mejorar ciclovías, estacionamientos para bicicletas y señalización.",
+    "que": "Forma parte del Plan Cantonal de Movilidad Activa e incluye campañas de educación vial. El plan no dice cuánto costará ni en qué plazo se hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: ciclovías y señalización son su competencia.",
+    "cita": "Construir y mejorar ciclovías, estacionamientos para bicicletas, señalización y campañas de educación vial que promuevan la movilidad sostenible.",
+    "pag": 22
+   },
+   {
+    "t": "Actualizar, aprobar y aplicar el Plan Maestro de Movilidad de Latacunga.",
+    "que": "Lo harán con ciudadanía, transportistas y universidades. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero necesita aprobación y participación.",
+    "cita": "la actualización, aprobación e implementación del Plan Maestro de Movilidad de Latacunga",
+    "pag": 31
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Dar a cada mercado municipal una administración técnica y mantenimiento preventivo.",
+    "que": "Incluye normas de funcionamiento, accesibilidad y seguridad. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: los mercados son competencia municipal.",
+    "cita": "Implementar administraciones técnicas para cada mercado, fortalecer normas de funcionamiento, mantenimiento preventivo de infraestructura",
+    "pag": 20
+   },
+   {
+    "t": "Implementar un sistema de recolección de basura y campañas para separarla en casa.",
+    "que": "Incluye reciclaje y educación ambiental. El plan no dice cuántos recursos harán falta ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: la basura es competencia municipal.",
+    "cita": "además de, implementar un sistema adecuado de recolección de residuos",
+    "pag": 22
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Sembrar árboles nativos en parques, avenidas y espacios públicos de la ciudad.",
+    "que": "Campañas permanentes de reforestación urbana. El plan no dice cuántos árboles se sembrarán ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, en sus parques y espacios públicos.",
+    "cita": "Ejecutar campañas permanentes de reforestación urbana con especies nativas y adecuadas al entorno, priorizando parques, avenidas y espacios públicos.",
+    "pag": 17
+   },
+   {
+    "t": "Limpiar y proteger los principales ríos de Latacunga, empezando por los más contaminados.",
+    "que": "Incluye jornadas periódicas de limpieza y riberas recuperadas. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "media",
+    "n": "Limpieza sí, pero las fuentes de contaminación dependen de otras instituciones.",
+    "cita": "Iniciar un proceso progresivo de recuperación, limpieza y protección de los principales ríos y cuerpos hídricos de Latacunga",
+    "pag": 30
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Poner más cámaras de seguridad en parques, mercados y sectores estratégicos.",
+    "que": "Trabajará con ECU 911 y la Policía Nacional. El plan no dice cuántas cámaras pondrá ni cuánto costará.",
+    "v": "media",
+    "n": "Las cámaras ayudan, pero la policía no le toca al Municipio.",
+    "cita": "Ampliar progresivamente la cobertura de cámaras de seguridad priorizando parques, mercados, instituciones educativas y sectores estratégicos del cantón.",
+    "pag": 22
+   }
+  ],
+  "social": [
+   {
+    "t": "Poner espacios para lactancia y cuidado infantil en paradas de bus y oficinas municipales.",
+    "que": "También pondrá botones de pánico en buses contra el acoso. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: paradas y buses son competencia municipal.",
+    "cita": "Adecuar espacios seguros, higiénicos y accesibles para la lactancia materna y cuidado infantil en paradas de buses estratégicas e instalaciones municipales",
+    "pag": 18
+   },
+   {
+    "t": "Ampliar la atención médica y dental del Patronato Municipal.",
+    "que": "El plan dice que dará atención médica, dental y psicológica, pero no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "La salud no le toca al Municipio; es del Ministerio de Salud.",
+    "cita": "Modernizar el Patronato Municipal, ampliar su cobertura de atención médica, odontológica, psicológica y de rehabilitación",
+    "pag": 16
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear una plataforma en internet para ver el avance de obras y del presupuesto.",
+    "que": "Mostrará avance físico y financiero de obras y contratos. El plan no dice cuánto costará; la matriz fija el plazo hasta 2031.",
+    "v": "alta",
+    "n": "Le toca al Municipio, aunque pide ayuda de universidades y ministerios.",
+    "cita": "Diseñar e implementar una plataforma digital donde la ciudadanía consulte en tiempo real el avance físico y financiero de obras",
+    "pag": 15
+   }
+  ]
+ },
+ "metas": [
+  "Plataforma pública de seguimiento de la gestión hasta el año 2031.",
+  "Matriz de actividades para cuatro años dentro del período 2027–2031.",
+  "Clínicas móviles que recorran semanalmente las parroquias rurales."
+ ],
+ "notas": [
+  "Muchas propuestas (salud, educación, policía) no son competencia del Municipio.",
+  "El plan casi no dice cuánto costará cada proyecto ni de dónde saldrá el dinero.",
+  "El plan no habla de agua potable ni de alcantarillado, que sí son competencia del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38
+ ],
+ "paginas": 38
+}

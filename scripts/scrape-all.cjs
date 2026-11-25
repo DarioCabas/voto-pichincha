@@ -1,5 +1,7 @@
 // Descarga reanudable de todas las dignidades de Pichincha desde la sesión de Chrome
-// que una persona verificó (CDP en el puerto 9333). Uso: node scripts/scrape-all.js [slug...]
+// que una persona verificó (CDP en el puerto 9333).
+// Uso: node scripts/scrape-all.cjs [--provincia AZUAY] [slug...]
+// Pichincha guarda en data/raw/<slug>.json; otras provincias en data/raw/<provincia>/<slug>.json
 const puppeteer = require('puppeteer-core');
 const fs = require('fs'), path = require('path'), crypto = require('crypto');
 const wait = (ms) => new Promise((r) => setTimeout(r, ms));
@@ -14,7 +16,11 @@ const DIGNIDADES = [
   { slug: 'vocal-parroquial', cod: 6, nombre: 'VOCALES DE JUNTA PARROQUIAL RURAL', ambito: 'Q', sub: 'parroquia' },
 ];
 
-const only = process.argv.slice(2);
+const argv = process.argv.slice(2);
+const iProv = argv.indexOf('--provincia');
+const PROVINCIA = iProv >= 0 ? argv.splice(iProv, 2)[1].toUpperCase() : 'PICHINCHA';
+const PROV = PROVINCIA === 'PICHINCHA' ? '' : PROVINCIA.toLowerCase().normalize('NFD').replace(/[\u0300-\u036f]/g, '').replace(/[^a-z0-9]+/g, '-') + '/';
+const only = argv;
 
 (async () => {
   const b = await puppeteer.connect({ browserURL: 'http://127.0.0.1:9333', defaultViewport: null });
@@ -30,17 +36,20 @@ const only = process.argv.slice(2);
   const opts = (id) => p.evaluate((id) => [...(document.querySelector('#' + id)?.options ?? [])].slice(1).map((o) => ({ v: o.value, t: o.textContent.trim() })), id);
 
   for (const d of DIGNIDADES.filter((d) => !only.length || only.includes(d.slug))) {
-    const outJson = path.join(ROOT, 'data/raw', `${d.slug}.json`);
-    const pdfDir = path.join(ROOT, 'public/planes', d.slug);
+    const outJson = path.join(ROOT, 'data/raw', `${PROV}${d.slug}.json`);
+    const pdfDir = path.join(ROOT, 'public/planes', PROV + d.slug);
     fs.mkdirSync(pdfDir, { recursive: true });
+    fs.mkdirSync(path.dirname(outJson), { recursive: true });
     const result = fs.existsSync(outJson) ? JSON.parse(fs.readFileSync(outJson, 'utf8')) : [];
-    const done = new Set(result.map((r) => r.codFormulario));
+    // Las que fallaron por red (err) se reintentan
+    const done = new Set(result.filter((r) => !r.err).map((r) => r.codFormulario));
     const save = () => fs.writeFileSync(outJson, JSON.stringify(result, null, 2));
     const dignUrl = `${BASE}/dignidad/140/${d.cod}?nombre=${encodeURIComponent(d.nombre)}&ambito=${d.ambito}&origen=inicio`;
 
     // 1) Enumerar filtros (cantón y, si aplica, circunscripción o parroquia)
     await p.goto(dignUrl, { waitUntil: 'networkidle2' }); await wait(2000);
-    const pv = (await opts('provincia')).find((o) => o.t === 'PICHINCHA').v;
+    const pv = (await opts('provincia')).find((o) => o.t === PROVINCIA).v;
+    const codProv = String(pv).split(':').pop().trim(); // el select usa "índice: código"
     await p.select('#provincia', pv); await wait(2000);
     const filtros = [];
     for (const c of await opts('canton')) {
@@ -53,7 +62,7 @@ const only = process.argv.slice(2);
     // 2) Para cada filtro: buscar, listar organizaciones, abrir cada una y bajar su plan
     for (const f of filtros) {
       orgs = null;
-      await p.goto(dignUrl, { waitUntil: 'networkidle2' }); await wait(1500);
+      await p.goto(dignUrl, { waitUntil: 'networkidle2' }); await p.waitForSelector('#canton', { timeout: 60000 }); await wait(1500);
       await p.select('#provincia', pv); await wait(1500);
       await p.select('#canton', f.canton.v); await wait(1800);
       if (f.sub) { await p.select('#' + d.sub, f.sub.v); await wait(1500); }
@@ -67,7 +76,7 @@ const only = process.argv.slice(2);
         if (done.has(o.codFormulario)) continue;
         cand = null;
         const q = new URL(listUrl).searchParams;
-        const url = `${BASE}/candidatos/140/${o.codFormulario}?partido=${encodeURIComponent(o.nomPartido)}&lista=${encodeURIComponent(o.lisPartido)}&dignidad=${encodeURIComponent(d.nombre)}&codigoDignidad=${d.cod}&ambito=${d.ambito}&origen=inicio&provincia=17&canton=${q.get('canton')}${q.get(d.sub) ? `&${d.sub}=${q.get(d.sub)}` : ''}&nombreProvincia=PICHINCHA&nombreCanton=${encodeURIComponent(f.canton.t)}`;
+        const url = `${BASE}/candidatos/140/${o.codFormulario}?partido=${encodeURIComponent(o.nomPartido)}&lista=${encodeURIComponent(o.lisPartido)}&dignidad=${encodeURIComponent(d.nombre)}&codigoDignidad=${d.cod}&ambito=${d.ambito}&origen=inicio&provincia=${codProv}&canton=${q.get('canton')}${q.get(d.sub) ? `&${d.sub}=${q.get(d.sub)}` : ''}&nombreProvincia=${encodeURIComponent(PROVINCIA)}&nombreCanton=${encodeURIComponent(f.canton.t)}`;
         await p.goto(url, { waitUntil: 'networkidle2' });
         for (let i = 0; i < 20 && !cand; i++) await wait(500);
         const plan = cand?.planesTrabajo?.[0];
@@ -91,12 +100,14 @@ const only = process.argv.slice(2);
           } catch (e) { err = String(e.message).slice(0, 80); }
           finally { await tab.close().catch(() => {}); }
         }
+        const prev = result.findIndex((r) => r.codFormulario === o.codFormulario);
+        if (prev >= 0) result.splice(prev, 1);
         result.push({
           dignidad: d.nombre, canton: f.canton.t, sub: f.sub?.t ?? null,
           lista: o.lisPartido, partido: o.nomPartido, codFormulario: o.codFormulario,
           principales: (cand?.principales ?? []).map((c) => ({ nombre: c.nomPapeleta, orden: c.ordCandidato, cod: c.codCandidato })),
           suplentes: (cand?.suplentes ?? []).map((c) => ({ nombre: c.nomPapeleta, de: c.codCandidato })),
-          planArchivo: plan?.urlPlanTrabajo ?? null, pdf: file ? `/planes/${d.slug}/${file}` : null, md5ok, err, fuente: url,
+          planArchivo: plan?.urlPlanTrabajo ?? null, pdf: file ? `/planes/${PROV}${d.slug}/${file}` : null, provincia: PROVINCIA, md5ok, err, fuente: url,
         });
         done.add(o.codFormulario); save();
         console.log(`    ${o.lisPartido.padEnd(9)} ${o.nomPartido.slice(0, 40).padEnd(40)} ${file ? 'ok' : 'SIN PDF'}${md5ok === false ? ' MD5!' : ''}${err ? ' ' + err : ''}`);

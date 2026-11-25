@@ -1,0 +1,167 @@
+{
+ "enfoque": "Casi todo copia planes que ya existen (de desarrollo de la ciudad, de uso del suelo y de empresas municipales). Pocas propuestas tienen costo o fecha.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Formular e implementar un nuevo plan de movilidad para 2027–2035.",
+    "que": "El plan de movilidad de 2015–2025 ya venció. El plan no dice cuánto costará; marca 2027–2028 para formularlo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Plan Integral de Movilidad 2027–2035 con metas modales, climáticas y de accesibilidad",
+    "pag": 242
+   },
+   {
+    "t": "Juntar bus, tranvía, bicicleta y caminata en un solo sistema con una misma tarifa.",
+    "que": "Plazo 2027–2030. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "El transporte es competencia municipal. Falta el costo.",
+    "cita": "PC-PMEP-02. Integración física, operacional y tarifaria de bus–tranvía–bicicleta–caminata",
+    "pag": 355
+   },
+   {
+    "t": "Crear corredores seguros y calmar el tráfico cerca de escuelas y barrios.",
+    "que": "Se haría en puntos de alta siniestralidad. Plazo 2027–2031. No dice cuánto costará; depende de dinero por conseguir.",
+    "v": "media",
+    "n": "Tránsito es municipal, pero depende de fondos que aún no están.",
+    "cita": "Red de corredores seguros y calmado de tráfico en entornos escolares y barriales",
+    "pag": 355
+   },
+   {
+    "t": "Arreglar calles, puentes, aceras y drenajes, con prioridad por riesgo y accesibilidad.",
+    "que": "Se hará en el área urbana y vías municipales. El plan no dice cuánto costará ni en qué año.",
+    "v": "alta",
+    "n": "La vialidad urbana es del Municipio. Falta el costo.",
+    "cita": "Mejoramiento y mantenimiento programado de red vial, puentes,",
+    "pag": 338
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Repotenciar la planta de aguas residuales Ucubamba, con lodos y equipos.",
+    "que": "Costo estimado: USD 3,5 millones. El plan dice que no hay cronograma de inversión confirmado.",
+    "v": "alta",
+    "n": "Agua y alcantarillado son del Municipio. Falta la fecha.",
+    "cita": "repotenciación estimada en USD 3,5 millones sin cronograma de inversión confirmado",
+    "pag": 288
+   }
+  ],
+  "economia": [
+   {
+    "t": "Modernizar, dar mantenimiento y digitalizar la red de mercados del cantón.",
+    "que": "Plazo 2027–2030. El plan no dice cuánto costará; pide estudio y costeo.",
+    "v": "alta",
+    "n": "Los mercados son competencia municipal. Falta el costo.",
+    "cita": "PDOT-EP-01. Modernización operativa, mantenimiento preventivo y digitalización de la red de mercados",
+    "pag": 346
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Construir y vigilar la fase sur del relleno sanitario de Pichacay.",
+    "que": "Tiene un crédito de USD 26,7 millones y USD 9 millones de cooperación internacional. Ya hubo primer desembolso y licitaciones en curso.",
+    "v": "alta",
+    "n": "La basura es competencia municipal, y el dinero ya está en marcha.",
+    "cita": "Fase Sur de Pichacay con gestión ambiental y social",
+    "pag": 311
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Regularizar asentamientos de hecho y evitar nuevas ocupaciones sin control.",
+    "que": "Se haría en asentamientos priorizados. Plazo 2027–2031. El plan no dice cuántos barrios ni cuánto costará.",
+    "v": "alta",
+    "n": "El uso del suelo es del Municipio. Falta el costo.",
+    "cita": "Programa de regularización integral de asentamientos de hecho y prevención de nueva",
+    "pag": 303
+   }
+  ],
+  "otros": [
+   {
+    "t": "Aprobar la ordenanza de riesgos del cantón.",
+    "que": "El plan no dice cuándo ni cuánto costará. El plan de respuesta de 2025 no tiene ordenanza que lo respalde.",
+    "v": "media",
+    "n": "La prevención de desastres es del Municipio, pero la aprueba el Concejo.",
+    "cita": "aprobar la ordenanza de riesgos será propuesta del lineamiento político institucional",
+    "pag": 44
+   }
+  ],
+  "social": [
+   {
+    "t": "Terminar y poner en funcionamiento el hospital municipal de Ricaurte.",
+    "que": "El plan dice que iba en 10% de avance (junio de 2025) y sigue en obra. No dice cuánto costará.",
+    "v": "baja",
+    "n": "La salud es del Ministerio de Salud, no del Municipio.",
+    "cita": "Culminación, equipamiento y puesta en operación del Hospital Municipal de Ricaurte",
+    "pag": 297
+   }
+  ]
+ },
+ "metas": [
+  "Incorporar 21.600 hectáreas más al dominio público hasta 2030.",
+  "Planta de aguas residuales Guangarcucho: obra civil hasta diciembre de 2027; avance de 12% a julio de 2026."
+ ],
+ "notas": [
+  "La mayoría de proyectos no tienen costo ni fecha: el plan dice que requieren estudio y costeo.",
+  "Salud, policía y escuelas no son del Municipio; el plan los incluye junto a obras municipales.",
+  "Plan muy largo (407 págs.): se resumieron las 55 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  5,
+  6,
+  20,
+  21,
+  22,
+  24,
+  44,
+  74,
+  75,
+  81,
+  160,
+  191,
+  199,
+  220,
+  232,
+  242,
+  247,
+  251,
+  258,
+  261,
+  269,
+  276,
+  277,
+  284,
+  285,
+  286,
+  287,
+  288,
+  289,
+  292,
+  297,
+  303,
+  308,
+  311,
+  314,
+  320,
+  322,
+  326,
+  327,
+  328,
+  332,
+  333,
+  335,
+  338,
+  343,
+  346,
+  354,
+  355,
+  357,
+  364,
+  378,
+  380,
+  381,
+  391,
+  403
+ ],
+ "paginas": 407
+}

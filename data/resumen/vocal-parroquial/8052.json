@@ -1,0 +1,116 @@
+{
+ "enfoque": "Obras de caminos, senderos y reforestación, y apoyo a ganaderos y turismo. Muchas obras son de la Alcaldía o del Estado, no de la junta. Parece un plan general para la parroquia.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Pavimentar el acceso central de El Chaupi.",
+    "que": "El plan dice que busca pavimentar el acceso central. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Obra grande: necesita acuerdo con la Prefectura o el Municipio. El plan no dice el costo.",
+    "cita": "pavimentar el acceso central, mejorar los caminos vecinales de captación agrícola",
+    "pag": 1
+   },
+   {
+    "t": "Poner grava y zanjas de desagüe en caminos vecinales hacia haciendas productivas.",
+    "que": "Está en la lista de obras priorizadas. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Los caminos los cuida la junta junto con la Prefectura. Aun así, el plan no dice costo.",
+    "cita": "Lastrado y cunetas en vías vecinales de acceso a haciendas productivas.",
+    "pag": 5
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar redes de agua de consumo rural y controlar su calidad.",
+    "que": "Está en la lista de obras priorizadas. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "El agua potable le toca a otro nivel, no a la junta.",
+    "cita": "Ampliación de redes y control de calidad de agua de consumo rural (JAAP).",
+    "pag": 5
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Reforestar y marcar los límites de los páramos comunitarios altos.",
+    "que": "Es para páramos comunitarios altos. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Son trabajos con la comunidad, que la junta puede organizar. El plan no dice costo.",
+    "cita": "Reforestación y delimitación de linderos en páramos comunitarios altos.",
+    "pag": 5
+   },
+   {
+    "t": "Señalar senderos ecoturísticos hacia la reserva Los Llinizas.",
+    "que": "Está en la lista de obras priorizadas. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con otras entidades; el plan no dice cuáles.",
+    "cita": "Fomento y señalización de senderos ecoturísticos hacia la reserva llinizas.",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Promover turismo comunitario sostenible basado en la identidad de El Chaupi.",
+    "que": "Busca generar ingresos y empleo local. El plan no dice cómo ni con cuánto dinero.",
+    "v": "alta",
+    "n": "Promover el turismo y organizar a la gente sí le toca a la junta.",
+    "cita": "Promover el turismo comunitario sostenible, basado en la identidad cultural de El Chaupi",
+    "pag": 2
+   },
+   {
+    "t": "Dar capacitación en buenas prácticas ganaderas y hacer productos lácteos en la parroquia.",
+    "que": "Es para ganaderos. El plan no dice cuántos cursos, cuándo ni cuánto costarán.",
+    "v": "alta",
+    "n": "Los cursos y la asistencia a productores sí le tocan a la junta.",
+    "cita": "Capacitación en buenas prácticas ganaderas e industrialización láctea local.",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear un centro diurno temporal para niños de familias ganaderas.",
+    "que": "Es para niños de familias ganaderas. El plan no dice dónde, cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Obra grande y de otro nivel; no está entre lo que puede hacer la junta.",
+    "cita": "Centro de atención diurna temporal para niños de familias ganaderas.",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir paraderos y casetas informativas para la Ruta del Agua.",
+    "que": "Está en la lista de obras priorizadas. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Obra que necesita acuerdo con el Municipio o la Prefectura.",
+    "cita": "Construcción de paraderos y casetas informativas para la Ruta del Agua.",
+    "pag": 5
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas públicas y explicar el presupuesto parroquial a la gente.",
+    "que": "Serían periódicas y públicas. El plan no dice cada cuánto ni cuánto costarán.",
+    "v": "alta",
+    "n": "Reunir a la gente y explicar gastos es tarea de la junta.",
+    "cita": "Socializar de manera clara y detallada el presupuesto parroquial, explicando las asignaciones,",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [
+  "El plan dura de 2027 a 2031."
+ ],
+ "notas": [
+  "Muchas obras son de otros niveles (agua, salud, escuelas). El plan casi no dice costos ni plazos.",
+  "El plan habla mucho de coordinar con el Estado. No dice qué hará la junta por sí sola."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "paginas": 6
+}

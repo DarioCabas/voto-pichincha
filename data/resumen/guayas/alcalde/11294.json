@@ -1,0 +1,114 @@
+{
+ "enfoque": "Plan parecido a uno de concejales: informes y rendición de cuentas, calles, ordenamiento de la ciudad y normas. Casi no dice costos ni plazos.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Gestionar obras de calles en zonas pobladas: lastre, adoquín o asfalto.",
+    "que": "El plan no dice qué calles, cuánto costará ni cuándo. Busca mejorar la circulación de peatones y vehículos.",
+    "v": "media",
+    "n": "Las calles sí son del Municipio, pero el plan no dice con qué dinero.",
+    "cita": "Gestionar la ejecución de proyectos viales que permitan el mejoramiento de las condiciones de circulación peatonal y vehicular por medio del",
+    "pag": 5
+   },
+   {
+    "t": "Cambiar el transporte público del cantón. El plan no dice qué cambios.",
+    "que": "El plan dice que el transporte público es clave para crear nuevos polos de desarrollo. No dice qué hará ni cuándo.",
+    "v": "media",
+    "n": "Los buses sí son del Municipio, pero el plan no explica qué cambiará.",
+    "cita": "así como el fortalecimiento del transporte público como sector estratégico para la generación de nuevos polos de desarrollo.",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer planes que ordenen el uso del suelo y el crecimiento de la ciudad.",
+    "que": "Según el plan, busca vivienda digna y que los servicios básicos lleguen a todos los territorios. No dice cuándo ni dónde.",
+    "v": "alta",
+    "n": "El uso del suelo sí es del Municipio. El plan no dice cuándo ni dónde.",
+    "cita": "Propiciar planes de ordenamiento territorial oportunos que garanticen tanto el derecho a la ciudad cuanto el acceso a una vivienda",
+    "pag": 4
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer al menos 4 informes públicos de gestión y 1 rendición de cuentas al año.",
+    "que": "Además, 2 audiencias públicas al año y mesas territoriales cada trimestre. El plan no dice cuánto cuesta.",
+    "v": "alta",
+    "n": "Es tarea directa de la Alcaldía y no depende de otros.",
+    "cita": "Realizar al menos 4 informes públicos de gestión por año, 1 rendición de cuentas públicas anuales,",
+    "pag": 7
+   },
+   {
+    "t": "Abrir ventanillas ciudadanas para pedidos de información.",
+    "que": "Sirven para pedir información y para que la gestión municipal esté abierta al control. El plan no dice dónde ni cuánto cuesta.",
+    "v": "alta",
+    "n": "Es tarea de la Alcaldía. El plan no dice cuánto cuesta.",
+    "cita": "Se activarán las Ventanillas Ciudadanas para procesar peticiones de información y garantizar que la gestión municipal sea",
+    "pag": 6
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear normas locales para proyectos productivos y economía popular.",
+    "que": "Busca reactivar la economía dando prioridad a la economía popular y solidaria. El plan no dice qué normas ni cuándo.",
+    "v": "media",
+    "n": "Dar normas sí es del Municipio, pero el empleo depende de otros sectores.",
+    "cita": "Desarrollar normativas locales para el desarrollo de proyectos productivos que permitan la",
+    "pag": 4
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Informar por boletines digitales sobre fondos para la emergencia de seguridad.",
+    "que": "Habla de informar sobre fondos para una emergencia de seguridad, pero no dice qué fondos ni cuánto son.",
+    "v": "baja",
+    "n": "La policía no es del Municipio. El plan no dice cuánto hay ni en qué se gasta.",
+    "cita": "Se establecerán Audiencias Públicas Semestrales y el uso de boletines digitales para informar",
+    "pag": 6
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer proyectos sociales y culturales con la participación de la gente.",
+    "que": "El plan no dice qué proyectos, cuánto costarán ni para qué grupos. Menciona al MIES y al Gobierno Central como actores.",
+    "v": "media",
+    "n": "Depende de otras entidades. El plan no dice qué proyectos hará.",
+    "cita": "Promover la participación de los actores para el desarrollo de proyectos",
+    "pag": 4
+   }
+  ],
+  "otros": [
+   {
+    "t": "Consultar a la ciudadanía para hacer las normas del cantón.",
+    "que": "Plantea usar mecanismos como la Silla Vacía y las iniciativas populares. El plan no dice cómo ni cuándo.",
+    "v": "alta",
+    "n": "Es parte del trabajo de la Alcaldía y del concejo. Falta el cómo.",
+    "cita": "Vincular a la sociedad civil en la elaboración, planteamiento y desarrollo de la política pública",
+    "pag": 5
+   }
+  ]
+ },
+ "metas": [
+  "Al menos 4 informes públicos de gestión por año.",
+  "1 rendición de cuentas pública al año y 2 audiencias públicas al año.",
+  "Mesas territoriales cada trimestre.",
+  "3 polos productivos en proceso (meta del plan, sin fecha clara).",
+  "Evaluación anual del Plan de Desarrollo hasta 2031."
+ ],
+ "notas": [
+  "El texto habla de \"concejales\" y el certificado dice elecciones 2026, pero el plan es para 2027-2031. Conviene preguntar.",
+  "Casi no da costos ni plazos. Muchas frases son genéricas o parecen copiadas de otros planes."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "paginas": 8
+}

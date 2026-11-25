@@ -1,0 +1,115 @@
+{
+ "enfoque": "Pide informes sobre las obras de la parroquia, pide a otras entidades agua, basura y caminos, y organiza a los vecinos en las mesas de planificación.",
+ "tabla": {
+  "gobierno": [
+   {
+    "t": "Pedir informes periódicos sobre cómo se cumplen las obras y los gastos de la parroquia.",
+    "que": "El plan dice que pedirá informes periódicos de ejecución del plan de trabajo anual y del plan de desarrollo parroquial. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Es una atribución de los vocales y cuesta poco.",
+    "cita": "Pedido periódico de informes de ejecución del POA y del PDOT parroquial vigente.",
+    "pag": 3
+   },
+   {
+    "t": "Rendir cuentas una vez al año ante los vecinos de la parroquia.",
+    "que": "El plan dice que habrá una rendición de cuentas anual y un informe de lo presupuestado frente a lo gastado. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Es una reunión pública que la junta puede organizar.",
+    "cita": "Rendición de cuentas anual ante la ciudadanía de la parroquia de Atahualpa.",
+    "pag": 4
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir a la empresa de agua de Quito que lleve agua y alcantarillado a cuatro barrios.",
+    "que": "El plan dice que se pedirá a la empresa de agua de Quito llevar la red a Piganta, Mojanda, Mojandita y El Moyal. No dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Le toca a la empresa de agua de Quito, no a la junta.",
+    "cita": "Iniciativa de acuerdo para gestionar ante la EPMMAPS-Q la extensión de la red de agua potable y alcantarillado hacia Piganta, Mojanda, Mojandita y El Moyal.",
+    "pag": 3
+   },
+   {
+    "t": "Vigilar que siete barrios sin recolección de basura reciban el servicio municipal.",
+    "que": "El plan dice que la junta dará seguimiento a la basura en Piganta, Mojanda, Mojandita, El Moyal, San José, Santa Marianita y Tinajillas. No dice cómo ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio; la junta solo puede dar seguimiento.",
+    "cita": "Seguimiento al cierre de brechas de recolección de basura en los barrios sin cobertura municipal",
+    "pag": 3
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Pedir a la Prefectura que mejore la vía Chavezpamba—Atahualpa—Puéllaro y las vías secundarias.",
+    "que": "El plan dice que se gestionará ante la Prefectura de Pichincha el arreglo de esta vía y de las vías sin señales ni luces. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca a la Prefectura; la junta puede pedirlo y cuidar caminos con ella.",
+    "cita": "Gestión ante la Prefectura de Pichincha del mejoramiento de la vía Chavezpamba—Atahualpa—Puéllaro y de",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Buscar convenios para dar asistencia técnica y cursos a productores de ganado y flores.",
+    "que": "El plan dice que se gestionarán convenios de asistencia técnica con el Ministerio de Agricultura (MAG) y otras entidades. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita un acuerdo con el Ministerio de Agricultura. El plan no dice cuándo.",
+    "cita": "Gestión de convenios de asistencia técnica agropecuaria y florícola con el MAG y entidades especializadas.",
+    "pag": 3
+   },
+   {
+    "t": "Promover el turismo de la Ruta Escondida con sus páramos, cascadas y bosques.",
+    "que": "El plan dice que se impulsará el turismo patrimonial y comunitario de la Ruta Escondida. No dice cómo se hará ni cuánto costará.",
+    "v": "media",
+    "n": "Requiere acuerdos con otras entidades. El plan no dice cómo.",
+    "cita": "Impulso al turismo patrimonial y comunitario de la Ruta Escondida, aprovechando el patrimonio natural",
+    "pag": 3
+   }
+  ],
+  "social": [
+   {
+    "t": "Invitar a más vecinos a las mesas de planificación que casi no tienen participación.",
+    "que": "El plan dice que se buscará más gente en las mesas de asentamientos, producción y gestión del territorio. No dice cómo ni cuándo.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es tarea de la junta.",
+    "cita": "Fortalecimiento de la participación ciudadana en las mesas de trabajo del Consejo Parroquial de Planificación",
+    "pag": 3
+   }
+  ],
+  "otros": [
+   {
+    "t": "Gestionar la regularización del terreno del subcentro de salud del Barrio El Triunfo.",
+    "que": "El plan dice que se hará con el Ministerio de Salud Pública. El terreno no tiene escritura pública. No dice cuándo.",
+    "v": "baja",
+    "n": "La salud le toca al Ministerio de Salud, no a la junta.",
+    "cita": "Gestión interinstitucional para la regularización del predio del subcentro de salud del Barrio El Triunfo",
+    "pag": 3
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Dar seguimiento a los riesgos de sismos, deslizamientos y ceniza de los volcanes.",
+    "que": "El plan dice que la junta seguirá la exposición de la parroquia a sismos, deslizamientos y ceniza volcánica. No dice qué acciones ni cuánto costará.",
+    "v": "alta",
+    "n": "Es vigilancia y pedido de informes; cuesta poco.",
+    "cita": "Seguimiento a la exposición de la parroquia frente a riesgos geodinámicos (sismos, deslizamientos) y a la",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [
+  "Rendir cuentas una vez al año ante los vecinos de la parroquia."
+ ],
+ "notas": [
+  "Muchas propuestas (agua, alcantarillado, basura, salud) son de otras entidades; la junta solo puede pedirlas o darles seguimiento.",
+  "El plan no dice cuánto costará ninguna propuesta ni en qué plazo se cumplirán."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "paginas": 5
+}

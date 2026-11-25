@@ -1,0 +1,114 @@
+{
+ "enfoque": "Plan de la parroquia de Pomasqui, no uno hecho para el cargo de vocal: cuidar quebradas y ríos, ferias, cultura y obras que dependen del Municipio.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Sembrar árboles en quebradas y laderas cada año, con barrios y escuelas.",
+    "que": "El plan dice que habrá un programa anual con participación de barrios y unidades educativas. No dice cuánto costará ni cuántos árboles.",
+    "v": "alta",
+    "n": "La junta puede organizarlo con mingas. El plan no dice cuánto costará.",
+    "cita": "Programa anual de reforestación en quebradas y laderas, con participación de barrios y unidades educativas.",
+    "pag": 4
+   },
+   {
+    "t": "Sembrar árboles nativos y poner cercas comunitarias en los bordes de las quebradas.",
+    "que": "El plan dice que los bordes de quebrada serán franjas de protección con árboles nativos y cercas comunitarias. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio. El plan no dice cuánto costará.",
+    "cita": "Recuperar los bordes de quebrada como franjas de protección ecológica, con reforestación nativa y cerramientos comunitarios que impidan nuevas invasiones.",
+    "pag": 3
+   },
+   {
+    "t": "Hacer y mantener al día un mapa de las quebradas con riesgo y casas afectadas.",
+    "que": "El plan dice que el mapa mostrará nivel de riesgo, viviendas afectadas y estado de las laderas. No dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Es un trabajo de vigilancia que puede hacer la junta. El plan no dice cuánto costará.",
+    "cita": "Levantar y mantener actualizado un mapa parroquial de quebradas con nivel de riesgo, viviendas afectadas y estado de los taludes, como insumo de vigilancia y gestión.",
+    "pag": 3
+   },
+   {
+    "t": "Vigilar que el Municipio haga las obras para evitar derrumbes en el río Monjas y sus quebradas.",
+    "que": "El plan dice que la junta exigirá y dará seguimiento a las obras ordenadas por el Municipio, con énfasis en Santa Clara del Común. No dice fechas.",
+    "v": "media",
+    "n": "Las obras las hace el Municipio. La junta solo exige y vigila. El plan no dice cuándo.",
+    "cita": "Exigir y dar seguimiento, desde el GAD parroquial, al cumplimiento de las obras de mitigación ordenadas por el Municipio del DMA para la cuenca del río Monjas",
+    "pag": 3
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Pedir al Municipio y a la Prefectura arreglar calles y alumbrado, empezando por Las Tolas.",
+    "que": "El plan dice que se dará prioridad a barrios postergados, sobre todo Las Tolas. No dice cuánto costará ni cuándo se hará.",
+    "v": "media",
+    "n": "Lo hacen el Municipio y la Prefectura (gobierno de la provincia), no la junta. El plan no dice cuándo.",
+    "cita": "Gestión ante el Municipio del DMA y la Prefectura de Pichincha del mantenimiento vial y del alumbrado público",
+    "pag": 4
+   }
+  ],
+  "social": [
+   {
+    "t": "Pedir al Ministerio de Salud actividades de recreo y cuidado preventivo para adultos mayores.",
+    "que": "El plan dice que habrá actividades de esparcimiento y salud preventiva para adultos mayores, junto con el Ministerio de Salud. No dice cuánto costará.",
+    "v": "baja",
+    "n": "La salud le toca al Ministerio, no a la junta. El plan no dice cuánto costará.",
+    "cita": "Gestión de una oferta permanente de actividades de esparcimiento y salud preventiva para el adulto mayor, en coordinación con el Ministerio de Salud Pública.",
+    "pag": 4
+   },
+   {
+    "t": "Usar casas comunales, canchas cubiertas y salones de barrio para clases de música, danza y arte.",
+    "que": "El plan dice que espacios públicos que hoy casi no se usan serán espacios creativos para música, danza, artes y talleres. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Son espacios que ya existen y la junta puede organizarlos. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Gestión para el aprovechamiento de espacios públicos subutilizados (casas comunales, canchas cubiertas, salones barriales) como espacios creativos comunitarios permanentes para música, danza, artes plásticas y talleres.",
+    "pag": 4
+   },
+   {
+    "t": "Ampliar el calendario de actividades culturales al año, con fiestas patronales y ferias de arte urbano.",
+    "que": "El plan dice que se sumarán actividades al calendario cultural anual, incluidas las fiestas de Santa Clara y del Señor del Árbol, y ferias de arte urbano. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Son actos y ferias que la junta puede organizar. El plan no dice cuánto costará.",
+    "cita": "Ampliación del calendario cultural anual, incluidas las fiestas de Santa Clara y del Señor del Árbol, y ferias de arte urbano.",
+    "pag": 4
+   }
+  ],
+  "economia": [
+   {
+    "t": "Organizar ferias periódicas para que productores y emprendedores locales vendan sus productos.",
+    "que": "El plan dice que habrá ferias periódicas de venta para productores y emprendedores. No dice cada cuánto, dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "La junta puede organizar ferias. El plan no dice cada cuánto ni dónde se harán.",
+    "cita": "Organización de ferias periódicas de comercialización para productores y emprendedores locales",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Rendir cuentas cada año y ordenar los aportes y preguntas que hagan los vecinos.",
+    "que": "El plan dice que la junta rendirá cuentas cada año y registrará las consultas y aportes de los ciudadanos. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta. El plan no dice cuánto costará ni en qué fecha.",
+    "cita": "Rendición de cuentas anual, con sistematización de consultas y aportes ciudadanos.",
+    "pag": 2
+   }
+  ]
+ },
+ "metas": [
+  "Programa de reforestación en quebradas y laderas cada año.",
+  "Rendición de cuentas una vez al año.",
+  "Calendario cultural anual con fiestas y ferias."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni cuándo se hará. Varias dependen del Municipio o de la Prefectura.",
+  " Incluye agua, alcantarillado, salud y seguridad, que no le tocan a la junta parroquial. Es un plan general de la parroquia."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "paginas": 6
+}

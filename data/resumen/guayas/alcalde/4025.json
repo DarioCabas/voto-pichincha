@@ -1,0 +1,121 @@
+{
+ "enfoque": "Agua, basura, calles, mercado y terminal de buses por fases, y un centro de maquinaria para el campo. El plan no fija montos ni fechas exactas.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Mejorar las vías urbanas del cantón.",
+    "que": "Hará un inventario de calles en 2027 y arreglos cada año. Usa el 20% de una cartera indicativa. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto cuesta.",
+    "cita": "Mejorar las vías urbanas y coordinar con la Prefectura la conectividad rural, al tiempo que se ordena el",
+    "pag": 10
+   },
+   {
+    "t": "Hacer el terminal de buses por fases, solo con demanda, terreno y permisos.",
+    "que": "La primera fase solo se hará si existen las condiciones. El plan prevé crédito y convenios, pero no dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de permisos, terreno y crédito.",
+    "cita": "un terminal desarrollado por fases solo cuando cxistan demanda, terreno, pcrmisos y financiamiento",
+    "pag": 14
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Hacer un plan maestro de agua: arreglar, ampliar y controlar la calidad.",
+    "que": "Se hará con un catastro de redes y usuarios, y las obras irán por fases. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio y a su empresa pública; el plan no dice costos.",
+    "cita": "Plan maestro, rehabilitación, expansión, control de calidad y fortaleci¡úiento comurlitario",
+    "pag": 7
+   },
+   {
+    "t": "Ordenar las rutas de basura y llegar a más zonas rurales.",
+    "que": "En 2027 hará la línea base y las rutas; desde 2028 ampliará la cobertura y mejorará el servicio. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio; el plan no dice cuánto cuesta.",
+    "cita": "2027: lineabase y rutas; 2028-2031: expa¡sión y mejora continua.",
+    "pag": 13
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Reubicar comerciantes y rehabilitar el mercado por fases.",
+    "que": "Empieza con un censo de comerciantes. El mercado se arreglará sin cortes desproporcionados. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto cuesta.",
+    "cita": "corredores especializados; rehabilitación del mercado sin interrupciones desproporcionadas",
+    "pag": 12
+   },
+   {
+    "t": "Regularizar terrenos según su caso, riesgo y servicios.",
+    "que": "Publicará la ruta y los requisitos de cada caso. Solo regularizará lo que la ley permita. El plan no dice cuánto tardará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, solo en casos legalmente posibles.",
+    "cita": "Clasificar casos por situación juridica, riesgo, seryicios y compatibilidad",
+    "pag": 14
+   }
+  ],
+  "economia": [
+   {
+    "t": "Abrir un centro municipal de maquinaria para el campo; hasta dos más por convenio.",
+    "que": "El primer centro estaría listo en 2028. Los otros dos solo si son viables, entre 2029 y 2031. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "La puede empujar, pero depende de convenios y de que sea viable.",
+    "cita": "servicios de mecanización bien administrados, formación, organización y conexión con mercados",
+    "pag": 12
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer paquetes de obras propios para Sabanilla y Valle de la Virgen.",
+    "que": "Cada parroquia tendrá su propio paquete. Los recintos se atenderán por circuitos rurales. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de convenios con la Prefectura y las juntas parroquiales.",
+    "cita": "Sabanilla y Valle de la Virgen tendrán paquetes parroquiales propios, mientras que los recintos se atenderán mediante circuitos rurales.",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Un centro municipal de maquinaria operativo en 2028.",
+  "Trámites digitalizados: 30% en 2027, 50% en 2028 y 70% en 2029.",
+  "Informe público a los 100 primeros días de gestión.",
+  "Evaluación de medio período al cierre de 2029 y evaluación final en 2031.",
+  "100% de las obras con ficha pública."
+ ],
+ "notas": [
+  "Muchas propuestas no dicen cuánto cuestan ni cuándo. Los montos reales se definirán después, en el plan de inversión.",
+  "El nombre en el plan es Mario Geovanny Cubillo Hernández; confirme que coincide con la candidatura."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27
+ ],
+ "paginas": 27
+}

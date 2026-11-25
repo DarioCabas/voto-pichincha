@@ -1,0 +1,146 @@
+{
+ "enfoque": "Propone agua, alcantarillado, basura, calles, buses y trámites en internet. Casi todo viene del plan de desarrollo del cantón y no dice cuánto costará.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar la planta de agua potable para que llegue a más hogares.",
+    "que": "El plan no dice en qué zonas ni cuánto costará. Tampoco dice de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará.",
+    "cita": "Ampliar la cobertura de la planta de tratamiento de agua potable existente para incrementar la distribución del servicio.",
+    "pag": 26
+   },
+   {
+    "t": "Construir y mejorar las redes de alcantarillado pluvial (aguas lluvias).",
+    "que": "El plan no dice en qué barrios ni cuándo se hará. Tampoco dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará.",
+    "cita": "Construir y optimizar las redes de alcantarillado pluvial",
+    "pag": 26
+   },
+   {
+    "t": "Cambiar los camiones de basura y definir nuevas rutas y horarios.",
+    "que": "El plan no dice cuántos camiones ni cuánto costará. Tampoco dice en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: basura. Faltan costo y plazo.",
+    "cita": "Modernizar el sistema municipal de recolección de desechos sólidos mediante la renovación de los camiones recolectores y el diseño de rutas y horarios.",
+    "pag": 26
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer una celda emergente y un programa piloto de reciclaje en la fuente.",
+    "que": "El plan no dice dónde se hará la celda ni cuánto costará. Dice que alargará la vida del relleno sanitario.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el plan no dice costo ni fecha.",
+    "cita": "Gestionar la construcción de una celda emergente e implementar un programa piloto de reciclaje en la fuente para alargar la vida útil del relleno sanitario.",
+    "pag": 26
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar las calles y las vías principales y de acceso del cantón.",
+    "que": "El plan no dice qué calles ni cuánto costará. Tampoco dice en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta saber qué calles y cuánto cuesta.",
+    "cita": "Regenerar las calles, arreglo de vías principales y de acceso.",
+    "pag": 25
+   },
+   {
+    "t": "Mover a los comerciantes autónomos a plazas de servicios, dentro de un proyecto urbano.",
+    "que": "El plan no dice dónde serán las plazas ni cuánto costará. Tampoco dice cuándo se hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (espacio urbano y mercados). Falta dónde y cuándo.",
+    "cita": "Ejecutar el proyecto de regeneración urbana y ordenamiento comercial, reubicando de forma digna a los comerciantes autónomos mediante plazas de servicios.",
+    "pag": 26
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Ordenar las rutas de buses del cantón con señales y letreros iguales.",
+    "que": "El plan no dice qué rutas se cambiarán ni cuánto costará. Tampoco dice cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: tránsito y buses. Faltan costo y plazo.",
+    "cita": "Reordenar las rutas de transporte público cantonal mediante señalética e identificación homologada, agilizando el flujo vial.",
+    "pag": 26
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer en internet los trámites de patentes, permisos y pago de predios.",
+    "que": "El plan dice que se reducirán las esperas. No dice cuánto costará ni cuándo estará listo.",
+    "v": "alta",
+    "n": "Le toca al Municipio y es posible. Falta costo y fecha.",
+    "cita": "para automatizar el trámite de patentes, permisos de funcionamiento y pago de predios",
+    "pag": 27
+   },
+   {
+    "t": "Hacer asambleas ciudadanas cada tres meses y rendiciones de cuentas abiertas al público.",
+    "que": "El plan dice que serán trimestrales y de acceso libre. No dice dónde se harán ni cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca al Municipio y depende solo de la alcaldía.",
+    "cita": "Instituir las asambleas ciudadanas cantonales trimestrales y rendiciones de cuentas públicas de acceso libre",
+    "pag": 27
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Formar brigadas barriales de seguridad junto con la Policía Nacional.",
+    "que": "El plan dice que tendrán alarmas comunitarias y equipos de comunicación. No dice cuánto costará.",
+    "v": "baja",
+    "n": "La seguridad es tarea de la Policía, no del Municipio.",
+    "cita": "Formar y equipar brigadas barriales de seguridad comunitaria en coordinación con la Policía Nacional",
+    "pag": 26
+   }
+  ]
+ },
+ "metas": [
+  "Asambleas ciudadanas cantonales cada tres meses.",
+  "Audiencias públicas en la municipalidad al menos una vez por semana.",
+  "Rendición de cuentas pública una vez al año.",
+  "Seguimiento y evaluación del plan cada año, de 2027 a 2031."
+ ],
+ "notas": [
+  "Gran parte del diagnóstico y de las propuestas viene del plan de desarrollo del cantón y de la parroquia San Jacinto; hay pocas propuestas propias.",
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35
+ ],
+ "paginas": 35
+}

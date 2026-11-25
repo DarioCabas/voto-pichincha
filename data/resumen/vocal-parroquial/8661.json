@@ -1,0 +1,131 @@
+{
+ "enfoque": "Plan de la junta de Aloasí: caminos rurales, mingas, ferias, espacios comunitarios y riesgos. Varias metas dependen del Municipio, la Prefectura o ministerios.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar al menos 10 km de vías rurales: mantenimiento, lastrado (poner material) y señales.",
+    "que": "Se gestiona ante la Prefectura y el GAD Mejía, en años 1 a 4. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura y el GAD Mejía.",
+    "cita": "gestionando ante la Prefectura de Pichincha y el GAD Mejía el mantenimiento, lastrado y señalización de al menos 10",
+    "pag": 8
+   },
+   {
+    "t": "Organizar mingas (trabajo comunitario) para arreglar los caminos de los barrios.",
+    "que": "Plazo permanente. La maquinaria se pide al GAD Mejía. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "La junta organiza a la gente. La maquinaria la pide al GAD Mejía.",
+    "cita": "Recuperar la minga comunitaria como mecanismo de mantenimiento vial permanente.",
+    "pag": 9
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Dar mantenimiento cada año a casas comunales, canchas y centros de acopio.",
+    "que": "Son 14 casas comunales, 8 canchas deportivas y 11 canchas de uso múltiple. Se paga con el presupuesto propio del GAD. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Son espacios de la parroquia; la junta sí puede cuidarlos.",
+    "cita": "Garantizar mantenimiento anual a toda la infraestructura comunitaria existente.",
+    "pag": 10
+   },
+   {
+    "t": "Ampliar redes de agua potable y alcantarillado en barrios con menos cobertura.",
+    "que": "Se gestiona con el GAD Mejía y la Prefectura, en al menos 5 barrios, en años 1 a 3. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "El agua y el alcantarillado le tocan al GAD Mejía, no a la junta.",
+    "cita": "priorizando la extensión de redes de agua potable y alcantarillado a barrios rurales con menor cobertura",
+    "pag": 8
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer un plan parroquial de riesgos con la Secretaría de Gestión de Riesgos.",
+    "que": "El plan debe quedar aprobado y dado a conocer en los 23 barrios en el año 1. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita trabajar con la Secretaría de Gestión de Riesgos.",
+    "cita": "Contar con un Plan Parroquial de Gestión de Riesgos aprobado y socializado.",
+    "pag": 10
+   },
+   {
+    "t": "Proteger al menos tres microcuencas (fuentes de agua) con reforestación y cuidado de quebradas.",
+    "que": "Se gestiona con el Ministerio del Ambiente y el GAD Mejía, en años 1 a 4. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita autorización del Ministerio del Ambiente y el GAD Mejía.",
+    "cita": "Proteger al menos tres microcuencas hídricas de la parroquia.",
+    "pag": 12
+   }
+  ],
+  "social": [
+   {
+    "t": "Reabrir el Centro de Desarrollo Infantil de la parroquia, con convenio del MIES.",
+    "que": "El plan dice que el MIES debe firmar el convenio para reabrirlo en el año 1. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "Le toca al MIES (Gobierno Central), no a la junta.",
+    "cita": "reactivando el Centro de Desarrollo Infantil parroquial, ampliando la atención a",
+    "pag": 8
+   },
+   {
+    "t": "Ofrecer deporte, cultura y prevención social para jóvenes y mujeres jefas de hogar.",
+    "que": "Al menos 4 programas deportivos y juveniles, y al menos 2 de capacitación para mujeres. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita apoyo del MIES y del Ministerio del Deporte.",
+    "cita": "culturales y de prevención social para jóvenes y mujeres jefas de hogar.",
+    "pag": 8
+   }
+  ],
+  "economia": [
+   {
+    "t": "Organizar ferias para que los productores vendan directo a la gente.",
+    "que": "Al menos 4 ferias al año, con el MAG y el GAD parroquial. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Es una actividad que la junta puede organizar.",
+    "cita": "ferias agroproductivas y un recinto ferial parroquial para la comercialización directa.",
+    "pag": 8
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Dar cuentas cada seis meses, con datos de gastos y contratos que se puedan revisar.",
+    "que": "Se publica el gasto, los contratos y las obras del GAD cada semestre. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "La junta puede hacerlo por sí sola.",
+    "cita": "Institucionalizar la rendición de cuentas semestral con información verificable.",
+    "pag": 13
+   }
+  ]
+ },
+ "metas": [
+  "Al menos 10 km de vías rurales con mantenimiento, lastrado y señalización (años 1 a 4)",
+  "Alcantarillado rural por encima del 45% al terminar el período",
+  "Al menos 4 ferias agroproductivas al año",
+  "Plan Parroquial de Gestión de Riesgos aprobado y dado a conocer en los 23 barrios en el año 1",
+  "Al menos 3 microcuencas con plan de protección (años 1 a 4)"
+ ],
+ "notas": [
+  "El diagnóstico se copia del plan de desarrollo de la parroquia 2023-2027. Varias metas dependen de otras instituciones.",
+  "Incluye temas que no son de la junta (agua, salud, policía). El plan no da costos por obra."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19
+ ],
+ "paginas": 19
+}

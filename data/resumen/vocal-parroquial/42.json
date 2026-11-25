@@ -1,0 +1,116 @@
+{
+ "enfoque": "Cuidar parques, casas comunales, caminos rurales y el ambiente, y apoyar ferias y productores. Varias obras dependen del Municipio y la Prefectura.",
+ "tabla": {
+  "social": [
+   {
+    "t": "Gestionar el mantenimiento de casas comunales y espacios recreativos.",
+    "que": "El plan no dice cuánto costará ni cuándo se hará. No dice de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Está dentro de lo que puede hacer la junta, pero el plan no dice cómo lo pagará.",
+    "cita": "Gestionar el mantenimiento y fortalecimiento de casas comunales, espacios recreativos",
+    "pag": 2
+   },
+   {
+    "t": "Apoyar cursos para dirigentes comunitarios y organizaciones sociales.",
+    "que": "El plan no dice cuántos cursos habrá, dónde ni cuándo se darán.",
+    "v": "alta",
+    "n": "Capacitar a dirigentes sí le toca a la junta.",
+    "cita": "Apoyar procesos de capacitación para dirigentes comunitarios y organizaciones sociales.",
+    "pag": 2
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Presentar proyectos para mejorar parques, áreas verdes y espacios públicos.",
+    "que": "El plan no dice qué parques ni cuánto costará. No dice cuándo se harán.",
+    "v": "alta",
+    "n": "Los parques sí son competencia de la junta. El plan no dice con qué dinero.",
+    "cita": "Impulsar proyectos para mejorar los espacios públicos, áreas verdes, parques y equipamientos comunitarios.",
+    "pag": 3
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Coordinar el arreglo de caminos rurales y accesos a las comunidades.",
+    "que": "El plan no dice qué caminos se arreglarán ni cuánto costará. No dice en qué plazo.",
+    "v": "media",
+    "n": "Los caminos se arreglan con la Prefectura. La junta solo coordina.",
+    "cita": "Coordinar acciones para el mantenimiento de la vialidad rural y los accesos comunitarios.",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Organizar ferias agrícolas, gastronómicas y artesanales para vender productos locales.",
+    "que": "El plan no dice dónde ni cuándo serán las ferias, ni cuánto costarán.",
+    "v": "alta",
+    "n": "Las ferias sí le tocan a la junta, con poco presupuesto.",
+    "cita": "Impulsar ferias agrícolas, gastronómicas, artesanales y espacios de comercialización",
+    "pag": 3
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Promover la protección de fuentes de agua, quebradas y bosques.",
+    "que": "El plan no dice qué fuentes ni qué acciones concretas. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Cuidar el ambiente sí le toca a la junta. El plan no dice con qué recursos.",
+    "cita": "Promover la protección de fuentes de agua, quebradas, bosques y áreas de importancia",
+    "pag": 3
+   },
+   {
+    "t": "Hacer campañas de reforestación, educación ambiental y recuperación de espacios naturales.",
+    "que": "El plan no dice cuántos árboles, en qué lugares ni cuándo se harán las campañas.",
+    "v": "alta",
+    "n": "La siembra de árboles y la educación ambiental le tocan a la junta.",
+    "cita": "Gestionar campañas de reforestación, educación ambiental y recuperación de espacios",
+    "pag": 3
+   },
+   {
+    "t": "Coordinar acciones para prevenir incendios forestales.",
+    "que": "El plan no dice con qué instituciones ni cuándo. No dice cuánto costará.",
+    "v": "media",
+    "n": "Prevenir incendios requiere trabajo con otras instituciones. El plan no las nombra.",
+    "cita": "Coordinar acciones de prevención de incendios forestales y gestión de riesgos.",
+    "pag": 4
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Gestionar acciones para el servicio de agua potable y saneamiento.",
+    "que": "El plan no dice qué obras ni cuánto costarán. Pide gestionarlas ante otras instituciones.",
+    "v": "baja",
+    "n": "El agua potable le toca a otro nivel de gobierno, no a la junta.",
+    "cita": "Gestionar acciones para fortalecer los servicios de agua potable, saneamiento,",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas parroquiales periódicas para informar sobre la gestión.",
+    "que": "El plan no dice cada cuánto ni dónde serán las asambleas.",
+    "v": "alta",
+    "n": "Informar a la gente sobre el trabajo de la junta sí le toca a la junta.",
+    "cita": "Asambleas parroquiales periódicas para informar sobre la gestión realizada.",
+    "pag": 4
+   }
+  ]
+ },
+ "metas": [
+  "Período de trabajo: 2027 a 2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "El diagnóstico menciona Cotogchoa y Rumipamba; el texto parece general y no detalla obras concretas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "paginas": 6
+}

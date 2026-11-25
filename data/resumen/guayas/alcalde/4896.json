@@ -1,0 +1,129 @@
+{
+ "enfoque": "Calles, agua, basura, parques y el Malecón. Muchas obras dependen de estudios, convenios u otras instituciones, y el plan casi no da costos.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Terminar la segunda fase de la Av. Río Amazonas y el Malecón.",
+    "que": "Va desde la calle Juan Álvarez hasta Gregorio Conforme, con accesibilidad universal. El plan no dice cuánto costará. La matriz la ubica en los cuatro años.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Fase II Av. Río Amazonas y Malecón de Nobol: continuidad de la intervención vial y recreativa desde la calle",
+    "pag": 6
+   },
+   {
+    "t": "Arreglar baches y hacer calles de hormigón por sectores.",
+    "que": "Se hará con reporte ciudadano y seguimiento público. El plan no dice cuántas calles se harán ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Nobol en Marcha (mantenimiento vial permanente): plan de bacheo y calles de hormigón armado por",
+    "pag": 2
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Hacer estudios para una planta de agua potable y ampliar la red rural.",
+    "que": "Por ahora son estudios. Incluye pozos profundos en recintos priorizados, con la comuna Petrillo. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "cita": "Agua Segura Nobol: estudios para la construcción de una planta potabilizadora, ampliación de la red de",
+    "pag": 6
+   },
+   {
+    "t": "Cerrar el botadero actual y hacer una celda nueva para la basura.",
+    "que": "Incluye legalizar los terrenos del botadero actual. El plan no dice cuánto costará ni cuándo estará lista la celda.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Botadero seguro: cierre técnico y legalización de los predios del botadero actual, y construcción de celda",
+    "pag": 6
+   },
+   {
+    "t": "Comprar un camión recolector de basura nuevo.",
+    "que": "Sirve para cubrir más zonas con la recolección. El plan no dice cuánto costará ni en qué año llegará el camión.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará el vehículo.",
+    "cita": "Recolector de basura: gestionar la adquisición de un nuevo vehículo recolector de basura para fortalecer el",
+    "pag": 8
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Crear una ordenanza para industrias de alto riesgo.",
+    "que": "Exige licencia o registro ambiental y un plan para reparar daños antes del permiso. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que da los permisos de uso del suelo.",
+    "cita": "Ordenanza de Uso de Suelo para Industria de Alto Riesgo: exige licencia o registro ambiental y un plan de",
+    "pag": 8
+   },
+   {
+    "t": "Dar incentivos a quienes separen la basura en sus casas.",
+    "que": "Premia la separación de basura desde la fuente. Meta: 20% de adopción ciudadana. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice de dónde saldrán los incentivos.",
+    "cita": "Nobol Recicla: programa de incentivos por recolección diferenciada de desechos sólidos y separación en la",
+    "pag": 8
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir parques y canchas en sectores estratégicos.",
+    "que": "El plan no dice en qué sectores ni cuánto costará. Meta: avanzar 50% en parques y canchas en los años 1 a 3.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Construir parques y canchas recreativos en sectores estratégicos",
+    "pag": 13
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar cámaras enlazadas al 911 y alarmas en los barrios.",
+    "que": "Cámaras de videovigilancia con alarmas comunitarias. El plan no dice cuántas cámaras ni cuánto costará.",
+    "v": "media",
+    "n": "Las cámaras sí pueden ser municipales. La policía y el 911 no.",
+    "cita": "Centro de Monitoreo: cámaras de videovigilancia enlazadas al 911, complementadas con alarmas",
+    "pag": 11
+   }
+  ],
+  "otros": [
+   {
+    "t": "Llevar brigadas de salud a los recintos rurales con el Ministerio de Salud.",
+    "que": "Atención y traslado de personas a los recintos, con enfoque en adultos mayores. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "La salud no le toca al Municipio. Es del Ministerio de Salud.",
+    "cita": "Brigadas de Salud Itinerantes: servicio de atención y traslado articulado con el MSP hacia los recintos",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "Llegar al 80% de cobertura de agua potable, alcantarillado y saneamiento.",
+  "Terminar el 100% de la Fase II de la Av. Río Amazonas y Malecón.",
+  "Tener 30% de la vialidad urbana en buen estado.",
+  "Mejorar 40% de la vialidad rural.",
+  "Avanzar 50% en parques y canchas."
+ ],
+ "notas": [
+  "Varias propuestas son de salud, escuelas, policía o empleo, que no le tocan al Municipio. Casi no dan costos.",
+  "La matriz habla de calles asfaltadas, pero las propuestas hablan de calles de hormigón. El plan no aclara el tipo de calle."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17
+ ],
+ "paginas": 17
+}

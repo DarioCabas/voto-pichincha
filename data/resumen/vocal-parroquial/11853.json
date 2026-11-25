@@ -1,0 +1,123 @@
+{
+ "enfoque": "Plan general: arreglar vías con la Prefectura, cuidar parques y el ambiente, hacer ferias y cursos, y pedir más vigilancia. Casi no dice costos.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Pedir a la Prefectura obras de asfaltado y arreglo de vías.",
+    "que": "El plan no dice cuánto costará ni cuándo. Sería una coordinación con la Prefectura de Pichincha.",
+    "v": "media",
+    "n": "Las vías grandes son de la Prefectura. La junta solo coordina.",
+    "cita": "Coordinación con la Prefectura de Pichincha para asfaltado y mantenimiento de vías.",
+    "pag": 6
+   },
+   {
+    "t": "Gestionar con la Prefectura el puente carrosable sobre el río San Pedro.",
+    "que": "El plan no dice cuánto costará ni cuándo. El puente uniría la vía E35 con la Av. Huancavilca.",
+    "v": "baja",
+    "n": "Es obra grande de la Prefectura. La junta solo puede gestionarla.",
+    "cita": "Gestionar en conjunto con la Prefectura de Pichincha la construcción del puente carrosable",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir y mantener obras y espacios públicos de la parroquia.",
+    "que": "El plan no dice cuánto costará ni cuándo. Incluye parques, canchas y casas comunales.",
+    "v": "media",
+    "n": "Parques sí son de la junta, pero el plan no dice cuánto cuesta.",
+    "cita": "Planificar, construir y mantener infraestructura física y espacios públicos.",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Promover el Pasochoa, el Pogyo, las piscinas y los criaderos de truchas.",
+    "que": "El plan no dice cuánto costará ni cuándo. También habla de rutas turísticas y ferias gastronómicas.",
+    "v": "alta",
+    "n": "Promover lugares es tarea de la junta. El plan no dice cuánto cuesta.",
+    "cita": "Promoción de atractivos turísticos: Pasochoa, Pogyo, piscinas y criaderos de truchas.",
+    "pag": 6
+   },
+   {
+    "t": "Dar cursos a artesanos y emprendedores y hacer ferias locales.",
+    "que": "El plan no dice cuánto costará ni cuándo. Incluye cursos y espacios de venta para sus productos.",
+    "v": "alta",
+    "n": "Cursos y ferias sí son tareas de la junta. Falta el costo.",
+    "cita": "Apoyar a los artesanos y emprendedores de la economía popular y solidaria mediante programas de capacitación",
+    "pag": 5
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer programas para sembrar árboles y manejar la basura.",
+    "que": "El plan no dice cuánto costar�� ni cuándo. Incluye apoyo a agricultores con capacitación agroecológica.",
+    "v": "alta",
+    "n": "Cuidar el ambiente es tarea de la junta. Falta el costo.",
+    "cita": "Programas de reforestación y manejo de residuos sólidos.",
+    "pag": 6
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Poner cámaras y alarmas en barrios para vigilar a la comunidad.",
+    "que": "El plan no dice cuánto costará, quién las pagará ni cuándo.",
+    "v": "media",
+    "n": "Cuesta dinero y el plan no dice quién paga. Podría necesitar acuerdo con el Municipio.",
+    "cita": "Instalación de sistemas de vigilancia comunitaria (cámaras y alarmas).",
+    "pag": 6
+   },
+   {
+    "t": "Pedir a la Policía rondas frecuentes en la parroquia.",
+    "que": "El plan no dice cuántas rondas habrá ni cada cuánto tiempo.",
+    "v": "baja",
+    "n": "La policía no le toca a la junta. Solo puede pedir.",
+    "cita": "Coordinación con la Policía Nacional para rondas frecuentes.",
+    "pag": 6
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer talleres con vecinos para planear y evaluar el trabajo.",
+    "que": "El plan no dice cuánto cuestan ni cuántos talleres habrá.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí es tarea de la junta.",
+    "cita": "Talleres de participación ciudadana para planificación y evaluación.",
+    "pag": 7
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Dar cuentas cada año en asambleas abiertas.",
+    "que": "Los resultados se publicarán en medios digitales y físicos para acceso de toda la comunidad.",
+    "v": "alta",
+    "n": "Es tarea propia de la junta. El plan no dice costo.",
+    "cita": "realizará rendiciones de cuentas anuales en asambleas abiertas",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "Rendición de cuentas en asambleas abiertas cada año.",
+  "Reuniones con organizaciones sociales cada seis meses.",
+  "Informes de avances cada seis meses.",
+  "Acciones previstas en cuatro años, de 2027 a 2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto cuesta casi ninguna acción ni de dónde sale el dinero para cada una.",
+  "Varias acciones dependen de otros niveles: el puente y el asfaltado de la Prefectura, y las rondas de la Policía Nacional."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "paginas": 10
+}

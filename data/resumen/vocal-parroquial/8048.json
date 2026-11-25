@@ -1,0 +1,110 @@
+{
+ "enfoque": "Plan de toda la lista ADN para cinco precandidatos: caminos, basura, senderos, apoyo a productores y cuidado del agua y bosques. Muchas obras dependen del Municipio o del Estado.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar y dar mantenimiento a caminos de producción ganadera.",
+    "que": "El plan no dice qué caminos ni cuánto costará. Tampoco dice cuándo se haría.",
+    "v": "media",
+    "n": "Los caminos los cuida la junta con la Prefectura. El plan no dice cómo se pagará.",
+    "cita": "Rehabilitación y mantenimiento de caminos vecinales de producción ganadera.",
+    "pag": 5
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Hacer mejoras al sistema de agua potable local de Aloasí.",
+    "que": "El plan no dice qué mejoras se harían ni cuánto costarán. Lo pone como obra prioritaria.",
+    "v": "baja",
+    "n": "El agua potable no es competencia de la junta. Es tarea de otro nivel.",
+    "cita": "Mejoramiento del sistema de agua potable local (JAAP Aloasi).",
+    "pag": 5
+   },
+   {
+    "t": "Pedir al Municipio y a la Prefectura obras de escuelas, salud y agua potable.",
+    "que": "El plan no dice qué obras ni cuánto costarán. Tampoco dice cuándo se harían.",
+    "v": "baja",
+    "n": "Escuelas y salud no son de la junta. Le toca a otro nivel del Estado.",
+    "cita": "Promover y gestionar proyectos con las Instituciones como la el GAD Municipal y GAD Provincial",
+    "pag": 2
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Crear un sistema para recoger la basura separada en zonas rurales.",
+    "que": "El plan no dice en qué zonas ni cuánto costará. Tampoco dice quién recogerá la basura.",
+    "v": "media",
+    "n": "La basura la maneja el Municipio. El plan no dice cómo se pagará.",
+    "cita": "Implementación de sistemas de recolección de basura diferenciada rural.",
+    "pag": 5
+   },
+   {
+    "t": "Arreglar los accesos y senderos peatonales al volcán Corazón.",
+    "que": "El plan no dice qué arreglos se harían ni cuánto costarán. Tampoco dice cuándo.",
+    "v": "media",
+    "n": "Son espacios de la parroquia, pero hace falta acuerdo con el Municipio.",
+    "cita": "Acondicionamiento de accesos peatonales y senderos al volcán Corazón.",
+    "pag": 5
+   },
+   {
+    "t": "Cuidar las fuentes de agua y los bosques con control y participación de la comunidad.",
+    "que": "El plan no dice qué control se hará ni cuánto costará. Sí dice que la comunidad participará.",
+    "v": "alta",
+    "n": "Cuidar el ambiente y organizar a la comunidad sí le toca a la junta.",
+    "cita": "Proteger y conservar las fuentes de agua, bosques y ecosistemas estratégicos, mediante acciones coordinadas de control",
+    "pag": 2
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Ayudar a poner en regla los papeles de terrenos rurales.",
+    "que": "El plan no dice cuántos terrenos ni cuánto costará. Tampoco dice cuándo empezaría.",
+    "v": "baja",
+    "n": "Los papeles de terrenos son tarea de otro nivel del Estado, no de la junta.",
+    "cita": "Programa integral de regularización técnica y jurídica de predios rurales.",
+    "pag": 5
+   },
+   {
+    "t": "Poner letreros y promocionar la Ruta Ferroviaria de Aloasí.",
+    "que": "El plan no dice dónde se pondrían los letreros ni cuánto costará. Tampoco dice cuándo.",
+    "v": "media",
+    "n": "Los espacios de la parroquia sí son de la junta, pero el plan no dice el costo.",
+    "cita": "Promoción, señalización y puesta en valor de la Ruta Ferroviaria de Aloasí.",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar emprendimientos comunitarios y asociativos de economía popular y solidaria.",
+    "que": "El plan no dice cuánto costará ni cuándo. Dice que el apoyo vendrá de instituciones del Estado.",
+    "v": "alta",
+    "n": "Apoyar a productores sí le toca a la junta. El dinero vendría del Estado.",
+    "cita": "Impulsar emprendimientos comunitarios y asociativos, priorizando iniciativas de economía popular y solidaria",
+    "pag": 2
+   },
+   {
+    "t": "Dar cursos y asistencia técnica a productores de la parroquia.",
+    "que": "El plan no dice cuántos cursos ni cuánto costarán. Lo haría junto con entidades del Estado.",
+    "v": "alta",
+    "n": "Cursos y asistencia técnica son tareas de la junta y cuestan poco.",
+    "cita": "Facilitar el acceso a procesos de capacitación, asistencia técnica y transferencia de conocimientos,",
+    "pag": 2
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "Es un plan de toda la lista ADN, no de una sola persona. El plan no dice cuánto costará ninguna obra ni cuándo se haría.",
+  "Varias obras (escuelas, salud, agua, predios) no son de la junta parroquial. El plan no dice con qué dinero se harían."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "paginas": 6
+}

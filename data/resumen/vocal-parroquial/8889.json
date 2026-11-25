@@ -1,0 +1,125 @@
+{
+ "enfoque": "Plan de la lista para la junta de Aloasí: caminos, parques, casas comunales, ferias, organizaciones de barrio y control de obras. No dice cuánto costará ni cuándo.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Coordinar con la Prefectura el mantenimiento de los caminos vecinales.",
+    "que": "El plan dice que se coordinará con la Prefectura el mantenimiento y mejoramiento de caminos. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura, que pone la maquinaria. El plan no dice cuánto costará.",
+    "cita": "Coordinar con la Prefectura el mantenimiento y mejoramiento de los caminos vecinales y de acceso.",
+    "pag": 13
+   },
+   {
+    "t": "Dar prioridad a las vías que llevan a las comunidades a servicios y mercados.",
+    "que": "El plan dice que se priorizarán las vías que conectan a las comunidades con los servicios y mercados. No dice cuáles vías ni cuándo.",
+    "v": "media",
+    "n": "Las obras en caminos dependen de la Prefectura. El plan no dice qué caminos.",
+    "cita": "Priorizar las vías que conectan a las comunidades con los servicios y mercados.",
+    "pag": 13
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir y arreglar parques, espacios públicos y canchas deportivas.",
+    "que": "El plan dice que se construirán y rehabilitarán espacios públicos, parques y canchas. No dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Está entre lo que puede hacer la junta. El plan no dice dónde ni cuánto costará.",
+    "cita": "Construir y rehabilitar espacios públicos, parques y canchas deportivas.",
+    "pag": 13
+   },
+   {
+    "t": "Arreglar casas comunales y los equipos de uso colectivo.",
+    "que": "El plan dice que se mejorarán las casas comunales y el equipamiento de uso colectivo. No dice cuáles ni cuánto costará.",
+    "v": "alta",
+    "n": "Está entre lo que puede hacer la junta. El plan no dice cuánto costará.",
+    "cita": "Mejorar casas comunales y equipamiento de uso colectivo.",
+    "pag": 13
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar emprendimientos y ferias de productos de la parroquia.",
+    "que": "El plan dice que se apoyarán emprendimientos y ferias productivas de la parroquia. No dice cuántas ferias ni cuánto dinero habrá.",
+    "v": "alta",
+    "n": "Está entre lo que puede hacer la junta. El plan no dice cuántas ferias habrá.",
+    "cita": "Apoyar emprendimientos y ferias productivas de la parroquia.",
+    "pag": 14
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Apoyar a familias que producen alimentos y proteger los recursos naturales.",
+    "que": "El plan dice que se apoyará la producción agropecuaria familiar y la protección de los recursos naturales. No dice qué recursos ni cómo.",
+    "v": "alta",
+    "n": "Cuidar el ambiente es parte de lo que puede hacer la junta. El plan no dice cómo.",
+    "cita": "Apoyar emprendimientos rurales, la producción agropecuaria familiar y la protección de los recursos naturales.",
+    "pag": 14
+   }
+  ],
+  "social": [
+   {
+    "t": "Ayudar a los barrios a formar y registrar sus organizaciones.",
+    "que": "El plan dice que se promoverán y legalizarán las organizaciones comunitarias de base. No dice cuántas ni en qué plazo.",
+    "v": "alta",
+    "n": "Organizar a la comunidad está entre lo que puede hacer la junta. El plan no dice en qué plazo.",
+    "cita": "Promover y legalizar las organizaciones comunitarias de base.",
+    "pag": 14
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer talleres en cada barrio para decidir en qué gastar el presupuesto.",
+    "que": "El plan dice que habrá talleres de diagnóstico participativo en cada barrio y comunidad para priorizar el presupuesto. No dice cuántos ni cuándo.",
+    "v": "alta",
+    "n": "Está entre lo que puede hacer la junta. El plan no dice cuántos talleres habrá.",
+    "cita": "Implementar talleres de diagnóstico participativo en cada barrio y comunidad para priorizar el presupuesto",
+    "pag": 13
+   },
+   {
+    "t": "Crear mesas de trabajo fijas con el Municipio y la Prefectura.",
+    "que": "El plan dice que se instalarán mesas técnicas estables con los equipos de planificación del Municipio de Mejía y la Prefectura de Pichincha. No dice cada cuánto se reunirán.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio y la Prefectura. El plan no dice cada cuánto se reúnen.",
+    "cita": "Instalar Mesas Técnicas Territoriales estables con los equipos de Planificación del GAD Municipal de Mejía",
+    "pag": 12
+   },
+   {
+    "t": "Vigilar las obras que se hacen en la parroquia.",
+    "que": "El plan dice que se dará seguimiento a las obras que se ejecutan en la parroquia. No dice cómo ni con qué frecuencia.",
+    "v": "alta",
+    "n": "Vigilar obras es parte de lo que puede hacer la junta. No cuesta mucho.",
+    "cita": "Dar seguimiento a las obras que se ejecutan en la parroquia.",
+    "pag": 2
+   }
+  ]
+ },
+ "metas": [
+  "Período de trabajo: 2027 a 2031.",
+  "Informe anual de rendición de cuentas en audiencia pública."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Casi todas las acciones son generales. No nombra barrios ni caminos para las obras."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16
+ ],
+ "paginas": 16
+}

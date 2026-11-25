@@ -1,0 +1,132 @@
+{
+ "enfoque": "Plan copiado de la Alcaldía y del plan de la parroquia Tandapi: ambiente, productores, fiestas, caminos y rendición de cuentas. No dice cuánto costará.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Retomar el proyecto de tratamiento de los desechos.",
+    "que": "El plan pide retomar este proyecto. No dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Le toca al Municipio, no a la junta.",
+    "cita": "Retomar el proyecto de tratamiento de los desechos",
+    "pag": 16
+   },
+   {
+    "t": "Hacer planes para prevenir riesgos naturales y los que causa la gente.",
+    "que": "El plan pide identificar los riesgos y hacer planes de prevención y mitigación. No dice cuánto costará.",
+    "v": "media",
+    "n": "Los planes se pueden hacer con la comunidad, pero necesitan apoyo de otros niveles.",
+    "cita": "Identificación de los riesgos naturales y antrópicos para generar planes de",
+    "pag": 16
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer un plan de producción y venta para proyectos agro saludables.",
+    "que": "El plan dice que estará listo hasta el cuarto año de gestión. No dice cuánto costará ni quién lo pagará.",
+    "v": "media",
+    "n": "Pide acuerdos con el Ministerio de Agricultura. El plan no dice cuánto cuesta.",
+    "cita": "Elaborar un plan de producción y comercialización para proyectos agro",
+    "pag": 23
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una rendición de cuentas cada año y otra al final de la gestión.",
+    "que": "El plan habla de audiencias públicas y de informes. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Es algo que la junta sí puede hacer.",
+    "cita": "Esta rendición de cuentas se realizará una vez al año y al final de la gestión",
+    "pag": 26
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar y mantener caminos rurales de la parroquia.",
+    "que": "El plan mide este trabajo en kilómetros de vías por año. No dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Los caminos se cuidan junto con la Prefectura. El plan no dice cuánto cuesta.",
+    "cita": "Km de vías mantenidas o intervenidas Según POA anual",
+    "pag": 29
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Hacer planes de seguridad según lo que pida la comunidad.",
+    "que": "El plan habla de planes de seguridad y riesgos. No dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "La policía no le toca a la junta.",
+    "cita": "Generar planes de seguridad y riesgos de acuerdo a las necesidad de la comunidad",
+    "pag": 16
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar fiestas tradicionales para que se mueva la economía.",
+    "que": "El plan dice que las fiestas ayudan a la economía. No dice cuántas fiestas ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar fiestas está al alcance de la junta.",
+    "cita": "Fomentar las fiestas tradicionales ya que se dinamiza la economía",
+    "pag": 16
+   },
+   {
+    "t": "Dar apoyo psicológico a familias con problemas dentro de la casa.",
+    "que": "El plan habla de apoyo a familias afectadas. No dice quién lo dará ni cuánto costará.",
+    "v": "baja",
+    "n": "Es trabajo de salud, no le toca a la junta.",
+    "cita": "Apoyo psicológico a las familias afectadas por problemas intrafamiliares",
+    "pag": 16
+   }
+  ]
+ },
+ "metas": [
+  "20% de las quebradas de la parroquia intervenidas, delimitadas o recuperadas, hasta diciembre de 2031.",
+  "Al año 2031, un 20% de la población incorporada al sector productivo.",
+  "Ferias de comercialización: 4 al año.",
+  "Cinco audiencias de rendición de cuentas: una al año y una final.",
+  "Cobertura del servicio de recolección de desechos ampliada al 10%."
+ ],
+ "notas": [
+  "La portada dice Alcaldía del cantón Mejía, pero el texto es del plan de la parroquia Tandapi. Muchas acciones son de otros niveles.",
+  "El plan casi no dice cuánto costará ni de dónde saldrá el dinero. Varias acciones son de agua, salud o policía."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36
+ ],
+ "paginas": 36
+}

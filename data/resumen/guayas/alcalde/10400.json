@@ -1,0 +1,131 @@
+{
+ "enfoque": "Obras de agua, alcantarillado, calles, mercado y catastro. Casi todo depende de créditos o convenios, y el plan no dice cuánto costará.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Construir y mejorar calles en los sectores de la cabecera cantonal.",
+    "que": "El plan no dice cuánto costará ni en qué plazo se harán las calles.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Construcción y mejoramiento de calles en nuestros seciores que componen la cabecera cantonal",
+    "pag": 8
+   },
+   {
+    "t": "Mantener los caminos de producción para que se puedan usar todo el año.",
+    "que": "Es mantenimiento permanente de la red vial municipal, para que los caminos de producción sirvan también en temporada de lluvias. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Mantenimiento y mejoramiento permanente de hh rad vial de competencia municipal, de modo que los caninos de producción sean transitables también",
+    "pag": 13
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Llevar agua potable a los recintos rurales, empezando por los que más la necesitan.",
+    "que": "Empezará en los recintos con más falta de agua y más familias. Se financiará con un crédito del Banco de Desarrollo. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de un crédito del Banco de Desarrollo.",
+    "cita": "Ejecución por fóaes ds los sistemas de agus poteble turál, iniciando por los",
+    "pag": 14
+   },
+   {
+    "t": "Construir el alcantarillado del centro del cantón y ampliarlo en el campo.",
+    "que": "Se ampliará poco a poco hacia los recintos rurales. Se financiará con crédito. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el plan lo ata a créditos y no dice cuánto costará.",
+    "cita": "Consimeción del alcantenilado 5andanño de la cabecera canfonal y ampliación",
+    "pag": 14
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Construir la primera planta que trate las aguas residuales del cantón.",
+    "que": "Después se quitarán poco a poco las descargas directas a cuerpos de agua. Depende de crédito. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de un crédito del Banco de Desarrollo.",
+    "cita": "Construcción de la primera planta de tratamiento de aguas residuales del cantón",
+    "pag": 15
+   },
+   {
+    "t": "Cerrar el botadero a cielo abierto y separar la basura desde la fuente.",
+    "que": "Incluye un cierre técnico del botadero y separación de basura en origen. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Gestión integral de los desechos sólidos, con clerre técnico del botadero a cielo",
+    "pag": 12
+   },
+   {
+    "t": "Reducir el agua que se pierde por fugas en la red de agua potable.",
+    "que": "Se instalarán medidores grandes y se hará un programa para reducir fugas. El plan no dice cuánto costará ni de qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Instalación de macromedición y ejecución de Un programa de reducción de pérdidas en la red de agua potable.",
+    "pag": 15
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar y digitalizar el catastro urbano y rural.",
+    "que": "Sirve para corregir la base con que se cobra el predial rural y subir lo que se recauda. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Actualización y digilalización Jel catastro ubano y mal, para comegir la",
+    "pag": 14
+   },
+   {
+    "t": "Hacer o actualizar el plan de uso del suelo y controlar dónde se construye.",
+    "que": "Busca evitar que se construya en zonas de riesgo. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Formulación o actualización del Plan de Uso y Gestión de Suelo.",
+    "pag": 15
+   }
+  ],
+  "economia": [
+   {
+    "t": "Remodelar el mercado municipal y adecuar el centro de faenamiento.",
+    "que": "Busca bajar el costo de vender y mejorar la higiene del lugar de venta. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Remodelación del mercado municipal y adecuación del centro de lnenariento,",
+    "pag": 14
+   }
+  ]
+ },
+ "metas": [
+  "El plan es para cuatro años de gobierno.",
+  "El primer año se harán estudios, diseños y la actualización del catastro antes de construir.",
+  "El plan no pone cifras de cobertura de agua ni de alcantarillado; solo dice que subirán."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni cuánto se recaudará. Casi todo depende de créditos o convenios.",
+  "Muchos datos vienen del plan de desarrollo del cantón. Varias obras dependen de bancos y ministerios."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23
+ ],
+ "paginas": 23
+}

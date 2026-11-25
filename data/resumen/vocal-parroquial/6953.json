@@ -1,0 +1,125 @@
+{
+ "enfoque": "Plan general: apoyar a productores, hacer ferias y capacitaciones, cuidar el ambiente y organizar asambleas con los barrios. No dice cuánto costará.",
+ "tabla": {
+  "economia": [
+   {
+    "t": "Dar capacitaciones a productores y emprendedores locales.",
+    "que": "El plan dice que dará programas de capacitación con aliados. No dice cuánto costará ni cuándo empieza.",
+    "v": "alta",
+    "n": "Dar cursos es algo que la junta puede hacer con poco presupuesto.",
+    "cita": "Impulsar programas de capacitación y fortalecimiento para productores y emprendedores locales",
+    "pag": 9
+   },
+   {
+    "t": "Hacer ferias para vender productos y emprendimientos de Pintag.",
+    "que": "El plan no dice dónde ni cada cuánto se harán las ferias. Tampoco dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar ferias es algo que la junta puede hacer con poco presupuesto.",
+    "cita": "Promover ferias y espacios de comercialización para productos y emprendimientos de",
+    "pag": 9
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer campañas de educación y cuidado del ambiente de forma permanente.",
+    "que": "El plan no dice dónde ni cuántas campañas se harán ni cuánto costarán.",
+    "v": "alta",
+    "n": "Campañas y charlas ambientales las puede organizar la junta.",
+    "cita": "Promover campañas permanentes de educación y sensibilización ambiental",
+    "pag": 11
+   },
+   {
+    "t": "Proteger y recuperar espacios naturales y fuentes de agua.",
+    "que": "El plan no dice qué espacios ni cuánto costará. Dice que se coordinará con las entidades competentes.",
+    "v": "media",
+    "n": "Cuidar el ambiente sí le toca, pero las obras grandes dependen de otros niveles.",
+    "cita": "Impulsar acciones de protección y recuperación de espacios naturales y fuentes",
+    "pag": 11
+   },
+   {
+    "t": "Manejar residuos mejor y recuperar espacios comunitarios.",
+    "que": "El plan no dice cómo ni dónde se hará, ni cuánto costará.",
+    "v": "media",
+    "n": "La basura le toca al Municipio; la junta podría organizar limpiezas y cuidado de espacios.",
+    "cita": "Promover el manejo responsable de residuos y la recuperación de espacios",
+    "pag": 11
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer seguimiento ciudadano a obras y compromisos.",
+    "que": "El plan no dice cómo se har�� ni cuándo.",
+    "v": "alta",
+    "n": "Vigilar obras y compromisos junto a los vecinos sí le toca a la junta.",
+    "cita": "Implementar mecanismos de seguimiento ciudadano a proyectos y compromisos",
+    "pag": 10
+   },
+   {
+    "t": "Hacer asambleas y reuniones con barrios y comunidades.",
+    "que": "El plan dice que habrá asambleas y reuniones. No dice cuántas ni cada cuánto se harán.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es lo que la junta sí puede hacer.",
+    "cita": "Asambleas parroquiales y reuniones con barrios y comunidades",
+    "pag": 12
+   },
+   {
+    "t": "Firmar convenios con otros niveles de gobierno para obras y programas.",
+    "que": "El plan no dice qué obras ni cuánto costarán. Tampoco dice de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Depende del Municipio, la Provincia o el Gobierno; la junta tiene poco presupuesto.",
+    "cita": "Gestionar recursos y convenios con los diferentes niveles de gobierno para",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar actividades deportivas y recreativas para niños, jóvenes y adultos.",
+    "que": "El plan no dice dónde ni cuántas actividades se harán ni cuánto costarán.",
+    "v": "alta",
+    "n": "Organizar eventos deportivos para la comunidad le toca a la junta.",
+    "cita": "Impulsar actividades deportivas y recreativas para niños, jóvenes y población",
+    "pag": 10
+   }
+  ],
+  "otros": [
+   {
+    "t": "Preparar a la comunidad frente a riesgos y emergencias.",
+    "que": "El plan no dice qué acciones se harán ni cuánto costarán. Dice que se coordinará con otras entidades.",
+    "v": "media",
+    "n": "Preparar a los vecinos sí puede hacerlo la junta; las emergencias grandes son de otros niveles.",
+    "cita": "Fortalecer la prevención y preparación comunitaria frente a riesgos y",
+    "pag": 11
+   }
+  ]
+ },
+ "metas": [
+  "Trabajar las acciones durante los cuatro años de gestión.",
+  "Año 1: diagnóstico, organización y puesta en marcha. Año 2: ampliar programas. Año 3: evaluar y ampliar. Año 4: consolidar y dar continuidad."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ni cuándo se hará cada cosa. Varias ideas dependen del Municipio o de la Provincia.",
+  "Muchas propuestas son generales (fortalecer, impulsar) y no dicen dónde ni para quién. No tienen cifras."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "paginas": 18
+}

@@ -1,0 +1,106 @@
+{
+ "enfoque": "Plan general sobre agua, alcantarillado y carreteras de Colimes, sin obras, costos ni fechas. Parece copiado de un plan parroquial.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Medir las brechas de agua potable y alcantarillado en Colimes.",
+    "que": "El plan dice que identificará las zonas más afectadas. No dice cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Es un estudio, no una obra.",
+    "cita": "Evaluar y cuantificar las brechas existentes en la provisión de servicios básicos",
+    "pag": 1
+   },
+   {
+    "t": "Proponer soluciones para el alcantarillado de Colimes.",
+    "que": "El plan no dice qué obras se harán ni dónde. No dice cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cómo lo pagará.",
+    "cita": "Documentar y proponer soluciones integrales para la mejora del sistema de alcantarillado en",
+    "pag": 2
+   },
+   {
+    "t": "Hacer obras de agua potable junto con otras entidades.",
+    "que": "El plan no dice qué obras ni dónde. Incluye escuelas y hospitales, que no son del alcalde.",
+    "v": "media",
+    "n": "Agua sí le toca al alcalde. Escuelas y hospitales no.",
+    "cita": "abarcando mejoras en infraestructura educativa y sanitaria, así como el suministro de agua potable",
+    "pag": 2
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Decidir qué tramos de carreteras urbanas y rurales se arreglan.",
+    "que": "El plan dice que estudiará las carreteras. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Calles urbanas le tocan al alcalde. Carreteras rurales pueden ser de otra entidad.",
+    "cita": "determinando los tramos críticos que requieren reconstrucción o mejora para optimizar la conectividad",
+    "pag": 1
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer medidas contra inundaciones en Colimes.",
+    "que": "El plan no dice qué medidas ni dónde. No dice cuánto costarán.",
+    "v": "alta",
+    "n": "Prevenir desastres sí le toca al Municipio. Falta detalle.",
+    "cita": "Ejecutar medidas de manejo de amenazas de inundaciones, con el objetivo de la anticipación",
+    "pag": 2
+   },
+   {
+    "t": "Cuidar el agua, los bosques y los ecosistemas con control ciudadano.",
+    "que": "El plan dice que será con control conjunto y ciudadanos. No dice cómo ni cuánto cuesta.",
+    "v": "media",
+    "n": "Los bosques dependen en parte de otras entidades.",
+    "cita": "Salvaguardar y preservar los recursos hídricos, forestales y sistemas ecológicos vitales, a través de",
+    "pag": 2
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar en detalle el dinero que maneja el cantón.",
+    "que": "El plan dice que usará murales, circulares y videoconferencias. No dice cada cuánto se informará.",
+    "v": "alta",
+    "n": "Le toca al Municipio informar sobre sus fondos.",
+    "cita": "Comunicar de forma transparente y exhaustiva el plan financiero local, detallando la distribución",
+    "pag": 3
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer proyectos sociales para mujeres, adolescentes y adultos mayores.",
+    "que": "El plan no dice qué proyectos ni cuánto costarán.",
+    "v": "baja",
+    "n": "No está en lo que le toca al alcalde según la ley.",
+    "cita": "Conllevar la implementación de proyectos de cohesión e involucramiento social dirigidos a",
+    "pag": 2
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar negocios colectivos de economía social.",
+    "que": "El plan dice que el apoyo vendrá de otros organismos. No dice cuánto ni cómo.",
+    "v": "baja",
+    "n": "Crear empleo y apoyar negocios no es tarea directa del alcalde.",
+    "cita": "Fomentar el desarrollo de negocios colectivos y colaborativos, dando preferencia a las propuestas",
+    "pag": 2
+   }
+  ]
+ },
+ "metas": [
+  "Período del plan: 2027 - 2031."
+ ],
+ "notas": [
+  "El plan no tiene obras, costos ni fechas concretas. Casi todo es estudio o intención general.",
+  "Parece copiado del plan de la parroquia: habla de asambleas parroquiales, escuelas, hospitales y del Gobierno."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "paginas": 6
+}

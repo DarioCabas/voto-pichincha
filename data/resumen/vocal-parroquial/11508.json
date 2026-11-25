@@ -1,0 +1,123 @@
+{
+ "enfoque": "Copia del plan de desarrollo de la parroquia Cutuglagua: cuidar quebradas, fuentes de agua y perros callejeros, espacios recreativos y apoyo a productores. No dice costos.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Hacer jornadas para esterilizar perros callejeros y ponerles identificación.",
+    "que": "Se hará con el Ministerio de Ambiente y fondos propios. Meta: reducir 20% los perros callejeros al 2031. No dice el costo.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Ministerio de Ambiente. El costo no está.",
+    "cita": "Apoyar en la realización de las jornadas masivas de esterilización para los perros callejeros e identificación de los mismos",
+    "pag": 29
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Coordinar nuevas rutas de recolección de basura hasta diciembre de 2028.",
+    "que": "El plan lo fija para diciembre de 2028. No dice cuánto costará ni quién paga las rutas.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio. No es una tarea solo de la junta.",
+    "cita": "Coordinar la implementación de nuevas rutas con servicio de recolección y GIRs operativizadas hasta diciembre del 2028",
+    "pag": 30
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Crear y arreglar espacios recreativos en el barrio La Unión.",
+    "que": "El plan lo pide en el barrio La Unión. No dice cuánto costará ni cuándo se hará.",
+    "v": "alta",
+    "n": "Parques y espacios sí le tocan a la junta. Falta el costo.",
+    "cita": "Creación y mejoramiento de espacios recreativos. Barrio La unión",
+    "pag": 10
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear escuelas de producción local para aprovechar los saberes ancestrales.",
+    "que": "El plan no dice dónde, cuánto costará ni cuándo empezará.",
+    "v": "alta",
+    "n": "Cursos y talleres sí le tocan a la junta. Falta el costo.",
+    "cita": "Generación de escuelas de producción local, para aprovechar los saberes ancestrales",
+    "pag": 19
+   },
+   {
+    "t": "Hacer un plan de producción y venta para proyectos agro saludables hasta el cuarto año.",
+    "que": "El plan fija el cuarto año. Lo hará junto con ministerios y otras entidades. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Apoyar a productores sí le toca a la junta. No dice el costo.",
+    "cita": "Elaborar un plan de producción y comercialización para proyectos agro saludables hasta el cuarto año de gestión",
+    "pag": 32
+   }
+  ],
+  "social": [
+   {
+    "t": "Fomentar las fiestas tradicionales.",
+    "que": "El plan dice que dinamizan la economía. No dice cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta.",
+    "cita": "Fomentar las fiestas tradicionales ya que se dinamiza la economía",
+    "pag": 20
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una audiencia pública cada año para rendir cuentas.",
+    "que": "El plan fija una vez al año, con informe de gestión. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Rendir cuentas sí le toca a la junta. Es una reunión al año.",
+    "cita": "Esquema de la Audiencia Pública de Rendición de Cuentas (Anual)",
+    "pag": 25
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Pedir que el servicio 911 no sea solo en Machachi.",
+    "que": "El plan dice que el tiempo de respuesta es alto. No dice cuándo ni cómo se cambiaría.",
+    "v": "baja",
+    "n": "La policía y el 911 no le tocan a la junta.",
+    "cita": "Descentralización del proyecto de seguridad 911. que no solo sea en machachi porque el tiempo de respuesta es alto",
+    "pag": 20
+   }
+  ]
+ },
+ "metas": [
+  "El 20% de las quebradas de la parroquia intervenidas, delimitadas o recuperadas hasta diciembre de 2031.",
+  "Reducir 20% los perros callejeros al 2031.",
+  "Ampliar al 10% la cobertura del servicio de recolección de basura.",
+  "Ferias de comercialización: 4 al año.",
+  "Jornadas de reforestación: 2 al año."
+ ],
+ "notas": [
+  "Casi todo el texto es copia del plan de desarrollo de la parroquia. Habla del alcalde y del GAD parroquial, no del cargo de vocal.",
+  "Casi ninguna propuesta dice cuánto cuesta ni cómo se paga. Gran parte del texto es diagnóstico, no propuestas.",
+  "Plan muy largo (39 págs.): se resumieron las 24 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  3,
+  4,
+  5,
+  7,
+  10,
+  11,
+  12,
+  17,
+  19,
+  20,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  32,
+  35,
+  36,
+  37
+ ],
+ "paginas": 39
+}

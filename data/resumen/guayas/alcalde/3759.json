@@ -1,0 +1,125 @@
+{
+ "enfoque": "Llevar agua y saneamiento a los recintos rurales, cubrir la basura en el campo y arreglar vías rurales. Casi no dice cuánto costará.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Hacer un plan de agua y saneamiento para cada recinto y caserío rural.",
+    "que": "Prioriza los recintos por número de habitantes y condición sanitaria. El plan no dice cuánto costará ni cuándo terminará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Formular el plan maestro de agua y saneamiento rural del cantón, con levantamiento por recinto y caserío",
+    "pag": 5
+   },
+   {
+    "t": "Ampliar la red de agua desde la planta de la vía a Pretoria hacia centros poblados.",
+    "que": "Solo dice 'centros poblados alcanzables', sin nombrarlos. El plan no dice cuánto costará ni cuándo llegará el agua.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cómo lo pagará.",
+    "cita": "Ampliar la red de agua desde la planta potabilizadora de la vía a Pretoria hacia centros poblados alcanzables",
+    "pag": 5
+   },
+   {
+    "t": "Cambiar rutas y horarios de la basura para llegar a los recintos y caseríos.",
+    "que": "Hoy el servicio llega al 75,8 % de la zona rural. El plan no dice cuánto costará ni en qué plazo llegará al 100 %.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que maneja la basura.",
+    "cita": "Rediseñar rutas y frecuencias de recolección para cubrir recintos y caseríos",
+    "pag": 6
+   },
+   {
+    "t": "Construir una planta de basura, biogás y compost sobre el antiguo botadero.",
+    "que": "Inversión estimada de USD 17.000.000 con empresas privadas. El plan dice que se pagará con venta de energía, compost y créditos de carbono.",
+    "v": "media",
+    "n": "Depende de empresas privadas y de permisos. El plan no da fechas firmes.",
+    "cita": "con una inversión estimada de USD 17.000.000",
+    "pag": 7
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar cada año los caminos rurales que llevan a la cabecera, salud y escuelas.",
+    "que": "El plan no dice cuántos kilómetros ni cuánto costará cada año. Parte del dinero vendría de la tasa de áridos y pétreos.",
+    "v": "alta",
+    "n": "Le toca al Municipio: las vías y calles son su competencia.",
+    "cita": "Ejecutar programa anual priorizando tramos que conectan recintos con la cabecera",
+    "pag": 7
+   },
+   {
+    "t": "Construir una vía perimetral de unos 4,29 km alrededor del cantón.",
+    "que": "Depende de dinero del Ministerio de Obras Públicas, la Prefectura del Guayas y el Banco de Desarrollo (BDE). El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de otras instituciones. El plan no dice cuánto costará.",
+    "cita": "Construcción de una vía perimetral de aproximadamente 4,29 km articulada con la red vial existente",
+    "pag": 8
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar la orilla del río Chimbo con senderos, ciclovías y plazoletas.",
+    "que": "Primera etapa: accesos, iluminación, plazoletas y áreas verdes. El plan no dice cuánto costará ni cuándo estará lista.",
+    "v": "alta",
+    "n": "Espacio público le toca al Municipio. El plan no dice el costo.",
+    "cita": "Recuperación urbana y paisajística de 179.804 m² en la ribera del río Chimbo",
+    "pag": 12
+   },
+   {
+    "t": "Modernizar el catastro (registro de terrenos) del campo y la ciudad.",
+    "que": "Sirve para cobrar mejor los impuestos sobre terrenos. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que maneja el catastro.",
+    "cita": "Modernizar el catastro urbano y rural e integrarlo con el sistema de recaudación",
+    "pag": 11
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Instalar un sistema de alerta temprana contra inundaciones en zonas ribereñas.",
+    "que": "Pone alertas en asentamientos cerca de los ríos. El plan no dice cuánto costará ni cuándo estará listo.",
+    "v": "alta",
+    "n": "Prevención de desastres le toca al Municipio.",
+    "cita": "Fortalecer la Unidad de Gestión de Riesgos e instalar un SAT ante inundaciones en asentamientos ribereños",
+    "pag": 10
+   }
+  ],
+  "otros": [
+   {
+    "t": "Ampliar el Centro de Salud Tipo A, que es del Ministerio de Salud.",
+    "que": "El plan pide al Ministerio de Salud que lo amplíe. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "Salud no le toca al Municipio: depende del Ministerio de Salud.",
+    "cita": "Gestionar ante el MSP la ampliación del Centro de Salud Tipo A",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "Poner en operación las redes sanitarias conectadas a la estación de bombeo municipal en ocho meses de ejecución.",
+  "Crear la Unidad de Gestión de Proyectos y Cooperación Internacional en los primeros 100 días de gestión.",
+  "Ejecución presupuestaria anual superior al 90 %.",
+  "Elevar la cobertura rural de recolección por encima del 75,8 % de línea base.",
+  "Reporte trimestral del avance físico y financiero de cada obra."
+ ],
+ "notas": [
+  "Casi ninguna obra tiene costo indicado. Varias dependen de dinero del Gobierno, del BDE o de la Prefectura.",
+  "Incluye propuestas que no son del alcalde, como salud, educación y policía. Revise cada propuesta con cuidado."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15
+ ],
+ "paginas": 15
+}

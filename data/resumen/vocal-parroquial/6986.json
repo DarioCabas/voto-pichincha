@@ -1,0 +1,142 @@
+{
+ "enfoque": "Plan para toda la parroquia: parques, quebradas, árboles, comités de seguridad, turismo y emprendedores. Muchas cosas le tocan a otros niveles.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Limpiar y recuperar quebradas con vecinos, siembra de árboles y charlas ambientales.",
+    "que": "El plan no dice cuántas quebradas ni cuánto costará. Se hará por fases: diagnóstico, recuperación, participación de la comunidad y seguimiento.",
+    "v": "media",
+    "n": "La limpieza con vecinos la puede organizar la junta; el plan pide ayuda del Municipio.",
+    "cita": "Recuperar progresivamente las quebradas y áreas naturales prioritarias mediante limpieza, reforestación, educación ambiental, participación comunitaria y seguimiento de las zonas intervenidas.",
+    "pag": 16
+   },
+   {
+    "t": "Sembrar árboles en parques, parterres y espacios públicos con jornadas de siembra.",
+    "que": "El plan no dice cuántos árboles ni cuánto costará. Dice que se gestionarán plantas y árboles y que habrá cuidado comunitario.",
+    "v": "alta",
+    "n": "Las jornadas de siembra y el cuidado vecinal sí puede organizarlos la junta.",
+    "cita": "Incrementar la arborización y recuperación de parques, parterres y espacios públicos mediante jornadas participativas de siembra y mecanismos comunitarios para su conservación.",
+    "pag": 9
+   },
+   {
+    "t": "Hacer campañas de reciclaje y separación de basura, con charlas en escuelas y mingas.",
+    "que": "El plan no dice cuándo ni cuánto costará. Incluye charlas en escuelas, mingas y campañas para evitar basura en las quebradas.",
+    "v": "alta",
+    "n": "Campañas, charlas y mingas son trabajo de la junta con la comunidad.",
+    "cita": "Realizar campañas de reciclaje y separación de residuos.",
+    "pag": 16
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer un inventario de parques y darles mantenimiento, árboles y luz.",
+    "que": "El plan no dice qué parques se arreglarán ni cuánto costará. Primero se hará un inventario de parques y sus necesidades.",
+    "v": "media",
+    "n": "Los parques sí son de la junta, pero la luz y los arreglos grandes piden ayuda del Municipio.",
+    "cita": "Recuperar y activar progresivamente parques y espacios comunitarios mediante mantenimiento, arborización, iluminación, mingas y actividades que promuevan su apropiación y conservación",
+    "pag": 20
+   },
+   {
+    "t": "Pedir arreglo de luz en los puntos oscuros a las entidades competentes.",
+    "que": "El plan no dice cuántos puntos ni cuándo. Se hará una lista de puntos con poca luz y se enviarán pedidos formales.",
+    "v": "media",
+    "n": "La luz la dan el Municipio y la empresa eléctrica; la junta solo puede pedirla.",
+    "cita": "Gestionar la intervención de puntos con iluminación insuficiente y promover la recuperación de espacios públicos priorizados conjuntamente con los habitantes",
+    "pag": 15
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Llevar a Municipio y Prefectura los pedidos de calles, señales y accesos.",
+    "que": "El plan no dice qué calles se arreglarán ni cuánto costará. Se hará una lista por urgencia y se seguirá cada pedido.",
+    "v": "media",
+    "n": "Los caminos se cuidan junto con la Prefectura; el plan no dice cuándo llegarán las obras.",
+    "cita": "Gestionar de manera técnica y priorizada las necesidades relacionadas con vialidad, señalización, movilidad y accesibilidad, manteniendo seguimiento permanente ante las instituciones competentes.",
+    "pag": 20
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Organizar comités de seguridad en los barrios y llevar los pedidos a la Policía.",
+    "que": "El plan no dice cuántos comités ni cuándo. Incluye capacitar a vecinos y hacer reuniones periódicas con las instituciones.",
+    "v": "media",
+    "n": "Organizar a los vecinos sí lo puede hacer la junta; la seguridad le toca a la Policía.",
+    "cita": "Fortalecer la organización comunitaria para la prevención de riesgos y hechos de inseguridad, promoviendo Comités Barriales de Seguridad",
+    "pag": 9
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer una lista de emprendedores y darles cursos y ferias para vender sus productos.",
+    "que": "El plan no dice cuántos cursos ni cuánto costará. Incluye cursos en administración, costos, atención al cliente y marketing digital.",
+    "v": "alta",
+    "n": "Cursos y ferias son trabajo que la junta puede organizar; el plan no dice quién paga.",
+    "cita": "Crear o actualizar una base de datos de emprendedores.",
+    "pag": 14
+   },
+   {
+    "t": "Armar rutas turísticas y promocionar a Pomasqui con eventos y redes sociales.",
+    "que": "El plan no dice cuántas rutas ni cuánto costará. Pide convenios con Quito Turismo y el Ministerio de Turismo.",
+    "v": "media",
+    "n": "Las rutas y la promoción dependen de convenios con Quito Turismo y el Municipio.",
+    "cita": "Impulsar una oferta turistica organizada que integre los atractivos culturales, religiosos, gastronómicos, naturales e históricos de la parroquia",
+    "pag": 13
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer reuniones en cada barrio para recibir pedidos y dar seguimiento.",
+    "que": "El plan no dice cuántas reuniones hará ni cada cuánto. Las solicitudes se registrarán y se comunicarán los resultados.",
+    "v": "alta",
+    "n": "Reuniones con vecinos y registro de pedidos son trabajo propio de la junta.",
+    "cita": "Acercar permanentemente la administración parroquial a los barrios mediante reuniones territoriales, audiencias comunitarias, mesas de trabajo",
+    "pag": 21
+   }
+  ]
+ },
+ "metas": [
+  "El plan rige para los años 2027 a 2031.",
+  "Año 1: diagnóstico, levantamiento de líneas base, organización y priorización.",
+  "Año 3: ampliación, fortalecimiento y evaluación intermedia.",
+  "Año 4: consolidación, cierre de metas y evaluación final."
+ ],
+ "notas": [
+  "El plan no dice cuánto cuesta ninguna propuesta; solo menciona fuentes de dinero en general.",
+  "Varias propuestas son de la Policía, el Municipio o la Prefectura. La junta solo puede pedirlas o acompañarlas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31
+ ],
+ "paginas": 31
+}

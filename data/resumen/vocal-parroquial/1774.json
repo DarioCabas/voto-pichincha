@@ -1,0 +1,134 @@
+{
+ "enfoque": "Plan de la parroquia de Nayón, copiado del plan de la ciudad: caminos, mingas y limpieza, viveros, ferias y reuniones con vecinos. Pocos costos.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Pedir al Municipio que priorice arreglos en las vías de la parroquia.",
+    "que": "La junta coordina el cuidado de los caminos rurales y pide las obras al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio; la junta solo pide y coordina.",
+    "cita": "gestión permanente ante el Municipio de Quito para priorizar intervenciones que mejoren la",
+    "pag": 3
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Organizar mingas comunitarias y limpiar la parroquia.",
+    "que": "Se hará desde el año 1, con programas de limpieza y mingas. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Mingas y limpieza las puede organizar la junta con vecinos.",
+    "cita": "Fortalecer los programas de limpieza parroquial y organizar mingas comunitarias.",
+    "pag": 22
+   },
+   {
+    "t": "Hacer campañas de reciclaje, mascotas responsables y educación vial.",
+    "que": "Se harán desde el año 1 y en los años siguientes, con los vecinos. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Son campañas que la junta puede organizar.",
+    "cita": "Fortalecer las campañas de reciclaje, tenencia responsable de mascotas y educación vial.",
+    "pag": 22
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear una mesa de coordinación y una red de barrios y urbanizaciones.",
+    "que": "Se crea en el año 1 para que barrios y urbanizaciones participen. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es tarea de la junta.",
+    "cita": "Crear la Mesa de Coordinación Comunitaria y la Red de Barrios y Urbanizaciones.",
+    "pag": 25
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una asamblea anual para rendir cuentas, transmitida en vivo.",
+    "que": "Se transmitirá en vivo para llegar al mayor número posible de habitantes. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "La junta rinde cuentas de su propio trabajo.",
+    "cita": "Asamblea Ciudadana de rendición de cuentas de manera anual,",
+    "pag": 26
+   },
+   {
+    "t": "Decidir con delegados de barrios cómo se usan los fondos de inversión de la junta.",
+    "que": "El plan dice que el 100% de esos fondos se decidirá en reuniones públicas. El plan no dice cuánto dinero hay.",
+    "v": "alta",
+    "n": "Decidir con vecinos es tarea de la junta; el presupuesto es poco.",
+    "cita": "El 100% de los fondos asignados legalmente a la Junta Parroquial para",
+    "pag": 26
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Crear redes de vecinos para prevenir y coordinar con Policía y Bomberos.",
+    "que": "Se crean en el año 1 y se mantienen en los años siguientes. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "La Policía no es de la junta; solo se coordina con ella.",
+    "cita": "Crear redes vecinales de prevención y coordinar acciones con Policía y Bomberos.",
+    "pag": 23
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear una mesa de viveristas y poner al día la lista de productores.",
+    "que": "Se hace en el año 1, con apoyo de universidades y entidades públicas. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Apoyar a los productores es tarea de la junta.",
+    "cita": "Conformar la Mesa Permanente del Sector Viverista y actualizar el directorio parroquial de productores.",
+    "pag": 14
+   },
+   {
+    "t": "Hacer una feria anual de plantas y naturaleza para vender productos.",
+    "que": "Se hace desde el año 2, cada año. El plan no dice dónde se hará ni cuánto costará.",
+    "v": "alta",
+    "n": "Las ferias las puede organizar la junta.",
+    "cita": "Realizar la Feria Anual de Plantas y Naturaleza",
+    "pag": 14
+   }
+  ]
+ },
+ "metas": [
+  "Al menos dos propuestas para mejorar la movilidad cada año, de los años 1 a 4.",
+  "Una asamblea anual de rendición de cuentas, transmitida en vivo.",
+  "Feria anual de plantas y naturaleza desde el año 2.",
+  "El 100% de los fondos de inversión de la junta se decide con delegados barriales.",
+  "Informe ciudadano anual de gestión en el año 4."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Gran parte del texto es copia de planes del Municipio. Muchas acciones dependen del Municipio o de la Policía, no de la junta."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30
+ ],
+ "paginas": 30
+}

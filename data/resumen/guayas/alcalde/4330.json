@@ -1,0 +1,128 @@
+{
+ "enfoque": "Plan de obras en calles, agua, alcantarillado, basura y parques, más salud, empleo y turismo que dependen de otras instituciones. No dice cuánto costará.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Asfaltar vías y construir aceras y bordillos en la cabecera cantonal.",
+    "que": "Asfaltado, aceras y bordillos en todos los sectores de la cabecera cantonal. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (calles urbanas). El plan no dice el costo.",
+    "cita": "Asfaltado de vías, y construcción de aceras y bordillos en todos los sectores de la cabecera cantonal.",
+    "pag": 14
+   },
+   {
+    "t": "Hacer proyectos de regeneración en la zona urbana y rural del cantón.",
+    "que": "Se haría en coordinación con la Prefectura del Guayas. El plan no dice cuánto costará ni qué sectores.",
+    "v": "media",
+    "n": "La parte rural depende de la Prefectura. El plan no dice costos.",
+    "cita": "proyectos de regeneración urbana en la zona urbana y rural del cantón Palestina",
+    "pag": 9
+   },
+   {
+    "t": "Rehabilitar y construir parques en zona urbana y rural.",
+    "que": "Parques recreativos en los sectores urbano y rural del cantón. El plan no dice cuántos parques ni cuánto costará.",
+    "v": "alta",
+    "n": "Los parques son competencia municipal. El plan no dice el costo.",
+    "cita": "Rehabilitación y construcción de parques recreativos en los sectores urbano y rural del cantón.",
+    "pag": 9
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Hacer la segunda etapa de mejoras al sistema de agua potable del cantón.",
+    "que": "El plan incluye también pozos de agua en el sector rural. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "El agua potable es competencia municipal. El plan no dice el costo.",
+    "cita": "la repotenciación del sistema de agua potable del cantón (segunda etapa)",
+    "pag": 9
+   },
+   {
+    "t": "Construir alcantarillado y aguas lluvias en sectores que no tienen el servicio.",
+    "que": "El plan no dice qué sectores ni cuánto costará. Tampoco dice en qué año se haría.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "la construcción de alcantarillado y sistemas de aguas lluvias en los sectores que carecen de este servicio.",
+    "pag": 4
+   },
+   {
+    "t": "Comprar un camión recolector de basura (compactador).",
+    "que": "Serviría para recoger desechos sólidos. El plan no dice cuánto costará ni cuándo llegará.",
+    "v": "alta",
+    "n": "La basura es competencia municipal. El plan no dice el costo.",
+    "cita": "la adquisición de un recolector de basura para fortalecer el servicio de desechos sólidos",
+    "pag": 9
+   }
+  ],
+  "social": [
+   {
+    "t": "Dar atención médica permanente con brigadas, en convenio con el MSP.",
+    "que": "Se haría con el Ministerio de Salud Pública (MSP). El plan no dice cuántos médicos ni cuánto costará.",
+    "v": "baja",
+    "n": "La salud no es competencia del Municipio. Depende del MSP.",
+    "cita": "Atención médica permanente mediante convenio con el MSP y brigadas médicas.",
+    "pag": 9
+   },
+   {
+    "t": "Donar terrenos municipales a personas en situación de extrema pobreza.",
+    "que": "El plan no dice cuántos terrenos ni cómo se elegirá a las personas.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuántos terrenos ni cuándo.",
+    "cita": "la donación de terrenos municipales a personas en situación de extrema pobreza",
+    "pag": 11
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias itinerantes e inclusivas para comerciantes y productores.",
+    "que": "Ferias que se mueven por el cantón. El plan no dice dónde, cada cuándo ni cuánto costará.",
+    "v": "media",
+    "n": "Puede organizarla el Municipio, pero el plan se apoya en convenios con otras instituciones.",
+    "cita": "reactivar la economía local mediante ferias itinerantes e inclusivas",
+    "pag": 11
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Actualizar el catastro y los análisis de suelos rurales.",
+    "que": "Incluye análisis de suelos a favor de los dueños de predios rurales. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "El catastro es competencia municipal. El plan no dice el costo.",
+    "cita": "y actualizar el catastro y los análisis de suelos rurales.",
+    "pag": 11
+   }
+  ]
+ },
+ "metas": [
+  "Que el 90% de la población acceda a servicios de salud, espacios deportivos y saneamiento básico.",
+  "Aumentar en 40% las actividades económicas formales al cuarto año.",
+  "Ejecutar el 70% del plan de regeneración urbana y rural al cuarto año.",
+  "Beneficiar al 40% de las familias rurales con programas agropecuarios y catastro al cuarto año.",
+  "Digitalizar el 100% de los trámites y servicios municipales al cuarto año."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero.",
+  "Mezcla obras del Municipio con salud, empleo y turismo, que dependen de otras instituciones como el MSP o la Prefectura."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "paginas": 18
+}

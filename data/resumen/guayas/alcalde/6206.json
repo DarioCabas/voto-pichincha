@@ -1,0 +1,130 @@
+{
+ "enfoque": "Arreglar agua, basura, calles, drenajes, catastro y permisos del cantón por etapas. Casi no dice cuánto costará ni cuándo.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Arreglar o ampliar las redes de agua potable por etapas, según estudios.",
+    "que": "El plan dice que primero se hacen estudios y luego se rehabilitan o amplían los sistemas según disponibilidad de agua. No dice cuánto costará ni en qué barrios.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni en qué barrios.",
+    "cita": "Rehabilitar, ampliar o mejorar sistemas conforme estudios y disponibilidad hídrica.",
+    "pag": 9
+   },
+   {
+    "t": "Cambiar rutas de recolección y promover separar la basura donde se genera.",
+    "que": "El plan habla de cambiar rutas, atender puntos críticos, reciclar y separar la basura en origen. No dice cuánto costará ni en qué fechas.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni en qué fechas.",
+    "cita": "Optimizar rutas, puntos críticos, reciclaje y disposición final; promover separación en origen.",
+    "pag": 9
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Revisar el estado de las calles y hacer un plan anual de mantenimiento.",
+    "que": "El plan propone clasificar calles y tramos por estado, tránsito, drenaje y función. No dice qué calles se arreglarán ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué calles ni cuánto costará.",
+    "cita": "Clasificar calles y tramos por estado, tránsito, drenaje y función.",
+    "pag": 9
+   },
+   {
+    "t": "Limpiar drenajes y hacer obras menores en sectores vulnerables.",
+    "que": "El plan habla de limpieza, obras menores y soluciones de fondo en sectores vulnerables. No dice cuáles sectores ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué sectores ni cuánto costará.",
+    "cita": "Integrar limpieza, obras menores y soluciones estructurales en sectores vulnerables",
+    "pag": 9
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar los datos de terrenos y mapas del cantón, poco a poco.",
+    "que": "El plan propone actualizar la información de predios y del mapa del cantón de forma gradual. No dice en qué año quedará lista.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice en qué año quedará lista.",
+    "cita": "Actualizar información predial y geográfica de forma gradual.",
+    "pag": 10
+   },
+   {
+    "t": "Simplificar permisos y certificados de uso de suelo, con seguimiento digital.",
+    "que": "El plan propone permisos y certificados más simples, con seguimiento digital. No dice en cuántos días se entregarán.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice en cuántos días se entregarán.",
+    "cita": "Simplificar permisos, certificados y consultas de uso de suelo con",
+    "pag": 10
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Revisar y simplificar los diez trámites más pedidos en los primeros 100 días.",
+    "que": "El plan fija 100 días para revisar los diez trámites municipales de mayor demanda. No dice cómo se medirá la mejora.",
+    "v": "alta",
+    "n": "Le toca al Municipio y el plan fija un plazo de 100 días.",
+    "cita": "Revisar y simplificar los diez trámites municipales de mayor demanda.",
+    "pag": 16
+   },
+   {
+    "t": "Publicar en internet la ubicación, monto, contratista, plazo y avance de cada obra.",
+    "que": "El plan propone publicar ubicación, monto, contratista, plazo y avance de las obras. Es un compromiso de transparencia del propio municipio.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Es un compromiso de transparencia del propio municipio.",
+    "cita": "Publicar ubicación, monto, contratista, plazo, avance y cambios relevantes.",
+    "pag": 11
+   }
+  ],
+  "economia": [
+   {
+    "t": "Ordenar mercados y ferias: higiene, paso de la gente y puestos.",
+    "que": "El plan habla de mejorar condiciones sanitarias, circulación, seguridad y organización de mercados. No dice qué mercados ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué mercados ni cuánto costará.",
+    "cita": "Mejorar condiciones sanitarias, circulación, seguridad y organización comercial.",
+    "pag": 10
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer inspecciones y educar para evitar construir nuevas casas en zonas de riesgo.",
+    "que": "El plan propone inspecciones y educación para evitar nuevas construcciones en zonas de riesgo. No dice cuántas inspecciones ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que controla el uso del suelo. El plan no dice cuántas inspecciones.",
+    "cita": "Fortalecer inspección y educación para evitar nuevas ocupaciones de riesgo.",
+    "pag": 10
+   }
+  ]
+ },
+ "metas": [
+  "Revisar y simplificar los diez trámites más pedidos en los primeros 100 días.",
+  "Emitir un informe público de cumplimiento a los 100 días.",
+  "Informe de avance cada trimestre, es decir cada 3 meses.",
+  "Evaluación de mitad de período en 2029.",
+  "100% de obras priorizadas con ficha pública.",
+  "Destinar a inversión y mantenimiento al menos 70% del presupuesto desde 2028."
+ ],
+ "notas": [
+  "Versión para validar: el plan dice que sus costos son solo referenciales y que faltan datos del presupuesto.",
+  "El plan incluye notas internas de preparación y menciona un documento de otra zona (Patate, Tungurahua) que no usó."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17
+ ],
+ "paginas": 17
+}

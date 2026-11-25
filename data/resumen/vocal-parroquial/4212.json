@@ -1,0 +1,125 @@
+{
+ "enfoque": "Plan copiado del plan de desarrollo de la parroquia (PDOT). Mezcla temas de la junta con agua, salud y educación, que no le tocan.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Hacer campañas de limpieza de fuentes, canales y quebradas.",
+    "que": "El plan pone 4 campañas. No dice en qué lugares ni cuánto costarán.",
+    "v": "alta",
+    "n": "Son jornadas comunitarias, le toca a la junta. El plan no dice costo.",
+    "cita": "Campañas de limpieza de fuentes, canales y quebradas",
+    "pag": 14
+   },
+   {
+    "t": "Hacer reforestación con árboles nativos.",
+    "que": "El plan pone 4 actividades de reforestación. No dice dónde ni cuánto costarán.",
+    "v": "alta",
+    "n": "Es trabajo comunitario en espacios de la parroquia. El plan no dice costos.",
+    "cita": "Reforestación con especies nativas 4 actividades de reforestación",
+    "pag": 14
+   },
+   {
+    "t": "Hacer campañas de separación y reciclaje de basura.",
+    "que": "El plan pone 4 campañas ejecutadas. No dice en qué barrios se harán.",
+    "v": "alta",
+    "n": "Charlas y jornadas le tocan a la junta. Recoger basura le toca al Municipio.",
+    "cita": "Campañas de separación y reciclaje. 4 campañas ejecutadas",
+    "pag": 16
+   },
+   {
+    "t": "Gestionar la tecnificación del agua para el riego.",
+    "que": "El plan pone 1 gestión. Tecnificar es usar técnicas más modernas de riego. No dice cuánto costará.",
+    "v": "media",
+    "n": "El riego lo ve la Prefectura. La junta solo puede gestionarlo.",
+    "cita": "Gestión para la tecnificación del agua 1 gestión",
+    "pag": 14
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Pedir más presencia de policías en la parroquia.",
+    "que": "El plan pone 4 seguimientos. No dice cuántos policías ni cuándo llegarían.",
+    "v": "baja",
+    "n": "La policía no le toca a la junta. Solo puede pedirla.",
+    "cita": "Gestión de mayor presencia Policial 4 seguimiento y",
+    "pag": 14
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una lista anual de proyectos con estudios y prioridades.",
+    "que": "El plan no dice qué proyectos incluirá ni cuánto costará cada uno.",
+    "v": "alta",
+    "n": "Es trabajo de la junta. Los proyectos grandes dependen de otros niveles.",
+    "cita": "Presentar una cartera anual de proyectos con estudios y prioridades claras",
+    "pag": 8
+   },
+   {
+    "t": "Hacer asambleas y reuniones con barrios, comunidades y organizaciones.",
+    "que": "El plan pone 8 asambleas ejecutadas. No dice cuándo se harán.",
+    "v": "alta",
+    "n": "Le toca a la junta. El plan asigna $40.000 a gobierno abierto.",
+    "cita": "Realizar asambleas parroquiales y reuniones periódicas con barrios,",
+    "pag": 16
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir al Municipio soluciones de agua, alcantarillado y residuos.",
+    "que": "El plan dice que se hará junto con el Municipio. No dice cuándo ni cuánto costará.",
+    "v": "baja",
+    "n": "Agua y alcantarillado le tocan al Municipio, no a la junta.",
+    "cita": "Gestionar conjuntamente soluciones para agua potable, alcantarillado, residuos y",
+    "pag": 7
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Promover movilidad segura para peatones, ciclistas y estudiantes.",
+    "que": "El plan no dice qué acciones harán ni dónde, ni cuánto costarán.",
+    "v": "media",
+    "n": "Las vías rurales se hacen con la Prefectura. Hace falta acuerdo.",
+    "cita": "Promover movilidad segura para peatones, ciclistas y estudiantes",
+    "pag": 15
+   }
+  ]
+ },
+ "metas": [
+  "4 campañas de limpieza de fuentes, canales y quebradas",
+  "4 actividades de reforestación con especies nativas",
+  "4 campañas de separación y reciclaje",
+  "8 asambleas ejecutadas con barrios y comunidades",
+  "200 mujeres capacitadas (programa Mujeres Emprende y Lidera)"
+ ],
+ "notas": [
+  "Copiado del plan de desarrollo de la parroquia (PDOT). Muchas propuestas son de agua, salud, educación o policía.",
+  "Pone montos por programa, no por acción. Parte del dinero vendría de la Prefectura o el Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23
+ ],
+ "paginas": 23
+}

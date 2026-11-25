@@ -1,0 +1,127 @@
+{
+ "enfoque": "Ordenar primero la basura y el agua. El plan dice que recoger basura cuesta casi lo mismo que todas las tasas que cobra el municipio.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Auditar el contrato de recolección de basura y decidir en el primer año si se cambia o termina.",
+    "que": "Revisión técnica, económica y legal, con la Contraloría acompañando. El plan no dice cuánto costará la auditoría.",
+    "v": "alta",
+    "n": "Le toca al Municipio, dentro del primer año. El plan no dice el costo.",
+    "cita": "resolver dentro del primer año su renegociación, sustitución o terminación conforme a derecho",
+    "pag": 8
+   },
+   {
+    "t": "Actualizar la tasa de la basura con un estudio y llevar la reforma al Concejo.",
+    "que": "Se hará con criterios de equidad y capacidad de pago. El plan no dice cuánto costará el estudio ni cuánto cambiará la tasa.",
+    "v": "alta",
+    "n": "Le toca al Municipio y al Concejo. El plan no dice cuánto costará.",
+    "cita": "Ejecutar el estudio de actualización de la tasa de recolección de desechos sólidos y presentar al Concejo Municipal la reforma",
+    "pag": 8
+   },
+   {
+    "t": "Llevar la recolección de basura a los sectores que hoy no la reciben de forma regular.",
+    "que": "Habrá un reporte público y un plazo de atención para cada queja. El plan no dice qué sectores ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué sectores ni el costo.",
+    "cita": "Extender el servicio a los sectores que hoy no reciben recolección regular y establecer un mecanismo",
+    "pag": 8
+   },
+   {
+    "t": "Ampliar las redes de agua potable en las zonas urbanas que no tienen servicio completo.",
+    "que": "Se prioriza el suelo urbano no consolidado y los sectores de mejoramiento integral. El plan no dice cuánto costará ni en cuántos años.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "cita": "Ejecutar un plan plurianual de ampliación de redes de distribución priorizando los polígonos de suelo",
+    "pag": 10
+   },
+   {
+    "t": "Terminar los estudios de la nueva planta de agua y contratar la obra en dos años.",
+    "que": "Los estudios son de 1.079.990 dólares. Buscará crédito del Banco de Desarrollo y ayuda internacional. El plan no dice cuánto costará la obra.",
+    "v": "media",
+    "n": "Depende de un préstamo y de la cooperación. El plan no dice el costo de la obra.",
+    "cita": "dentro de los dos primeros años de gestión, gestionando su financiamiento ante el Banco de Desarrollo del Ecuador",
+    "pag": 9
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer un plan vial de varios años, con prioridad por estado, tránsito y densidad.",
+    "que": "Se publicará con cronograma y presupuesto públicos, dentro del primer año. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio y el plazo es el primer año. El plan no dice el costo.",
+    "cita": "Formular y publicar un plan vial plurianual con priorización por criterios técnicos de estado, tránsito, densidad y equidad territorial",
+    "pag": 12
+   },
+   {
+    "t": "Arreglar y mantener las 733,44 kilómetros de calles urbanas con dinero fijo en cada presupuesto.",
+    "que": "Bacheo y mantenimiento con recursos asignados cada año. El plan no dice cuánto costará por año.",
+    "v": "alta",
+    "n": "Le toca al Municipio, son sus calles. El plan no dice cuánto costará.",
+    "cita": "Establecer un programa permanente de mantenimiento y bacheo de la red vial urbana de 733,44 kilómetros",
+    "pag": 12
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Regularizar la tenencia del suelo con metas anuales, mucho más que las 13 escrituras de 2025.",
+    "que": "Un programa masivo con metas anuales. El plan no dice cuántas escrituras por año ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (uso del suelo). El plan no dice cuánto costará.",
+    "cita": "Ejecutar un programa masivo de regularización y legalización de la tenencia del suelo, con metas anuales",
+    "pag": 11
+   },
+   {
+    "t": "Simplificar y digitalizar permisos de construcción, uso de suelo y planos, con plazos publicados.",
+    "que": "Con trazabilidad de cada trámite. El plan no dice en cuántos días ni cuánto costará la digitalización.",
+    "v": "alta",
+    "n": "Le toca al Municipio (uso del suelo). El plan no dice los plazos.",
+    "cita": "Simplificar y digitalizar los trámites de uso de suelo, permisos de construcción, aprobación de planos",
+    "pag": 11
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer mapas públicos de riesgo por inundación y sismo en los dos primeros años.",
+    "que": "Después, planes de contingencia por sector. El plan no dice cuánto costará ni quién hará los estudios.",
+    "v": "alta",
+    "n": "Le toca al Municipio (prevención de desastres). El plan no dice el costo.",
+    "cita": "Mapas de amenaza por inundación y sismo elaborados y publicados dentro de los dos primeros años",
+    "pag": 14
+   }
+  ]
+ },
+ "metas": [
+  "Auditoría integral del contrato de recolección concluida y publicada durante el primer año.",
+  "Línea base de cobertura real de recolección publicada durante el primer semestre.",
+  "Cobertura de recolección verificada en el 100 % de los sectores al término del período.",
+  "Estudios de la nueva planta de agua concluidos y licitación de la obra iniciada dentro de los dos primeros años.",
+  "Plan vial plurianual publicado dentro del primer año, con cronograma y presupuesto."
+ ],
+ "notas": [
+  "El plan casi no dice cuánto cuesta cada obra ni cómo se pagará. Varias dependen de préstamos u otras instituciones.",
+  "Temas de policía, salud, escuelas y empleo no son del alcalde; no aparecen en la tabla."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19
+ ],
+ "paginas": 19
+}

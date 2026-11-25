@@ -1,0 +1,128 @@
+{
+ "enfoque": "Obras de caminos, agua, alcantarillado, basura, mercado y bomberos, además de salud, educación y policía, que no son del Municipio. No dice cuánto cuesta.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Asfaltar 81,3 kilómetros de caminos vecinales y construir 6 puentes en la zona rural.",
+    "que": "Incluye tramos como Las Juntas–La Providencia Alta y Pinllopata–Angamarca. El plan no dice cuánto costará. Plazo: 4 años.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de préstamos y de la Prefectura. El plan no dice cuánto cuesta.",
+    "cita": "En total tendremos, 81,3 kilómetros de caminos vecinales asfaltados y 6 puentes en la zona rural.",
+    "pag": 9
+   },
+   {
+    "t": "Construir el terminal terrestre (estación de buses) del cantón.",
+    "que": "El plan no dice dónde ni cuánto costará. Se pagaría con fondos propios del Municipio y ayuda de bancos y otras entidades. Plazo: 4 años.",
+    "v": "alta",
+    "n": "Le toca al Municipio (buses y transporte). El plan no dice cuánto costará.",
+    "cita": "Impulsare la construcción del Terminal Terrestre para nuestro cantón.",
+    "pag": 11
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Hacer el plan maestro de agua potable, para planear las obras de agua hasta 40 años.",
+    "que": "Es un estudio que planea diseñar y construir las obras para captar, llevar, tratar y repartir el agua. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Pero el plan no dice cuánto costará.",
+    "cita": "Gestionare el Plan Maestro de Agua Potable para nuestro cantón, el cual consiste en un",
+    "pag": 11
+   },
+   {
+    "t": "Construir el alcantarillado (tuberías de aguas negras y lluvia) en las comunidades pobladas.",
+    "que": "Se hará junto con las Juntas Parroquiales y el Municipio, durante todo el periodo de gestión. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Gestionare la Construcción del Alcantarillado Sanitario y Pluvial de las diferentes comunidades pobladas del cantón Pangua, en convenio con las Juntas Parroquiales.",
+    "pag": 11
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Mover y mejorar el relleno sanitario, el lugar donde se entierra la basura del cantón.",
+    "que": "El plan no dice dónde ni cuánto costará. Se pagaría con fondos propios del Municipio, bancos y otras entidades. Plazo: 4 años.",
+    "v": "alta",
+    "n": "Le toca al Municipio (basura). El plan no dice cuánto costará.",
+    "cita": "Formalizare la reubicación y repotenciación de un nuevo relleno sanitario para el manejo de los desechos sólidos del cantón.",
+    "pag": 13
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Legalizar los terrenos municipales que no tienen escrituras.",
+    "que": "Lo hará la Comisión Urbanística del Municipio en el primer semestre de gestión. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (uso del suelo). Plazo: primer semestre.",
+    "cita": "Ejecutare el Plan integral de legalización de tierras; a todos los solares o terrenos municipales que no cuentan con sus escrituras",
+    "pag": 10
+   }
+  ],
+  "economia": [
+   {
+    "t": "Construir un mercado municipal nuevo en el cantón.",
+    "que": "El plan no dice dónde ni cuánto costará. Se pagaría con fondos propios del Municipio y con bancos y otras entidades. Plazo: 4 años.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Impulsare la construcción de un Mercado Municipal Moderno para nuestro cantón.",
+    "pag": 11
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Ampliar compañías de bomberos y comprar carros y equipos para el cantón.",
+    "que": "Incluye capacitación y equipos para bomberos, en todo el periodo de gestión. Lo tramitaría con la Secretaría de Gestión de Riesgos y fondos propios. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: prevención de desastres. El plan no dice cuánto costará.",
+    "cita": "ampliación de compañías de bomberos en la parroquia urbana y rurales del cantón",
+    "pag": 14
+   },
+   {
+    "t": "Pedir cámaras en espacios públicos y en las entradas de la ciudad.",
+    "que": "El plan no dice cuántas cámaras ni cuánto costarán. Lo tramitará con bancos, ministerios y el ECU 911 (central de emergencias).",
+    "v": "media",
+    "n": "Le toca pedir y coordinar; la policía es del Gobierno. El plan no dice cuánto costará.",
+    "cita": "Gestionare la instalación de cámaras de seguridad en los espacios públicos, así como en las entradas y salidas de la ciudad.",
+    "pag": 9
+   }
+  ],
+  "social": [
+   {
+    "t": "Pedir clínicas móviles con especialistas para atender en el cantón.",
+    "que": "El plan dice que habrá atención en obstetricia, pediatría, odontología y cirugías menores. Plazo: 4 años. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "La salud le toca al Ministerio de Salud, no al Municipio.",
+    "cita": "Gestionaremos la implementación de Unidades Médicas Móviles de Especialidades; el cual dará atención médica",
+    "pag": 12
+   }
+  ]
+ },
+ "metas": [
+  "Asfaltar 81,3 kilómetros de caminos vecinales y construir 6 puentes en 4 años.",
+  "Legalizar terrenos municipales en el primer semestre de gestión.",
+  "Hacer un plan de agua potable con proyección de 40 años.",
+  "Empezar la sala de velación a partir del sexto semestre de gestión."
+ ],
+ "notas": [
+  "El plan casi no dice cuánto costará cada obra. Casi todo depende de préstamos, bancos y otras entidades.",
+  "Incluye salud, educación y policía, que no son del Municipio. Algunas obras dependen del Gobierno o de la Prefectura."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15
+ ],
+ "paginas": 15
+}

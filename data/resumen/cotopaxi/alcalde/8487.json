@@ -1,0 +1,155 @@
+{
+ "enfoque": "Plan general de agua, alcantarillado, basura, calles, aceras y parques. No dice en qué lugares se harán las obras, cuánto costarán ni cuándo.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Hacer una evaluación técnica de los sistemas de agua potable del cantón.",
+    "que": "Se hará en la primera etapa del gobierno y después se armará un plan de obras por años. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará ni en qué plazo exacto.",
+    "cita": "Realizar durante la primera etapa de la administración una evaluación técnica de los sistemas municipales de agua potable",
+    "pag": 17
+   },
+   {
+    "t": "Arreglar y renovar la infraestructura de agua potable.",
+    "que": "Sirve para reducir cortes del servicio. El plan no dice en qué sectores se hará ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio; el plan condiciona todo a tener presupuesto.",
+    "cita": "Priorizar el mantenimiento preventivo y correctivo, rehabilitación y, cuando técnicamente corresponda, renovación de infraestructura estratégica",
+    "pag": 17
+   },
+   {
+    "t": "Ampliar y arreglar las redes de alcantarillado por sectores.",
+    "que": "Se programará por zonas, con prioridad donde hay problemas con la lluvia. El plan no dice qué zonas ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Establecer una programación territorial de ampliación, rehabilitación y mantenimiento de redes de alcantarillado",
+    "pag": 17
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Recoger, separar y reciclar la basura del cantón.",
+    "que": "Incluye educar a la ciudadanía y trabajar con recicladores. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Sin costo ni plazo en el plan.",
+    "cita": "Fortalecer progresivamente el sistema municipal de gestión integral de residuos mediante acciones orientadas a reducción, separación, recolección",
+    "pag": 24
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar, adoquinar y asfaltar las vías priorizadas.",
+    "que": "Las vías se elegirán según un plan técnico. El plan no dice qué calles se arreglarán ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice qué calles.",
+    "cita": "Ejecutar progresivamente proyectos de rehabilitación, adoquinado, asfaltado y demás soluciones técnicamente adecuadas para las vías priorizadas",
+    "pag": 19
+   },
+   {
+    "t": "Dar mantenimiento periódico a las vías, antes de que se dañen más.",
+    "que": "Incluye revisar obras de administraciones anteriores. El plan no dice con qué frecuencia ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Fortalecer la programación periódica del mantenimiento vial, procurando intervenir oportunamente",
+    "pag": 19
+   },
+   {
+    "t": "Arreglar aceras y cruces peatonales.",
+    "que": "Dará prioridad a zonas cerca de escuelas, centros de salud y mercados. El plan no dice qué calles ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué calles ni cuándo.",
+    "cita": "Implementar progresivamente intervenciones destinadas a mejorar las condiciones de aceras, cruces y recorridos peatonales",
+    "pag": 20
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar y dar mantenimiento a parques, plazas y áreas verdes.",
+    "que": "Se hará con un calendario de trabajos por años. El plan no dice qué parques ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice qué parques.",
+    "cita": "Implementar una programación de intervención y mantenimiento de parques, plazas, aceras, áreas verdes y demás espacios públicos municipales",
+    "pag": 20
+   }
+  ],
+  "otros": [
+   {
+    "t": "Tener en cuenta los riesgos naturales al planificar obras y el uso del suelo.",
+    "que": "Busca prevenir daños por amenazas naturales del cantón. El plan no dice qué zonas ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (prevención de desastres). Sin cifras.",
+    "cita": "Fortalecer la incorporación de la gestión de riesgos en la planificación territorial, los proyectos de infraestructura",
+    "pag": 27
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar programas de apoyo a emprendimientos y pequeños negocios.",
+    "que": "Incluye ayuda para formalizar, vender e innovar. El plan no dice cuántos negocios ni cuánto costará.",
+    "v": "media",
+    "n": "Puede apoyar negocios; crear empleo no le toca directamente al Municipio.",
+    "cita": "Impulsar programas orientados al fortalecimiento de emprendimientos y pequeños negocios, priorizando herramientas",
+    "pag": 21
+   }
+  ]
+ },
+ "metas": [
+  "Evaluación técnica de los sistemas de agua en la primera etapa de la administración.",
+  "Programación permanente de mantenimiento vial durante 2027–2031.",
+  "Plan de trabajo con periodo de gestión 2027–2031."
+ ],
+ "notas": [
+  "El plan no tiene cifras: no dice cuánto cuesta cada obra, cuántos kilómetros ni cuántas personas beneficia.",
+  "Casi no dice en qué calles, barrios o parques se harán las obras. Sus metas son generales."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45
+ ],
+ "paginas": 45
+}

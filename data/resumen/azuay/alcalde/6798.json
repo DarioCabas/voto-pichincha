@@ -1,0 +1,129 @@
+{
+ "enfoque": "Gestionar y pedir fondos para agua, alcantarillado y calles. Seguridad, vías rurales y vivienda dependen de la Policía, la Prefectura o el MIDUVI.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Decidir qué calles urbanas se arreglan primero, según su estado y cuánta gente usan.",
+    "que": "El plan dice que se priorizará según el estado de las vías, la población beneficiada y la conectividad. No dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni en qué plazo.",
+    "cita": "Priorizar intervenciones según estado de las vías, población beneficiada y conectividad.",
+    "pag": 4
+   },
+   {
+    "t": "Pedir a la Prefectura que arregle las vías rurales prioritarias.",
+    "que": "La Prefectura del Azuay haría las obras en las vías rurales. El plan no dice cuánto costará ni cuándo terminarían.",
+    "v": "media",
+    "n": "La obra es de la Prefectura. El Municipio solo gestiona y pide.",
+    "cita": "Gestionar ante la Prefectura del Azuay la intervención de las vías rurales prioritarias.",
+    "pag": 4
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Arreglar y ampliar el agua potable con financiamiento del BDE.",
+    "que": "Primero hará diagnósticos del sistema y de las pérdidas. Luego pedirá financiamiento al BDE. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende del BDE. El plan no dice cuánto cuesta.",
+    "cita": "Gestionar ante el Banco de Desarrollo del Ecuador B.P. (BDE) el financiamiento para la optimización y ampliación del sistema de agua potable y aguas residuales.",
+    "pag": 4
+   },
+   {
+    "t": "Hacer un proyecto para tratar aguas servidas y mejorar el alcantarillado.",
+    "que": "Lo haría el Municipio junto con el BDE y otras instituciones. El plan no dice cuánto costará ni cuándo empezará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero necesita apoyo del BDE. Sin costo ni plazo.",
+    "cita": "Proyecto de tratamiento de aguas servidas y mejoramiento del alcantarillado.",
+    "pag": 10
+   },
+   {
+    "t": "Dar capacitación sobre el destino final adecuado de la basura.",
+    "que": "El plan no dice a quién capacitarán, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice a quién capacitan.",
+    "cita": "Capacitación para la disposición final adecuada de residuos sólidos.",
+    "pag": 10
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Coordinar acciones para prevenir emergencias y riesgos.",
+    "que": "Incluye identificar zonas de riesgo y fortalecer la gestión de riesgos. El plan no dice con qué recursos ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (prevención de desastres). Sin costo ni plazo.",
+    "cita": "Coordinar acciones de prevención ante emergencias y riesgos.",
+    "pag": 6
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Ordenar y mejorar los espacios municipales donde se hace comercio.",
+    "que": "El plan no dice qué espacios, cuánto costará ni cuándo se haría.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta saber qué lugares y cuándo.",
+    "cita": "Mejorar y ordenar los espacios municipales de comercio.",
+    "pag": 5
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Pedir a la Policía un puesto nuevo (UPC) y una patrulla para San Fernando.",
+    "que": "El plan no dice cuánto costará ni cuándo llegarían. Lo decide la Policía Nacional.",
+    "v": "baja",
+    "n": "No le toca al Municipio, es de la Policía. Solo puede pedirlo.",
+    "cita": "Se gestionará, entre otras acciones, la edificación de un UPC y la asignación de una nueva patrulla para San Fernando.",
+    "pag": 3
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer campañas para prevenir la violencia de género.",
+    "que": "El plan no dice qué campañas, cuánto costarán ni cuándo empezarían.",
+    "v": "media",
+    "n": "Puede hacerlo, pero el plan no dice con qué dinero ni cuándo.",
+    "cita": "Desarrollar campañas de prevención de violencia de género.",
+    "pag": 6
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer reuniones periódicas con barrios, comunidades y jóvenes.",
+    "que": "Reuniones con comunidades, barrios, productores y jóvenes. El plan no dice cada cuánto ni en qué lugares.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta saber cada cuánto se harían.",
+    "cita": "Reuniones periódicas con comunidades, barrios, organizaciones sociales, productores, jóvenes y otros sectores.",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "Diagnóstico de agua potable en los primeros 30 días.",
+  "Presentación de proyectos al BDE en los días 31 a 60.",
+  "Primer informe ciudadano en los días 61 a 100.",
+  "Año 2031: finalizar proyectos, evaluar resultados y cerrar compromisos del período."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero, salvo que sería financiamiento del BDE.",
+  "Muchas propuestas dependen de otras instituciones: Policía, Prefectura, BDE y MIDUVI. El alcalde solo puede gestionarlas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16
+ ],
+ "paginas": 16
+}

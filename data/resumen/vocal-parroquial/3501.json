@@ -1,0 +1,119 @@
+{
+ "enfoque": "Pide más policía y ordenar construcciones, y propone empleo con cultivos, crianza de animales y escuelas deportivas. La mayoría de las propuestas le tocan a otros niveles.",
+ "tabla": {
+  "seguridad": [
+   {
+    "t": "Elaborar un plan de seguridad junto con la policía.",
+    "que": "El plan no dice cuánto costará ni cuándo. Solo dice que se hará junto con las autoridades policiales.",
+    "v": "baja",
+    "n": "Le toca a la policía, no a la junta.",
+    "cita": "Elaborar y gestionar un plan de seguridad de manera conjunta con las autoridades policiales",
+    "pag": 3
+   },
+   {
+    "t": "Proponer un puesto de policía (UPC) en el barrio Carcelén Bajo.",
+    "que": "El plan no dice cuánto costará ni cuándo se haría. Lo presenta como parte de un proyecto de seguridad para San Antonio.",
+    "v": "baja",
+    "n": "Le toca a la policía, no a la junta.",
+    "cita": "proponer un proyecto del triángulo de seguridad de San Antonio creando un UPC en el barrio de Carcelén bajo",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear proyectos de cultivos y crianza de animales para generar empleo.",
+    "que": "Cultivar legumbres, hortalizas y granos, y criar animales pequeños como ovejas, cerdos y aves, creando microempresas. El plan no dice cuánto costará ni quién lo pagará.",
+    "v": "alta",
+    "n": "Le toca a la junta apoyar a productores. Falta el costo.",
+    "cita": "mediante el cultivo de legumbres, hortalizas, granos, crianza de ganado menor como ganado ovino, porcino, avícola",
+    "pag": 4
+   },
+   {
+    "t": "Recuperar sitios arqueológicos y usarlos para el turismo.",
+    "que": "Empieza en el primer año y sigue en el tercero. El plan no dice qué sitios son ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita el apoyo de otra institución. El plan no dice cuánto cuesta.",
+    "cita": "Gestionar la recuperación de sitios arqueológicos e implementarlos al turismo",
+    "pag": 3
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Pedir una ordenanza para registrar y regularizar terrenos y casas.",
+    "que": "Pide actualizar el catastro (registro de terrenos y su valor) y regularizar predios. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio; la junta solo puede pedirlo.",
+    "cita": "solicitar una actualización catastral y regularización de predios por medio de una ordenanza municipal",
+    "pag": 1
+   },
+   {
+    "t": "Gestionar la legalización de construcciones informales.",
+    "que": "Tramitar la aprobación de obras hechas sin permiso. El plan no dice cuántas son, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio; la junta solo puede gestionarlo.",
+    "cita": "Gestionar la aprobación y legalización de construcciones informales",
+    "pag": 3
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Gestionar la construcción de una ciclovía de San Antonio a Tanlahua.",
+    "que": "Una vía para bicicletas, en el primer año. El plan no dice cuánto costará ni quién la pagará.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio o la Prefectura.",
+    "cita": "Gestionar la construcción de la ciclovía San Antonio-Tanlahua",
+    "pag": 3
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Gestionar pozos de agua en Tanlahua y Rumicucho.",
+    "que": "Los pozos darían agua para regar y para uso humano. El plan no dice cuántos pozos, cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "El agua potable no le toca a la junta.",
+    "cita": "Gestionar la perforación de pozos para obtener agua para riego y consumo",
+    "pag": 3
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear escuelas de básquet, vóley y fútbol para niños y adolescentes.",
+    "que": "Clases deportivas para niños y jóvenes. El plan no dice dónde, cuánto costará ni cuándo empieza.",
+    "v": "alta",
+    "n": "Le toca a la junta organizar deportes con la comunidad.",
+    "cita": "Implementar escuelas de básquet, vóley futbol y otros, en función de la niñez y adolescencia",
+    "pag": 3
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Pedir que se cumplan las normas contra la contaminación de las minas de materiales pétreos.",
+    "que": "Pide que las instituciones de medio ambiente hagan cumplir acuerdos y ordenanzas para proteger la salud de vecinos. El plan no dice cómo ni cuándo.",
+    "v": "media",
+    "n": "La junta solo puede pedirlo; el control lo hacen otras instituciones.",
+    "cita": "Solicitar a las instituciones encargadas de MEDIO AMBIENTE hacer cumplir los acuerdos y ordenanzas",
+    "pag": 2
+   }
+  ]
+ },
+ "metas": [
+  "El periodo de trabajo declarado es de cuatro años.",
+  "Primer año: pozos de agua, ciclovía San Antonio-Tanlahua, escuelas deportivas y sitios arqueológicos.",
+  "Segundo año: mejorar y ampliar la vía al cerro de Catequilla y gestionar el instituto técnico superior.",
+  "Tercer año: instalaciones del instituto y un parque acuático.",
+  "Cuarto año: seguir las obras del nuevo cementerio general y del instituto técnico superior."
+ ],
+ "notas": [
+  "El título dice \"presidencia\" del gobierno parroquial, pero la lista y el certificado dicen \"vocales\". Revise el cargo antes de votar.",
+  "La mayoría de las propuestas le tocan a la policía, al Municipio o a la Prefectura. El plan no dice cuánto cuesta ni de dónde sale el dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "paginas": 5
+}

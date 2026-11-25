@@ -1,0 +1,127 @@
+{
+ "enfoque": "Plan de agua y alcantarillado, caminos, trámites por internet y transparencia. La seguridad, la salud y el empleo dependen de otros niveles.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Optimizar el sistema de agua potable y construir nuevas plantas de tratamiento.",
+    "que": "Ampliar el alcantarillado en la ciudad, recintos y comunidades vulnerables. Meta: 95% de cobertura de agua apta al 2031. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "construcción de nuevas Plantas de Tratamiento (PTAP) y ampliación estratégica",
+    "pag": 5
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar caminos rurales con la Prefectura: mantenimiento, lastre y pavimento.",
+    "que": "Meta: dejar transitables 50 km de caminos vecinales al 2031. El plan no dice cuánto costará ni quién paga cada parte.",
+    "v": "media",
+    "n": "Depende de un convenio con la Prefectura del Guayas.",
+    "cita": "Guayas un programa permanente de mantenimiento, lastrado y pavimentación de la red",
+    "pag": 4
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Cambiar el alumbrado público a luces LED de bajo consumo en accesos y recintos.",
+    "que": "Se renovará el alumbrado en accesos comunitarios, recintos y espacios deportivos. Meta: 300 luminarias al 2031. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "renovando el alumbrado público con tecnología LED de bajo consumo en accesos comunitarios, recintos y espacios deportivos",
+    "pag": 4
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar cámaras de videovigilancia conectadas al ECU 911.",
+    "que": "Meta: 30 cámaras HD con inteligencia artificial y botones de pánico al 2031. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "La seguridad es de la Policía, no del Municipio.",
+    "cita": "Desplegar una red de 30 cámaras HD con inteligencia artificial y",
+    "pag": 8
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Pasar al internet el 100% de los trámites municipales, como patentes y licencias.",
+    "que": "Meta: bajar en 60% el tiempo de atención de trámites al 2031. Primeros 100 días: ventanilla virtual. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Es trámite municipal, pero el plan no dice cuánto costará.",
+    "cita": "Modernización institucional mediante la digitalización del 100% de",
+    "pag": 8
+   },
+   {
+    "t": "Publicar en internet los sueldos, compras y avance de obras del Municipio.",
+    "que": "Portal de datos abiertos con actualización mensual de sueldos, contratos, presupuesto y avance de obras. El plan no dice cuándo estará listo.",
+    "v": "alta",
+    "n": "Le toca al Municipio; es publicar información.",
+    "cita": "Habilitación del Portal de Transparencia y Datos Abiertos en la página web",
+    "pag": 9
+   },
+   {
+    "t": "Hacer asambleas públicas periódicas para explicar cómo se gasta el dinero.",
+    "que": "Asambleas por sector urbano, parroquia y recintos, con presentación del avance físico y financiero. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio y no depende de otros.",
+    "cita": "Convocatoria pública y obligatoria a Asambleas Cantonales participativas",
+    "pag": 9
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Reforestar 150 hectáreas de bosque protector con especies nativas.",
+    "que": "Se hará con el Ministerio del Ambiente. Meta al 2031. El plan no dice cuánto costará ni quién pone el dinero.",
+    "v": "media",
+    "n": "Depende del Ministerio del Ambiente.",
+    "cita": "Reforestar 150 hectáreas de bosque protector con especies nativas",
+    "pag": 7
+   }
+  ],
+  "economia": [
+   {
+    "t": "Promocionar la ruta turística de las cascadas y bosques, con operadores locales.",
+    "que": "Incluye mejorar la infraestructura de recepción y poner señales. Meta: 35% más visitantes formales al 2031. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Promoción que depende de otros; el plan no dice costo.",
+    "cita": "Desarrollo y promoción de la Ruta Turística Comunitaria de las",
+    "pag": 6
+   },
+   {
+    "t": "Dar certificados a 200 jóvenes en guianza, gastronomía y hospitalidad.",
+    "que": "Meta al 2031 para que consigan trabajo. El plan no dice cómo se hará ni con qué dinero.",
+    "v": "baja",
+    "n": "Crear empleo no es tarea directa del Municipio.",
+    "cita": "integrar al mercado laboral a 200 jóvenes con certificaciones en guianza,",
+    "pag": 6
+   }
+  ]
+ },
+ "metas": [
+  "95% de cobertura de agua potable apta para el consumo humano al 2031.",
+  "Elevar en 40% la capacidad de tratamiento de aguas servidas al 2031.",
+  "50 km de caminos vecinales transitables al 2031.",
+  "150 hectáreas de bosque protector reforestadas al 2031.",
+  "Reducir en 60% el tiempo de atención de trámites municipales al 2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero.",
+  "Varias propuestas (salud, seguridad, empleo) no son del Municipio; dependen del Gobierno o de la Policía."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ],
+ "paginas": 13
+}

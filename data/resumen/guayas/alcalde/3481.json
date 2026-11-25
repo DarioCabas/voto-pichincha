@@ -1,0 +1,144 @@
+{
+ "enfoque": "Obras de agua, alcantarillado, drenaje, calles y ríos en Santa Lucía, por fases, con dinero de préstamos y de la Prefectura.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar agua, alcantarillado y drenaje por fases, con estudios antes de cada obra.",
+    "que": "Cartera de referencia de 8.680.000 USD para agua, saneamiento y drenaje municipal, 2027-2031. Los proyectos grandes dependen de crédito del Banco de Desarrollo del Ecuador.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero los proyectos grandes dependen de préstamos.",
+    "cita": "Ampliar de manera gradual y equitativa los sistemas de agua, saneamiento y drenaje, asegurando que cada intervención sea técnicamente viable",
+    "pag": 14
+   },
+   {
+    "t": "Mantener canales y drenajes todo el año, no solo antes del invierno.",
+    "que": "El plan dice que el drenaje será una política permanente. Mantenimiento de canales y drenajes: 1.400.000 USD de referencia, 2027-2031, con apoyo de la Prefectura.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero pide apoyo de la Prefectura y de otras entidades.",
+    "cita": "Debe asumirse como una política permanente que combine obras, mantenimiento, monitoreo, alertas tempranas y control del uso del suelo.",
+    "pag": 8
+   },
+   {
+    "t": "Organizar rutas de basura según datos y separar basura para reciclar.",
+    "que": "Referencia de 1.800.000 USD para cubrir más puntos con recolección y separación, 2027-2031. Parte se haría con cooperación. El plan no dice cuándo empieza cada ruta.",
+    "v": "alta",
+    "n": "Le toca al Municipio: la basura es competencia municipal.",
+    "cita": "Rutas de residuos basadas en datos. Separación y reciclaje inclusivo.",
+    "pag": 16
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer un plan de movilidad para tricimotos, buses y paradas.",
+    "que": "Plazo 2027-2029 y 650.000 USD de referencia para zonas escolares y paradas ordenadas. El plan no dice quién paga el resto.",
+    "v": "alta",
+    "n": "Le toca al Municipio: tránsito y buses son competencia municipal.",
+    "cita": "Plan de movilidad, señalización y control conforme a competencia.",
+    "pag": 10
+   },
+   {
+    "t": "Gestionar con la Prefectura los caminos rurales que llevan a los recintos.",
+    "que": "El plan dice que los caminos rurales no son competencia directa del Municipio. Circuitos productivos: 6.000.000 USD de referencia, a cargo de la Prefectura del Guayas.",
+    "v": "media",
+    "n": "La Prefectura hace los caminos; el Municipio solo puede gestionarlo.",
+    "cita": "El Municipio atenderá las vías urbanas y gestionará con la Prefectura del Guayas el mejoramiento de los caminos rurales.",
+    "pag": 10
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar calles urbanas, aceras y cruces de la cabecera, con drenaje.",
+    "que": "Cartera de 6.350.000 USD para vialidad urbana, aceras y movilidad, 2027-2031. El plan no dice qué calles irán primero; se elegirán con un inventario.",
+    "v": "alta",
+    "n": "Le toca al Municipio: calles y aceras son competencia municipal.",
+    "cita": "Rehabilitar y mantener la vialidad urbana, mejorar aceras y seguridad vial, y gestionar la conectividad rural con la Prefectura del Guayas.",
+    "pag": 13
+   },
+   {
+    "t": "Recuperar parques y espacios públicos con luz y mantenimiento.",
+    "que": "Cartera de 4.400.000 USD para espacio público y prevención, 2027-2031. El plan dice que la coordinación se hará con la Policía Nacional y el ECU 911.",
+    "v": "media",
+    "n": "Luz y parques son del Municipio; el control policial no.",
+    "cita": "Recuperar espacios públicos, iluminación y prevención comunitaria en coordinación con Policia Nacional, ECU 911 y organizaciones barriales.",
+    "pag": 13
+   }
+  ],
+  "economia": [
+   {
+    "t": "Ordenar mercados y dar permisos de comercio más simples.",
+    "que": "Centro urbano: 250.000 USD de referencia para permisos simplificados y menos conflictos, 2027-2029. El plan no dice qué mercados se mejorarán.",
+    "v": "alta",
+    "n": "Le toca al Municipio: mercados y permisos son competencia municipal.",
+    "cita": "Sí puede, en cambio, ordenar y mejorar los mercados, facilitar permisos, impulsar ferias",
+    "pag": 9
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Abrir una ventanilla única y un expediente digital para los trámites.",
+    "que": "Cifra de referencia de 450.000 USD, 2027-2030. El plan dice que la fuente es municipal, pero no explica cómo se pagará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: trámites y cobros son competencia municipal.",
+    "cita": "Ventanilla única y expediente digital. Tablero de obras y contratos.",
+    "pag": 19
+   }
+  ],
+  "social": [
+   {
+    "t": "Ampliar atención a grupos prioritarios, jóvenes, cultura y deporte.",
+    "que": "Brigadas itinerantes y derivación para llegar a recintos. Cifra de referencia de 700.000 USD, 2027-2031, con apoyo del Ministerio de Desarrollo Humano.",
+    "v": "media",
+    "n": "Parte social es municipal; salud y educación son de otros niveles.",
+    "cita": "Ampliar la atención territorial a grupos prioritarios, juventud, cultura, deporte e identidad montuvia.",
+    "pag": 13
+   }
+  ]
+ },
+ "metas": [
+  "Mínimo de 68 % del presupuesto para obras y mantenimiento en 2027; 70 % desde 2028.",
+  "Evaluación intermedia independiente en 2029 y evaluación final en 2031."
+ ],
+ "notas": [
+  "Muchas obras dependen de préstamos del Banco de Desarrollo y de la Prefectura. El plan no asegura que existan.",
+  "El plan incluye policía, salud y educación; el Municipio no las maneja, solo puede coordinar."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35
+ ],
+ "paginas": 35
+}

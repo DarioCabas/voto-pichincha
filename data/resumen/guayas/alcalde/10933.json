@@ -1,0 +1,171 @@
+{
+ "enfoque": "Agua, alcantarillado, caminos, basura y mercado del cantón, con obras por año. El plan no dice cuánto costará casi ninguna de ellas.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Hacer el alcantarillado sanitario por etapas, con primera etapa en 2029 y 2030.",
+    "que": "Estudios definitivos en 2027 y gestión del dinero en 2028. Meta: 50% de viviendas conectadas en 2031. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el dinero depende de préstamos u otras entidades.",
+    "cita": "Estudios definitivos 2027; gestión de financiamiento 2028; primera etapa",
+    "pag": 44
+   },
+   {
+    "t": "Ampliar las redes de agua potable en 8 recintos y en la zona urbana.",
+    "que": "En 2027 estudios para la zona urbana y 4 recintos; en 2028 construcción en 8 recintos. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "cita": "Construcción y ampliación de redes de agua potable y sistemas de alcantarillado en 8 recintos",
+    "pag": 49
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Reparar vías principales y caminos vecinales, y pavimentar calles urbanas.",
+    "que": "Reparación de vías en 2027 y pavimentación de calles urbanas y caminos rurales en 2028. Meta: 90% de tramos priorizados. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio; algunos caminos pueden requerir convenios.",
+    "cita": "Reparación y mantenimiento de vías principales y caminos vecinales",
+    "pag": 48
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Ampliar la recolección de basura en el campo y separar basura desde casa.",
+    "que": "Más rutas rurales, equipos, separación de basura en la fuente y reciclaje. El plan no dice cuánto costará ni en qué recintos.",
+    "v": "alta",
+    "n": "Es competencia del Municipio. El plan no dice cuánto costará.",
+    "cita": "Rutas rurales, equipamiento, separación en fuente, reciclaje y disposición adecuada",
+    "pag": 44
+   },
+   {
+    "t": "Limpiar canales y drenajes y atender puntos críticos de inundación.",
+    "que": "Limpieza y mantenimiento de canales y drenajes, revisión de puntos críticos y obras prioritarias. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Prevenir inundaciones es competencia del Municipio. Falta el costo.",
+    "cita": "Limpieza y mantenimiento de canales y drenajes, identificación de puntos",
+    "pag": 44
+   },
+   {
+    "t": "Reforestar y limpiar ríos con el programa Guardianes del Bosque Seco.",
+    "que": "Programa previsto para 2027. El plan no dice cuántos árboles, qué ríos ni cuánto costará.",
+    "v": "media",
+    "n": "Depende en parte de organismos ambientales nacionales y de otros actores.",
+    "cita": "Programa \"Guardianes del Bosque Seco\": reforestación y limpieza de ríos",
+    "pag": 49
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar parques, plazas y aceras, y hacer un mercado nuevo.",
+    "que": "Mejora de parques y plazas desde 2027. Mercado municipal moderno y funcional en 2029. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Parques y mercados sí son del Municipio. Falta el costo.",
+    "cita": "Parques, plazas, aceras, bordillos, canchas, centros comunitarios, mercado y",
+    "pag": 45
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Crear una mesa de coordinación para iluminar y recuperar espacios.",
+    "que": "La iluminación se pide a las entidades competentes y se coordina con ellas. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "La policía no es del Municipio; la alcaldía solo coordina y gestiona la luz.",
+    "cita": "Mesa de coordinación, recuperación de espacios, iluminación mediante gestión",
+    "pag": 44
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear la Oficina de Desarrollo Productivo y Artesanal.",
+    "que": "Se crea en 2027 para apoyar a agricultores y artesanos; centro de acopio desde 2028. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Apoyo al campo; depende de alianzas con el Ministerio de Agricultura.",
+    "cita": "Creación de la Oficina de Desarrollo Productivo y Artesanal",
+    "pag": 49
+   }
+  ],
+  "social": [
+   {
+    "t": "Dar mantenimiento y equipos básicos a escuelas y centros de salud.",
+    "que": "Apoyo previsto en 2027. El plan no dice a cuántas escuelas ni centros de salud ni cuánto costará.",
+    "v": "baja",
+    "n": "Escuelas y centros de salud no son del Municipio; sería solo ayuda.",
+    "cita": "Apoyo a escuelas y centros de salud con mantenimiento y equipamiento",
+    "pag": 49
+   }
+  ]
+ },
+ "metas": [
+  "Conectar al menos 50% de las viviendas a la red de alcantarillado en 2031 (hoy 0,7%).",
+  "Agua potable en 2031: cobertura urbana de 98% y rural de 90% (hoy 94% y 60%).",
+  "Recolección de basura en 2031: al menos 99% en la ciudad y 90% en el campo.",
+  "Atender 90% de los tramos de caminos priorizados entre 2027 y 2031.",
+  "Oficina de Desarrollo Productivo funcionando en 2027."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra. El dinero depende del presupuesto anual, préstamos y convenios.",
+  "Gran parte del texto es diagnóstico general del cantón. Muchas metas no tienen costo ni lugar exacto."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57
+ ],
+ "paginas": 57
+}

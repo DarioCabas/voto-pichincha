@@ -1,0 +1,144 @@
+{
+ "enfoque": "Asfaltar calles del centro, arreglar caminos rurales, dar agua con cloro, poner cámaras y crear un portal de datos. Parte del texto copia el plan de desarrollo del cantón.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar y mantener los caminos de tierra de las zonas rurales durante todo el año.",
+    "que": "Pondrá lastre y hará mantenimiento periódico en caminos vecinales, y hará cunetas y alcantarillas en zonas con derrumbes. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Caminos y calles son del Municipio. El plan no dice cuánto cuesta.",
+    "cita": "Cronograma de lastrado y mantenimiento vial rural periódico para mantener los caminos vecinales",
+    "pag": 23
+   },
+   {
+    "t": "Fijar por ordenanza tarifas y horarios de transporte rural, con cobro especial para estudiantes.",
+    "que": "Se harán reuniones con las cooperativas y se fijará un horario obligatorio de salidas a los recintos más alejados. El plan no dice cuándo empieza.",
+    "v": "alta",
+    "n": "El Municipio regula el transporte. El plan no dice cuándo empieza.",
+    "cita": "Mesas técnicas de concertación con las cooperativas de camionetas de transporte",
+    "pag": 23
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Dar agua potable con cloro de forma continua en comunidades de las cuatro parroquias.",
+    "que": "Pondrá cloro de forma continua en el agua de comunidades vulnerables de las cuatro parroquias. El plan no dice cuánto costará ni en cuánto tiempo.",
+    "v": "alta",
+    "n": "El agua potable es competencia del Municipio. El plan no dice el costo.",
+    "cita": "Garantizar agua potable con cloro continuo y saneamiento ambiental ecológico (biodigestores)",
+    "pag": 16
+   },
+   {
+    "t": "Dar dinero, equipos de cloro y cursos a 35 juntas locales de agua rurales.",
+    "que": "Pondrá dinero para rediseñar, equipos automáticos de cloro y capacitación para las juntas de agua rurales. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "El agua es del Municipio; las juntas la manejan. El plan no dice el costo.",
+    "cita": "Financiamiento, rediseño físico, entrega de sistemas de cloración automáticos y capacitación técnica administrativa a 35 juntas locales de agua rurales",
+    "pag": 19
+   },
+   {
+    "t": "Instalar 450 baños ecológicos o biodigestores en casas rurales sin alcantarillado.",
+    "que": "Pondrá 450 unidades de saneamiento familiar en casas de recintos dispersos sin alcantarillado. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Saneamiento y alcantarillado son del Municipio. El plan no dice el costo.",
+    "cita": "instalaremos 450 unidades básicas de saneamiento familiar (biodigestores técnicos o baños secos",
+    "pag": 19
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar 50 cámaras inteligentes en el centro, cerca de escuelas, en Yunguilla y en accesos.",
+    "que": "Las cámaras se verán en una sala municipal conectada a la central de emergencias ECU-911 de Cuenca. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Cámaras sí puede comprar el Municipio; vigilar y detener es de la Policía.",
+    "cita": "Instalación y puesta en marcha de 50 cámaras inteligentes domo",
+    "pag": 18
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Cambiar el asfalto viejo de las calles del centro de Santa Isabel por una capa nueva.",
+    "que": "Quitará el asfalto gastado y pondrá una capa nueva de 3 pulgadas en calles con mucho tráfico comercial. El plan no dice cuánto costará ni en cuánto tiempo.",
+    "v": "alta",
+    "n": "Las calles son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Retiro de la carpeta asfáltica obsoleta del centro cantonal mediante fresado",
+    "pag": 22
+   },
+   {
+    "t": "Fijar hasta dónde puede crecer la ciudad, mediante el plan de uso del suelo.",
+    "que": "Con el Plan de Uso y Gestión de Suelo (PUGS) protegerá tierras agrícolas y cuencas de riego del Valle de Yunguilla. El plan no dice cuándo estará listo.",
+    "v": "alta",
+    "n": "El uso del suelo es del Municipio. El plan no dice cuánto cuesta ni cuándo.",
+    "cita": "delimitar estrictamente el límite de expansión urbana del cantón mediante el Plan de Uso y Gestión de Suelo",
+    "pag": 14
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear un portal web con contratos, presupuesto y avance de obras, en tiempo real.",
+    "que": "Mostrará contratos, presupuesto asignado, avance real de cada obra y sueldos de funcionarios municipales. El plan no dice cuándo estará listo.",
+    "v": "alta",
+    "n": "Es decisión del Municipio. El plan no dice cuándo se publicará.",
+    "cita": "Un portal digital de libre acceso público que expondrá en tiempo real: los contratos públicos",
+    "pag": 21
+   },
+   {
+    "t": "Votar en asambleas públicas el 100% del presupuesto anual de inversión de obras.",
+    "que": "Las asambleas se harán por turnos en distintas zonas del cantón. El plan habla de 1,2 millones de dólares al año para inversión.",
+    "v": "alta",
+    "n": "El Municipio decide su presupuesto. El plan no dice cuánto va a cada obra.",
+    "cita": "El 100% del presupuesto de inversión anual del GAD Municipal de Santa Isabel será definido, priorizado y votado en asambleas públicas",
+    "pag": 21
+   }
+  ]
+ },
+ "metas": [
+  "Instalar 450 unidades de saneamiento familiar en casas rurales.",
+  "Dar apoyo a 35 juntas locales de agua rurales.",
+  "Instalar 50 cámaras inteligentes en el cantón.",
+  "Reducir 15% el gasto corriente del Municipio en el primer año.",
+  "Subir los ingresos propios del Municipio 18% para el año 2."
+ ],
+ "notas": [
+  "El plan incluye temas de Policía, salud y escuelas, que el Municipio no maneja solo.",
+  "Parte del texto copia tablas del plan de desarrollo del cantón. Da un total de 4,8 millones en cuatro años, sin costo por obra."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34
+ ],
+ "paginas": 34
+}

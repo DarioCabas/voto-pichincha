@@ -1,0 +1,133 @@
+{
+ "enfoque": "Caminos, ferias de productores, limpieza y árboles, y un comité de emergencias. Agua y alcantarillado son de otros niveles; el plan no dice cuánto costará nada.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Abrir caminos nuevos para unir a las comunidades.",
+    "que": "Abrir caminos entre barrios, centros de producción y zonas de difícil acceso. El plan no dice cuánto costará ni cuándo. Pide maquinaria a otras entidades.",
+    "v": "media",
+    "n": "Necesita maquinaria de la Prefectura o el Municipio. El plan no dice cuánto cuesta.",
+    "cita": "Abrir nuevos caminos donde sean necesarios para conectar nuestras comunidades",
+    "pag": 7
+   },
+   {
+    "t": "Pedir una motoniveladora (máquina para arreglar caminos) a la Prefectura y al Municipio.",
+    "que": "Buscar aportes compartidos o donaciones de equipos. El plan no dice cuánto cuesta la máquina.",
+    "v": "media",
+    "n": "Depende de la Prefectura y el Municipio, no de la junta sola.",
+    "cita": "Presentar formalmente esta solicitud ante el Gobierno Provincial, Municipio y entidades competentes",
+    "pag": 12
+   },
+   {
+    "t": "Definir rutas de transporte que lleguen a todas las comunidades, con paradas señaladas.",
+    "que": "Poner paradas señaladas y rutas que cubran a todas las comunidades. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de acuerdos con el Municipio y las cooperativas.",
+    "cita": "Mejorar paradas, señalización y definir recorridos que cubran bien a todas las comunidades",
+    "pag": 15
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Reparar tanques y redes de agua potable.",
+    "que": "Reparar y ampliar tanques y tuberías para reducir fugas. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "El agua potable le toca a otro nivel, no a la junta.",
+    "cita": "Reparar, ampliar y mantener en buen estado los tanques de reserva y distribución",
+    "pag": 8
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Crear el COE parroquial, un comité de emergencias con Policía y Bomberos.",
+    "que": "Reúne a dirigentes, Policía, Bomberos y barrios, y hará simulacros. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita a la Policía y a Bomberos, que no son de la junta.",
+    "cita": "Integrar oficialmente el Comité de Operaciones de Emergencia Parroquial",
+    "pag": 16
+   },
+   {
+    "t": "Instalar cámaras en entradas, salidas y sitios sensibles.",
+    "que": "Poner cámaras en entradas, salidas y sitios sensibles, con respaldo de la Policía. El plan no dice cuántas cámaras ni cuánto cuestan.",
+    "v": "baja",
+    "n": "Las cámaras cuestan dinero y la seguridad es de la Policía. El plan no dice quién paga.",
+    "cita": "Instalar las cámaras en puntos estratégicos para cubrir las entradas, salidas y sitios más sensibles",
+    "pag": 9
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer jornadas de siembra de árboles nativos en zonas de protección.",
+    "que": "Jornadas con árboles nativos en zonas de protección y riberas de ríos. El plan no dice cuántos árboles ni cuánto costará.",
+    "v": "alta",
+    "n": "Es trabajo comunitario que la junta puede organizar.",
+    "cita": "Realizar jornadas de reforestación con árboles nativos en zonas de protección",
+    "pag": 17
+   },
+   {
+    "t": "Organizar campañas de limpieza en calles, caminos, riachuelos y espacios públicos.",
+    "que": "Campañas permanentes de limpieza y enseñar a separar la basura. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Es trabajo que la junta puede organizar. El plan no dice cuánto costará.",
+    "cita": "Organizar campañas permanentes de limpieza en calles, caminos, riachuelos y espacios públicos",
+    "pag": 16
+   }
+  ],
+  "economia": [
+   {
+    "t": "Organizar ferias y mercados donde los productores venden directo a los vecinos.",
+    "que": "Ferias permanentes donde los productores venden sin intermediarios. El plan no dice dónde ni cuándo serán.",
+    "v": "alta",
+    "n": "Es tarea que la junta puede organizar. El plan no dice dónde ni cuándo.",
+    "cita": "Organizar ferias permanentes y mercados justos donde los productores ofrezcan directamente sus productos a los vecinos",
+    "pag": 13
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar canchas, parques y áreas de encuentro que están dañadas.",
+    "que": "Reparar canchas y parques, y los vecinos deben cuidarlos. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Los parques son de la junta. El plan no dice cuánto costará la reparación.",
+    "cita": "Restaurar, adecuar y dar buen uso a las canchas, parques y áreas de encuentro que se encuentren descuidados o dañados",
+    "pag": 19
+   }
+  ]
+ },
+ "metas": [
+  "Una asamblea pública de rendición de cuentas al año.",
+  "Informes cada tres o seis meses sobre avances y presupuesto.",
+  "Año 2 (2028–2029): censo del estado del alcantarillado."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará casi ninguna propuesta; solo dice a qué entidades pedirá dinero.",
+  "Varias propuestas son de otros niveles (agua, alcantarillado, Policía, cámaras). La junta solo las puede gestionar o pedir."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23
+ ],
+ "paginas": 23
+}

@@ -1,0 +1,533 @@
+{
+  "canton": "CRNL MARCELINO MARIDUENAS",
+  "candidatos": [
+    {
+      "codFormulario": 6207,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Propone arreglar agua, basura, drenaje, calles, parques y el mercado. Los caminos rurales dependen de la Prefectura. Se basa en el plan de desarrollo del cantón de 2026.",
+      "tabla": {
+        "servicios": [
+          {
+            "t": "Arreglar pozos y sistemas de agua existentes y ampliar donde falte.",
+            "que": "Hará un diagnóstico por sistema y recinto, controlará la calidad del agua y reducirá pérdidas. El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+            "cita": "Diagnóstico por sistema y recinto; rehabilitación de pozos y sistemas existentes; ampliaciones priorizadas;",
+            "pag": 8
+          },
+          {
+            "t": "Revisar rutas y frecuencias de la basura y poner puntos limpios.",
+            "que": "Actualizará la lista de usuarios del servicio, pondrá equipos y puntos limpios, y hará educación en los barrios. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+            "cita": "revisión técnica de rutas y frecuencias, equipamiento prioritario, puntos limpios y educación comunitaria",
+            "pag": 8
+          },
+          {
+            "t": "Arreglar tuberías de aguas servidas y drenajes para bajar inundaciones.",
+            "que": "Hará mantenimiento de drenajes antes de cada temporada de lluvias y revisará los puntos de inundación. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+            "cita": "Rehabilitación de colectores; mantenimiento preventivo; identificación de puntos de inundación;",
+            "pag": 5
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Arreglar calles de la ciudad con un plan anual de baches y adoquines.",
+            "que": "Hará un inventario de puntos críticos y un cronograma anual, con prioridad en rutas de transporte, zonas escolares y comercio. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+            "cita": "Inventario de puntos críticos, cronograma anual, bacheo, adoquinado, rehabilitación de bordillos y señalización",
+            "pag": 8
+          },
+          {
+            "t": "Arreglar caminos rurales solo con convenio con la Prefectura del Guayas.",
+            "que": "Los caminos rurales son competencia de la Prefectura. El plan habla de convenios con aportes, cronograma y responsabilidades. El plan no dice cuánto costará.",
+            "v": "media",
+            "n": "Depende de la Prefectura; el Municipio no lo puede hacer solo.",
+            "cita": "Convenios con Prefectura del Guayas para mantenimiento y mejoramiento de tramos rurales priorizados",
+            "pag": 8
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Hacer una mesa con productores y agroindustria para bajar quemas y polvo.",
+            "que": "Buscará reducir quemas de caña, polvo y emisiones, con monitoreo y denuncias. El plan no dice cuándo ni cuánto costará.",
+            "v": "media",
+            "n": "Depende de la autoridad ambiental y de los productores.",
+            "cita": "Mesa con agroindustria, productores y autoridad ambiental para reducir impactos por quemas, polvo y emisiones",
+            "pag": 9
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Arreglar y crear parques, canchas, plazas y áreas verdes.",
+            "que": "Priorizará según demanda, estado y situación legal del terreno. Tendrá accesibilidad e iluminación eficiente. El plan no dice cuántos ni dónde.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuántos ni dónde.",
+            "cita": "Rehabilitación y creación priorizada de parques, canchas, plazas y áreas verdes con accesibilidad",
+            "pag": 10
+          },
+          {
+            "t": "Actualizar el plan de desarrollo del cantón y las reglas de uso del suelo.",
+            "que": "Incluirá este plan de trabajo, las nuevas necesidades y los riesgos. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio (uso del suelo). El plan no dice cuánto costará.",
+            "cita": "Actualizar los instrumentos después de la posesión, incorporando el Plan de Trabajo, las nuevas necesidades",
+            "pag": 10
+          }
+        ],
+        "economia": [
+          {
+            "t": "Arreglar el mercado municipal y los espacios de feria, por fases.",
+            "que": "Mejorará lo físico, lo sanitario y la operación, y ordenará carga, circulación y basura. Buscará no parar el comercio más de lo necesario. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+            "cita": "Mejoramiento físico, sanitario y operativo del mercado municipal y espacios de feria",
+            "pag": 9
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Publicar cada tres meses un tablero público de obras y gasto.",
+            "que": "Mostrará inversión, obras y cumplimiento de la regla que obliga a priorizar inversión y mantenimiento. El tablero se lanzaría entre los días 61 y 100.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan lo ubica en los primeros 100 días.",
+            "cita": "Implementar un tablero público trimestral de inversión, obras y cumplimiento de la regla fiscal.",
+            "pag": 11
+          }
+        ]
+      },
+      "metas": [
+        "Durante el primer año, una cartera de agua, saneamiento y drenaje por sector, con costos y fuentes de dinero.",
+        "Cada año, un paquete de mantenimiento de redes e infraestructura crítica.",
+        "Durante el primer año, actualizar y dar a conocer los protocolos de riesgo.",
+        "Publicar cada año un plan de mantenimiento vial urbano con avance físico y presupuestario.",
+        "Seguimiento público del plan cada seis meses y rendición de cuentas cada año."
+      ],
+      "notas": [
+        "El plan no dice cuánto costará ninguna obra. Dice que los costos y el origen del dinero se definirán en el primer año.",
+        "Tiene partes de plantilla: dice que deben cambiarse el candidato, el partido y el número de lista antes de inscribirse."
+      ]
+    },
+    {
+      "codFormulario": 10671,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Obras de agua, calles, parques y riesgos del Municipio, pero también pide hospital, escuelas y policía, que no le tocan al Municipio.",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Arreglar y mantener las calles de los centros poblados rurales.",
+            "que": "Es parte del plan de caminos y calles de los recintos del cantón. El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+            "cita": "Reconformación y mantenimiento de las calles de los centros poblados de los recíntos",
+            "pag": 15
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Ampliar el agua potable en el área urbana y rural.",
+            "que": "Captar, guardar y repartir agua potable en la ciudad y el campo, con otras entidades. El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "El agua es competencia del Municipio. El plan no dice cuánto costará.",
+            "cita": "Mejorammienta y ampllación dela cobertura del sistema de captación, alrracenarslento y lstribución de agua potable en el área urbana y rural del cantón.",
+            "pag": 13
+          },
+          {
+            "t": "Mejorar el alcantarillado y tratar las aguas residuales de la ciudad.",
+            "que": "Arreglar el sistema de desagüe sanitario y tratar las aguas sucias de la zona urbana. El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+            "cita": "Mejoramiento del sistema de alcantarillado sanitario y tratamiento de aguas resIduales descargadas af efluente en el área urbana del",
+            "pag": 13
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Gestionar muros de contención en zonas vulnerables de La Isla y otros dos sectores.",
+            "que": "Muros para proteger zonas vulnerables en La Isla, Chanchán - Dos Pinos y Barranco Alto. El plan no dice cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "Le toca al Municipio, pero depende de fondos del Gobierno y de un banco.",
+            "cita": "Gestión para la construcción de muros de contención en las zonas vulnerables del cantón, identificadas en el sector La Isla,",
+            "pag": 13
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Actualizar el plan de uso del suelo del cantón, con una academia.",
+            "que": "Se hará con un convenio de cooperación con la academia. El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "El uso del suelo es del Municipio. El plan no dice cuánto costará.",
+            "cita": "Actuallzación del Plan de Uso y Gestión de Suelo del cantón Crnl. MarcelIno Maridueña a través de",
+            "pag": 13
+          },
+          {
+            "t": "Urbanizar un terreno de 8 hectáreas para viviendas de interés social.",
+            "que": "El terreno de 8 hectáreas está en zona de crecimiento de la ciudad. Lo hacen el Municipio y entidades del Gobierno. El plan no dice cuánto costará.",
+            "v": "media",
+            "n": "El uso del suelo es del Municipio, pero las casas dependen de fondos del Gobierno.",
+            "cita": "Urbanización del terreno de 8,00 Ha identificado como zona de expansión urbana",
+            "pag": 13
+          },
+          {
+            "t": "Diseñar y arreglar espacios recreativos y deportivos en la ciudad y el campo.",
+            "que": "Espacios para deporte y recreo en áreas urbanas y rurales. El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Parques y espacios públicos son del Municipio. El plan no dice cuánto costará.",
+            "cita": "Diseño y ejecución del plan de mejoramiento físico Integral de los espacios recreativos y",
+            "pag": 13
+          }
+        ],
+        "social": [
+          {
+            "t": "Hacer programas para dar título legal a la tierra en zonas urbanas y rurales.",
+            "que": "Se hará en convenio con las instituciones encargadas. El plan no dice cuántas tierras ni cuánto costará.",
+            "v": "media",
+            "n": "Depende de otras instituciones, no solo del Municipio.",
+            "cita": "Garantizar la tenencia legal de la tierra con programas de legalización y titulación en convenio con las instituciones encargadas.",
+            "pag": 9
+          },
+          {
+            "t": "Gestionar un Centro de Salud Pública en el sector La Isla.",
+            "que": "Pide al Gobierno que lo construya. El plan no dice cuánto costará ni cuándo.",
+            "v": "baja",
+            "n": "La salud le toca al Gobierno, no al Municipio.",
+            "cita": "Gestión para la construcción de un Centro de Salud Pública en el Sector La",
+            "pag": 13
+          }
+        ],
+        "economia": [
+          {
+            "t": "Construir una plaza artesanal en la vía Acapulco.",
+            "que": "Es una obra de comercio en la vía Acapulco. El plan no dice cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "Los mercados son del Municipio, pero el plan no dice cuánto costará.",
+            "cita": "Construcción de la plaza artesanal en la vía",
+            "pag": 11
+          }
+        ]
+      },
+      "metas": [
+        "Urbanizar 8 hectáreas para viviendas de interés social.",
+        "Consultoría del nuevo eje vial urbano prevista para el año 2040.",
+        "Plan de trabajo de cuatro años, de 2027 a 2031.",
+        "Rendir cuentas al cumplir un año de gestión."
+      ],
+      "notas": [
+        "El plan no dice cuánto cuesta ninguna obra ni de dónde saldrá el dinero.",
+        "Parte del texto parece copiado de un modelo general y dice 'Consejera Provincial' en vez de alcaldesa."
+      ]
+    },
+    {
+      "codFormulario": 8649,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Calles, malecón del Casco Colonial, nuevo cementerio, basura y vivienda, muchas con préstamos o dinero del Gobierno. Incluye un centro de salud, que no es del Municipio.",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Asfaltar y adoquinar 15.000 m² de calles en barrios de la ciudad.",
+            "que": "Costará $2.000.000 en total hasta 2031, con dinero del Gobierno (Modelo de Equidad Territorial) y cobro a vecinos beneficiados. El plan no dice qué barrios.",
+            "v": "media",
+            "n": "Calles sí son municipales, pero depende del dinero del Gobierno.",
+            "cita": "Cambio de estructura de suelo, bordillos, adoquinado y/o carpeta asfáltica.",
+            "pag": 18
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Seguir construyendo el nuevo cementerio: bóvedas, nichos y accesos.",
+            "que": "Costará $800.000 en total: $400.000 en 2027 y $400.000 en 2028, con crédito del Banco de Desarrollo y dinero municipal. El plan no dice cuántos nichos habrá.",
+            "v": "media",
+            "n": "Cementerio sí es municipal, pero depende de un crédito de un banco público.",
+            "cita": "Ejecución: Edificación de bloques de bóvedas, bloques de nichos, pavimentación de",
+            "pag": 17
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Cambiar rutas de basura, sembrar 5 hectáreas y recuperar parques.",
+            "que": "Cambiar horarios y rutas de recolección, plantar plantas nativas y recuperar el 100% de los parques urbanos. Parte de $300.000 en total, pagados con la tasa de basura y fondos propios.",
+            "v": "alta",
+            "n": "Basura, parques y árboles sí le tocan al Municipio, con dinero propio.",
+            "cita": "Ejecución: Siembra en riberas de ríos, mantenimiento de parques y optimización de rutas limpias.",
+            "pag": 20
+          },
+          {
+            "t": "Limpiar ríos y canales críticos antes de cada temporada de lluvias.",
+            "que": "Sacar tierra, basura y palos de cauces donde hay inundaciones. Sale del fondo de emergencias municipal, dentro de los $300.000 de basura y parques. El plan no dice cuántos kilómetros.",
+            "v": "alta",
+            "n": "Prevenir inundaciones sí es competencia del Municipio.",
+            "cita": "Ejecución: Limpieza, dragado preventivo y retiro de palizada en cauces críticos.",
+            "pag": 21
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Construir un malecón turístico y comercial en el Casco Colonial.",
+            "que": "Costará $1.200.000 en total: crédito del Banco de Desarrollo del Ecuador (BDE) y fondos propios. Obra prevista entre 2027 y 2029. El plan no dice cuántos locales.",
+            "v": "media",
+            "n": "Obra municipal, pero depende de un préstamo del Banco de Desarrollo.",
+            "cita": "Ejecución: Obra civil, construcción de locales comerciales y área regenerada.",
+            "pag": 10
+          },
+          {
+            "t": "Cambiar el uso del suelo y gestionar casas de bajo costo con privados.",
+            "que": "Primero cambiar el plan de uso del suelo (PUGS). Luego casas con el Ministerio de Vivienda (MIDUVI) y promotores privados. Costará $500.000 en total. El plan no dice cuántas casas.",
+            "v": "media",
+            "n": "Cambiar el suelo sí es municipal; las casas dependen de otros.",
+            "cita": "Reforma parcial al PUGS para uso de suelo residencial y diseño",
+            "pag": 14
+          }
+        ],
+        "social": [
+          {
+            "t": "Construir la piscina olímpica con el Ministerio del Deporte y la Liga Deportiva Cantonal.",
+            "que": "Costará $1.000.000 en total, pagado por el Ministerio del Deporte y un crédito del Banco de Desarrollo (BDE). La liga la administrará. Obra prevista entre 2027 y 2029.",
+            "v": "media",
+            "n": "Obra deportiva con dinero de otras entidades; depende de un convenio.",
+            "cita": "Ejecución: Construcción de la piscina olímpica, cuartos de bombas, vestidores y",
+            "pag": 13
+          },
+          {
+            "t": "Abrir un centro de salud municipal y hacer brigadas médicas en los recintos.",
+            "que": "El plan pone $250.000 en total para 2027–2031, de dinero del Gobierno (Modelo de Equidad Territorial) y donaciones privadas. Brigadas en el 100% de los recintos. No dice cuántas consultas.",
+            "v": "baja",
+            "n": "La salud no le toca al alcalde; es tarea del Ministerio de Salud.",
+            "cita": "Ejecución: Despliegue de brigadas de medicina general, odontología y laboratorio",
+            "pag": 15
+          }
+        ],
+        "economia": [
+          {
+            "t": "Crear un corredor de comida y artesanía y capacitar a 500 emprendedores.",
+            "que": "Cursos y puestos para emprendedores y artesanos. Costará $150.000 en total, con dinero del Gobierno (Modelo de Equidad Territorial) y aliados privados. El plan no dice cuándo.",
+            "v": "media",
+            "n": "Puestos y cursos sí son municipales; crear empleo no le toca.",
+            "cita": "Ejecución: Talleres de capacitación, capital semilla y ferias gastronómicas/artesanales.",
+            "pag": 11
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Hacer trámites municipales en línea y crear una app de celular.",
+            "que": "Meta: digitalizar el 80% de los trámites. Costará $300.000 en total con dinero propio del Municipio. El plan no dice en qué fecha estará listo el portal.",
+            "v": "alta",
+            "n": "Trámites del Municipio sí le tocan al alcalde, con dinero propio.",
+            "cita": "Ejecución: Programación del sistema, migración de base de datos catastral y pruebas de",
+            "pag": 22
+          }
+        ]
+      },
+      "metas": [
+        "15.000 m² de calles urbanas pavimentadas, adoquinadas o regeneradas.",
+        "5 hectáreas de áreas degradadas reforestadas.",
+        "500 emprendedores y artesanos capacitados.",
+        "80% de los trámites municipales digitalizados.",
+        "1 malecón del Casco Colonial construido."
+      ],
+      "notas": [
+        "El plan no tiene obras concretas de agua potable ni de alcantarillado, aunque las menciona.",
+        "Muchas obras dependen de préstamos o dinero del Gobierno. El plan no dice qué pasa si ese dinero llega tarde."
+      ]
+    },
+    {
+      "codFormulario": 12061,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Texto casi ilegible, en gran parte copiado del plan de desarrollo del cantón. Se leen pocas propuestas: cobrar impuestos, catastro, plaza comercial y rendición de cuentas.",
+      "tabla": {
+        "economia": [
+          {
+            "t": "Cobrar la deuda vencida de impuestos predial y patentes",
+            "que": "El plan habla de cobrar deudas vencidas del impuesto predial y de patentes. El plan no dice cuánto se espera cobrar ni cuándo.",
+            "v": "alta",
+            "n": "Cobrar impuestos es del Municipio. El plan no dice plazos.",
+            "cita": "Cobro de cartera vencida. mocporación de rmomsidad en impuealo predial y patentes",
+            "pag": 73
+          },
+          {
+            "t": "Construir una plaza comercial para pequeños comerciantes y artesanos",
+            "que": "Sería un espacio para que pequeños comerciantes y artesanos vendan. El plan no dice cuánto costará ni cuándo se hará.",
+            "v": "alta",
+            "n": "Le toca al Municipio (mercados). El plan no dice costo.",
+            "cita": "como la construcción de una prozciala comercial en la vla Acépuico + Los Ángelos, que",
+            "pag": 14
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Actualizar el catastro (registro de terrenos) de todos los predios",
+            "que": "El plan habla de cubrir el 100% de los predios en el catastro. El plan no dice cuánto costará ni cuándo termina.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice costo ni plazo.",
+            "cita": "Actuallicación caisitral: paorrelorenciarón del 100% de los predica pam actual bat",
+            "pag": 73
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Dar a empresas privadas el manejo de la basura y el alumbrado",
+            "que": "El plan propone contratos con empresas privadas (concesiones) para basura y alumbrado. El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice costo ni plazo.",
+            "cita": "Concesiones y cogesilón; para enreción de oque polatés, residuca sóliica y alerebrado",
+            "pag": 75
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Hacer una asamblea anual con toda la ciudadanía para dar cuentas",
+            "que": "En la asamblea se presenta el informe del año anterior a toda la ciudadanía. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Rendir cuentas es tarea del Municipio.",
+            "cita": "Asombies cludadana anual: cormocatoria ibioria o oda la ciodaduría para presos el informa de postión del año amerior,",
+            "pag": 78
+          },
+          {
+            "t": "Publicar cada año un informe escrito de lo que se hizo",
+            "que": "El informe se publica en la página del Municipio y en medios locales. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. Es una tarea de informar.",
+            "cita": "informe escrita: publicación en el porlal ob inuiiccional y on medios locales del informe",
+            "pag": 79
+          },
+          {
+            "t": "Hacer reuniones abiertas en parroquias y comunidades",
+            "que": "Son reuniones para escuchar pedidos de los vecinos. El plan no dice cuándo se hacen ni cuánto cuestan.",
+            "v": "alta",
+            "n": "Le toca al Municipio. Son reuniones, costo bajo.",
+            "cita": "Cablidos abiertos: sesiones dosceciralzadas 01 parroquias y comunidadas pára alendni",
+            "pag": 79
+          },
+          {
+            "t": "Abrir un sistema en línea para quejas y reclamos",
+            "que": "Sirve para recibir y seguir las quejas de los ciudadanos. El plan no dice plazos de respuesta ni costo.",
+            "v": "alta",
+            "n": "Le toca al Municipio (quejas y reclamos).",
+            "cita": "Misiema de quejas y reclamos: plataforma en lisa para moepción y seguimiento de",
+            "pag": 79
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El escaneado está muy dañado: casi todas las páginas son ilegibles. Solo se pudieron leer algunas propuestas.",
+        "Gran parte del texto repite el plan de desarrollo del cantón. Casi no dice costos ni plazos."
+      ]
+    },
+    {
+      "codFormulario": 3759,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Llevar agua y saneamiento a los recintos rurales, cubrir la basura en el campo y arreglar vías rurales. Casi no dice cuánto costará.",
+      "tabla": {
+        "servicios": [
+          {
+            "t": "Hacer un plan de agua y saneamiento para cada recinto y caserío rural.",
+            "que": "Prioriza los recintos por número de habitantes y condición sanitaria. El plan no dice cuánto costará ni cuándo terminará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+            "cita": "Formular el plan maestro de agua y saneamiento rural del cantón, con levantamiento por recinto y caserío",
+            "pag": 5
+          },
+          {
+            "t": "Ampliar la red de agua desde la planta de la vía a Pretoria hacia centros poblados.",
+            "que": "Solo dice 'centros poblados alcanzables', sin nombrarlos. El plan no dice cuánto costará ni cuándo llegará el agua.",
+            "v": "alta",
+            "n": "Le toca al Municipio, pero el plan no dice cómo lo pagará.",
+            "cita": "Ampliar la red de agua desde la planta potabilizadora de la vía a Pretoria hacia centros poblados alcanzables",
+            "pag": 5
+          },
+          {
+            "t": "Cambiar rutas y horarios de la basura para llegar a los recintos y caseríos.",
+            "que": "Hoy el servicio llega al 75,8 % de la zona rural. El plan no dice cuánto costará ni en qué plazo llegará al 100 %.",
+            "v": "alta",
+            "n": "Le toca al Municipio, que maneja la basura.",
+            "cita": "Rediseñar rutas y frecuencias de recolección para cubrir recintos y caseríos",
+            "pag": 6
+          },
+          {
+            "t": "Construir una planta de basura, biogás y compost sobre el antiguo botadero.",
+            "que": "Inversión estimada de USD 17.000.000 con empresas privadas. El plan dice que se pagará con venta de energía, compost y créditos de carbono.",
+            "v": "media",
+            "n": "Depende de empresas privadas y de permisos. El plan no da fechas firmes.",
+            "cita": "con una inversión estimada de USD 17.000.000",
+            "pag": 7
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Arreglar cada año los caminos rurales que llevan a la cabecera, salud y escuelas.",
+            "que": "El plan no dice cuántos kilómetros ni cuánto costará cada año. Parte del dinero vendría de la tasa de áridos y pétreos.",
+            "v": "alta",
+            "n": "Le toca al Municipio: las vías y calles son su competencia.",
+            "cita": "Ejecutar programa anual priorizando tramos que conectan recintos con la cabecera",
+            "pag": 7
+          },
+          {
+            "t": "Construir una vía perimetral de unos 4,29 km alrededor del cantón.",
+            "que": "Depende de dinero del Ministerio de Obras Públicas, la Prefectura del Guayas y el Banco de Desarrollo (BDE). El plan no dice cuánto costará.",
+            "v": "media",
+            "n": "Depende de otras instituciones. El plan no dice cuánto costará.",
+            "cita": "Construcción de una vía perimetral de aproximadamente 4,29 km articulada con la red vial existente",
+            "pag": 8
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Recuperar la orilla del río Chimbo con senderos, ciclovías y plazoletas.",
+            "que": "Primera etapa: accesos, iluminación, plazoletas y áreas verdes. El plan no dice cuánto costará ni cuándo estará lista.",
+            "v": "alta",
+            "n": "Espacio público le toca al Municipio. El plan no dice el costo.",
+            "cita": "Recuperación urbana y paisajística de 179.804 m² en la ribera del río Chimbo",
+            "pag": 12
+          },
+          {
+            "t": "Modernizar el catastro (registro de terrenos) del campo y la ciudad.",
+            "que": "Sirve para cobrar mejor los impuestos sobre terrenos. El plan no dice cuánto costará ni en qué plazo.",
+            "v": "alta",
+            "n": "Le toca al Municipio, que maneja el catastro.",
+            "cita": "Modernizar el catastro urbano y rural e integrarlo con el sistema de recaudación",
+            "pag": 11
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Instalar un sistema de alerta temprana contra inundaciones en zonas ribereñas.",
+            "que": "Pone alertas en asentamientos cerca de los ríos. El plan no dice cuánto costará ni cuándo estará listo.",
+            "v": "alta",
+            "n": "Prevención de desastres le toca al Municipio.",
+            "cita": "Fortalecer la Unidad de Gestión de Riesgos e instalar un SAT ante inundaciones en asentamientos ribereños",
+            "pag": 10
+          }
+        ],
+        "otros": [
+          {
+            "t": "Ampliar el Centro de Salud Tipo A, que es del Ministerio de Salud.",
+            "que": "El plan pide al Ministerio de Salud que lo amplíe. El plan no dice cuánto costará.",
+            "v": "baja",
+            "n": "Salud no le toca al Municipio: depende del Ministerio de Salud.",
+            "cita": "Gestionar ante el MSP la ampliación del Centro de Salud Tipo A",
+            "pag": 8
+          }
+        ]
+      },
+      "metas": [
+        "Poner en operación las redes sanitarias conectadas a la estación de bombeo municipal en ocho meses de ejecución.",
+        "Crear la Unidad de Gestión de Proyectos y Cooperación Internacional en los primeros 100 días de gestión.",
+        "Ejecución presupuestaria anual superior al 90 %.",
+        "Elevar la cobertura rural de recolección por encima del 75,8 % de línea base.",
+        "Reporte trimestral del avance físico y financiero de cada obra."
+      ],
+      "notas": [
+        "Casi ninguna obra tiene costo indicado. Varias dependen de dinero del Gobierno, del BDE o de la Prefectura.",
+        "Incluye propuestas que no son del alcalde, como salud, educación y policía. Revise cada propuesta con cuidado."
+      ]
+    }
+  ]
+}

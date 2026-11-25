@@ -1,0 +1,146 @@
+{
+ "enfoque": "Plan 2027-2031 con muchas metas de policía, salud y empleo, que no son del alcalde. Sus propuestas municipales son calles, agua, basura y uso del suelo.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar y dar mantenimiento a las calles con un plan de varios años.",
+    "que": "El plan dice que hará un plan de mantenimiento vial para varios años. No dice qué calles, cuánto costará ni cuándo empieza.",
+    "v": "alta",
+    "n": "Le toca al Municipio (calles). El plan no dice costo ni fechas.",
+    "cita": "Diseñar e implementar el plan multianual de mantenimiento vial y",
+    "pag": 17
+   },
+   {
+    "t": "Desviar y controlar camiones pesados con básculas y rutas alternas.",
+    "que": "Pesar los camiones pesados con básculas y mandarlos por rutas alternas. El plan no dice en qué calles ni cuánto costará.",
+    "v": "alta",
+    "n": "El tránsito es del Municipio. El plan no dice costo ni calles.",
+    "cita": "desviar y controlar el tráfico pesado mediante básculas y",
+    "pag": 17
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Arreglar y ampliar las tuberías de agua y las plantas que la tratan.",
+    "que": "Rehabilitar, mejorar y ampliar las redes de agua y las plantas de tratamiento. El plan no dice en qué barrios ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (agua potable). Falta costo y plazo.",
+    "cita": "Ejecutar la rehabilitación, mejoras y ampliación de redes de distribución y plantas de tratamiento",
+    "pag": 17
+   },
+   {
+    "t": "Crear sistemas más eficientes para recoger la basura.",
+    "que": "El plan dice que establecerá sistemas eficientes de recolección de basura. No dice cuáles, dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (basura). Falta detalle y costo.",
+    "cita": "Gestión de residuos: Establecer sistemas eficientes de recolección",
+    "pag": 20
+   },
+   {
+    "t": "Hacer un estudio para actualizar las tasas municipales de forma equitativa.",
+    "que": "Un estudio técnico para cambiar las tasas que pagan los vecinos. El plan no dice cuándo se hará ni cuánto subirán.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuándo ni cuánto.",
+    "cita": "Realizar el estudio técnico y actualización equitativa de las tasas",
+    "pag": 17
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Controlar y ordenar el uso del suelo y las construcciones.",
+    "que": "Revisar, regularizar y vigilar cómo se usa el terreno del cantón. El plan no dice en qué zonas ni con qué personal.",
+    "v": "alta",
+    "n": "Le toca al Municipio: el uso del suelo es su competencia.",
+    "cita": "Control, regularización y fiscalización del uso del suelo",
+    "pag": 21
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer planes para cuidar las cuencas y las zonas donde se recarga el agua.",
+    "que": "Planes para manejar las cuencas de los ríos y proteger las zonas de recarga de agua. El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Puede impulsarlo, pero el plan no dice costo ni socios.",
+    "cita": "Protección de recursos: Implementar planes de manejo de cuencas hídricas",
+    "pag": 33
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Pasar trámites municipales a internet y abrir canales para revisar las cuentas.",
+    "que": "Hacer que los trámites se hagan por internet y dar acceso a la ciudadanía para revisar la gestión. El plan no dice cuándo.",
+    "v": "alta",
+    "n": "Depende solo del Municipio. El plan no dice plazo.",
+    "cita": "Transparencia y gobernanza: Digitalizar trámites y abrir canales de rendición",
+    "pag": 33
+   },
+   {
+    "t": "Presentar cada año la rendición de cuentas en eventos públicos.",
+    "que": "Cada año, el alcalde presentará su gestión en eventos públicos del cantón, con la presencia de la ciudadanía. El plan no dice fechas.",
+    "v": "alta",
+    "n": "Depende del alcalde, no de otros. Sin fecha fija.",
+    "cita": "anual la rendición de cuentas de nuestra gestión en eventos públicos",
+    "pag": 35
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Garantizar la seguridad ciudadana y controlar los espacios públicos.",
+    "que": "El plan pide seguridad y control de espacios y espectáculos públicos. Es tarea de la Policía, no del Municipio.",
+    "v": "baja",
+    "n": "No le toca al Municipio: la seguridad es de la Policía.",
+    "cita": "Garantía de la seguridad ciudadana y control eficiente de",
+    "pag": 12
+   }
+  ]
+ },
+ "metas": [
+  "Bajar la desnutrición infantil del 23,21% (año 2025) al 16,42%.",
+  "Reducir la pobreza (NBI) del 45% al 28% al finalizar el año 4.",
+  "Periodo del plan: del 14 de mayo de 2027 al 14 de mayo de 2031."
+ ],
+ "notas": [
+  "Muchas metas son de policía, salud o empleo, no del alcalde. El plan no dice costos ni de dónde saldrá el dinero.",
+  "Parece copiado de otro documento: dice 'elecciones seccionales 2026' y no incluye la sección de fuentes de financiamiento."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36
+ ],
+ "paginas": 36
+}

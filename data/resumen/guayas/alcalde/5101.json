@@ -1,0 +1,207 @@
+{
+ "enfoque": "Obras de agua, alcantarillado, basura, calles, drenaje y mejoras de casas en Daule, con más obra en parroquias rurales y La Aurora. Varias metas dependen de otros niveles de gobierno.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Llevar agua potable al campo: subir la cobertura rural del 37,6% a 55% al 2031.",
+    "que": "Subir la cobertura de agua en parroquias rurales a al menos 55% al 2031 y extender el alcantarillado a recintos sin cubrir. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará.",
+    "cita": "Elevar la cobertura rural de agua potable del 37,6% a al menos 55% al 2031",
+    "pag": 35
+   },
+   {
+    "t": "Instalar 4 EcoCentros municipales y fijar rutas y horarios de basura.",
+    "que": "Son 4 EcoCentros municipales y rutas y horarios oficiales en el 100% de los circuitos de la cabecera. El plan no dice cuánto costará ni dónde irán.",
+    "v": "alta",
+    "n": "Le toca al Municipio: la basura es competencia municipal.",
+    "cita": "Instalar 4 EcoCentros municipales y protocolizar rutas y horarios en el 100% de los circuitos",
+    "pag": 33
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer obras de control de inundaciones en el estero Sabanilla.",
+    "que": "Reducir en al menos 30% las edificaciones en zona de amenaza alta de inundación del corredor del estero Sabanilla al 2031. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Obra directa del Municipio, según el plan.",
+    "cita": "Reducir en al menos 30% las edificaciones en amenaza alta de inundación del corredor",
+    "pag": 34
+   },
+   {
+    "t": "Actualizar el plan de riesgos y hacer dos simulacros al año.",
+    "que": "Actualizar el plan y hacer al menos dos simulacros cantonales cada año desde 2027. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio; los protocolos los pone el Servicio Nacional de Gestión de Riesgos.",
+    "cita": "Actualizar el plan y ejecutar al menos dos simulacros cantonales anuales desde 2027.",
+    "pag": 34
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Poner en marcha la primera ruta de bus eléctrico Aurora–Cabecera–Guayaquil.",
+    "que": "Poner en operación la primera ruta eléctrica Aurora–Cabecera–Guayaquil al 2029, en alianza con operadores privados. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Los buses son del Municipio, pero depende de operadores privados.",
+    "cita": "Poner en operación la primera ruta eléctrica Aurora–Cabecera–Guayaquil al 2029.",
+    "pag": 37
+   },
+   {
+    "t": "Construir puentes peatonales en los cruces más transitados.",
+    "que": "Construir puentes peatonales en los puntos de mayor circulación de la cabecera y La Aurora al 2029. El plan no dice cuántos ni cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca al Municipio: es obra peatonal y vial municipal.",
+    "cita": "Identificar y construir puentes peatonales adicionales en los puntos de mayor",
+    "pag": 38
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar 20 espacios urbanos con calles, aceras, luces y áreas verdes.",
+    "que": "Regenerar 20 espacios urbanos con mejoras viales, aceras, iluminación, mobiliario y áreas verdes, junto con las urbanizaciones. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: calles y mantenimiento vial.",
+    "cita": "Regenerar integralmente 20 espacios urbanos estratégicos del cantón, incorporando",
+    "pag": 38
+   },
+   {
+    "t": "Aprobar la primera fase del plan para ordenar el crecimiento de La Aurora.",
+    "que": "Aprobar y ejecutar la primera fase del plan parcial (plan para ordenar la expansión urbana) de La Aurora al 2028. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: el uso del suelo es competencia directa.",
+    "cita": "Aprobar y ejecutar la primera fase del plan parcial al 2028.",
+    "pag": 36
+   }
+  ],
+  "social": [
+   {
+    "t": "Mejorar la casa de 500 familias hasta 2031.",
+    "que": "Atender al menos 500 familias con mejoramiento de vivienda al 2031, en coordinación con el MIDUVI (ministerio de vivienda). El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende en parte del MIDUVI, el ministerio de vivienda.",
+    "cita": "Atender al menos 500 familias con mejoramiento habitacional al 2031",
+    "pag": 39
+   }
+  ],
+  "economia": [
+   {
+    "t": "Registrar 10.000 personas y 500 empresas en una bolsa de empleo digital.",
+    "que": "Registrar a 10.000 personas y 500 empresas al 2030 en una bolsa de empleo digital con IA (inteligencia artificial). El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "Crear empleo no es competencia del Municipio según la ley.",
+    "cita": "Registrar a 10.000 personas y 500 empresas al 2030.",
+    "pag": 44
+   }
+  ]
+ },
+ "metas": [
+  "Subir la cobertura de agua potable en el área rural del 37,6% a al menos 55% al 2031.",
+  "Instalar 4 EcoCentros municipales para la basura.",
+  "Reducir en al menos 30% las edificaciones en amenaza alta de inundación del corredor del estero Sabanilla al 2031.",
+  "Atender al menos 500 familias con mejoramiento de vivienda al 2031.",
+  "Aprobar y ejecutar la primera fase del plan parcial de La Aurora al 2028."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará la mayoría de las obras ni de dónde saldrá el dinero.",
+  "La seguridad y la salud no son del Municipio: el plan pide convenios con la Policía y el Ministerio de Salud."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61,
+  62,
+  63,
+  64,
+  65,
+  66,
+  67,
+  68,
+  69,
+  70,
+  71,
+  72,
+  73,
+  74,
+  75,
+  76,
+  77,
+  78,
+  79,
+  80,
+  81,
+  82,
+  83,
+  84,
+  85,
+  86,
+  87,
+  88,
+  89,
+  90,
+  91,
+  92,
+  93,
+  94,
+  95
+ ],
+ "paginas": 95
+}

@@ -1,0 +1,124 @@
+{
+ "enfoque": "Plan con ordenanzas culturales, de economía popular, de participación y de reglas de uso del suelo, además de parques, calles y rendición de cuentas. Pocas propuestas tienen costo.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Mantener y recuperar los principales parques y áreas verdes del cantón.",
+    "que": "El plan no dice cuánto costará ni qué parques. Se marca para 2027 a 2030.",
+    "v": "alta",
+    "n": "Parques y áreas verdes son del Municipio; el plan no dice cuánto costará.",
+    "cita": "Ejecutar y gestionar acciones permanentes de mantenimiento, recuperación y mejoramiento de parques, áreas verdes y espacios públicos.",
+    "pag": 7
+   },
+   {
+    "t": "Hacer las reglas que ordenan dónde y cómo crece el cantón (uso del suelo).",
+    "que": "El plan no dice en qué zonas ni cuánto costará. Se aplicará poco a poco entre 2027 y 2030.",
+    "v": "alta",
+    "n": "Le toca al Municipio: las reglas de uso del suelo son su competencia.",
+    "cita": "Gestionar la elaboración y aplicación de instrumentos de ordenamiento territorial que orienten el crecimiento equilibrado del cantón.",
+    "pag": 7
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Mejorar y ampliar servicios municipales y vigilar su calidad.",
+    "que": "El plan no dice qué servicios ni cuánto costará. Se marca para 2027 a 2030.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice qué servicios ni cómo se pagará.",
+    "cita": "Implementar acciones de mejora en los servicios públicos y mecanismos de seguimiento ciudadano.",
+    "pag": 8
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer calles en zonas pobladas con lastre, adoquín o asfalto.",
+    "que": "Está en los objetivos, no en el cronograma. El plan no dice qué calles ni cuánto costará.",
+    "v": "alta",
+    "n": "Las calles le tocan al Municipio, pero el plan no dice cuánto costará.",
+    "cita": "Gestionar la ejecución de proyectos viales que permitan el mejoramiento de las condiciones de circulación peatonal y vehicular por medio del lastrado, adoquinado o asfaltado en zonas pobladas",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ordenanzas y apoyos para que grupos de economía popular y solidaria transformen materias primas.",
+    "que": "El plan no dice cuánto costarán los apoyos ni cuántos grupos. Se marca para 2027, 2028 y 2029.",
+    "v": "alta",
+    "n": "Las ordenanzas sí son del Municipio, pero el plan no dice con qué dinero.",
+    "cita": "Promover ordenanzas y mecanismos de apoyo a las organizaciones de Economía Popular y Solidaria para transformar materias primas en productos terminados.",
+    "pag": 7
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer al menos 3 iniciativas para que los agricultores produzcan cuidando el ambiente.",
+    "que": "El plan no dice cuánto costará ni quién pagará. Se marca para 2027 a 2030.",
+    "v": "media",
+    "n": "Lo puede empujar el Municipio, pero el plan no dice cómo ni con qué dinero.",
+    "cita": "Implementar al menos 3 iniciativas de producción comunitaria sostenible.",
+    "pag": 6
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer al menos 4 programas para grupos de atención prioritaria.",
+    "que": "Se hará con dinero propio y con convenios con el Gobierno Central. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de convenios con el Gobierno Central; el plan no dice cuánto costará.",
+    "cita": "Implementar al menos 4 programas o proyectos de atención a grupos prioritarios durante el período.",
+    "pag": 6
+   },
+   {
+    "t": "Hacer al menos 2 ordenanzas y un programa cultural permanente.",
+    "que": "Busca promover, proteger y fortalecer la cultura y la identidad local. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Las ordenanzas son del Municipio; el plan no dice cuánto costará el programa.",
+    "cita": "Elaborar ordenanzas y acciones municipales orientadas a la promoción, protección y fortalecimiento de la cultura y la identidad local.",
+    "pag": 7
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer al menos una Asamblea Ciudadana al año y seguir sus acuerdos.",
+    "que": "El plan no dice cuánto costará. Se dará seguimiento a lo que decida cada asamblea.",
+    "v": "alta",
+    "n": "Es un espacio de participación del propio Municipio. El plan no dice cuánto costará.",
+    "cita": "Realizar al menos una Asamblea Ciudadana anual y fortalecer el seguimiento a sus resoluciones.",
+    "pag": 8
+   },
+   {
+    "t": "Publicar cada mes en internet el presupuesto, las compras y las obras.",
+    "que": "Incluye proyectos, convenios y avances de metas. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Es tarea del propio Municipio; el costo del portal no aparece en el plan.",
+    "cita": "Portal Municipal de Transparencia: publicación y actualización mensual de información sobre presupuesto, contratación pública, ejecución de obras",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "Implementar al menos 4 programas o proyectos para grupos prioritarios durante 2027-2031.",
+  "Al menos 2 ordenanzas y un programa cultural permanente.",
+  "Al menos 3 iniciativas de producción comunitaria sostenible.",
+  "Al menos una Asamblea Ciudadana cada año.",
+  "Rendición de cuentas pública cada seis meses y evaluación de medio término en 2029."
+ ],
+ "notas": [
+  "Muchas propuestas no dicen cuánto costarán ni de dónde saldrá el dinero. Varias dependen de convenios con el Gobierno Central.",
+  "El texto repite párrafos y tiene frases generales. Varias metas no dicen en qué lugar se harán."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "paginas": 10
+}

@@ -1,0 +1,123 @@
+{
+ "enfoque": "Plan de la parroquia Malchinguí: caminos con la Prefectura, cuidado ambiental, actividades en parques y ayuda a productores. Gran parte del texto es un modelo general copiado.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer reuniones cada tres meses con la Prefectura para acordar el arreglo de caminos.",
+    "que": "El plan dice que se acordarán cronogramas de mantenimiento vial y qué vías tendrán mantenimiento periódico. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura; la junta coordina, pero no paga las obras.",
+    "cita": "Reuniones trimestrales con la Prefectura de Pichincha para acordar los cronogramas de mantenimiento vial",
+    "pag": 8
+   },
+   {
+    "t": "Hacer talleres con vecinos y organizaciones para elegir cada año las obras de caminos.",
+    "que": "Los vecinos y organizaciones decidirían cada año qué obras viales se hacen primero. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "La junta organiza a la gente, pero las obras dependen de la Prefectura.",
+    "cita": "Talleres con la ciudadanía y las organizaciones sociales para la priorización anual de las obras viales de la parroquia",
+    "pag": 7
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer campañas de información sobre temas ambientales y cambio climático.",
+    "que": "El plan dice que habrá campañas y programas para el cambio climático. No dice cuántas ni cuánto costarán.",
+    "v": "alta",
+    "n": "Son charlas y campañas que la junta puede organizar.",
+    "cita": "Campañas de sensibilización sobre las temáticas ambientales. Elaboración de programas para el cambio climático.",
+    "pag": 8
+   },
+   {
+    "t": "Hacer reforestación en la parroquia.",
+    "que": "El plan solo dice 'reforestación'. No dice dónde, cuántos árboles ni cuánto costará.",
+    "v": "alta",
+    "n": "Se puede hacer con mingas, pero el plan no dice dónde.",
+    "cita": "Promoción de estrategias ambientales en las iniciativas productivas de la parroquia. Reforestación.",
+    "pag": 8
+   },
+   {
+    "t": "Pedir al Municipio apoyo para cuidar quebradas y áreas naturales.",
+    "que": "El plan dice que se harán gestiones con el Municipio para protegerlas y manejarlas. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende del Municipio; la junta solo gestiona.",
+    "cita": "Realizar gestiones con el municipio para la protección y manejo de quebradas y áreas naturales.",
+    "pag": 8
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir y mantener obras priorizadas por los vecinos en el plan de desarrollo.",
+    "que": "El plan dice que se harán obras según un plan hecho con la gente. No dice qué obras, cuánto costarán ni cuándo.",
+    "v": "media",
+    "n": "Obras grandes; necesitan convenio con el Municipio o la Prefectura.",
+    "cita": "Construcción y mantenimiento de la infraestructura física priorizada por la ciudadanía en el plan de desarrollo y ordenamiento territorial construido participativamente.",
+    "pag": 7
+   },
+   {
+    "t": "Arreglar o renovar los equipos de los parques y espacios públicos.",
+    "que": "El plan dice que se dará mantenimiento o renovación a los equipos existentes. No dice en qué parques, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Los parques son del cargo, pero el plan no dice cuáles.",
+    "cita": "Mejoramiento de la infraestructura física existente mediante el mantenimiento o renovación de su equipamiento.",
+    "pag": 6
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar actividades deportivas y culturales en los espacios públicos.",
+    "que": "El plan dice que se usarán los espacios públicos para deporte y cultura. No dice cuántas actividades ni cuánto costará.",
+    "v": "alta",
+    "n": "La junta puede organizar eventos y reunir a la comunidad.",
+    "cita": "Promoción del uso del espacio público parroquial mediante la organización de actividades deportivas y culturales.",
+    "pag": 7
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar talleres de capacitación a los emprendimientos de la parroquia.",
+    "que": "El plan dice que los talleres se harán con apoyo de otras instituciones. No dice cuántos ni cuánto costarán.",
+    "v": "alta",
+    "n": "Los cursos son del cargo; el plan no dice qué instituciones ayudan.",
+    "cita": "Talleres de capacitación con el apoyo de distintas instituciones para fortalecer los emprendimientos existentes en la parroquia.",
+    "pag": 8
+   },
+   {
+    "t": "Ayudar a los productores a llevar sus productos a ferias.",
+    "que": "El plan dice ferias locales, nacionales e internacionales. No dice cuántas ni cuánto costarán.",
+    "v": "alta",
+    "n": "Las ferias locales son del cargo; las internacionales van más allá de la junta.",
+    "cita": "Asesoramiento a los productores de la parroquia para participar en ferias productivas a nivel local, nacional e internacional.",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "Reuniones con la Prefectura cada tres meses (trimestrales) para acordar el mantenimiento de caminos.",
+  "Reuniones con organizaciones sociales cada seis meses (semestrales) para revisar el plan.",
+  "Una asamblea de rendición de cuentas al año."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero exacto.",
+  "Parte del texto es un modelo general (habla del GAD cantonal y de inversiones), no un plan específico de vocal."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15
+ ],
+ "paginas": 15
+}

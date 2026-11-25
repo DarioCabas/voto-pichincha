@@ -1,0 +1,124 @@
+{
+ "enfoque": "Asambleas con los barrios, seguir proyectos de deporte, cultura y adulto mayor, apoyar emprendedores y ferias, cuidar caminos y pedir a otras instituciones arreglos de vías y seguridad.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Ordenar los papeles de las vías y caminos parroquiales.",
+    "que": "Sirve de base para pedir trazados viales y proyectos a otras instituciones. Se hace en el primer año (2027–2028). El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Es trabajo de la junta, de oficina y con poco costo.",
+    "cita": "Organizar y actualizar la documentación de las vías y caminos parroquiales",
+    "pag": 8
+   },
+   {
+    "t": "Pedir atención a puntos críticos de movilidad, transporte, vialidad y seguridad.",
+    "que": "Primero identificar los puntos críticos y luego pedir su atención a las entidades responsables. Primer y segundo año. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio o a la Prefectura; la junta solo puede pedirlo.",
+    "cita": "seguridad y gestionar su atención ante las entidades responsables.",
+    "pag": 8
+   },
+   {
+    "t": "Gestionar el mantenimiento de la vialidad parroquial con otras instituciones.",
+    "que": "Previsto para el segundo año (2028–2029). El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura o el Municipio.",
+    "cita": "Continuar la gestión para el mejoramiento y mantenimiento de la vialidad",
+    "pag": 8
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Hacer acciones preventivas de seguridad con la Policía y los barrios.",
+    "que": "Previsto para el tercer año (2029–2030). El plan no dice qué acciones se harán ni cuánto costarán.",
+    "v": "baja",
+    "n": "La seguridad le toca a la Policía Nacional, no a la junta.",
+    "cita": "Promover acciones preventivas de seguridad con la Policía Nacional,",
+    "pag": 9
+   }
+  ],
+  "social": [
+   {
+    "t": "Seguir los proyectos de adulto mayor, danzas, orquesta y deporte.",
+    "que": "Previsto para el primer año. El plan dice que el presupuesto se repartirá de forma equilibrada. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Son actividades que la junta puede organizar y apoyar.",
+    "cita": "Dar continuidad a los proyectos existentes de adulto mayor, danzas, orquesta",
+    "pag": 8
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar capacitaciones y apoyo a emprendedores con otras instituciones.",
+    "que": "Previsto para el segundo año (2028–2029), con alianzas con instituciones públicas, privadas y organizaciones. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "La junta gestiona los cursos; quien los da son otras entidades.",
+    "cita": "Gestionar capacitaciones y apoyo para emprendedores, mediante alianzas con instituciones públicas, privadas y organizaciones especializadas.",
+    "pag": 9
+   },
+   {
+    "t": "Hacer ferias comunitarias y circuitos de economía popular para vender productos locales.",
+    "que": "El plan dice que revalorizará las tradiciones y productos de la parroquia. No dice dónde ni cuándo se harán las ferias.",
+    "v": "alta",
+    "n": "Las ferias las puede organizar la junta con la comunidad.",
+    "cita": "comunitarias que revaloricen las tradiciones locales y los productos de nuestra",
+    "pag": 8
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Promover el uso cuidado de los recursos naturales de la parroquia.",
+    "que": "El plan no dice qué prácticas se usarán, dónde ni cuánto costará. Es parte de su objetivo ambiental.",
+    "v": "alta",
+    "n": "Es competencia de la junta, pero el plan no concreta acciones.",
+    "cita": "impulsando prácticas de uso sustentable de los recursos naturales",
+    "pag": 7
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una asamblea pública al año para informar sobre obras y gastos.",
+    "que": "El plan dice que se hará al menos una vez al año en todo el periodo 2027–2031. No dice dónde ni en qué mes.",
+    "v": "alta",
+    "n": "La junta puede convocar esta asamblea por sí sola.",
+    "cita": "Realizar al menos una asamblea pública anual para informar sobre el cumplimiento del plan de gobierno",
+    "pag": 10
+   },
+   {
+    "t": "Presentar informes cada seis meses sobre avances, metas y presupuesto.",
+    "que": "Los informes dirán qué se avanzó, qué metas se cumplieron y cuánto se gastó. El plan no dice dónde se publicarán.",
+    "v": "alta",
+    "n": "Depende solo de la junta.",
+    "cita": "Presentar informes semestrales sobre avances, metas cumplidas, presupuesto",
+    "pag": 10
+   }
+  ]
+ },
+ "metas": [
+  "Una asamblea pública de rendición de cuentas al año.",
+  "Informes cada seis meses sobre avances, metas y presupuesto.",
+  "Asambleas con los barrios para priorizar necesidades en el primer año (2027–2028).",
+  "Una evaluación ciudadana del plan cada año, con indicadores sencillos."
+ ],
+ "notas": [
+  "El plan no dice cuánto dinero costará ninguna propuesta ni de dónde saldrá.",
+  "Gran parte del texto son datos nacionales y frases generales; hay pocas acciones concretas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ],
+ "paginas": 13
+}

@@ -1,0 +1,124 @@
+{
+ "enfoque": "Arreglar calles, agua, alcantarillado, basura, mercados y parques de Sigchos. Varias obras dependen de convenios, y el plan no dice costos ni fechas.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Poner en marcha un terminal terrestre para buses, después de un estudio técnico.",
+    "que": "Primero hará un estudio técnico, junto con las empresas de transporte. El plan no dice dónde, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero primero hace falta un estudio.",
+    "cita": "para la implementación de un terminal terrestre de manera conjunta con todos los",
+    "pag": 10
+   },
+   {
+    "t": "Dar mantenimiento a las calles de la zona urbana, para prevenir y arreglar daños.",
+    "que": "Se hará mantenimiento antes y después de que las calles se dañen. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: las calles urbanas son su competencia.",
+    "cita": "realizar el mantenimiento preventivo y correctivo de las vías en la zona urbana.",
+    "pag": 10
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Arreglar el agua potable de la ciudad de Sigchos para que sea de calidad.",
+    "que": "Revisará el problema del agua de la ciudad y buscará una solución. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "ciudad de Sigchos, procurando tener agua potable de calidad.",
+    "pag": 9
+   },
+   {
+    "t": "Cambiar tuberías de aguas negras y poner tuberías de aguas lluvias en la ciudad de Sigchos.",
+    "que": "Se cambiarán las redes de aguas negras y se pondrán redes para aguas lluvias en la ciudad, parroquias y recintos. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Cambio de las redes de alcantarilla sanitario y colocación de redes de alcantarillado pluvial en la ciudad de Sigchos",
+    "pag": 9
+   },
+   {
+    "t": "Instalar plantas para tratar las aguas servidas en Sigchos y sus parroquias.",
+    "que": "Son plantas que limpian el agua usada antes de devolverla al ambiente. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "de aguas servidas en la ciudad de Sigchos y en sus parroquias.",
+    "pag": 9
+   },
+   {
+    "t": "Poner contenedores de basura en la ciudad, parroquias y recintos, y separar lo reciclable.",
+    "que": "Dará contenedores de basura en el centro, parroquias, comunidades y recintos, con separación de reciclables. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: la basura es competencia municipal.",
+    "cita": "dotar contenedores de basura, autocargables en el centro de la",
+    "pag": 9
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar los mercados que ya existen para que sean más higiénicos.",
+    "que": "Revisará los cobros (tasas) a los comerciantes para animarlos. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: los mercados son competencia municipal.",
+    "cita": "física y tecnológica en la red de mercados existentes, optimizando sus condiciones",
+    "pag": 10
+   },
+   {
+    "t": "Rediseñar parques y áreas verdes para que la gente los use como lugares de descanso.",
+    "que": "Cambiará el diseño de los parques y áreas verdes. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "parques y áreas verdes, mediante el rediseño paisajístico con el fin de que se",
+    "pag": 11
+   },
+   {
+    "t": "Actualizar los planes que definen dónde se puede construir y el catastro del cantón.",
+    "que": "Se revisarán los planes de uso del suelo y el catastro (registro de terrenos) de todo el cantón. El plan no dice cuándo estará listo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuándo ni cuánto costará.",
+    "cita": "Actualizar el PDYOT y PUGS del cantón, con lo cual se regulará el uso de suelo",
+    "pag": 8
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Poner cámaras de seguridad nuevas y conectar las existentes al ECU 911.",
+    "que": "Se hará junto con la Policía, las parroquias y los comités barriales. El ECU 911 es el sistema de emergencias. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "La seguridad es de la Policía, no del Municipio. El plan no dice costo.",
+    "cita": "Instalación de nuevas cámaras de seguridad y el enlace de cámaras existentes al",
+    "pag": 11
+   }
+  ]
+ },
+ "metas": [
+  "Usar como mínimo el 10% del presupuesto de la institución cada año en proyectos de inclusión social.",
+  "Ejecutar un plan integral llamado \"Hábitat para Vivir Mejor\" (un plan).",
+  "Plan de trabajo para el período 2027 a 2031 (cuatro años)."
+ ],
+ "notas": [
+  "El plan casi no dice cuánto costará ni cuándo se hará cada obra. En el cronograma aparece \"XXXX\" en varias filas.",
+  "Varias propuestas dependen de la Policía, el Estado o la Prefectura, y el plan no explica cómo se pondrá de acuerdo con ellos."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "paginas": 18
+}

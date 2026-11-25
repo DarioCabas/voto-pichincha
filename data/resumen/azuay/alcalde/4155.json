@@ -1,0 +1,132 @@
+{
+ "enfoque": "Plan centrado en empleo, emprendimiento y turismo, temas que el alcalde no maneja directamente. Incluye también calles, aceras, mercados, parques y basura.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer un plan de movilidad con señales, estacionamientos y espacios peatonales.",
+    "que": "El plan no dice en qué calles ni cuánto costará. Tampoco dice en qué plazo estará listo.",
+    "v": "alta",
+    "n": "Le toca al Municipio (tránsito). El plan no dice costo ni fecha.",
+    "cita": "Plan Integral de Movilidad Señalización Gestión de estacionamientos Espacios peatonales",
+    "pag": 12
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Dar mantenimiento y mejorar las calles de la ciudad, dentro de su competencia.",
+    "que": "El plan no dice qué calles ni cuánto costará. Dice que se hará según el presupuesto disponible.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Mantenimiento y mejoramiento de vialidad urbana dentro de competencia",
+    "pag": 13
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger fuentes de agua y mejorar el manejo de la basura, con reciclaje.",
+    "que": "El plan no dice qué fuentes ni cuánto costará. Incluye reciclaje y economía circular, sin fechas.",
+    "v": "media",
+    "n": "La basura sí es del Municipio. Cuidar fuentes de agua depende de acuerdos con otros.",
+    "cita": "Protección de fuentes hídricas Restauración y reforestación Gestión integral de residuos Reciclaje y economía circular",
+    "pag": 7
+   }
+  ],
+  "economia": [
+   {
+    "t": "Abrir un centro para promover y vender productos locales, si los estudios lo permiten.",
+    "que": "El plan no dice dónde, cuánto costará ni cuándo. Depende de estudios previos.",
+    "v": "media",
+    "n": "Puede ser parte de mercados del Municipio, pero el plan no dice costo ni lugar.",
+    "cita": "Centro de promoción y comercialización, sujeto a estudios",
+    "pag": 12
+   },
+   {
+    "t": "Conectar a personas que buscan trabajo con empresas que ofrecen empleo.",
+    "que": "El plan no dice cuántas personas se colocarán ni cuánto costará. Llevará registro de quienes se inscriban.",
+    "v": "media",
+    "n": "Ayuda a conectar, pero no crea empleo. Depende de las empresas y del plan.",
+    "cita": "Bolsa Municipal de Empleo Intermediar oferta y demanda laboral",
+    "pag": 11
+   },
+   {
+    "t": "Armar productos, rutas y promoción turística de Gualaceo.",
+    "que": "El plan no dice qué rutas ni cuánto costará. Tampoco dice cuándo estarán listas.",
+    "v": "baja",
+    "n": "La promoción turística no está en las competencias de la alcaldía.",
+    "cita": "Plan Integral de Turismo Estructurar productos, rutas y promoción",
+    "pag": 12
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear el portal Gualaceo Cuenta para ver obras, con buscador y estado de avance.",
+    "que": "El plan no dice cuánto costará ni en qué plazo estará listo. Debe usar lenguaje comprensible.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que maneja su propia información. El plan no dice costo.",
+    "cita": "El portal deberá presentar información en lenguaje comprensible, con buscador, ubicación de proyectos y estado de avance.",
+    "pag": 22
+   },
+   {
+    "t": "Publicar cada año un informe sobre presupuesto, obras y avances.",
+    "que": "Incluirá lo planificado y lo gastado, además de dificultades y acciones correctivas. El plan no dice costo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Es un informe de la propia administración.",
+    "cita": "Cada año se publicará un informe que contenga presupuesto planificado y ejecutado, proyectos, avances, indicadores, dificultades y acciones correctivas",
+    "pag": 20
+   },
+   {
+    "t": "Hacer una evaluación pública cada seis meses y una rendición de cuentas al año.",
+    "que": "Es lo mínimo que propone el plan. El plan no dice quién lo hará ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que rinde cuentas de su gestión. Sin costo ni fecha exacta.",
+    "cita": "Se propone realizar, como mínimo, una evaluación pública semestral de los proyectos estratégicos y una rendición integral anual",
+    "pag": 22
+   }
+  ]
+ },
+ "metas": [
+  "Metas definitivas con línea base de 2026, que se actualizan cada año.",
+  "Evaluación pública cada seis meses.",
+  "Informe ciudadano anual con presupuesto, obras y avances.",
+  "100% de proyectos priorizados con seguimiento público.",
+  "Evaluación final en 2031."
+ ],
+ "notas": [
+  "El plan no fija costos ni plazos por proyecto. Dice que se decidirán después, según estudios y presupuesto.",
+  "Gran parte del plan (empleo, emprendimiento, turismo) no es competencia directa de la alcaldía."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30
+ ],
+ "paginas": 30
+}

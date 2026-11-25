@@ -1,0 +1,120 @@
+{
+ "enfoque": "Propone agua, alcantarillado, basura, calles, mercados y planes de uso del suelo. Casi no dice cuánto costará ni cuándo.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Hacer planes para cuidar las cuencas que dan agua al cantón.",
+    "que": "El plan habla de cuidar los ríos y el agua, y de sembrar árboles. No dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Puede hacerlo el Municipio, pero el plan no dice con qué dinero.",
+    "cita": "Aportar a la conservación de los recursos naturales, con énfasis en los recursos hídricos.",
+    "pag": 4
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Construir y mejorar agua potable y alcantarillado en comunidades y centros poblados.",
+    "que": "El plan no dice cuántas comunidades, cuánto costará ni en qué año se hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta saber cuánto cuesta y cuándo.",
+    "cita": "Mejorar la calidad y cobertura de los servicios de agua potable, alcantarillado y",
+    "pag": 4
+   },
+   {
+    "t": "Ampliar la recolección de basura en comunidades y centros poblados.",
+    "que": "El plan dice ampliar el servicio de basura. No dice a qué comunidades llegará ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "recolección de desechos en las comunidades y centros poblados del cantón.",
+    "pag": 4
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Asfaltar calles en la cabecera cantonal y 1 km en cada parroquia.",
+    "que": "El plan habla de asfaltar calles de la ciudad y 1 km en cada cabecera parroquial. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "cita": "A NIVEL DE ASFALTO EN LA CABECERA CANTONAL Y 1 KM EN CADA CABECERA PARROQUIAL",
+    "pag": 5
+   },
+   {
+    "t": "Construir y mejorar obras públicas urbanas en todo el cantón.",
+    "que": "El plan no dice qué obras son ni dónde. Tampoco dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero no dice qué obras son.",
+    "cita": "CONSTRUCCIÓN, MEJORAMIENTO Y AMPLIACIÓN DE LOS EQUIPAMIENTOS URBANOS EN TODO EL CANTÓN.",
+    "pag": 5
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Asfaltar 5 km de caminos del campo.",
+    "que": "El plan dice 5 km de caminos rurales a asfalto. No dice dónde ni cuánto costará. Lo haría con otros niveles de gobierno.",
+    "v": "media",
+    "n": "Depende de otros niveles de gobierno. El plan no dice cuánto costará.",
+    "cita": "MEJORAMIENTO DE 5 KM DE VÍAS RURALES A NIVEL DE ASFALTO",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Ampliar servicios para los grupos de atención prioritaria.",
+    "que": "El plan no dice qué servicios ni para qué grupos. Tampoco dice cuánto costará.",
+    "v": "media",
+    "n": "No es claro que le toque al Municipio. El plan no lo explica.",
+    "cita": "Mejorar y ampliar la cobertura de los servicios a los grupos de atención prioritaria",
+    "pag": 4
+   }
+  ],
+  "economia": [
+   {
+    "t": "Mejorar y ampliar mercados donde se venden productos del campo.",
+    "que": "El plan no dice qué mercados ni dónde. Tampoco dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Mercados son del Municipio. Falta saber dónde y cuánto cuesta.",
+    "cita": "MERCADOS PARA LA COMERCIALIZACIÓN DE 105 PRODUCTOS AGROPECUARIOS",
+    "pag": 5
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Actualizar los planes que ordenan el crecimiento del cantón y el uso del suelo.",
+    "que": "El plan dice actualizar los planes de ordenamiento y de uso del suelo. No dice cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuándo ni con qué dinero.",
+    "cita": "Actualizar los Planes de Desarrollo y Ordenamiento Territorial y el Plan de Uso y Gestión",
+    "pag": 4
+   },
+   {
+    "t": "Rendir cuentas cada año en una asamblea ciudadana pública.",
+    "que": "Cada año, el alcalde hará una asamblea pública para explicar su trabajo. El plan no dice fecha ni lugar.",
+    "v": "alta",
+    "n": "Le toca al alcalde. Se hace una vez al año.",
+    "cita": "realizara el proceso de Rendición de Cuentas mediante un acto de Deliberación Publica en una Asamblea Ciudadana",
+    "pag": 6
+   }
+  ]
+ },
+ "metas": [
+  "Asfaltar 5 km de caminos rurales.",
+  "Asfaltar 1 km de calles en cada cabecera parroquial.",
+  "Rendir cuentas una vez al año en asamblea pública.",
+  "Plan de trabajo de 4 años (cronograma con años 1 a 4)."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero.",
+  "Parte del diagnóstico se copia del plan de desarrollo del cantón 2023-2027. Varias propuestas son generales."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "paginas": 7
+}

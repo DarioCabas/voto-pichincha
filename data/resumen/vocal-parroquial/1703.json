@@ -1,0 +1,125 @@
+{
+ "enfoque": "Plan para El Chaupi: arreglar caminos con la Prefectura, ferias de productos del campo, reforestar páramo y organizar brigadas. Mucho va más allá del cargo de vocal.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar caminos vecinales con bacheos, empedrados y zanjas (cuneteo), junto con la Prefectura y el Municipio.",
+    "que": "Bacheo, empedrado y cuneteo de caminos de zonas productivas. Meta de 85% de vías en 24 meses. El plan no dice cuánto costará ni cómo se pagará.",
+    "v": "media",
+    "n": "Necesita convenios con la Prefectura y el Municipio. El plan no dice el costo.",
+    "cita": "Plan integral de bacheos, empedrados, cuneteo y gestión",
+    "pag": 6
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer 24 ferias al año en la plaza central para vender productos del campo y queso sin intermediarios.",
+    "que": "Ferias en la plaza central desde el año 1 hasta el año 4, para productos agrícolas y lácteos. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar ferias es trabajo de la junta. El plan no dice cu��nto cuesta.",
+    "cita": "Realizar 24 ferias al año en la plaza central",
+    "pag": 7
+   },
+   {
+    "t": "Crear una escuela de campo para ganaderos sobre ordeño, pastos y alimentación de vacas.",
+    "que": "Escuela en convenio con la academia y el MAG (Ministerio de Agricultura). Meta: 120 pequeños ganaderos capacitados y certificados. El plan no dice costo.",
+    "v": "media",
+    "n": "Necesita acuerdo con el MAG y la academia. El plan no dice quién paga.",
+    "cita": "Creación de la Escuela de Campo Ganadera en convenio con la academia y el MAG",
+    "pag": 6
+   },
+   {
+    "t": "Dar capital semilla a mujeres jefas de hogar que vendan en las ferias, sin devolverlo.",
+    "que": "Mínimo 50% de mujeres jefas de hogar en los comités de las ferias. El dinero sale de fondos de fomento productivo. El plan no dice cuánto ni cuándo.",
+    "v": "media",
+    "n": "Necesita fondos de fomento productivo. El plan no dice cuánto dinero hay.",
+    "cita": "facilitándoles capital semilla no reembolsable mediante los fondos de fomento productivo institucionales",
+    "pag": 9
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Plantar 5.000 plantas nativas en zonas donde nace el agua, en los años 1, 2 y 3.",
+    "que": "Plantas como polylepis y quinual en zonas de recarga de agua. También acuerdos entre vecinos para respetar el límite de la frontera agrícola. El plan no dice costo.",
+    "v": "alta",
+    "n": "Plantar y firmar acuerdos vecinales es trabajo comunitario. El plan no dice costo.",
+    "cita": "Plantar 5.000 especies nativas (polylepis, quinual) en zonas de recarga hídrica críticas",
+    "pag": 8
+   }
+  ],
+  "otros": [
+   {
+    "t": "Formar y equipar 5 brigadas de vecinos para primera respuesta ante emergencias.",
+    "que": "Brigadas por barrio para heladas, lahares (lodo de volcán) y clima extremo. Mapa de evacuación con el COE cantonal. El plan no dice costo.",
+    "v": "media",
+    "n": "Organizar vecinos es de la junta, pero los equipos y el mapa dependen del COE del Municipio.",
+    "cita": "Capacitar y equipar a 5 brigadas comunitarias barriales de primera respuesta",
+    "pag": 8
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas de barrios antes de aprobar el presupuesto anual de la junta.",
+    "que": "Ninguna obra se hará sin aval de la asamblea de delegados de los barrios. Es obligatoria antes del presupuesto anual. El plan no dice costo.",
+    "v": "alta",
+    "n": "Reunir a la comunidad es competencia de la junta. El plan no dice costo.",
+    "cita": "Convocadas de manera obligatoria antes de la aprobación del presupuesto anual del GAD",
+    "pag": 8
+   },
+   {
+    "t": "Hacer audiencias públicas cada seis meses en distintos sectores para informar avance y dinero.",
+    "que": "Audiencias en los diferentes sectores de la parroquia. Reportan el porcentaje de avance físico y financiero de los proyectos. El plan no dice costo.",
+    "v": "alta",
+    "n": "Reunirse con vecinos en los sectores es de la junta. El plan no dice costo.",
+    "cita": "audiencias públicas semestrales itinerantes en los diferentes sectores de la parroquia",
+    "pag": 9
+   }
+  ],
+  "social": [
+   {
+    "t": "Dar el 10% del presupuesto operativo de la junta a atención en casa y fisioterapia para adultos mayores.",
+    "que": "Para atención domiciliaria, fisioterapia y proyectos de trabajo para adultos mayores. El plan no dice cuánto dinero es ni cuándo empieza.",
+    "v": "baja",
+    "n": "Atención en casa y fisioterapia son de salud, no de la junta.",
+    "cita": "asignación estricta del 10% del presupuesto operativo del GAD a programas de atención domiciliaria, fisioterapia",
+    "pag": 9
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Poner puntos de internet satelital gratis en casas comunales de barrios alejados, en 5 zonas.",
+    "que": "Internet de alta velocidad en casas comunales de barrios periféricos. Meta de 5 zonas en años 1 y 2. El plan no dice cuánto cuesta.",
+    "v": "baja",
+    "n": "Internet no está entre las tareas de la junta. El plan no dice quién paga.",
+    "cita": "Instalación de puntos de internet satelital gratuito de alta velocidad en las casas comunales",
+    "pag": 6
+   }
+  ]
+ },
+ "metas": [
+  "Intervenir el 85% de las vías de segundo y tercer orden en 24 meses, con alianzas.",
+  "Realizar 24 ferias al año en la plaza central.",
+  "Capacitar y certificar a 120 pequeños ganaderos.",
+  "Plantar 5.000 plantas nativas en zonas de recarga de agua.",
+  "Capacitar y equipar 5 brigadas comunitarias barriales."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Tiene partes que no son de la junta, como salud, internet y agua; parece un plan de desarrollo de la parroquia."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "paginas": 11
+}

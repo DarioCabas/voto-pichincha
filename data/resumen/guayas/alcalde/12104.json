@@ -1,0 +1,125 @@
+{
+ "enfoque": "Plan de Pedro Medina para Guayaquil: agua, alcantarillado, basura, aceras, parques y catastro, con temas de Prefectura, policía y salud que no le tocan al alcalde.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer el transporte público más seguro, eficiente y accesible.",
+    "que": "Es una meta general de movilidad. El plan no dice qué cambios hará en buses ni tránsito, ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice qué medidas toma.",
+    "cita": "promoviendo un transporte más seguro, eficiente y accesible.",
+    "pag": 10
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Mejorar el agua potable, el alcantarillado y el drenaje de lluvias.",
+    "que": "Es una meta general del plan, sin obras concretas en esta frase. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto cuesta.",
+    "cita": "Mejorar la cobertura y calidad de los servicios básicos, especialmente agua potable, alcantarillado sanitario y drenaje de aguas lluvias.",
+    "pag": 9
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar aceras y bordillos para que sean accesibles, poco a poco.",
+    "que": "Se hará por etapas, también en parques y espacios públicos. El plan no dice cuántos kilómetros ni cuánto costará.",
+    "v": "alta",
+    "n": "Las aceras son competencia del Municipio. Sin cifras ni plazo.",
+    "cita": "Adecuación progresiva de aceras, bordillos, parques y espacios públicos para garantizar accesibilidad.",
+    "pag": 19
+   },
+   {
+    "t": "Arreglar parques y canchas para que sean seguros para los niños.",
+    "que": "Forma parte de recuperar espacios públicos. El plan no dice cuántos parques se arreglan ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuántos ni cuándo.",
+    "cita": "Espacios públicos, parques y canchas seguros y adecuados para niños.",
+    "pag": 18
+   },
+   {
+    "t": "Actualizar el catastro, la lista oficial de terrenos y casas, y regularizar barrios informales.",
+    "que": "El catastro es el registro de terrenos y casas del cantón. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Catastro y uso del suelo son del Municipio. Sin plazos.",
+    "cita": "fortaleciendo el catastro, la regularización de asentamientos y el acceso a vivienda adecuada.",
+    "pag": 9
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Mejorar la luz en espacios públicos para más seguridad.",
+    "que": "El plan no dice cuántas luces ni cuánto costará. El alumbrado depende también de la empresa eléctrica.",
+    "v": "media",
+    "n": "Depende de la empresa de luz. El plan no dice cuánto cuesta.",
+    "cita": "Mejorar la iluminación, accesibilidad y seguridad de espacios públicos.",
+    "pag": 18
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer acciones de prevención y promoción de la salud para niños.",
+    "que": "El plan no dice qué acciones ni cuánto costará. La salud es competencia del Ministerio, no del Municipio.",
+    "v": "baja",
+    "n": "La salud le toca al Ministerio de Salud, no al alcalde.",
+    "cita": "Acciones de prevención y promoción de la salud.",
+    "pag": 18
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una auditoría de servicios, contratos y obras en curso en 2027.",
+    "que": "Se publicará el resultado. El plan no dice cuánto costará ni quién la hace.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Es una tarea del primer año.",
+    "cita": "Auditoría de servicios, contratos y estado real de las obras en ejecución",
+    "pag": 14
+   },
+   {
+    "t": "Publicar costo, avance y plazo de cada obra municipal.",
+    "que": "Será un sistema público con esa información por cada proyecto. El plan no dice desde qué año empieza.",
+    "v": "alta",
+    "n": "Lo decide el Municipio. El plan no dice cuánto cuesta.",
+    "cita": "Sistema de seguimiento de obras; información pública sobre costo, avance, plazo y estado de cada proyecto municipal.",
+    "pag": 20
+   }
+  ]
+ },
+ "metas": [
+  "Auditoría de servicios, contratos y obras publicada en 2027.",
+  "Portal de transparencia funcionando desde el primer año.",
+  "Informe por zonas sobre el avance cada tres meses.",
+  "Rendición de cuentas formal cada año.",
+  "Metas 2031 verificadas y publicadas."
+ ],
+ "notas": [
+  "El plan no pone costos en ninguna propuesta. Dice que el presupuesto real se verificará al asumir el cargo.",
+  "Varias ideas son de la Prefectura, la Policía o el Ministerio de Salud. El alcalde solo puede empujarlas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21
+ ],
+ "paginas": 21
+}

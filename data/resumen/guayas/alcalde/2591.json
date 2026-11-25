@@ -1,0 +1,131 @@
+{
+ "enfoque": "Propone cobrar mejor impuestos, actualizar el catastro, cuidar calles, basura, agua, espacios deportivos y patrimonio; no dice costos ni plazos.",
+ "tabla": {
+  "economia": [
+   {
+    "t": "Mejorar la recaudación de tasas e impuestos municipales.",
+    "que": "El plan lo pone como objetivo. No dice cómo lo hará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cómo lo hará.",
+    "cita": "Mejorar la recaudación de tasas e impuestos municipales",
+    "pag": 27
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar el catastro de terrenos y casas del cantón cada dos años.",
+    "que": "Contratará firmas especializadas y dividirá el cantón en zonas. Costos y plazos se fijarán después, por zona.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Dividir el territorio del cantón en zonas",
+    "pag": 31
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Mejorar el paso de carros y peatones y bajar el costo de mantener las calles.",
+    "que": "El plan no dice qué calles se arreglarán, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué calles ni cuándo.",
+    "cita": "Embellecer la ciudad, mejorar la movilidad de vehículos y peatones, reducir los costos de mantenimiento vial",
+    "pag": 27
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Garantizar la recolección y el tratamiento de la basura del cantón.",
+    "que": "El plan no dice cuánto costará, qué métodos usará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cómo ni cuánto cuesta.",
+    "cita": "Garantizar eficacia en la recolección y en el tratamiento de los desechos sólidos",
+    "pag": 27
+   }
+  ],
+  "social": [
+   {
+    "t": "Construir espacios deportivos y de recreo en los sectores que no los tienen.",
+    "que": "El plan no dice cuántos espacios se harán, cuánto costarán ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio (parques). El plan no dice cuántos ni cuándo.",
+    "cita": "Dotar de la infraestructura física deportiva y recreacional priorizando los sectores donde carecen de estos espacios",
+    "pag": 27
+   }
+  ],
+  "otros": [
+   {
+    "t": "Cuidar los monumentos y lugares que son patrimonio cultural del cantón.",
+    "que": "Para 2031 deben estar en una lista todos los bienes que hay que proteger. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cómo ni con qué dinero.",
+    "cita": "Conservar monumentos y lugares que constituyen patrimonio cultural",
+    "pag": 33
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Rendir cuentas por escrito y en público cada año de gestión.",
+    "que": "Convocará a la Asamblea Ciudadana Cantonal. El informe se dará en los primeros sesenta días del año siguiente.",
+    "v": "alta",
+    "n": "Le toca al alcalde. Es un compromiso propio, no depende de otros.",
+    "cita": "Cumplido un año de gestión convocaré a la Asamblea Ciudadana Cantonal",
+    "pag": 39
+   }
+  ]
+ },
+ "metas": [
+  "Inventario de bienes patrimoniales listo para el 2031.",
+  "Actualizar el catastro cada dos años, por mandato de ley.",
+  "Informe de rendición de cuentas en los primeros sesenta días del año siguiente.",
+  "Plan de trabajo para el periodo 2027-2031."
+ ],
+ "notas": [
+  "Muchas partes del texto salen ilegibles; puede faltar alguna propuesta. Conviene revisar el PDF original.",
+  "Casi ninguna propuesta dice cuánto costará ni de dónde saldrá el dinero. Parte del plan repite objetivos generales."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42
+ ],
+ "paginas": 42
+}

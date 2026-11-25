@@ -1,0 +1,124 @@
+{
+ "enfoque": "Agua, alcantarillado, calles, basura y una feria para vender productos del campo sin intermediarios. Varias obras dependen de créditos o de otras instituciones.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Rehabilitar plantas de agua y apoyar a las juntas de agua comunitarias.",
+    "que": "También vigilar la calidad del agua de forma continua. El plan no dice cuánto costará ni en qué plazo se hará.",
+    "v": "media",
+    "n": "Es tarea del Municipio, pero depende de créditos y no dice el costo.",
+    "cita": "Rehabilitación de plantes de agua, apoyo a Juntas de Agua comunitarias, monitoreo continuo de calldad del agua",
+    "pag": 7
+   },
+   {
+    "t": "Ampliar redes de alcantarillado sanitario y pluvial, y poner depuradores en sectores rurales dispersos.",
+    "que": "Parte del dinero podría venir de créditos del Banco de Desarrollo del Ecuador. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Es competencia municipal, pero el plan no dice el costo y depende de créditos.",
+    "cita": "Ampliación de redes de alcantarlliado sanitario y pluvia!, instalación de sistemas depuradores en sectores dispersos",
+    "pag": 7
+   },
+   {
+    "t": "Cercar nacientes de agua y mejorar el vivero municipal para sembrar árboles.",
+    "que": "El plan lo llama 'Siembra Agua Guachapala'. No dice cuánto costará ni cuántos árboles se sembrarán.",
+    "v": "media",
+    "n": "Lo comparte con la Prefectura del Azuay, según el plan.",
+    "cita": "cerramientos de naclentes y fortalecimiento del vlvera municipal",
+    "pag": 8
+   },
+   {
+    "t": "Gestionar con la empresa eléctrica CENTROSUR más alumbrado público y poner wifi gratis en parques rurales.",
+    "que": "El plan no dice cuántos puntos de luz ni de wifi habrá, ni cuánto costará.",
+    "v": "media",
+    "n": "La luz la pone CENTROSUR; el Municipio solo gestiona. El wifi no es competencia municipal.",
+    "cita": "Instafación de Puntos Wifi Gratuitos en parques rurales y gestión con CENTROSUR para ampliación de alumbrado",
+    "pag": 8
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Asfaltar y adoquinar calles urbanas, y dar lastrado y mantenimiento a vías rurales con maquinaria municipal.",
+    "que": "El plan no dice cuánto costará ni qué calles se harán primero ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: calles y vías. Falta saber el costo.",
+    "cita": "Asfaltadofadoquinado de vías urbanas y plan intensivo de lastrado/mantenimiento con maquinaría municipal en vías rurales",
+    "pag": 8
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Optimizar rutas de recolección de basura, instalar una planta de compostaje y hacer campañas de reciclaje.",
+    "que": "La planta de compostaje sería municipal. El plan no dice cuánto costará ni cuándo estará lista.",
+    "v": "alta",
+    "n": "Basura y reciclaje son competencia del Municipio. Falta el costo.",
+    "cita": "Optimización de rutas da recolección, planta de compostaje orgánica municipal y campañas de reciclaje",
+    "pag": 8
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear una feria cantonal para vender productos locales sin intermediarios.",
+    "que": "El plan no dice dónde se instalará, cuánto costará ni cuándo abrirá.",
+    "v": "alta",
+    "n": "Mercados y ferias son del Municipio. Falta saber dónde y cuándo.",
+    "cita": "Creación del Mercado/Feria Cantonal Abierta para la venta sín intermediarios de productos locales",
+    "pag": 7
+   },
+   {
+    "t": "Dar asistencia agrícola gratis y entregar insumos orgánicos a pequeños agricultores.",
+    "que": "El plan no dice quién pagará ni cuánto costará. Tampoco dice cuántos agricultores se atenderán por año.",
+    "v": "baja",
+    "n": "La asistencia agrícola no está en la lista de lo que puede hacer el Municipio.",
+    "cita": "Asistencia técnica agronómica gratuíta, entrega de insurnos orgánicos, tecnificación del riego y fomento frutícola",
+    "pag": 7
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Estabilizar laderas con muros de contención y limpiar alcantarillas de forma preventiva.",
+    "que": "Busca evitar deslizamientos. El plan no dice en qué lugares se harán ni cuánto costará.",
+    "v": "alta",
+    "n": "Prevenir desastres es competencia del Municipio. Falta el costo.",
+    "cita": "Obras de estabilización de taludes, touros de contención y limpieza preventiva de alcantarillas",
+    "pag": 8
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer trámites en línea y pagos digitales de patentes y predial, con una ventanilla única.",
+    "que": "Incluye 'cero papeles'. El plan no dice cuánto costará ni en qué plazo estará listo.",
+    "v": "alta",
+    "n": "Son trámites del propio Municipio. El plan no da fechas.",
+    "cita": "Trámites en línea, pago digital de patentes/predia!, cero papeles y ventanilla Única de atención",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "Llevar agua potable de calidad a un 95% de los sectores rurales para el año 2031.",
+  "Atender al 100% de los pequeños productores agrícolas con asistencia técnica y ferias directas.",
+  "Aumentar en un 40% la cantidad de visitantes al circuito de Cerro Monjas y Mazar (el plan no dice hasta cuándo).",
+  "Dar mantenimiento preventivo cada año a más de 80 km de vías vecinales.",
+  "Mantener atención integral al 100% de los adultos mayores registrados en programas de vulnerabilidad."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará cada obra. La tabla de inversión está borrosa y no se puede leer bien.",
+  "Incluye metas de salud, policía, escuelas y empleo, que no son del Municipio. Muchas obras dependen de créditos y otras entidades."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "paginas": 12
+}

@@ -1,0 +1,144 @@
+{
+ "enfoque": "Copia del plan de desarrollo municipal 2023-2027: agua, alcantarillado, vías, riesgos, basura y parques, sin costos ni fechas.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar el alcantarillado en Bulán, Guarainag, Tomebamba y Chicán y construir plantas de tratamiento de aguas.",
+    "que": "Incluye plantas de tratamiento de aguas residuales. El plan no dice cuánto costará ni cuándo. Aliados: GAD Municipal y el Banco de Desarrollo (BDE).",
+    "v": "media",
+    "n": "Es tarea municipal, pero depende de préstamos. El plan no dice costos.",
+    "cita": "Ampliación de cobertura en Bulán, Guarainag, Tomebamba y Chicán.",
+    "pag": 18
+   },
+   {
+    "t": "Mejorar y ampliar el agua potable en la ciudad y en el campo.",
+    "que": "Incluye capacitar a las Juntas de Agua. El plan no dice cuánto costará ni cuándo. Aliados: BDE y GAD parroquiales.",
+    "v": "media",
+    "n": "Es tarea municipal, pero depende de préstamos. El plan no dice costos.",
+    "cita": "Mejoramiento y ampliación de sistemas de agua potable en el área urbana y rural.",
+    "pag": 18
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar las vías con bacheo, lastre y pavimento, y poner señalización.",
+    "que": "Incluye señalización y dispositivos para movilidad segura. El plan no dice cuánto costará ni cuándo. El MTOP (ministerio de transporte y obras públicas) cofinancia 4 millones.",
+    "v": "media",
+    "n": "Vías y tránsito son municipales, pero el plan depende del MTOP.",
+    "cita": "Bacheo, lastrado, pavimentación; señalética vial y dispositivos tecnológicos para movilidad segura.",
+    "pag": 19
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Construir una celda nueva en el relleno sanitario con captura de gas para energía.",
+    "que": "La celda usa geosintéticos y captura biogás para generar energía. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "La basura es tarea municipal. El plan no dice costos ni plazos.",
+    "cita": "Implementación de una celda nueva con tecnología de geosintéticos y sistema de captura de biogás",
+    "pag": 17
+   },
+   {
+    "t": "Hacer obras de protección contra deslizamientos en cinco sectores.",
+    "que": "Incluye un sistema de alerta temprana comunitaria. El plan no dice cuánto costará ni cuándo. Aliados: SNGRE y GAD Provincial.",
+    "v": "alta",
+    "n": "Prevenir desastres es tarea municipal. El plan no dice costos.",
+    "cita": "Obras de mitigación en Bellavista, Llapzhún, Uzhupud, Tomebamba y Cristo del Consuelo.",
+    "pag": 17
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Mejorar el parque Los Álamos, el parque central y las riberas del río Cutilcay.",
+    "que": "Es la fase 3 de la regeneración urbana. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Parques y espacios públicos son tarea municipal. El plan no dice costos.",
+    "cita": "Intervención en Fase 3, Parque Los Álamos, Parque Central Fray Vicente Solano y Riberas del río Cutilcay.",
+    "pag": 19
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Poner más cámaras de vigilancia y crear comités de seguridad en los barrios.",
+    "que": "Los comités son de vecinos. El plan no dice cuánto costará ni cuándo. Aliados: ECU 911 y ministerios del Interior y de Gobierno.",
+    "v": "baja",
+    "n": "La policía no es del Municipio. Las cámaras dependen de ECU 911.",
+    "cita": "Ampliación de cámaras de vigilancia y conformación de comités de seguridad comunitaria.",
+    "pag": 22
+   }
+  ],
+  "social": [
+   {
+    "t": "Atender a niños, adultos mayores y personas con discapacidad, y dar comida a grupos vulnerables.",
+    "que": "El plan no dice cuánto costará ni cuándo. Aliados: MTDH y GAD Provincial.",
+    "v": "media",
+    "n": "Lo puede empujar, pero depende de ministerios y de la Junta de Protección.",
+    "cita": "Erradicación del trabajo infantil, atención a adultos mayores,",
+    "pag": 22
+   }
+  ],
+  "economia": [
+   {
+    "t": "Construir un mercado mayorista para que los productores vendan directo.",
+    "que": "Incluye áreas para vender y para transportar productos. El plan no dice cuánto costará ni cuándo. Aliados: GAD Municipal y BDE.",
+    "v": "alta",
+    "n": "Mercados son tarea municipal. El plan no dice costos ni plazos.",
+    "cita": "Infraestructura adecuada, áreas funcionales para comercialización y logística.",
+    "pag": 20
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear una plataforma web para que la gente elija proyectos de inversión.",
+    "que": "La votación de proyectos sería cada año. El plan no dice cuánto dinero se asignará ni cuándo empieza.",
+    "v": "alta",
+    "n": "Es decisión municipal. El plan no dice presupuesto.",
+    "cita": "Implementación de una plataforma web para que la ciudadanía priorice proyectos de inversión,",
+    "pag": 17
+   }
+  ]
+ },
+ "metas": [
+  "Al menos 2 audiencias públicas al año, rotando por las 7 parroquias rurales.",
+  "Una asamblea anual abierta a la ciudadanía para rendir cuentas.",
+  "Informes trimestrales con indicadores de gestión publicados en redes y web.",
+  "Continuar el plan de desarrollo 2023-2027 hasta el año 2031."
+ ],
+ "notas": [
+  "Gran parte del plan es copia del plan de desarrollo municipal 2023-2027, no propuestas nuevas.",
+  "El plan no dice cuánto costará ninguna obra ni en qué año se hará. Muchas dependen de préstamos y convenios."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29
+ ],
+ "paginas": 29
+}

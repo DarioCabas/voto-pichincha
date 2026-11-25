@@ -1,0 +1,128 @@
+{
+ "enfoque": "Plan general de la parroquia: caminos, turismo, productores, ambiente y transparencia. Incluye agua, alcantarillado y seguridad, que no son de la junta.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Abrir nuevas rutas para el turismo comunitario, con ayuda de entidades del Estado.",
+    "que": "El plan no dice cuánto costará ni en qué plazo. Lo haría junto con las entidades competentes del Estado.",
+    "v": "media",
+    "n": "Depende de instituciones del Estado, no de la junta sola.",
+    "cita": "Garantizar la apertura de nuevas rutas para agrandar el turismo comunitario.",
+    "pag": 2
+   },
+   {
+    "t": "Arreglar la superficie y las cunetas (zanjas a los lados) de caminos vecinales.",
+    "que": "Se haría con convenios y con las comunidades. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "media",
+    "n": "La junta puede cuidar caminos junto con la Prefectura.",
+    "cita": "Recuperar y estabilizar la capa de rodadura y el sistema de cunetas de las vias de tercer orden",
+    "pag": 2
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar el alcantarillado (tuberías de aguas servidas) en barrios alejados.",
+    "que": "El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Alcantarillado le toca a otro nivel, no a la junta.",
+    "cita": "Ampliar la cobertura de las redes de alcantarillado sanitario en barrios periféricos y ejecutar",
+    "pag": 2
+   },
+   {
+    "t": "Cubrir con tubos o revestir los canales de riego y hacer depósitos de agua comunitarios.",
+    "que": "Es para el agua de riego de los campos. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Es una obra grande de canales y depósitos. El plan no dice el costo.",
+    "cita": "Optimizar la conducción y distribución del agua de riego mediante el revestimiento o entubado de",
+    "pag": 2
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Armar brigadas vecinales y poner alarmas y cámaras en los accesos de la parroquia.",
+    "que": "Las brigadas serían de vecinos. El plan no dice cuánto cuestan las alarmas ni las cámaras, ni quién las pagará.",
+    "v": "baja",
+    "n": "La seguridad le toca a la Policía, no a la junta.",
+    "cita": "Establecer un sistema de seguridad rural preventivo y disuasivo mediante la activación de brigadas vecinales",
+    "pag": 2
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Cuidar fuentes de agua, bosques y ecosistemas con la comunidad.",
+    "que": "Dice control, manejo sostenible y participación comunitaria. El plan no dice qué acciones ni cuánto costará.",
+    "v": "alta",
+    "n": "Cuidar el ambiente y organizar a la comunidad sí le toca a la junta.",
+    "cita": "Proteger y conservar las fuentes de agua, bosques. ecosistemas y climas variados de la parroquia.",
+    "pag": 3
+   },
+   {
+    "t": "Hacer educación ambiental en la comunidad, con prácticas sostenibles y saberes ancestrales.",
+    "que": "El plan no dice cuándo se hará ni cuánto costará.",
+    "v": "alta",
+    "n": "Cursos y educación ambiental sí le tocan a la junta.",
+    "cita": "Fortalecer la educación ambiental comunitaria, promoviendo la corresponsabilidad ciudadana.",
+    "pag": 4
+   }
+  ],
+  "otros": [
+   {
+    "t": "Crear un Centro de Interpretación y formalizar rutas de patrimonio cultural.",
+    "que": "El plan no dice dónde se hará ni cuánto costará. Las rutas se basarían en las tradiciones orales del territorio.",
+    "v": "media",
+    "n": "Necesita un espacio y dinero; el plan no dice de dónde saldrán.",
+    "cita": "la creación de un Centro de Interpretación Emográfico y la formalización de rutas patrimoniales",
+    "pag": 2
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar emprendimientos de grupos y asociaciones, con ayuda técnica y financiera del Estado.",
+    "que": "Esa ayuda la darían instituciones del Estado. El plan no dice cuánto ni cuándo.",
+    "v": "media",
+    "n": "Requiere acuerdo con instituciones del Estado.",
+    "cita": "Impulsar emprendimientos comunitarios y asociativos, priorizando iniciativas de economía popular y solidaria.",
+    "pag": 3
+   },
+   {
+    "t": "Vender los productos a mejores precios, sin intermediarios.",
+    "que": "El plan no dice qué sistema usará ni cómo lo hará. Tampoco dice cuánto costará.",
+    "v": "media",
+    "n": "Falta el cómo. El plan no dice quién lo haría.",
+    "cita": "poder sacar los productos a mejores precios sin la necesidad de intermediarios",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una asamblea al año para rendir cuentas en cada comuna y barrio.",
+    "que": "Presentará el avance de obras y del dinero gastado. El plan no dice cuánto costarán las asambleas.",
+    "v": "alta",
+    "n": "Está dentro de lo que hace la junta.",
+    "cita": "Se establece la obligatoriedad de realizar asambleas de rendición de cuentas anualmente",
+    "pag": 4
+   }
+  ]
+ },
+ "metas": [
+  "Asamblea de rendición de cuentas cada año.",
+  "Portal de acceso público con datos actualizados cada mes.",
+  "Cubrir el 25%, pero el plan no dice de qué."
+ ],
+ "notas": [
+  "Mezcla lo de la junta con agua, salud, educación y policía, que no le tocan. El plan no dice costos ni de dónde sale el dinero.",
+  "Muchas propuestas dependen de instituciones del Estado o de la Prefectura, no de la junta."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "paginas": 8
+}

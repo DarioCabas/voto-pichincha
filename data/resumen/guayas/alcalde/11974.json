@@ -1,0 +1,161 @@
+{
+ "enfoque": "Prioriza agua, alcantarillado, drenaje, basura, calles y parques. Gran parte del texto copia el plan de desarrollo del cantón 2023-2027.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Aumentar la cantidad de agua potable, guardarla y repartirla.",
+    "que": "El plan no dice qué obras ni cuánto costarán. Dice que dependerán de estudios técnicos y del dinero disponible.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Ampliar la producción, almacenamiento y distribución de agua potable.",
+    "pag": 25
+   },
+   {
+    "t": "Extender las redes de alcantarillado y mejorar el tratamiento de aguas residuales.",
+    "que": "El plan no dice en qué barrios ni cuánto costará. Lo sujeta a estudios técnicos y a la disponibilidad de recursos.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuándo se hará.",
+    "cita": "Extender las redes de alcantarillado sanitario y optimizar el tratamiento de aguas residuales.",
+    "pag": 25
+   },
+   {
+    "t": "Ampliar el drenaje de aguas lluvias para reducir zonas inundadas.",
+    "que": "El plan no dice en qué sectores ni cuánto costará. Dice que dará prioridad a las zonas con más riesgo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no da cifras ni fechas.",
+    "cita": "Fortalecer el sistema de drenaje pluvial y reducir los sectores expuestos a inundaciones",
+    "pag": 25
+   },
+   {
+    "t": "Cambiar el manejo de la basura: separar desde casa, reciclar y aprovechar residuos.",
+    "que": "El plan no dice cuántos camiones ni cuánto costará. Incluye separar la basura en casa, reciclar y apoyar a recicladores.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "incorpore separación en la fuente, reciclaje, aprovechamiento de residuos",
+    "pag": 6
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Mejorar las calles urbanas con asfalto, mantenimiento y drenaje.",
+    "que": "El plan no dice qué calles ni cuánto costará. Lo sujeta a estudios técnicos y al presupuesto municipal.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuándo ni cuánto.",
+    "cita": "Mejorar la red vial urbana mediante pavimentación, mantenimiento, drenaje",
+    "pag": 35
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Plantar árboles, recuperar parques y cuidar espacios naturales.",
+    "que": "El plan no dice cuántos parques ni cuándo. Fija como referencia acercarse a 15 metros cuadrados de área verde por habitante.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará.",
+    "cita": "incrementar la arborización urbana, recuperar parques, proteger espacios naturales",
+    "pag": 29
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Poner luz en espacios públicos y recuperarlos para prevenir delitos.",
+    "que": "El plan no dice qué espacios ni cuánto costará. La policía no es del Municipio; el plan dice que eso corresponde al Gobierno nacional.",
+    "v": "media",
+    "n": "Iluminar sí es municipal; cuidar la seguridad depende de la Policía.",
+    "cita": "Promover acciones municipales de prevención mediante la recuperación e iluminación de espacios públicos",
+    "pag": 36
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer programas de vivienda social en terrenos seguros y con servicios.",
+    "que": "El plan no dice cuántas casas ni cuánto costará. Dice que hay que coordinar con el Gobierno nacional.",
+    "v": "media",
+    "n": "Depende del Gobierno nacional y de dinero. El Municipio aporta el terreno.",
+    "cita": "Promover programas de vivienda de interés social en suelos seguros y dotados de servicios básicos",
+    "pag": 22
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer en línea y más simples los trámites municipales.",
+    "que": "El plan no dice en cuánto tiempo ni cuánto costará. Busca automatizar procesos y simplificar trámites.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice en qué plazo.",
+    "cita": "Automatizar y simplificar los trámites y servicios municipales",
+    "pag": 31
+   },
+   {
+    "t": "Publicar en plataformas digitales el avance de cada proyecto municipal.",
+    "que": "El plan no dice cuándo ni cuánto costará. Busca que cada obra pueda seguirse desde la planificación hasta la entrega.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuándo estará listo.",
+    "cita": "se implementarán herramientas y plataformas digitales de seguimiento",
+    "pag": 50
+   }
+  ]
+ },
+ "metas": [
+  "Periodo de gestión: 2027 a 2031.",
+  "Acercarse a 15 metros cuadrados de área verde por habitante; el plan no pone fecha."
+ ],
+ "notas": [
+  "Parte del diagnóstico copia el plan de desarrollo del cantón 2023-2027. Casi ninguna propuesta dice cuánto cuesta ni cuándo.",
+  "El plan habla de empleo, pero dice que el Municipio no crea empleo por decreto. Eso depende del sector privado y del Gobierno."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52
+ ],
+ "paginas": 52
+}

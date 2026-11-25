@@ -1,0 +1,121 @@
+{
+ "enfoque": "Plan copiado en gran parte del plan de desarrollo del cantón. Propone calles, espacios públicos y agua, pero casi no dice cuánto costará.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Construir nuevas vías urbanas y rurales hasta completar la red vial del cantón.",
+    "que": "El plan no dice cuánto costará ni en qué sectores. Los proyectos viales están previstos entre 2027 y 2031.",
+    "v": "alta",
+    "n": "Le toca al Municipio: calles y tránsito son competencia municipal. Falta el costo.",
+    "cita": "Construcción de nuevas vías tanto urbanas como rurales para completar el 100%",
+    "pag": 4
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir y arreglar espacios públicos en el cantón.",
+    "que": "El plan no dice qué espacios ni cuánto costará. Los proyectos de espacios públicos están previstos entre 2027 y 2031.",
+    "v": "alta",
+    "n": "Le toca al Municipio: los espacios públicos son competencia municipal.",
+    "cita": "arquitectura urbana y diseños de espacios públicos de calidad",
+    "pag": 4
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar el servicio de agua, alcantarillado y basura a más hogares.",
+    "que": "El plan no dice en qué sectores ni cuánto costará. Solo el 22.5% de la población tiene alcantarillado.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará.",
+    "cita": "mediante la ampliación de la cobertura de servicios básicos, y dotación de infraestructura urbana y rural",
+    "pag": 10
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar cámaras de vigilancia conectadas al centro de emergencias ECU 911.",
+    "que": "El plan no dice cuántas cámaras ni cuánto costarán.",
+    "v": "baja",
+    "n": "No le toca al Municipio: seguridad y policía son del Gobierno.",
+    "cita": "implementación de sistema de seguridad ciudadana, contar con cámaras de videovigilancia que se conecten con el circuito",
+    "pag": 7
+   }
+  ],
+  "social": [
+   {
+    "t": "Dar muebles y equipos a centros de salud y mejorar su infraestructura.",
+    "que": "El plan no dice cuánto costará ni en qué centros se hará.",
+    "v": "baja",
+    "n": "No le toca al Municipio: la salud es del Ministerio de Salud.",
+    "cita": "Dotación de Mobiliario y equipos a los establecimientos existentes",
+    "pag": 7
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear rutas turísticas de naturaleza, como senderismo y paseos en bote.",
+    "que": "El plan no dice dónde ni cuánto costará. Busca atraer a diversos tipos de turistas.",
+    "v": "media",
+    "n": "El turismo no está en la lista de competencias; depende de otras instancias.",
+    "cita": "Crear una variedad de ofertas turisticas que exploren diferentes aspectos de los recursos naturales locales, como senderismo",
+    "pag": 9
+   },
+   {
+    "t": "Usar el 70% del presupuesto de inversión del Municipio para las obras.",
+    "que": "Además, pide créditos del Banco de Desarrollo del Ecuador y fondos de cooperación. El plan no dice montos.",
+    "v": "media",
+    "n": "Depende de dinero propio y de créditos. El plan no dice cuánto se pedirá.",
+    "cita": "considerando el 70% del presupuesto anual de egresos no financieros a gasto no permanente",
+    "pag": 18
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer con otros niveles de gobierno los proyectos que no son del Municipio.",
+    "que": "Lo haría con convenios o delegación. El plan no dice cuáles proyectos ni cuánto costarán.",
+    "v": "media",
+    "n": "Depende de otros niveles de gobierno; el alcalde no los decide solo.",
+    "cita": "que no son de competencia del nivel municipal y que se deben coordinar con otros niveles de gobierno",
+    "pag": 13
+   }
+  ]
+ },
+ "metas": [
+  "Completar el 100% de la red vial del cantón.",
+  "Ejecutar los proyectos del plan de inversión entre 2027 y 2031."
+ ],
+ "notas": [
+  "Gran parte del texto copia el plan de desarrollo del cantón (PDOT), no solo propuestas de la alcaldía.",
+  "Casi todos los costos dicen 'Por definir'. Varias propuestas (salud, seguridad) no son del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26
+ ],
+ "paginas": 26
+}

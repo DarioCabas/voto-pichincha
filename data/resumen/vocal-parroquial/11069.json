@@ -1,0 +1,122 @@
+{
+ "enfoque": "Gran parte del texto repite el plan de desarrollo de la parroquia. Propone cuidar espacios, reforestar, apoyar productores, fiestas, caminos y rendir cuentas. Sin costos ni fechas.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Hacer reforestación y educación ambiental en la parroquia.",
+    "que": "El plan dice que hará reforestación y educación ambiental. No dice dónde, cuántos árboles ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta cuidar el ambiente. El plan no dice cuánto costará.",
+    "cita": "la protección de ecosistemas estratégicos, la reforestación, la educación ambiental",
+    "pag": 2
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Dar mantenimiento a locales comunales, áreas recreativas y espacios deportivos.",
+    "que": "El plan dice que dará prioridad al mantenimiento de estos espacios. No dice cuáles, dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta cuidar espacios de la parroquia. Falta saber cuáles y con qué dinero.",
+    "cita": "priorizando el mantenimiento de equipamientos comunales, áreas recreativas, espacios deportivos y culturales",
+    "pag": 6
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Gestionar proyectos de caminos e internet con otros niveles de gobierno.",
+    "que": "El plan dice que gestionará proyectos de conectividad vial y digital con los niveles competentes. No dice qué caminos ni cuánto costará.",
+    "v": "media",
+    "n": "Los caminos dependen de la Prefectura, por eso necesita acuerdo. El plan no dice montos.",
+    "cita": "la gestión de proyectos para fortalecer la conectividad vial y digital en coordinación con los niveles de gobierno competentes",
+    "pag": 6
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer programas para niños, jóvenes, mujeres, adultos mayores y personas con discapacidad.",
+    "que": "El plan dice que habrá programas para estos grupos. No dice qué programas, dónde ni cuánto costarán.",
+    "v": "media",
+    "n": "Puede hacerse en parte desde la junta. El plan no dice qué programas ni con qué dinero.",
+    "cita": "programas dirigidos a niñas, niños, adolescentes, jóvenes, mujeres, adultos mayores, personas con discapacidad",
+    "pag": 6
+   },
+   {
+    "t": "Preservar las tradiciones y fiestas de la parroquia.",
+    "que": "El plan dice que se preservarán tradiciones, expresiones artísticas y fiestas. No dice cómo ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta organizar a la comunidad en fiestas. El plan no dice cuánto costará.",
+    "cita": "las tradiciones, manifestaciones culturales, expresiones artísticas y festividades de la parroquia",
+    "pag": 6
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar la agricultura, la ganadería y la venta de productos locales.",
+    "que": "El plan dice que apoyará la agricultura, la ganadería y la venta de productos locales. No dice a quiénes ni cuánto costará.",
+    "v": "alta",
+    "n": "Apoyar a productores es parte de la junta. El plan no dice con qué dinero ni con qué acciones.",
+    "cita": "fortalecimiento de la agricultura y la ganadería, el emprendimiento, la asociatividad",
+    "pag": 4
+   },
+   {
+    "t": "Buscar dinero de otras instituciones y de cooperación para proyectos de la parroquia.",
+    "que": "El plan dice que buscará recursos externos con convenios con el Municipio, la Prefectura, ministerios y otros. No dice cuánto dinero.",
+    "v": "media",
+    "n": "Necesita acuerdos con el Municipio o la Prefectura. El plan no dice montos.",
+    "cita": "impulsará una estrategia permanente de gestión de recursos externos que permita ampliar la capacidad",
+    "pag": 12
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Informar a la ciudadanía, de forma periódica, sobre las obras y el dinero usado.",
+    "que": "El plan dice que la rendición de cuentas será periódica y pública. No dice cada cuánto ni en qué fechas.",
+    "v": "alta",
+    "n": "Le toca a la junta informar a la gente. El plan no dice cuándo ni dónde se informará.",
+    "cita": "un proceso participativo, inclusivo y periódico mediante el cual se informará a la ciudadanía",
+    "pag": 13
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni en qué plazo. Gran parte repite el plan de desarrollo de la parroquia.",
+  "Las páginas 14 a 29 casi no se pueden leer (cuadros escaneados). Puede haber propuestas que no se pudieron revisar."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32
+ ],
+ "paginas": 32
+}

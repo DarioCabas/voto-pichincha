@@ -1,0 +1,117 @@
+{
+ "enfoque": "Propone agua, calles, espacios públicos, mercados y control del suelo, con pedidos de tres parroquias. No dice cuánto costará ni de dónde saldrá el dinero.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Llevar más y mejor agua potable, alcantarillado y tratamiento de aguas en el cantón.",
+    "que": "Primero habrá un diagnóstico y una lista de proyectos; luego, las obras. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta el costo y la fuente de pago.",
+    "cita": "Mejorar progresivamente la cobertura, calidad y sostenibilidad de los servicios de agua potable, alcantarillado,",
+    "pag": 3
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Controlar el uso del suelo, actualizar el catastro y el mapa de zonas de riesgo.",
+    "que": "Incluye revisar construcciones y zonas de riesgo. El plan no dice plazos ni costos.",
+    "v": "alta",
+    "n": "Le toca al Municipio: uso del suelo y catastro (registro de terrenos).",
+    "cita": "Fortalecer la planificación cantonal, el control del uso y ocupación del suelo, el catastro y la gestión de riesgos,",
+    "pag": 3
+   },
+   {
+    "t": "Arreglar y ampliar parques, canchas y casas comunales.",
+    "que": "Incluye parques, canchas, casas comunales y espacios culturales. El plan no dice cuáles ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta el listado de lugares y el costo.",
+    "cita": "Mantener, rehabilitar y ampliar espacios públicos, equipamientos sociales, culturales, deportivos y comunitarios con",
+    "pag": 3
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer mantenimiento y mejoras en las calles urbanas del cantón.",
+    "que": "Incluye calles de la ciudad, señalización y tránsito. El plan no dice qué calles ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué calles ni plazos.",
+    "cita": "Mejorar la movilidad y conectividad mediante mantenimiento y mejoramiento de la vialidad urbana y coordinación",
+    "pag": 3
+   },
+   {
+    "t": "Coordinar con la Prefectura el arreglo de caminos rurales y puntos críticos.",
+    "que": "La red rural depende también de la Prefectura y de los gobiernos parroquiales. El plan no dice cuánto ni cuándo.",
+    "v": "media",
+    "n": "Depende de la Prefectura y de las parroquias.",
+    "cita": "coordinar con Prefectura y GAD parroquiales la red rural, drenajes, señalización y puntos críticos.",
+    "pag": 2
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger fuentes de agua, riberas y ecosistemas del cantón.",
+    "que": "Según el plan incluye reforestación y educación ambiental. El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Riberas sí son del Municipio; el MAE y la Prefectura también.",
+    "cita": "Proteger fuentes hídricas, riberas, ecosistemas, suelos y paisaje, fortaleciendo la gestión ambiental, prevención de",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Promover mercados, ventas de productos locales y emprendimientos.",
+    "que": "Incluye ferias y promoción turística. El plan no dice qué mercados ni cuánto costará.",
+    "v": "media",
+    "n": "Mercados sí; capacitación y empleo dependen de otros niveles.",
+    "cita": "Promover desarrollo económico local, comercialización, mercados, emprendimientos, economía popular y solidaria,",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Convocar una mesa con los gobiernos parroquiales para decidir obras y servicios.",
+    "que": "Se reunirá para elegir servicios básicos, proyectos comunitarios y vialidad rural. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio convocarla. Es coordinación, no obra.",
+    "cita": "Instalar una mesa de coordinación con los GAD parroquiales para priorizar servicios básicos,",
+    "pag": 4
+   },
+   {
+    "t": "Publicar un tablero público con presupuesto, avance y fotos de cada obra.",
+    "que": "Se actualizará cada mes, con presupuesto, avance físico, beneficiarios y fotografías. El plan no dice cómo se publicará.",
+    "v": "alta",
+    "n": "Le toca al Municipio; es informar, no construir.",
+    "cita": "Medir avance fisico, presupuestario, beneficiarios, calidad, problemas y correctivos mediante un",
+    "pag": 4
+   }
+  ],
+  "social": [
+   {
+    "t": "Coordinar programas para niños, adultos mayores y personas con discapacidad.",
+    "que": "Incluye salud preventiva, cultura y deporte. El plan no dice qué programas ni cuánto costarán.",
+    "v": "media",
+    "n": "Depende de ministerios de desarrollo humano y de salud.",
+    "cita": "Fortalecer el sistema cantonal de protección de derechos y articular programas para grupos de atención prioritaria,",
+    "pag": 2
+   }
+  ]
+ },
+ "metas": [
+  "Tablero público de proyectos: se actualiza cada mes.",
+  "Al final del período, entregar banco de proyectos, contratos y estudios."
+ ],
+ "notas": [
+  "El plan recoge pedidos de las parroquias San Salvador de Cañaribamba, Shaglli y Abdón Calderón; casi no tiene montos.",
+  "Varias tablas del plan salen ilegibles; plazos y cifras exactas no se pueden leer con seguridad."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "paginas": 6
+}

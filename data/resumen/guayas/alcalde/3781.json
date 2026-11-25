@@ -1,0 +1,130 @@
+{
+ "enfoque": "Plan que copia el plan de desarrollo del cantón 2023–2027: empleo para jóvenes, agua y caminos para los recintos, basura y catastro.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Dar agua segura a los recintos, que hoy no tienen el servicio.",
+    "que": "Plan para llevar agua a los recintos rurales, que hoy no tienen servicio. El plan no dice cuánto costará ni en qué plazo llegará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el agua depende de un convenio con Daule.",
+    "cita": "Diseñar y ejecutar el plan de dotación de agua segura para los recintos, hoy completamente fuera del servicio de EMAPALS.",
+    "pag": 9
+   },
+   {
+    "t": "Terminar la segunda fase del alcantarillado de la ciudad.",
+    "que": "Obra financiada con 3,4 millones de dólares del Banco de Desarrollo del Ecuador, para cubrir más del 63 % actual. El plan no dice cuándo termina.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan dice que el dinero es del Banco de Desarrollo del Ecuador.",
+    "cita": "Concluir la segunda fase del alcantarillado sanitario de la cabecera cantonal, financiada por el Banco de Desarrollo del Ecuador con 3,4 millones de dólares",
+    "pag": 9
+   },
+   {
+    "t": "Renovar el equipo recolector de basura y ampliar sus rutas a los recintos.",
+    "que": "Renovar camiones y rutas de recolección, que el plan de desarrollo del cantón calcula en 190.000 dólares. El plan no dice de dónde sale el dinero.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cómo se paga la renovación.",
+    "cita": "Renovar el equipo recolector y fortalecer las rutas de recolección, proyecto que el PDOT valora en 190.000 dólares.",
+    "pag": 11
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer caminos que unan los recintos con la ciudad durante todo el año.",
+    "que": "Caminos para que los recintos estén conectados con la ciudad todo el año. El plan no dice cuánto costará ni cuándo se terminan.",
+    "v": "media",
+    "n": "Caminos rurales suelen ser de la Prefectura; el Municipio los puede empujar. El plan no dice cuánto cuesta.",
+    "cita": "Ejecutar un plan de caminos vecinales y de primer orden que conecte los recintos con la cabecera cantonal durante todo el año.",
+    "pag": 10
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Cerrar el basurero al aire libre de ocho hectáreas y arreglar su terreno.",
+    "que": "Cerrar el basurero de ocho hectáreas, a dos kilómetros del centro, en la vía a Las Cañas. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto cuesta ni en qué año se cierra.",
+    "cita": "Clausurar y remediar técnicamente el botadero a cielo abierto de ocho hectáreas ubicado a dos kilómetros del centro de la ciudad",
+    "pag": 10
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear una oficina municipal de juventud y empleo, con presupuesto propio.",
+    "que": "Oficina municipal para jóvenes y empleo, con presupuesto propio y metas anuales públicas. El plan no dice cuánto dinero tendrá.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto presupuesto tendrá.",
+    "cita": "Crear la Dirección o Jefatura Municipal de Juventud y Empleo, con presupuesto propio y metas anuales públicas.",
+    "pag": 8
+   }
+  ],
+  "economia": [
+   {
+    "t": "Implementar una bolsa de empleo para jóvenes del cantón.",
+    "que": "Conectar a jóvenes de Lomas de Sargentillo con piladoras, agroindustrias, comercios y contratistas municipales. El plan no dice cuántos empleos habrá.",
+    "v": "media",
+    "n": "El Municipio solo conecta jóvenes con empleos. Crear los puestos depende de empresas privadas.",
+    "cita": "Implementar la Bolsa de Empleo Joven del cantón, que conecte a jóvenes de Lomas de Sargentillo con las piladoras",
+    "pag": 8
+   },
+   {
+    "t": "Aprobar una ordenanza que pida a contratistas municipales contratar jóvenes locales.",
+    "que": "Los contratistas de obra municipal deberán contratar un porcentaje mínimo de jóvenes y gente local. El plan no dice qué porcentaje.",
+    "v": "alta",
+    "n": "El Municipio puede exigirlo a sus propios contratistas. El plan no dice qué porcentaje.",
+    "cita": "Aprobar una ordenanza de primer empleo que exija a los contratistas de obra municipal contratar un porcentaje mínimo de mano de obra joven y local.",
+    "pag": 8
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar el catastro de propiedades urbanas y rurales del cantón.",
+    "que": "Actualizar el registro de propiedades urbanas y rurales, ya previsto en la planificación municipal. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que maneja el catastro y el uso del suelo. El plan no dice cuánto costará.",
+    "cita": "Ejecutar el proyecto de actualización catastral de la propiedad urbana y rural del cantón, ya previsto en la planificación municipal.",
+    "pag": 11
+   }
+  ],
+  "otros": [
+   {
+    "t": "Instalar puntos de internet gratis, empezando por Las Cañas, El Mamey y Las Chacras.",
+    "que": "Puntos de internet libre y gratuito en la ciudad y en recintos, empezando por Las Cañas, El Mamey y Las Chacras. El plan no dice cuánto cuesta ni quién lo paga.",
+    "v": "baja",
+    "n": "Internet no está entre las tareas municipales de la ley. El plan no dice quién lo paga.",
+    "cita": "Instalar puntos de internet libre y gratuito en la cabecera cantonal y en los recintos con menor cobertura, comenzando por Las Cañas, El Mamey y Las Chacras.",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "Bolsa de Empleo Joven funcionando durante el primer año de gestión.",
+  "Cobertura de alcantarillado en la ciudad superior al 63 % actual.",
+  "Botadero a cielo abierto cerrado y arreglado dentro del período de gestión.",
+  "Plataforma de trámites en línea funcionando durante los dos primeros años.",
+  "Cinco kilómetros de aceras, bordillos y cunetas, según el plan de desarrollo del cantón."
+ ],
+ "notas": [
+  "Casi ninguna propuesta dice cuánto cuesta ni cuándo se hará. El agua depende de un convenio con Daule.",
+  "Parte del plan trata temas de policía, escuelas y salud, que no son del Municipio. Repite el plan de desarrollo del cantón 2023–2027."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16
+ ],
+ "paginas": 16
+}

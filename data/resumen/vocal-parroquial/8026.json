@@ -1,0 +1,117 @@
+{
+ "enfoque": "Plan de la lista ADN, igual para los cinco precandidatos. Copia lineamientos de planes de Quito y Yaruquí y mezcla temas de la junta con temas de otros niveles.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Reforestar con plantas nativas y dar charlas de educación ambiental.",
+    "que": "El plan dice que habrá programas permanentes de reforestación, educación ambiental y reciclaje. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "La junta puede organizar siembras y charlas. La basura le toca al Municipio.",
+    "cita": "Desarrollar programas permanentes de reforestación con especies nativas, educación ambiental, reciclaje, manejo integral de residuos sólidos y protección del patrimonio natural",
+    "pag": 4
+   },
+   {
+    "t": "Cuidar quebradas, fuentes de agua y áreas verdes de la parroquia.",
+    "que": "El plan dice que se conservarán y recuperarán quebradas, fuentes de agua, áreas verdes y ecosistemas. El plan no dice cómo ni cuándo.",
+    "v": "alta",
+    "n": "Cuidar el ambiente sí le toca a la junta. El plan no dice qué acciones concretas.",
+    "cita": "Promover la conservación y recuperación de quebradas, fuentes hídricas, áreas verdes y ecosistemas estratégicos de la parroquia",
+    "pag": 4
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar y dar mantenimiento a parques, canchas, casas comunales y espacios públicos.",
+    "que": "El plan dice que se recuperarán, mantendrán y modernizarán parques, canchas, casas comunales y espacios públicos. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Parques y espacios sí le tocan a la junta. El plan no dice cuánto costará.",
+    "cita": "Gestionar la recuperación, mantenimiento y modernización de parques, canchas deportivas, casas comunales y espacios públicos de la parroquia",
+    "pag": 2
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar y mantener las vías parroquiales junto con el Municipio y la Prefectura.",
+    "que": "El plan dice que se hará mantenimiento y mejora de las vías con más circulación, con el Municipio de Quito y el Gobierno Provincial de Pichincha. El plan no dice cuánto ni cuándo.",
+    "v": "media",
+    "n": "Los caminos se hacen junto con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Gestionar el mantenimiento, rehabilitación y mejoramiento de la red vial parroquial, priorizando las vías de mayor circulación vehicular y peatonal",
+    "pag": 3
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar el agua potable y el alcantarillado en sectores con fallas.",
+    "que": "El plan dice que se ampliarán agua potable, alcantarillado y drenaje, dando prioridad a sectores con deficiencias. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "El agua potable le toca a otro nivel, no a la junta.",
+    "cita": "Gestionar el fortalecimiento y ampliación de los sistemas de agua potable, alcantarillado, drenaje pluvial y saneamiento ambiental",
+    "pag": 4
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Poner cámaras, alarmas comunitarias e iluminación en la parroquia.",
+    "que": "El plan dice que se coordinará con la Policía Nacional y el Municipio para instalar videovigilancia, alarmas e iluminación. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "La Policía y el Municipio le tocan a ellos, no a la junta.",
+    "cita": "implementar sistemas de videovigilancia, alarmas comunitarias, iluminación pública y programas preventivos",
+    "pag": 3
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear programas de atención para adultos mayores, personas con discapacidad, niños y adolescentes.",
+    "que": "El plan dice que habrá programas permanentes de atención integral para estos grupos. El plan no dice qué programas ni cuánto costarán.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio u otras instituciones. El plan no dice cómo.",
+    "cita": "Promover programas permanentes de atención integral para adultos mayores, personas con discapacidad, niños, niñas y adolescentes",
+    "pag": 2
+   },
+   {
+    "t": "Formar comités barriales y mesas de participación ciudadana.",
+    "que": "El plan dice que se crearán o fortalecerán comités de barrio y mesas para hablar con los vecinos. El plan no dice cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta.",
+    "cita": "Incentivar la organización comunitaria mediante la conformación y fortalecimiento de comités barriales, mesas de participación ciudadana",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar asistencia técnica y cursos a agricultores, ganaderos y comerciantes.",
+    "que": "El plan dice que se gestionarán programas de ayuda técnica y capacitación para agricultura, ganadería, floricultura, comercio y servicios. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Apoyar a productores sí le toca a la junta. Depende de instituciones del Estado.",
+    "cita": "Gestionar programas de fortalecimiento para los sectores agrícola, ganadero, florícola, comercial y de servicios mediante asistencia técnica, capacitación",
+    "pag": 3
+   },
+   {
+    "t": "Organizar ferias productivas, gastronómicas y artesanales.",
+    "que": "El plan dice que se gestionarán ferias de productos, comida y artesanías para la economía y el empleo. El plan no dice cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar ferias sí le toca a la junta.",
+    "cita": "Gestionar la realización de ferias productivas, gastronómicas, artesanales y de emprendimiento",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [
+  "Plan para el período 2027 - 2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Es un plan de lista, igual para los cinco precandidatos. Incluye agua, seguridad y salud, que no son de la junta."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "paginas": 7
+}

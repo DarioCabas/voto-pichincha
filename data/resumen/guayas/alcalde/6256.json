@@ -1,0 +1,134 @@
+{
+ "enfoque": "Llevar agua y alcantarillado a los recintos rurales, tratar las aguas sucias, cerrar el botadero y arreglar caminos. Muchas obras dependen de créditos o de la Prefectura.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Llevar agua potable a los recintos rurales, empezando por los que más la necesitan.",
+    "que": "Se hará por etapas, primero donde hay más familias sin agua. Se pagará con un crédito del Banco de Desarrollo del Ecuador. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Es del Municipio, pero depende de un crédito. El plan no dice el monto.",
+    "cita": "Ejecución por fases de los sistemas de agua potable rural, iniciando por los recintos de mayor déficit y mayor número de familias por atender.",
+    "pag": 15
+   },
+   {
+    "t": "Construir el alcantarillado de la cabecera cantonal y extenderlo a los recintos rurales.",
+    "que": "Se hará con un crédito del Banco de Desarrollo del Ecuador. La ampliación en el campo será progresiva. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Es del Municipio, pero depende de un crédito. El plan no dice el monto.",
+    "cita": "Construcción del alcantarillado sanitario de la cabecera cantonal y ampliación progresiva de la red en la zona rural.",
+    "pag": 15
+   },
+   {
+    "t": "Instalar medidores grandes y reducir el agua que se pierde por fugas en la red.",
+    "que": "Hoy se pierde el 30 % del agua tratada por fugas. El plan no dice cuánto costará ni cuánto debe bajar esa pérdida.",
+    "v": "alta",
+    "n": "Le toca al Municipio y a su empresa de agua. El plan no dice el costo.",
+    "cita": "Instalación de macromedición y ejecución de un programa de reducción de pérdidas en la red de agua potable.",
+    "pag": 16
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Construir la primera planta que trate las aguas residuales del cantón.",
+    "que": "Se hará con un crédito del Banco de Desarrollo y un estudio sobre cuánto cobrar por el servicio. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Es competencia municipal, pero depende de un crédito. Sin costo indicado.",
+    "cita": "Construcción de la primera planta de tratamiento de aguas residuales del cantón y eliminación progresiva de las descargas directas a cuerpos de agua.",
+    "pag": 16
+   },
+   {
+    "t": "Cerrar el botadero a cielo abierto y ordenar la separación de basura desde casa.",
+    "que": "Se hará con un crédito y con la autoridad ambiental nacional. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "La basura es del Municipio, pero depende de un crédito y de otra autoridad.",
+    "cita": "Gestión integral de los desechos sólidos, con cierre técnico del botadero a cielo abierto y programa de separación en origen.",
+    "pag": 13
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Mantener las vías municipales para que los caminos de producción sirvan en época de lluvias.",
+    "que": "Es un programa permanente de mantenimiento durante los cuatro años. El plan no dice cuánto costará ni qué caminos se arreglan primero.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice el costo.",
+    "cita": "Mantenimiento y mejoramiento permanente de la red vial de competencia municipal, de modo que los caminos de producción sean transitables también en temporada de lluvias.",
+    "pag": 15
+   },
+   {
+    "t": "Pedir a la Prefectura del Guayas que arregle caminos rurales de producción.",
+    "que": "Se haría con un convenio entre el Municipio y la Prefectura. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de la Prefectura, no solo del Municipio.",
+    "cita": "Gestión, con la Prefectura del Guayas, de la rehabilitación de la vialidad rural productiva que no es de competencia municipal, mediante convenio de concurrencia.",
+    "pag": 15
+   }
+  ],
+  "economia": [
+   {
+    "t": "Arreglar el mercado municipal y el centro de faenamiento.",
+    "que": "El plan dice que se buscará financiamiento, pero no dice de dónde. No dice cuánto costará ni cuándo se termina.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice el costo ni de dónde sale el dinero.",
+    "cita": "Remodelación del mercado municipal y adecuación del centro de faenamiento, para reducir el costo de comercialización y mejorar las condiciones sanitarias del expendio.",
+    "pag": 15
+   },
+   {
+    "t": "Poner al día y en digital el catastro de casas y terrenos, sin crear impuestos nuevos.",
+    "que": "Sirve para corregir valores de tierras rurales y subir lo que cobra el Municipio. El plan no dice cuánto costará ni cuándo termina.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice el costo ni el plazo.",
+    "cita": "Actualización y digitalización del catastro urbano y rural, para corregir la subvaloración de la base imponible del predial rústico y elevar la recaudación propia sin crear nuevos tributos.",
+    "pag": 12
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer o actualizar el plan de uso del suelo y vigilar que no se construya en zonas de riesgo.",
+    "que": "Es el documento que ordena dónde se puede construir y dónde no. El plan no dice cuánto costará ni cuándo estará listo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice el costo.",
+    "cita": "Formulación o actualización del Plan de Uso y Gestión de Suelo, y control efectivo del uso y ocupación del suelo para evitar el asentamiento en zonas de riesgo.",
+    "pag": 16
+   }
+  ]
+ },
+ "metas": [
+  "Cobertura de agua en el campo: parte del 55 %. El plan no fija la meta final.",
+  "Cobertura de alcantarillado en el campo: parte del 20 %. El plan no fija la meta final.",
+  "Pérdidas de agua en la red: parten del 30 %. El plan no fija la meta final.",
+  "Déficit de vivienda cualitativo: parte del 40 %. El plan no fija la meta final.",
+  "Estudios y diseños de agua y alcantarillado rural aprobados en el año 1."
+ ],
+ "notas": [
+  "Casi ninguna obra tiene costo ni fecha. Muchas dependen de créditos del Banco de Desarrollo o de convenios con otras instituciones.",
+  "El diagnóstico se basa en el Plan de Desarrollo y Ordenamiento Territorial del cantón. Varias obras no son de competencia municipal."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24
+ ],
+ "paginas": 24
+}

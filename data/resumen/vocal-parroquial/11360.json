@@ -1,0 +1,129 @@
+{
+ "enfoque": "Plan copiado de la parroquia y del cantón. Propone ferias, cultura, cuidado de quebradas y perros; varias obras son del Municipio, no de la junta.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Hacer los planes maestros de saneamiento de la parroquia.",
+    "que": "Lo coordinaría con varias instituciones. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Alcantarillado y saneamiento son servicios básicos del Municipio, no de la junta.",
+    "cita": "Elaborar o actualizar los planes maestros de saneamiento para la parroquia.",
+    "pag": 20
+   },
+   {
+    "t": "Hacer jornadas para esterilizar perros callejeros y ponerles identificación.",
+    "que": "Se haría con el Ministerio de Ambiente y fondos propios. Tiene como meta reducir 20% de perros callejeros al 2027. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita coordinar con el Ministerio de Ambiente y poner fondos propios.",
+    "cita": "jornadas masivas de esterilización para los perros callejeros e identificación de los mismos",
+    "pag": 21
+   },
+   {
+    "t": "Retomar el proyecto para tratar los desechos de la parroquia.",
+    "que": "El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "La recolección y el tratamiento de basura le tocan al Municipio, no a la junta.",
+    "cita": "Retomar el proyecto de tratamiento de los desechos.",
+    "pag": 16
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar y mantener kilómetros de vías de la parroquia, según el plan anual.",
+    "que": "El plan no dice cuántos kilómetros ni cuánto costará.",
+    "v": "media",
+    "n": "Las vías necesitan acuerdo con la Prefectura; la junta cuida caminos junto con ella.",
+    "cita": "Km de vías mantenidas o intervenidas Según POA anual",
+    "pag": 30
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias para vender productos de la parroquia, cuatro al año.",
+    "que": "El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Las ferias las puede organizar la junta con productores.",
+    "cita": "Económico Ferias de comercialización realizadas 4 al año",
+    "pag": 29
+   },
+   {
+    "t": "Preparar un plan para crear un banco de productos.",
+    "que": "Debe estar listo hasta el cuarto año de gestión. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Apoyar a productores es tarea de la junta; el plan no dice costos.",
+    "cita": "Apoyar en el desarrollo del plan para crear un banco de productos hasta el cuarto año de gestión",
+    "pag": 16
+   }
+  ],
+  "social": [
+   {
+    "t": "Apoyar actividades de música, arte, comida y danza de la parroquia.",
+    "que": "El plan no dice cuántas actividades ni cuánto costará.",
+    "v": "alta",
+    "n": "La junta puede organizar actividades culturales y comunitarias.",
+    "cita": "Fortalecer los saberes ancestrales, música, arte, gastronomía, danza.",
+    "pag": 15
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Descentralizar el servicio de seguridad 911 para que llegue fuera de Machachi.",
+    "que": "El plan dice que el tiempo de respuesta es alto. No dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Seguridad y el servicio 911 le tocan a la policía y al Estado, no a la junta.",
+    "cita": "Descentralización del proyecto de seguridad 911. que no solo sea en machachi porque el tiempo de respuesta es alto.",
+    "pag": 16
+   }
+  ]
+ },
+ "metas": [
+  "Ferias de comercialización: 4 al año.",
+  "Emprendimientos apoyados: 200 en 2027-2031.",
+  "Reducir 20% de perros callejeros al 2027.",
+  "Quebradas intervenidas: 20%."
+ ],
+ "notas": [
+  "Plan copiado del plan de la parroquia y del cantón; varias propuestas son del Municipio o de la Prefectura, no de la junta.",
+  "Casi ninguna propuesta dice cuánto costará ni cómo se pagará."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36
+ ],
+ "paginas": 36
+}

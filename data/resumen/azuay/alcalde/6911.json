@@ -1,0 +1,74 @@
+{
+ "enfoque": "Plan general que casi no habla de calles, agua o basura. Pide ayuda al Estado y a la Prefectura para casi todo y no dice cuánto costará.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Preparar a la comunidad frente a riesgos y cambios del clima, con acciones de prevención.",
+    "que": "El plan habla de prevenir riesgos y reducir daños. No dice en qué zonas, con qué obras ni cuánto costará. Tampoco dice cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cómo lo pagará.",
+    "cita": "Implementar acciones de gestión de riesgos y adaptación al cambio climático, orientadas a la prevención, reducción de vulnerabilidades y fortalecimiento de la resiliencia comunitaria",
+    "pag": 2
+   },
+   {
+    "t": "Cuidar las fuentes de agua y los bosques, con control y participación de la comunidad.",
+    "que": "El plan no dice qué zonas se protegerán ni cuánto costará. Lo haría con acuerdos con otras instituciones y con la comunidad.",
+    "v": "media",
+    "n": "Depende de otros niveles de gobierno. El plan no dice cómo lo pagará.",
+    "cita": "Proteger y conservar las fuentes de agua, bosques y ecosistemas estratégicos, mediante acciones coordinadas de control, manejo sostenible y participación comunitaria.",
+    "pag": 2
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Explicar a la gente en qué se gasta el dinero del Municipio, con detalle.",
+    "que": "El plan dice que se explicarán las asignaciones, inversiones y gastos. No dice cada cuánto se hará ni cuánto dinero hay.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cada cuánto se hará.",
+    "cita": "Socializar de manera clara y detallada el presupuesto del GAD Municipal, explicando las asignaciones, inversiones y gastos ejecutados.",
+    "pag": 3
+   },
+   {
+    "t": "Reunir a comunidades, juntas vecinales y autoridades tradicionales para informar y escuchar.",
+    "que": "El plan dice que se convocará periódicamente a estos grupos. No dice cuántas reuniones habrá al año ni en qué lugares.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cada cuánto ni dónde.",
+    "cita": "Convocar periódicamente a las comunidades, organizaciones sociales, juntas vecinales y autoridades tradicionales para informar sobre la gestión",
+    "pag": 3
+   },
+   {
+    "t": "Atender mejor los trámites de los ciudadanos y actualizar los sistemas informáticos.",
+    "que": "El plan no dice qué trámites se mejorarán, cuánto costará ni en cuánto tiempo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Faltan detalles de qué cambios habrá.",
+    "cita": "Mejorar la capacidad de atención en tramites ciudadanos y modernizar los sistemas informáticos.",
+    "pag": 3
+   }
+  ],
+  "otros": [
+   {
+    "t": "Construir y mejorar escuelas e infraestructura educativa junto con otras instituciones.",
+    "que": "El plan no dice qué escuelas se harán ni cuánto costará. Menciona proyectos con el Ministerio de Turismo y la Prefectura.",
+    "v": "baja",
+    "n": "Las escuelas no le tocan al Municipio según la ley.",
+    "cita": "para construir y mejorar la infraestructura de educativa y servicios básicos.",
+    "pag": 2
+   }
+  ]
+ },
+ "metas": [
+  "Período del plan: de 2027 a 2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará nada, de dónde saldrá el dinero ni cuándo se haría.",
+  "Gran parte del texto es general y repite planes de desarrollo. Casi no habla de calles, agua, basura ni tránsito."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "paginas": 4
+}

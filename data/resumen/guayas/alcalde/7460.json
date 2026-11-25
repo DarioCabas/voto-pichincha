@@ -1,0 +1,120 @@
+{
+ "enfoque": "Agua potable, un ducto de drenaje en San Enrique, un centro de acopio agrícola y un centro de atención ciudadana. Varias acciones dependen de otras instituciones.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Arreglar el agua potable: más presión, menos fugas y servicio a barrios que no lo tienen.",
+    "que": "Cambiar tuberías viejas, arreglar plantas de agua y llevar la red a barrios y recintos sin servicio. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni en qué plazo.",
+    "cita": "Ampliar la cobertura de la red de agua potable hacia barrios y recintos que aún no cuentan",
+    "pag": 3
+   },
+   {
+    "t": "Construir el ducto cajón del sector San Enrique para evitar inundaciones y aguas servidas.",
+    "que": "Obra para llevar aguas lluvias y aguas servidas y evitar que se estanquen. El plan no dice cuánto costará ni cuándo estará lista.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cómo la pagará.",
+    "cita": "Gestionar y ejecutar la construcción del Ducto Cajón del sector San Enrique, como una obra",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Cambiar luminarias dañadas y poner luces LED en calles, barrios, parques y accesos rurales.",
+    "que": "Se hará junto con CNEL EP, la empresa de luz. El plan no dice cuántas luces, cuándo ni cuánto costará.",
+    "v": "media",
+    "n": "Depende de CNEL EP. El plan no dice el costo ni el plazo.",
+    "cita": "Gestionar, en coordinación con CNEL EP, la reposición inmediata de luminarias dañadas y la",
+    "pag": 5
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Abrir un Centro de Atención Ciudadana para trámites, quejas y consultas en un solo lugar.",
+    "que": "Ventanilla única para trámites municipales, con seguimiento de solicitudes y atención prioritaria a adultos mayores. El plan no dice dónde ni cuándo se abrirá.",
+    "v": "alta",
+    "n": "Es un servicio municipal. El plan no dice el lugar ni el costo.",
+    "cita": "Implementar un Centro de Atención Ciudadana Municipal, como un punto estratégico de servicio",
+    "pag": 9
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear un centro municipal donde se recibe, guarda y vende la producción de los agricultores.",
+    "que": "Busca vender sin intermediarios. Se harán alianzas con el Ministerio de Agricultura, el Gobierno Provincial del Guayas, BanEcuador y cooperativas. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de alianzas con otras instituciones. El plan no dice el costo.",
+    "cita": "Crear el Centro Municipal de Acopio y Comercialización Agrícola de Naranjito, destinado a recibir,",
+    "pag": 4
+   },
+   {
+    "t": "Dar asesoría técnica en el campo a las asociaciones de agricultores.",
+    "que": "Capacitación sobre plagas, fertilizantes, riego, semillas y venta. Se coordina con el Ministerio de Agricultura y universidades. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de convenios con otras instituciones. El plan no dice el costo.",
+    "cita": "Implementar un programa permanente de asistencia técnica y fortalecimiento agrícola, dirigido a",
+    "pag": 8
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Pedir a la Policía Nacional más patrullajes preventivos en el cantón.",
+    "que": "El Municipio solo lo gestionaría; la Policía decide los patrullajes. El plan no dice cómo ni cuándo se hará.",
+    "v": "baja",
+    "n": "La policía no le toca al Municipio; solo puede pedirlo.",
+    "cita": "Gestionar con la Policía Nacional el fortalecimiento de patrullajes preventivos.",
+    "pag": 9
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear un comedor con comida saludable para personas en situación de vulnerabilidad.",
+    "que": "Para adultos mayores, personas con discapacidad, niños, embarazadas y personas en pobreza. El plan no dice dónde, cuántas personas ni cuánto costará.",
+    "v": "media",
+    "n": "Es ayuda social, no una tarea municipal de la lista. El plan no dice el costo.",
+    "cita": "Crear el Comedor Comunitario Municipal de Naranjito, destinado a brindar alimentación saludable,",
+    "pag": 6
+   },
+   {
+    "t": "Llevar atención médica, psicológica y social a barrios y recintos con brigadas.",
+    "que": "Brigadas permanentes con atención médica preventiva, psicológica y asesoría social. El plan no dice con qué personal ni cuánto costará.",
+    "v": "baja",
+    "n": "La salud no le toca al Municipio. El plan no dice quién paga.",
+    "cita": "Se desarrollarán brigadas permanentes en barrios y recintos para acercar los servicios municipales",
+    "pag": 8
+   }
+  ],
+  "otros": [
+   {
+    "t": "Entregar una tablet a cada estudiante de Tercero de Bachillerato que esté en el Cuadro de Honor.",
+    "que": "Reconocimiento anual con ceremonia pública. El plan no dice cuántas tablets, cuánto costará ni de dónde saldrá el dinero.",
+    "v": "baja",
+    "n": "La educación no le toca al Municipio. El plan no dice el costo.",
+    "cita": "reconocerá anualmente a los estudiantes de Tercero de Bachillerato",
+    "pag": 4
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni en qué plazo se hará. Muchas acciones dependen de otras instituciones.",
+  "Varias propuestas son de la Policía, la salud o la educación, que no son competencia del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "paginas": 12
+}

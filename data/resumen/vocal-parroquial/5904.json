@@ -1,0 +1,114 @@
+{
+ "enfoque": "Plan para vocales de Zámbiza: pedir a otras entidades vías, agua y luz, y organizar mingas, ferias, asambleas y rendición de cuentas.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Organizar mingas para cuidar fuentes de agua y recuperar espacios verdes.",
+    "que": "El plan no dice cuántas mingas ni cuánto costará. Incluye educación ambiental y manejo de residuos en la comunidad.",
+    "v": "alta",
+    "n": "Mingas y educación las organiza la junta con la comunidad.",
+    "cita": "Impulsar acciones de protección ambiental, conservación de fuentes de agua,",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Gestionar proyectos de riego para productores de la parroquia.",
+    "que": "El plan no dice qué proyectos, dónde ni cuánto costará.",
+    "v": "media",
+    "n": "El riego depende de otras entidades; la junta solo gestiona.",
+    "cita": "Gestionar proyectos de riego, tecnificación y fortalecimiento organizativo de productores",
+    "pag": 5
+   },
+   {
+    "t": "Organizar capacitaciones y ferias para vender lo que producen los vecinos.",
+    "que": "El plan no dice cuántas ferias ni cuándo, ni cuánto costará. Busca circuitos locales de venta.",
+    "v": "alta",
+    "n": "Ferias y cursos son trabajo de la junta; el plan no dice costos.",
+    "cita": "organización comunitaria, capacitación, ferias, promoción de circuitos locales y articulación con",
+    "pag": 4
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Vigilar lo que hace el ejecutivo parroquial y presentar proyectos de acuerdo.",
+    "que": "El plan no dice cuándo ni cuánto costará. Los acuerdos son decisiones de la junta.",
+    "v": "alta",
+    "n": "Es función propia de los vocales.",
+    "cita": "fiscalizan las acciones del ejecutivo parroquial y cumplen las funciones que",
+    "pag": 4
+   },
+   {
+    "t": "Rendir cuentas cada año y publicar un informe cada seis meses.",
+    "que": "El plan dice que el informe se entregará en asamblea o reunión pública. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Solo requiere informar; la junta puede hacerlo sola.",
+    "cita": "La rendición de cuentas se desarrollará de manera periódica, pública, verificable y",
+    "pag": 8
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Pedir al Municipio y a la Prefectura asfalto, adoquinado o mejoras en vías prioritarias.",
+    "que": "El plan no dice qué vías ni cuánto costará. Es una gestión ante otras entidades, no una obra directa de la junta.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio o la Prefectura.",
+    "cita": "Promover la gestión interinstitucional para el asfalto, adoquinado o mejoramiento",
+    "pag": 5
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir a otras entidades agua, alcantarillado, energía e iluminación.",
+    "que": "El plan no dice qué sectores ni cuánto costará. Dice que se pedirá ante quien tiene la competencia.",
+    "v": "baja",
+    "n": "Agua, alcantarillado y luz son de otro nivel; la junta solo gestiona.",
+    "cita": "ampliar o mejorar servicios básicos requieren gestión permanente ante el Municipio del Distrito",
+    "pag": 4
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer asambleas y mingas para que los vecinos participen y vigilen las obras.",
+    "que": "El plan no dice cuántas asambleas ni cuándo se harán.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es trabajo de la junta.",
+    "cita": "Promover la participación ciudadana, las mingas, las asambleas comunitarias, las",
+    "pag": 5
+   },
+   {
+    "t": "Apoyar a escuelas y colegios con conectividad, cultura y deporte.",
+    "que": "El plan no dice qué escuelas ni cuánto costará. Dice que la educación es de otros niveles de gobierno.",
+    "v": "baja",
+    "n": "Las escuelas son de otro nivel; la junta solo puede apoyar.",
+    "cita": "Contribuir al fortalecimiento de la educación mediante apoyo a instituciones educativas,",
+    "pag": 5
+   }
+  ]
+ },
+ "metas": [
+  "Seguimiento técnico del plan cada tres meses (trimestral).",
+  "Informe público de gestión cada seis meses (semestral).",
+  "Rendición pública de cuentas una vez al año.",
+  "Informe consolidado de todo el período 2027–2031.",
+  "Plan de trabajo para 2027–2031, con programación anual."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Muchas propuestas dependen del Municipio, la Prefectura u otras entidades; la junta solo puede pedir y dar seguimiento."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "paginas": 10
+}

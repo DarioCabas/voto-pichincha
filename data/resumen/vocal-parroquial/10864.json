@@ -1,0 +1,100 @@
+{
+ "enfoque": "Cuidar caminos y parques, proteger el ambiente, hacer asambleas y actividades para la comunidad y promocionar el turismo. No dice cuánto costará.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a vías y caminos de la parroquia, junto con el Municipio y la Prefectura.",
+    "que": "El plan dice que se hará con convenios con el Municipio de Quito y la Prefectura. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio y la Prefectura; no es solo de la junta.",
+    "cita": "Gestionar y coordinar con las instituciones competentes el mantenimiento y mejoramiento de la infraestructura vial",
+    "pag": 3
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Dar mantenimiento a parques, canchas y casas comunales.",
+    "que": "El plan dice que se gestionará el mantenimiento de parques, canchas y casas comunales. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca a la junta cuidar parques y espacios públicos.",
+    "cita": "Gestionar el mantenimiento de parques, canchas y casas comunales",
+    "pag": 4
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer acciones de educación ambiental y reforestación.",
+    "que": "El plan dice que se harán campañas para cuidar el agua, reciclar y sembrar árboles. No dice cuánto costará ni dónde.",
+    "v": "alta",
+    "n": "Cuidar el ambiente es función de la junta; el plan no dice el costo.",
+    "cita": "mediante acciones de educación ambiental, reforestación, gestión sostenible de los recursos naturales y participación comunitaria",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer promoción del turismo rural, comunitario y gastronómico, con alianzas.",
+    "que": "El plan dice que se hará con alianzas y promoción de la Ruta Escondida y de los atractivos. No dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita apoyo de la Prefectura o de otras entidades para promocionar.",
+    "cita": "la promoción del turismo rural, comunitario y gastronómico, y la gestión de alianzas estratégicas",
+    "pag": 4
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una rendición de cuentas cada año sobre dinero y obras.",
+    "que": "El plan dice que se informará sobre el presupuesto y el avance del plan de trabajo. No dice fechas ni cuánto costará.",
+    "v": "alta",
+    "n": "Es parte del trabajo propio de la junta.",
+    "cita": "Realizar el proceso anual de rendición de cuentas conforme a la normativa vigente",
+    "pag": 6
+   },
+   {
+    "t": "Publicar en canales oficiales el presupuesto, las compras y las obras.",
+    "que": "El plan dice que se publicará información de proyectos, presupuesto y contrataciones. No dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Es trabajo propio de la junta.",
+    "cita": "Publicar información de interés público sobre proyectos, presupuesto, contrataciones y gestión institucional",
+    "pag": 6
+   },
+   {
+    "t": "Hacer asambleas parroquiales permanentes para decidir obras y proyectos.",
+    "que": "El plan dice que las asambleas serán espacios permanentes para decidir, y que las obras se priorizarán con participación. No dice cuándo.",
+    "v": "alta",
+    "n": "Reunir a la comunidad es función de la junta.",
+    "cita": "Fortalecer las asambleas parroquiales como espacios permanentes de participación y toma de decisiones",
+    "pag": 6
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer actividades culturales, deportivas y recreativas para niños, jóvenes y adultos mayores.",
+    "que": "El plan dice que se harán para estos grupos y para personas con discapacidad. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Organizar a la comunidad y actividades es función de la junta.",
+    "cita": "impulsando actividades culturales, deportivas, recreativas y de integración que beneficien a niñas, niños, jóvenes, adultos mayores",
+    "pag": 4
+   }
+  ]
+ },
+ "metas": [
+  "Plan para el período de gestión 2027-2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni cuándo se cumplirá.",
+  "Varias propuestas dependen del Municipio de Quito o de la Prefectura. Parte del texto repite objetivos del plan de la ciudad."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "paginas": 8
+}

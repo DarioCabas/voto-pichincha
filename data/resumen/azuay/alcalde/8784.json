@@ -1,0 +1,144 @@
+{
+ "enfoque": "Plan de obras y servicios: agua, calles, parques, centro de acopio y turismo en Chobshi. Buena parte del texto copia el plan de desarrollo del cantón.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar agua potable y alcantarillado en las parroquias rurales y el centro del cantón.",
+    "que": "Plazo 2027-2031. Se pagaría con dinero municipal, Banco de Desarrollo, Gobierno Central, cooperación y aportes de las comunidades. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: agua potable y alcantarillado son competencia municipal.",
+    "cita": "Ampliar y mejorar progresivamente la captación, cobertura y calidad de los sistemas comunitarios de agua potable, saneamiento en las parroquias rurales",
+    "pag": 19
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Mejorar y asfaltar calles y anillos viales de la ciudad y de las parroquias.",
+    "que": "Plazo 2027-2031. Pagarían Municipio, Banco de Desarrollo, Prefectura, cooperación y Gobierno Nacional. El plan no dice cuántos kilómetros ni cuánto costará.",
+    "v": "alta",
+    "n": "Las calles le tocan al Municipio, aunque el dinero viene de varias fuentes.",
+    "cita": "Implementar de manera progresiva de la red vial urbana que consiste en el mejoramiento, asfalto, integración de anillos y corredores viales",
+    "pag": 23
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar y construir parques y espacios públicos en barrios, comunidades y deportivos.",
+    "que": "Plazo 2027-2031. Pagarían Municipio, Banco de Desarrollo, cooperación y Gobierno Nacional. El plan no dice cuántos espacios se harán ni cuánto costará.",
+    "v": "alta",
+    "n": "Parques y espacios públicos son competencia municipal.",
+    "cita": "Recuperar, estudios, construir y modernizar espacios públicos barriales, comunitarios, comunales y deportivos de interés colectivo",
+    "pag": 23
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger las zonas que dan agua al cantón y sus ecosistemas, como páramos y microcuencas.",
+    "que": "Plazo 2027-2031. Pagarían el Municipio, el Ministerio del Ambiente (MAATE), cooperación y fondos ambientales. El plan no dice cuántas hectáreas ni cuánto costará.",
+    "v": "media",
+    "n": "Depende del Ministerio del Ambiente y de fondos de fuera del Municipio.",
+    "cita": "Proteger las áreas de recarga hidrica y fortalecer la conservación de los ecosistemas estratégicos que abastecen de agua al cantón",
+    "pag": 19
+   }
+  ],
+  "economia": [
+   {
+    "t": "Construir infraestructura de acopio y rastro para vender la producción del campo.",
+    "que": "Plazo 2028-2030. Pagarían el Municipio, el Ministerio de Agricultura (MAG), cooperación y crédito público. El plan no dice cuánto costará ni dónde se hará.",
+    "v": "media",
+    "n": "Es tarea municipal, pero depende del Ministerio de Agricultura y de créditos.",
+    "cita": "dotación de insumos e infraestructura de acopio, rastro, faenamiento, clasificación y comercialización",
+    "pag": 20
+   },
+   {
+    "t": "Dar capacitación y dinero inicial a emprendimientos de jóvenes, mujeres y asociaciones.",
+    "que": "Plazo 2027-2031. Pagarían el Municipio, universidades, cooperación y alianzas con empresas. El plan no dice cuántos emprendimientos se apoyarán ni cuánto costará.",
+    "v": "baja",
+    "n": "Crear empleo no es algo que le toque directamente al Municipio.",
+    "cita": "Promover emprendimientos asociativo locales mediante capacitación, formación, acompañamiento y capital semilla e incubación empresarial",
+    "pag": 22
+   },
+   {
+    "t": "Consolidar el corredor turístico de Chobshi como principal destino arqueológico del austro.",
+    "que": "Plazo 2027-2031. Participarían Municipio, Instituto Nacional de Patrimonio (INPC) y ministerios de Cultura y Turismo. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "El turismo no es competencia directa del Municipio; depende de ministerios.",
+    "cita": "Consolidar el corredor turístico Chobshi-Shabalula, lagunas y paradores turísticos como el principal destino arqueológico",
+    "pag": 25
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Mejorar las plataformas en internet del Municipio para trámites, consultas y seguimiento de obras.",
+    "que": "Plazo 2027-2031. La pagaría el Municipio, con cooperación y programas nacionales. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Es una herramienta propia del Municipio.",
+    "cita": "Se desarrollarán mejoramiento de las plataformas electrónicas para agilizar trámites, consultas ciudadanas, seguimiento de obras",
+    "pag": 34
+   }
+  ],
+  "otros": [
+   {
+    "t": "Dar internet gratuito en espacios públicos y comunidades rurales.",
+    "que": "Plazo 2027-2031. Pondrían el Municipio, el Ministerio de Telecomunicaciones, cooperación y empresas privadas. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "El internet le toca sobre todo al Gobierno nacional, no al Municipio.",
+    "cita": "Ampliar el acceso a conectividad digital para las comunidades rurales y espacios públicos",
+    "pag": 24
+   }
+  ]
+ },
+ "metas": [
+  "Obras de agua potable, calles, espacios públicos y turismo: plazo 2027-2031.",
+  "Centro de acopio y rastro: plazo 2028-2030.",
+  "Rendición de cuentas: anual y cada cuatro meses (cuatrimestral)."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra; casi todas dependen de otras entidades o de créditos.",
+  "Buena parte del diagnóstico copia el plan de desarrollo y ordenamiento territorial del cantón (2024)."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40
+ ],
+ "paginas": 40
+}

@@ -1,0 +1,142 @@
+{
+ "enfoque": "Parte del texto copia el plan de desarrollo del cantón. Propone calles, agua, basura, Centro Histórico y cámaras; varias obras dependen de otros niveles de gobierno.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer por fases una calle nueva entre el Terminal Terrestre y la salida al Oriente.",
+    "que": "Primero estudios, permisos y dinero; luego la obra. El plan no dice cuánto costará. Lo harían con el Ministerio de Transporte, la Prefectura y el Banco de Desarrollo.",
+    "v": "media",
+    "n": "Depende de la Prefectura, el Ministerio de Transporte y un banco. El plan no dice costo.",
+    "cita": "Desarrollar los estudios definitivos, gestionar el suelo y las autorizaciones necesarias, estructurar el financiamiento y ejecutar las fases técnicamente viables de una nueva conexión vial",
+    "pag": 11
+   },
+   {
+    "t": "Arreglar aceras y rampas y poner cruces seguros y señales en el cantón.",
+    "que": "Incluye zonas cerca de escuelas y espacios para adultos mayores y personas con discapacidad. El plan no dice cuánto costará ni en qué fechas.",
+    "v": "alta",
+    "n": "Calles y peatones son competencia del Municipio. Sin costo definido.",
+    "cita": "Recuperación progresiva de aceras, rampas y accesibilidad universal, cruces seguros,",
+    "pag": 11
+   },
+   {
+    "t": "Arreglar los puntos críticos de calles municipales, al menos el 70 %.",
+    "que": "Meta: atender al menos el 70 % de los puntos críticos priorizados hasta 2031. El plan no dice cuánto costará; usaría recursos propios y convenios.",
+    "v": "alta",
+    "n": "Las calles municipales son del Municipio. Pagos: recursos propios y convenios.",
+    "cita": "Intervenir al menos el 70 % de los puntos críticos municipales priorizados",
+    "pag": 25
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Renovar por fases el Centro Histórico: espacio público, caminos peatonales y fachadas.",
+    "que": "Unos 500 metros priorizados, por fases. Financiamiento con el Banco de Desarrollo, el Instituto de Patrimonio Cultural y convenios. Plazo: años 1 a 3.",
+    "v": "alta",
+    "n": "Obra urbana del Municipio. El plan no dice cuánto costará.",
+    "cita": "Regeneración integral del Centro Histórico de Sígsig mediante la intervención progresiva",
+    "pag": 11
+   },
+   {
+    "t": "Hacer por fases un proyecto turístico en las Playas del Zhingate, a orillas del río.",
+    "que": "Empieza con estudios y un plan maestro. El plan no dice cuánto costará. Participan ministerios, el Banco de Desarrollo y empresas privadas. Plazo: años 1 a 4.",
+    "v": "media",
+    "n": "Depende de ministerios, banco y empresa privada. Costo no definido.",
+    "cita": "Diseñar e implementar por fases un proyecto turístico en las Playas del Zhingate.",
+    "pag": 10
+   },
+   {
+    "t": "Actualizar el plan de uso del suelo y el catastro (registro de terrenos).",
+    "que": "Meta: actualizar el plan que dice qué se puede construir y dónde, y terminar la actualización catastral. Años 1 a 2. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Ordenar el suelo es competencia del Municipio. Costo no definido.",
+    "cita": "Actualizar el PUGS y completar la actualización catastral programada",
+    "pag": 26
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar el agua potable y el saneamiento en sectores con déficit.",
+    "que": "Primero estudios y proyectos, luego obras. Financiamiento con el Banco de Desarrollo y la comunidad. El plan no dice cuánto costará. Plazo: años 1 a 4.",
+    "v": "alta",
+    "n": "El agua es competencia del Municipio. El plan no dice cuánto costará.",
+    "cita": "Ejecución de estudios y proyectos que mejoren el servicio de agua potable y saneamiento ambiental del cantón.",
+    "pag": 15
+   },
+   {
+    "t": "Optimizar la recolección de basura y separar los residuos desde el origen.",
+    "que": "Incluye reciclaje, compostaje y educación a la ciudadanía. El plan no dice cuánto costará ni en qué barrios se hará.",
+    "v": "alta",
+    "n": "La basura es competencia del Municipio. Sin costo definido.",
+    "cita": "Optimización de recolección; separación en origen; reciclaje; compostaje; educación y corresponsabilidad",
+    "pag": 15
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Poner cámaras de vigilancia en puntos estratégicos de la cabecera y parroquias.",
+    "que": "Poco a poco, en puntos elegidos con criterios técnicos y junto a la Policía y el ECU 911 (central de emergencias). Meta: cubrir al menos el 60 % de puntos críticos. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "La seguridad es de la Policía. El Municipio pone cámaras y coordina.",
+    "cita": "Implementación y repotenciación progresiva de cámaras de videovigilancia en punto estratégicos de la",
+    "pag": 12
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Registrar, esterilizar y dar en adopción a los animales de la ciudad.",
+    "que": "Incluye educación y control de la fauna urbana, en todo el cantón, con convenios. Plazo: años 1 a 4. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Es competencia municipal (fauna urbana). El plan no dice cuánto costará.",
+    "cita": "Registro, esterilización, adopción, educación y control responsable de fauna urbana.",
+    "pag": 15
+   }
+  ]
+ },
+ "metas": [
+  "Atender al menos el 70 % de los puntos críticos de calles municipales priorizados, al 2031.",
+  "Intervenir al menos 1 vez en cada una de las 6 parroquias rurales, al 2031.",
+  "Intervenir unos 500 metros priorizados del Centro Histórico, por fases.",
+  "Cubrir al menos el 60 % de puntos críticos con cámaras, al 2031.",
+  "Ejecutar el 85 % del presupuesto anual de inversión al cerrar el periodo."
+ ],
+ "notas": [
+  "Casi ninguna obra tiene costo definido; el plan dice que los costos quedan por determinar hasta tener estudios.",
+  "La seguridad y la Policía, el ECU 911 y las carreteras provinciales no son del Municipio; el plan los incluye en acuerdos."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32
+ ],
+ "paginas": 32
+}

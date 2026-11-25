@@ -1,0 +1,142 @@
+{
+ "enfoque": "Plan copiado en gran parte del plan de desarrollo del cantón (2025): agua, desagüe, aguas lluvias, calles, mercados y luces, con costos referenciales.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar el alcantarillado y las plantas que limpian aguas servidas en sectores priorizados.",
+    "que": "Cuesta USD 15 millones (2027–2031), sujeto a estudios y dinero disponible. El plan no dice qué sectores ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el costo depende de dinero aún no asegurado.",
+    "cita": "Resultado 2031 Sectores priorizados con estudios y ampliaciones ejecutadas",
+    "pag": 21
+   },
+   {
+    "t": "Hacer mapas de riesgo, estudios y obras contra inundaciones urbanas.",
+    "que": "Cuesta USD 18 millones (2027–2031), sujeto a estudios y dinero disponible. El plan no dice qué barrios se protegerán ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el costo depende de dinero aún no asegurado.",
+    "cita": "Resultado 2031 Mapa de riesgo, estudios y obras estructurales/no estructurales",
+    "pag": 22
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar y mantener calles urbanas y caminos rurales.",
+    "que": "Cuesta USD 18 millones (2027–2031), sujeto a dinero disponible. El plan no dice qué calles se arreglarán ni en qué orden.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el plan reconoce deuda alta, sobre el límite legal en 2022.",
+    "cita": "Programa de Rehabilitación y Mantenimiento de la Red Vial Urbana y Rural",
+    "pag": 18
+   },
+   {
+    "t": "Construir aceras accesibles, ciclovías y paraderos de bus.",
+    "que": "Cuesta USD 6 millones (2027–2031). El plan no dice cuántos kilómetros se harán ni en qué calles.",
+    "v": "alta",
+    "n": "Le toca al Municipio: calles y espacio público. Costo indicado en el plan.",
+    "cita": "Kilómetros construidos de aceras accesibles y ciclovías segregadas",
+    "pag": 31
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Mejorar barrios priorizados con obras y regularizar sus terrenos.",
+    "que": "Cuesta USD 5 millones (2027–2031). El plan no dice qué barrios se beneficiarán ni cuántos títulos de propiedad se entregarán.",
+    "v": "alta",
+    "n": "Le toca al Municipio: suelo y barrios. El plan no dice cómo se hará la titulación.",
+    "cita": "Programa Cantonal de Mejoramiento Integral de Barrios y Hábitat Digno",
+    "pag": 17
+   }
+  ],
+  "economia": [
+   {
+    "t": "Renovar mercados municipales y crear ferias regulares y una ventanilla para negocios.",
+    "que": "Cuesta USD 3 millones (2027–2031). El plan no dice qué mercados se renovarán ni cuándo se harán las ferias.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que administra los mercados. Costo indicado en el plan.",
+    "cita": "Modernización de la Red Cantonal de Mercados y Fomento al Emprendimiento",
+    "pag": 18
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Poner luces LED y alertas comunitarias en puntos priorizados.",
+    "que": "Cuesta USD 3 millones (2027–2031). El plan no dice qué puntos se intervendrán ni cuántos.",
+    "v": "media",
+    "n": "Luces y parques sí son del Municipio; la vigilancia y la policía no.",
+    "cita": "Programa Espacio Seguro: Iluminación LED, Alertas Comunitarias y Recuperación Urbana",
+    "pag": 19
+   },
+   {
+    "t": "Hacer un plan anual de prevención del delito con un consejo de seguridad.",
+    "que": "Cuesta USD 1 millón (2027–2031). El plan dice que la seguridad policial sigue siendo del Gobierno y el Municipio solo coordina.",
+    "v": "baja",
+    "n": "La policía no le toca al Municipio; solo puede coordinar.",
+    "cita": "Plan Local de Prevención del Delito y Consejo Cantonal de Seguridad Ciudadana",
+    "pag": 19
+   }
+  ]
+ },
+ "metas": [
+  "Tablero público de avances, actualizado cada tres meses.",
+  "Informe ciudadano cada seis meses.",
+  "Rendición de cuentas una vez al año.",
+  "Activar mesas de trabajo en los 30 distritos en los primeros cien días.",
+  "Validar la línea base de los indicadores durante 2027."
+ ],
+ "notas": [
+  "Mucho del plan viene del plan de desarrollo del cantón de 2025. Sumando los proyectos sale más de USD 97 millones, pero el plan dice 97.",
+  "Los costos son referenciales: el plan dice que dependen de estudios y dinero disponible. La deuda ya superó el límite legal en 2022.",
+  "Plan muy largo (53 págs.): se resumieron las 47 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  5,
+  7,
+  8,
+  9,
+  12,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53
+ ],
+ "paginas": 53
+}

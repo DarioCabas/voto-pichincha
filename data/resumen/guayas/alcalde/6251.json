@@ -1,0 +1,127 @@
+{
+ "enfoque": "Copiado en gran parte del plan de desarrollo del cantón. Propone basura, calles, agua y bóvedas, pero varias tareas son de la Prefectura, del Gobierno o de ministerios.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Ampliar la recolección de basura en la zona urbana y rural del cantón.",
+    "que": "Con hasta 2 recolectores nuevos. Costo de referencia: $450.000, con ingresos propios, crédito y cooperación. Meta: cubrir el 100% del territorio al 2031.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan pone costo de referencia.",
+    "cita": "Ampliación de la frecuencia de recolección de desechos sólidos en zona urbana y rural, con adquisición de hasta 2 recolectores de basura",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer un plan de limpieza, bacheo y arreglo de puntos críticos de calles.",
+    "que": "Tendrá un cronograma público de intervención. Está previsto en los primeros 100 días. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plazo es corto.",
+    "cita": "Plan de limpieza urbana, bacheo y atención de puntos críticos de vías",
+    "pag": 11
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Construir aceras, bordillos y asfaltar calles en sectores de la cabecera cantonal.",
+    "que": "Meta: 4 km de vías urbanas asfaltadas, con aceras y bordillos, al 2031. Costo de referencia del programa de vías: $2.000.000.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan pone costo de referencia.",
+    "cita": "Construcción de aceras, bordillos y asfaltado en sectores",
+    "pag": 5
+   },
+   {
+    "t": "Gestionar la reconformación de vías rurales con cascajo.",
+    "que": "El plan no dice cuánto costará ni cuándo. Depende de la Prefectura, que maneja las vías rurales.",
+    "v": "media",
+    "n": "La Prefectura decide. El alcalde solo gestiona.",
+    "cita": "Gestión de Reconformación de vías alternas rurales con material de cascajo",
+    "pag": 7
+   },
+   {
+    "t": "Gestionar la exoneración total o parcial del peaje para los habitantes del cantón.",
+    "que": "El plan no dice cuánto costará ni quién decide el peaje. Su meta es el resultado de la gestión.",
+    "v": "baja",
+    "n": "No es claramente competencia municipal. Depende de otra entidad.",
+    "cita": "Gestión para la exoneración total o, al menos, parcial",
+    "pag": 5
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Actualizar los sistemas de la Empresa Cantonal de Agua Potable (EPAPA-COLI).",
+    "que": "El plan no dice cuánto costará ni cuándo. Forma parte del programa de gestión municipal, con costo de referencia de $2.000.000.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Trata del agua potable.",
+    "cita": "Actualización de los sistemas de funcionamiento de la Empresa Cantonal de Agua Potable (EPAPA-COLI)",
+    "pag": 6
+   }
+  ],
+  "social": [
+   {
+    "t": "Donar y construir bóvedas para personas de escasos recursos, y donar cofres mortuorios.",
+    "que": "Costo de referencia: $500.000, con presupuesto municipal y convenios. El plan no dice cuántas bóvedas ni cuándo.",
+    "v": "media",
+    "n": "Puede hacerlo el Municipio, pero el plan no dice cuántas ni cuándo.",
+    "cita": "Donación y construcción de bóvedas para personas de escasos recursos, y donación de cofres mortuorios",
+    "pag": 6
+   },
+   {
+    "t": "Gestionar que el Subcentro de Salud atienda 24 horas.",
+    "que": "Es un convenio con el Ministerio de Salud. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "La salud no le toca al Municipio. Es del Ministerio de Salud.",
+    "cita": "Convenio para la ampliación de horario de atención del Subcentro de Salud a modalidad 2417",
+    "pag": 5
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Hacer el programa Barrios Seguros junto con el servicio de emergencias ECU 911.",
+    "que": "El plan no dice cuánto costará ni cuándo. Es un programa de coordinación con otras entidades.",
+    "v": "baja",
+    "n": "La policía y la seguridad no le tocan al Municipio.",
+    "cita": "Programa Barrios Seguros en articulación con ECU 911",
+    "pag": 6
+   }
+  ],
+  "economia": [
+   {
+    "t": "Gestionar kits de semillas y mecanización de suelo para asociaciones agrícolas.",
+    "que": "Meta: número de asociaciones beneficiadas, sin cifra. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de la Prefectura y del Ministerio de Agricultura.",
+    "cita": "Kits agrícolas y mecanización de suelo para asociaciones agrícolas",
+    "pag": 7
+   }
+  ]
+ },
+ "metas": [
+  "Recolección de basura en el 100% del territorio cantonal al 2031.",
+  "4 km de vías urbanas asfaltadas, con aceras y bordillos, al 2031.",
+  "Reducción del 25% de la sensación de inseguridad en zonas intervenidas, al 2031.",
+  "100% de las sesiones del Concejo transmitidas al 2031.",
+  "Vertedero técnico en operación y primer tramo de alcantarillado construido al 2031."
+ ],
+ "notas": [
+  "Gran parte del texto copia el plan de desarrollo del cantón. Muchas metas dependen de la Prefectura, el Gobierno y ministerios.",
+  "Solo algunas obras tienen costo de referencia. El plan no dice cómo se pagará la mayoría de las obras."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ],
+ "paginas": 13
+}

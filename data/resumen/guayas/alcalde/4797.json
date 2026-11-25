@@ -1,0 +1,124 @@
+{
+ "enfoque": "Plan para el cantón Playas: malecón, bajadas a la playa, catastros, ventanillas virtuales y cámaras con drones. Varias propuestas son de la Policía o de Salud.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Rediseñar el malecón de Playas.",
+    "que": "El plan prevé pagarlo con un crédito del Banco de Desarrollo del Ecuador. No dice cuánto costará. Incluye estudios y obras por fases.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de un préstamo y el plan no dice el costo.",
+    "cita": "mediante la modernización de la infraestructura costera, el rediseño del malecón y la dinamización de eventos",
+    "pag": 3
+   },
+   {
+    "t": "Adecuar las 32 bajadas a la playa con duchas, baños y seguridad.",
+    "que": "Son 32 bajadas. El plan no dice cuánto costará ni en qué plazo se harán.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará ni cuándo.",
+    "cita": "Adecuación de las 32 bajadas hacia la playa con servicios básicos (duchas, baños, seguridad).",
+    "pag": 4
+   },
+   {
+    "t": "Controlar y regular el uso del suelo urbano y rural, con catastros.",
+    "que": "Incluye actualizar los catastros, que son el registro de propiedades. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Es competencia del Municipio: uso del suelo y catastros.",
+    "cita": "regular el uso y ocupación del suelo urbano y rural, incluyendo catastros",
+    "pag": 9
+   }
+  ],
+  "otros": [
+   {
+    "t": "Proteger zonas costeras de inundaciones con muros, canales y dragados.",
+    "que": "Parte del dinero vendría de la Secretaría de Gestión de Riesgos y de préstamos. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Prevenir desastres es del Municipio, pero depende de fondos de otras entidades.",
+    "cita": "servicios de prevención, protección en zonas costeras vulnerables a inundaciones.",
+    "pag": 9
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear ventanillas virtuales para trámites municipales y asambleas populares.",
+    "que": "Busca trámites menos lentos y menos centralizados. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Son trámites y reuniones del Municipio, le toca al alcalde.",
+    "cita": "mediante procesos digitales, ventanillas virtuales y asambleas populares, asegurando transparencia",
+    "pag": 3
+   },
+   {
+    "t": "Publicar en internet contratos, compras y sueldos de funcionarios municipales.",
+    "que": "Será un portal de libre acceso. El plan dice que se verá en tiempo real. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: es información de sus propias cuentas.",
+    "cita": "Crearemos un portal web de libre acceso donde cada ciudadano podrá revisar los contratos",
+    "pag": 13
+   }
+  ],
+  "economia": [
+   {
+    "t": "Contratar mano de obra local obligatoria en las obras públicas del Municipio.",
+    "que": "Se hará con cláusulas en los contratos. El plan dice 70% mínimo de empleo local, sin costo extra.",
+    "v": "alta",
+    "n": "Le toca al Municipio, porque contrata sus propias obras.",
+    "cita": "contratación obligatoria de mano de obra local en la obra pública",
+    "pag": 3
+   },
+   {
+    "t": "Actualizar los catastros de propiedades para cobrar mejor las tasas locales.",
+    "que": "El plan dice que así se generan recursos propios. No dice cuánto se recaudará ni cuándo.",
+    "v": "alta",
+    "n": "Es función del Municipio: cobra sus propias tasas.",
+    "cita": "y una recaudación fiscal eficiente a través de catastros actualizados.",
+    "pag": 3
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Usar drones, cámaras de reconocimiento facial y un centro de monitoreo.",
+    "que": "Busca reducir delitos, en coordinación con las fuerzas aliadas. El plan no dice costo ni plazo.",
+    "v": "baja",
+    "n": "La policía no le toca al Municipio; solo puede coordinar.",
+    "cita": "a través del despliegue de drones, cámaras de reconocimiento facial y un centro de monitoreo permanente",
+    "pag": 3
+   }
+  ],
+  "social": [
+   {
+    "t": "Repotenciar el Centro de Salud Blas Mite y las brigadas médicas móviles.",
+    "que": "El plan no dice cuánto costará ni en qué plazo se hará.",
+    "v": "baja",
+    "n": "La salud le toca al Ministerio de Salud, no al Municipio.",
+    "cita": "repotenciando la infraestructura de salud pública y brigadas móviles.",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [
+  "Festivales: 16 en 4 años (4 por año).",
+  "Asambleas barriales de líderes: 16 en 4 años (4 por año).",
+  "Vías asfaltadas o adoquinadas: 5 km el año 1 y 10 km en cada año 2, 3 y 4.",
+  "Rendición de cuentas: 4 eventos al año."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra en dólares. Solo indica de dónde saldría el dinero y en qué año.",
+  "Varias propuestas son de policía, salud y escuelas, que no le tocan al Municipio. Solo podría coordinarlas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ],
+ "paginas": 13
+}

@@ -1,0 +1,125 @@
+{
+ "enfoque": "Plan de todo el equipo de la junta parroquial de Calacalí. Propone parques, caminos, ferias, abono, un vivero y un Domingo Cultural. Muchas cosas son pedir a otros.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Recuperar el parque ecológico El Carnero con lagunas, senderos y canchas.",
+    "que": "El plan quiere volver al diseño original del parque, con lagunas, senderos, canchas y restaurantes. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Los parques son de la junta, pero es una obra grande y el plan no dice el costo.",
+    "cita": "Retomar el diseño original y de funcionalidad del parque ecológico y turístico El Carnero con la recuperación de las lagunas",
+    "pag": 11
+   },
+   {
+    "t": "Pedir mantenimiento continuo para parques, monumentos y atractivos de la parroquia.",
+    "que": "El plan dice 'gestionar', es decir pedir y coordinar, no pagar directamente. No dice cuánto costará ni quién pondrá el dinero.",
+    "v": "alta",
+    "n": "Los parques sí son de la junta. El plan no dice de dónde sale el dinero.",
+    "cita": "Gestionar el mantenimiento continuo de parques, monumentos y atractivos de la parroquia.",
+    "pag": 11
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Cuidar el mantenimiento de los caminos vecinales que llegan a las comunidades.",
+    "que": "El plan habla de gestionar y autogestionar el mantenimiento de los caminos. No dice cuánto costará ni cada cuánto se hará.",
+    "v": "media",
+    "n": "Los caminos se cuidan junto con la Prefectura. Hace falta un acuerdo y el plan no dice el costo.",
+    "cita": "Gestión y autogestión para el mantenimiento vial de los caminos vecinales hacia los diferentes lugares y comunidades de la parroquia",
+    "pag": 9
+   }
+  ],
+  "economia": [
+   {
+    "t": "Seguir con las ferias de productores de la parroquia.",
+    "que": "El plan dice que dará continuidad a las ferias. No dice dónde, cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "Apoyar a productores es de la junta. El plan no dice dónde ni cuándo.",
+    "cita": "Gestionar y dar continuidad a las Ferias de nuestros productores",
+    "pag": 9
+   },
+   {
+    "t": "Dar apoyo con tractores agrícolas a los agricultores.",
+    "que": "El plan no dice cuántos tractores hay ni cuánto cuesta comprarlos o mantenerlos. Tampoco dice a quién llegarán.",
+    "v": "media",
+    "n": "Ayuda a agricultores, pero el plan no dice cuántos tractores hay ni el costo.",
+    "cita": "Potenciar la Flota de Tractores Agrícolas para apoyo a la producción de nuestros agricultores.",
+    "pag": 9
+   },
+   {
+    "t": "Crear y usar abono orgánico para los agricultores de la parroquia.",
+    "que": "El plan no dice cómo se hará, cuánto costará ni cuándo empezará.",
+    "v": "alta",
+    "n": "Apoyar a productores sí es de la junta. El plan no dice cómo ni cuánto cuesta.",
+    "cita": "Potenciar la creación y el uso de abono orgánico para nuestros agricultores",
+    "pag": 9
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Crear una unidad de control ambiental propia de la junta parroquial.",
+    "que": "El plan dice que sería independiente del Municipio. No dice quién la pagará, cuánto personal tendría ni cuándo empezará.",
+    "v": "media",
+    "n": "Controlar el ambiente sí es de la junta, pero necesita personal y dinero que el plan no dice.",
+    "cita": "Gestionar y crear una Unidad de Control Ambiental por parte del Gad Parroquial",
+    "pag": 9
+   },
+   {
+    "t": "Crear un vivero para sembrar árboles en parques y espacios verdes.",
+    "que": "El plan dice que el vivero producirá plantas y árboles para espacios públicos. No dice dónde estará, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Ambiente y parques sí son de la junta. El plan no dice dónde ni el costo.",
+    "cita": "Creación de un vivero forestal con la finalidad de producir plantas y arboles para forestar y reforestar los espacios públicos",
+    "pag": 12
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer un Domingo Cultural cada tres meses con danza y juegos tradicionales.",
+    "que": "El plan dice que será cada trimestre, con danza, artes, juegos tradicionales y emprendimientos. No dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí es de la junta. Falta decir el lugar y el presupuesto.",
+    "cita": "Articular, promover y fortalecer la danza, las artes, los juegos tradicionales, los emprendimientos",
+    "pag": 12
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Buscar solución para el agua potable con la institución que le toca.",
+    "que": "El plan dice que lo hará con la institución competente. No dice qué obra se hará ni cuándo.",
+    "v": "baja",
+    "n": "El agua potable no le toca a la junta. Le toca a otra institución.",
+    "cita": "Priorizar la solución definitiva de la problemática del servicio básico del agua potable con la institución competente.",
+    "pag": 7
+   }
+  ]
+ },
+ "metas": [
+  "Domingo Cultural cada tres meses.",
+  "Rendición de cuentas una vez al año, en eventos públicos.",
+  "Plan para los años 2027 a 2031, con actividades por año."
+ ],
+ "notas": [
+  "El plan casi no dice cuánto costará ni de dónde sale el dinero. Muchas propuestas son 'gestionar': pedir a otras instituciones.",
+  "Gran parte del texto son datos nacionales. Dice ser del Partido Socialista, aunque la lista es Unidad Ciudadana."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15
+ ],
+ "paginas": 15
+}

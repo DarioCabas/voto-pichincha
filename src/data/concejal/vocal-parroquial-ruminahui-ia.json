@@ -1,0 +1,815 @@
+{
+  "canton": "RUMIÑAHUI",
+  "candidatos": [
+    {
+      "codFormulario": 6730,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan copiado en gran parte del plan de desarrollo de la parroquia y del cantón. Propone parques, ferias, reforestación y caminos, pero casi no dice costos ni plazos.",
+      "tabla": {
+        "urbano": [
+          {
+            "t": "Renovar el Parque Central y el mirador Los Suspiros.",
+            "que": "El plan no dice cuánto costará ni cuándo se hará.",
+            "v": "alta",
+            "n": "Los parques sí le tocan a la junta. Falta el costo.",
+            "cita": "Renitalización del Parque Central Y Mirador, los suspiros",
+            "pag": 16
+          },
+          {
+            "t": "Mantener el parque de Cotogchoa y la Escalinata.",
+            "que": "El plan no dice cuánto costará ni cuándo se hará.",
+            "v": "alta",
+            "n": "Los parques sí le tocan a la junta. Falta el costo.",
+            "cita": "Mantenimiento integral del parque de Cotogchoa y la Escalinata de",
+            "pag": 16
+          }
+        ],
+        "economia": [
+          {
+            "t": "Hacer ferias de productos agroecológicos del campo a la mesa.",
+            "que": "El plan no dice dónde ni cuándo serán las ferias ni cuánto costarán.",
+            "v": "alta",
+            "n": "Organizar ferias sí le toca a la junta.",
+            "cita": "Consolidación de ferias agroecológicas de campo a la mesa,",
+            "pag": 14
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Crear una mesa técnica con el Municipio para revisar rutas y horarios de buses.",
+            "que": "El plan no dice cuándo se reunirá ni cuánto costará.",
+            "v": "media",
+            "n": "Necesita acuerdo con el Municipio. No es solo de la junta.",
+            "cita": "Mesa técnica de movilidad rural, gestión GADMUR para la",
+            "pag": 15
+          },
+          {
+            "t": "Hacer un plan de mantenimiento de calles y caminos con adoquín y bacheo.",
+            "que": "El plan no dice cuánto costará ni cuándo. Dice que se hará de forma concurrente o directa.",
+            "v": "media",
+            "n": "Caminos son competencia compartida. Falta el costo.",
+            "cita": "Plan de manesimiento vlal (gestión concurrente o directa",
+            "pag": 15
+          },
+          {
+            "t": "Desarrollar el circuito de ciclismo de montaña y senderismo.",
+            "que": "El plan no dice cuánto costará ni cuándo. Conecta antiguas haciendas del sector.",
+            "v": "media",
+            "n": "Necesita apoyo del Municipio o la Prefectura. Falta el costo.",
+            "cita": "Potenciamiento del circuito de ciclismo de montaña y senderismo",
+            "pag": 16
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Hacer programas comunitarios para prevenir el consumo de alcohol y sustancias dañinas.",
+            "que": "El plan no dice cuánto costará, quién lo dará ni cuándo.",
+            "v": "media",
+            "n": "Organizar a la comunidad sí. La policía y la salud no le tocan.",
+            "cita": "Programas comunitarios de prevención del consumo de alcohol y sustancias nocivas",
+            "pag": 14
+          }
+        ],
+        "social": [
+          {
+            "t": "Crear una escuela de liderazgo para formar dirigentes de la parroquia.",
+            "que": "El plan no dice cuándo empieza ni cuánto costará.",
+            "v": "alta",
+            "n": "Organizar a la comunidad sí le toca a la junta.",
+            "cita": "Escuela de liderazgo. Programa permanente de formación étnica y política",
+            "pag": 15
+          }
+        ],
+        "otros": [
+          {
+            "t": "Crear un fondo con dinero público y privado para la infraestructura deportiva.",
+            "que": "El plan no dice cuánto dinero tendrá ni cuándo empieza.",
+            "v": "baja",
+            "n": "Necesita dinero de otras fuentes y acuerdos. Falta el costo.",
+            "cita": "Crear el fondo público-privado FONDIEPOATE para implementar el",
+            "pag": 16
+          }
+        ]
+      },
+      "metas": [
+        "Plan de acción de 100 días (las fechas no se leen bien en el texto)."
+      ],
+      "notas": [
+        "Gran parte del texto está copiado del plan de desarrollo de la parroquia y del cantón. Varias propuestas son de otros niveles.",
+        "El plan casi no dice cuánto costará ni de dónde saldrá el dinero. Parte del texto no se lee bien."
+      ]
+    },
+    {
+      "codFormulario": 10528,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan copiado en gran parte del plan de desarrollo parroquial: parques, caminos con la Prefectura, ferias, cursos y organización barrial. No dice costos.",
+      "tabla": {
+        "urbano": [
+          {
+            "t": "Recuperar parques, casas comunales y espacios de encuentro.",
+            "que": "Mantener y mejorar la infraestructura y los equipamientos de la parroquia. El plan no dice cuánto costará ni en qué lugares se hará.",
+            "v": "alta",
+            "n": "Le toca a la junta: espacios y equipamientos parroquiales.",
+            "cita": "Se orientará al mantenimiento y mejoramiento de infraestructura y equipamientos parroquiales, competencia expresamente reconocida al GAD Parroquial",
+            "pag": 29
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Mejorar y mantener las vías rurales de la parroquia.",
+            "que": "Mejorar trazados, intervenir vías y dar mantenimiento periódico, en coordinación con el Gobierno Provincial. El plan no dice cuánto costará ni qué vías.",
+            "v": "media",
+            "n": "Los caminos se hacen junto con la Prefectura, no solo con la junta.",
+            "cita": "En vialidad, el PDOT plantea mejorar trazados, intervenir vías y desarrollar mantenimiento periódico de la red vial parroquial",
+            "pag": 27
+          }
+        ],
+        "economia": [
+          {
+            "t": "Hacer ferias periódicas para vender productos locales.",
+            "que": "Ferias periódicas, circuitos cortos, promoción digital y venta con mercados y eventos del cantón. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Organizar ferias es tarea que sí puede hacer la junta.",
+            "cita": "Buscará fortalecer la comercialización local mediante ferias periódicas, circuitos cortos, promoción digital y articulación con mercados y eventos cantonales.",
+            "pag": 29
+          },
+          {
+            "t": "Apoyar la producción agrícola, forestal y de conservación.",
+            "que": "El plan cita USD 80.000 para cuatro años para este programa, tomado del plan parroquial 2024-2027. No dice en qué se gastará.",
+            "v": "alta",
+            "n": "Apoyar a productores sí le toca a la junta.",
+            "cita": "eon una programación de USD 80.000 para cuatro años en el PDOT 2024-2027",
+            "pag": 27
+          },
+          {
+            "t": "Dar cursos de emprendimiento y liderazgo a jóvenes y mujeres.",
+            "que": "Cursos sobre ventas, asociarse, herramientas digitales, finanzas y liderazgo para jóvenes, mujeres, productores y emprendedores. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Dar cursos es tarea que sí puede hacer la junta.",
+            "cita": "Orientada a jóvenes, mujeres, productores y emprendedores, con formación en comercialización, asociatividad, herramientas digitales, finanzas y liderazgo comunitario",
+            "pag": 29
+          },
+          {
+            "t": "Hacer un plan de turismo parroquial y rutas agroecológicas.",
+            "que": "El plan dice que se contempla un plan de turismo, agroturismo y rutas agroecológicas. No dice cuándo se hará ni cuánto costará.",
+            "v": "media",
+            "n": "Necesita acuerdos con otros niveles de gobierno; el plan no dice cuáles.",
+            "cita": "contempla la elaboración de un Plan Turístico Parroquial, así como el desarrollo del agroturismo y rutas agroecológicas",
+            "pag": 11
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Organizar a los barrios para prevenir riesgos y emergencias.",
+            "que": "Crear mapas de riesgo, protocolos comunitarios y acciones preventivas con cada barrio, y coordinar con quienes tienen competencia. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Organizar a los barrios sí le toca a la junta; la policía no.",
+            "cita": "Se desarrollará mediante organización barrial, mapas de riesgos, protocolos comunitarios, coordinación con instituciones competentes y acciones preventivas.",
+            "pag": 29
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Informar a los vecinos sobre proyectos, presupuesto y compromisos.",
+            "que": "Informar de forma periódica sobre proyectos, presupuesto, convenios, cronogramas y compromisos, con una plataforma. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Informar a los vecinos es tarea de la junta.",
+            "cita": "Permitirá informar periódicamente sobre proyectos, presupuesto, convenios, cronogramas, compromisos",
+            "pag": 29
+          }
+        ],
+        "otros": [
+          {
+            "t": "Crear una marca 'Cotogchoa' para promocionar la parroquia.",
+            "que": "Juntar producción, gastronomía, turismo, cultura y emprendimientos bajo una misma identidad para promoción. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Promoción y ferias son tareas de la junta; el costo no se indica.",
+            "cita": "Permitirá integrar producción agropecuaria, gastronomía, turismo, cultura, patrimonio y emprendimiento bajo una identidad común de promoción parroquial.",
+            "pag": 29
+          }
+        ]
+      },
+      "metas": [
+        "Seguimiento de metas e indicadores cada tres meses.",
+        "Periodo del plan: 2027-2031.",
+        "Rendición de cuentas al final del periodo 2027-2031.",
+        "USD 80.000 para cuatro años en producción, cifra tomada del plan parroquial 2024-2027."
+      ],
+      "notas": [
+        "Plan copiado en gran parte del plan de desarrollo parroquial y de otros cargos: habla de Concejalía y de Alcaldía.",
+        "El plan no dice cuánto costará casi ninguna propuesta ni de dónde saldrá el dinero. Varias obras dependen del Municipio y la Prefectura."
+      ]
+    },
+    {
+      "codFormulario": 42,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Cuidar parques, casas comunales, caminos rurales y el ambiente, y apoyar ferias y productores. Varias obras dependen del Municipio y la Prefectura.",
+      "tabla": {
+        "social": [
+          {
+            "t": "Gestionar el mantenimiento de casas comunales y espacios recreativos.",
+            "que": "El plan no dice cuánto costará ni cuándo se hará. No dice de dónde saldrá el dinero.",
+            "v": "alta",
+            "n": "Está dentro de lo que puede hacer la junta, pero el plan no dice cómo lo pagará.",
+            "cita": "Gestionar el mantenimiento y fortalecimiento de casas comunales, espacios recreativos",
+            "pag": 2
+          },
+          {
+            "t": "Apoyar cursos para dirigentes comunitarios y organizaciones sociales.",
+            "que": "El plan no dice cuántos cursos habrá, dónde ni cuándo se darán.",
+            "v": "alta",
+            "n": "Capacitar a dirigentes sí le toca a la junta.",
+            "cita": "Apoyar procesos de capacitación para dirigentes comunitarios y organizaciones sociales.",
+            "pag": 2
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Presentar proyectos para mejorar parques, áreas verdes y espacios públicos.",
+            "que": "El plan no dice qué parques ni cuánto costará. No dice cuándo se harán.",
+            "v": "alta",
+            "n": "Los parques sí son competencia de la junta. El plan no dice con qué dinero.",
+            "cita": "Impulsar proyectos para mejorar los espacios públicos, áreas verdes, parques y equipamientos comunitarios.",
+            "pag": 3
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Coordinar el arreglo de caminos rurales y accesos a las comunidades.",
+            "que": "El plan no dice qué caminos se arreglarán ni cuánto costará. No dice en qué plazo.",
+            "v": "media",
+            "n": "Los caminos se arreglan con la Prefectura. La junta solo coordina.",
+            "cita": "Coordinar acciones para el mantenimiento de la vialidad rural y los accesos comunitarios.",
+            "pag": 3
+          }
+        ],
+        "economia": [
+          {
+            "t": "Organizar ferias agrícolas, gastronómicas y artesanales para vender productos locales.",
+            "que": "El plan no dice dónde ni cuándo serán las ferias, ni cuánto costarán.",
+            "v": "alta",
+            "n": "Las ferias sí le tocan a la junta, con poco presupuesto.",
+            "cita": "Impulsar ferias agrícolas, gastronómicas, artesanales y espacios de comercialización",
+            "pag": 3
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Promover la protección de fuentes de agua, quebradas y bosques.",
+            "que": "El plan no dice qué fuentes ni qué acciones concretas. No dice cuánto costará.",
+            "v": "alta",
+            "n": "Cuidar el ambiente sí le toca a la junta. El plan no dice con qué recursos.",
+            "cita": "Promover la protección de fuentes de agua, quebradas, bosques y áreas de importancia",
+            "pag": 3
+          },
+          {
+            "t": "Hacer campañas de reforestación, educación ambiental y recuperación de espacios naturales.",
+            "que": "El plan no dice cuántos árboles, en qué lugares ni cuándo se harán las campañas.",
+            "v": "alta",
+            "n": "La siembra de árboles y la educación ambiental le tocan a la junta.",
+            "cita": "Gestionar campañas de reforestación, educación ambiental y recuperación de espacios",
+            "pag": 3
+          },
+          {
+            "t": "Coordinar acciones para prevenir incendios forestales.",
+            "que": "El plan no dice con qué instituciones ni cuándo. No dice cuánto costará.",
+            "v": "media",
+            "n": "Prevenir incendios requiere trabajo con otras instituciones. El plan no las nombra.",
+            "cita": "Coordinar acciones de prevención de incendios forestales y gestión de riesgos.",
+            "pag": 4
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Gestionar acciones para el servicio de agua potable y saneamiento.",
+            "que": "El plan no dice qué obras ni cuánto costarán. Pide gestionarlas ante otras instituciones.",
+            "v": "baja",
+            "n": "El agua potable le toca a otro nivel de gobierno, no a la junta.",
+            "cita": "Gestionar acciones para fortalecer los servicios de agua potable, saneamiento,",
+            "pag": 3
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Hacer asambleas parroquiales periódicas para informar sobre la gestión.",
+            "que": "El plan no dice cada cuánto ni dónde serán las asambleas.",
+            "v": "alta",
+            "n": "Informar a la gente sobre el trabajo de la junta sí le toca a la junta.",
+            "cita": "Asambleas parroquiales periódicas para informar sobre la gestión realizada.",
+            "pag": 4
+          }
+        ]
+      },
+      "metas": [
+        "Período de trabajo: 2027 a 2031."
+      ],
+      "notas": [
+        "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+        "El diagnóstico menciona Cotogchoa y Rumipamba; el texto parece general y no detalla obras concretas."
+      ]
+    },
+    {
+      "codFormulario": 11011,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan de vocales de Cotogchoa: caminos rurales con la Prefectura, prevención de riesgos, apoyo a productores, cuidado del ambiente y organización comunitaria. No dice cuánto costará.",
+      "tabla": {
+        "seguridad": [
+          {
+            "t": "Organizar a la comunidad para prevenir riesgos y prepararse ante emergencias.",
+            "que": "El plan menciona mapa de riesgos, comités comunitarios y simulacros. Dice que no reemplaza a la Policía ni a Bomberos. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la junta: organizar a la comunidad. No sustituye a Policía ni Bomberos.",
+            "cita": "Coordinar prevención comunitaria y preparación ante riesgos, sin sustituir a Policia, Bomberos ni al ente rector.",
+            "pag": 8
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Planificar y mantener caminos vecinales junto con la Prefectura.",
+            "que": "Se hará junto con la Prefectura de Pichincha, con planificación y mantenimiento de la vialidad rural. El plan no dice cuánto costará ni en qué plazo.",
+            "v": "media",
+            "n": "Necesita acuerdo con la Prefectura. El plan no dice cuánto costará.",
+            "cita": "Planificar y mantener, coordinadamente con el GAD Provincial, la vialidad parroquial rural y gestionar conectividad segura.",
+            "pag": 8
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Planificar, construir y mantener espacios públicos, equipamientos e infraestructura de la parroquia.",
+            "que": "Solo se harán obras incluidas en la planificación y el presupuesto participativo. Las obras grandes dependen de estudios, permisos y convenios. El plan no fija montos.",
+            "v": "media",
+            "n": "Obras grandes necesitan estudios y convenios. El plan no dice cuánto costarán.",
+            "cita": "Planificar, construir y mantener infraestructura, equipamientos y espacios públicos parroquiales incluidos en planificación y presupuesto participativo,",
+            "pag": 8
+          }
+        ],
+        "economia": [
+          {
+            "t": "Apoyar a productores con asistencia técnica, ferias y ventas a mercados.",
+            "que": "El plan habla de asistencia técnica, ferias y acceso a mercados para productores y emprendedores. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la junta: ferias y apoyo a productores. El plan no dice cuánto costará.",
+            "cita": "Incentivar actividades productivas comunitarias y fortalecer asociatividad y acceso a mercados,",
+            "pag": 8
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Cuidar la biodiversidad y el ambiente junto con la comunidad.",
+            "que": "El plan habla de proteger quebradas y zonas de recarga, y del paisaje rural. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la junta: organizar a la comunidad y cuidar el ambiente.",
+            "cita": "Incentivar preservación de biodiversidad, protección ambiental y coresponsabilidad comunitaria.",
+            "pag": 8
+          }
+        ],
+        "social": [
+          {
+            "t": "Organizar a la comunidad y apoyar la inclusión, la identidad y el turismo sostenible.",
+            "que": "El plan habla de atender a grupos de atención prioritaria, jóvenes e identidad, y de turismo rural de cercanía. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la junta: organizar a la comunidad. El plan no dice cuánto costará.",
+            "cita": "Promover organización social, inclusión comunitaria, identidad y turismo sostenible dentro de las competencias parroquiales.",
+            "pag": 8
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Atender a vecinos en persona y por internet, con registro y respuesta.",
+            "que": "Cada pedido se anotará, se derivará a la institución que corresponda y tendrá respuesta. Es de atención permanente. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la junta. El plan no dice cuánto costará.",
+            "cita": "Atención ciudadana Canales presenciales y digitales: registro, derivación y respuesta.",
+            "pag": 12
+          },
+          {
+            "t": "Presentar avances a los vecinos en asambleas y rendir cuentas cada año.",
+            "que": "Informes cada seis meses y al menos dos asambleas parroquiales por año. Rendición de cuentas una vez al año. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la junta: son reuniones e informes del mismo cargo.",
+            "cita": "Informe de gestión Resultados, dificultades, medidas correctivas y evidencia",
+            "pag": 12
+          }
+        ]
+      },
+      "metas": [
+        "Asambleas parroquiales: 2 por año.",
+        "Informe de gestión cada seis meses.",
+        "Rendición de cuentas una vez al año.",
+        "Seguimiento de convenios cada tres meses.",
+        "Evaluación final del plan en 2031."
+      ],
+      "notas": [
+        "La certificación (pág. 3) dice 'candidatura a la Alcaldía', no vocales de la junta. Revisar antes de votar.",
+        "La tabla de metas (págs. 9-10) está muy dañada por el escaneo; costos y plazos por obra no se pudieron leer bien."
+      ]
+    },
+    {
+      "codFormulario": 6694,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan copiado en gran parte de la ley y del plan de desarrollo de la parroquia. Lo concreto: cuidar ríos y páramos, dar cursos a vecinos, apoyar productores y promover turismo.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Poner en marcha la \"silla vacía\" para que los vecinos participen en las decisiones de la junta.",
+            "que": "El plan no explica cómo funcionará la silla vacía. No dice cuánto costará ni cuándo se hará.",
+            "v": "alta",
+            "n": "La junta puede hacerlo sola. Es participación de vecinos, sin obra grande.",
+            "cita": "Fortalecer la participación ciudadana mediante la implernentación de la Sálla Vacía en la toma de decisiones del GAD Parroquial",
+            "pag": 13
+          },
+          {
+            "t": "Buscar unir a varias parroquias en una mancomunidad para cuidar el suelo.",
+            "que": "Una mancomunidad es un acuerdo entre varias parroquias o cantones. El plan no dice cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "Necesita acuerdos con otras parroquias o con el Municipio. No es solo de la junta.",
+            "cita": "Impulsar y promover la Mancomunidad enla parroquia Rumipamia, para el correcto 150 del suelo",
+            "pag": 13
+          }
+        ],
+        "social": [
+          {
+            "t": "Dar cursos a vecinos sobre cómo vigilar a la junta y decidir en qué gastar el dinero.",
+            "que": "Los cursos serían de control social y presupuestos participativos. El plan no dice cuántos cursos ni cuándo.",
+            "v": "alta",
+            "n": "Cursos y reuniones: lo puede hacer la junta con poco dinero.",
+            "cita": "Fortalecer la Participación Ciudadana mediante capacitaciones en contral social y presupuestos participativos",
+            "pag": 13
+          }
+        ],
+        "economia": [
+          {
+            "t": "Apoyar a pequeños negocios y a la economía popular y solidaria de la parroquia.",
+            "que": "Economía popular y solidaria es el trabajo de grupos comunitarios. El plan no dice qué apoyo dará, cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "La junta puede apoyar productores, pero el plan no dice con qué dinero.",
+            "cita": "Impulsar las PYMES y la Econornia Popular y Solidarla",
+            "pag": 13
+          },
+          {
+            "t": "Crear proyectos de turismo comunitario y puntos de información turística en la parroquia.",
+            "que": "El plan dice que esto ayudará a rescatar la cultura y tradición de Rumipamba. No dice cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "La junta puede promover el turismo. El plan no dice con qué dinero.",
+            "cita": "Crear e Implementar proectos de turismo comunitario sostenible y puntos de información turistica",
+            "pag": 13
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Cuidar páramos, bosques, ríos y quebradas para reducir riesgos relacionados con el agua.",
+            "que": "El plan no dice qué acciones concretas hará. No dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Cuidar el ambiente es tarea de la junta. Las acciones concretas no están en el plan.",
+            "cita": "Proteger páramos, bosques, ríos y quebradas, para mitigar y reducir el riesgo hidrológico",
+            "pag": 13
+          },
+          {
+            "t": "Dar charlas y cursos a vecinos sobre cómo manejar la basura y los desechos.",
+            "que": "El plan no dice cuántas charlas habrá, cuándo ni cuánto costará.",
+            "v": "alta",
+            "n": "Charlas y cursos: tarea que puede hacer la junta con poco dinero.",
+            "cita": "Socializar y capacitar el correcto manejo de desechos",
+            "pag": 13
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Buscar formas de mejorar el servicio de transporte público de la parroquia.",
+            "que": "El plan no dice qué formas usará, cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "El transporte le toca sobre todo al Municipio, no a la junta.",
+            "cita": "Implementar mecanismos parroquiales para mejorar el servicio público de transporte",
+            "pag": 13
+          }
+        ],
+        "otros": [
+          {
+            "t": "Poner al día el plan de riesgos y crear avisos tempranos para prevenir desastres.",
+            "que": "El plan no dice cuánto costará ni cuándo. También habla de enseñar a prevenir.",
+            "v": "media",
+            "n": "Los avisos tempranos necesitan apoyo del Municipio o de la Prefectura.",
+            "cita": "actualizando el Plan de Riesgos, fortaleciendo infraestructura de alerta temprana y promoviendo la educación para la prevención",
+            "pag": 13
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan no dice cuánto costará nada ni en qué plazo se hará. Tampoco pone metas con números.",
+        "La parte de propuestas (páginas 14 a 17) salió ilegible. Muchas frases vienen de la ley y de los planes de la parroquia."
+      ]
+    },
+    {
+      "codFormulario": 10529,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan copiado del plan de desarrollo de la parroquia: caminos, producción, turismo, ambiente y organización. Varias obras dependen de la Prefectura o del Municipio.",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Hacer mantenimiento y mejoras a caminos y vías rurales, junto con la Prefectura.",
+            "que": "El plan menciona caminos en La Unión, San Antonio, Cruz Pamba, Gobernador, La Comuna, San Pablo, El Cascajo, La Moca y El Zuro. El plan no dice cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "Necesita acuerdo con la Prefectura. El plan no dice cuánto costará.",
+            "cita": "Gestionar y ejecutar progresivamente acciones de mantenimiento y mejoramiento de la vialidad parroquial rural, en coordinación con el GAD Provincial de Pichincha.",
+            "pag": 13
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Arreglar y cuidar parques y espacios públicos de la parroquia, según prioridades y presupuesto.",
+            "que": "El plan habla de cuidar la infraestructura y los espacios públicos parroquiales según prioridades ciudadanas y presupuesto. El plan no dice qué espacios ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la junta. El plan no dice qué espacios ni cuánto costará.",
+            "cita": "Fortalecer progresivamente la infraestructura, equipamientos y espacios públicos de competencia parroquial, conforme a planificación, prioridades ciudadanas y disponibilidad presupuestaria.",
+            "pag": 13
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Plantar árboles y recuperar zonas degradadas en sectores priorizados de la parroquia.",
+            "que": "El plan propone reforestación y restauración ambiental en sectores priorizados, sin decir cuáles. El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Cuidar el ambiente le toca a la junta. El plan no dice dónde ni cuánto costará.",
+            "cita": "Impulsar progresivamente acciones de reforestación, restauración y recuperación ambiental en sectores priorizados de la parroquia.",
+            "pag": 12
+          },
+          {
+            "t": "Cuidar fuentes de agua, quebradas y ecosistemas con participación de la comunidad.",
+            "que": "El plan propone proteger fuentes de agua, quebradas y ecosistemas, con participación comunitaria y apoyo de otras instituciones. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Cuidar el ambiente y organizar a la comunidad sí le toca. El plan no dice cuánto costará.",
+            "cita": "Promover acciones de conservación, protección y recuperación de fuentes hídricas, quebradas y ecosistemas naturales mediante participación comunitaria y articulación institucional.",
+            "pag": 12
+          }
+        ],
+        "economia": [
+          {
+            "t": "Dar capacitación y asistencia técnica a productores agrícolas y ganaderos.",
+            "que": "El plan propone capacitación, asistencia técnica y asociarse entre productores, con apoyo de otras instituciones. El plan no dice cuántos cursos ni cuánto costará.",
+            "v": "alta",
+            "n": "Organizar cursos y apoyar productores sí le toca. El plan no dice cuánto costará.",
+            "cita": "Fortalecer las capacidades de los productores agrícolas y ganaderos mediante capacitación, asistencia técnica, asociatividad y articulación con las instituciones competentes.",
+            "pag": 12
+          },
+          {
+            "t": "Ayudar a productores y emprendedores a vender en ferias y otros espacios.",
+            "que": "El plan busca que productores y emprendedores tengan acceso a ferias y espacios de venta, de forma progresiva. El plan no dice cuántas ferias ni cuánto costará.",
+            "v": "alta",
+            "n": "Organizar ferias y apoyar productores le toca a la junta.",
+            "cita": "Promover mecanismos de organización y articulación que faciliten progresivamente el acceso de productores y emprendedores a espacios de promoción y comercialización.",
+            "pag": 13
+          },
+          {
+            "t": "Armar rutas turísticas rurales, con guías locales y festivales.",
+            "que": "El plan ya propone rutas turísticas rurales, turismo comunitario, guías locales, festivales gastronómicos y culturales y promoción digital. El plan no dice dónde ni cuánto costará.",
+            "v": "media",
+            "n": "Necesita acuerdo con el Municipio o la Prefectura. El plan no dice cuánto costará.",
+            "cita": "El documento inicial ya plantea rutas turísticas rurales, turismo comunitario, guías locales, festivales gastronómicos y culturales y promoción digital.",
+            "pag": 16
+          }
+        ],
+        "social": [
+          {
+            "t": "Organizar actividades deportivas, culturales y recreativas para toda la parroquia.",
+            "que": "El plan propone actividades deportivas, recreativas, culturales y comunitarias para la población. El plan no dice cuántas ni cuánto costará.",
+            "v": "alta",
+            "n": "Organizar actividades para la comunidad le toca a la junta.",
+            "cita": "Promover actividades deportivas, recreativas, culturales y comunitarias que fortalezcan la integración y participación de la población.",
+            "pag": 12
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Rendir cuentas al público cada año y al final del periodo.",
+            "que": "El plan prevé informar cada año sobre resultados, avances y presupuesto, y publicar la información. El plan no dice cómo se hará ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la junta. El plan no dice cuánto costará.",
+            "cita": "El GAD Parroquial Rural de Rumipamba implementará mecanismos públicos y periódicos que permitan a la ciudadanía conocer el avance del Plan de Trabajo",
+            "pag": 2
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Pedir al Municipio que atienda agua potable, alcantarillado y saneamiento.",
+            "que": "La junta gestionará y dará seguimiento ante el Municipio, que es quien ejecuta. El plan no dice cuándo ni cuánto costará.",
+            "v": "baja",
+            "n": "Le toca al Municipio, no a la junta.",
+            "cita": "Gestionar y dar seguimiento ante el GAD Municipal de Rumiñahui a la atención progresiva de las necesidades priorizadas de agua potable, alcantarillado y saneamiento.",
+            "pag": 13
+          }
+        ]
+      },
+      "metas": [
+        "Rendir cuentas cada año entre 2027 y 2031, y una rendición final al terminar el periodo.",
+        "Ejecutar o gestionar cada año las acciones priorizadas de vialidad, ambiente y turismo. El plan no pone cifras."
+      ],
+      "notas": [
+        "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero exacto; solo menciona fuentes en general.",
+        "Mucho del texto es copia del plan de desarrollo de la parroquia y del cantón. Varias obras dependen de la Prefectura o el Municipio."
+      ]
+    },
+    {
+      "codFormulario": 8077,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan general para Rumipamba: ferias y ayuda a productores, cuidado de caminos, parques, ambiente y reuniones con la comunidad. No dice cuánto costará.",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Coordinar el mantenimiento de caminos rurales y accesos a las comunidades.",
+            "que": "El plan dice que se coordinarán acciones de mantenimiento de la vialidad rural. No dice qué caminos, cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "Se hace junto con la Prefectura. La junta solo coordina.",
+            "cita": "Coordinar acciones para el mantenimiento de la vialidad rural y los accesos comunitarios.",
+            "pag": 4
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Hacer proyectos para arreglar espacios públicos, áreas verdes y parques.",
+            "que": "El plan no dice qué parques ni cuánto costará. No dice cuándo se harán ni de dónde saldrá el dinero.",
+            "v": "alta",
+            "n": "Es tarea de la junta, pero el plan no dice de dónde sale el dinero.",
+            "cita": "Impulsar proyectos para mejorar los espacios públicos, áreas verdes, parques y equipamientos comunitarios.",
+            "pag": 4
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Proteger las fuentes de agua, quebradas, bosques y zonas ecológicas.",
+            "que": "El plan no dice qué fuentes ni qué acciones concretas. No dice cuánto costará ni cuándo se hará.",
+            "v": "alta",
+            "n": "Cuidar el ambiente es competencia de la junta.",
+            "cita": "Promover la protección de fuentes de agua, quebradas, bosques y áreas de importancia ecológica.",
+            "pag": 4
+          },
+          {
+            "t": "Hacer campañas para sembrar árboles y recuperar espacios naturales.",
+            "que": "Incluye campañas de educación ambiental. El plan no dice cuántos árboles ni en qué lugares, ni cuándo.",
+            "v": "alta",
+            "n": "Campañas y charlas: la junta sí puede organizarlas.",
+            "cita": "Gestionar campañas de reforestación, educación ambiental y recuperación de espacios naturales.",
+            "pag": 4
+          }
+        ],
+        "economia": [
+          {
+            "t": "Hacer ferias agrícolas, gastronómicas y artesanales para vender productos locales.",
+            "que": "Las ferias son para productores locales. El plan no dice dónde ni cuándo se harán, ni cuánto costarán.",
+            "v": "alta",
+            "n": "Organizar ferias es una tarea que la junta sí puede hacer.",
+            "cita": "Impulsar ferias agrícolas, gastronómicas, artesanales y espacios de comercialización para productores locales.",
+            "pag": 3
+          },
+          {
+            "t": "Pedir programas de apoyo para agricultores, ganaderos y productores rurales.",
+            "que": "El plan no dice qué programas ni cuánto dinero. No dice quién los paga ni cuándo llegarían.",
+            "v": "media",
+            "n": "La junta gestiona; los programas dependen de otras instituciones.",
+            "cita": "Gestionar programas de apoyo para agricultores, ganaderos y productores rurales.",
+            "pag": 3
+          }
+        ],
+        "social": [
+          {
+            "t": "Pedir arreglos para casas comunales, espacios recreativos y equipamientos comunitarios.",
+            "que": "El plan no dice qué casas comunales ni cuánto costará. No dice cuándo se harán ni quién paga.",
+            "v": "media",
+            "n": "Se pide a otras instituciones. El plan no dice quién paga.",
+            "cita": "Gestionar el mantenimiento y fortalecimiento de casas comunales, espacios recreativos y equipamientos comunitarios.",
+            "pag": 3
+          },
+          {
+            "t": "Apoyar cursos de capacitación para dirigentes y organizaciones sociales.",
+            "que": "El plan no dice qué cursos, cuántos ni cuándo se darán. No dice cuánto costarán.",
+            "v": "alta",
+            "n": "Organizar cursos para dirigentes es tarea de la junta.",
+            "cita": "Apoyar procesos de capacitación para dirigentes comunitarios y organizaciones sociales.",
+            "pag": 3
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Hacer asambleas periódicas para informar sobre lo que hace la junta.",
+            "que": "Se harán asambleas, reuniones con barrios y se socializará el presupuesto. El plan no dice cuántas veces al año.",
+            "v": "alta",
+            "n": "Rendir cuentas es tarea de la junta y cuesta poco.",
+            "cita": "Asambleas parroquiales periódicas para informar sobre la gestión realizada.",
+            "pag": 5
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Gestionar mejoras de agua potable, saneamiento, alumbrado y recolección de basura.",
+            "que": "El plan no dice cuánto costará ni cuándo. La junta solo gestiona ante otros niveles de gobierno.",
+            "v": "baja",
+            "n": "Le toca a otro nivel. El agua potable no es competencia de la junta.",
+            "cita": "Gestionar acciones para fortalecer los servicios de agua potable, saneamiento, alumbrado público, recolección de residuos y conectividad.",
+            "pag": 4
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+        "Es un plan de la lista 7 para varios precandidatos a la vez, no un plan personal de cada uno."
+      ]
+    },
+    {
+      "codFormulario": 11575,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan de la junta de Rumipamba: cuidar caminos con la Prefectura, parques, apoyo a productores, ambiente, prevención de riesgos y rendir cuentas cada semestre.",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Mantener caminos vecinales junto con la Prefectura y planificar su arreglo.",
+            "que": "El plan fija como meta tener el inventario priorizado de caminos al 100%. No dice cuánto costará ni en qué plazo.",
+            "v": "media",
+            "n": "Cuidar caminos sí le toca, pero se hace junto con la Prefectura. El plan no dice cuánto cuesta.",
+            "cita": "Planificar y mantener, coordinadamente con el GAD Provincial, la vialidad parroquial rural",
+            "pag": 6
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Planificar, construir y mantener parques, espacios públicos y equipamientos parroquiales.",
+            "que": "Se harán los incluidos en la planificación y el presupuesto participativo. El plan no dice cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "Parques y espacios sí le tocan, pero obras grandes dependen de estudios, dinero y convenios.",
+            "cita": "Planificar, construlr y mantener Infraestructura, equipamientos y espacios públicos parroquiales",
+            "pag": 6
+          }
+        ],
+        "economia": [
+          {
+            "t": "Apoyar a productores y emprendedores con asistencia técnica y acceso a mercados.",
+            "que": "El plan habla de ferias o ruedas y de capacitación. No dice cuántas ferias habrá ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la junta. Las ferias y capacitaciones son acciones que el cargo sí puede hacer.",
+            "cita": "Incentivar actividades productivas comunitarias y fortalecer asociatividad y acceso a mercados.",
+            "pag": 7
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Proteger ríos, quebradas y biodiversidad con reforestación y educación ambiental.",
+            "que": "El plan fija 4 sitios priorizados con acciones acumulativas al 2031. No dice cuánto costará ni de dónde saldrá el dinero.",
+            "v": "alta",
+            "n": "Cuidar el ambiente sí le toca a la junta. Podría necesitar apoyo de otros niveles de gobierno.",
+            "cita": "Incentivar preservación de biodiversidad, protección ambiental y corresponsabilidad comunitaria.",
+            "pag": 7
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Organizar a la comunidad para prepararse ante riesgos, sin reemplazar a Bomberos ni Policía.",
+            "que": "El plan dice que se actualizará el mapa de riesgos y se activarán comités comunitarios. No dice cuánto costará.",
+            "v": "alta",
+            "n": "Organizar a la comunidad sí le toca a la junta. La policía y los bomberos no.",
+            "cita": "Coordinar prevención comunitaria y preparación ante riesgos, sin sustituir a Policía, Bomberos ni al ente rector",
+            "pag": 6
+          }
+        ],
+        "social": [
+          {
+            "t": "Promover organización social y turismo sostenible en la parroquia.",
+            "que": "Plantea rutas de naturaleza, cascadas y senderos, y 4 agendas participativas al año. No dice cuánto costará.",
+            "v": "media",
+            "n": "Las rutas y la señalización piden acuerdo con el Municipio. El plan no dice cuánto costará.",
+            "cita": "Promover organización social, inclusión comunitaria, identidad y turismo sostenible dentro de las compelencias parroquiales",
+            "pag": 7
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Hacer seguimiento a convenios y publicar avances de metas cada semestre.",
+            "que": "Asambleas parroquiales al menos cada semestre; seguimiento de convenios cada tres meses. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Es obligación directa de la junta. El plan no dice cuánto costará.",
+            "cita": "La gestión y el seguimiento sí serán obligaciones directas y documentables de la junta.",
+            "pag": 11
+          }
+        ]
+      },
+      "metas": [
+        "2 asambleas parroquiales por año",
+        "4 convenios gestionados en el periodo",
+        "Al menos 6 perfiles de proyecto",
+        "4 sitios priorizados con acciones acumulativas al 2031",
+        "Plan anual de mantenimiento cumplido en 80%"
+      ],
+      "notas": [
+        "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero; depende del presupuesto aprobado.",
+        "Muchas acciones dependen de acuerdos con la Prefectura o el Municipio. Las obras grandes el plan las deja para después de estudios."
+      ]
+    }
+  ]
+}

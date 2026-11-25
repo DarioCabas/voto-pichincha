@@ -1,0 +1,122 @@
+{
+ "enfoque": "Arreglar caminos, limpiar cauces, cuidar parques y canchas, y decidir en asambleas el gasto de la junta. Muchas propuestas son de salud, agua o transporte, que no son de la junta.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer un inventario de cada calle y mantener los caminos rurales internos.",
+    "que": "El plan dice inventario técnico calle por calle, bacheo y mantenimiento de caminos vecinales. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Cuidar caminos es de la junta con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Planificar, construir y mantener la vialidad parroquial rural sobre la base de un inventario técnico calle por calle",
+    "pag": 7
+   },
+   {
+    "t": "Pedir mejores rutas de bus para la parroquia.",
+    "que": "El plan dice que se optimizarán las rutas de transporte público. El plan no dice cómo ni cuándo se hará.",
+    "v": "baja",
+    "n": "Las rutas de bus son del Municipio, no de la junta.",
+    "cita": "optimización de las rutas alimentadoras de transporte público",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar canchas, poner luces LED y juegos infantiles en parques y ligas.",
+    "que": "Incluye la totalidad de las ligas barriales y parques de la parroquia. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Mantener parques y canchas es de la junta. El plan no dice cuánto costará.",
+    "cita": "Obras de mantenimiento, instalación de luminarias LED, reparación de canchas y mobiliario infantil en espacios públicos y centros deportivos",
+    "pag": 11
+   }
+  ],
+  "social": [
+   {
+    "t": "Enviar brigadas a los sectores para prevenir adicciones y atender a adultos mayores.",
+    "que": "El plan dice brigadas itinerantes para prevención de adicciones, salud mental y atención al adulto mayor rural. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "La salud no es de la junta. Solo puede ayudar a organizar.",
+    "cita": "Despliegue de brigadas comunitarias itinerantes orientadas a la prevención de adicciones, soporte en salud mental y atención al adulto mayor rural",
+    "pag": 9
+   }
+  ],
+  "economia": [
+   {
+    "t": "Conectar a 50 microproductores, artesanos y agricultores con redes de innovación.",
+    "que": "Alianzas con universidades de la capital para talleres de transferencia tecnológica, marketing digital y mejora de procesos productivos. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdos con universidades. El plan no dice cuánto costará.",
+    "cita": "Vinculación activa de cincuenta microproductores, artesanos y agricultores de la zona a redes de innovación productiva",
+    "pag": 11
+   },
+   {
+    "t": "Arreglar el sistema de riego agrícola junto con la Prefectura de Pichincha.",
+    "que": "Se haría en coordinación con el Gobierno Provincial de Pichincha. El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Rehabilitación del sistema de riego agrícola en coordinación con el Gobierno Provincial de Pichincha",
+    "pag": 11
+   }
+  ],
+  "otros": [
+   {
+    "t": "Hacer oficiales al menos dos fiestas al año para rescatar bailes, vestimenta y comida típica.",
+    "que": "El plan dice dos fiestas anuales de rescate cultural: bailes tradicionales, vestimenta y gastronomía típica. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar fiestas está al alcance de la junta. El plan no dice cuánto costará.",
+    "cita": "institucionalización de al menos dos festividades anuales de rescate cultural",
+    "pag": 11
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas cada tres meses en barrios y comunas para rendir cuentas.",
+    "que": "Las asambleas irán a cada barrio para que el reporte de gastos llegue sin que la gente tenga que viajar.",
+    "v": "alta",
+    "n": "Reunir a vecinos es de la junta. El plan no dice cuánto costará.",
+    "cita": "Se institucionalizará la convocatoria trimestral a Asambleas de carácter itinerante en los diferentes barrios",
+    "pag": 15
+   },
+   {
+    "t": "Decidir con vecinos en qué se gasta el dinero de inversión de la junta.",
+    "que": "Se decide con delegados de barrios y comunas, en reuniones públicas, y se paga obras viales, ambientales y sociales. El plan no dice cuánto dinero hay.",
+    "v": "alta",
+    "n": "Es decisión de la junta con vecinos. El plan no dice cuánto dinero hay.",
+    "cita": "El 100% de los fondos asignados legalmente a la Junta Parroquial para proyectos de inversión",
+    "pag": 15
+   }
+  ]
+ },
+ "metas": [
+  "Lograr que la quinta parte de comercios y viviendas de la cabecera separen residuos orgánicos.",
+  "Vincular a cincuenta microproductores, artesanos y agricultores a redes de innovación productiva.",
+  "Hacer al menos dos fiestas anuales de rescate cultural.",
+  "Hacer asambleas itinerantes cada tres meses.",
+  "Decidir en asambleas el 100% de los fondos de inversión de la junta."
+ ],
+ "notas": [
+  "Muchas propuestas son de salud, agua, escuelas o transporte, que no le tocan a la junta. Casi no dice cuánto costará cada cosa.",
+  "Gran parte del texto repite diagnósticos del plan de la ciudad. El cronograma por año está revuelto y es difícil saber qué se hace en cada año."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "paginas": 18
+}

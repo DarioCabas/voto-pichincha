@@ -1,0 +1,143 @@
+{
+ "enfoque": "Pocas propuestas concretas: ferias de artesanos, cultura, arreglo de vías con la Prefectura, espacios públicos accesibles y rendición de cuentas. Gran parte del texto es diagnóstico.",
+ "tabla": {
+  "economia": [
+   {
+    "t": "Buscar proyectos para que la parroquia produzca sus alimentos y venda mejor sus productos.",
+    "que": "Dice que pedirá proyectos para asegurar alimentos, mejorar servicios básicos y vender mejor lo que producen. El plan no dice qué proyectos, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Son proyectos que pide a otras instituciones. El plan no dice cuánto costará.",
+    "cita": "gestionaremos proyectos que garanticen la soberanía alimentaria, mejoren la infraestructura de acceso a los servicios básicos y potencien la comercialización de nuestros productos",
+    "pag": 15
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas, presupuestos participativos y mesas de diálogo con comunas y barrios.",
+    "que": "Dice que la gente decidirá en asambleas parroquiales y presupuestos participativos. El plan no dice cada cuánto se harán ni cuánto dinero se decidirá así.",
+    "v": "alta",
+    "n": "Reunir a la gente sí le toca a la junta. El plan no dice cuándo empiezan.",
+    "cita": "Activaremos el Sistema de Participación Ciudadana a través de asambleas parroquiales, presupuestos participativos y mesas de diálogo",
+    "pag": 17
+   },
+   {
+    "t": "Buscar un acuerdo con Llano Chico para compartir maquinaria, estudios y proyectos ambientales.",
+    "que": "Dice que con la parroquia vecina de Llano Chico compartirán maquinaria, estudios técnicos y proyectos ambientales. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con la junta de Llano Chico. El plan no dice cuánto costará.",
+    "cita": "Impulsaremos la conformación de una mancomunidad con la parroquia vecina de Llano Chico",
+    "pag": 17
+   },
+   {
+    "t": "Presentar cada año la rendición de cuentas en eventos públicos y revisar la gestión cada tres meses.",
+    "que": "Dice que cada año rendirá cuentas en eventos públicos y que la gestión se someterá a revisión ciudadana cada tres meses. El plan no dice dónde ni cómo.",
+    "v": "alta",
+    "n": "Rendir cuentas sí le toca a la junta, sin acuerdo con otros niveles.",
+    "cita": "presentaremos de manera anual la rendición de cuentas de nuestra gestión en eventos públicos",
+    "pag": 25
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a las vías que unen barrios y comunas, junto con la Prefectura.",
+    "que": "Prioriza el arreglo de las vías que unen barrios y comunas, incluidas las de agricultores y artesanos. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Se hace junto con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "priorizando el mantenimiento de las vías que conectan a los barrios y comunas de Calderón",
+    "pag": 17
+   }
+  ],
+  "otros": [
+   {
+    "t": "Hacer talleres y ferias para mostrar y vender el trabajo de los artesanos, sobre todo el mazapán.",
+    "que": "Dice que dará continuidad a talleres y ferias, y que buscará que el mazapán sea reconocido como patrimonio cultural inmaterial. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Talleres y ferias los puede organizar la junta. El plan no dice cuánto costará.",
+    "cita": "fortalecer y dar continuidad a los talleres y ferias que visibilizan el trabajo de nuestros artesanos",
+    "pag": 6
+   },
+   {
+    "t": "Hacer una agenda cultural fija con música, danza y saberes de comunas y barrios.",
+    "que": "Dice que habrá una agenda cultural permanente para música, danza y tradiciones de comunas y barrios. El plan no dice cuántos eventos ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar eventos culturales es tarea de la junta. El plan no dice con qué dinero.",
+    "cita": "establecer una agenda cultural permanente que dé cabida a los saberes, la música, la danza y las manifestaciones tradicionales",
+    "pag": 6
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Organizar a los vecinos para vigilar sus barrios, junto con las autoridades.",
+    "que": "Dice que la junta organizará a la gente para la vigilancia comunitaria y para coordinar con las autoridades. El plan no dice cómo ni cuándo.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca. La policía no es de la junta.",
+    "cita": "Promoveremos la organización social para fortalecer la vigilancia comunitaria y la articulación con las autoridades competentes",
+    "pag": 15
+   }
+  ],
+  "social": [
+   {
+    "t": "Dar seguimiento a programas de acompañamiento para adultos mayores y personas con discapacidad.",
+    "que": "Dice que la junta gestionará y hará seguimiento a programas para adultos mayores y personas con discapacidad. El plan no dice cuáles ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita coordinar con otras instituciones. El plan no dice cuánto costará.",
+    "cita": "gestionar y dar seguimiento a programas de acompañamiento dirigidos a las personas adultas mayores",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer espacios públicos accesibles, seguros e incluyentes para todas las personas.",
+    "que": "Dice que los espacios públicos deben ser accesibles y seguros para todos. El plan no dice qué espacios, dónde, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Parques y espacios de la parroquia sí le tocan a la junta. El plan no dice dónde.",
+    "cita": "promover espacios públicos accesibles, seguros e incluyentes que garanticen la libre circulación de todas las personas",
+    "pag": 7
+   }
+  ]
+ },
+ "metas": [
+  "Rendición de cuentas en eventos públicos, una vez al año.",
+  "Revisión de la gestión ante la ciudadanía cada tres meses.",
+  "Plan de trabajo de 2027 a 2030, dividido en tres años."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero. Las páginas de actividades por año salen vacías.",
+  "El documento es del Partido Socialista, no de Unidad Ciudadana. Mucho habla de agua, salud y policía, que no son de la junta."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31
+ ],
+ "paginas": 31
+}

@@ -1,0 +1,144 @@
+{
+ "enfoque": "Plan de la junta de Conocoto: parqueadero, cuidado de quebradas, esterilización de animales, ferias y cursos para emprendedores, y vigilancia barrial con la Policía.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Proteger quebradas y áreas naturales junto con el Municipio de Quito.",
+    "que": "Un proyecto de áreas naturales cada semestre, durante toda la administración. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio de Quito.",
+    "cita": "Realizar gestiones con el Municipio de Quito para la protección de quebradas",
+    "pag": 25
+   },
+   {
+    "t": "Gestionar 10 campañas de esterilización de animales al mes en los barrios.",
+    "que": "Se harían en todos los barrios durante 4 años. El plan no dice cuánto costará ni quién pagará.",
+    "v": "media",
+    "n": "Necesita apoyo de la Unidad de Bienestar Animal del Municipio.",
+    "cita": "Gestionar la realización de 10 campañas de esterilización mensuales",
+    "pag": 24
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Gestionar con el Municipio un parqueadero seguro en el centro de Conocoto.",
+    "que": "Empieza en el año 2 y sigue hasta el año 4, según avance la obra. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende del Municipio de Quito y del gobierno de la provincia de Pichincha.",
+    "cita": "Gestionar la ejecución del proyecto “parqueadero seguro” para el centro de la parroquia",
+    "pag": 18
+   },
+   {
+    "t": "Aportar material de construcción para obras comunitarias de los barrios.",
+    "que": "Dice mínimo 10 obras por mes, con material de construcción. El plan no dice cuánto costará ni de dónde saldrá el material.",
+    "v": "media",
+    "n": "Depende de aportes de instituciones públicas y privadas.",
+    "cita": "Aportar en el mejoramiento de la infraestructura comunitaria con el aporte de material de construcción a obras",
+    "pag": 17
+   }
+  ],
+  "economia": [
+   {
+    "t": "Levantar un catastro de los emprendimientos de la parroquia.",
+    "que": "Es un trabajo de levantamiento de datos en el primer año. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Recoger datos de negocios está al alcance de la junta.",
+    "cita": "Levantar información que permita la creación de un catastro de los emprendimientos existentes en la parroquia de Conocoto",
+    "pag": 18
+   },
+   {
+    "t": "Hacer ferias de emprendedores en cada barrio, una al mes al inicio.",
+    "que": "1 feria al mes en años 1 y 2; 3 al mes en años 3 y 4. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar ferias y a los productores sí le toca a la junta.",
+    "cita": "Ejecución de ferias itinerantes y permanentes para los emprendimientos de la parroquia en cada uno de los barrios",
+    "pag": 19
+   },
+   {
+    "t": "Dar capacitaciones a emprendedores para mejorar la calidad de sus productos.",
+    "que": "2 capacitaciones cada trimestre durante los 4 años. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Cursos para productores sí le tocan a la junta.",
+    "cita": "Capacitación a emprendedores de la parroquia para elevar la calidad de sus productos",
+    "pag": 18
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Crear comités de vigilancia en los barrios, con la Policía Nacional.",
+    "que": "El plan dice 5 comités por mes durante 4 años. No dice cuánto costará.",
+    "v": "media",
+    "n": "Organizar barrios sí; la vigilancia y la coordinación son de la Policía.",
+    "cita": "Crear comités de vigilancia en los diferentes barrios de la parroquia en coordinación con la Policía Nacional",
+    "pag": 26
+   },
+   {
+    "t": "Diseñar un plan de seguridad para toda la parroquia.",
+    "que": "Se haría en el primer año con la Policía, el Municipio y otras entidades. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "La Policía no le toca a la junta.",
+    "cita": "Diseñar un Plan de seguridad para la parroquia de Conocoto",
+    "pag": 26
+   }
+  ],
+  "social": [
+   {
+    "t": "Colaborar en un campeonato de fútbol cada mes en las ligas.",
+    "que": "Un campeonato al mes en alguna liga barrial o la parroquial, durante 4 años. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar actividades deportivas con las ligas está al alcance de la junta.",
+    "cita": "Colaborar con la realización de 1 campeonato de futbol de manera mensual",
+    "pag": 27
+   }
+  ]
+ },
+ "metas": [
+  "Mínimo 10 obras de infraestructura comunitaria por mes.",
+  "2 capacitaciones cada trimestre durante los 4 años.",
+  "1 feria al mes en años 1 y 2; 3 al mes en años 3 y 4.",
+  "10 campañas de esterilización de animales al mes.",
+  "1 proyecto de recuperación de áreas naturales cada semestre."
+ ],
+ "notas": [
+  "El plan casi no dice cuánto costará cada propuesta ni de dónde saldrá el dinero.",
+  "Muchas propuestas dependen del Municipio de Quito, la Policía o la Prefectura; la junta solo puede colaborar."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34
+ ],
+ "paginas": 34
+}

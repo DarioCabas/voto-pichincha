@@ -1,0 +1,117 @@
+{
+ "enfoque": "Plan general de la junta: pedir arreglo de caminos a la Prefectura, usar espacios públicos, ayudar a productores y hacer asambleas. No dice costos ni plazos.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Reunirse cada tres meses con la Prefectura para programar el arreglo de caminos.",
+    "que": "Las reuniones acordarán qué caminos tendrán mantenimiento periódico. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura de Pichincha.",
+    "cita": "Reimmiones trimestrales con la Prefectura de Pichincha para acorder los eoonogrumas",
+    "pag": 8
+   },
+   {
+    "t": "Pedir a la Prefectura que incluya estudios y obras en las vías que elija la parroquia.",
+    "que": "El plan no dice qué vías ni cuánto costará. La decisión depende de la Prefectura.",
+    "v": "media",
+    "n": "Depende de la Prefectura, no de la junta.",
+    "cita": "Gestiones en la Prefectura de Pichincha para incluir los estudios y la implementación",
+    "pag": 8
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Pedir al Municipio que proteja y maneje quebradas y áreas naturales.",
+    "que": "El plan no dice qué quebradas ni cuánto costará ni en qué plazo.",
+    "v": "media",
+    "n": "Le toca al Municipio. La junta hace la gestión.",
+    "cita": "Realizar gestiones con el municipio para la protección y manejo de quebradas y áreas",
+    "pag": 9
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Organizar actividades deportivas y culturales en los espacios públicos de la parroquia.",
+    "que": "El plan no dice en qué espacios ni cuándo. Busca que los vecinos usen más los espacios públicos.",
+    "v": "alta",
+    "n": "Organizar actividades y cuidar parques es tarea de la junta.",
+    "cita": "Promoción del uso del espació público purroquial mediante la organización de",
+    "pag": 7
+   },
+   {
+    "t": "Arreglar o renovar equipos e instalaciones que ya existen en la parroquia.",
+    "que": "El plan no dice qué obras ni cuánto costará ni cuándo se harán.",
+    "v": "media",
+    "n": "Requiere dinero; el plan no dice de dónde sale.",
+    "cita": "Mejoramiento de la infraestructura fisica existente mediante el mantenimiento 0",
+    "pag": 7
+   }
+  ],
+  "economia": [
+   {
+    "t": "Ayudar a productores a participar en ferias productivas.",
+    "que": "El plan habla de ferias locales, nacionales e internacionales. No dice cuánto costará ni cuántas ferias.",
+    "v": "alta",
+    "n": "Asesorar a productores está dentro de lo que puede hacer la junta.",
+    "cita": "Asesoramiento a los productores de la parroquía para participar en ferias productivas",
+    "pag": 8
+   },
+   {
+    "t": "Dar talleres de capacitación a emprendedores de la parroquía.",
+    "que": "Los talleres tendrían apoyo de otras instituciones. El plan no dice cuántos talleres ni cuándo.",
+    "v": "alta",
+    "n": "Talleres y cursos están dentro de lo que puede hacer la junta.",
+    "cita": "Talleres de capacitación con el apoyo de distintas instituciones para fortalecer los",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Reunirse cada seis meses con organizaciones sociales para revisar el plan.",
+    "que": "Sirve para seguir el plan de la parroquia. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Reunirse con organizaciones es tarea de la junta.",
+    "cita": "Reuniones semestrales con las organizaciones sociales para el seguimiento del Plan de",
+    "pag": 9
+   },
+   {
+    "t": "Dar cuentas cada año a los vecinos en una asamblea.",
+    "que": "Recibirán propuestas y sugerencias. El informe final se pondrá en la página web de la Junta Parroquial.",
+    "v": "alta",
+    "n": "Lo organiza la junta misma, sin otro nivel de gobierno.",
+    "cita": "Como lo establece la Constitución y la Ley, la Junta Parroquial realizará su rendición de",
+    "pag": 11
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas para que los vecinos elijan en qué se gasta parte del presupuesto.",
+    "que": "El plan no dice cuánto dinero habrá ni cuándo se harán las asambleas.",
+    "v": "alta",
+    "n": "Organizar asambleas es tarea de la junta; el monto no se conoce.",
+    "cita": "Asambleas parroquiales pora la priorización de los presupuestos participativos",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni cuándo se hará. Tampoco tiene metas con cifras.",
+  "Es un plan general de la junta parroquial. Muchas tareas dependen de la Prefectura o del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "paginas": 11
+}

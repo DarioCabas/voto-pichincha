@@ -1,0 +1,130 @@
+{
+ "enfoque": "Prioriza agua, alcantarillado, drenaje, calles y orden del territorio hasta 2031. Casi no dice cuánto costará ni cuándo se hará cada obra.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar el acceso al agua potable y mejorar su calidad y continuidad.",
+    "que": "El plan no dice cuánto costará ni en qué sectores empezará. Dice que será progresivamente y según estudios técnicos.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuándo ni cuánto costará.",
+    "cita": "Ampliar progresivamente el acceso a agua potable segura y mejorar la calidad,",
+    "pag": 2
+   },
+   {
+    "t": "Aumentar poco a poco el alcantarillado sanitario en sectores urbanos y rurales.",
+    "que": "El plan no dice cuánto costará ni cuántos sectores llegarán. Prioriza las cabeceras parroquiales con más carencias.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice plazos ni costos.",
+    "cita": "Incrementar progresivamente la cobertura de alcantarillado sanitario y promover",
+    "pag": 2
+   },
+   {
+    "t": "Mejorar la recolección de basura: más cobertura y mejores rutas.",
+    "que": "El plan no dice en qué sectores ni cuánto costará. Dice que optimizará rutas y frecuencias.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Fortalecer progresivamente la cobertura y eficiencia de recolección de residuos.",
+    "pag": 9
+   }
+  ],
+  "otros": [
+   {
+    "t": "Crear un sistema para prevenir inundaciones, con mapa público de puntos críticos.",
+    "que": "El plan dice que tendrá programación anual de trabajos preventivos. No dice cuánto costará ni cuándo estará listo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Implementar un Sistema Cantonal de Prevención de Inundaciones y Gestión de Riesgos, con mapa",
+    "pag": 4
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Construir, mejorar y mantener las calles urbanas del cantón.",
+    "que": "El plan no dice qué calles ni cuánto costará. Prevé un plan de varios años y un mapa de prioridades viales.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuántas calles ni cuánto costará.",
+    "cita": "Planificar, construir, mejorar y mantener la vialidad urbana de competencia municipal.",
+    "pag": 2
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar parques, canchas y áreas recreativas poco a poco.",
+    "que": "El plan no dice cuáles parques ni cuánto costará. Dice que mejorará iluminación y accesibilidad de espacios recreativos.",
+    "v": "alta",
+    "n": "Parques y espacios públicos son competencia municipal. El plan no dice costos.",
+    "cita": "Recuperar y fortalecer espacios públicos, deportivos, culturales y comunitarios.",
+    "pag": 2
+   },
+   {
+    "t": "Hacer más claros los trámites de uso de suelo y permisos de construcción.",
+    "que": "El plan no dice cuándo estará listo ni cuánto costará. Dice que simplificará y digitalizará trámites municipales.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice plazos.",
+    "cita": "Establecer mecanismos transparentes para trámites de uso de suelo y construcción.",
+    "pag": 5
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Reducir la contaminación de ríos, esteros y canales.",
+    "que": "El plan no dice cómo ni cuánto costará. Dice que coordinará con la Prefectura y el Gobierno Nacional.",
+    "v": "media",
+    "n": "Depende de otras instituciones. El plan no dice cómo ni cuánto.",
+    "cita": "Impulsar acciones para disminuir la contaminación de ríos, esteros y canales.",
+    "pag": 10
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Coordinar con la Policía y otras instituciones de seguridad.",
+    "que": "El plan solo dice que coordinará de forma permanente con la Policía, el ECU 911 y la Gobernación.",
+    "v": "baja",
+    "n": "La policía no es del Municipio. Solo puede coordinar.",
+    "cita": "Coordinar permanentemente con Policía Nacional, ECU 911, Gobernación y demás instituciones.",
+    "pag": 9
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear una red de productores, comerciantes y emprendedores con capacitación.",
+    "que": "El plan no dice cuánto costará ni cuántos se beneficiarán. Incluye una agenda anual de capacitación y promoción.",
+    "v": "baja",
+    "n": "Crear empleo no es tarea directa del Municipio. El plan no dice costos.",
+    "cita": "Implementar una Red Cantonal de Productores, Comerciantes y Emprendedores de Yaguachi,",
+    "pag": 6
+   }
+  ]
+ },
+ "metas": [
+  "Entre 2027 y 2031: planificar (2027), ejecutar (2028), ampliar (2029), consolidar (2030) y evaluar (2031).",
+  "Evaluación anual del plan, con resultados en la rendición de cuentas.",
+  "Calendario Deportivo Cantonal anual y agenda deportiva anual.",
+  "Mapa Cantonal de Prioridades Viales, con intervenciones cada año."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará casi ninguna obra ni de dónde saldrá el dinero. Muchas metas dicen solo 'progresivamente'.",
+  "Varias propuestas dependen de la Prefectura o del Gobierno. Incluye temas que no son del Municipio, como policía y empleo."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17
+ ],
+ "paginas": 17
+}

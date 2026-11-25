@@ -1,0 +1,144 @@
+{
+ "enfoque": "Plan de ocho ejes que sigue la agenda de la Prefectura del Azuay. Muchas tareas dependen de la Prefectura o de convenios, y el plan no dice cuánto cuesta.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer un inventario de las calles y caminos, y ordenar cuáles arreglar primero.",
+    "que": "Se revisan las vías urbanas y los corredores que necesitan convenio, con una lista anual pública. El plan no dice cuánto costará ni cuándo termina.",
+    "v": "alta",
+    "n": "Lo urbano es del Municipio; lo rural necesita convenio con la Prefectura.",
+    "cita": "Inventario, jerarquización y programación multianual de la red urbana y de los corredores que requieren convenio.",
+    "pag": 10
+   },
+   {
+    "t": "Hacer aceras, cruces, luces y señales en la cabecera cantonal y centros parroquiales elegidos.",
+    "que": "Obras por etapas en la cabecera cantonal y en centros parroquiales priorizados. El plan no dice cuántas obras serán ni cuánto costarán.",
+    "v": "alta",
+    "n": "Calles, señales y tránsito son del Municipio; el plan no dice cuánto costará.",
+    "cita": "Aceras, cruces, iluminación, señalización, accesibilidad y seguridad vial.",
+    "pag": 11
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Arreglar tomas, tuberías, tanques y medidores de agua potable en proyectos críticos.",
+    "que": "Proyectos críticos con estudios, permisos y financiamiento definidos. El plan no dice cuáles son ni cuánto costarán.",
+    "v": "alta",
+    "n": "El agua potable es del Municipio; el plan no dice cuánto costará.",
+    "cita": "Mejoras de captación, conducción, tratamiento, almacenamiento, medición y calidad.",
+    "pag": 13
+   },
+   {
+    "t": "Hacer alcantarillado y tratar las aguas sucias donde haya más riesgo sanitario.",
+    "que": "Un plan maestro y una lista de obras de saneamiento por parroquia. El plan no dice cuánto costará ni en qué año se harán las obras.",
+    "v": "alta",
+    "n": "Alcantarillado y aguas residuales son del Municipio; el plan no dice cuánto costará.",
+    "cita": "Alcantarillado, soluciones descentralizadas y tratamiento según densidad y riesgo.",
+    "pag": 13
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Separar la basura en casa y hacer compost y reciclaje en las siete parroquias.",
+    "que": "Empieza con pruebas piloto en 2028 y avanza poco a poco hasta 2031. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "La basura es competencia del Municipio; el plan no dice cuánto costará.",
+    "cita": "Separación en origen, compostaje, reciclaje, rutas eficientes e inclusión de recicladores.",
+    "pag": 15
+   },
+   {
+    "t": "Hacer mapas de riesgo, obras preventivas, alertas y brigadas de emergencia.",
+    "que": "Puntos críticos arreglados y protocolos de emergencia actualizados para 2031. El plan no dice cuántos puntos ni cuánto costará.",
+    "v": "alta",
+    "n": "La prevención de riesgos e incendios es del Municipio; el plan no dice cuánto costará.",
+    "cita": "Mapas operativos, obras preventivas, alertas, protocolos y brigadas.",
+    "pag": 15
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar el catastro y poner en marcha el plan de uso del suelo (PUGS).",
+    "que": "Poner en marcha el PUGS en 2027 y completar el catastro poco a poco. El plan no dice cuánto costará ni cuándo termina.",
+    "v": "alta",
+    "n": "El uso del suelo y el catastro son del Municipio; el plan no dice cuánto costará.",
+    "cita": "Cartografía, catastro, trámites, orientación ciudadana, control y reducción de conflictos.",
+    "pag": 11
+   }
+  ],
+  "economia": [
+   {
+    "t": "Mantener mercados y ferias y dar más espacio a productores locales.",
+    "que": "Planes de gestión para mercados y ferias, con más productores de la zona. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Mercados y ferias son competencia del Municipio; el plan no dice cuánto costará.",
+    "cita": "Mercados y ferias con planes de gestión y mayor participación local.",
+    "pag": 17
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar cada tres meses en internet metas, gastos, contratos y avance de obras.",
+    "que": "La información se publica por tema y por parroquia, con datos que se pueden descargar. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Publicar sus propias cuentas le toca al Municipio; el plan no dice cuánto costará.",
+    "cita": "Metas, presupuesto, contratos, riesgos y avance físico por eje y parroquia.",
+    "pag": 19
+   }
+  ],
+  "social": [
+   {
+    "t": "Armar una red de cuidados con servicios que vayan a las siete parroquias.",
+    "que": "Mapa de cuidados y rutas en las siete parroquias, con formación de cuidadores. El plan no dice cuánto costará ni quién paga.",
+    "v": "media",
+    "n": "Depende de otras entidades, como el MIES (ministerio social); el Municipio solo coordina.",
+    "cita": "Mapa de cuidados y rutas operativas en siete parroquias.",
+    "pag": 23
+   }
+  ]
+ },
+ "metas": [
+  "Inventario de agua, saneamiento, residuos y calles urbanas, en los primeros 120 días.",
+  "Primer tablero público de metas y gastos, en los primeros 120 días.",
+  "Separación de basura en siete parroquias, poco a poco hasta 2031.",
+  "Tres a cinco cadenas productivas con plan y cartera de proyectos, para 2031.",
+  "Una asamblea pública al año en cada parroquia."
+ ],
+ "notas": [
+  "El plan no dice cuánto cuesta ninguna obra ni de dónde saldrá el dinero exacto.",
+  "Muchas metas dependen de convenios con la Prefectura; algunas son de salud o educación, que no son del Alcalde."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30
+ ],
+ "paginas": 30
+}

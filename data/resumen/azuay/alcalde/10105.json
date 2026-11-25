@@ -1,0 +1,134 @@
+{
+ "enfoque": "Obras de calles, agua, alcantarillado, basura y parques. Muchas propuestas de salud, empleo y cultura no son del Municipio, y el plan no dice cuánto costarán las obras.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar calles y caminos del cantón con un plan de mantenimiento permanente.",
+    "que": "El plan dice que será permanente y que cubre calles urbanas y rurales. No dice cuánto costará ni qué vías se arreglarán primero.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Plan permanente de mantenimiento vial urbano y rural",
+    "pag": 12
+   },
+   {
+    "t": "Conseguir dinero para asfaltar vías prioritarias junto a otros gobiernos.",
+    "que": "Se haría junto con el Gobierno Provincial y el Gobierno Nacional. El plan no dice qué vías, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de otros gobiernos. El plan no dice cuándo.",
+    "cita": "Gestión para el asfaltado de vías prioritarias junto con el Gobierno Provincial y el Gobierno Nacional",
+    "pag": 8
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar y mejorar las redes de agua potable.",
+    "que": "El plan no dice en qué sectores ni cuánto costará. Tampoco dice en qué plazo se hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no da costo ni plazo.",
+    "cita": "Ampliación y mejoramiento de redes de agua potable",
+    "pag": 12
+   },
+   {
+    "t": "Buscar dinero para ampliar el alcantarillado de aguas servidas y lluvia.",
+    "que": "El plan dice que lo gestionará, pero no dice con qué dinero, en qué sectores ni cuándo.",
+    "v": "media",
+    "n": "Depende de dinero externo. El plan no dice de dónde sale.",
+    "cita": "Gestión para la ampliación de sistemas de alcantarillado sanitario y pluvial",
+    "pag": 9
+   },
+   {
+    "t": "Hacer más eficiente el servicio de recolección de basura del cantón.",
+    "que": "El plan no dice qué cambios hará, cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no explica qué cambiará.",
+    "cita": "Optimización del servicio de recolección de residuos sólidos",
+    "pag": 13
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir y arreglar parques y áreas verdes del cantón.",
+    "que": "El plan no dice en qué lugares ni cuánto costará. Tampoco dice en qué plazo se harán.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no da lugares ni costo.",
+    "cita": "Construcción y rehabilitación de parques. Adecuación de áreas verdes",
+    "pag": 12
+   },
+   {
+    "t": "Regularizar asentamientos (barrios sin papeles) según la ley.",
+    "que": "El plan no dice cuántos asentamientos ni en qué plazo. Tampoco dice cuánto costará el trámite.",
+    "v": "alta",
+    "n": "Le toca al Municipio por uso del suelo. Falta saber cuántos y cuándo.",
+    "cita": "Regularización de asentamientos conforme a la normativa vigente",
+    "pag": 14
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Poner cámaras de vigilancia en lugares estratégicos del cantón.",
+    "que": "El plan no dice cuántas cámaras, dónde ni cuánto costarán. Habla de coordinar con la Policía.",
+    "v": "media",
+    "n": "Instalar cámaras sí le toca. Vigilar depende de la Policía.",
+    "cita": "Implementar mecanismos de vigilancia comunitaria a través de cámaras de",
+    "pag": 6
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Crear sistemas de alerta temprana y hacer simulacros ante emergencias.",
+    "que": "El plan no dice dónde se instalarán las alertas, cuánto costarán ni cuándo se harán los simulacros.",
+    "v": "alta",
+    "n": "Prevenir desastres le toca al Municipio. El plan no da costo ni fecha.",
+    "cita": "Sistemas de alerta temprana. Simulacros de respuesta ante emergencias",
+    "pag": 17
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Decidir obras junto a la gente con presupuesto participativo.",
+    "que": "El plan no dice cuánto dinero se decidirá así ni cuándo empieza. Incluye asambleas parroquiales y consejos consultivos.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice el monto.",
+    "cita": "Presupuesto participativo. Cabildos ciudadanos. Asambleas parroquiales. Consejos consultivos de participación",
+    "pag": 19
+   }
+  ]
+ },
+ "metas": [
+  "Capacitar de manera continua al menos al 80 % de los productores organizados del cantón.",
+  "Beneficiar anualmente a cientos de familias productoras con insumos y capacitación.",
+  "Periodo de gobierno declarado: 2027–2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero exacto.",
+  "Muchas propuestas (salud, empleo, cultura, crédito) no son del Municipio y se mezclan con obras de calles y agua."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24
+ ],
+ "paginas": 24
+}

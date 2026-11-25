@@ -1,0 +1,99 @@
+{
+ "enfoque": "Propone empleo para jóvenes, compras a proveedores locales, agro, turismo y datos públicos. Sale de un plan económico previo (PEDEL). No trae obras.",
+ "tabla": {
+  "economia": [
+   {
+    "t": "Crear cursos, prácticas y una bolsa de empleo para jóvenes",
+    "que": "Cursos cortos y prácticas con empresas e institutos. Costo referencial USD 90.000 a 140.000, entre 2027 y 2031. Depende de cofinanciamiento.",
+    "v": "media",
+    "n": "Capacita y conecta, pero contratar depende de las empresas, no del Municipio.",
+    "cita": "Su punto de partida será un diagnóstico anual de perfiles laborales",
+    "pag": 10
+   },
+   {
+    "t": "Registrar a proveedores locales y capacitarlos para vender a empresas mineras",
+    "que": "Registro municipal de proveedores, con capacitación en facturación, costos y calidad. Costo referencial USD 60.000 a 100.000.",
+    "v": "media",
+    "n": "Organiza y capacita; las compras las deciden las empresas mineras.",
+    "cita": "Para ello se propone levantar un registro municipal de proveedores locales con información sobre",
+    "pag": 11
+   },
+   {
+    "t": "Abrir un centro de cursos digitales para pequeños negocios y emprendedores",
+    "que": "Cursos de ventas por internet, facturación electrónica y redes sociales. Costo referencial USD 180.000 a 250.000. Diseño 2027, implementación 2028.",
+    "v": "media",
+    "n": "Usa espacios municipales, pero los cursos dependen de universidades y alianzas.",
+    "cita": "En una primera fase podrá operar con infraestructura municipal existente",
+    "pag": 11
+   },
+   {
+    "t": "Apoyar a productores rurales para vender cacao, banano y otros productos",
+    "que": "Asistencia técnica, ferias y compras institucionales para 150 productores. Costo referencial USD 220.000 a 350.000.",
+    "v": "media",
+    "n": "Ferias en espacios municipales sí; el plan no dice quién da la asistencia técnica.",
+    "cita": "La primera etapa será identificar cadenas con potencial: cacao, banano",
+    "pag": 11
+   }
+  ],
+  "otros": [
+   {
+    "t": "Armar una ruta turística por etapas: primero inventario y luego circuitos piloto",
+    "que": "Costo referencial USD 120.000 a 200.000. Empieza con inventario de atractivos, señalética y capacitación de prestadores.",
+    "v": "media",
+    "n": "El turismo no está en las competencias; depende de coordinar con otros actores.",
+    "cita": "La ruta propuesta deberá evitar improvisaciones: primero se levantarán atractivos y servicios existentes",
+    "pag": 11
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear un observatorio que publique datos de empleo, proveedores y turismo",
+    "que": "Tablero público y reportes cada semestre. Costo referencial USD 70.000 a 110.000. Puede empezar dentro de la unidad municipal.",
+    "v": "alta",
+    "n": "Es información pública del Municipio; el plan dice que no necesita estructura costosa.",
+    "cita": "El Observatorio no requiere iniciar con una estructura costosa",
+    "pag": 12
+   },
+   {
+    "t": "Hacer foros anuales de desarrollo económico para rendir resultados",
+    "que": "Foros para presentar resultados, ajustar metas y renovar compromisos. El plan no dice cuánto costarán ni en qué fechas.",
+    "v": "alta",
+    "n": "Es una reunión pública que le toca al Municipio organizar.",
+    "cita": "Foros anuales de desarrollo económico local para presentar resultados, ajustar metas y renovar compromisos",
+    "pag": 13
+   }
+  ]
+ },
+ "metas": [
+  "600 jóvenes capacitados, 300 certificados y 200 vinculados a empleo, entre 2027 y 2031.",
+  "200 proveedores registrados, 80 capacitados y 20 acuerdos comerciales gestionados.",
+  "250 negocios digitalizados y 80 emprendimientos incubados.",
+  "150 productores vinculados, 10 productos con valor agregado y 6 acuerdos comerciales.",
+  "2 rutas turísticas activas y 50 prestadores capacitados."
+ ],
+ "notas": [
+  "El plan no propone obras de calles, agua, basura, tránsito ni parques, que sí son competencias municipales.",
+  "Las cifras son referenciales: el plan dice que dependen de estudios, presupuesto y cofinanciamiento."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17
+ ],
+ "paginas": 17
+}

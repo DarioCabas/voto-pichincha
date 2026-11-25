@@ -1,0 +1,105 @@
+{
+ "enfoque": "Calles y movilidad, un puente sobre el río Santa Bárbara, un bulevar junto al río, catastro y seguridad preventiva. Gran parte del texto viene del plan de desarrollo del cantón.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Gestionar estudios y construir por fases un puente nuevo sobre el río Santa Bárbara.",
+    "que": "Conectaría el terminal terrestre con la avenida Los Nogales y las parroquias orientales. El plan no dice cuánto costará ni cuándo se termina.",
+    "v": "media",
+    "n": "Depende de la Prefectura y del Gobierno; el plan no dice cuánto costará.",
+    "cita": "financiamiento y ejecución por fases de un nuevo puente sobre el tio Santa Bárbara",
+    "pag": 11
+   },
+   {
+    "t": "Mejorar calles urbanas, de las parroquias y la movilidad peatonal.",
+    "que": "Habla de un sistema de movilidad seguro y accesible. El plan no dice qué calles se arreglan, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Las calles urbanas le tocan al Municipio. Falta costo y plazo.",
+    "cita": "Implementar un sistema de movilidad cantonal seguro, accesible y articulado, mejorando la red vial urbara",
+    "pag": 11
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Diseñar y construir por fases un bulevar junto al río Santa Bárbara.",
+    "que": "Tendría paseo peatonal, artesanías, comida, anfiteatro y zonas de recreación. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "El espacio público es municipal, pero necesita apoyo del Ministerio de Turismo y otros.",
+    "cita": "garantizando recuperación ambiental, acceso publico, identidad cultura, seguridad y dinamización",
+    "pag": 11
+   },
+   {
+    "t": "Actualizar el plan de uso del suelo y el catastro.",
+    "que": "El plan dice que el catastro ayudará a cobrar mejor los impuestos. No dice cuánto costará ni cuándo termina.",
+    "v": "alta",
+    "n": "Es competencia municipal. El plan no dice costo ni fecha exacta.",
+    "cita": "Actualización del PLIGS; fortalecimiento catastral: Crecimiento territorial ordenado",
+    "pag": 16
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear el sello Producto de Gualaceo para certificar artesanías.",
+    "que": "Busca proteger la identidad artesanal y abrir nuevos mercados. El plan no dice cuánto costará ni cuándo estará listo.",
+    "v": "media",
+    "n": "Es fomento productivo, que el Municipio comparte con otras entidades.",
+    "cita": "Sello Producto de Gualaceo; cerificación artesanal; Protección de la identidad artesanal y",
+    "pag": 15
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Hacer un plan cantonal de seguridad, convivencia y riesgos.",
+    "que": "La parte municipal es preventiva: cámaras, luces y capacitación. El plan dice que el control del delito queda a la Policía. No dice cuánto costará.",
+    "v": "media",
+    "n": "Solo lo preventivo le toca al Municipio; el control policial no.",
+    "cita": "Plan Cantonal de Seguridad, Convivencia y Gestión de Riesgos.",
+    "pag": 12
+   }
+  ]
+ },
+ "metas": [
+  "Intervenir al menos el 80% de los espacios públicos priorizados hasta 2031.",
+  "Aprobar el plan maestro del bulevar y ejecutar al menos 2 fases priorizadas.",
+  "Ejecutar al menos el 85% del presupuesto anual de inversión al cierre del periodo.",
+  "Digitalizar al menos el 70% de los trámites municipales de mayor demanda."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará casi ninguna obra; los costos quedan \"por determinar\".",
+  "Muchas obras dependen de la Prefectura y del Gobierno, y parte del texto está ilegible."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30
+ ],
+ "paginas": 30
+}

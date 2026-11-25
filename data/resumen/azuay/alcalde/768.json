@@ -1,0 +1,165 @@
+{
+ "enfoque": "Agua potable, alcantarillado, calles, parques y reforestación. El plan no dice cuánto costará ni dónde se harán la mayoría de obras.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Mejorar calles urbanas y los accesos a los barrios.",
+    "que": "El plan no dice qué calles ni cuánto costará. Para la vía rural propone coordinar con otras instituciones.",
+    "v": "alta",
+    "n": "Le toca al Municipio en la ciudad. Lo rural depende de otras instituciones.",
+    "cita": "Mejorar calles urbanas, accesos a barrios y coordinar con otras instituciones el mejoramiento",
+    "pag": 14
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar el agua potable y el alcantarillado en el cantón.",
+    "que": "El plan no dice en qué comunidades ni cuánto costará. Dice que se pagará con recursos propios, del Estado, créditos y convenios.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Ampliar la cobertura de agua potable, alcantarillado, tratamiento de aguas residuales y",
+    "pag": 14
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger páramos y fuentes de agua y nombrar guardabosques.",
+    "que": "El plan no dice cuánto costará. Dice que también habrá educación ambiental y acciones frente al cambio climático.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Sobre los guardabosques solo dice que se gestionarán.",
+    "cita": "Proteger páramos y fuentes hídricas, con nombramiento de guardabosques, impulsar reforestación, educación ambiental y acciones",
+    "pag": 14
+   },
+   {
+    "t": "Reforestar 500 hectáreas y proteger las fuentes de agua del cantón.",
+    "que": "Es meta para 2031. El plan dice que se medirá con informes ambientales y registros georreferenciados. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice en qué zonas se hará.",
+    "cita": "Reforestar 500 hectáreas y proteger las principales fuentes de agua del cantón.",
+    "pag": 35
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar el plan de ordenar el territorio (PDOT) y el plan de uso del suelo (PUGS).",
+    "que": "El plan dice que se hará con amplia participación de la ciudadanía y de las comunidades. La pone para 2027.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan la ubica en 2027.",
+    "cita": "Actualizar el PDOT y el PUGS con amplia participación ciudadana y de las comunidades.",
+    "pag": 13
+   },
+   {
+    "t": "Construir y mantener parques, áreas verdes y espacios deportivos.",
+    "que": "Incluye espacios deportivos, recreativos y comunitarios. El plan no dice qué parques ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice en qué lugares ni cuándo.",
+    "cita": "Construir y mantener parques, áreas verdes, espacios deportivos, recreativos y comunitarios.",
+    "pag": 11
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Implementar un plan de prevención junto con otras instituciones.",
+    "que": "El plan dice que será en todas las parroquias. No dice cuánto costará ni qué acciones concretas tendrá.",
+    "v": "baja",
+    "n": "La policía no le toca al alcalde. Solo puede coordinar.",
+    "cita": "Implementar un plan cantonal de prevención en coordinación con las instituciones competentes",
+    "pag": 36
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear programas para adultos mayores y personas con discapacidad.",
+    "que": "El plan no dice qué programas ni cuánto costarán. Tampoco dice en qué parroquias empezarán.",
+    "v": "media",
+    "n": "Solo lo puede apoyar el Municipio. El plan no dice cuánto costará.",
+    "cita": "Programas para adultos mayores y personas con discapacidad.",
+    "pag": 30
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear un centro de acopio para vender productos y darles valor.",
+    "que": "Sería un lugar para comercializar y dar valor agregado a productos. El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el plan no dice cómo lo pagará.",
+    "cita": "Creación de un centro de acopio para la comercialización y valor agregado.",
+    "pag": 32
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Digitalizar trámites y mejorar la atención al ciudadano.",
+    "que": "El plan no dice qué trámites ni en qué plazo. Incluye capacitar al personal y mayor transparencia.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Digitalizar trámites, mejorar la atención al ciudadano, capacitar al personal y fortalecer la transparencia institucional.",
+    "pag": 14
+   }
+  ]
+ },
+ "metas": [
+  "Reforestar 500 hectáreas y proteger fuentes de agua hasta 2031.",
+  "Beneficiar a 2.000 productores con asistencia técnica, riego y capacitación hasta 2031.",
+  "Ejecutar al menos 20 proyectos sociales hasta 2031.",
+  "Gestionar al menos 30 convenios de cooperación hasta 2031.",
+  "Realizar al menos dos cabildos abiertos y una asamblea ciudadana por año en cada parroquia."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni en qué lugar exacto se hará. Tampoco dice cómo se pagará cada una.",
+  "Tiene frases de plantilla y habla de la Policía, que no le toca al alcalde. Tránsito y buses casi no aparecen."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49
+ ],
+ "paginas": 49
+}

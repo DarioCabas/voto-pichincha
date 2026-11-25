@@ -1,0 +1,177 @@
+{
+ "enfoque": "Plan con obras de agua, alcantarillado, vías, drenajes contra inundaciones y parques. Muchas propuestas vienen del plan de desarrollo del cantón (PDOT 2024).",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Hacer obras de drenaje y control de riesgo en 8 puntos críticos del cantón.",
+    "que": "Obras en 8 puntos para bajar el riesgo de inundaciones. El plan no dice cuánto costará; dice que se pagará con recursos propios, convenios o gestión.",
+    "v": "alta",
+    "n": "Drenaje y riesgo son del Municipio. Pero el plan no dice el costo.",
+    "cita": "Intervenir 8 puntos críticos del cantón con obras de drenaje y mitigación de riesgo durante el período.",
+    "pag": 21
+   },
+   {
+    "t": "Llevar la recolección de basura a 5 recintos más.",
+    "que": "Recolección formal de basura en 5 recintos más. Hoy no llega de forma uniforme a todos los recintos. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "La basura es competencia del Municipio.",
+    "cita": "Ampliar la cobertura formal de recolección de residuos sólidos a 5 recintos adicionales.",
+    "pag": 21
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Subir la cobertura de alcantarillado en la cabecera cantonal en al menos 10 puntos.",
+    "que": "Subir 10 puntos la cobertura de alcantarillado del centro del cantón, con apoyo del Banco de Desarrollo del Ecuador. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de un préstamo o apoyo del Banco de Desarrollo. Sin costo claro.",
+    "cita": "Gestionar la cobertura de alcantarillado sanitario en la cabecera cantonal en al menos 10 puntos porcentuales.",
+    "pag": 21
+   },
+   {
+    "t": "Mejorar el agua potable en 4 recintos con sistema propio.",
+    "que": "Mejorar el abastecimiento de agua en 4 recintos. El plan no dice cuáles 4 recintos ni cuánto costará. Participan el Banco de Desarrollo y juntas de agua.",
+    "v": "media",
+    "n": "Depende del Banco de Desarrollo y de juntas de agua. Sin costo.",
+    "cita": "Mejorar el sistema de abastecimiento de agua potable en 4 recintos priorizados.",
+    "pag": 22
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Mantener, adoquinar o asfaltar 15 km más de vías urbanas y rurales.",
+    "que": "15 km adicionales de vías urbanas y rurales durante 2027-2031. El plan no dice cuánto costará. La Prefectura del Guayas participa en los caminos rurales.",
+    "v": "media",
+    "n": "Calles sí son del Municipio; caminos rurales los comparte con la Prefectura.",
+    "cita": "Mantener, adoquinar o asfaltar 15 km adicionales de vías urbanas y rurales durante el período.",
+    "pag": 22
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir o recuperar 4 parques infantiles o áreas verdes familiares.",
+    "que": "Parques infantiles y áreas verdes para familias, entre 2027 y 2031. El plan no dice en qué lugares ni cuánto costará.",
+    "v": "alta",
+    "n": "Los parques son competencia del Municipio. Falta el costo.",
+    "cita": "Construir o recuperar 4 parques infantiles o áreas verdes familiares durante el período.",
+    "pag": 22
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Completar el catastro urbano y rural y digitalizar el 30% de los trámites.",
+    "que": "Terminar la actualización del catastro (registro de predios) y pasar a internet el 30% de los trámites más pedidos. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "El catastro y los trámites son del Municipio. Falta el costo.",
+    "cita": "Completar la actualización catastral urbano-rural y digitalizar el 30% de los trámites municipales de mayor demanda.",
+    "pag": 28
+   },
+   {
+    "t": "Abrir un sistema para seguir los reclamos y resolver el 80% a tiempo.",
+    "que": "Reclamos por baches, alumbrado, basura y daños en espacios públicos, con seguimiento y cierre verificable. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Reclamos de calles y basura son del Municipio. Falta el costo.",
+    "cita": "Poner en operación un sistema municipal de seguimiento a solicitudes ciudadanas y resolver el 80% de los reportes dentro del tiempo estimado de atención.",
+    "pag": 28
+   }
+  ],
+  "social": [
+   {
+    "t": "Gestionar con el Ministerio de Salud un hospital en Balao.",
+    "que": "El Municipio aportaría terreno y estudios; la obra y el funcionamiento son del Ministerio de Salud. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "La salud no es competencia del Municipio; la obra es del Ministerio.",
+    "cita": "Instalar la mesa técnica municipio-MSP en el primer semestre de gestión",
+    "pag": 25
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Gestionar más alumbrado público en 6 sectores priorizados.",
+    "que": "Ampliar la luz pública en 6 sectores. La vigilancia la hace la Policía, no el Municipio. El plan no dice cuáles sectores ni cuánto costará.",
+    "v": "media",
+    "n": "El alumbrado sí es del Municipio; la vigilancia no. Sin costo.",
+    "cita": "Gestionar la ampliación de la cobertura de alumbrado público y vigilancia en 6 sectores priorizados.",
+    "pag": 27
+   }
+  ]
+ },
+ "metas": [
+  "Intervenir 8 puntos críticos con obras de drenaje hasta 2031.",
+  "Recolección de basura en 5 recintos adicionales hasta 2031.",
+  "15 km de vías adoquinadas, asfaltadas o mantenidas hasta 2031.",
+  "Catastro urbano-rural completo y 30% de trámites digitalizados hasta 2031.",
+  "80% de los reclamos ciudadanos resueltos en el tiempo estimado."
+ ],
+ "notas": [
+  "Muchas propuestas vienen del plan de desarrollo del cantón (PDOT 2024). Casi ningún proyecto dice cuánto cuesta.",
+  "El plan llama \"municipal\" al hospital, pero dice que la ejecución y operación corresponden al Ministerio de Salud."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61,
+  62,
+  63
+ ],
+ "paginas": 63
+}

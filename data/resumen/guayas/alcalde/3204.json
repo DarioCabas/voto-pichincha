@@ -1,0 +1,111 @@
+{
+ "enfoque": "Plan de 9 ejes: turismo, terminal y movilidad, mercados, vías, campo, salud, agua y ayuda social. Casi no tiene cifras ni costos.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Planear la movilidad y buscar soluciones de transporte, con estudios.",
+    "que": "El plan dice que hará estudios de movilidad y analizará una terminal terrestre. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Tránsito y buses sí son del Municipio. El plan no dice costos.",
+    "cita": "Mejorar la planificación de la movilidad y gestionar soluciones modernas para el transporte",
+    "pag": 7
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Hacer diagnóstico y gestionar ampliaciones y mantenimiento del agua potable.",
+    "que": "El plan habla de diagnóstico, nuevas redes, mantenimiento y control de calidad. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Agua potable sí le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Se plantea diagnóstico, priorización de sectores y gestión de ampliaciones, mantenimiento, tratamiento y control de calidad, de acuerdo con competencias y disponibilidad financiera.",
+    "pag": 6
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Gestionar la mejora de vías urbanas y rurales de mayor necesidad.",
+    "que": "Dice que hará diagnóstico, mantenimiento y drenajes, y que coordinará con la Prefectura. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Calles sí son del Municipio. Las vías rurales dependen de la Prefectura.",
+    "cita": "Gestionar el mejoramiento progresivo de la conectividad vial, priorizando zonas urbanas y rurales",
+    "pag": 6
+   }
+  ],
+  "otros": [
+   {
+    "t": "Dar espacios a comerciantes y productores y hacer ferias.",
+    "que": "El plan también habla de modernizar los mercados y de organizar áreas para productores. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Mercados sí son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Se propone fortalecer espacios para comerciantes y productores y promover ferias y mecanismos de comercialización directa",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Promover campañas de prevención de salud mediante convenios.",
+    "que": "Dice que habrá campañas y convenios de prevención, y una unidad móvil para el campo. No dice cuánto costará.",
+    "v": "baja",
+    "n": "La salud no le toca al Municipio. El plan dice que no reemplazará al Ministerio.",
+    "cita": "El Municipio no sustituirá al Ministerio de Salud Pública; se promoverán campañas y convenios de",
+    "pag": 6
+   },
+   {
+    "t": "Hacer convenios con universidades e institutos para cursos y becas.",
+    "que": "El plan habla de convenios, capacitación técnica y becas con universidades. No dice cuánto costará ni cuántos cupos habrá.",
+    "v": "baja",
+    "n": "La educación no le toca al Municipio. Solo puede ayudar con convenios.",
+    "cita": "La gestión municipal puede contribuir mediante convenios con universidades e institutos, capacitación",
+    "pag": 6
+   },
+   {
+    "t": "Estudiar un centro o albergue temporal y programas sociales.",
+    "que": "Dice que estudiará un albergue temporal y atenderá a adultos mayores y personas en situación de calle. No dice cuánto costará.",
+    "v": "baja",
+    "n": "La ayuda social no está en lo que le toca al Municipio. No dice dónde estará.",
+    "cita": "Protección social Centro o albergue temporal y programas sociales",
+    "pag": 14
+   }
+  ],
+  "economia": [
+   {
+    "t": "Convertir el turismo de naturaleza, fluvial y gastronómico en fuente de empleo.",
+    "que": "Dice que hará un plan de turismo, rutas de naturaleza y gastronomía, y ferias. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Turismo no está en la lista de lo que le toca al Municipio. El plan no dice costos.",
+    "cita": "Convertir el turismo de naturaleza, fluvial, gastronómico y comunitario en una actividad",
+    "pag": 7
+   }
+  ]
+ },
+ "metas": [
+  "Plan de turismo aprobado y rutas promocionadas, 2027–2031.",
+  "Mercados intervenidos y ferias activas, 2027–2031.",
+  "Sectores priorizados atendidos con agua potable, 2027–2031.",
+  "Tramos de vías prioritarios atendidos, según competencia, 2027–2031.",
+  "Calendario: 2027 planificación; 2028 inicio de proyectos; 2031 evaluación final."
+ ],
+ "notas": [
+  "El plan no pone cifras ni costos en ningún proyecto. Dice que dependerá de la disponibilidad financiera.",
+  "Muchos temas no son del Municipio (salud, educación, empleo, ayuda social). Varias frases dicen solo 'gestionar' o 'convenios'."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15
+ ],
+ "paginas": 15
+}

@@ -1,0 +1,124 @@
+{
+ "enfoque": "Copia el plan de desarrollo del cantón 2023-2027: agua, alcantarillado, basura, calles, transporte y riesgos. Incluye policía y salud, que no son del Municipio.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer y aplicar un plan para quitar tráfico en el cruce de las avenidas Quevedo, Guayaquil, Manabí y La Guayas.",
+    "que": "El plan dice que el plan de movilidad estará aprobado y en marcha en los dos primeros años. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Es competencia del Municipio (tránsito y calles). Tiene plazo.",
+    "cita": "Formular y aplicar el Plan de Movilidad y Reestructuración Vial para descongestionar la convergencia de las avenidas Quevedo",
+    "pag": 10
+   },
+   {
+    "t": "Arreglar por fases las vías de mayor tráfico y los accesos a El Rosario y La Guayas.",
+    "que": "El plan da un valor de 21.000.000 de dólares. No dice cuándo terminará ni de dónde saldrá todo el dinero.",
+    "v": "media",
+    "n": "Las calles son del Municipio, pero una obra tan grande depende de préstamos.",
+    "cita": "Ejecutar por fases el proyecto de mejoramiento integral vial, valorado en el PDOT en 21.000.000 de dólares",
+    "pag": 9
+   },
+   {
+    "t": "Ampliar el transporte público urbano, que hoy solo cubren en parte las líneas rurales.",
+    "que": "El plan no dice cuántas rutas ni buses se agregarán, cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio (buses y tránsito). El plan no da detalles.",
+    "cita": "Ampliar la cobertura del transporte público urbano, hoy cubierto solo parcialmente por las líneas rurales intracantonales",
+    "pag": 9
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Trasladar a familias que viven en zonas de riesgo que no se pueden arreglar.",
+    "que": "El plan no dice cuántas familias, cuánto costará ni cuándo. El plan de desarrollo le da la prioridad más alta.",
+    "v": "media",
+    "n": "Prevenir riesgos es del Municipio. El plan no dice dónde ni con qué dinero.",
+    "cita": "Ejecutar la reubicación de los asentamientos ubicados en zonas con riesgo no mitigable",
+    "pag": 13
+   },
+   {
+    "t": "Instalar cámaras de vigilancia en los sectores con más delitos.",
+    "que": "El plan no dice cuántas cámaras, cuánto costará ni cuándo. Pide coordinar con la Policía Nacional.",
+    "v": "baja",
+    "n": "La seguridad es de la Policía, no del Municipio.",
+    "cita": "Implementar un centro de videovigilancia con cámaras en los sectores de mayor incidencia delictiva",
+    "pag": 13
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Contratar el diseño y la obra del plan maestro de agua potable.",
+    "que": "El plan de desarrollo calcula 650.000 dólares para el diseño y 5.000.000 para la obra. Busca crédito del Banco de Desarrollo del Ecuador y cooperación. No dice cuándo terminará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el dinero depende de préstamos y cooperación.",
+    "cita": "Contratar y ejecutar el diseño y la construcción del Plan Maestro de Agua Potable, proyecto que el PDOT valora en 650.000 dólares para el diseño",
+    "pag": 9
+   },
+   {
+    "t": "Hacer por fases el alcantarillado (tuberías de aguas servidas y lluvia) y su tratamiento.",
+    "que": "El plan de desarrollo lo valora en 8.000.000 de dólares. Busca crédito y cooperación. No dice cuándo termina cada fase.",
+    "v": "media",
+    "n": "Competencia municipal, pero el dinero depende de préstamos y cooperación.",
+    "cita": "Ejecutar por fases el Plan Maestro de Alcantarillado Sanitario y Pluvial y los sistemas de tratamiento",
+    "pag": 9
+   },
+   {
+    "t": "Poner cloro al agua y controlar su calidad para quitar la bacteria escherichia coli.",
+    "que": "El plan no dice cuánto costará ni en qué plazo. El objetivo es quitar esa bacteria del agua que llega a las casas.",
+    "v": "alta",
+    "n": "Es competencia del Municipio (agua potable). El plan no dice el costo.",
+    "cita": "Ejecutar un programa de cloración y control de calidad del agua para erradicar la presencia de escherichia coli",
+    "pag": 9
+   },
+   {
+    "t": "Ampliar la recolección de basura, con más atención en la zona rural.",
+    "que": "Hoy cubre el 72,9 %. El plan no dice a qué porcentaje llegará, en qué plazo ni cuánto costará.",
+    "v": "alta",
+    "n": "Es competencia del Municipio (basura). El plan no da meta.",
+    "cita": "Ampliar la cobertura de recolección desde el 72,9 % actual, con énfasis en la zona rural",
+    "pag": 9
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar el catastro, el registro de terrenos y casas de la ciudad y el campo.",
+    "que": "El plan de desarrollo lo valora en 2.000.000 de dólares. Busca más ingresos propios por el impuesto predial. No dice cuándo estará listo.",
+    "v": "alta",
+    "n": "Es competencia del Municipio. El plan no dice cómo se pagará.",
+    "cita": "Ejecutar el proyecto de actualización del catastro urbano y rural, valorado en el PDOT en 2.000.000",
+    "pag": 10
+   }
+  ]
+ },
+ "metas": [
+  "Plan de Movilidad aprobado y en ejecución dentro de los dos primeros años.",
+  "Sistema de gestión ambiental municipal en operación durante el primer año.",
+  "Plan estratégico institucional aprobado durante el primer año.",
+  "Sistema de información local implementado durante los dos primeros años."
+ ],
+ "notas": [
+  "Varias obras tienen costo del plan de desarrollo, pero el plan no dice de dónde saldrá todo el dinero ni cuándo terminarán.",
+  "Incluye temas que no son del Municipio, como policía, escuelas y hospitales, que dependen de otras entidades."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17
+ ],
+ "paginas": 17
+}

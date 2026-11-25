@@ -1,0 +1,120 @@
+{
+ "enfoque": "Plan de toda la lista de Gualea: cuidar el agua, los bosques y la comunidad, y pedir al Estado obras de agua, salud y escuelas. No dice costos.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Cuidar las fuentes de agua, los bosques y los ecosistemas de la parroquia.",
+    "que": "Con control, manejo sostenible y participación de la comunidad. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Cuidar el ambiente sí le toca a la junta. El plan no dice qué acciones concretas.",
+    "cita": "Proteger y conservar las fuentes de agua, bosques y ecosistemas",
+    "pag": 2
+   },
+   {
+    "t": "Dar educación ambiental a la comunidad.",
+    "que": "El plan no dice cómo se hará, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Cursos y charlas sí puede organizarlas la junta.",
+    "cita": "Fortalecer la educación ambiental comunitaria, promoviendo la corresponsabilidad ciudadana",
+    "pag": 3
+   },
+   {
+    "t": "Hacer acciones para prevenir riesgos y adaptarse al cambio climático.",
+    "que": "El plan no dice cuánto costará ni cuándo, ni quién lo pagará.",
+    "v": "media",
+    "n": "Necesita apoyo del Municipio o de la Prefectura. El plan no lo dice.",
+    "cita": "Implementar acciones de gestión de riesgos y adaptación al cambio climático",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Organizar turismo comunitario basado en la cultura y la naturaleza de la zona.",
+    "que": "El plan no dice cuánto costará, quién lo pagará ni cuándo.",
+    "v": "media",
+    "n": "Necesita apoyo de otras instituciones. El plan no dice cuáles.",
+    "cita": "Promover el turismo comunitario sostenible, basado en la identidad cultural del Chocó Andino",
+    "pag": 2
+   },
+   {
+    "t": "Ayudar a crear emprendimientos comunitarios y asociativos.",
+    "que": "El plan dice que habrá apoyo técnico, financiero y comercial del Estado, pero no dice cuánto ni cuándo.",
+    "v": "media",
+    "n": "Depende de instituciones del Estado. El plan no dice cuánto costará.",
+    "cita": "Impulsar emprendimientos comunitarios y asociativos, priorizando iniciativas de economia",
+    "pag": 2
+   },
+   {
+    "t": "Dar cursos y asesoría técnica a los productores.",
+    "que": "El plan no dice cuánto costará ni cuándo. Será en coordinación con entidades del Estado.",
+    "v": "alta",
+    "n": "Apoyar a productores sí le toca a la junta.",
+    "cita": "Facilitar el acceso a procesos de capacitación, asistencia técnica y transferencia de conocimientos",
+    "pag": 2
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer programas de inclusión para mujeres, jóvenes y adultos mayores.",
+    "que": "El plan no dice cuánto costará, cuántos participarán ni cuándo.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta.",
+    "cita": "Implementar programas de inclusión social y participación, orientados a mujeres, jóvenes y",
+    "pag": 2
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir al Estado que amplíe servicios básicos para las comunidades indígenas.",
+    "que": "El plan no dice qué servicios, cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Agua, salud y educación no le tocan a la junta.",
+    "cita": "ampliar y mejorar el acceso a servicios básicos y sociales, priorizando a las comunidades indigenas",
+    "pag": 2
+   },
+   {
+    "t": "Pedir al Municipio obras de escuelas, salud y agua potable.",
+    "que": "El plan no dice cuánto costará, en qué lugares ni cuándo.",
+    "v": "baja",
+    "n": "Le toca al Municipio, no a la junta.",
+    "cita": "Promover y gestionar proyectos con las Instituciones Municipales de Quito",
+    "pag": 2
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Coordinar obras de caminos con otras instituciones.",
+    "que": "El plan no dice qué caminos, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Cuidar caminos se hace junto con la Prefectura.",
+    "cita": "obras viales en la parroquia, garantizando coherencia territorial",
+    "pag": 4
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Convocar a asambleas públicas para informar sobre la gestión.",
+    "que": "El plan dice que se convocará a las comunidades para informar y recibir propuestas. No dice cuántas veces ni cuándo.",
+    "v": "alta",
+    "n": "Reunir a la gente sí le toca a la junta.",
+    "cita": "Convocar periódicamente a las comunidades, organizaciones sociales, juntas vecinales",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan no dice cuánto costará ni cuándo se hará casi ninguna propuesta.",
+  "Es un plan de toda la lista de precandidatos, no de una persona. Varias propuestas dependen de otras instituciones."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "paginas": 6
+}

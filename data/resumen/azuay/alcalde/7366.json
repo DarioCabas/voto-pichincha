@@ -1,0 +1,92 @@
+{
+ "enfoque": "Plan general de agua, vías, cuidado ambiental y turismo. Casi todo son gestiones sin costo ni plazo, y algunas cosas no son del Municipio.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Gestionar mejoras en las vías rurales y urbanas del cantón.",
+    "que": "El plan dice que hará gestiones para mejorar las vías rurales y urbanas. No dice qué vías, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Las calles sí son del Municipio; el plan no dice de dónde saldrá el dinero.",
+    "cita": "Gestión para mejorar las vías rurales y urbanas",
+    "pag": 3
+   },
+   {
+    "t": "Planificar la apertura de vías nuevas de interés cantonal.",
+    "que": "El plan no dice qué vías se abrirán, cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: abrir y planificar calles. Falta el plazo.",
+    "cita": "Planificar la apertura de vías de interés cantonal",
+    "pag": 3
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar el agua potable y el alcantarillado en zonas de expansión urbana.",
+    "que": "El plan no dice qué barrios se beneficiarán ni cuánto costará. Tampoco dice cuándo ni de dónde sale el dinero.",
+    "v": "alta",
+    "n": "Agua y alcantarillado son del Municipio. Faltan costo y plazo.",
+    "cita": "Ampliación de la cobertura de agua potable y alcantarillando en",
+    "pag": 3
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger áreas ambientales, patrimoniales y de riesgo del cantón.",
+    "que": "El plan no dice qué áreas se protegerán ni cómo. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Uso del suelo y prevención de riesgos son del Municipio. Falta detalle.",
+    "cita": "Gestión y Protección de áreas ambientales, patrimoniales y de riesgo",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Buscar oportunidades para el turismo cantonal y comunitario.",
+    "que": "El plan no dice qué se hará exactamente, cuánto costará ni cuándo. No dice qué comunidades se beneficiarán.",
+    "v": "baja",
+    "n": "El turismo no aparece entre lo que le toca al Municipio.",
+    "cita": "Generación de oportunidades para fortalecer el turismo cantonal y",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas públicas para informar sobre la gestión y recibir propuestas.",
+    "que": "Convocar a barrios y organizaciones, con participación de mujeres, jóvenes y grupos vulnerables. El plan no dice cuántas asambleas ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuántas asambleas habrá.",
+    "cita": "Asambleas cantonales públicas y participativas: convocar a las",
+    "pag": 4
+   },
+   {
+    "t": "Explicar el presupuesto del cantón de forma clara y detallada.",
+    "que": "Mostrar asignaciones, inversiones y gastos, y dejar que la comunidad participe en elegir prioridades. El plan no dice cada cuánto.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice con qué frecuencia lo hará.",
+    "cita": "Transparencia presupuestaria: socializar de manera clara y detallada",
+    "pag": 4
+   }
+  ]
+ },
+ "metas": [
+  "Reforestar humedales y páramos: 60% de lo previsto en el plan de ordenamiento del cantón.",
+  "Que al menos 70% de las comunidades del cantón participen en planificación y presupuesto.",
+  "20% de nuevos emprendimientos en el cantón, según el texto del plan (poco claro)."
+ ],
+ "notas": [
+  "El texto viene de OCR y la matriz está desordenada; algunas cifras no se leen bien.",
+  "Muchas propuestas dicen 'gestionar' o 'impulsar' sin costo ni plazo. Seguridad, empleo y salud no son del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "paginas": 8
+}

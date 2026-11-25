@@ -1,0 +1,140 @@
+{
+ "enfoque": "Plan de agua, parques, vivienda, trámites y seguridad en barrios. Incluye salud, policía y escuelas, que no son del Municipio.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Comprar un predio en Kimsakocha para que sea de los cuencanos.",
+    "que": "El plan no dice cuánto costará ni cómo se pagará. Además pide que Kimsakocha sea declarado patrimonio natural de la vida.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará ni cómo se pagará.",
+    "cita": "Adquisición de predio en Kimsakocha para los cuencanos",
+    "pag": 7
+   },
+   {
+    "t": "No respaldar proyectos extractivos que puedan afectar las fuentes de agua.",
+    "que": "El Municipio usaría leyes de uso del suelo, estudios técnicos y defensa jurídica. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Las licencias mineras las da el Gobierno; el Municipio solo usa sus competencias.",
+    "cita": "El Municipio no respaldará proyectos extractivos que puedan afectar las fuentes de agua",
+    "pag": 14
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Crear un sistema público que muestre cuánta agua hay, dónde y su calidad.",
+    "que": "Lo haría el Instituto del agua con ETAPA, la Universidad de Cuenca y las juntas de agua. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio y a ETAPA, que ya mide el agua. El plan no dice cuánto costará.",
+    "cita": "Crear un sistema público que permita saber permanentemente",
+    "pag": 8
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Crear el primer parque metropolitano de Cuenca.",
+    "que": "Incluiría espacios deportivos y culturales para jóvenes, mujeres y niños, y un Museo del Agua. El plan no dice cuánto costará ni cuándo estará listo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni en qué año se hará.",
+    "cita": "Contar con el primer parque metropolitano de Cuenca",
+    "pag": 27
+   },
+   {
+    "t": "Dar al menos 10.000 soluciones de vivienda popular en cuatro años.",
+    "que": "Incluye casas nuevas, mejoras de viviendas, regularizar barrios y lotes con agua y luz. Busca alianzas con MIDUVI y cooperativas. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de alianzas con MIDUVI y otros. El plan no dice cuánto costará.",
+    "cita": "Alcanzar al menos 10.000 soluciones habitacionales durante los cuatro años",
+    "pag": 19
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Hacer un plan urgente de iluminación y recuperación de espacios públicos.",
+    "que": "Sustituir y ampliar luminarias, con prioridad en paradas, parques, mercados, escuelas y zonas de riesgo. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Calles, parques y mercados son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Plan emergente de iluminación y recuperación de espacios",
+    "pag": 25
+   },
+   {
+    "t": "Crear una ruta protegida para buses, tranvía y taxis, con cámaras y botón de alerta.",
+    "que": "Incluiría botón de emergencia, GPS, cámaras, identificación del conductor y paradas iluminadas, conectadas a centrales de emergencia. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Buses y tránsito son del Municipio; la conexión con emergencias depende de otros.",
+    "cita": "Crear: Ruta Protegida, para buses, tranvía y taxis autorizados",
+    "pag": 16
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar o construir al menos 30 km de aceras y ciclovías seguras.",
+    "que": "Incluye aceras accesibles, ciclovías conectadas y estacionamientos seguros. El plan no dice cuánto costará ni en qué año se hará.",
+    "v": "alta",
+    "n": "Calles y vías son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Al menos 30 kilómetros nuevos o rehabilitados de infraestructura",
+    "pag": 20
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Reducir tiempos, costos y requisitos de los trámites municipales.",
+    "que": "Primer año: simplificar los primeros 20 trámites. Meta: 80 % de los trámites más usados en un solo sistema. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Los trámites municipales son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Reducir tiempos, costos y requisitos de los trámites municipales",
+    "pag": 7
+   },
+   {
+    "t": "Crear una página pública con compras, precios, ganadores y avance de obras.",
+    "que": "Mostraría qué compra el Municipio, cuánto cuesta, quién ganó, quién participó, cuánto se pagó y cuánto avanza la obra. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo estará lista.",
+    "cita": "Todo ciudadano debería poder conocer fácilmente: Qué compra el Municipio",
+    "pag": 5
+   }
+  ]
+ },
+ "metas": [
+  "10.000 soluciones de vivienda popular en cuatro años.",
+  "Proteger o restaurar al menos 10.000 hectáreas en cuatro años.",
+  "Reducir en 30 % las interrupciones y problemas de calidad del agua en zonas rurales, frente a la línea base.",
+  "Simplificar los primeros 20 trámites en el año 1.",
+  "Tener el primer parque metropolitano de Cuenca al final del período."
+ ],
+ "notas": [
+  "Incluye salud, policía y escuelas, que no son del Municipio. Varias metas dependen de la Universidad, ETAPA y del Gobierno.",
+  "El plan casi no dice cuánto cuesta cada meta. Dice que una línea base de 120 días precisará los montos."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28
+ ],
+ "paginas": 28
+}

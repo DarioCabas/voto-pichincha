@@ -1,0 +1,110 @@
+{
+ "enfoque": "Organizar fiestas y reuniones con la comunidad; deporte, salud y turismo dependen de pedir ayuda a otras entidades. No dice cuánto cuesta.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Pedir al Ministerio de Salud campañas de salud y mejoras para la atención local.",
+    "que": "Hay campañas y mesas de trabajo cada año y seguimiento a necesidades de infraestructura. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "La salud le toca al Ministerio de Salud, no a la junta.",
+    "cita": "Coordinar con el MSP y demás entidades competentes campañas de salud y gestiones para",
+    "pag": 15
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar cada año las fiestas de Amaguaña junto con la comunidad.",
+    "que": "Incluye Carnaval, Corpus Christi, Inti Raymi y San Pedro. Habrá programación cultural anual con participación comunitaria. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad le toca a la junta. El plan no dice cuánto costará.",
+    "cita": "Fortalecer las festividades y expresiones culturales de Amaguaña mediante organización comunitaria",
+    "pag": 13
+   },
+   {
+    "t": "Gestionar la mejora de espacios deportivos y apoyar a las ligas barriales y parroquiales.",
+    "que": "En 2028 buscaría recuperar espacios y sedes deportivas; en 2029, gestionar infraestructura deportiva. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio o la Prefectura para las obras.",
+    "cita": "Gestionar y coordinar el mejoramiento de espacios deportivos y el apoyo a ligas barriales y parroquiales.",
+    "pag": 14
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer un mapa de atractivos turísticos y luego gestionar su recuperación y señalización.",
+    "que": "En 2027 haría un mapa y elegiría atractivos; en 2028, gestionar su recuperación y señalización. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Las obras y señales dependen del Municipio o la Prefectura.",
+    "cita": "Promover el turismo comunitario y la recuperación y difusión de atractivos naturales, culturales e históricos de la parroquia.",
+    "pag": 16
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Buscar universidades y firmar convenios para asesoría jurídica y técnica.",
+    "que": "Identificar instituciones en 2027 y firmar o gestionar convenios en 2028, para asesorías y pasantías. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "La junta puede gestionar convenios; el plan no dice costos.",
+    "cita": "Gestionar convenios con instituciones de educación superior y otras entidades para asesoría jurídica, técnica",
+    "pag": 17
+   },
+   {
+    "t": "Hacer reuniones periódicas con barrios, comunidades y dirigentes, con agenda pública.",
+    "que": "Desde 2027, agenda de reuniones y puertas abiertas, y una lista pública de compromisos. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Reunirse con vecinos y dirigentes es tarea de la junta.",
+    "cita": "Fortalecer la relación permanente con barrios, comunidades, organizaciones y dirigentes mediante espacios de participación y coordinación.",
+    "pag": 18
+   },
+   {
+    "t": "Entregar informes públicos cada seis meses y hacer una rendición de cuentas cada año.",
+    "que": "Hay informe público semestral y rendición de cuentas anual. Las observaciones de la gente se registran y se tienen en cuenta. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Son informes y reuniones de la propia junta.",
+    "cita": "Las observaciones ciudadanas formuladas en los espacios de rendición de cuentas serán registradas y consideradas en el seguimiento del plan,",
+    "pag": 24
+   }
+  ]
+ },
+ "metas": [
+  "Programación cultural anual con participación comunitaria.",
+  "Acciones anuales de apoyo y gestión deportiva.",
+  "Campañas y mesas de coordinación de salud cada año.",
+  "Atractivos priorizados y acciones de promoción cada año.",
+  "Reuniones periódicas y matriz pública de compromisos."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Parece copiado de otro plan: habla de la pandemia y del Plan 2021-2025. No dice cómo apoyará a productores ni emprendedores."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26
+ ],
+ "paginas": 26
+}

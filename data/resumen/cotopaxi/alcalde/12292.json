@@ -1,0 +1,124 @@
+{
+ "enfoque": "Mejorar agua, calles, basura y parques de Pujilí. El diagnóstico del plan copia la estructura de un plan provincial, no datos propios del cantón.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Hacer mantenimiento y arreglar la infraestructura municipal de agua y alcantarillado.",
+    "que": "El plan no dice qué obras ni en qué barrios, ni cuánto costará. Dice que dependerá del presupuesto y de estudios.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero depende del presupuesto.",
+    "cita": "Mantenimiento preventivo y rehabilitación progresiva de infraestructura municipal.",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Dar mantenimiento y arreglar calles, aceras, bordillos y drenajes.",
+    "que": "El plan no dice qué calles se arreglarán ni cuánto costará. Habla de hacerlo de forma progresiva.",
+    "v": "alta",
+    "n": "Le toca al Municipio; el plan no da calles ni plazos.",
+    "cita": "Mantenimiento y rehabilitación progresiva de calles, aceras, bordillos y sistemas de drenaje.",
+    "pag": 7
+   },
+   {
+    "t": "Cuidar parques, plazas, áreas verdes y espacios comunitarios.",
+    "que": "El plan no dice qué parques se mejorarán ni cuándo. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio; el plan no da lugares concretos.",
+    "cita": "Mejoramiento y mantenimiento de parques, plazas, áreas verdes y espacios comunitarios.",
+    "pag": 7
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Mejorar señales de tránsito, seguridad para peatones y acceso para todas las personas.",
+    "que": "El plan no dice en qué calles se hará ni cuánto costará. No dice cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio; el plan no da lugares.",
+    "cita": "Mejoramiento de señalización vial, seguridad peatonal y accesibilidad universal.",
+    "pag": 7
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Mejorar las rutas y la frecuencia de recolección de la basura.",
+    "que": "El plan no dice en qué barrios ni cuánto costará. Habla de hacerlo de forma progresiva.",
+    "v": "alta",
+    "n": "Le toca al Municipio; la basura es competencia municipal.",
+    "cita": "Optimización progresiva de rutas y frecuencia de recolección de residuos",
+    "pag": 9
+   },
+   {
+    "t": "Hacer campañas para separar la basura desde casa y reciclar.",
+    "que": "El plan no dice cuántas campañas se harán, cuándo ni cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca al Municipio; el plan no da metas.",
+    "cita": "Campañas de separación en la fuente, reciclaje y reducción de residuos.",
+    "pag": 9
+   },
+   {
+    "t": "Cuidar áreas verdes, quebradas y espacios ambientales del cantón.",
+    "que": "El plan no dice qué quebradas ni cuánto costará. Tampoco dice cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio; el plan no da lugares.",
+    "cita": "Mantenimiento y recuperación de áreas verdes, quebradas y espacios ambientales de competencia municipal.",
+    "pag": 9
+   }
+  ],
+  "otros": [
+   {
+    "t": "Dar capacitación a las comunidades para prevenir y responder a emergencias.",
+    "que": "El plan no dice a cuántas comunidades ni cuándo. Dice que se coordinará con el sistema nacional de riesgos.",
+    "v": "alta",
+    "n": "Le toca al Municipio; se coordina con el nivel nacional.",
+    "cita": "Capacitación comunitaria para prevención y respuesta ante emergencias, coordinando con el Sistema Nacional Descentralizado de Gestión de Riesgos.",
+    "pag": 9
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar capacitación y asistencia a emprendimientos y organizaciones productivas.",
+    "que": "El plan no dice cuántos emprendedores se apoyarán ni cuánto costará.",
+    "v": "media",
+    "n": "Puede hacerlo, pero el plan no dice con qué dinero.",
+    "cita": "Programas de capacitación y asistencia para emprendimientos y organizaciones productivas.",
+    "pag": 9
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar la información de gestión, contratos, presupuesto y resultados del Municipio.",
+    "que": "El plan no dice cada cuánto se publicará ni cómo se medirá. Dice que será conforme a la ley.",
+    "v": "alta",
+    "n": "Le toca al Municipio; el plan no da fechas.",
+    "cita": "Publicación periódica de información de gestión, contratación, presupuesto y resultados conforme a la normativa.",
+    "pag": 11
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "Las metas del plan están en tablas ilegibles y el plan dice que son referenciales. No hay cifras claras.",
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero. Sus metas dependen del presupuesto."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16
+ ],
+ "paginas": 16
+}

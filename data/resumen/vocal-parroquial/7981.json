@@ -1,0 +1,126 @@
+{
+ "enfoque": "Plan general de toda la parroquia, no propio de un vocal. Incluye agua, salud y policía, que no le tocan a la junta. Sí propone asambleas, brigadas vecinales y cuidado ambiental.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a la red vial y poner señales técnicas en vías colectoras.",
+    "que": "El plan no dice qué vías ni cuánto costará. Pide trabajar con los niveles de gobierno que tienen esa tarea.",
+    "v": "media",
+    "n": "Los caminos se cuidan junto con la Prefectura, no sola la junta.",
+    "cita": "el mantenimiento de la red vial, la señalización técnica de vías colectoras",
+    "pag": 3
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Vigilar que las obras de agua potable y alcantarillado se hagan bien.",
+    "que": "El plan no dice qué obras ni cuánto costará. Dice que los barrios altos son prioridad.",
+    "v": "baja",
+    "n": "Agua potable no le toca a la junta; le toca a la empresa de agua (EPMAPS).",
+    "cita": "Vigilar el cumplimiento técnico y oportuno de las obras de saneamiento, agua potable",
+    "pag": 5
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Cuidar las fuentes de agua, bosques y ecosistemas con control y participación de vecinos.",
+    "que": "El plan no dice qué zonas ni cuánto costará. Se haría con control y participación de la comunidad.",
+    "v": "alta",
+    "n": "Cuidar el ambiente sí le toca a la junta.",
+    "cita": "Proteger y conservar las fuentes de agua, bosques y ecosistemas estratégicos",
+    "pag": 5
+   },
+   {
+    "t": "Dar educación ambiental en la comunidad para cuidar el territorio.",
+    "que": "El plan no dice cuántas charlas ni cuánto costará. Incluye saberes ancestrales y prácticas sostenibles de uso del territorio.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta.",
+    "cita": "Fortalecer la educación ambiental comunitaria, promoviendo la corresponsabilidad ciudadana",
+    "pag": 5
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Formar brigadas de vecinos en los barrios para la seguridad.",
+    "que": "El plan no dice cuántas brigadas ni cuánto costará. Trabaja con la Policía y el Ministerio del Interior.",
+    "v": "alta",
+    "n": "Organizar vecinos sí le toca a la junta; la policía no.",
+    "cita": "la conformación de brigadas barriales, la comunicación vecinal",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer funcionar el Centro de Desarrollo Económico para dar cursos y asesoría.",
+    "que": "El plan lo quiere listo en los dos primeros años. No dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Necesita apoyo de universidades y entidades del Estado.",
+    "cita": "Fortalecer el Centro de Desarrollo Económico y Comunitario como instancia de capacitación",
+    "pag": 3
+   },
+   {
+    "t": "Armar una ruta gastronómica y turística de Conocoto.",
+    "que": "El plan no dice qué lugares ni cuánto costará. Dice que se apoyará en el Ministerio de Turismo y universidades.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Ministerio de Turismo y otras entidades.",
+    "cita": "impulso de una ruta gastronómica, cultural y turística que destaque el mercado",
+    "pag": 4
+   }
+  ],
+  "social": [
+   {
+    "t": "Destinar cada año el 10% de los ingresos no tributarios a grupos prioritarios.",
+    "que": "Son grupos como jóvenes, mujeres, adultos mayores y personas con discapacidad. El plan no dice cuánto es en dinero.",
+    "v": "alta",
+    "n": "Usa dinero propio de la junta. El plan no dice cuánto es.",
+    "cita": "los ingresos no tributarios se destine anualmente a grupos de atención prioritaria",
+    "pag": 4
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer cuatro asambleas públicas al año para contar en qué se gasta.",
+    "que": "Se invita a barrios, organizaciones y juntas vecinales a preguntar. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Reunir a la comunidad sí le toca a la junta.",
+    "cita": "mediante cuatro asambleas parroquiales anuales, actualización permanente de los canales institucionales",
+    "pag": 5
+   },
+   {
+    "t": "Dar espacio en las sesiones de la junta a delegados de barrios y ciudadanos.",
+    "que": "La Silla Vacía es un asiento en las sesiones para ciudadanos o delegados de barrios. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Se hace según la ley; le toca a la junta aplicarla.",
+    "cita": "Garantizar el uso efectivo de la Silla Vacía en las sesiones de la Junta Parroquial",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Cuatro asambleas parroquiales públicas al año.",
+  "Informes de avance cada cuatro meses.",
+  "Informes del presupuesto cada tres meses.",
+  "El 10% de los ingresos no tributarios para grupos prioritarios, cada año.",
+  "Centro de Desarrollo Económico y Comunitario implementado y consolidado en los dos primeros años."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Parte del plan habla de agua, salud, educación y policía, que no le tocan a la junta. Es un plan general de la parroquia."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "paginas": 12
+}

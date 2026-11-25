@@ -1,0 +1,139 @@
+{
+ "enfoque": "Obras de agua, vías, basura y parques. Muchas dependen de préstamos o del Gobierno, y el plan no dice cuánto cuestan. Partes del texto nombran Latacunga.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar el agua potable para más casas urbanas y rurales.",
+    "que": "Ampliar y mejorar almacenamiento, tratamiento y distribución del agua. El plan no dice cuánto costará. Buscará préstamos del Banco de Desarrollo.",
+    "v": "media",
+    "n": "Es tarea del Municipio, pero depende de préstamos y del Ministerio del Agua.",
+    "cita": "Incremento del caudal de aprovechamiento público para una mayor cobertura del servicio urbano y rural, con la ampliación, mejora y equipamiento de la infraestructura de almacenamiento, tratamiento y distribución.",
+    "pag": 17
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Manejar la basura del cantón junto con otros municipios, desde una mancomunidad.",
+    "que": "Sistema para manejar la basura común, con una mancomunidad (unión de varios municipios). El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio; lo haría junto con otros municipios.",
+    "cita": "Sistema de gestión integral de residuos sólidos enfocada a la gestión de desechos comunes, desde la mancomunidad.",
+    "pag": 15
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Construir conectores viales (calles que unen sectores) del cantón.",
+    "que": "El plan pone 20 km por año. No dice cuánto costará; se haría con gestión compartida, autogestión y préstamos.",
+    "v": "alta",
+    "n": "Le toca al Municipio; también depende de la Prefectura y del Ministerio de Transporte.",
+    "cita": "Desarrollo de conectores viales cantonales bajo gestión compartida, autogestión y préstamos.",
+    "pag": 17
+   },
+   {
+    "t": "Mejorar las áreas de subida y bajada de pasajeros y carga de buses.",
+    "que": "El plan describe un sistema interprovincial de terminal. No dice cuánto costará ni cuándo. Lo financiarían el Banco del Estado y el Gobierno central.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de préstamos y del Gobierno central.",
+    "cita": "Implementación de un sistema de movilidad de pasajeros y carga interprovincial de áreas de embarque y desembarque",
+    "pag": 13
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir plataformas comerciales en zonas nuevas de crecimiento urbano.",
+    "que": "El plan no dice cuánto costará ni cuándo. Lo harían el Banco de Desarrollo y el Gobierno central, con el Ministerio de Producción.",
+    "v": "media",
+    "n": "Es tema de mercados, pero depende de bancos y del Gobierno central.",
+    "cita": "Construcción de Plataformas comerciales en zonas de expansión.",
+    "pag": 17
+   },
+   {
+    "t": "Actualizar el Plan de Desarrollo y Ordenamiento Territorial, que ordena el uso del suelo.",
+    "que": "Es el plan que define dónde construir y cómo usar el suelo del cantón. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al alcalde y al Municipio, según la ley.",
+    "cita": "Se actualiza el Plan de Desarrollo y Ordenamiento Territorial.",
+    "pag": 15
+   },
+   {
+    "t": "Construir espacios públicos para recreación, cultura y deporte, con su equipamiento.",
+    "que": "El plan no dice en qué barrios se harán ni cuánto costarán. Dice que avanzará 25% cada año.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice en qué lugares se harán.",
+    "cita": "Desarrollo urbano y rural con espacios públicos de recreación cultura y deporte, con su respectivo equipamiento.",
+    "pag": 15
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Crear un departamento de seguridad ciudadana y justicia indígena.",
+    "que": "El plan no dice cuánto costará ni cuándo. Lo haría junto con la Policía Nacional y otras instituciones.",
+    "v": "baja",
+    "n": "La policía no es del Municipio; el alcalde solo puede apoyar.",
+    "cita": "Implementación del departamento de seguridad ciudadana y justicia indígena",
+    "pag": 18
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear un patronato de ayuda social para familias pobres y grupos vulnerables.",
+    "que": "El plan no dice cuánto costará ni cuándo. Los temas de salud y desnutrición son del Ministerio de Salud Pública.",
+    "v": "baja",
+    "n": "La salud y la nutrición no son del Municipio.",
+    "cita": "Crear Patronato de amparo social que permita el acceso a familias de escasos recursos y grupos vulnerables",
+    "pag": 20
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Abrir espacios donde la gente participe en decisiones y en el control de la gestión.",
+    "que": "Incluye asambleas, silla vacía y cabildos ampliados. El plan no dice cuánto costará; da avances de 50%, 25% y 25%.",
+    "v": "alta",
+    "n": "Le toca al Municipio; el plan no dice cuánto costará.",
+    "cita": "Se establecerá un gobierno abierto el cual promueva una amplia participación",
+    "pag": 20
+   }
+  ]
+ },
+ "metas": [
+  "Conectores viales: 20 km por año, según la tabla del plan.",
+  "Catastro (mapa de terrenos y casas): actualización cada dos años.",
+  "Agua de consumo: avance de 30%, 30% y 40% en tres años.",
+  "Gobierno abierto: avance de 50%, 25% y 25% en tres años.",
+  "Espacios públicos: avance de 25% cada año."
+ ],
+ "notas": [
+  "Partes del texto hablan de Latacunga y de concejales, no del alcalde. Parece copiado de otro plan.",
+  "Casi no dice cuánto costará cada obra ni de dónde saldrá el dinero. Los porcentajes no tienen base."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25
+ ],
+ "paginas": 25
+}

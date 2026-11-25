@@ -1,0 +1,121 @@
+{
+ "enfoque": "Propone agua, alcantarillado, basura, calles, parques y uso del suelo. Casi no dice cuánto costará cada obra ni en cuánto tiempo.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar las redes de agua potable hasta cubrir todo el cantón.",
+    "que": "Dice que seguirá y acelerará el plan de redes de agua. No dice cuánto costará ni en cuánto tiempo llegará a todos.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice costo ni plazo.",
+    "cita": "Continuar y acelerar el plan de ampliación de redes de agua potable hasta lograr la cobertura universal en Durán.",
+    "pag": 7
+   },
+   {
+    "t": "Ampliar el alcantarillado, empezando por los sectores con más falta.",
+    "que": "Incluye alcantarillado sanitario y pluvial (aguas lluvias). El plan no dice cuánto costará ni cuándo se terminará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice costo ni plazo.",
+    "cita": "Ampliar la cobertura del sistema de alcantarillado sanitario y pluvial, priorizando los sectores con mayor déficit.",
+    "pag": 6
+   },
+   {
+    "t": "Modernizar la recolección de basura, con rutas y frecuencias por sector.",
+    "que": "El plan no dice cuánto costará, cuántas rutas se harán ni en cuánto tiempo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice costo ni plazo.",
+    "cita": "Modernizar el sistema de recolección de basura con rutas y frecuencias optimizadas por sector.",
+    "pag": 8
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Eliminar los botaderos a cielo abierto y convertir esos terrenos en áreas verdes o comunitarias.",
+    "que": "Los botaderos son basureros al aire libre. El plan no dice cuántos hay, dónde están ni cuándo se cerrarán.",
+    "v": "alta",
+    "n": "Es tarea de basura del Municipio. El plan no dice dónde ni cuándo.",
+    "cita": "Erradicar los botaderos a cielo abierto y recuperar esos espacios como áreas verdes o comunitarias.",
+    "pag": 8
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar el Plan de Uso y Gestión de Suelo, que define qué se puede construir en cada zona.",
+    "que": "Se hará con participación y asesoría técnica. El plan no dice cuándo estará listo ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice plazo.",
+    "cita": "Actualizar el Plan de Uso y Gestión de Suelo (PUGS) de forma participativa y con asesoría técnica multidisciplinaria.",
+    "pag": 8
+   },
+   {
+    "t": "Regularizar poco a poco los barrios irregulares, junto con el Ministerio de Vivienda.",
+    "que": "La parte de títulos de tierra la hace el Ministerio de Vivienda. El plan no dice cuántos barrios ni cuándo.",
+    "v": "media",
+    "n": "Depende del Ministerio de Vivienda para los títulos.",
+    "cita": "Implementar un programa progresivo de regularización de asentamientos humanos irregulares, en coordinación con el Ministerio de Vivienda para el componente de titularización.",
+    "pag": 8
+   },
+   {
+    "t": "Recuperar y modernizar parques, malecones y plazas, con diseño seguro e incluyente.",
+    "que": "El plan no dice cuáles parques se arreglarán ni cuánto costará. Dice que serán espacios incluyentes y seguros.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuáles ni cuándo.",
+    "cita": "Recuperar y modernizar espacios públicos: parques, malecones y plazas, con enfoque incluyente y seguro.",
+    "pag": 8
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar y tapar baches de calles urbanas con dinero fijo cada año.",
+    "que": "El plan dice que habrá presupuesto fijo anual para esto. No dice cuánto dinero ni cuántas calles.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice el monto.",
+    "cita": "Ejecutar un plan permanente de rehabilitación y bacheo de vías urbanas con presupuesto fijo anual.",
+    "pag": 8
+   },
+   {
+    "t": "Cambiar rutas, frecuencias y paradas del bus urbano junto con las cooperativas.",
+    "que": "Se hará en coordinación con las cooperativas de transporte. El plan no dice cuándo ni qué rutas cambiarán.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero necesita acuerdo con las cooperativas.",
+    "cita": "Reorganizar rutas, frecuencias y paradas del transporte público urbano en coordinación con las cooperativas de transporte.",
+    "pag": 8
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Poner más alumbrado y cámaras en lugares con problemas, junto con los vecinos.",
+    "que": "El plan no dice cuántas luces ni cámaras habrá ni cuánto costará. La seguridad pública es del Estado; el Municipio solo apoya.",
+    "v": "media",
+    "n": "La luz es del Municipio. La seguridad pública es de la Policía.",
+    "cita": "Ampliar la cobertura de alumbrado público y videovigilancia en puntos críticos identificados junto a la comunidad.",
+    "pag": 6
+   }
+  ]
+ },
+ "metas": [
+  "Informes de presupuesto y obras cada 3 meses, publicados en la web.",
+  "Una rendición de cuentas al año, ante la ciudadanía.",
+  "Presupuesto fijo cada año para arreglar calles.",
+  "Visión del plan: al 2027, servicios básicos para todos en Durán."
+ ],
+ "notas": [
+  "El plan casi no dice cuánto costará cada obra ni en cuánto tiempo. Tampoco dice de dónde saldrá el dinero.",
+  "Varias ideas (seguridad, vivienda, empleo) dependen de otras entidades. El plan lo reconoce, pero no dice cómo se coordinará."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "paginas": 12
+}

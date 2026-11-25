@@ -1,0 +1,94 @@
+{
+ "enfoque": "Ampliar agua y alcantarillado, hacer drenaje de aguas lluvias, aceras y calles, y pedir a la Prefectura los caminos rurales. No dice cuánto cuesta.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar agua potable y alcantarillado, primero en los sectores con más habitantes, como la ciudadela Atilio Velez Aray.",
+    "que": "El plan no dice cuánto costará. Primero hará diagnóstico y diseños; prevé empezar obras en 2028.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cómo la pagará.",
+    "cita": "Ampliar la cobertura de agua potable y alcantarillado sanitario, priorizando sectores con mayor densidad poblacional como la ciudadela Atilio Velez Aray.",
+    "pag": 7
+   },
+   {
+    "t": "Construir un sistema de aguas lluvias y un mapa de riesgo de inundación y deslaves.",
+    "que": "El plan no dice cuánto costará. Incluye un mapa de riesgos por la topografía irregular del cantón.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Construir un sistema de aguas lluvias y un mapa cantonal de riesgo de inundación y deslaves, debido a la topografia irregular del cantón El Empalme.",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir aceras, bordillos y calles asfaltadas, y ampliar el alumbrado público en la cabecera y los recintos.",
+    "que": "El plan no dice cuánto costará. El alumbrado se haría con convenios y con la empresa eléctrica CNEL.",
+    "v": "media",
+    "n": "Depende de convenios y de la empresa eléctrica. El plan no dice cuánto costará.",
+    "cita": "Construir aceras, bordillos, calles asfaltadas y ampliar el alumbrado público en la cabecera cantonal, parroquias rurales a través de convenios interinstitucionales",
+    "pag": 7
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Pedir a la Prefectura del Guayas el arreglo permanente de los caminos vecinales de los recintos.",
+    "que": "Los caminos vecinales son de la Prefectura, no del Municipio. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "No le toca al Municipio. Solo puede gestionarlo con la Prefectura.",
+    "cita": "Gestionar junto a la Prefectura del Guayas y gobiernos parroquiales el mejoramiento y mantenimiento permanente de los caminos vecinales.",
+    "pag": 7
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Coordinar la seguridad con el Ministerio del Interior y dar facilidades a los organismos competentes.",
+    "que": "El plan no dice qué hará el Municipio en seguridad ni cuánto costará.",
+    "v": "baja",
+    "n": "La policía no es del Municipio. Solo puede coordinar.",
+    "cita": "Fortalecer la seguridad en coordinación con el ministerio del interior y como gobierno autónomo descentralizado",
+    "pag": 7
+   }
+  ],
+  "social": [
+   {
+    "t": "Tener una Unidad Municipal de Género con rutas y protocolos contra la violencia hacia las mujeres.",
+    "que": "El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Es parte del Municipio. El plan no dice cuánto costará.",
+    "cita": "dotándola de rutas claras y protocolos de atención y prevención frente a la violencia contra las mujeres",
+    "pag": 14
+   }
+  ]
+ },
+ "metas": [
+  "Informe público de auditoría en los primeros 100 días.",
+  "Diagnóstico técnico de sectores durante el primer semestre de gestión.",
+  "Plan maestro de drenaje publicado en el primer año.",
+  "Informe zonal cada tres meses y tablero de servicios cada mes."
+ ],
+ "notas": [
+  "El plan no trae costos ni presupuesto; dice que el dinero real se verificará al asumir el cargo.",
+  "Caminos rurales, seguridad, salud y escuelas no son del Municipio; el plan solo propone gestionarlos con otras instituciones."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17
+ ],
+ "paginas": 17
+}

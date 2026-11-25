@@ -1,0 +1,125 @@
+{
+ "enfoque": "Propone empleo y formación para jóvenes, agua, alcantarillado, calles, basura e inundaciones, y gastar menos en sueldos municipales. Varias ideas vienen del plan del cantón.",
+ "tabla": {
+  "economia": [
+   {
+    "t": "Crear la Dirección Municipal de Juventud, Formación y Empleo.",
+    "que": "Tendrá presupuesto propio y metas anuales publicadas. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Es una oficina del propio municipio. El plan no dice cuánto cuesta.",
+    "cita": "Crear la Dirección Municipal de Juventud, Formación y Empleo, con presupuesto propio y metas anuales publicadas.",
+    "pag": 6
+   },
+   {
+    "t": "Poner en marcha un centro municipal de formación técnica para la agroindustria.",
+    "que": "Enseñaría mantenimiento mecánico, electricidad industrial y control de calidad. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "Formación técnica es educación, no le toca al Municipio.",
+    "cita": "Poner en marcha un Centro Municipal de Formación Técnica con oferta orientada a la agroindustria",
+    "pag": 6
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar el alcantarillado sanitario para llegar a más casas.",
+    "que": "Parte de una cobertura de 47,96 % en sectores urbanos con déficit. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Agua y alcantarillado le tocan al Municipio. El plan no dice cuánto costará.",
+    "cita": "Ejecutar un plan de ampliación del alcantarillado sanitario para elevar la cobertura desde el 47,96 %",
+    "pag": 7
+   },
+   {
+    "t": "Reducir el agua que se pierde por fugas y conexiones ilegales.",
+    "que": "Hoy casi la mitad del agua no se cuenta (48,40 %). El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Es un servicio municipal. El plan no dice cuánto costará.",
+    "cita": "Reducir el agua no contabilizada, hoy en 48,40 %, mediante sectorización de redes, detección y reparación de fugas",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Publicar un calendario anual de arreglos de calles por sector.",
+    "que": "Incluirá fechas, montos y responsables por lotización, ciudadela, cooperativa y recinto. El plan no dice cuánto costará en total.",
+    "v": "alta",
+    "n": "Calles y obras le tocan al Municipio. El plan no dice el costo total.",
+    "cita": "Elaborar y publicar un cronograma anual de intervención vial por lotización, ciudadela, cooperativa y recinto, con fechas, montos y responsables.",
+    "pag": 8
+   },
+   {
+    "t": "Asfaltar, adoquinar y poner aceras y bordillos en la cabecera y en los recintos grandes.",
+    "que": "Se da prioridad a la cabecera cantonal y a los recintos de mayor población. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Calles y aceras le tocan al Municipio. El plan no dice cuánto costará.",
+    "cita": "Priorizar el asfaltado, adoquinado, aceras y bordillos en la cabecera cantonal y en los recintos de mayor población.",
+    "pag": 8
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Llevar la recolección de basura a los recintos y cooperativas rurales.",
+    "que": "Con frecuencias y horarios publicados. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "La basura es competencia municipal. El plan no dice el costo.",
+    "cita": "Ampliar la cobertura de recolección hacia los recintos y las cooperativas rurales, con frecuencias y horarios publicados.",
+    "pag": 7
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Hacer drenajes y limpiar canales para evitar inundaciones.",
+    "que": "Se harán en zonas de inundación recurrente. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "La prevención de desastres es competencia municipal. Falta el costo.",
+    "cita": "Ejecutar obras de drenaje, limpieza de canales y mitigación frente a inundaciones",
+    "pag": 9
+   },
+   {
+    "t": "Instalar cámaras de videovigilancia en accesos viales y puntos de mayor incidencia.",
+    "que": "Se conectarían con la Policía Nacional. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Las cámaras pueden ser municipales, pero depende de la Policía Nacional.",
+    "cita": "Implementar un sistema de videovigilancia municipal en los accesos viales y en los puntos de mayor incidencia",
+    "pag": 9
+   },
+   {
+    "t": "Pedir al Ministerio del Interior más Unidades de Policía Comunitaria.",
+    "que": "El Municipio solo gestionaría la petición. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "La policía no le toca al Municipio, depende del Gobierno.",
+    "cita": "Gestionar ante el Ministerio del Interior el fortalecimiento de las Unidades de Policía Comunitaria",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Cobertura de alcantarillado superior al 47,96 % de línea base, con meta anual publicada.",
+  "Calificación del regulador de agua por encima del 63,57 % obtenido en 2024.",
+  "Dirección de Juventud, Formación y Empleo creada y operando durante el primer año.",
+  "Plan cantonal de gestión de riesgos aprobado durante el primer año.",
+  "Publicación mensual de la ejecución presupuestaria desde el primer trimestre de gestión."
+ ],
+ "notas": [
+  "Muchas ideas vienen del plan de desarrollo del cantón. Varias piden al Gobierno o a la Policía, que no son del Municipio.",
+  "El plan no dice cuánto costará casi ninguna propuesta. Tampoco dice de dónde saldrá el dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15
+ ],
+ "paginas": 15
+}

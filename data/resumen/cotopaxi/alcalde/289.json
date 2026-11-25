@@ -1,0 +1,178 @@
+{
+ "enfoque": "Sigue obras de 2023-2027: tren, agua y alcantarillado, vías y centro urbano. Anexos citan un plan 2023-2027 de otro partido (Lista 23).",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Mejorar las vías del cantón y la seguridad vial.",
+    "que": "El plan no dice qué calles se arreglarán ni cuánto costará. Habla de una movilidad inteligente, segura e incluyente.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué calles ni cuándo.",
+    "cita": "Mejorar la infraestructura vial, la movilidad y la seguridad vial del cantón, avanzando hacia una movilidad inteligente, segura e incluyente.",
+    "pag": 6
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar el agua potable y el alcantarillado, sobre todo en parroquias rurales.",
+    "que": "Hay un déficit de 70% en agua y 75% en alcantarillado. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, es competencia exclusiva. El plan no dice el costo.",
+    "cita": "Dado el déficit histórico de 70% en agua entubada y 75% en alcantarillado, este proyecto tiene el mayor valor",
+    "pag": 41
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Modernizar la recolección de basura, proteger quebradas y ríos.",
+    "que": "El plan no dice qué camiones se comprarán ni cuánto costará. Tampoco dice qué quebradas se protegerán.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará.",
+    "cita": "Modernizar la recolección de residuos, proteger quebradas y ríos, y fortalecer la educación ambiental.",
+    "pag": 6
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer proyectos para revitalizar el centro y las parroquias.",
+    "que": "El plan habla de diseñar proyectos, no de construir obras. No dice en qué sitios ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Solo menciona diseñar proyectos, no obras.",
+    "cita": "Diseñar proyectos de revitalización de las centralidades urbanas y parroquiales mediante la mejora del espacio público, equipamientos y conectividad territorial.",
+    "pag": 7
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Ampliar las cámaras de videovigilancia conectadas al ECU 911.",
+    "que": "El plan dice que hay una fase inicial instalada. No dice cuántas cámaras se sumarán ni cuánto costará.",
+    "v": "media",
+    "n": "Las cámaras sí. La policía no le toca al Municipio.",
+    "cita": "Cámaras enlazadas a ECU 911 Policía Municipal Fase inicial instalada",
+    "pag": 48
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer programas sociales para grupos prioritarios, empleo y emprendimiento.",
+    "que": "El plan no dice qué programas, a cuántas personas ni cuánto costará.",
+    "v": "media",
+    "n": "Crear empleo no le toca al Municipio. Programas sociales sí, sin detalle.",
+    "cita": "Impulsar programas sociales para grupos de atención prioritaria y fortalecer capacidades, empleo y emprendimiento,",
+    "pag": 6
+   }
+  ],
+  "economia": [
+   {
+    "t": "Ordenar el comercio popular y hacer un plan agrícola.",
+    "que": "El plan no dice dónde ni cuánto costará. La parte agrícola depende también de la Prefectura y del Ministerio de Agricultura.",
+    "v": "media",
+    "n": "El comercio sí es del Municipio. El plan agrícola depende de otros niveles.",
+    "cita": "Fortalecer el desarrollo económico rural y urbano mediante planificación agrícola y regularización del comercio popular.",
+    "pag": 6
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer trámites municipales en línea con el sistema SIGAD.",
+    "que": "Trámites y reportes en línea, de forma permanente. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Trámites y reportes ciudadanos en línea a través del SIGAD (periodicidad: permanente).",
+    "pag": 42
+   },
+   {
+    "t": "Hacer presupuestos participativos en cada parroquia cada año.",
+    "que": "Se asignará inversión real por parroquia, cada año. El plan no dice cuánto dinero será.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto dinero.",
+    "cita": "Presupuestos participativos parroquiales con asignación real de la inversión (periodicidad: anual).",
+    "pag": 42
+   }
+  ],
+  "otros": [
+   {
+    "t": "Recuperar la estación del tren y hacer un museo con explanada.",
+    "que": "Obra en continuidad 2023-2027. El plan no dice cuánto costará ni el plazo exacto.",
+    "v": "alta",
+    "n": "Le toca al Municipio: patrimonio y espacios públicos. Sin costo.",
+    "cita": "Recuperación del patrimonio ferroviario del cantón mediante la implementación de un museo y una explanada",
+    "pag": 41
+   },
+   {
+    "t": "Hacer obras grandes de infraestructura, sin decir cuáles.",
+    "que": "El plan no dice qué obra ni cuánto costará. En la tabla de fondos aparece como No asignado.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el plan no dice qué obra.",
+    "cita": "Definir y ejecutar obras de infraestructura estratégica de gran escala para el cantón,",
+    "pag": 7
+   }
+  ]
+ },
+ "metas": [
+  "Mínimo 200 emprendimientos apoyados en el cuatrienio.",
+  "Más de 90% del presupuesto ejecutado cada año.",
+  "100% de cumplimiento cada año del mínimo legal de 10% para grupos prioritarios."
+ ],
+ "notas": [
+  "Los anexos citan un plan 2023-2027 de otro partido (Lista 23) y un borrador interno de campaña. Revise si es propio.",
+  "Casi no hay costos ni plazos por propuesta. El plan no dice cuánto costará cada obra."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54
+ ],
+ "paginas": 54
+}

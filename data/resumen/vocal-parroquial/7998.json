@@ -1,0 +1,120 @@
+{
+ "enfoque": "Plan general de la parroquia: seguridad, calles, un mercado, basura, incendios y turismo. Muchas obras dependen del Municipio, la Prefectura o el Estado.",
+ "tabla": {
+  "seguridad": [
+   {
+    "t": "Crear brigadas de seguridad en la parroquia y los barrios, con capacitación del Gobierno.",
+    "que": "Las brigadas se formarían con capacitación de entidades del Gobierno. El plan no dice cuántas personas ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Gobierno. La policía no le toca a la junta.",
+    "cita": "mediante la creación de brigadas de seguridad con capacitación con entidades del Gobierno",
+    "pag": 6
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Gestionar el arreglo de calles y vías de la cabecera parroquial y de los barrios.",
+    "que": "Incluye pavimentar, repavimentar y adoquinar calles y vías existentes. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Las calles las arregla el Municipio o la Prefectura. La junta solo gestiona.",
+    "cita": "Gestionar el trazado vial de las calles y vías de la cabeza parroquial y barrios,",
+    "pag": 6
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Gestionar la construcción de un mercado para vendedores que hoy trabajan en la calle.",
+    "que": "Buscaría que vendan con medidas de seguridad, higiene y orden. El plan no dice dónde se hará ni cuánto costará.",
+    "v": "media",
+    "n": "Obra grande: pide acuerdo con el Municipio. El plan no dice cómo se pagará.",
+    "cita": "Apoyar e impulsar en la construcción de un mercado, para que los expendedores que",
+    "pag": 6
+   },
+   {
+    "t": "Mejorar las instalaciones del parque Montearomo para una mejor atención.",
+    "que": "Lo promocionaría por medios digitales a nivel local, cantonal y provincial. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Parques y espacios de la parroquia sí son de la junta. Falta el costo.",
+    "cita": "Mejorar las instalaciones del parque Montearomo, para una mejor atención y servicio,",
+    "pag": 8
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Enseñar a separar la basura en orgánicos e inorgánicos y reciclarla con ayuda del Municipio.",
+    "que": "Educación ciudadana en los barrios. El reciclado se haría con apoyo del Municipio de Quito o entidades ambientales del Estado. El plan no dice cuándo.",
+    "v": "alta",
+    "n": "Charlas y campañas: lo puede hacer la junta. El reciclaje depende del Municipio.",
+    "cita": "educación ciudadana sobre el recogimiento y separación de la basura, clasificando en orgánicos e inorgánicos",
+    "pag": 8
+   },
+   {
+    "t": "Vigilar las áreas verdes en verano para evitar incendios, junto con los bomberos.",
+    "que": "Monitoreo permanente junto con bomberos de la ciudad. El plan no dice cómo se hará ni con qué equipos.",
+    "v": "media",
+    "n": "Necesita coordinar con bomberos, que no son de la junta.",
+    "cita": "Proteger y conservar áreas verdes en épocas de verano donde se producen incendios forestales",
+    "pag": 7
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear programas de inclusión social y participación para mujeres, jóvenes y adultos mayores.",
+    "que": "Buscan garantizar derechos, equidad de género e interculturalidad. El plan no dice qué actividades ni cuánto costarán.",
+    "v": "alta",
+    "n": "La junta puede organizar grupos y talleres. El plan no dice cuánto costará.",
+    "cita": "Implementar programas de inclusión social y participación, orientados a mujeres, jóvenes",
+    "pag": 7
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Convocar asambleas periódicas para informar sobre la gestión y recibir propuestas.",
+    "que": "Invitar a comunidades, juntas vecinales y autoridades tradicionales, incluyendo mujeres, jóvenes y pueblos indígenas. El plan no dice cada cuánto.",
+    "v": "alta",
+    "n": "Reunirse con vecinos y rendir cuentas es tarea de la junta.",
+    "cita": "Convocar periódicamente a las comunidades, organizaciones sociales, juntas vecinales y autoridades tradicionales",
+    "pag": 9
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar emprendimientos comunitarios con asesoría técnica, financiera y comercial del Estado.",
+    "que": "Priorizaría iniciativas de economía popular y solidaria, con apoyo de instituciones del Estado. El plan no dice cuánto ni cuándo.",
+    "v": "media",
+    "n": "Depende del apoyo de entidades del Estado. La junta solo acompaña.",
+    "cita": "Impulsar emprendimientos comunitarios y asociativos, priorizando iniciativas de economía popular y solidaria",
+    "pag": 7
+   },
+   {
+    "t": "Promover el turismo local con campañas y paquetes turísticos en el cantón y la provincia.",
+    "que": "Campañas publicitarias y paquetes a nivel cantonal, provincial e internacional. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Lo local sí; lo internacional excede a la junta. Falta el costo.",
+    "cita": "Promover e impulsar el turismo local sostenible con campañas publicitarios, paquetes",
+    "pag": 7
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni en qué plazo se hará.",
+  "Varias propuestas son de la Prefectura, el Municipio o el Estado; la junta solo puede gestionarlas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "paginas": 12
+}

@@ -1,0 +1,114 @@
+{
+ "enfoque": "Plan general: obras viales, espacios públicos, basura, limpieza de canales y ferias. No dice cuánto costará ni cuándo se hará.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Hacer y mantener obras públicas urbanas que ayuden a la movilidad del cantón.",
+    "que": "El plan no dice qué calles ni cuánto costará. Solo dice que serán obras de movilidad y conectividad.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice qué obras ni cuándo.",
+    "cita": "Mejorar la infraestructura urbana del cantón mediante la ejecución y mantenimiento de obras",
+    "pag": 1
+   },
+   {
+    "t": "Recuperar y mantener espacios públicos, recreativos, deportivos y culturales.",
+    "que": "El plan no dice cuáles espacios ni cuánto costará. Busca que la gente los use para convivir.",
+    "v": "alta",
+    "n": "Le toca al Municipio (parques), pero el plan no dice dónde ni cuándo.",
+    "cita": "Recuperar, mantener y mejorar los espacios públicos, recreativos, deportivos y culturales",
+    "pag": 2
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Limpiar canales y mantener sistemas de drenaje para prevenir inundaciones.",
+    "que": "El plan no dice qué canales ni cuánto costará. Busca reducir daños de la temporada de lluvias.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuándo ni dónde se hará.",
+    "cita": "mediante el mantenimiento de sistemas de drenaje, limpieza de canales y la",
+    "pag": 3
+   },
+   {
+    "t": "Manejar la basura del cantón con un programa de manejo de desechos sólidos.",
+    "que": "El plan no dice cómo ni dónde se hará ni cuánto costará. Incluye proteger el ambiente y conservar recursos naturales.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no explica cómo lo hará.",
+    "cita": "Promover la protección del ambiente, el manejo integral de los desechos sólidos, la conservación",
+    "pag": 2
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar poco a poco la cobertura de servicios básicos municipales.",
+    "que": "El plan no dice qué servicios ni en qué zonas, ni cuánto costará. No menciona agua potable ni alcantarillado.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice qué servicios ni cuándo.",
+    "cita": "Fortalecer la prestación de los servicios públicos municipales y ampliar progresivamente la",
+    "pag": 1
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer programas sociales para niños, jóvenes, mujeres, adultos mayores y personas con discapacidad.",
+    "que": "El plan no dice qué programas ni cuánto costarán. Dice que buscan igualdad de oportunidades e inclusión.",
+    "v": "media",
+    "n": "No es competencia clara del Municipio. Depende de otras instituciones y el plan no dice cómo.",
+    "cita": "Fortalecer la atención integral a los grupos de atención prioritaria mediante programas sociales",
+    "pag": 2
+   }
+  ],
+  "otros": [
+   {
+    "t": "Gestionar programas de salud preventiva y educación junto con otras instituciones.",
+    "que": "El plan no dice qué programas ni cuánto costarán. Depende de otras instituciones públicas.",
+    "v": "baja",
+    "n": "No le toca al alcalde: salud y educación son de otras instituciones.",
+    "cita": "Gestionar, en coordinación con las instituciones competentes, programas de salud preventiva",
+    "pag": 2
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar capacitación y acceso a mercados a productores y pequeños negocios.",
+    "que": "El plan no dice cuánto costará ni cuándo. Depende del Gobierno Nacional, el Gobierno Provincial y la academia.",
+    "v": "media",
+    "n": "Depende de otros niveles de gobierno. El plan no dice cuánto costará.",
+    "cita": "programas de capacitación, asistencia técnica y acceso a mercados para fortalecer",
+    "pag": 3
+   },
+   {
+    "t": "Hacer ferias productivas, comerciales y agropecuarias para vender productos locales.",
+    "que": "El plan no dice dónde ni cuándo se harán, ni cuánto costarán. Busca vender más productos del cantón.",
+    "v": "alta",
+    "n": "Le toca al Municipio organizar ferias; el plan no dice dónde ni cuándo.",
+    "cita": "Impulsar la realización de ferias productivas, comerciales y agropecuarias que promuevan la",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Presentar informes públicos periódicos de la gestión municipal.",
+    "que": "El plan dice periódicamente, pero no dice cada cuánto. Incluye obras y uso del dinero público.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Depende solo de la propia administración.",
+    "cita": "Presentar periódicamente a la ciudadanía los resultados de la gestión municipal, el avance del Plan",
+    "pag": 4
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra, de dónde saldrá el dinero ni en qué plazo se hará.",
+  "Plan muy general: no nombra calles ni barrios concretos y no menciona agua potable ni alcantarillado."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "paginas": 6
+}

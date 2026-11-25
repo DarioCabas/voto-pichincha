@@ -1,0 +1,139 @@
+{
+ "enfoque": "Caminos con mingas, convenios de cooperación, plan de turismo, talleres ambientales y plan de riesgos. Casi no dice cuánto costará.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar caminos rurales con mingas y los equipos camineros de la Junta.",
+    "que": "Serían 10 proyectos de mantenimiento de vías entre 2028 y 2031, en 60 comunidades. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Es tarea de la junta y se hace con mingas y equipos propios.",
+    "cita": "Impulsar la minga con equipos camineros de la Junta parroquial.",
+    "pag": 17
+   },
+   {
+    "t": "Pedir al Municipio y al Consejo Provincial arreglar las vías de la parroquia.",
+    "que": "El plan dice que habrá coordinación con el Municipio para áreas urbanas y con el Consejo Provincial para áreas rurales. No dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de un acuerdo con el Municipio y el Consejo Provincial.",
+    "cita": "se realizara las coordinaciones con el Municipio para las áreas consideradas Urbanas",
+    "pag": 8
+   }
+  ],
+  "economia": [
+   {
+    "t": "Armar una lista de organismos que ayuden con recursos a la parroquia.",
+    "que": "Meta: 1 convenio al año, de 2027 a 2031. El plan no dice cuánto dinero se espera ni cómo se usará.",
+    "v": "media",
+    "n": "Necesita firmar convenios con organismos externos. El plan no dice cómo.",
+    "cita": "Generar un banco de cooperantes que fortalezcan las acciones territoriales",
+    "pag": 15
+   },
+   {
+    "t": "Hacer un plan de turismo de la parroquia con vecinos y actores sociales.",
+    "que": "El plan no dice cuánto costará ni cuándo estará listo. Busca que los visitantes conozcan los lugares más emblemáticos.",
+    "v": "alta",
+    "n": "Es una tarea de la junta con la comunidad; no depende de otro nivel.",
+    "cita": "Se elaborara y se desarrollara un plan estratégico de turismo parroquial conjuntamente con la ciudadanía y actores sociales",
+    "pag": 10
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Dar 10 talleres de cuidado del ambiente y de cambio climático.",
+    "que": "Los talleres serían sobre conservación, prácticas sostenibles y cambio climático. El plan no dice cuánto costarán ni en qué meses se harán.",
+    "v": "alta",
+    "n": "Capacitar a la gente sí le toca a la junta.",
+    "cita": "Diez talleres de conservación ambiental, prácticas sostenibles y adaptación al cambio climático",
+    "pag": 21
+   },
+   {
+    "t": "Hacer un plan de riesgos para deslaves y otros desastres en invierno.",
+    "que": "El plan no dice cuánto costará ni cuándo estará listo. Se haría con dirigentes barriales y técnicos del Municipio.",
+    "v": "media",
+    "n": "Necesita técnicos del Municipio, que no son de la junta.",
+    "cita": "Se elaborara un plan de riesgos de la parroquia para precautelar los accidentes naturales como deslaves en épocas invernales",
+    "pag": 11
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir al Municipio cambiar las tuberías viejas de aguas servidas en los barrios.",
+    "que": "El plan dice que el alcantarillado ya cumplió su vida útil. No dice cuánto costará ni cuándo se cambiará.",
+    "v": "baja",
+    "n": "Le toca al Municipio, no a la junta.",
+    "cita": "Realizar las coordinaciones con la municipalidad con la finalidad de realizar los cambios de las tuberías en los diferentes barrios",
+    "pag": 9
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar visitas, paseos y atención médica para adultos mayores y personas con discapacidad.",
+    "que": "El plan no dice cuántas visitas ni cuándo. La atención médica le toca a salud, no a la junta.",
+    "v": "media",
+    "n": "Las visitas y paseos sí puede hacerlas la junta; la atención médica no.",
+    "cita": "Establecer agendas de visitas, paseos y atención médica para el tema adultos mayores, discapacidades",
+    "pag": 9
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Contratar un abogado para ayudar a legalizar los comités de barrio.",
+    "que": "Según el plan, los comités legalizados harían obras más rápido. El plan no dice cuánto cuesta el abogado.",
+    "v": "media",
+    "n": "Le toca a la junta, pero el plan no dice cómo lo pagará.",
+    "cita": "se contratará un Asesor Jurídico para la legalización de Comités Promejoras",
+    "pag": 8
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Crear una norma para el uso del suelo y evitar la venta irregular de lotes.",
+    "que": "Se haría junto con el Municipio. El plan no dice cuánto costará ni cuándo estará lista la norma.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio, que maneja el uso del suelo.",
+    "cita": "Establecer una normativa para el uso del suelo en coordinación con el GAD Municipal",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "1 convenio anual de cooperación internacional, de 2027 a 2031",
+  "10 proyectos de mantenimiento vial entre 2028 y 2031",
+  "15 proyectos de turismo y producción al 2031",
+  "10 talleres de conservación ambiental",
+  "3 nodos de producción"
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Varias propuestas dependen del Municipio o del Consejo Provincial. Algunas son de otros niveles, como salud y alcantarillado."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25
+ ],
+ "paginas": 25
+}

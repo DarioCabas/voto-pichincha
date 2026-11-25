@@ -1,0 +1,121 @@
+{
+ "enfoque": "Plan único de la lista 21 para Ascázubi: arreglar caminos con la Prefectura, cuidar parques, hacer ferias y proteger la naturaleza. Varias propuestas dependen de otros niveles de gobierno.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Gestionar con la Prefectura el mantenimiento periódico de vías rurales.",
+    "que": "Se hará junto con el Gobierno Provincial. El plan no dice cuánto costará ni cuándo se haría.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura; la junta no paga la obra sola.",
+    "cita": "Gestionar el mantenimiento periódico de vías rurales junto con el Gobierno Provincial.",
+    "pag": 6
+   },
+   {
+    "t": "Promover mingas comunitarias para el mantenimiento preventivo de caminos rurales.",
+    "que": "Es trabajo hecho con la propia comunidad en los caminos rurales. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca a la junta y cuesta poco: es trabajo comunitario.",
+    "cita": "Promover mingas comunitarias para el mantenimiento preventivo de caminos rurales.",
+    "pag": 7
+   },
+   {
+    "t": "Gestionar la colocación de señalización vial en sectores de mayor circulación y riesgo.",
+    "que": "Busca más seguridad para peatones y conductores. El plan no dice cuánto costará ni quién la instalaría.",
+    "v": "media",
+    "n": "Necesita acuerdo con otra institución; la junta no la instala sola.",
+    "cita": "Gestionar la colocación de señalización vial en sectores de mayor circulación y riesgo para mejorar la seguridad de peatones y conductores.",
+    "pag": 10
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir, rehabilitar y dar mantenimiento a parques, plazas, canchas y áreas verdes.",
+    "que": "Son espacios de la parroquia. El plan no dice en qué lugares, cuánto costará ni en qué plazo.",
+    "v": "media",
+    "n": "Parques sí son del cargo, pero las obras cuestan y el plan no dice cómo se pagan.",
+    "cita": "Construir, rehabilitar y dar mantenimiento a parques, plazas, áreas verdes, canchas deportivas y espacios recreativos",
+    "pag": 9
+   },
+   {
+    "t": "Implementar iluminación en parques, escenarios deportivos y espacios comunitarios.",
+    "que": "Es para dar más seguridad a la gente. El plan no dice cuánto costará, en qué lugares ni cuándo.",
+    "v": "media",
+    "n": "La luz en espacios públicos puede depender de otra institución; el plan no dice cómo se paga.",
+    "cita": "Implementar iluminación en parques, escenarios deportivos y espacios de uso comunitario para brindar mayor seguridad a la ciudadanía.",
+    "pag": 9
+   }
+  ],
+  "economia": [
+   {
+    "t": "Organizar ferias productivas, agropecuarias, artesanales y gastronómicas.",
+    "que": "Son ferias para vender lo que se produce en la parroquia. El plan no dice cuándo ni dónde se harán ni cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca a la junta y cuesta poco: son ferias para productores locales.",
+    "cita": "Organizar ferias productivas, agropecuarias, artesanales y gastronómicas que promuevan los productos elaborados en la parroquia.",
+    "pag": 7
+   },
+   {
+    "t": "Gestionar programas de capacitación y asistencia técnica para pequeños productores.",
+    "que": "Son cursos y ayuda técnica para productores, emprendedores y organizaciones. El plan no dice con quién ni cuándo.",
+    "v": "media",
+    "n": "Depende de convenios con otras instituciones; la junta solo gestiona.",
+    "cita": "Gestionar programas de capacitación y asistencia técnica para pequeños productores, emprendedores y organizaciones comunitarias.",
+    "pag": 7
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Ejecutar campañas de reforestación y recuperación de áreas verdes.",
+    "que": "Se hará con las comunidades y otras instituciones. El plan no dice cuántas campañas ni cuándo ni cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca a la junta y cuesta poco: son campañas con la comunidad.",
+    "cita": "Ejecutar campañas de reforestación y recuperación de áreas verdes en coordinación con las comunidades e instituciones competentes.",
+    "pag": 7
+   },
+   {
+    "t": "Gestionar proyectos para cuidar fuentes de agua y zonas naturales de la parroquia.",
+    "que": "Las microcuencas son zonas que alimentan el agua de la parroquia. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Los proyectos grandes necesitan dinero de otras instituciones; el plan no dice cuál.",
+    "cita": "Gestionar proyectos para la protección de fuentes de agua, microcuencas y ecosistemas estratégicos de la parroquia",
+    "pag": 11
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Presentar cada año un informe de rendición de cuentas en audiencia pública.",
+    "que": "Será una audiencia abierta a la ciudadanía con resultados, metas y gasto. El plan no dice en qué fecha.",
+    "v": "alta",
+    "n": "Le toca a la junta: es informar a la gente sobre su trabajo.",
+    "cita": "Presentar anualmente el informe de rendición de cuentas mediante una audiencia pública abierta",
+    "pag": 14
+   }
+  ]
+ },
+ "metas": [
+  "Presentar un informe de rendición de cuentas cada año, durante el período 2027-2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Es una sola propuesta para los cinco candidatos de la lista. Incluye temas de agua, luz y alcantarillado que no son de la junta."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15
+ ],
+ "paginas": 15
+}

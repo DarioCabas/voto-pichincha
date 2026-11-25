@@ -1,0 +1,186 @@
+{
+ "enfoque": "Propone sobre todo arreglar agua, calles, parques, basura, el Mercado América y el estacionamiento pagado. Casi no dice cuánto costará ni cuándo.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Arreglar y ampliar el agua potable en la ciudad y en las parroquias.",
+    "que": "Incluye plantas de tratamiento y tanques de reserva. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Fortalecer, mejorar y ampliar progresivamente los sistemas de agua potable, incluyendo plantas de tratamiento, reservorios y demás",
+    "pag": 52
+   },
+   {
+    "t": "Renovar y ampliar los camiones de recolección de basura.",
+    "que": "Primero evaluará qué camiones faltan. El plan no dice cuántos camiones comprará ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará.",
+    "cita": "Evaluación de las necesidades operativas, renovación y fortalecimiento del parque automotor para mejorar la cobertura y eficiencia del servicio de recolección de residuos sólidos.",
+    "pag": 12
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Limpiar y recuperar la quebrada Compadre Huayco.",
+    "que": "Hará limpiezas periódicas, controlará los puntos con basura acumulada y plantará árboles. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero pide ayuda de otras entidades y comunidades.",
+    "cita": "orientada a la recuperación, protección y conservación integral de la quebrada Compadre Huayco",
+    "pag": 11
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar y asfaltar o adoquinar las calles de la ciudad que lo necesiten.",
+    "que": "Primero evaluará qué calles urbanas necesitan arreglo, con criterios técnicos. El plan no dice cuáles ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuántas calles ni cuándo.",
+    "cita": "Evaluar y priorizar las vías urbanas que requieran intervención para determinar, conforme a criterios técnicos, la ejecución de trabajos de mantenimiento",
+    "pag": 42
+   },
+   {
+    "t": "Arreglar caminos rurales junto con la Prefectura y las juntas parroquiales.",
+    "que": "La Prefectura es el GAD Provincial. Las juntas parroquiales son los GAD Parroquiales. El plan no dice cuántos caminos ni cuánto costará.",
+    "v": "media",
+    "n": "La Prefectura y las juntas también hacen obras. El plan no dice cuándo.",
+    "cita": "Identificar y priorizar para gestionar conjuntamente con los actores competentes, las vías rurales que requieran intervención",
+    "pag": 58
+   },
+   {
+    "t": "Mejorar la luz en espacios públicos con poca iluminación, con luces solares o LED.",
+    "que": "Evaluará dónde poner luces solares o LED y coordinará con la empresa eléctrica. El plan no dice cuántas luces ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "para mejorar progresivamente la iluminación de espacios públicos y sectores con cobertura limitada, mediante alternativas eficientes y sostenibles",
+    "pag": 48
+   },
+   {
+    "t": "Arreglar parques y espacios públicos y unirlos en una Ruta de los Parques.",
+    "que": "Evaluará qué espacios arreglar y los conectará entre sí. El plan no dice cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuántos parques.",
+    "cita": "Evaluar y priorizar espacios públicos para desarrollar progresivamente acciones de recuperación, mantenimiento, mejoramiento paisajístico",
+    "pag": 42
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Revisar y modernizar el cobro del estacionamiento pagado del cantón.",
+    "que": "Evaluará el sistema de cobro, control y multas, y usará herramientas tecnológicas para pagar. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuándo ni cuánto costará.",
+    "cita": "Evaluar el actual modelo de gestión, sistema tarifario, mecanismos de cobro, control y sanción",
+    "pag": 61
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Hacer un mapa de lugares inseguros y mejorar esos sitios con luz, pintura o cámaras.",
+    "que": "Las obras pueden incluir iluminación, pintura, vialidad, señales o cámaras. La Policía da la seguridad, no el Municipio. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Puede hacer obras de espacio público, pero la Policía no le toca.",
+    "cita": "Realizar el mapeo y diagnóstico de puntos críticos de inseguridad para priorizar intervenciones de regeneración urbana",
+    "pag": 71
+   }
+  ],
+  "economia": [
+   {
+    "t": "Arreglar el Mercado América y revisar cómo se administra.",
+    "que": "Evaluará el edificio y su manejo, y hará arreglos según lo que encuentre. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Los mercados sí son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Evaluar las condiciones de infraestructura, funcionamiento y administración del Mercado América para determinar acciones de mantenimiento",
+    "pag": 11
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan casi no dice cuánto costará ni cuándo. Repite \"progresivamente\" y \"según disponibilidad presupuestaria\".",
+  "Las metas son solo marcas por año, sin cifras. Algunas acciones son de Policía o salud, que no son del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61,
+  62,
+  63,
+  64,
+  65,
+  66,
+  67,
+  68,
+  69,
+  70,
+  71,
+  72,
+  73,
+  74,
+  75,
+  76,
+  77,
+  78,
+  79,
+  80
+ ],
+ "paginas": 80
+}

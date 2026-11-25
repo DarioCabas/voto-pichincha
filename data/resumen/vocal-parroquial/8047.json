@@ -1,0 +1,107 @@
+{
+ "enfoque": "Plan general para Alóag: muchas obras son del Municipio, la Prefectura o el Estado. Propone cuidar el ambiente, apoyar emprendimientos y organizar a la comunidad.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Proteger las fuentes de agua y los bosques, con control y trabajo con la comunidad.",
+    "que": "El plan dice que se hará con acciones coordinadas de control y manejo sostenible. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "La junta puede organizar a la comunidad. El plan no dice cuánto costará.",
+    "cita": "Proteger y conservar las fuentes de agua, bosques y ecosistemas estratégicos, mediante acciones coordinadas de control, manejo sostenible y participación comunitaria",
+    "pag": 2
+   },
+   {
+    "t": "Hacer acciones para prevenir riesgos y adaptarse al cambio climático.",
+    "que": "Busca reducir vulnerabilidades y fortalecer la resiliencia de la comunidad. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita apoyo del Municipio o del Estado. El plan no dice cómo se pagará.",
+    "cita": "Implementar acciones de gestión de riesgos y adaptación al cambio climático, orientadas a la prevención, reducción de vulnerabilidades y fortalecimiento de la resiliencia comunitaria",
+    "pag": 2
+   }
+  ],
+  "otros": [
+   {
+    "t": "Equipar albergues de emergencia y vías de evacuación por casos volcánicos.",
+    "que": "Es una obra priorizada en coordinación con la Alcaldía de Mejía. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Alcaldía. El plan no dice cuánto costará.",
+    "cita": "Equipamiento técnico de albergues de emergencia y vías de evacuación volcánica",
+    "pag": 5
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar caminos vecinales y los accesos a fincas lecheras.",
+    "que": "Es parte de la cartera de obras, en coordinación con la Alcaldía. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "La junta cuida caminos junto con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Rehabilitación de caminos vecinales y accesos a fincas lecheras",
+    "pag": 5
+   },
+   {
+    "t": "Construir un paso peatonal elevado y un distribuidor de tránsito en el nudo de Alóag.",
+    "que": "Es una obra grande, en coordinación con la Alcaldía. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Obra grande que le toca a otro nivel de gobierno. El plan no dice cuánto costará.",
+    "cita": "Construcción del paso peatonal elevado y distribuidor de tránsito en el nudo de Alóag",
+    "pag": 5
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar las tuberías que sacan aguas servidas y lluvia del centro poblado.",
+    "que": "El plan no dice cuánto costará ni cuándo se haría.",
+    "v": "baja",
+    "n": "No le toca a la junta. Es obra de otro nivel de gobierno.",
+    "cita": "Ampliación de colectores sanitarios y pluviales en el centro poblado",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer programas de inclusión y participación para mujeres, jóvenes y adultos mayores.",
+    "que": "El plan no dice qué programas se harían, cuánto costarán ni cuándo.",
+    "v": "alta",
+    "n": "Organizar a la comunidad le toca a la junta. El plan no dice qué programas.",
+    "cita": "Implementar programas de inclusión social y participación, orientados a mujeres, jóvenes y personas adultas mayores",
+    "pag": 2
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar emprendimientos comunitarios y asociativos de economía popular y solidaria.",
+    "que": "Se haría con acompañamiento técnico, financiero y comercial de instituciones del Estado. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende del apoyo del Estado. El plan no dice cuánto costará.",
+    "cita": "Impulsar emprendimientos comunitarios y asociativos, priorizando iniciativas de economía popular y solidaria",
+    "pag": 2
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Convocar asambleas públicas para informar y escuchar a la comunidad.",
+    "que": "Se invitaría a comunidades, juntas vecinales y autoridades tradicionales. El plan no dice cada cuánto ni dónde.",
+    "v": "alta",
+    "n": "Organizar a la comunidad le toca a la junta. El plan no dice cada cuánto.",
+    "cita": "Convocar periódicamente a las comunidades, organizaciones sociales, juntas vecinales y autoridades tradicionales para informar sobre la gestión",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [
+  "El plan cubre los años 2027 a 2031."
+ ],
+ "notas": [
+  "Muchas obras son de agua, alcantarillado, salud o educación, o del Municipio. La junta no las puede hacer sola.",
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldría el dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "paginas": 5
+}

@@ -1,0 +1,146 @@
+{
+ "enfoque": "Agua potable y alcantarillado primero, luego calles, un programa social y estudios para vender mejor la producción. Casi no dice cuánto costará.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Crear el programa \"Agua para Pujilí\" para recuperar y modernizar el agua potable y el saneamiento.",
+    "que": "El plan no dice cuánto costará ni en qué plazo. Se trata de recuperar, mantener y modernizar los sistemas de agua del cantón.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cómo se pagará.",
+    "cita": "Crear el programa \"Agua para Pujilí\" como estrategia integral para recuperar, mantener y modernizar los sistemas de agua potable y saneamiento del cantón.",
+    "pag": 4
+   },
+   {
+    "t": "Hacer mantenimiento preventivo de bombas, pozos, tanques y redes de agua.",
+    "que": "Busca evitar que el agua vuelva a llegar a estados críticos. El plan no dice cuánto costará ni cada cuánto se hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice el costo.",
+    "cita": "Implementar un programa de mantenimiento preventivo de bombas, pozos, tanques y redes para evitar que los sistemas lleguen nuevamente a estados críticos.",
+    "pag": 3
+   },
+   {
+    "t": "Reducir pérdidas de agua buscando fugas y arreglando redes.",
+    "que": "Incluye buscar fugas, dar mantenimiento a las redes y controlar conexiones irregulares. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuándo estará listo.",
+    "cita": "Mejorar los sistemas de distribución y reducir pérdidas de agua mediante identificación de fugas, mantenimiento de redes y control de conexiones irregulares",
+    "pag": 5
+   },
+   {
+    "t": "Gestionar la rehabilitación y ampliación del alcantarillado sanitario y pluvial.",
+    "que": "El plan no dice en qué calles o barrios ni cuánto costará. Solo dice que el Municipio lo gestionará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de dinero externo. El plan no dice cuánto.",
+    "cita": "Gestionar la rehabilitación y ampliación de los sistemas de alcantarillado sanitario y pluvial.",
+    "pag": 5
+   },
+   {
+    "t": "Gestionar plantas para tratar aguas residuales, primero donde las aguas sucias afecten a la población.",
+    "que": "Prioriza los sectores donde las descargas puedan afectar a la población, suelos agrícolas o fuentes de agua. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero necesita financiamiento externo. El plan no dice cuándo.",
+    "cita": "Gestionar la construcción o modernización de Plantas de Tratamiento de Aguas Residuales, priorizando los sectores donde existan descargas que puedan afectar a la población",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer un diagnóstico de las calles y un plan de varios años para arreglarlas y adoquinarlas.",
+    "que": "El plan no dice qué calles se arreglarán primero ni cuánto costará. Se hará un estudio y luego un plan de varios años.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice el costo ni el plazo exacto.",
+    "cita": "Elaborar un diagnóstico integral de la infraestructura vial urbana y establecer un plan plurianual de mantenimiento y adoquinado de calles",
+    "pag": 6
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Poner señales de tránsito en los puntos peligrosos, primero cerca de escuelas.",
+    "que": "Empieza con un diagnóstico de los puntos críticos. Luego se pondrán señales horizontales y verticales. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará ni cuándo.",
+    "cita": "Fortalecer la señalización vial urbana y rural del cantón, mediante un diagnóstico de los puntos críticos y la implementación progresiva de señalética horizontal y vertical",
+    "pag": 6
+   },
+   {
+    "t": "Evaluar si hace falta una parada de bus nueva o arreglar la actual.",
+    "que": "El plan dice que, como alternativa rápida, se arreglará la parada actual. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero todavía es solo una evaluación.",
+    "cita": "Evaluar técnicamente la necesidad de una parada de transporte público o, como alternativa inmediata, la repotenciación de la actual parada",
+    "pag": 6
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Crear programas de reciclaje y educación ambiental para la basura.",
+    "que": "El plan habla de reciclaje y de mejorar la gestión de la basura. No dice cuánto costará ni cuándo empezará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cómo se hará.",
+    "cita": "Fortalecer la gestión de residuos sólidos y promover programas de reciclaje, aprovechamiento y educación ambiental.",
+    "pag": 2
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer estudios para ver si conviene un mercado mayorista para productos agrícolas.",
+    "que": "Solo son estudios de viabilidad. El plan no dice dónde se construiría ni cuánto costaría.",
+    "v": "media",
+    "n": "Los mercados son del Municipio, pero el plan solo habla de estudios.",
+    "cita": "Realizar estudios para determinar la viabilidad de un mercado mayorista y de espacios adecuados para la comercialización de productos agrícolas y pecuarios.",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear el programa municipal \"Pujilí Cuida\" para niños, jóvenes, adultos mayores y personas con discapacidad.",
+    "que": "Busca prevención, bienestar y atención social a grupos prioritarios. El plan no dice cuánto costará ni quién lo pagará.",
+    "v": "media",
+    "n": "Ayuda social no está en las competencias de la lista. El plan no dice el costo.",
+    "cita": "Implementar el programa municipal \"Pujilí Cuida\", orientado a fortalecer la prevención, el bienestar y la atención social",
+    "pag": 3
+   },
+   {
+    "t": "Arreglar la clínica móvil municipal y evaluar unidades médicas móviles para las comunidades.",
+    "que": "Se hará en coordinación con el Ministerio de Salud. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "La salud no le toca al Municipio; lo dice la ley.",
+    "cita": "Gestionar la repotenciación de la clínica móvil municipal y evaluar la implementación progresiva de unidades médicas móviles",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar en internet el presupuesto, las compras y el avance de las obras.",
+    "que": "Se publicará de forma periódica, según la ley de transparencia. El plan no dice cada cuánto ni en qué plataforma.",
+    "v": "alta",
+    "n": "Le toca al Municipio y no depende de otros organismos.",
+    "cita": "Publicar periódicamente información sobre presupuesto, contratación pública, avance físico y financiero de obras y ejecución de proyectos",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "Hacer una rendición de cuentas cada año.",
+  "Hacer un diagnóstico integral del Municipio al inicio de la administración."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará casi ninguna obra ni de dónde saldrá el dinero.",
+  "Incluye temas de salud y educación que no son del Municipio; el plan los pone como coordinación con otras instituciones."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "paginas": 11
+}

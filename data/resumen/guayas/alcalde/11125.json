@@ -1,0 +1,120 @@
+{
+ "enfoque": "Más agua, alcantarillado, recolección de basura y vías rurales, sobre todo en Sabanilla y Valle de la Virgen. Copia en gran parte el plan de desarrollo del cantón.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Subir de 56 % el número de viviendas con agua por red pública.",
+    "que": "Busca más casas con agua de red, sobre todo en el campo. Dice que buscará financiamiento para obras nuevas. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de financiamiento que el plan no detalla.",
+    "cita": "Elevar la cobertura de agua por red pública desde el 56 % actual de las viviendas del cantón.",
+    "pag": 5
+   },
+   {
+    "t": "Ampliar el alcantarillado sanitario, con prioridad en la cabecera y en dos parroquias rurales.",
+    "que": "Pasa del 27 % de cobertura actual. Prioriza la cabecera, Sabanilla y Valle de la Virgen. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero necesita financiamiento que el plan no detalla.",
+    "cita": "Ampliar el alcantarillado sanitario más allá del 27 % cantonal actual, priorizando la cabecera y las cabeceras parroquiales de Sabanilla y Valle de la Virgen.",
+    "pag": 5
+   },
+   {
+    "t": "Llevar el camión de basura a los sectores rurales de Sabanilla y Valle de la Virgen.",
+    "que": "Hoy esos sectores no reciben el servicio. El plan no dice cuántas rutas nuevas ni cuánto costará. También pide campañas contra la quema de basura.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Ampliar las rutas de recolección de desechos hacia los sectores rurales de Sabanilla y Valle de la Virgen que hoy no reciben el servicio.",
+    "pag": 6
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Mejorar la vía Sabanilla-El Jebe (19 km).",
+    "que": "Hoy está en estado regular. El plan no dice cuánto costará, quién la pagará ni en qué plazo.",
+    "v": "media",
+    "n": "Vía rural, que puede ser de la Prefectura (gobierno provincial). El plan no dice costo ni plazo.",
+    "cita": "Mejorar la vía Sabanilla-El Jebe (19 km, hoy en estado regular).",
+    "pag": 4
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar el catastro urbano y rural del cantón.",
+    "que": "El catastro es el registro oficial de terrenos y casas. El plan no dice cuánto costará ni en qué plazo estará listo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuándo.",
+    "cita": "Actualizar el catastro urbano y rural del cantón.",
+    "pag": 5
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Exigir estudios de impacto ambiental a las canteras de Sabanilla.",
+    "que": "Son tres canteras que sacan piedra, cascajo y zeolita, y han dañado el entorno. El plan no dice cómo ni cuándo las controlará.",
+    "v": "alta",
+    "n": "Le toca al Municipio dar permisos y controlar las canteras.",
+    "cita": "Exigir estudios de impacto ambiental y planes de manejo vigentes a las canteras de Sabanilla.",
+    "pag": 7
+   },
+   {
+    "t": "Hacer obras contra inundaciones en el 20,08 % de la superficie del cantón.",
+    "que": "Ese porcentaje tiene riesgo de inundación. El plan no dice qué obras, cuánto costarán ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el plan no dice qué obras ni cuánto cuestan.",
+    "cita": "Ejecutar obras de mitigación en el 20,08 % de la superficie cantonal con vulnerabilidad a inundaciones.",
+    "pag": 7
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Dar equipos y presencia a los bomberos en las parroquias rurales.",
+    "que": "El plan no dice qué equipos, cuántos ni en qué plazo llegarán. Tampoco dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Fortalecer al Cuerpo de Bomberos con equipamiento y presencia en las parroquias rurales.",
+    "pag": 8
+   },
+   {
+    "t": "Pedir a la Policía patrullajes en los recintos rurales.",
+    "que": "El plan dice que se coordinará con la Policía Nacional. No dice cuándo ni cuántos patrullajes habrá.",
+    "v": "baja",
+    "n": "La policía no es del Municipio; solo puede coordinar.",
+    "cita": "Coordinar con la Policía Nacional patrullaje en los recintos dispersos del área rural.",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Pedir al Ministerio de Salud ayuda para los subcentros de salud de Sabanilla.",
+    "que": "Los subcentros son centros de salud pequeños. El plan no dice qué se hará ni cuándo.",
+    "v": "baja",
+    "n": "La salud no es del Municipio; solo gestiona ante el Ministerio.",
+    "cita": "Gestionar con el Ministerio de Salud Pública el fortalecimiento de los subcentros de salud de Sabanilla y del área rural.",
+    "pag": 7
+   }
+  ]
+ },
+ "metas": [
+  "Plan cantonal de seguridad aprobado y en ejecución durante el primer año.",
+  "Cobertura de agua y alcantarillado medida cada año frente a la línea base 2022 del INEC (instituto de estadísticas).",
+  "Kilómetros de vía rural mejorados por año de administración."
+ ],
+ "notas": [
+  "El plan copia en gran parte el plan de desarrollo del cantón 2023-2027. Casi ningún proyecto tiene costo ni fecha.",
+  "Varias propuestas son de la Policía, Salud o el Gobierno; el Municipio solo puede gestionarlas o coordinarlas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "paginas": 10
+}

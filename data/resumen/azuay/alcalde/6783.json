@@ -1,0 +1,136 @@
+{
+ "enfoque": "Agua segura, alcantarillado, basura y caminos rurales en El Pan. Muchas propuestas de salud y empleo no son del Municipio.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Instalar equipos para desinfectar el agua en las juntas de agua rurales.",
+    "que": "Sería en San Vicente y comunidades periféricas. Se pagaría con dinero del Gobierno y del Banco de Desarrollo (BEDE). El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de dinero del Gobierno y del BEDE. Las juntas de agua son grupos aparte.",
+    "cita": "Diseñar, repotenciar e implementar sistemas de desinfección técnica en las juntas de agua rurales del cantón.",
+    "pag": 13
+   },
+   {
+    "t": "Construir tuberías principales de alcantarillado en zonas nuevas de la ciudad y la periferia.",
+    "que": "El plan no dice cuántos metros ni cuánto costará. Se pagaría con dinero del Municipio y alianzas con la Prefectura del Azuay.",
+    "v": "media",
+    "n": "Parte del dinero depende de la Prefectura del Azuay. El plan no dice cuánto cuesta.",
+    "cita": "Construcción e interconexión de colectores sanitarios en zonas de expansión urbana y periferia.",
+    "pag": 13
+   },
+   {
+    "t": "Separar la basura en las comunidades y hacer un centro para convertir restos orgánicos en abono.",
+    "que": "Meta: separar la basura en el 100% de las comunidades organizadas. Se pagaría con tasas de recolección y con incentivos prediales ambientales. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni en cuántos años.",
+    "cita": "Implementar el sistema de separación de residuos en el 100% de las comunidades organizadas del cantón.",
+    "pag": 18
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar cada año los caminos vecinales de tierra y lastre del cantón.",
+    "que": "El plan no dice cuántos kilómetros ni cuánto costará. Se pagaría con la contribución por mejoras y convenios con la Prefectura. También incluye máquinas municipales.",
+    "v": "media",
+    "n": "Compartido con la Prefectura del Azuay. El plan no dice cuántos kilómetros ni cuánto cuesta.",
+    "cita": "Kilómetros de vías vecinales e intercomunales de lastre intervenidas con mantenimiento preventivo y correctivo anual.",
+    "pag": 19
+   }
+  ],
+  "economia": [
+   {
+    "t": "Habilitar un centro modelo de venta para que los productores del cantón vendan directamente.",
+    "que": "Se pagaría con cofinanciamiento del BEDE y fondos de inversión del GAD. El plan no dice cuánto costará ni dónde estará el centro.",
+    "v": "media",
+    "n": "El mercado es del Municipio, pero depende de un préstamo o cofinanciamiento del BEDE.",
+    "cita": "Habilitar 1 centro de comercialización modelo con capacidad operativa para los productores del cantón.",
+    "pag": 15
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Lograr una ordenanza que proteja legalmente las zonas de agua que abastecen al cantón.",
+    "que": "Incluye coordinar con el Ministerio del Ambiente, Fuerzas Armadas y Policía para frenar la minería ilegal. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "La ordenanza es del Municipio. Frenar la minería ilegal depende de Policía y Ministerio.",
+    "cita": "Lograr la declaratoria y blindaje legal definitivo en Áreas de Protección Hídrica clave para el consumo cantonal",
+    "pag": 17
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Estabilizar laderas peligrosas con obras de contención y plantas que sujetan la tierra.",
+    "que": "Trabajaría en zonas con alta probabilidad de derrumbes, según el mapa de riesgos. Se pagaría con presupuesto de emergencia del GAD. El plan no dice cuánto cuesta.",
+    "v": "alta",
+    "n": "Prevenir desastres sí le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Intervención estructural y bioingeniería en zonas de alta susceptibilidad identificadas en la cartografía de riesgos.",
+    "pag": 18
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Actualizar el registro de terrenos y casas del cantón para cobrar impuestos según su valor real.",
+    "que": "Dice que se actualizará el 100% de las fichas y se digitalizarán. Se pagaría con líneas de financiamiento del BEDE. El plan no dice cuánto cuesta ni en cuánto tiempo.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de un préstamo del BEDE. El plan no dice cuánto cuesta.",
+    "cita": "Lograr el 100% de la actualización catastral, optimizando la recaudación propia de impuestos justos y reales.",
+    "pag": 20
+   },
+   {
+    "t": "Ejecutar el 100% del dinero de presupuestos participativos según lo que decidan los vecinos.",
+    "que": "Se pagaría con dinero del Gobierno (Modelo de Equidad Territorial) y recursos propios del Municipio. El plan no dice cuánto suma ni cuándo se decide.",
+    "v": "alta",
+    "n": "Le toca al Municipio y usa su propio presupuesto. El plan no dice el monto.",
+    "cita": "Ejecutar de forma transparente el 100% de los recursos asignados a los presupuestos participativos de ley.",
+    "pag": 20
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear un centro de atención para adultos mayores con médico, terapia física y comida.",
+    "que": "El plan no dice dónde ni cuánto costará. Usaría el 10% del presupuesto de inversión del GAD y convenios con el Ministerio de Salud Pública.",
+    "v": "baja",
+    "n": "La atención médica le toca al Ministerio de Salud, no al Municipio.",
+    "cita": "Brindar atención médica preventiva, terapia física y alimentaria permanente a adultos mayores del cantón",
+    "pag": 14
+   }
+  ]
+ },
+ "metas": [
+  "Separar la basura en el 100% de las comunidades organizadas del cantón.",
+  "Actualizar el 100% de las fichas de terrenos y casas del cantón.",
+  "Habilitar 1 centro modelo de venta para productores.",
+  "Asignar el 10% del presupuesto de inversión para el centro de adultos mayores.",
+  "Plan para el periodo 2027-2031."
+ ],
+ "notas": [
+  "Varias propuestas (salud, policía, becas, minería) no son del Municipio. La mayoría no dice cuánto cuesta ni cuándo.",
+  "Gran parte del texto repite diagnósticos del PDOT 2023. Casi no hay costos ni plazos por obra."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22
+ ],
+ "paginas": 22
+}

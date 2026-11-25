@@ -1,0 +1,115 @@
+{
+ "enfoque": "Capacitar a la gente, apoyar a productores y emprendimientos, cuidar tradiciones y abrir rutas turísticas. Varias metas son de otros niveles de gobierno.",
+ "tabla": {
+  "gobierno": [
+   {
+    "t": "Explicar a la comunidad en qué se gasta el presupuesto de la parroquia.",
+    "que": "El plan dice que se explicarán las asignaciones, inversiones y gastos del presupuesto. No dice cuándo se hará.",
+    "v": "alta",
+    "n": "Le toca a la junta. El plan no dice cuándo se hará.",
+    "cita": "Socializar de manera clara y detallada el presupuesto parroquial, explicando las asignaciones",
+    "pag": 5
+   },
+   {
+    "t": "Hacer asambleas públicas periódicas para informar y recibir propuestas.",
+    "que": "El plan dice que se convocará a comunidades, organizaciones y juntas vecinales, con mujeres y jóvenes incluidos. No dice con qué frecuencia.",
+    "v": "alta",
+    "n": "Son reuniones que la junta puede organizar.",
+    "cita": "Convocar periódicamente a las comunidades, organizaciones sociales, juntas vecinales y",
+    "pag": 5
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Poner en marcha un vivero parroquial para producir plantas.",
+    "que": "El plan dice que el vivero producirá plantas vegetales, frutales, medicinales y decorativas. No dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "La junta puede hacerlo, pero el plan no dice dónde ni con qué dinero.",
+    "cita": "Promover la implementación de un vivero parroquial para la producción de plantas vegetales, frutales,",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar capacitación para granjas autosustentables y prácticas agrícolas sostenibles.",
+    "que": "El plan dice que se capacitará y promoverá granjas autosustentables y producción familiar. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Apoyar a productores sí le toca a la junta.",
+    "cita": "Capacitar y promover la implementación de granjas autosustentables, prácticas agrícolas sostenibles y",
+    "pag": 4
+   },
+   {
+    "t": "Capacitar y acompañar a emprendimientos existentes para vender sus productos.",
+    "que": "El plan dice que habrá capacitación, acompañamiento técnico y promoción de productos. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Capacitar y apoyar a productores está dentro de la junta. No dice costo.",
+    "cita": "Fortalecer los emprendimientos existentes mediante capacitación, acompañamiento técnico y promoción",
+    "pag": 2
+   },
+   {
+    "t": "Buscar instituciones que den microcréditos a emprendimientos del lugar.",
+    "que": "El plan dice que se buscarán alianzas con instituciones que den créditos y microcréditos semilla. No dice cuánto ni cuándo.",
+    "v": "media",
+    "n": "La junta solo busca alianzas; los créditos los dan otras instituciones.",
+    "cita": "Gestionar alianzas con instituciones que faciliten créditos y microcréditos semilla para emprendimientos",
+    "pag": 3
+   }
+  ],
+  "otros": [
+   {
+    "t": "Habilitar rutas para caminar y andar en bici para atraer turistas.",
+    "que": "El plan dice que se habilitarán rutas para senderismo, caminatas y ciclopaseos. No dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Los caminos se cuidan junto con la Prefectura. El plan no dice cuáles.",
+    "cita": "Habilitar y activar rutas para senderismo, caminatas y ciclopaseos, con el fin de promover el turismo y",
+    "pag": 3
+   },
+   {
+    "t": "Hacer un inventario, con la gente, de tradiciones y costumbres de la parroquia.",
+    "que": "El plan dice que se hará un inventario participativo para recuperar, difundir y preservar tradiciones. No dice plazo.",
+    "v": "alta",
+    "n": "Es un trabajo con la comunidad, que la junta puede organizar.",
+    "cita": "Levantar un inventario participativo de las tradiciones y costumbres de Chavezpamba, con el propósito de",
+    "pag": 2
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Pedir la instalación de un sistema de alarmas y alertas comunitarias.",
+    "que": "El plan dice que se insistirá en un sistema de seguridad con herramientas tecnológicas, alarmas y alertas. No dice costo ni plazo.",
+    "v": "baja",
+    "n": "La seguridad y la policía no le tocan a la junta.",
+    "cita": "Insistir en la implementación de un sistema integral de seguridad comunitaria, mediante herramientas",
+    "pag": 4
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer campañas permanentes de atención para mujeres, niñas y niños con aliados.",
+    "que": "El plan dice que habrá campañas permanentes para mujeres, niñas y niños, con instituciones y fundaciones. No dice cuánto costará.",
+    "v": "media",
+    "n": "Parte es de salud, que no le toca a la junta. Solo puede hacer alianzas.",
+    "cita": "Socializar campañas permanentes de atención para mujeres, niñas y niños en distintas áreas,",
+    "pag": 4
+   }
+  ]
+ },
+ "metas": [
+  "Período del plan: 2027 - 2031. No fija otras metas con cifras."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Varias propuestas son de salud, educación o policía, que no le tocan a la junta. Es un solo plan para los cinco candidatos de la lista."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "paginas": 7
+}

@@ -1,0 +1,111 @@
+{
+ "enfoque": "Copia del plan de la parroquia (PDOT 2023-2027). Pide parques, caminos, mercado de artesanos y cuidado ambiental; varias obras son del Municipio o la Prefectura.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Arreglar y mantener parques, senderos, jardines y espacios públicos.",
+    "que": "Dice que faltan parques, senderos y jardines, y que hay que arreglar y mantener los espacios públicos. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta: parques y espacios de la parroquia. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Hacen falta parques, senderos y jardines; recuperación y mantenimiento de los espacios públicos existentes para el uso comunitario",
+    "pag": 5
+   },
+   {
+    "t": "Gestionar la construcción de puentes para unir sectores aislados.",
+    "que": "Pide planificar y gestionar puentes para unir sectores aislados de la parroquia. El plan no dice cuáles sectores ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio o la Prefectura. El plan no dice cómo se pagará.",
+    "cita": "Hay que planificar y gestionar la construcción de puentes que unan a los sectores aislados de la parroquia",
+    "pag": 7
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Asfaltar y adoquinar calles principales y empedrar caminos vecinales.",
+    "que": "Pide asfaltar y adoquinar las calles principales y empedrar los caminos vecinales. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura o el Municipio. El plan no dice cuánto costará.",
+    "cita": "planificar y ejecutar obras integrales con el asfaltado, adoquinado de las calles principales y de empedrado de los caminos vecinales",
+    "pag": 7
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer educación ambiental con la comunidad para cuidar el territorio.",
+    "que": "Pide educación ambiental comunitaria para que la gente cuide el territorio y use bien la tierra. El plan no dice cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "La junta puede organizar a la comunidad en esto. El plan no dice cuánto costará.",
+    "cita": "promoviendo la corresponsabilidad ciudadana y las prácticas sostenibles de uso del territorio",
+    "pag": 5
+   },
+   {
+    "t": "Hacer campañas de cuidado de perros y gatos en las calles.",
+    "que": "Pide campañas de cuidado y control de perros y gatos en el espacio público, por parte de los organismos correspondientes. El plan no dice cuándo ni cuánto costará.",
+    "v": "media",
+    "n": "Las campañas sí; el control de animales lo hacen otros organismos.",
+    "cita": "mediante campañas de concienciación del cuidado, y control de la proliferación de perros y gatos en el espacio público",
+    "pag": 4
+   }
+  ],
+  "economia": [
+   {
+    "t": "Gestionar un mercado para artesanos y productos locales.",
+    "que": "Pide gestionar un mercado para artesanos, emprendimientos y productos locales, para bajar la informalidad y el desempleo. El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Pide acuerdo con el Municipio o la Prefectura. El plan no dice dónde ni cuánto costará.",
+    "cita": "Se debe gestionar el establecimiento de un mercado artesanal, de emprendimientos y productos locales",
+    "pag": 6
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Explicar en público el presupuesto parroquial: en qué se gasta.",
+    "que": "Pide explicar de forma clara y detallada el presupuesto de la parroquia, con asignaciones, inversiones y gastos. El plan no dice cada cuánto se haría.",
+    "v": "alta",
+    "n": "Es tarea de la junta. El plan no dice cada cuánto se haría.",
+    "cita": "Socializar de manera clara y detallada el presupuesto parroquial",
+    "pag": 9
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar actividades recreativas y lúdicas en los espacios públicos.",
+    "que": "Pide organizar actividades recreativas y lúdicas en los espacios públicos, y mejorar espacios deportivos. El plan no dice cuántas ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar actividades sí le toca a la junta. El plan no dice cuántas ni cuánto costará.",
+    "cita": "organizar la masificación de las actividades recreativas y lúdicas en los espacios públicos",
+    "pag": 6
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Organizar comités de seguridad en la comunidad.",
+    "que": "Pide conformar y apoyar comités de seguridad, y aumentar los patrullajes. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "Los comités sí; los patrullajes son de la policía, no de la junta.",
+    "cita": "mediante la conformación y apoyo a los comités de seguridad, aumento de patrullajes",
+    "pag": 6
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "Casi todo el plan copia el PDOT de Amaguaña 2023-2027. Varias propuestas son del Municipio o la Prefectura, no de la junta.",
+  "El plan no dice cuánto cuesta ninguna propuesta, ni de dónde sale el dinero, ni cuándo se haría."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "paginas": 11
+}

@@ -1,0 +1,115 @@
+{
+ "enfoque": "Plan general para Mindo: reuniones con vecinos, informes, prevención con Policía y Municipio y seguimiento de obras. No dice costos ni lugares concretos.",
+ "tabla": {
+  "gobierno": [
+   {
+    "t": "Hacer informes periódicos de la gestión y darlos a conocer a la ciudadanía.",
+    "que": "El plan dice que se elaborarán y difundirán informes periódicos. No dice cada cuánto ni por qué medios, ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta y no necesita mucho dinero.",
+    "cita": "Se promoverá la elaboración y socialización de informes periódicos sobre",
+    "pag": 45
+   },
+   {
+    "t": "Hacer asambleas, reuniones comunitarias y diálogos en barrios y comunidades.",
+    "que": "El plan dice que habrá asambleas parroquiales, reuniones comunitarias y diálogos territoriales. No dice cuántas ni en qué lugares.",
+    "v": "alta",
+    "n": "Son reuniones con vecinos: le toca a la junta.",
+    "cita": "Se fortalecerán espacios de encuentro con la ciudadanía mediante",
+    "pag": 46
+   }
+  ],
+  "social": [
+   {
+    "t": "Dar a la gente un papel en revisar las acciones del plan.",
+    "que": "El plan dice que se promoverá la participación ciudadana en el seguimiento, con observaciones y acompañamiento. No dice cómo ni cuándo.",
+    "v": "alta",
+    "n": "Son reuniones y observaciones; le toca a la junta.",
+    "cita": "Se promoverá la participación ciudadana en el seguimiento de las acciones planteadas",
+    "pag": 45
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Organizar reuniones entre vecinos, organizaciones e instituciones para prevenir riesgos sociales.",
+    "que": "El plan dice que se gestionarán espacios de coordinación con la Policía Nacional y el Municipio. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Policía y el Municipio; la junta no manda en la policía.",
+    "cita": "Promover espacios de coordinación entre ciudadanía, organizaciones comunitarias e instituciones competentes para fortalecer la prevención de riesgos sociales.",
+    "pag": 21
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Dar seguimiento a obras de infraestructura y coordinar con otros niveles de gobierno.",
+    "que": "El plan dice que hará seguimiento de infraestructura y articulación. No dice qué obras, dónde ni cuánto costarán.",
+    "v": "media",
+    "n": "Las obras le tocan a la Prefectura o al Municipio; la junta solo las sigue.",
+    "cita": "Seguimiento de infraestructura, articulación con otros niveles de gobierno",
+    "pag": 33
+   }
+  ],
+  "economia": [
+   {
+    "t": "Juntar a emprendedores con actores turísticos para trabajar en conjunto.",
+    "que": "El plan habla de acciones de articulación con actores turísticos. No dice cuántas, dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdos con el Municipio y el Ministerio de Turismo.",
+    "cita": "Número de acciones de articulación con actores turísticos",
+    "pag": 42
+   }
+  ]
+ },
+ "metas": [
+  "Evaluación intermedia del avance del Plan en 2029.",
+  "Evaluación final y rendición de cuentas en 2031."
+ ],
+ "notas": [
+  "El plan no pone cifras ni costos. Casi todo son intenciones generales, sin decir qué hará la junta ni dónde.",
+  "Gran parte repite el plan de desarrollo y ordenamiento territorial de Mindo. Varias tareas son de Policía y Municipio, no de la junta.",
+  "Plan muy largo (48 págs.): se resumieron las 39 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  5,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46
+ ],
+ "paginas": 48
+}

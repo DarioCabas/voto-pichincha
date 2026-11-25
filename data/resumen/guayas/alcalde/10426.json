@@ -1,0 +1,125 @@
+{
+ "enfoque": "Propone agua 24 horas en la cabecera, arreglar el alcantarillado, obras contra inundaciones y caminos. Muchas obras grandes dependen de préstamos y de otras instituciones.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Dar agua potable las 24 horas, todos los días, en la cabecera de Salitre.",
+    "que": "El plan dice que el agua llegará 24 horas, 7 días, en la ciudad. Total de referencia USD 7 millones; el Municipio pone USD 500.000 y el resto vendría de préstamos del BDE y MIDUVI. Plazo: 2027-2030.",
+    "v": "media",
+    "n": "El agua es del Municipio, pero el dinero principal vendría de préstamos externos.",
+    "cita": "Ampliar el acceso a agua potable segura —continua (24 horas, 7 días) en la cabecera y con nuevos sistemas",
+    "pag": 5
+   },
+   {
+    "t": "Arreglar y poner en funcionamiento el alcantarillado de la cabecera.",
+    "que": "El plan dice que el sistema existe pero no funciona. Total de referencia USD 6 millones; el Municipio pone USD 500.000 y el resto vendría de BDE, MIDUVI o cooperación. Plazo: 2027-2031.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero es una obra cara que depende de dinero externo.",
+    "cita": "repotenciar el alcantarillado de la cabecera para ponerlo en funcionamiento, gestionando el financiamiento externo requerido",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Llevar clínicas móviles de salud a los recintos rurales.",
+    "que": "El plan dice que comprará 2 unidades móviles con el Ministerio de Salud Pública. Da USD 900.000 de referencia para 2027-2031. El plan no dice cuántas atenciones habrá.",
+    "v": "baja",
+    "n": "La salud no es competencia del Municipio; es del Ministerio de Salud.",
+    "cita": "Acercar los servicios sociales a la población rural mediante clínicas móviles que recorran los recintos",
+    "pag": 5
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer obras de drenaje, dragado de esteros y muros de contención contra inundaciones.",
+    "que": "El plan dice que más del 99% del cantón puede inundarse. Da USD 4 millones de referencia para 2027-2030, pero en otra parte dice que se pagaría con préstamos y cooperación.",
+    "v": "media",
+    "n": "La gestión del riesgo es del Municipio, pero el plan dice que necesita dinero externo.",
+    "cita": "Reducir la vulnerabilidad del cantón frente a las inundaciones mediante obras de drenaje, dragado de esteros y muros de contención",
+    "pag": 5
+   },
+   {
+    "t": "Crear reglas y controles para sacar arena y piedra de los ríos.",
+    "que": "El plan dice que hay que regular la explotación de arena y piedra en los ríos. Da USD 100.000 del presupuesto municipal para 2027-2028.",
+    "v": "alta",
+    "n": "Le toca al Municipio por ley y lo paga con recursos propios.",
+    "cita": "la explotación de áridos y pétreos en los ríos requiere regulación y control municipal",
+    "pag": 4
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Reparar y mantener los caminos vecinales que llevan a los mercados.",
+    "que": "El plan prevé un convenio con la Prefectura del Guayas. Da USD 4 millones de referencia para 2027-2031.",
+    "v": "media",
+    "n": "Los caminos rurales son de la Prefectura; el Municipio solo firma el convenio.",
+    "cita": "la reparación y mantenimiento de los caminos vecinales que conectan los recintos con los mercados",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer riego tecnificado para los arroceros en zonas agrícolas clave.",
+    "que": "El plan dice que la Prefectura del Guayas y el MAG harían el riego. Da USD 2,5 millones de referencia para 2027-2031.",
+    "v": "baja",
+    "n": "El riego le toca a la Prefectura y al Ministerio de Agricultura, no al Municipio.",
+    "cita": "mediante obras de riego tecnificado en zonas agrícolas clave",
+    "pag": 5
+   },
+   {
+    "t": "Repotenciar obras turísticas como malecón, parques y balnearios.",
+    "que": "El plan dice que arreglará malecón, parques y balnearios de agua dulce. Da USD 1,5 millones de referencia para 2027-2030 y prevé convenios con el Ministerio de Turismo y la Prefectura.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de convenios con Turismo y la Prefectura.",
+    "cita": "mediante la repotenciación de la infraestructura turística vigente del cantón",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Legalizar predios para que las familias tengan sus papeles de propiedad.",
+    "que": "El plan dice que hará trámites más simples para dar seguridad jurídica a las familias. Da USD 300.000 de presupuesto municipal para 2027-2031. No dice cuántos predios legalizará.",
+    "v": "alta",
+    "n": "Catastro y legalización de predios son del Municipio; usa recursos propios.",
+    "cita": "Simplificar trámites y dar seguridad jurídica a las familias",
+    "pag": 9
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una auditoría interna a la administración municipal y corregir lo que encuentre.",
+    "que": "El plan dice que empezará en 2027 con USD 150.000 del presupuesto municipal y que publicará los resultados a la ciudadanía.",
+    "v": "alta",
+    "n": "Le toca al Municipio y lo paga con sus propios recursos.",
+    "cita": "Sanear y transparentar la administración municipal mediante una auditoría interna con correctivos",
+    "pag": 5
+   }
+  ]
+ },
+ "metas": [
+  "Servicio de agua 24 horas, 7 días, en la cabecera, entre 2027 y 2030.",
+  "Cobertura de agua cercana al 100% en la ciudad, entre 2027 y 2030.",
+  "Alcantarillado de la cabecera en pleno funcionamiento, entre 2027 y 2031.",
+  "2 clínicas móviles de salud operando, con compra prevista en 2027-2028.",
+  "Auditoría interna iniciada en 2027."
+ ],
+ "notas": [
+  "El plan lo firma Jonathan Alarcon Villamar, no Jorge. Confirme que el plan es del candidato registrado.",
+  "Muchas obras grandes dependen de préstamos o de otras instituciones. El plan no asegura que lleguen."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "paginas": 11
+}

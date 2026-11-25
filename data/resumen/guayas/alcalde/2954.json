@@ -1,0 +1,140 @@
+{
+ "enfoque": "Obras viales y Parque Lineal del Estero Salado, casas, basura, aguas y árboles. Varias propuestas de policía, salud y escuelas no son del Municipio.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Construir obras viales y la primera etapa del Gran Parque Lineal del Estero Salado.",
+    "que": "Unos 225 millones de dólares al año: 25% del Municipio y el resto de convenios con el Gobierno y préstamos. El plan no dice qué calles ni cuándo termina el parque.",
+    "v": "media",
+    "n": "Obra vial sí es del Municipio, pero depende de dinero del Gobierno y de préstamos.",
+    "cita": "Vamos a invertir cerca de 225 Millones de dólares por año en obra de infraestructura urbano vial",
+    "pag": 20
+   },
+   {
+    "t": "Estudiar cada dos años los asentamientos irregulares y aprobar nuevos límites urbanos.",
+    "que": "Un estudio técnico cada dos años. Con ordenanza se llevarían servicios básicos y se legalizarían terrenos en zonas irregulares. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Uso del suelo y ordenanzas son del Municipio. Falta costo.",
+    "cita": "aprobar la extensi��n del área urbana de la ciudad, lo cual va a permitir la provisión de servicios básicos y legalización de terrenos",
+    "pag": 23
+   }
+  ],
+  "social": [
+   {
+    "t": "Construir casas de interés social y remodelar casas en sectores populares.",
+    "que": "Meta de bajar 10% el déficit de casas, unas 20.000 soluciones. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Vivienda sí es del Municipio, pero el plan no dice cómo la pagará.",
+    "cita": "alcanzar a reducir en un 10% el déficit habitacional de Guayaquil, mediante programas de construcción de viviendas de interés social",
+    "pag": 24
+   },
+   {
+    "t": "Construir centros para tratar adicciones a drogas en niños y adolescentes de 10 a 18 años.",
+    "que": "18 millones de dólares al año para centros de tratamiento. El plan no dice cuántos centros ni dónde.",
+    "v": "baja",
+    "n": "La salud no es del Municipio. Solo podría aportar dinero con convenio.",
+    "cita": "destinaremos el equivalente del 2% del Presupuesto municipal, es decir cerca de 18 Millones de dólares por año",
+    "pag": 21
+   },
+   {
+    "t": "Construir y equipar escuelas municipales en barrios populares del norte y sur.",
+    "que": "18 millones de dólares al año para escuelas. El plan no dice cuántas escuelas ni en qué plazo.",
+    "v": "baja",
+    "n": "Las escuelas no son del Municipio. Solo podría aportar con convenio.",
+    "cita": "destinar 18 Millones de dólares por año, es decir el equivalente al 2% del Presupuesto Municipal",
+    "pag": 22
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Comprar una planta procesadora de basura para tratar al menos la mitad de los desechos.",
+    "que": "Procesaría al menos el 50% de la basura recogida en la ciudad. El plan no dice cuánto costará ni cuándo estará lista.",
+    "v": "alta",
+    "n": "El manejo de basura es del Municipio. Faltan costo y plazo.",
+    "cita": "mediante la adquisición de una Planta Procesadora de Basura, que sea capaz de procesar al menos el 50% de los desechos sólidos",
+    "pag": 23
+   },
+   {
+    "t": "Repotenciar todas las plantas de aguas residuales, sobre todo las cerca de casas.",
+    "que": "Las plantas más cercanas a zonas habitadas serían prioridad. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Agua y alcantarillado son del Municipio. Faltan costo y plazo.",
+    "cita": "Repotenciar todas las plantas de tratamiento y depuración de las aguas residuales, especialmente aquellas que se encuentra cerca de las zonas habitadas",
+    "pag": 23
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Plantar árboles nativos en cada zona de la ciudad.",
+    "que": "Campaña de siembra de árboles nativos en todas las zonas. El plan no dice cuántos árboles ni cuánto costará.",
+    "v": "alta",
+    "n": "Parques y áreas verdes sí son del Municipio.",
+    "cita": "Realizar una Campaña agresiva de arborización, con árboles nativos de cada zona de la ciudad",
+    "pag": 23
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Cambiar poco a poco los buses de la Metrovía por buses eléctricos.",
+    "que": "Reemplazo gradual de las unidades de la Metrovía por unidades de motor eléctrico. El plan no dice cuántos buses ni en qué año.",
+    "v": "alta",
+    "n": "Buses y tránsito son del Municipio. Falta plazo y costo.",
+    "cita": "la programación del remplazo paulatino de las unidades de transporte del sistema Metrovía, por unidades de motor eléctrico",
+    "pag": 23
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Destinar 45 millones de dólares al año a seguridad, incluido equipo para la Policía.",
+    "que": "Dinero del Municipio para equipos de la Policía Nacional y cuatro centros de cámaras. El plan no dice cómo ni cuándo.",
+    "v": "baja",
+    "n": "La policía no es del Municipio. Solo puede aportar dinero.",
+    "cita": "invertir el equivalente del 5% del Presupuesto, es decir, cerca de 45 Millones de dólares por año, al servicio de la Seguridad Ciudadana",
+    "pag": 21
+   }
+  ]
+ },
+ "metas": [
+  "Invertir cerca de 225 millones de dólares al año en obra vial y el parque del Estero Salado.",
+  "Reducir en 10% el déficit de vivienda de Guayaquil.",
+  "Alcanzar 20.000 soluciones habitacionales.",
+  "Procesar al menos el 50% de la basura sólida con la nueva planta.",
+  "Hacer un estudio técnico de asentamientos irregulares cada dos años."
+ ],
+ "notas": [
+  "Muchas páginas copian leyes. Varias propuestas son de policía, salud o escuelas, que no son del Municipio.",
+  "El mismo 2% (18 millones al año) aparece para centros de salud y para escuelas. El plan no aclara cuál es."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28
+ ],
+ "paginas": 28
+}

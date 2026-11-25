@@ -1,0 +1,132 @@
+{
+ "enfoque": "Propone arreglar agua, basura, drenaje, calles, parques y el mercado. Los caminos rurales dependen de la Prefectura. Se basa en el plan de desarrollo del cantón de 2026.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Arreglar pozos y sistemas de agua existentes y ampliar donde falte.",
+    "que": "Hará un diagnóstico por sistema y recinto, controlará la calidad del agua y reducirá pérdidas. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Diagnóstico por sistema y recinto; rehabilitación de pozos y sistemas existentes; ampliaciones priorizadas;",
+    "pag": 8
+   },
+   {
+    "t": "Revisar rutas y frecuencias de la basura y poner puntos limpios.",
+    "que": "Actualizará la lista de usuarios del servicio, pondrá equipos y puntos limpios, y hará educación en los barrios. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "revisión técnica de rutas y frecuencias, equipamiento prioritario, puntos limpios y educación comunitaria",
+    "pag": 8
+   },
+   {
+    "t": "Arreglar tuberías de aguas servidas y drenajes para bajar inundaciones.",
+    "que": "Hará mantenimiento de drenajes antes de cada temporada de lluvias y revisará los puntos de inundación. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Rehabilitación de colectores; mantenimiento preventivo; identificación de puntos de inundación;",
+    "pag": 5
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar calles de la ciudad con un plan anual de baches y adoquines.",
+    "que": "Hará un inventario de puntos críticos y un cronograma anual, con prioridad en rutas de transporte, zonas escolares y comercio. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Inventario de puntos críticos, cronograma anual, bacheo, adoquinado, rehabilitación de bordillos y señalización",
+    "pag": 8
+   },
+   {
+    "t": "Arreglar caminos rurales solo con convenio con la Prefectura del Guayas.",
+    "que": "Los caminos rurales son competencia de la Prefectura. El plan habla de convenios con aportes, cronograma y responsabilidades. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de la Prefectura; el Municipio no lo puede hacer solo.",
+    "cita": "Convenios con Prefectura del Guayas para mantenimiento y mejoramiento de tramos rurales priorizados",
+    "pag": 8
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer una mesa con productores y agroindustria para bajar quemas y polvo.",
+    "que": "Buscará reducir quemas de caña, polvo y emisiones, con monitoreo y denuncias. El plan no dice cuándo ni cuánto costará.",
+    "v": "media",
+    "n": "Depende de la autoridad ambiental y de los productores.",
+    "cita": "Mesa con agroindustria, productores y autoridad ambiental para reducir impactos por quemas, polvo y emisiones",
+    "pag": 9
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar y crear parques, canchas, plazas y áreas verdes.",
+    "que": "Priorizará según demanda, estado y situación legal del terreno. Tendrá accesibilidad e iluminación eficiente. El plan no dice cuántos ni dónde.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuántos ni dónde.",
+    "cita": "Rehabilitación y creación priorizada de parques, canchas, plazas y áreas verdes con accesibilidad",
+    "pag": 10
+   },
+   {
+    "t": "Actualizar el plan de desarrollo del cantón y las reglas de uso del suelo.",
+    "que": "Incluirá este plan de trabajo, las nuevas necesidades y los riesgos. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (uso del suelo). El plan no dice cuánto costará.",
+    "cita": "Actualizar los instrumentos después de la posesión, incorporando el Plan de Trabajo, las nuevas necesidades",
+    "pag": 10
+   }
+  ],
+  "economia": [
+   {
+    "t": "Arreglar el mercado municipal y los espacios de feria, por fases.",
+    "que": "Mejorará lo físico, lo sanitario y la operación, y ordenará carga, circulación y basura. Buscará no parar el comercio más de lo necesario. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Mejoramiento físico, sanitario y operativo del mercado municipal y espacios de feria",
+    "pag": 9
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar cada tres meses un tablero público de obras y gasto.",
+    "que": "Mostrará inversión, obras y cumplimiento de la regla que obliga a priorizar inversión y mantenimiento. El tablero se lanzaría entre los días 61 y 100.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan lo ubica en los primeros 100 días.",
+    "cita": "Implementar un tablero público trimestral de inversión, obras y cumplimiento de la regla fiscal.",
+    "pag": 11
+   }
+  ]
+ },
+ "metas": [
+  "Durante el primer año, una cartera de agua, saneamiento y drenaje por sector, con costos y fuentes de dinero.",
+  "Cada año, un paquete de mantenimiento de redes e infraestructura crítica.",
+  "Durante el primer año, actualizar y dar a conocer los protocolos de riesgo.",
+  "Publicar cada año un plan de mantenimiento vial urbano con avance físico y presupuestario.",
+  "Seguimiento público del plan cada seis meses y rendición de cuentas cada año."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra. Dice que los costos y el origen del dinero se definirán en el primer año.",
+  "Tiene partes de plantilla: dice que deben cambiarse el candidato, el partido y el número de lista antes de inscribirse."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20
+ ],
+ "paginas": 20
+}

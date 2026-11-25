@@ -1,0 +1,135 @@
+{
+ "enfoque": "Plan escrito para la Presidencia, no para vocal. Propone mingas, parques, caminos, ferias y asambleas, y pide convenios con el Municipio y la Prefectura. Casi no dice costos.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Crear una mesa de movilidad con el Municipio y las agencias de tránsito.",
+    "que": "El plan dice que la mesa tendrá reuniones periódicas y seguimiento público. No dice cuánto costará ni cuándo se instala.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio y las agencias de tránsito.",
+    "cita": "Mesa Tácnica Permanente de Movilidad. Instancia conformada con el Municipio, la Agencia",
+    "pag": 22
+   },
+   {
+    "t": "Mantener y mejorar caminos vecinales, senderos y accesos rurales, mediante convenios.",
+    "que": "El plan dice que se hará mediante convenios y pone como meta 15 convenios de obra. No dice cuánto costará.",
+    "v": "media",
+    "n": "Se hace con la Prefectura o el Municipio, por convenio.",
+    "cita": "Mantenimiento y mejoramiento de caminos vecinabes, senderís comunitarios y accesos rurales dentro de las competencias del Gobierno Parroquial",
+    "pag": 22
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer mingas (trabajo en grupo) para limpiar y cuidar espacios públicos y senderos.",
+    "que": "El plan dice que habrá mingas para limpiar, cuidar áreas verdes y mejorar senderos. Meta: 100 mingas en el periodo. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Lo puede organizar la junta con vecinos; cuesta poco.",
+    "cita": "limpieza de enpacios públicos, mantenimiento de infrarstructura comunitaria, recuperación de áreas",
+    "pag": 21
+   },
+   {
+    "t": "Recuperar parques, plazas y espacios comunitarios con actividades culturales y deportivas.",
+    "que": "El plan dice que se hará con actividades culturales, deportivas y recreativas. No dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Los parques parroquiales son competencia de la junta.",
+    "cita": "Recuperar y dinamizar parques, plazas y espacios comunitarios mediante actividades",
+    "pag": 27
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Organizar un calendario anual de mingas ecológicas, ferias ambientales y jornadas de limpieza.",
+    "que": "El plan dice que el calendario incluirá mingas, ferias ambientales, campañas de reciclaje y concursos. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Son actividades que la junta puede organizar con vecinos.",
+    "cita": "Se establecerá un calendario anual de actividades ambientales que incluya, mingas ecológicas, ferias",
+    "pag": 36
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer una feria anual de productos de la parroquia, con cupos para emprendedores registrados.",
+    "que": "El plan dice que la feria será anual y tendrá cupos preferentes para quienes estén en el registro. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Las ferias las puede organizar la junta; el plan no dice costos.",
+    "cita": "Agenda anual de ferias paro promover productos agricolas, artesanales, gastronómicos y servicios",
+    "pag": 30
+   },
+   {
+    "t": "Negociar con la Empresa Pública Ciudad Mitad del Mundo un porcentaje de sus ingresos para la parroquia.",
+    "que": "El plan dice que pedirá un porcentaje de los ingresos para proyectos de la parroquia. No dice cuánto ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con la empresa y la Prefectura. Lo lleva la presidencia.",
+    "cita": "El Gobierno Parroquial derará tna negociación formal con la Empresa Pública Cludad Mitad del Mundo EP",
+    "pag": 9
+   },
+   {
+    "t": "Reactivar el mercado central como lugar de venta formal para quienes hoy venden en la calle.",
+    "que": "El plan no dice cuánto costará ni cuándo se hará. No dice quién lo administra.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio; la junta no lo maneja sola.",
+    "cita": "Promover la renctivación del mercado central como una alternativa formal, segura y con mayor",
+    "pag": 23
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Crear una mesa de seguridad con la Policía, el Municipio y dirigentes de barrios.",
+    "que": "El plan dice que la mesa analizará periódicamente la seguridad y hará seguimiento. No dice cuánto costará.",
+    "v": "media",
+    "n": "La Policía no es de la junta; solo puede coordinar.",
+    "cita": "Integrada por la Policia Nacional, el Municipio de Quito, la Agencia Metropolitana de Control, el Cuerpo de",
+    "pag": 27
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas parroquiales con barrios y organizaciones, al menos cuatro al año.",
+    "que": "El plan dice que serán encuentros periódicos con barrios, comunas y organizaciones. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es función de la junta.",
+    "cita": "Se Institucionalicarán encuentros periódicos con representantes de barrios, comunas, organizaciones",
+    "pag": 19
+   }
+  ]
+ },
+ "metas": [
+  "Realizar al menos cuatro asambleas parroquiales por año.",
+  "Ejecutar 100 mingas comunitarias en el periodo 2027-2031.",
+  "Tener 36 espacios comunitarios recuperados o mejorados.",
+  "Publicar informes trimestrales de ejecución del Plan de Gobierno.",
+  "Actualizar cada año el Registro Parroquial de Emprendedores."
+ ],
+ "notas": [
+  "Plan escrito para la Presidencia, no para vocal. Varias propuestas son de la Policía, el Municipio o la Prefectura.",
+  "Plan incompleto: solo llegan algunas páginas. Casi no dice cuánto cuesta cada propuesta ni cuándo se hará.",
+  "Plan muy largo (50 págs.): se resumieron las 22 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  4,
+  9,
+  10,
+  13,
+  14,
+  18,
+  19,
+  21,
+  22,
+  23,
+  26,
+  27,
+  28,
+  29,
+  30,
+  32,
+  33,
+  35,
+  36,
+  42,
+  43
+ ],
+ "paginas": 50
+}

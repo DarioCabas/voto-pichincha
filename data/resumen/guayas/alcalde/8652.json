@@ -1,0 +1,121 @@
+{
+ "enfoque": "Pone primero agua potable y alcantarillado; también propone calles, basura, bosque y salud. Muchas obras no dicen cuánto costarán ni cuándo.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Revisar y arreglar el sistema de agua potable de todo el cantón, pueblo y recintos.",
+    "que": "Incluye pozos, plantas de potabilización, redes y almacenamiento. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Diagnóstico y repotenciación del sistema actual de agua potable en todo el cantón, tanto en la cabecera cantonal como en los recintos",
+    "pag": 3
+   },
+   {
+    "t": "Llevar agua potable mejorada a más recintos rurales.",
+    "que": "El plan no dice qué recintos ni cuántas casas. Tampoco dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Ampliación de la cobertura rural de agua potable mejorada",
+    "pag": 3
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer una primera etapa de alcantarillado de lluvias en los puntos urbanos de mayor riesgo.",
+    "que": "El plan también pide un plan general de alcantarillado de lluvias. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "ejecución de una primera fase funcional en los puntos urbanos de mayor riesgo",
+    "pag": 3
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Revisar todas las vías del cantón y hacer un plan anual de mantenimiento.",
+    "que": "También habla de pavimentar y adoquinar calles urbanas priorizadas. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Inventario vial y programa anual de mantenimiento y mejoramiento",
+    "pag": 4
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Cerrar el botadero actual y buscar un lugar propio o compartido con otros municipios para la basura.",
+    "que": "El plan no dice dónde será ni cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cómo ni cuándo se hará.",
+    "cita": "Cierre técnico del botadero actual y solución de disposición final propia o mancomunada",
+    "pag": 5
+   },
+   {
+    "t": "Separar basura desde la casa, hacer abono de restos orgánicos y recoger basura en más recintos.",
+    "que": "El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "La basura le toca al Municipio. Falta el costo.",
+    "cita": "Separación en origen, compostaje y ampliación de la recolección de residuos en recintos",
+    "pag": 5
+   },
+   {
+    "t": "Controlar la tala, los incendios y la extracción de áridos en el bosque seco.",
+    "que": "El plan no dice qué parte hará el Municipio ni cuánto costará. Tampoco dice cuándo.",
+    "v": "media",
+    "n": "Puede ayudar con el control, pero el plan no dice con quién ni cómo.",
+    "cita": "Protección del bosque seco y las fuentes hídricas; control de tala, incendios y extracción de áridos",
+    "pag": 5
+   }
+  ],
+  "otros": [
+   {
+    "t": "Hacer un plan para prevenir inundaciones y erosión en el cantón.",
+    "que": "Incluye limpiar canales y esteros de forma permanente. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Prevenir desastres le toca al Municipio. Falta el costo.",
+    "cita": "Plan cantonal de gestión de riesgos frente a inundaciones y erosión",
+    "pag": 5
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar puntos de alerta, luces preventivas y cámaras de vigilancia en barrios y recintos.",
+    "que": "El plan también pide botones de auxilio y trabajo con la Policía, ECU 911 y Bomberos. No dice cuánto costará.",
+    "v": "media",
+    "n": "El Municipio puede poner luces; la policía no le toca a la alcaldía.",
+    "cita": "Instalación de puntos de alerta, iluminación preventiva y videovigilancia",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Pedir que el centro médico del cantón atienda las 24 horas, todos los días.",
+    "que": "Hoy atiende solo de día, 8 horas. El plan no dice cuándo se logrará ni cuánto costará.",
+    "v": "baja",
+    "n": "No le toca al Municipio: la salud es del Estado, no de la alcaldía.",
+    "cita": "Gestionar ante la Agencia de Aseguramiento de Calidad de los servicios de Salud y Medicina Prepagada",
+    "pag": 5
+   }
+  ]
+ },
+ "metas": [
+  "Mejorar al menos 10 espacios públicos, culturales o deportivos priorizados.",
+  "Publicar un tablero público cada seis meses con metas, avance físico y financiero.",
+  "Hacer asambleas de seguimiento cada seis meses, en la cabecera y los recintos.",
+  "Entregar un informe anual de rendición de cuentas."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni en qué plazo se hará.",
+  "Varias propuestas son de salud, escuelas o policía, que no le tocan a la alcaldía."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "paginas": 8
+}

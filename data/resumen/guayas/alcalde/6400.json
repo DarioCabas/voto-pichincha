@@ -1,0 +1,167 @@
+{
+ "enfoque": "Pozos de agua en el Chobo, más agua y desagües, basura, vías, legalizar predios y parques. Gran parte del texto copia el plan de la ciudad (PDOT).",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Construir 4 pozos de agua en el sector del Chobo.",
+    "que": "Serían 4 pozos con convenio del Ingenio Valdez. Cada pozo daría 300 metros cúbicos de agua por hora. El plan no dice cuánto costará ni cómo se pagará.",
+    "v": "media",
+    "n": "Depende de un acuerdo con el Ingenio Valdez, no solo del Municipio.",
+    "cita": "Construir 4 nuevos pozos, en el sector del Chobo, en convenio de comodato con el Ingenio Valdez",
+    "pag": 50
+   },
+   {
+    "t": "Ampliar agua potable, alcantarillado y drenaje de aguas lluvias.",
+    "que": "Llevar agua y desagües a más sectores del cantón. El plan no dice dónde ni cuánto costará. Tampoco dice en qué año.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cómo se paga.",
+    "cita": "Ampliar la cobertura de agua potable, alcantarillado y drenaje pluvial.",
+    "pag": 22
+   },
+   {
+    "t": "Reforzar el relleno sanitario (donde va la basura) y añadir reciclaje.",
+    "que": "Buscar áreas para el relleno, con reciclaje y tratamiento de restos orgánicos. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "La basura es competencia del Municipio. Falta costo y plazo.",
+    "cita": "Establecer áreas para repotenciar el proyecto de relleno sanitario existente con fases de reciclaje",
+    "pag": 46
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer un plan de vías, señales y tráfico para la vía principal del cantón.",
+    "que": "Busca evitar que se sature la vía principal del cantón. El plan no dice qué obras se harán, cuánto costarán ni cuándo.",
+    "v": "alta",
+    "n": "Calles y tránsito le tocan al Municipio.",
+    "cita": "Establecer un plan funcional de vías, señalización y flujo de vehículos que evite la saturación de la principal arteria del cantón",
+    "pag": 48
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Poner en regla la propiedad de terrenos de familias de bajos ingresos en la ciudad.",
+    "que": "Según el plan hay 9.964 predios sin legalizar. La meta es 1.250 por año. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "El uso del suelo le toca al Municipio. Falta el costo.",
+    "cita": "Generar un proceso de regularización o legalización de predios municipales en posesión de familias de escasos recursos",
+    "pag": 50
+   },
+   {
+    "t": "Planificar, construir y mantener espacios públicos para la comunidad.",
+    "que": "Incluye parques y espacios de uso común. El plan no dice dónde ni cuánto costará. No pone fechas.",
+    "v": "alta",
+    "n": "Parques y espacios públicos son del Municipio.",
+    "cita": "Planificar, construir y mantener los espacios públicos destinados a fortalecer a la comunidad",
+    "pag": 43
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer proyectos de siembra de árboles y recuperar humedales.",
+    "que": "El plan habla de zonas protegidas y del efecto invernadero. El plan no dice cuántos árboles, dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no pone cifras.",
+    "cita": "Intervenir en proyectos sobre arborización, rescate de humedal y zonas protegidas ante el efecto invernadero",
+    "pag": 51
+   },
+   {
+    "t": "Reducir las inundaciones con obras de drenaje más resistentes.",
+    "que": "Busca reducir el riesgo cuando llueve mucho. El plan no dice qué obras harán, dónde ni cuánto costarán.",
+    "v": "alta",
+    "n": "Prevenir desastres y drenaje le tocan al Municipio.",
+    "cita": "Reducir la vulnerabilidad frente a inundaciones mediante infraestructura resiliente.",
+    "pag": 35
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Reforzar la seguridad ciudadana del cantón.",
+    "que": "El plan no dice qué hará ni con qué recursos. La policía no es competencia del Municipio.",
+    "v": "baja",
+    "n": "La policía no le toca al alcalde.",
+    "cita": "Fortalecer los sistemas de seguridad ciudadana para un mejor vivir",
+    "pag": 47
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer programas de empleo para jóvenes y mujeres.",
+    "que": "El plan no dice cuántos empleos habrá ni cuánto costará. Crear empleo no es tarea directa del alcalde.",
+    "v": "baja",
+    "n": "Crear empleo no le toca directamente al Municipio.",
+    "cita": "Impulsar programas de empleo para jóvenes y mujeres.",
+    "pag": 19
+   }
+  ]
+ },
+ "metas": [
+  "Construir 4 pozos de agua en el Chobo, con 300 metros cúbicos de agua por hora cada uno.",
+  "Para 2027 y 2028, explotar 2 pozos: 600 metros cúbicos de agua por hora.",
+  "Legalizar 1.250 predios por año."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero.",
+  "Mucho del texto copia el plan de desarrollo de la ciudad (PDOT) y guías del CNE. Las obras concretas están en la matriz final."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57
+ ],
+ "paginas": 57
+}

@@ -1,0 +1,140 @@
+{
+ "enfoque": "Plan de toda la junta, no solo del vocal. Propone arreglar caminos, ordenar ferias y parques, y publicar cuentas. Muchas obras dependen del Municipio o la Prefectura.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar vías y accesos con un calendario de maquinaria",
+    "que": "Primero la vía principal. Usa como referencia USD 42.412,85 del plan de desarrollo de la parroquia, sin monto fijo cada año.",
+    "v": "media",
+    "n": "Necesita convenio con el Municipio de Quito y la Prefectura.",
+    "cita": "El programa organizará el mantenimiento preventivo y correctivo de vías, accesos y puntos críticos.",
+    "pag": 9
+   },
+   {
+    "t": "Pedir a la autoridad de transporte frecuencias piloto para barrios alejados",
+    "que": "Primero se mide la demanda por barrio durante el primer año. El plan no dice cuándo empiezan las frecuencias ni cuánto costarán.",
+    "v": "baja",
+    "n": "Le toca al Municipio o a la autoridad de transporte, no a la junta.",
+    "cita": "propondrán frecuencias piloto hacia sectores alejados en horas pico",
+    "pag": 11
+   }
+  ],
+  "economia": [
+   {
+    "t": "Diseñar circuitos turísticos por zonas, con servicios y responsables",
+    "que": "Meta: cuatro circuitos para 2031. Los costos se sabrán con cotizaciones previas. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita apoyo de Quito Turismo y operadores. El plan no dice costos.",
+    "cita": "Se diseñarán circuitos por zonas, con duración, capacidad, condiciones de acceso, responsables y servicios disponibles.",
+    "pag": 11
+   },
+   {
+    "t": "Crear un registro único de productores y ferias, con reglas claras",
+    "que": "Anota a cada emprendimiento, su ubicación y necesidades. Habrá permisos transparentes y distribución ordenada en las ferias. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Apoyar a productores y ferias sí le toca a la junta.",
+    "cita": "Se implementará un registro único, reglas claras, permisos transparentes, distribución ordenada, promoción conjunta",
+    "pag": 11
+   },
+   {
+    "t": "Hacer jornadas para emprendedores sobre proyectos, permisos, ventas e imagen",
+    "que": "Serán jornadas periódicas y de bajo costo, con aprendizaje entre pares. El plan no dice cuántas habrá ni cuánto costarán.",
+    "v": "alta",
+    "n": "Capacitar a emprendedores es trabajo de la junta y cuesta poco.",
+    "cita": "Se implementarán jornadas periódicas para formular proyectos, acceder a capacitaciones, preparar permisos",
+    "pag": 14
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Poner contenedores y separar la basura en las ferias",
+    "que": "Los eventos tendrán plan de manejo de basura. La recogida se coordina con el Municipio. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "La recogida depende del Municipio; la junta organiza la separación.",
+    "cita": "Residuos en ferias Contenedores, separación, acuerdos y limpieza",
+    "pag": 17
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Mantener el parque con cuadrillas y responsables definidos",
+    "que": "Limpieza semanal o según uso, y arreglos menores cada mes. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Los parques sí le tocan a la junta. El plan no dice cuánto cuesta.",
+    "cita": "El mantenimiento del parque y de otros espacios públicos se organizará mediante cuadrillas, frecuencias, responsables y estándares.",
+    "pag": 15
+   },
+   {
+    "t": "Evaluar recuperar el espacio de San Luis como casa de la memoria",
+    "que": "Antes se revisará la propiedad, el estado del edificio y el costo. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita certificado de propiedad y convenio de uso. El plan no dice costo.",
+    "cita": "También se evaluará la recuperación de inmuebles subutilizados, como el espacio mencionado en San Luis",
+    "pag": 12
+   }
+  ],
+  "social": [
+   {
+    "t": "Abrir una ventanilla para orientar trámites de propiedad de terrenos",
+    "que": "Clasifica casos, explica requisitos y organiza papeles. No garantiza escrituras. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Los trámites son del Municipio, Registro y notarías. La junta solo orienta.",
+    "cita": "Se implementará una ventanilla de acompañamiento para clasificar casos, orientar requisitos",
+    "pag": 11
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar un tablero con obras, dinero gastado y responsables",
+    "que": "Estará listo al día 100 como sistema básico y se actualizará. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Publicar cuentas le toca a la junta.",
+    "cita": "Se mantendrá un tablero público de gestión que mostrará, de manera comprensible,",
+    "pag": 28
+   }
+  ]
+ },
+ "metas": [
+  "Cuatro circuitos turísticos articulados para 2031",
+  "Dos arreglos al año en la vía prioritaria",
+  "12 cronogramas de maquinaria publicados por año",
+  "80 o más emprendimientos registrados",
+  "200 personas capacitadas acumuladas"
+ ],
+ "notas": [
+  "El plan es de toda la junta. Muchas obras dependen de convenios con el Municipio o la Prefectura, que el plan no detalla.",
+  "Muchos proyectos no tienen costo ni fecha: el plan dice que se definirán después de levantar información en los primeros cien días.",
+  "Plan muy largo (29 págs.): se resumieron las 27 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  27,
+  28
+ ],
+ "paginas": 29
+}

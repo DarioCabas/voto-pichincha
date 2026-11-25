@@ -1,0 +1,135 @@
+{
+ "enfoque": "Plan copiado del plan de desarrollo de la parroquia 2019-2023: caminos, cuidado de bosques y quebradas, parques, cursos y ferias para productores. No da costos.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Revisar el estado de caminos y limpiar cunetas y drenajes cada año",
+    "que": "Se hará cada año en caminos, cunetas y drenajes, con las instituciones competentes para las obras grandes. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Los caminos se cuidan junto con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Actualizar el inventario vial y ejecutar anualmente el mantenimiento de caminos, limpieza de cunetas y drenajes",
+    "pag": 6
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer campañas anuales de reforestación, limpieza de quebradas y prevención de incendios",
+    "que": "Se harán campañas cada año para reforestar, limpiar quebradas, prevenir incendios y proteger fuentes de agua. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Es trabajo de la junta: cuidar el ambiente y organizar mingas.",
+    "cita": "Ejecutar campañas anuales de reforestación, limpieza de quebradas, prevención de incendios y protección de fuentes hídricas.",
+    "pag": 6
+   },
+   {
+    "t": "Crear comités comunitarios de protección ambiental con capacitación y vigilancia",
+    "que": "Se formarán comités de vecinos que cuidarán el ambiente, con cursos de educación ambiental. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es competencia de la junta.",
+    "cita": "Conformar y fortalecer comités comunitarios de protección ambiental, mediante procesos de capacitación, educación ambiental y vigilancia ciudadana",
+    "pag": 6
+   },
+   {
+    "t": "Comprar composteras comunitarias para convertir residuos orgánicos en abono",
+    "que": "Se instalarán composteras comunitarias con capacitación permanente sobre compostaje y reciclaje. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Comprar equipos cuesta dinero y la junta tiene poco presupuesto.",
+    "cita": "Adquirir e implementar composteras comunitarias, acompañadas de jornadas permanentes de capacitación técnica",
+    "pag": 9
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar casas comunales, canchas y parques para uso de la comunidad",
+    "que": "Se harán obras en casas comunales, canchas, parques y otros espacios públicos para actividades culturales, deportivas y de prevención. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Los parques y espacios públicos son competencia de la junta.",
+    "cita": "Ejecutar intervenciones de regeneración urbana y urbanismo táctico en casas comunales, canchas, parques y otros espacios públicos",
+    "pag": 7
+   },
+   {
+    "t": "Ordenar los papeles de terrenos de casas comunales y gestionar su legalización",
+    "que": "Se hará un inventario de los terrenos donde están las casas comunales y se gestionará su legalización. El plan no dice cuánto costará ni cuánto tardará.",
+    "v": "media",
+    "n": "Los trámites de terrenos pueden requerir acuerdos con otras entidades. El plan no dice cómo.",
+    "cita": "Levantar y actualizar el inventario físico, catastral y documental de los predios donde funcionan las casas comunales",
+    "pag": 7
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar cursos a productores y emprendedores sobre ventas, herramientas digitales y atención al cliente",
+    "que": "Se darán capacitaciones en comercialización, herramientas digitales, valor agregado y atención al cliente. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Capacitar a productores es competencia de la junta.",
+    "cita": "Capacitar a productores y emprendedores en comercialización, herramientas digitales, valor agregado y atención al cliente",
+    "pag": 8
+   },
+   {
+    "t": "Hacer ferias y campañas para vender los servicios y comidas de la parroquia",
+    "que": "Se difundirán emprendimientos de servicios y comida de la parroquia con campañas y ferias a nivel local, provincial y nacional. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Las ferias son trabajo de la junta. El plan no dice cuánto costará.",
+    "cita": "Difusión y fortalecimiento de emprendimientos locales de servicios, oferta gastronómica de la parroquia mediante campañas, ferias y espacios de promoción",
+    "pag": 7
+   }
+  ],
+  "social": [
+   {
+    "t": "Dar tutorías y refuerzo escolar a niños y adolescentes",
+    "que": "Se organizarán jornadas periódicas de tutorías, refuerzo escolar y apoyo en tareas. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "La educación no es competencia de la junta. Le toca a las escuelas.",
+    "cita": "Organizar jornadas periódicas de tutorías, refuerzo escolar y apoyo en tareas dirigidas a niñas, niños y adolescentes.",
+    "pag": 6
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas en los barrios para informar sobre el presupuesto y las obras",
+    "que": "Se harán asambleas itinerantes en los barrios y comunas para presentar la ejecución del presupuesto y el avance de proyectos. El plan no dice cada cuánto.",
+    "v": "alta",
+    "n": "Son reuniones con vecinos, que la junta puede organizar.",
+    "cita": "Se institucionalizará la realización de asambleas ciudadanas itinerantes en los diferentes barrios y comunas de la parroquia",
+    "pag": 11
+   },
+   {
+    "t": "Crear una página web con las actas, presupuestos y contratos de la junta",
+    "que": "Se publicarán en un portal digital de libre acceso las actas, informes presupuestarios y procesos de contratación. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita una página web y a alguien que la mantenga. El plan no dice quién.",
+    "cita": "Se implementará y mantendrá un portal digital de libre acceso como repositorio oficial de transparencia",
+    "pag": 11
+   }
+  ]
+ },
+ "metas": [
+  "Campañas de reforestación, limpieza de quebradas y prevención de incendios cada año.",
+  "Mantenimiento de caminos y limpieza de cunetas cada año.",
+  "Asambleas en los barrios, con informes trimestrales y anuales.",
+  "Actualizar el plan de desarrollo de la parroquia en el año 4.",
+  "Plan para el período 2027-2031."
+ ],
+ "notas": [
+  "Texto copiado en gran parte del plan de desarrollo de la parroquia 2019-2023. Varias metas son de otros niveles (agua, salud, escuelas).",
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15
+ ],
+ "paginas": 15
+}

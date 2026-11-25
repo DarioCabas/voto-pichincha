@@ -1,0 +1,720 @@
+{
+  "canton": "DAULE",
+  "candidatos": [
+    {
+      "codFormulario": 5101,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Obras de agua, alcantarillado, basura, calles, drenaje y mejoras de casas en Daule, con más obra en parroquias rurales y La Aurora. Varias metas dependen de otros niveles de gobierno.",
+      "tabla": {
+        "servicios": [
+          {
+            "t": "Llevar agua potable al campo: subir la cobertura rural del 37,6% a 55% al 2031.",
+            "que": "Subir la cobertura de agua en parroquias rurales a al menos 55% al 2031 y extender el alcantarillado a recintos sin cubrir. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio, pero el plan no dice cuánto costará.",
+            "cita": "Elevar la cobertura rural de agua potable del 37,6% a al menos 55% al 2031",
+            "pag": 35
+          },
+          {
+            "t": "Instalar 4 EcoCentros municipales y fijar rutas y horarios de basura.",
+            "que": "Son 4 EcoCentros municipales y rutas y horarios oficiales en el 100% de los circuitos de la cabecera. El plan no dice cuánto costará ni dónde irán.",
+            "v": "alta",
+            "n": "Le toca al Municipio: la basura es competencia municipal.",
+            "cita": "Instalar 4 EcoCentros municipales y protocolizar rutas y horarios en el 100% de los circuitos",
+            "pag": 33
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Hacer obras de control de inundaciones en el estero Sabanilla.",
+            "que": "Reducir en al menos 30% las edificaciones en zona de amenaza alta de inundación del corredor del estero Sabanilla al 2031. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Obra directa del Municipio, según el plan.",
+            "cita": "Reducir en al menos 30% las edificaciones en amenaza alta de inundación del corredor",
+            "pag": 34
+          },
+          {
+            "t": "Actualizar el plan de riesgos y hacer dos simulacros al año.",
+            "que": "Actualizar el plan y hacer al menos dos simulacros cantonales cada año desde 2027. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio; los protocolos los pone el Servicio Nacional de Gestión de Riesgos.",
+            "cita": "Actualizar el plan y ejecutar al menos dos simulacros cantonales anuales desde 2027.",
+            "pag": 34
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Poner en marcha la primera ruta de bus eléctrico Aurora–Cabecera–Guayaquil.",
+            "que": "Poner en operación la primera ruta eléctrica Aurora–Cabecera–Guayaquil al 2029, en alianza con operadores privados. El plan no dice cuánto costará.",
+            "v": "media",
+            "n": "Los buses son del Municipio, pero depende de operadores privados.",
+            "cita": "Poner en operación la primera ruta eléctrica Aurora–Cabecera–Guayaquil al 2029.",
+            "pag": 37
+          },
+          {
+            "t": "Construir puentes peatonales en los cruces más transitados.",
+            "que": "Construir puentes peatonales en los puntos de mayor circulación de la cabecera y La Aurora al 2029. El plan no dice cuántos ni cuánto costarán.",
+            "v": "alta",
+            "n": "Le toca al Municipio: es obra peatonal y vial municipal.",
+            "cita": "Identificar y construir puentes peatonales adicionales en los puntos de mayor",
+            "pag": 38
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Arreglar 20 espacios urbanos con calles, aceras, luces y áreas verdes.",
+            "que": "Regenerar 20 espacios urbanos con mejoras viales, aceras, iluminación, mobiliario y áreas verdes, junto con las urbanizaciones. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio: calles y mantenimiento vial.",
+            "cita": "Regenerar integralmente 20 espacios urbanos estratégicos del cantón, incorporando",
+            "pag": 38
+          },
+          {
+            "t": "Aprobar la primera fase del plan para ordenar el crecimiento de La Aurora.",
+            "que": "Aprobar y ejecutar la primera fase del plan parcial (plan para ordenar la expansión urbana) de La Aurora al 2028. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio: el uso del suelo es competencia directa.",
+            "cita": "Aprobar y ejecutar la primera fase del plan parcial al 2028.",
+            "pag": 36
+          }
+        ],
+        "social": [
+          {
+            "t": "Mejorar la casa de 500 familias hasta 2031.",
+            "que": "Atender al menos 500 familias con mejoramiento de vivienda al 2031, en coordinación con el MIDUVI (ministerio de vivienda). El plan no dice cuánto costará.",
+            "v": "media",
+            "n": "Depende en parte del MIDUVI, el ministerio de vivienda.",
+            "cita": "Atender al menos 500 familias con mejoramiento habitacional al 2031",
+            "pag": 39
+          }
+        ],
+        "economia": [
+          {
+            "t": "Registrar 10.000 personas y 500 empresas en una bolsa de empleo digital.",
+            "que": "Registrar a 10.000 personas y 500 empresas al 2030 en una bolsa de empleo digital con IA (inteligencia artificial). El plan no dice cuánto costará.",
+            "v": "baja",
+            "n": "Crear empleo no es competencia del Municipio según la ley.",
+            "cita": "Registrar a 10.000 personas y 500 empresas al 2030.",
+            "pag": 44
+          }
+        ]
+      },
+      "metas": [
+        "Subir la cobertura de agua potable en el área rural del 37,6% a al menos 55% al 2031.",
+        "Instalar 4 EcoCentros municipales para la basura.",
+        "Reducir en al menos 30% las edificaciones en amenaza alta de inundación del corredor del estero Sabanilla al 2031.",
+        "Atender al menos 500 familias con mejoramiento de vivienda al 2031.",
+        "Aprobar y ejecutar la primera fase del plan parcial de La Aurora al 2028."
+      ],
+      "notas": [
+        "El plan no dice cuánto costará la mayoría de las obras ni de dónde saldrá el dinero.",
+        "La seguridad y la salud no son del Municipio: el plan pide convenios con la Policía y el Ministerio de Salud."
+      ]
+    },
+    {
+      "codFormulario": 3461,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan 2027-2031 con agua, alcantarillado, terrenos, calles, parques, drenaje, basura y trámites productivos. Varias tablas del escaneo no se leen bien.",
+      "tabla": {
+        "servicios": [
+          {
+            "t": "Medir el servicio de agua por sector y reducir pérdidas y cortes.",
+            "que": "Primero se medirá el servicio de cada sector. Después se harán obras por etapas. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio, a través de su empresa de agua. El plan no dice el costo.",
+            "cita": "La primera decisión será consolidar una línea base por sector",
+            "pag": 28
+          },
+          {
+            "t": "Ampliar redes de alcantarillado y tratamiento de aguas residuales por etapas.",
+            "que": "Cada etapa debe mostrar cuánta gente atiende y que hay dinero para operarla. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio, pero el plan no dice cómo lo pagará.",
+            "cita": "Las redes, conexiones domiciliarias, estaciones de bombeo, capacidad",
+            "pag": 29
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Ordenar el catastro y dar una ruta pública para legalizar terrenos urbanos.",
+            "que": "El Municipio tramitará los trámites urbanos. Los terrenos rurales los decide otra autoridad. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio en lo urbano. En lo rural decide otra entidad.",
+            "cita": "el Municipio tramitará los procedimientos urbanos que le correspondan",
+            "pag": 30
+          },
+          {
+            "t": "Recuperar parques y canchas con luz, accesos y actividades para jóvenes.",
+            "que": "Se harán planes para parques y canchas con deporte, cultura y mediación. Meta: 25 espacios hasta 2031. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Parques y canchas son del Municipio. El plan no dice el costo.",
+            "cita": "Parques, canchas y centralidades se recuperarán como espacios de encuentro,",
+            "pag": 34
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Arreglar 60 puntos críticos de calles con aceras, cruces y luz hasta 2031.",
+            "que": "Cada punto tendrá aceras, cruces, iluminación, señales y drenaje. Prioridad para niños y personas con discapacidad. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Calles de la ciudad: le toca al Municipio. Vías rurales: depende del gobierno provincial.",
+            "cita": "Las intervenciones integrarán aceras, cruces, paradas, iluminación, señalización, drenaje y",
+            "pag": 32
+          }
+        ],
+        "economia": [
+          {
+            "t": "Bajar 40 % el tiempo de los trámites productivos municipales.",
+            "que": "Primero revisará requisitos y tiempos de cada trámite. Luego abrirá atención presencial, itinerante y digital. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Trámites municipales: le toca al Municipio. El plan no dice costo.",
+            "cita": "Reducir en un 40% el tiempo mediano de los trámites productivos",
+            "pag": 32
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Arreglar puntos que se inundan: drenajes, riberas y mantenimiento.",
+            "que": "Cada punto tendrá causa analizada, solución y responsable de mantenimiento. Parte se hará con plantas nativas junto a ríos. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio en gran parte. El plan no dice cuánto costará.",
+            "cita": "Cada punto crítico deberá contar con causa analizada",
+            "pag": 37
+          },
+          {
+            "t": "Elegir una solución técnica para la basura final, con evaluación completa.",
+            "que": "Se evaluará llevar la basura a una instalación técnica o usar una solución regional. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Basura: le toca al Municipio. El plan no dice cuánto costará.",
+            "cita": "Se realizará una evaluación técnica, ambiental, jurídica y financiera",
+            "pag": 38
+          }
+        ],
+        "social": [
+          {
+            "t": "Promover una mesa con el Estado sobre la oferta de hospitales.",
+            "que": "El Municipio solo promueve la mesa y da permisos si la autoridad de salud aprueba un hospital. El plan no dice cuánto costará.",
+            "v": "baja",
+            "n": "Hospitales: competencia del Estado, no del Municipio.",
+            "cita": "Municipio promoverá una mesa para fortalecer la oferta hospitalaria",
+            "pag": 33
+          }
+        ]
+      },
+      "metas": [
+        "90 % de los sectores priorizados con agua en el estándar del servicio en 2031",
+        "Llegar al 80 % de viviendas con alcantarillado conectado (año no legible en el texto)",
+        "95 % de los terrenos priorizados con datos completos en 2031",
+        "Reducir 15 % el tiempo de viaje en los corredores priorizados para 2031",
+        "15 % de la basura recolectada aprovechada en 2031"
+      ],
+      "notas": [
+        "Varias tablas del plan están dañadas por el escaneo. Algunas metas no dicen año ni costo.",
+        "Incluye temas que no son del Municipio, como hospitales y seguridad con la Policía. Revise el plan completo."
+      ]
+    },
+    {
+      "codFormulario": 11106,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan copiado en gran parte del plan de desarrollo del cantón (2025): agua, desagüe, aguas lluvias, calles, mercados y luces, con costos referenciales.",
+      "tabla": {
+        "servicios": [
+          {
+            "t": "Ampliar el alcantarillado y las plantas que limpian aguas servidas en sectores priorizados.",
+            "que": "Cuesta USD 15 millones (2027–2031), sujeto a estudios y dinero disponible. El plan no dice qué sectores ni cuándo.",
+            "v": "media",
+            "n": "Le toca al Municipio, pero el costo depende de dinero aún no asegurado.",
+            "cita": "Resultado 2031 Sectores priorizados con estudios y ampliaciones ejecutadas",
+            "pag": 21
+          },
+          {
+            "t": "Hacer mapas de riesgo, estudios y obras contra inundaciones urbanas.",
+            "que": "Cuesta USD 18 millones (2027–2031), sujeto a estudios y dinero disponible. El plan no dice qué barrios se protegerán ni cuándo.",
+            "v": "media",
+            "n": "Le toca al Municipio, pero el costo depende de dinero aún no asegurado.",
+            "cita": "Resultado 2031 Mapa de riesgo, estudios y obras estructurales/no estructurales",
+            "pag": 22
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Arreglar y mantener calles urbanas y caminos rurales.",
+            "que": "Cuesta USD 18 millones (2027–2031), sujeto a dinero disponible. El plan no dice qué calles se arreglarán ni en qué orden.",
+            "v": "media",
+            "n": "Le toca al Municipio, pero el plan reconoce deuda alta, sobre el límite legal en 2022.",
+            "cita": "Programa de Rehabilitación y Mantenimiento de la Red Vial Urbana y Rural",
+            "pag": 18
+          },
+          {
+            "t": "Construir aceras accesibles, ciclovías y paraderos de bus.",
+            "que": "Cuesta USD 6 millones (2027–2031). El plan no dice cuántos kilómetros se harán ni en qué calles.",
+            "v": "alta",
+            "n": "Le toca al Municipio: calles y espacio público. Costo indicado en el plan.",
+            "cita": "Kilómetros construidos de aceras accesibles y ciclovías segregadas",
+            "pag": 31
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Mejorar barrios priorizados con obras y regularizar sus terrenos.",
+            "que": "Cuesta USD 5 millones (2027–2031). El plan no dice qué barrios se beneficiarán ni cuántos títulos de propiedad se entregarán.",
+            "v": "alta",
+            "n": "Le toca al Municipio: suelo y barrios. El plan no dice cómo se hará la titulación.",
+            "cita": "Programa Cantonal de Mejoramiento Integral de Barrios y Hábitat Digno",
+            "pag": 17
+          }
+        ],
+        "economia": [
+          {
+            "t": "Renovar mercados municipales y crear ferias regulares y una ventanilla para negocios.",
+            "que": "Cuesta USD 3 millones (2027–2031). El plan no dice qué mercados se renovarán ni cuándo se harán las ferias.",
+            "v": "alta",
+            "n": "Le toca al Municipio, que administra los mercados. Costo indicado en el plan.",
+            "cita": "Modernización de la Red Cantonal de Mercados y Fomento al Emprendimiento",
+            "pag": 18
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Poner luces LED y alertas comunitarias en puntos priorizados.",
+            "que": "Cuesta USD 3 millones (2027–2031). El plan no dice qué puntos se intervendrán ni cuántos.",
+            "v": "media",
+            "n": "Luces y parques sí son del Municipio; la vigilancia y la policía no.",
+            "cita": "Programa Espacio Seguro: Iluminación LED, Alertas Comunitarias y Recuperación Urbana",
+            "pag": 19
+          },
+          {
+            "t": "Hacer un plan anual de prevención del delito con un consejo de seguridad.",
+            "que": "Cuesta USD 1 millón (2027–2031). El plan dice que la seguridad policial sigue siendo del Gobierno y el Municipio solo coordina.",
+            "v": "baja",
+            "n": "La policía no le toca al Municipio; solo puede coordinar.",
+            "cita": "Plan Local de Prevención del Delito y Consejo Cantonal de Seguridad Ciudadana",
+            "pag": 19
+          }
+        ]
+      },
+      "metas": [
+        "Tablero público de avances, actualizado cada tres meses.",
+        "Informe ciudadano cada seis meses.",
+        "Rendición de cuentas una vez al año.",
+        "Activar mesas de trabajo en los 30 distritos en los primeros cien días.",
+        "Validar la línea base de los indicadores durante 2027."
+      ],
+      "notas": [
+        "Mucho del plan viene del plan de desarrollo del cantón de 2025. Sumando los proyectos sale más de USD 97 millones, pero el plan dice 97.",
+        "Los costos son referenciales: el plan dice que dependen de estudios y dinero disponible. La deuda ya superó el límite legal en 2022.",
+        "Plan muy largo (53 págs.): se resumieron las 47 páginas con propuestas."
+      ]
+    },
+    {
+      "codFormulario": 10645,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Propone ordenar la administración, cobrar más impuestos propios, rendir cuentas y que los vecinos decidan parte del presupuesto. Casi no trae obras concretas.",
+      "tabla": {
+        "economia": [
+          {
+            "t": "Actualizar el catastro para cobrar mejor el impuesto predial y subir lo que recauda el municipio.",
+            "que": "El plan dice que cobrará más cada año con impuestos propios, actualizando el catastro y mejorando el cobro. El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto subirá el cobro.",
+            "cita": "incrementar presgresivamente la rocaadación propia del cantón mediane la actualización del catastro incoobillario",
+            "pag": 76
+          },
+          {
+            "t": "Pedir préstamos al banco público para obras grandes que el municipio no pueda pagar con dinero propio.",
+            "que": "El plan dice que los préstamos se usarán para obras que superen el dinero propio, cuidando que el municipio pueda pagarlos. El plan no dice cuánto ni qué obras.",
+            "v": "media",
+            "n": "Puede pedirlo, pero depende del banco. El plan no dice qué obras.",
+            "cita": "Municipal púdrá accedes a Mess de enbdito del Maneo de Decarmoddo del Ecuador",
+            "pag": 77
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Rendir cuentas a los vecinos cada año y al final del periodo de gobierno.",
+            "que": "La alcaldesa hará la rendición de cuentas cada año fiscal y al terminar el periodo, incluyendo el cumplimiento de este plan. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la alcaldesa. Es obligatorio por ley.",
+            "cita": "la Alcaldesa reafizará el proceso de rendición de corrtas una vez por cada",
+            "pag": 78
+          },
+          {
+            "t": "Hacer un cabildo popular cada año para escuchar propuestas de los vecinos.",
+            "que": "Cada año habrá un cabildo popular, una reunión donde los vecinos dan sus necesidades y propuestas. Lo que se acuerde se tomará en cuenta. El plan no dice dónde ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la alcaldía organizarlo. Lo pide la ley de participación.",
+            "cita": "un Cabildo Popular anual, conforme a lo previmo en la Ley Orgánica de Participación",
+            "pag": 80
+          },
+          {
+            "t": "Dejar una parte del presupuesto anual para que barrios, parroquias y recintos decidan en qué se gasta.",
+            "que": "El plan dice que una parte del presupuesto anual la decidirán los vecinos organizados. El plan no dice qué porcentaje ni cuánto dinero.",
+            "v": "alta",
+            "n": "Le toca al Municipio decidir su presupuesto. El plan no dice cuánto.",
+            "cita": "parte de los recurños del prevpueslo mueleipal anúil merá dedicado al",
+            "pag": 77
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Medir con encuestas y consultas qué piensan los vecinos de los servicios municipales.",
+            "que": "Se harán encuestas, consultas y plataformas digitales para saber si los vecinos están conformes con los servicios. El plan no dice cuándo ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice el costo.",
+            "cita": "Se desarrollarán mecanismos permánemes para medir lo percepción y el nivel de sallilieción",
+            "pag": 81
+          }
+        ]
+      },
+      "metas": [
+        "Rendición de cuentas cada año fiscal y al final del periodo 2027-2031."
+      ],
+      "notas": [
+        "Gran parte del texto es ilegible por el escaneo. Solo se pudieron leer partes; revise el plan original en el CNE.",
+        "Casi no tiene obras concretas (calles, agua, basura) con lugar, costo ni plazo. Parte de un plan de desarrollo ya existente del cantón."
+      ]
+    },
+    {
+      "codFormulario": 7456,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan de obras municipales (agua, basura, parques, mercados, calles) con proyectos de salud y policía que no le tocan. Parte del texto sale del plan de desarrollo del cantón.",
+      "tabla": {
+        "ambiente": [
+          {
+            "t": "Construir un parque urbano en Los Lojas con zonas recreativas, deportivas y ecológicas.",
+            "que": "El plan no dice cuánto costará ni cuándo. Es para toda la comunidad de Los Lojas.",
+            "v": "alta",
+            "n": "Le toca al Municipio: los parques son competencia municipal.",
+            "cita": "Parroquia Verde en Los Lojas - parque urbano con",
+            "pag": 3
+          },
+          {
+            "t": "Hacer un mapa de zonas de riesgo por lluvias e inundaciones en el cantón.",
+            "que": "El mapa marcará qué zonas son vulnerables. El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Le toca al Municipio: prevenir desastres es competencia municipal.",
+            "cita": "Mapa de riesgos cantonal - identificación y zonificación de áreas de vulnerabilidad hidrometeorológica",
+            "pag": 13
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Mejorar la recolección y el manejo de la basura en todo el cantón.",
+            "que": "El plan mide cobertura y frecuencia del servicio. No dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Le toca al Municipio: la basura es competencia municipal.",
+            "cita": "Mejoramiento integral del sistema de recolección y manejo de desechos sólidos del cantón Daule",
+            "pag": 16
+          },
+          {
+            "t": "Ampliar la red de agua potable, primero donde hay menos cobertura.",
+            "que": "Usa el programa CAF, ya en marcha (USD 35M). El plan no dice cuándo terminará cada tramo.",
+            "v": "media",
+            "n": "Le toca al Municipio, pero depende del programa CAF y de su presupuesto.",
+            "cita": "Este plan concentra la mayor parte de la inversión municipal en la ampliación de redes de agua potable",
+            "pag": 15
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Ejecutar 34 planes para urbanizaciones, sobre todo en La Aurora.",
+            "que": "Son para vías, luz, alcantarillado y espacios públicos. El plan no dice cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "Le toca al Municipio, pero el plan no dice cómo se pagará.",
+            "cita": "la implementación progresiva de los 34 Planes Urbanísticos Complementarios identificados",
+            "pag": 7
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Gestionar mejor transporte público entre el cantón y La Aurora.",
+            "que": "Es una gestión, no una obra. El plan no dice cuánto costará ni cuándo se logrará.",
+            "v": "media",
+            "n": "Le toca al Municipio, pero depende de acuerdos y de empresas de buses.",
+            "cita": "Gestión municipal para mejorar la conectividad de transporte público entre el cantón y La Aurora",
+            "pag": 8
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Instalar cámaras de videovigilancia y coordinar con la Policía.",
+            "que": "Las cámaras son del municipio, pero la vigilancia la hace la Policía. El plan no dice cuánto costará.",
+            "v": "media",
+            "n": "El municipio pone cámaras; la Policía no le toca al alcalde.",
+            "cita": "una infraestructura de videovigilancia y un modelo de gestión coordinado con las instituciones competentes",
+            "pag": 8
+          }
+        ],
+        "social": [
+          {
+            "t": "Crear un club deportivo municipal para formar y representar al cantón.",
+            "que": "El plan no dice cuánto costará ni cuándo. Medirá cuántas disciplinas deportivas funcionan.",
+            "v": "alta",
+            "n": "Le toca al Municipio: el deporte municipal es su competencia.",
+            "cita": "la creación del Club Deportivo Daule, el Parque inclusivo y el Centro Integral de Servicios Públicos en La Aurora",
+            "pag": 5
+          },
+          {
+            "t": "Gestionar con el Ministerio de Salud un Hospital de Especialidades.",
+            "que": "Es una gestión con el Ministerio de Salud. El plan no dice cuándo se construirá ni cuánto costará.",
+            "v": "baja",
+            "n": "No le toca al Municipio: la salud es del Ministerio de Salud.",
+            "cita": "La gestión interinstitucional para un Hospital de Especialidades",
+            "pag": 5
+          }
+        ],
+        "economia": [
+          {
+            "t": "Arreglar y mantener los mercados municipales para vendedores y compradores.",
+            "que": "El plan no dice cuánto costará ni cuándo. Medirá el estado de los mercados y la satisfacción de usuarios.",
+            "v": "alta",
+            "n": "Le toca al Municipio: los mercados municipales son suyos.",
+            "cita": "Mejoramiento y mantenimiento de los mercados municipales para una mejor",
+            "pag": 14
+          }
+        ]
+      },
+      "metas": [
+        "Cobertura de agua potable en Los Lojas: de 9,5% a por lo menos 40%.",
+        "Cobertura de agua potable en Junquillal - Boliche-Aurora: de 35,1% a por lo menos 60%.",
+        "Índice de Consolidación Urbana: de 24% a 40%.",
+        "34 planes para urbanizaciones pendientes de hacer."
+      ],
+      "notas": [
+        "El plan no dice casi nada sobre costos ni de dónde saldrá el dinero. Las metas dependen del presupuesto.",
+        "Parte de las tablas del plan está borrosa; algunas propuestas pueden no leerse bien."
+      ]
+    },
+    {
+      "codFormulario": 12216,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Agua y alcantarillado para el campo, arreglo de la vía de La Aurora, centros de arroz, cámaras y trámites digitales. Varias obras dependen de crédito o de otros niveles de gobierno.",
+      "tabla": {
+        "servicios": [
+          {
+            "t": "Llevar agua potable y alcantarillado al campo y a zonas periféricas.",
+            "que": "Meta: 80% con agua potable y 65% con alcantarillado en el campo y zonas periféricas. El plan no dice cuánto costará. Se pagaría con dinero del Estado, ingresos propios y créditos.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará; depende de créditos y del Estado.",
+            "cita": "Alcanzar el 80% de cobertura de agua potable y el 65% de alcantarillado sanitario en el sector rural y comunidades periféricas del cantón.",
+            "pag": 12
+          },
+          {
+            "t": "Arreglar y construir plantas para tratar aguas residuales.",
+            "que": "El plan no dice cuánto costará ni cuándo. Entra en la inversión de agua y alcantarillado, que es el 28% del presupuesto de inversión.",
+            "v": "alta",
+            "n": "Le toca al Municipio (alcantarillado). El plan no dice costo ni plazo.",
+            "cita": "repotenciar y construir Plantas de Tratamiento de Aguas Residuales (PTAR)",
+            "pag": 9
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Hacer pasos elevados y pasos deprimidos en la avenida León Febres-Cordero, en La Aurora.",
+            "que": "Meta: reducir 35% el tiempo de traslado en esa avenida. El plan no dice cuánto costará ni en qué año se terminará. Pide crédito del Banco de Desarrollo.",
+            "v": "alta",
+            "n": "Le toca al Municipio (calles y tránsito). El plan no dice cuánto costará.",
+            "cita": "Ejecutar el Plan Solución Vial La Aurora, construyendo pasos elevados, pasos deprimidos,",
+            "pag": 12
+          },
+          {
+            "t": "Firmar convenios con la Prefectura para mantener las vías rurales.",
+            "que": "El plan no dice cuánto costará ni cuándo. Depende de que la Prefectura del Guayas firme los convenios.",
+            "v": "media",
+            "n": "Las vías rurales no están en la lista del alcalde. Depende de que la Prefectura firme.",
+            "cita": "Convenios concurrentes prioritarios para el mantenimiento vial rural asfáltico",
+            "pag": 13
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Construir obras para proteger de inundaciones las orillas de Laurel, Limonal y Los Lojas.",
+            "que": "Lo haría junto con la Prefectura y el servicio nacional de riesgos. El plan no dice cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "Prevenir inundaciones sí le toca. Depende de la Prefectura y del servicio nacional de riesgos.",
+            "cita": "construyendo obras de protección de márgenes en Laurel, Limonal y Los Lojas",
+            "pag": 12
+          }
+        ],
+        "economia": [
+          {
+            "t": "Crear centros para secar y guardar arroz con tarifas comunitarias.",
+            "que": "Meta: capacidad de 15.000 toneladas de arroz al año. Busca bajar 25% la intermediación. El plan no dice cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "No está en la lista de competencias del alcalde. Necesita alianzas y dinero de otros.",
+            "cita": "Crear la Red Cantonal de Centros de Acopio",
+            "pag": 12
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Instalar centrales de monitoreo y cámaras con inteligencia artificial.",
+            "que": "Las cámaras se conectarían con el servicio de emergencias 911. El plan no dice cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "Las cámaras sí, pero la policía no le toca al alcalde. Depende de la Policía y del Gobierno.",
+            "cita": "instalando centrales de monitoreo, videovigilancia con Inteligencia Artificial",
+            "pag": 12
+          }
+        ],
+        "social": [
+          {
+            "t": "Gastar el 60% de las obras municipales en zonas rurales y barrios periféricos.",
+            "que": "Lo dice el plan para reducir la desigualdad entre La Aurora y el campo. El plan no dice cuánto es ese 60% en dólares.",
+            "v": "alta",
+            "n": "Le toca al Municipio decidir sus obras. Es un porcentaje, no un monto en dólares.",
+            "cita": "invirtiendo el 60% del presupuesto de obras públicas municipales en sectores rurales",
+            "pag": 12
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Abrir una sede en La Aurora y oficinas técnicas en parroquias rurales.",
+            "que": "El plan también pide pasar el 100% de los trámites a digital. No dice cuánto costará ni en qué año.",
+            "v": "alta",
+            "n": "Le toca al Municipio: son sus propios trámites y oficinas. El plan no dice costo.",
+            "cita": "implementar la Sede Administrativa Desconcentrada de La Aurora y Oficinas Técnicas en Parroquias Rurales",
+            "pag": 12
+          },
+          {
+            "t": "Poner al día el registro de propiedades para cobrar impuestos de forma justa.",
+            "que": "El plan no dice cuánto costará ni en qué plazo. Busca que el cobro de impuestos sea justo y transparente.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+            "cita": "Actualizar el Catastro Multipropósito Cantonal para garantizar una recaudación justa, progresiva y transparente",
+            "pag": 12
+          }
+        ]
+      },
+      "metas": [
+        "80% de cobertura de agua potable en el campo y zonas periféricas, hasta 2031.",
+        "65% de cobertura de alcantarillado en el campo y zonas periféricas, hasta 2031.",
+        "Reducir 35% el tiempo de traslado en la avenida León Febres-Cordero (La Aurora).",
+        "Centro de acopio de arroz con capacidad de 15.000 toneladas al año.",
+        "100% de trámites municipales digitalizados, hasta 2031."
+      ],
+      "notas": [
+        "El plan no dice cuánto costará casi ninguna obra. Varias dependen de créditos, del Estado o de la Prefectura.",
+        "Usa datos del PDOT de la parroquia San Jacinto de Daule, que no es del cantón. La evaluación de medio término dice 2023."
+      ]
+    },
+    {
+      "codFormulario": 4201,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan de Daule: arreglar calles y el redondel de La Joya, llevar agua y alcantarillado al campo, relleno sanitario, parques, mercados y cámaras. Mucho depende de otros.",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Pavimentar 100 km de vías urbanas y rurales y mantener 250 km de la red vial.",
+            "que": "El plan pone USD 3.000.000 al año: 20 km pavimentados y 50 km mantenidos cada año, de 2027 a 2031. Solo el 38 % de la inversión total sale del Municipio.",
+            "v": "media",
+            "n": "Las calles son del Municipio, pero el plan depende de otras fuentes de dinero.",
+            "cita": "Pavimentación de 100 km de vías urbanas y rurales; mantenimiento de la red vial existente.",
+            "pag": 13
+          },
+          {
+            "t": "Arreglar el redondel de La Joya y otros puntos de congestión en La Aurora.",
+            "que": "Incluye ampliar carriles, poner semáforos inteligentes y pasos elevados. Costo: USD 1.000.000. Plazo: de 2027 a 2031.",
+            "v": "alta",
+            "n": "Calles y tránsito son competencia del Municipio.",
+            "cita": "Intervención en el redondel de La Joya y otros puntos de congestión: ampliación de carriles, semaforización inteligente y pasos elevados.",
+            "pag": 13
+          },
+          {
+            "t": "Terminar, equipar y poner en funcionamiento el Terminal Terrestre de Daule.",
+            "que": "Presupuesto de USD 500.000 al año. Según el plan, el terminal empieza a operar en 2028. El plan no dice en qué lugar queda.",
+            "v": "alta",
+            "n": "Terminales y buses son competencia del Municipio.",
+            "cita": "Finalización, equipamiento y puesta en operación del Terminal Terrestre del cantón Daule.",
+            "pag": 13
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Ampliar agua potable y alcantarillado en zonas urbanas y rurales.",
+            "que": "Agua rural: de 30 % a 60 % en 2031. Alcantarillado rural: de 20 % a 45 %. Presupuesto de USD 4.000.000 al año, con EMAPA-EP Daule.",
+            "v": "alta",
+            "n": "Es competencia municipal. El plan la asigna a EMAPA-EP Daule.",
+            "cita": "Ampliación de la cobertura de agua potable y alcantarillado en áreas urbanas y rurales.",
+            "pag": 13
+          },
+          {
+            "t": "Construir un relleno sanitario y reciclar más basura, con camiones nuevos.",
+            "que": "En 2027 compra 2 camiones recolectores y diseña el relleno. En 2028 lo pone en marcha. Presupuesto de USD 4.000.000 al año. No dice dónde irá.",
+            "v": "alta",
+            "n": "La basura es competencia del Municipio. El plan no dice dónde irá el relleno.",
+            "cita": "Implementación del relleno sanitario cantonal, programa de reciclaje y fortalecimiento de la recolección de basura.",
+            "pag": 13
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Rehabilitar 5 parques y construir 2 parques por año, en todo el cantón.",
+            "que": "Entre 2027 y 2030 se rehabilitan 5 parques y se construyen 2 cada año. Presupuesto de USD 500.000 al año. El plan no dice en qué barrios.",
+            "v": "alta",
+            "n": "Parques y áreas verdes son competencia del Municipio.",
+            "cita": "Construcción, rehabilitación y mantenimiento de parques, plazas y áreas verdes en todo el cantón.",
+            "pag": 13
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Instalar 200 cámaras de videovigilancia en la ciudad y parroquias rurales.",
+            "que": "Plan: 50 cámaras por año hasta 2030. Presupuesto de USD 500.000. El plan dice que la competencia principal es de la Policía y el Gobierno.",
+            "v": "baja",
+            "n": "Seguridad y policía no son competencia del alcalde.",
+            "cita": "Instalación de 200 cámaras de videovigilancia en puntos estratégicos de la cabecera cantonal, La Aurora y parroquias rurales.",
+            "pag": 10
+          }
+        ],
+        "social": [
+          {
+            "t": "Construir 3 centros de salud y dar equipamiento y mantenimiento a la red de salud.",
+            "que": "Uno en La Aurora, uno en el área rural y uno en la cabecera. El plan no dice el costo por centro. Presupuesto de USD 1.500.000 al año.",
+            "v": "baja",
+            "n": "La salud es del Ministerio de Salud, no del Municipio.",
+            "cita": "Construcción de 3 centros de salud; equipamiento y mantenimiento de la red de salud.",
+            "pag": 15
+          }
+        ],
+        "economia": [
+          {
+            "t": "Remodelar los mercados Central, Santa Clara, Los Daulis y La Aurora.",
+            "que": "Uno por año, de 2027 a 2030. Presupuesto de USD 400.000 al año. El plan no dice cuánto costará cada mercado.",
+            "v": "alta",
+            "n": "Los mercados son competencia del Municipio.",
+            "cita": "Remodelación, equipamiento y modernización de los mercados municipales.",
+            "pag": 12
+          }
+        ],
+        "otros": [
+          {
+            "t": "Actualizar el plan de riesgos y reducir riesgos en sectores vulnerables.",
+            "que": "Medidas de protección en 10 sectores por año entre 2028 y 2030. Presupuesto de USD 250.000 al año. Hay 4.252 viviendas en riesgo por inundación.",
+            "v": "alta",
+            "n": "Prevenir desastres es competencia del Municipio.",
+            "cita": "Actualización e implementación del Plan Cantonal de Gestión de Riesgos, con énfasis en inundaciones y sequías.",
+            "pag": 10
+          }
+        ]
+      },
+      "metas": [
+        "Pavimentar 100 km de vías y mantener 250 km de la red vial, de 2027 a 2031.",
+        "Agua potable en el área rural: de 30 % a 60 % en 2031.",
+        "Alcantarillado en el área rural: de 20 % a 45 % en 2031.",
+        "200 cámaras de videovigilancia instaladas para 2030.",
+        "100 % de los trámites municipales digitalizados en 2031."
+      ],
+      "notas": [
+        "Solo el 38 % del dinero sale del Municipio. El resto depende de Gobierno, Prefectura, bancos y alianzas, según el plan.",
+        "Incluye seguridad, salud y escuelas, que no son del alcalde. Varias metas vienen del plan de desarrollo del cantón."
+      ]
+    }
+  ]
+}

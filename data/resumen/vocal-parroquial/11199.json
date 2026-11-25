@@ -1,0 +1,127 @@
+{
+ "enfoque": "Es el plan general de la parroquia Tocachi, no uno propio del vocal. Propone vías con la Prefectura, espacios públicos, ayuda a productores y cuidado ambiental.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer reuniones cada tres meses con la Prefectura para elegir qué vías reciben mantenimiento.",
+    "que": "Las reuniones son para acordar cronogramas y las vías con mantenimiento periódico. El plan no dice cuánto costará ni cuándo empieza.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura. La junta solo puede gestionarlo.",
+    "cita": "Reuniones trimestrales con la Prefectura de Pichincha para acordar los cronogramas de mantenimiento vial y las vías a las que se brindará el mantenimiento periódico.",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Organizar actividades deportivas y culturales en los espacios públicos de la parroquia.",
+    "que": "El plan dice que se organizarán actividades deportivas y culturales en los espacios públicos. El plan no dice cuánto costará ni cuándo empieza.",
+    "v": "alta",
+    "n": "Espacios públicos y organizar a la comunidad sí le tocan a la junta.",
+    "cita": "Promoción del uso del espacio público parroquial mediante la organización de actividades deportivas y culturales.",
+    "pag": 7
+   },
+   {
+    "t": "Arreglar o cambiar el equipamiento de las obras que ya existen en la parroquia.",
+    "que": "El plan no dice qué obras ni cuánto costará. Menciona convenios con la Prefectura y el Municipio para cofinanciar obras.",
+    "v": "media",
+    "n": "Depende de dinero y acuerdos con otros niveles de gobierno.",
+    "cita": "Mejoramiento de la infraestructura física existente mediante el mantenimiento o renovación de su equipamiento.",
+    "pag": 6
+   },
+   {
+    "t": "Construir y arreglar obras que la ciudadanía priorice en la parroquia.",
+    "que": "El plan no dice qué obras ni cuánto costarán. Dice que la gente elige las obras en talleres del plan de desarrollo de la parroquia.",
+    "v": "media",
+    "n": "Obras grandes necesitan dinero de otros niveles. El plan no dice cuánto cuestan.",
+    "cita": "Construcción y mantenimiento de la infraestructura física priorizada por la ciudadanía en el plan de desarrollo y ordenamiento territorial construido participativamente.",
+    "pag": 7
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Pedir al Municipio que proteja y maneje quebradas y zonas naturales.",
+    "que": "El plan dice que la junta hará gestiones con el Municipio para proteger quebradas y áreas naturales. No dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio decidir. La junta solo gestiona.",
+    "cita": "Realizar gestiones con el municipio para la protección y manejo de quebradas y áreas naturales.",
+    "pag": 8
+   },
+   {
+    "t": "Pedir a la Prefectura que maneje cuencas y fuentes de agua de la parroquia.",
+    "que": "El plan dice que la junta hará gestiones con la Prefectura para cuencas hídricas y fuentes de agua. No dice cuánto costará.",
+    "v": "media",
+    "n": "Cuidar cuencas es tema ambiental, no agua potable. Necesita a la Prefectura.",
+    "cita": "Realizar gestiones con la prefectura para el manejo de cuencas hídricas y fuentes de agua.",
+    "pag": 8
+   }
+  ],
+  "economia": [
+   {
+    "t": "Ayudar a los productores a preparar su participación en ferias.",
+    "que": "El plan dice que se asesorará a productores para ir a ferias locales, nacionales e internacionales. No dice quién paga los viajes ni cuánto cuesta.",
+    "v": "alta",
+    "n": "Asesorar a productores sí le toca a la junta y cuesta poco.",
+    "cita": "Asesoramiento a los productores de la parroquia para participar en ferias productivas a nivel local, nacional e internacional.",
+    "pag": 8
+   },
+   {
+    "t": "Dar talleres de capacitación a los emprendimientos de la parroquia.",
+    "que": "Los talleres los darían distintas instituciones con apoyo de la junta. El plan no dice cuántos talleres habrá ni cuándo.",
+    "v": "alta",
+    "n": "Cursos y talleres sí le tocan a la junta y cuestan poco.",
+    "cita": "Talleres de capacitación con el apoyo de distintas instituciones para fortalecer los emprendimientos existentes en la parroquia.",
+    "pag": 8
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Organizar asambleas de la parroquia para decidir parte de los presupuestos municipales y provinciales.",
+    "que": "El plan dice que habrá asambleas parroquiales para priorizar presupuestos del Municipio y de la Prefectura. No dice cuánto dinero es.",
+    "v": "media",
+    "n": "La junta organiza la asamblea, pero el dinero lo deciden el Municipio y la Prefectura.",
+    "cita": "Asambleas parroquiales para la priorización de los presupuestos participativos municipales y provinciales.",
+    "pag": 9
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer reuniones cada seis meses con organizaciones para revisar el plan de la parroquia.",
+    "que": "Las reuniones servirían para seguir el plan de desarrollo de la parroquia. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Reunir a organizaciones sí le toca a la junta y cuesta poco.",
+    "cita": "Reuniones semestrales con las organizaciones sociales para el seguimiento del Plan de Desarrollo y Ordenamiento Territorial de la parroquia.",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Reuniones cada tres meses (trimestrales) con la Prefectura de Pichincha para acordar mantenimiento de vías.",
+  "Reuniones cada seis meses (semestrales) con organizaciones sociales para seguir el plan.",
+  "Una asamblea anual de rendición de cuentas.",
+  "Periodo de gestión 2027-2031, cuatro años."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni cuándo se hará. Muchas dependen de convenios con el Municipio y la Prefectura.",
+  "Gran parte del texto es un plan general de la parroquia, no propuestas propias de un vocal."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16
+ ],
+ "paginas": 16
+}

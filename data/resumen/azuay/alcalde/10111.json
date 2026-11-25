@@ -1,0 +1,132 @@
+{
+ "enfoque": "Plan de obras municipales: vías, agua y alcantarillado, basura, parques y calles. Varias metas dependen de la Prefectura o de préstamos. Incluye temas de economía que no son del Municipio.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer un inventario de las vías del cantón y ordenarlas por prioridad.",
+    "que": "El plan dice que el Plan Vial se aprueba el primer año, con costos y programación de varios años. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio; algunas vías dependen de la Prefectura.",
+    "cita": "inventario vial, priorización por impacto, mantenimiento preventivo, drenajes y",
+    "pag": 5
+   },
+   {
+    "t": "Arreglar caminos y calles: poner material, tapar huecos y limpiar cunetas.",
+    "que": "Se hará según un cronograma público anual. El plan no dice cuántos kilómetros se arreglarán ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Los convenios con la Prefectura y comunidades ayudan.",
+    "cita": "Lastrado, bacheo, limpieza de cunetas, drenajes y estabilización preventiva.",
+    "pag": 11
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Hacer estudios y una lista de proyectos de agua potable para todo el cantón.",
+    "que": "Primer año: diagnóstico de sistemas de agua y lista de proyectos con estudios. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Estudios: le toca al Municipio. Las obras dependerán de préstamos.",
+    "cita": "Diagnóstico de sistemas; cartera priorizada; estudios y financiamiento.",
+    "pag": 12
+   },
+   {
+    "t": "Hacer alcantarillado y tratar las aguas residuales, por fases.",
+    "que": "El plan no dice en qué sectores ni cuánto costará. Se pagaría con el Banco de Desarrollo, convenios y cooperación.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de préstamos y convenios.",
+    "cita": "Alcantarillado, soluciones descentralizadas y tratamiento de aguas residuales.",
+    "pag": 12
+   },
+   {
+    "t": "Recoger basura separada y reciclable en la cabecera y luego en las parroquias.",
+    "que": "Empieza en la cabecera y sigue en las parroquias. Se pagaría con tasas, presupuesto y cooperación. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "La basura le toca al Municipio. El plan no fija fechas por parroquia.",
+    "cita": "Optimización de rutas, separación en fuente, reciclaje y aprovechamiento orgánico.",
+    "pag": 12
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar calles, aceras, drenajes, rampas y cruces para que sean accesibles.",
+    "que": "Se hará cada año según prioridades. El plan no dice qué calles se arreglarán ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Se pagaría con presupuesto y convenios.",
+    "cita": "Rehabilitación de calzadas, drenajes, aceras, rampas y cruces accesibles.",
+    "pag": 14
+   },
+   {
+    "t": "Recuperar parques y plazas, con juegos inclusivos y más árboles.",
+    "que": "Se recuperarán los espacios priorizados y luego se mantendrán. El plan no dice cuáles parques ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: los parques son competencia municipal.",
+    "cita": "Recuperación, mobiliario, juegos inclusivos, arborización y agenda de uso.",
+    "pag": 14
+   },
+   {
+    "t": "Aplicar el plan de uso del suelo, actualizar el catastro y controlar construcciones en riesgo.",
+    "que": "El plan dice que se actualizará el catastro (registro de propiedades) y se controlará la ocupación en zonas de riesgo. No dice plazos.",
+    "v": "alta",
+    "n": "Le toca al Municipio: uso del suelo y catastro.",
+    "cita": "Aplicación PDOT/PUGS, catastro, control y prevención de ocupación en riesgo.",
+    "pag": 14
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Poner luz en espacios municipales y recuperar parques y puntos críticos.",
+    "que": "El plan dice que el Municipio puede aportar con iluminación de espacios municipales, parques y redes comunitarias. No dice cuánto costará.",
+    "v": "media",
+    "n": "La luz municipal sí le toca; la policía no, es nacional.",
+    "cita": "contribuir mediante iluminación de espacios municipales, recuperación de parques, redes",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar capacitación y mentoría a emprendedores, con ayuda para formalizarse.",
+    "que": "Ciclos anuales de capacitación y conexión con bancos. El plan no dice cuántos emprendedores se atenderán ni cuánto costará.",
+    "v": "baja",
+    "n": "Crear empleo no le toca al Municipio; depende de bancos y universidades.",
+    "cita": "Capacitación, formalización, transformación digital, mentoría y conexión financiera.",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Plan Vial Cantonal aprobado durante el primer año de gestión.",
+  "Plan Maestro de Agua y banco de proyectos listos durante el primer año.",
+  "Banco Cantonal de Proyectos operativo durante el primer año.",
+  "Primeros 120 días: líneas base, auditoría de proyectos y programación financiera.",
+  "Tablero público de obras con actualización trimestral."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará cada obra. Muchas dependen de la Prefectura o de préstamos del Banco de Desarrollo.",
+  "Las metas de cobertura (casas, kilómetros) quedan para después de hacer estudios. El plan no fija cifras."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22
+ ],
+ "paginas": 22
+}

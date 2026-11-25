@@ -1,0 +1,113 @@
+{
+ "enfoque": "Plan general de la lista ADN para Pacto: pide reuniones con la comunidad, contar en qué se gasta el dinero y cuidar el ambiente. Pocas acciones concretas.",
+ "tabla": {
+  "gobierno": [
+   {
+    "t": "Convocar asambleas públicas periódicas para informar y escuchar a la comunidad.",
+    "que": "Invitar a comunidades, organizaciones y juntas vecinales a informar sobre la gestión y recibir propuestas. El plan no dice cada cuánto ni dónde.",
+    "v": "alta",
+    "n": "Le toca a la junta y cuesta poco. El plan no dice cada cuánto se hará.",
+    "cita": "Convocar periódicamente a las comunidades, organizaciones sociales, juntas vecinales y autoridades tradicionales para informar sobre la gestión",
+    "pag": 3
+   },
+   {
+    "t": "Explicar a la gente en qué se gasta el presupuesto parroquial.",
+    "que": "Explicar de forma clara y detallada las asignaciones, inversiones y gastos. El plan no dice cada cuánto ni cómo se hará.",
+    "v": "alta",
+    "n": "Le toca a la junta. El plan no dice cuándo se hará.",
+    "cita": "Socializar de manera clara y detallada el presupuesto parroquial, explicando las asignaciones, inversiones y gastos ejecutados.",
+    "pag": 3
+   },
+   {
+    "t": "Usar tableros, boletines, redes sociales y reuniones virtuales para informar.",
+    "que": "Mantener canales permanentes para que la gente se entere y participe en planes y control de actividades. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta y cuesta poco. El plan no dice cuánto costará.",
+    "cita": "Mantener canales permanentes de información, como tableros comunitarios, boletines, redes sociales y reuniones virtuales",
+    "pag": 4
+   },
+   {
+    "t": "Gastar 70% del presupuesto en obras y 30% en gastos administrativos.",
+    "que": "Es lo que pide la ley de organización territorial (COOTAD). El plan no dice qué obras se harán ni en qué lugares.",
+    "v": "alta",
+    "n": "Es una regla de la ley. El plan no dice qué obras.",
+    "cita": "Dar fiel cumplimiento a lo que propone el COOTAD, 30 % gastos administrativos y 70% obras para la parroquia.",
+    "pag": 4
+   },
+   {
+    "t": "Dar cursos y asistencia técnica a la propia junta en gestión y administración.",
+    "que": "Capacitar al personal y a los vocales en administración y gestión. El plan no dice quién dará los cursos ni cuánto cuestan.",
+    "v": "alta",
+    "n": "Le toca a la junta. El plan no dice quién da los cursos ni cuánto cuestan.",
+    "cita": "Fortalecer las capacidades técnicas, administrativas y de gestión del GAD Parroquial, a través de procesos de capacitación",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Buscar dinero que no hay que devolver, de organizaciones no gubernamentales.",
+    "que": "Gestionar recursos no reembolsables para beneficio de la comunidad. El plan no dice de qué organizaciones ni cuánto.",
+    "v": "media",
+    "n": "Depende de que esas organizaciones den dinero. El plan no dice cuánto.",
+    "cita": "Gestionar Recursos de organismos no gubernamentales que sean no reembolsables, para beneficio de la comunidad.",
+    "pag": 4
+   },
+   {
+    "t": "Conseguir asesoría, cursos y acompañamiento del Estado para productores.",
+    "que": "Dar asistencia técnica, capacitación y acompañamiento a productos comunitarios, a través de instituciones del Estado. El plan no dice cuáles ni cuándo.",
+    "v": "media",
+    "n": "La asesoría la dan otras instituciones. El plan no dice cuáles ni cuándo.",
+    "cita": "Impulsar el desarrollo productivo comunitario y sostenible, a través de asistencia técnica, capacitación y acompañamiento",
+    "pag": 2
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Gestionar con el Estado más servicios básicos y sociales, primero para comunidades indígenas.",
+    "que": "Pedir a las entidades del Estado que amplíen y mejoren el acceso a servicios básicos y sociales. El plan no dice cuáles ni cuándo.",
+    "v": "baja",
+    "n": "Le toca a otras entidades (agua, salud, educación). El plan no dice cuándo.",
+    "cita": "Gestionar y articular acciones interinstitucionales con las entidades competentes del Estado para ampliar y mejorar el acceso a servicios básicos",
+    "pag": 2
+   }
+  ],
+  "social": [
+   {
+    "t": "Mejorar los sistemas de salud y educación, respetando saberes ancestrales.",
+    "que": "Promover el respeto a los saberes ancestrales y la calidad de los servicios de salud y educación. El plan no dice cómo ni cuándo.",
+    "v": "baja",
+    "n": "Salud y educación no son competencia de la junta. El plan no dice cómo.",
+    "cita": "Fortalecer los sisternas de salud y educación interculturales, promoviendo el respeto a los saberes ancestrales",
+    "pag": 2
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Cuidar el territorio ancestral, la biodiversidad y las fuentes de agua.",
+    "que": "Proteger y conservar estas zonas y fuentes con una gestión ambiental participativa. El plan no dice qué acciones ni en qué lugares.",
+    "v": "alta",
+    "n": "Es tarea de la junta. El plan no dice qué acciones ni dónde.",
+    "cita": "Proteger y conservar el territorio ancestral, la biodiversidad y las fuentes hídricas",
+    "pag": 2
+   }
+  ]
+ },
+ "metas": [
+  "Usar 70% del presupuesto en obras y 30% en gastos administrativos.",
+  "El plan dura del 2027 al 2031."
+ ],
+ "notas": [
+  "Es un plan general igual para los 5 precandidatos de la lista ADN, no propio de cada uno.",
+  "Casi no dice dónde, cuánto cuesta ni cuándo. No propone parques ni arreglo de caminos."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "paginas": 6
+}

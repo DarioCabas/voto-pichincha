@@ -1,0 +1,145 @@
+{
+ "enfoque": "Plan copiado en gran parte del plan de desarrollo de la ciudad. Propone agua, basura, calles, vivienda y riesgos; casi no dice costos.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Llevar agua potable y alcantarillado al noroeste de la ciudad.",
+    "que": "Llegar al 100% de agua potable y 90% de alcantarillado en el noroeste hasta 2031. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "cita": "dotar de servicios a este sector esperando llegar al 100% de cobertura de agua potable",
+    "pag": 9
+   },
+   {
+    "t": "Recoger la basura doméstica de toda la ciudad y mantener cobertura del 100%.",
+    "que": "Se optimizará el servicio de recolección y gestión de la basura doméstica en todo el cantón. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Se optimizará el servicio de recolección y gestión de los desechos sólidos domésticos de todo el Cantón",
+    "pag": 9
+   },
+   {
+    "t": "Mantener funcionando las plantas de aguas residuales con control técnico.",
+    "que": "Busca 95% de eficiencia anual al depurar aguas residuales, cuando esté todo el programa de plantas nuevas. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cómo se paga.",
+    "cita": "Mantener operativas las plantas de tratamiento de aguas residuales mediante el seguimiento y control técnico",
+    "pag": 9
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Intervenir 2.000 km de calles y vías hasta 2031, con obras nuevas y mantenimiento.",
+    "que": "Incluye mantenimiento en toda la red urbana actual y obras nuevas en sectores recién legalizados. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "cita": "esperando llegar a intervenir 2.000 Km de vías hasta el año 2031",
+    "pag": 9
+   },
+   {
+    "t": "Seguir legalizando terrenos en los sectores que la ley lo permita.",
+    "que": "Favorece a miles de familias que no tienen título de propiedad. El plan no dice cuántas familias ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que maneja el uso del suelo. El plan no dice metas ni costos.",
+    "cita": "se mantendrá el programa de legalizaciones de predios en los sectores que el marco legal lo permita",
+    "pag": 11
+   },
+   {
+    "t": "Impulsar al menos 5 proyectos de vivienda de interés social hasta 2031.",
+    "que": "Se hará con el sector público y privado para familias de bajos recursos. El plan no dice cuánto costará ni quién pone el dinero.",
+    "v": "media",
+    "n": "La ciudad la impulsa, pero depende del sector privado y de dinero que el plan no dice.",
+    "cita": "Se proyecta impulsar al menos 5 proyectos urbanísticos de estas características hasta el 2031",
+    "pag": 12
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Analizar si se amplía la cobertura de la Metrovía.",
+    "que": "El plan solo dice que se analizará la posibilidad. Podría permitir pagar un solo pasaje para llegar a más destinos. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan solo dice que lo analizará.",
+    "cita": "se analizará de forma técnica la posibilidad de ampliar la cobertura del sistema METROVIA",
+    "pag": 11
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Impulsar o terminar 80 proyectos de gestión de riesgos hasta 2031.",
+    "que": "Busca proteger la vida y los medios de vida ante desastres y cambio climático. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (prevención de desastres). El plan no dice cuánto costará.",
+    "cita": "Hasta el 2031 se habrán impulsado o consolidado 80 proyectos que aporten en la gestión de riesgos",
+    "pag": 12
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Coordinar con el Gobierno Central temas de seguridad ciudadana.",
+    "que": "El plan habla de coordinar con el Gobierno y de priorizar la seguridad. No dice cómo ni con qué recursos.",
+    "v": "baja",
+    "n": "No le toca al Municipio: la policía y la seguridad son del Gobierno Central.",
+    "cita": "Mantendremos una coordinación permanente con el Gobierno Central, los ministerios competentes",
+    "pag": 14
+   }
+  ],
+  "social": [
+   {
+    "t": "Ampliar servicios especializados del Hospital Bicentenario.",
+    "que": "El plan dice que ampliará la oferta del hospital. No dice cuánto ni cuándo.",
+    "v": "baja",
+    "n": "No le toca al Municipio: los hospitales no son competencia municipal.",
+    "cita": "ampliaremos la oferta de servicios especializados del Hospital Bicentenario",
+    "pag": 13
+   }
+  ]
+ },
+ "metas": [
+  "Llegar al 100% de cobertura de agua potable en el noroeste hasta 2031.",
+  "Llegar al 90% de cobertura de alcantarillado en el noroeste hasta 2031.",
+  "Intervenir 2.000 km de vías hasta 2031.",
+  "Impulsar al menos 5 proyectos de vivienda de interés social hasta 2031.",
+  "Impulsar o consolidar 80 proyectos de gestión de riesgos hasta 2031."
+ ],
+ "notas": [
+  "Gran parte del texto copia el plan de desarrollo de la ciudad. Costos, dinero y metas dicen 'Ver anexo' y el anexo no trae cifras.",
+  "Casi ninguna propuesta dice cuánto costará ni de dónde saldrá el dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33
+ ],
+ "paginas": 33
+}

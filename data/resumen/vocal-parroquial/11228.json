@@ -1,0 +1,133 @@
+{
+ "enfoque": "Copia del plan de desarrollo parroquial: espacios públicos, vías con la Prefectura, apoyo a productores, ambiente y asambleas. Sin costos ni fechas.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Arreglar o renovar el equipamiento de los espacios y la infraestructura existente.",
+    "que": "El plan dice que hará mantenimiento o renovación del equipamiento existente. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Puede hacerlo con apoyo del Municipio. El presupuesto de la junta es pequeño.",
+    "cita": "Mejoramiento de la Infraestructura física existente mediante el mantenimiento",
+    "pag": 12
+   },
+   {
+    "t": "Construir la obra física que la gente priorice en el plan de desarrollo parroquial.",
+    "que": "El plan dice que se construirá la infraestructura priorizada por la ciudadanía. No dice qué obras ni cuánto costará.",
+    "v": "media",
+    "n": "Obras grandes necesitan dinero del Municipio o de la Prefectura. El plan no lo aclara.",
+    "cita": "Construcción y mantenimiento de la infraestructura física priorizada por la",
+    "pag": 17
+   },
+   {
+    "t": "Organizar actividades deportivas y culturales en los espacios públicos de la parroquia.",
+    "que": "El plan dice que se organizarán actividades deportivas y culturales para usar el espacio público. No dice cuántas ni cuándo.",
+    "v": "alta",
+    "n": "Le toca a la junta y cuesta poco.",
+    "cita": "Promoción del uso del espacio público parroquial mediante la organización de",
+    "pag": 17
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Pedir al Municipio que incluya el arreglo de las vías de la parroquia en sus planes.",
+    "que": "El plan dice que la junta trabajará con las autoridades locales para incluir el mantenimiento de vías en la planificación. No dice plazos ni costos.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio. El plan no dice plazos ni costos.",
+    "cita": "Trabajar articuladamente con las autoridades locales competentes para incluir",
+    "pag": 17
+   },
+   {
+    "t": "Reunirse cada tres meses con la Prefectura para acordar el arreglo de vías.",
+    "que": "El plan dice que habrá reuniones trimestrales con la Prefectura para acordar cronogramas de mantenimiento vial. No dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de la Prefectura. Las reuniones sí puede hacerlas la junta.",
+    "cita": "Reuniones trimestrales con la Prefectura de Pichincha para acordar los cronogramas de mantenimiento vial",
+    "pag": 17
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Pedir al Municipio proteger y manejar quebradas y áreas naturales.",
+    "que": "El plan dice que la junta hará gestiones con el Municipio para proteger quebradas y áreas naturales. No dice cómo ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio. La junta solo hace gestiones.",
+    "cita": "Realizar gestiones con el municipio para la protección y manejo de quebradas y áreas",
+    "pag": 18
+   },
+   {
+    "t": "Pedir a la Prefectura manejar cuencas hídricas y fuentes de agua.",
+    "que": "El plan dice que la junta hará gestiones con la Prefectura para manejar cuencas y fuentes de agua. No dice cómo ni cuándo.",
+    "v": "media",
+    "n": "Le toca a la Prefectura. La junta solo hace gestiones.",
+    "cita": "Realizar gestiones con la prefectura para el manejo de cuencas hídricas y fuentes de agua.",
+    "pag": 18
+   }
+  ],
+  "economia": [
+   {
+    "t": "Asesorar a los productores para que vayan a ferias locales, nacionales e internacionales.",
+    "que": "El plan dice que se asesorará a productores para participar en ferias. No dice cuántas ferias ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta apoyar a productores. El plan no dice cuánto cuesta.",
+    "cita": "Asesoramiento a los productores de la parroquia para participar en ferias",
+    "pag": 18
+   },
+   {
+    "t": "Dar talleres de capacitación a los emprendimientos de la parroquia.",
+    "que": "El plan dice que habrá talleres con apoyo de distintas instituciones. No dice cuántos talleres, cuándo ni quién los dará.",
+    "v": "alta",
+    "n": "Talleres sí le toca a la junta. El plan no dice cuántos ni cuándo.",
+    "cita": "Talleres de capacitación con el apoyo de distintas instituciones para fortalecer",
+    "pag": 18
+   },
+   {
+    "t": "Animar a los productores a juntarse en asociaciones.",
+    "que": "El plan dice que se fomentará la asociatividad productiva. También habla de finanzas populares y solidarias, que la junta no maneja. No dice cómo.",
+    "v": "media",
+    "n": "Juntar productores sí es de la junta. Las finanzas populares no.",
+    "cita": "Fomento a la asociatividad productiva e impulso a las finanzas populares y solidarias.",
+    "pag": 18
+   }
+  ]
+ },
+ "metas": [
+  "Reuniones trimestrales con la Prefectura para acordar el mantenimiento de vías (cada tres meses).",
+  "Reuniones semestrales con organizaciones sociales para seguir el plan (cada seis meses).",
+  "Asamblea anual de rendición de cuentas (cada año).",
+  "Periodo del plan: 2027 a 2031, cuatro años."
+ ],
+ "notas": [
+  "Mucho del texto es diagnóstico y copia del plan de desarrollo parroquial. Varias acciones dependen del Municipio o la Prefectura.",
+  "El plan no dice cuánto costará ninguna obra ni cuándo se hará. Tampoco pone cifras de obras ni de personas beneficiadas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26
+ ],
+ "paginas": 26
+}

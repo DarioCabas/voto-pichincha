@@ -1,0 +1,148 @@
+{
+ "enfoque": "Propone sembrar árboles, limpiar quebradas, arreglar parques y vías, y organizar barrios. Varias obras son del Municipio o de empresas públicas.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Sembrar árboles nativos y estabilizar orillas en las quebradas de la parroquia.",
+    "que": "El plan dice 2.000 árboles en 4 años. No dice cuánto cuesta ni quién lo paga.",
+    "v": "alta",
+    "n": "Le toca a la junta cuidar el ambiente. Es trabajo de siembra y mingas.",
+    "cita": "Impulsar la reforestación con especies nativas y la estabilización de márgenes en las quebradas priorizadas de la parroquia.",
+    "pag": 13
+   },
+   {
+    "t": "Hacer mingas para limpiar quebradas, junto con el Municipio o la Prefectura.",
+    "que": "La meta es limpiar 3 quebradas cada año. El plan no dice cuánto cuesta.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio o con la Prefectura.",
+    "cita": "Desarrollar mingas de limpieza de quebradas en conjunto con el Municipio de Quito o el Gobierno Provincial.",
+    "pag": 13
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar y construir parques y espacios públicos con luz, juegos y cerramientos.",
+    "que": "La meta es 5 espacios. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Los parques sí le tocan a la junta, pero el plan no dice cómo pagarlos.",
+    "cita": "Recuperar, construir y adecuar espacios públicos y parques con iluminación, juegos inclusivos y cerramientos.",
+    "pag": 19
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar y dar mantenimiento a las vías rurales internas, con adoquín o asfalto.",
+    "que": "Meta: 85% de la red vial rural con mantenimiento. El plan no dice cuánto cuesta ni cuándo.",
+    "v": "media",
+    "n": "Las vías se hacen junto con la Prefectura. La junta solo cuida caminos con ella.",
+    "cita": "Ejecutar el plan de adoquinado, reasfaltado y mantenimiento de las vías parroquiales rurales de conexión interna e interbarrial.",
+    "pag": 18
+   },
+   {
+    "t": "Pedir al Municipio nuevas rutas de bus para barrios que no tienen.",
+    "que": "El plan no dice cuándo ni cuántas rutas. Sería un trámite ante el Municipio de Quito.",
+    "v": "baja",
+    "n": "Las rutas de bus las decide el Municipio. La junta solo puede pedirlas.",
+    "cita": "Realizar gestiones e interpelación técnica ante la Secretaría de Movilidad del DMQ para la apertura e ingreso de nuevas rutas de transporte público en barrios no atendidos.",
+    "pag": 18
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir a la empresa de agua de Quito que amplíe el agua y el alcantarillado.",
+    "que": "El plan dice que se hará gestión formal. No dice plazos ni costos.",
+    "v": "baja",
+    "n": "El agua y el alcantarillado no le tocan a la junta. Son de la empresa de agua de Quito.",
+    "cita": "Interceder y gestionar formalmente ante EPMAPS y EEQ para la ampliación de cobertura de agua potable, alcantarillado y alumbrado público.",
+    "pag": 18
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Poner alarmas y botones de auxilio en los barrios y coordinar con la Policía.",
+    "que": "El plan no dice cuántos ni cuánto cuesta. La Policía no depende de la junta.",
+    "v": "baja",
+    "n": "La policía no le toca a la junta. Solo puede pedir coordinación.",
+    "cita": "Fortalecer la organización barrial con alarmas comunitarias, botones de auxilio y una coordinación fluida con la Policía Nacional",
+    "pag": 22
+   },
+   {
+    "t": "Formar y capacitar comités de barrio para riesgos y seguridad.",
+    "que": "La meta es 100 líderes capacitados. El plan no dice cuánto cuesta.",
+    "v": "alta",
+    "n": "Organizar a la gente del barrio sí le toca a la junta.",
+    "cita": "Conformar y capacitar a Comités Barriales de Gestión de Riesgos y Seguridad Ciudadana.",
+    "pag": 22
+   }
+  ],
+  "economia": [
+   {
+    "t": "Impulsar ferias permanentes donde el productor vende directo al consumidor.",
+    "que": "El plan no dice cuántas ferias ni dónde. Tampoco dice cuánto costará.",
+    "v": "alta",
+    "n": "Apoyar a productores y organizar ferias sí le toca a la junta.",
+    "cita": "Impulsar redes productivas comunitarias y ferias permanentes de comercialización directa del productor al consumidor.",
+    "pag": 17
+   }
+  ],
+  "otros": [
+   {
+    "t": "Construir un cementerio nuevo, con nichos, en la parroquia.",
+    "que": "El plan dice que se busca un terreno municipal y hacer estudios. No dice cuánto cuesta ni cuándo.",
+    "v": "baja",
+    "n": "Le toca al Municipio y al Ministerio de Salud, y pide muchos estudios.",
+    "cita": "Construir el nuevo cementerio/columbario de la parroquia de San Antonio de Pichincha.",
+    "pag": 20
+   }
+  ]
+ },
+ "metas": [
+  "2.000 árboles sembrados en 4 años de gestión.",
+  "3 quebradas limpias cada año de gestión.",
+  "100 líderes barriales capacitados en gestión de riesgos y primeros auxilios.",
+  "5 espacios públicos o parques recuperados o construidos.",
+  "85% de la red vial rural con mantenimiento."
+ ],
+ "notas": [
+  "Muchas propuestas (agua, rutas de bus, policía, cementerio) son de otros niveles. Casi no dice cuánto costará nada.",
+  "El texto repite frases y tiene partes incompletas, como un indicador sin meta. Parece tomado de otro plan de la parroquia."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34
+ ],
+ "paginas": 34
+}

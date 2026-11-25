@@ -1,0 +1,131 @@
+{
+ "enfoque": "Plan de toda la parroquia Alóag: caminos, agua, turismo, riesgos y grupos vulnerables. Varios temas (agua, salud, escuelas, policía) no son de la junta.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer mingas (trabajo de vecinos) para arreglar caminos de cada barrio.",
+    "que": "El plan dice mingas cada seis meses en cada barrio. No dice cuánto costará. La maquinaria se pide al Municipio.",
+    "v": "alta",
+    "n": "Organizar a la gente sí le toca a la junta. La maquinaria depende del Municipio.",
+    "cita": "Recuperar la minga comunitaria como mecanismo de mantenimiento vial permanente",
+    "pag": 8
+   },
+   {
+    "t": "Hacer un plan de caminos rurales y pedir a la Prefectura el lastrado y asfaltado.",
+    "que": "Plazo: años 1 a 4, con meta de al menos 10 km de vías rurales. Lo gestiona ante la Prefectura y el Municipio. No dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita a la Prefectura, que pone la parte técnica y el dinero.",
+    "cita": "Elaborar un Plan Vial Parroquial técnico y priorizado en los primeros 100 días de gobierno",
+    "pag": 8
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir que el alcantarillado rural llegue a más del 45% de la zona rural.",
+    "que": "Plazo: al final del período. Lo gestiona ante el Municipio y la Prefectura. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "El alcantarillado no le toca a la junta. Depende de otro nivel.",
+    "cita": "Elevar la cobertura de alcantarillado rural por encima del 45% al finalizar el período",
+    "pag": 9
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer un plan de riesgos para la parroquia y explicarlo en los 23 barrios.",
+    "que": "Plazo: año 0. Lo hace con la Secretaría de Gestión de Riesgos. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Lo hace junto con la Secretaría de Riesgos, que es otro nivel.",
+    "cita": "Contar con un Plan Parroquial de Gestión de Riesgos aprobado y socializado.",
+    "pag": 9
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Dar mantenimiento cada año a casas comunales, canchas y demás espacios comunitarios.",
+    "que": "Lo paga la junta con su presupuesto propio. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Sí le toca a la junta, pero su presupuesto es limitado.",
+    "cita": "Garantizar mantenimiento anual a toda la infraestructura comunitaria existente.",
+    "pag": 9
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Formar comités de seguridad en los barrios y capacitar a sus integrantes.",
+    "que": "Meta: 100% de barrios con comités. Lo hace con la Policía, el Municipio y las juntas barriales. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta.",
+    "cita": "Fortalecer la organización comunitaria a través de comités barriales de seguridad y",
+    "pag": 14
+   },
+   {
+    "t": "Pedir luces y arreglar parques y canchas en al menos 15 puntos inseguros.",
+    "que": "Lo gestiona ante la empresa eléctrica, el Municipio y la Prefectura. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Las luces las dan la empresa eléctrica o el Municipio, no la junta.",
+    "cita": "Mejorar la iluminación y recuperación física de espacios públicos y paradas de transporte",
+    "pag": 14
+   }
+  ],
+  "economia": [
+   {
+    "t": "Organizar ferias para vender directo los productores de la parroquia.",
+    "que": "Meta: al menos 4 ferias al año. Lo gestiona ante el Ministerio de Agricultura (MAG) y el Municipio. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar ferias sí le toca a la junta.",
+    "cita": "Facilitar el acceso de productores locales a crédito y comercialización directa.",
+    "pag": 10
+   },
+   {
+    "t": "Crear una ruta turística oficial y con señales en la parroquia.",
+    "que": "Plazo: años 1 a 2. Lo gestiona ante el Ministerio de Turismo, el Municipio y el Instituto Nacional de Patrimonio (INPC). El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita al Ministerio de Turismo y al Municipio.",
+    "cita": "Consolidar una ruta turística parroquial oficial y señalizada.",
+    "pag": 10
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar cada seis meses el gasto, los contratos y las obras de la junta.",
+    "que": "Informe público cada semestre. Lo hace la junta con el Consejo de Participación Ciudadana (CPCCS). El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Publicar cuentas sí le toca a la junta.",
+    "cita": "Institucionalizar la rendición de cuentas semestral con información verificable.",
+    "pag": 13
+   }
+  ]
+ },
+ "metas": [
+  "Al menos 10 km de vías rurales arregladas, años 1 a 4.",
+  "Alcantarillado rural por encima del 45% al final del período.",
+  "Al menos 4 ferias al año.",
+  "100% de los 23 barrios con comités de seguridad.",
+  "Al menos 15 puntos inseguros con luz y recuperados."
+ ],
+ "notas": [
+  "Partes del plan dicen \"AVANZA\", no \"Juntos por la Vida\". Puede estar copiado de otro plan.",
+  "Casi ninguna propuesta dice cuánto cuesta. Muchas dependen de la Prefectura, el Municipio o ministerios."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17
+ ],
+ "paginas": 17
+}

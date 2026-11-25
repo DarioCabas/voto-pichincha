@@ -1,0 +1,131 @@
+{
+ "enfoque": "Mejorar agua, alcantarillado, basura, calles y parques, también en zonas rurales. El plan no dice cuánto costará ni cuándo.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Mejorar calles, caminos y accesos dentro de las competencias del Municipio.",
+    "que": "El plan no dice qué calles ni en qué barrios. No dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Mejoramento de calles, caminos y accesos dentro de Lis oompeteneíós municipales",
+    "pag": 23
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Mejorar el sistema de agua potable y ampliar su cobertura.",
+    "que": "El plan dice que dará prioridad a ampliar la cobertura y mejorar la infraestructura. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará.",
+    "cita": "Mejoramiento y fortalecimiento de los sistemas de ague porable.",
+    "pag": 23
+   },
+   {
+    "t": "Dar prioridad a proyectos de alcantarillado y saneamiento.",
+    "que": "Plantea ampliar y modernizar la infraestructura sanitaria, con convenios con el Gobierno Nacional. No dice costo ni plazo.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de convenios con el Gobierno Nacional.",
+    "cita": "Iimpulsaremos la priorización de proyectos de saneamiento dentro de la planificación",
+    "pag": 28
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer campañas de reciclaje y separar la basura desde el origen.",
+    "que": "Campañas de educación ambiental y programas de reciclaje, en zonas urbanas y rurales. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: la basura es de su competencia.",
+    "cita": "campañas permanentes de educación ambiental, progrunas de reciclaje y separación en Lo",
+    "pag": 28
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar y construir parques, canchas y espacios comunitarios.",
+    "que": "El plan no dice cuántos espacios ni dónde, ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: los espacios públicos son de su competencia.",
+    "cita": "Recuperacnan y vonstrucción de parquex, concha y expuons de reortarión",
+    "pag": 24
+   },
+   {
+    "t": "Dar espacios para vender los productos del cantón.",
+    "que": "El plan no dice dónde ni cuántos espacios. No dice cuánto costará ni cómo se pagará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: los mercados son de su competencia. Falta el lugar.",
+    "cita": "Gestión de espacios para la comercialización de productos",
+    "pag": 25
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Digitalizar trámites municipales para que se hagan más rápido.",
+    "que": "Usar herramientas tecnológicas para simplificar trámites y dar más información pública. El plan no dice cuánto costará ni el plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice en qué plazo ni cuánto costará.",
+    "cita": "Desde la Administración municipal, se modernizani la gestión municipal mediante la",
+    "pag": 13
+   },
+   {
+    "t": "Presentar un informe mensual de la gestión municipal.",
+    "que": "El informe se publicaría cada mes en medios escritos de la ciudad y en redes oficiales. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al alcalde. El plan no dice cuánto costará.",
+    "cita": "informe mensual de la gestión Instilucional cada lunes de melo de mes",
+    "pag": 38
+   }
+  ]
+ },
+ "metas": [
+  "Periodo de gestión: del 14 de mayo de 2027 al 13 de mayo de 2031.",
+  "Informe mensual de la gestión municipal."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero.",
+  "Texto en mal estado y con mucho diagnóstico general. Varias partes no se leen bien y muchas frases vienen de leyes."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40
+ ],
+ "paginas": 40
+}

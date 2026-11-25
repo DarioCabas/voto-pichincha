@@ -1,0 +1,171 @@
+{
+ "enfoque": "Propone arreglar calles, agua, drenaje contra inundaciones, basura, parques y cámaras de seguridad. No dice cuánto costará ni cuándo.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar calles y caminos vecinales, hacer aceras y mejorar puentes menores.",
+    "que": "Incluye un plan de mantenimiento de vías. El plan no dice qué calles se arreglarán ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que maneja las calles. Falta costo y lugares.",
+    "cita": "Elaborar un Plan Cantonal de Mantenimiento Vial; rehabilitar calles y caminos vecinales; construir aceras y bordillos; mejorar puentes menores;",
+    "pag": 64
+   },
+   {
+    "t": "Renovar señales de tránsito y construir rampas y pasos peatonales.",
+    "que": "Incluye señalización horizontal y vertical, y rampas para personas con discapacidad. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Tránsito y peatones son del Municipio. Falta el costo.",
+    "cita": "renovar señalización horizontal y vertical; construir rampas y pasos peatonales",
+    "pag": 68
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar redes de agua potable y arreglar los sistemas existentes.",
+    "que": "Incluye estudios técnicos, ampliar redes y optimizar estaciones de bombeo. El plan no dice qué sectores ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que da el agua. Falta costo y zonas.",
+    "cita": "Actualizar estudios técnicos; ampliar redes; rehabilitar sistemas existentes; optimizar estaciones de bombeo",
+    "pag": 65
+   },
+   {
+    "t": "Hacer obras de drenaje, limpiar canales y poner alerta temprana contra inundaciones.",
+    "que": "Incluye limpieza de canales, alerta temprana y mapas de riesgo. El plan no dice en qué zonas ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cómo se pagará.",
+    "cita": "obras de drenaje y limpieza de canales; fortalecer los sistemas de alerta temprana; elaborar mapas de riesgo;",
+    "pag": 70
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar parques y plazas, con mobiliario, luz y accesos para personas con discapacidad.",
+    "que": "Incluye renovar mobiliario urbano, iluminación eficiente y accesibilidad universal. El plan no dice qué parques ni cuánto costará.",
+    "v": "alta",
+    "n": "Parques y plazas son del Municipio. Falta costo y lugares.",
+    "cita": "Rehabilitar parques; mejorar plazas; renovar mobiliario urbano; implementar iluminación eficiente",
+    "pag": 66
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Separar la basura, poner puntos limpios y apoyar el reciclaje.",
+    "que": "Incluye recolección separada, puntos limpios y apoyo a asociaciones de recicladores. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "La basura es del Municipio. Falta costo y fechas.",
+    "cita": "implementar puntos limpios; promover programas de reciclaje; desarrollar campañas de educación ambiental",
+    "pag": 71
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar cámaras de videovigilancia y fortalecer un centro de monitoreo.",
+    "que": "Las cámaras irían en sectores que el plan no nombra. El plan no dice cuántas cámaras ni cuánto costará.",
+    "v": "media",
+    "n": "La policía no es del Municipio; depende del Ministerio del Interior.",
+    "cita": "Instalar cámaras de videovigilancia en sectores priorizados; fortalecer el centro de monitoreo",
+    "pag": 83
+   },
+   {
+    "t": "Poner luces LED y quitar puntos críticos de inseguridad en espacios públicos.",
+    "que": "Incluye luces LED, mobiliario urbano y mantenimiento de espacios públicos. El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "La luz depende de la empresa eléctrica. Falta costo y zonas.",
+    "cita": "gestionar proyectos de iluminación LED; instalar mobiliario urbano; eliminar puntos críticos de inseguridad",
+    "pag": 82
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear centros de acopio para vender productos agrícolas sin intermediarios.",
+    "que": "Incluye centros de acopio, clasificación y herramientas de precios. El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Depende de otras instituciones. Falta costo y lugar.",
+    "cita": "Busca reducir la intermediación mediante centros de acopio, clasificación,",
+    "pag": 45
+   },
+   {
+    "t": "Construir un parque agroindustrial por etapas, con estudios e infraestructura básica.",
+    "que": "Se haría entre 2028 y 2031 con Prefectura, BDE, universidades y empresas. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de Prefectura, Gobierno y BDE. Falta el costo.",
+    "cita": "Su ejecución está prevista de manera faseada entre 2028 y 2031, con estudios de",
+    "pag": 45
+   }
+  ]
+ },
+ "metas": [
+  "Parque agroindustrial: ejecución por etapas entre 2028 y 2031.",
+  "Plan de trabajo: período de gobierno 2027 a 2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero exacto.",
+  "Incluye temas de la Policía y otras instituciones. Muchas metas son generales ('progresivamente') y no tienen cifras.",
+  "Plan muy largo (133 págs.): se resumieron las 61 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  26,
+  31,
+  32,
+  33,
+  38,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  53,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61,
+  62,
+  64,
+  65,
+  66,
+  68,
+  69,
+  70,
+  71,
+  72,
+  73,
+  74,
+  75,
+  76,
+  77,
+  79,
+  81,
+  82,
+  83,
+  84,
+  85,
+  86,
+  87,
+  88,
+  89,
+  92,
+  95,
+  96,
+  99,
+  101,
+  103,
+  106,
+  107,
+  112,
+  119,
+  120,
+  121,
+  122,
+  123,
+  124,
+  130,
+  131
+ ],
+ "paginas": 133
+}

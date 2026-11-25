@@ -1,0 +1,178 @@
+{
+ "enfoque": "Propone obras de agua, alcantarillado, buses, mercados y vivienda, pero casi no dice cuánto costará. Salud, seguridad y escuelas no son del Municipio.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Actualizar el plan de movilidad a 10, 20 y 30 años y hacer las obras por etapas.",
+    "que": "Dejará protegidas las calles futuras y hará las obras por etapas. El plan lo pone a 2 o 3 años. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, por medio de la agencia de tránsito. Falta el costo.",
+    "cita": "se actualizará el Plan Maestro con horizonte de 10, 20 y 30 años",
+    "pag": 41
+   },
+   {
+    "t": "Promover el cambio de 200 buses a eléctricos, con inversión privada.",
+    "que": "Lo pondría la empresa de buses privada. El plan dice que depende de estudios de factibilidad. No dice cuánto costará.",
+    "v": "media",
+    "n": "La empresa privada pone los buses. El Municipio solo promueve el cambio.",
+    "cita": "Promoción del cambio de unidades a flota eléctrica (200 unidades eléctricas)",
+    "pag": 16
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Poner en funcionamiento pleno la planta de tratamiento de aguas Mi Lote.",
+    "que": "Conectaría a cooperativas del noroeste, unas 150.000 personas (estimado). El plan no dice cuánto costará. Plazo: 4 años.",
+    "v": "alta",
+    "n": "Le toca al Municipio, por medio de la empresa de agua. Falta el costo.",
+    "cita": "Poner en funcionamiento pleno la Planta de Tratamiento Mi Lote",
+    "pag": 14
+   },
+   {
+    "t": "Terminar la planta de tratamiento de aguas residuales Los Merinos.",
+    "que": "El plan dice que la obra va al 65% de avance. No dice cuánto costará terminarla. Plazo: 4 años.",
+    "v": "alta",
+    "n": "Obra del Municipio, por medio de la empresa de agua. Falta el costo final.",
+    "cita": "Concluir las obras de la Planta de tratamiento Los Merinos",
+    "pag": 14
+   }
+  ],
+  "economia": [
+   {
+    "t": "Construir y modernizar los mercados municipales de la ciudad.",
+    "que": "Beneficiaría a unos 15.000 comerciantes (estimado). El plan busca bajar precios de la canasta de forma indirecta. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Los mercados son del Municipio. El plan no dice el costo.",
+    "cita": "Construcción y modernización de mercados como infraestructura de servicios",
+    "pag": 24
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Reactivar el plan de bacheo y terminar las obras que están paradas.",
+    "que": "Beneficia a unas 500.000 personas (estimado). El plan dice que es a menos de 1 año. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Calles y obras son del Municipio. Costo sin definir.",
+    "cita": "Reactivar el Plan de Bacheo de la ciudad y reanudar las obras inconclusas",
+    "pag": 44
+   },
+   {
+    "t": "Ofrecer terrenos con servicios básicos para vivienda social, con cuota mensual.",
+    "que": "Unas 5.000 familias (estimado). El Municipio pone terrenos y exoneraciones; una empresa privada construye. No dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de una empresa privada y de un subsidio nacional. Falta el costo.",
+    "cita": "terrenos con servicios básicos y urbanización completa, cuota inicial mínima",
+    "pag": 22
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar cámaras inteligentes y alarmas comunitarias en sectores de la ciudad.",
+    "que": "Puntos estratégicos del cantón, en coordinación con la Policía. El plan dice que está sujeto a estudio. No dice cuánto costará.",
+    "v": "baja",
+    "n": "La seguridad le toca a la Policía, no al Municipio. Solo puede apoyar con cámaras.",
+    "cita": "Implementar puntos de videovigilancia inteligente con analítica de IA y alarmas comunitarias inteligentes",
+    "pag": 13
+   }
+  ],
+  "social": [
+   {
+    "t": "Entregar los hospitales municipales a empresas privadas para que los operen.",
+    "que": "Las empresas asumirían el personal y su pago laboral. El plan dice que mantendrá al menos un millón de atenciones al año.",
+    "v": "baja",
+    "n": "Los hospitales no son del Municipio; la atención de salud la lleva el Ministerio de Salud.",
+    "cita": "El Municipio entrega en uso su infraestructura de salud a prestadores privados",
+    "pag": 27
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una revisión de todas las cuentas municipales en los primeros 100 días.",
+    "que": "Revisión financiera integral de las cuentas al inicio de gestión. Lo paga el presupuesto del Municipio. El plan no dice cuánto cuesta.",
+    "v": "alta",
+    "n": "Las finanzas del Municipio son su responsabilidad directa. Falta el costo.",
+    "cita": "Proceso de revisión financiera integral y validación de cuentas al cumplimiento de los primeros 100 días de gestión",
+    "pag": 32
+   }
+  ]
+ },
+ "metas": [
+  "Cobertura de alcantarillado al 90% y de agua potable al 95%.",
+  "Revisión de las cuentas municipales en los primeros 100 días de gestión.",
+  "Regla 85/15: 85% en inversión y 15% en gasto corriente, con publicación semestral.",
+  "200 buses urbanos a eléctricos, con inversión privada.",
+  "Plan Maestro de Movilidad a 10, 20 y 30 años."
+ ],
+ "notas": [
+  "Casi todos los proyectos dicen \"estimación presupuestaria en desarrollo\". El plan no tiene costos cerrados.",
+  "Varias propuestas (policía, hospitales, escuelas) no son del Municipio; el plan las incluye igual.",
+  "Plan muy largo (70 págs.): se resumieron las 63 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61,
+  62,
+  64,
+  65,
+  67,
+  68,
+  69,
+  70
+ ],
+ "paginas": 70
+}

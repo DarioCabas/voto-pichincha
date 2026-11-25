@@ -1,0 +1,181 @@
+{
+ "enfoque": "Obras de calles, agua, drenaje, basura, parques, mercados y trámites digitales. Gran parte del dinero depende de fuentes externas aún no aseguradas.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Rehabilitar 60 km de calles urbanas priorizadas.",
+    "que": "Se hará por fases en la zona urbana. Cuesta USD 10.500.000. Se pagará con recursos municipales y financiamiento externo sujeto a gestión. Plazo 2027–2031.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Parte del dinero aún no está asegurado.",
+    "cita": "Rehabilitar al menos 60 km de vías priorizadas durante el período",
+    "pag": 106
+   },
+   {
+    "t": "Modernizar la señalización y los semáforos en sectores priorizados.",
+    "que": "Cuesta USD 700.000 con recursos propios. El plan no dice qué sectores serán. Plazo 2027–2029.",
+    "v": "alta",
+    "n": "Tránsito y señalización son del Municipio. Dinero propio, según el plan.",
+    "cita": "Modernizar la señalización y semaforización en sectores priorizados",
+    "pag": 106
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar el agua potable para subir la cobertura 10 puntos.",
+    "que": "Cuesta USD 10.500.000. Dinero del Banco de Desarrollo del Ecuador (BDE) y del Gobierno Central, no asegurado. Plazo 2027–2031. El plan no dice qué barrios.",
+    "v": "media",
+    "n": "Agua sí es del Municipio, pero el dinero depende del Gobierno y de un banco.",
+    "cita": "Incrementar la cobertura de agua potable en 10 puntos porcentuales adicionales respecto de la línea base",
+    "pag": 59
+   },
+   {
+    "t": "Llegar al 95 % de cobertura de recolección de basura a domicilio.",
+    "que": "Incluye mejorar rutas, equipos y el servicio. El plan no dice cuánto costará. Plazo: hasta 2030.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Alcanzar al menos 95% de cobertura de recolección domiciliaria al finalizar el período previsto",
+    "pag": 112
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Construir o arreglar 22 km de drenajes de aguas lluvias.",
+    "que": "Busca reducir inundaciones. Cuesta USD 11.500.000. Dinero del BDE, del Gobierno Central y de cooperación, no asegurado. Plazo 2027–2031. Incluye estaciones de bombeo.",
+    "v": "media",
+    "n": "Prevenir inundaciones sí es del Municipio, pero el dinero es externo.",
+    "cita": "Construir o rehabilitar al menos 22 km de drenajes pluviales",
+    "pag": 106
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar 20 parques y espacios públicos.",
+    "que": "Incluye accesibilidad, iluminación y mobiliario. Cuesta USD 2.500.000 con recursos propios. Plazo 2027–2030. El plan no dice cuáles parques.",
+    "v": "alta",
+    "n": "Parques son competencia municipal. Costo y dinero propio, según el plan.",
+    "cita": "Recuperar al menos 20 parques y espacios públicos durante el período de gestión",
+    "pag": 113
+   },
+   {
+    "t": "Actualizar el plan de ordenamiento del territorio y el de uso del suelo.",
+    "que": "Es el plan que ordena dónde se construye (PDOT y PUGS). Cuesta USD 150.000 con recursos propios. Se hará en 2028.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Costo bajo y dinero propio, según el plan.",
+    "cita": "Actualizar técnicamente el 100 % del PDOT y PUGS",
+    "pag": 106
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar 200 cámaras y más luces en sectores priorizados.",
+    "que": "Cuesta USD 3.500.000. Dinero municipal y externo sujeto a gestión. Plazo 2027–2029. El plan no dice qué sectores. Se coordina con la Policía.",
+    "v": "media",
+    "n": "Cámaras y luces ayudan, pero la seguridad depende sobre todo de la Policía.",
+    "cita": "Instalar 200 cámaras y ampliar la iluminación preventiva en sectores priorizados",
+    "pag": 107
+   }
+  ],
+  "economia": [
+   {
+    "t": "Modernizar la infraestructura y la parte sanitaria de los mercados municipales.",
+    "que": "Cuesta USD 2.500.000 con recursos propios. Plazo 2027–2029. El plan no dice qué mercados serán.",
+    "v": "alta",
+    "n": "Mercados son del Municipio. Dinero propio, según el plan.",
+    "cita": "Modernizar la infraestructura comercial y sanitaria de los mercados municipales",
+    "pag": 107
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Digitalizar el 80 % de los trámites municipales.",
+    "que": "Permite hacer trámites en línea. Cuesta USD 600.000 con recursos propios y financiamiento externo sujeto a gestión. Plazo 2027–2029.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Parte del dinero aún depende de gestión externa.",
+    "cita": "Digitalizar el 80 % de los trámites municipales",
+    "pag": 107
+   }
+  ]
+ },
+ "metas": [
+  "Rehabilitar 60 km de vías urbanas y rurales, 2027–2031.",
+  "Construir o rehabilitar 22 km de drenaje pluvial, 2027–2031.",
+  "Llegar al 95 % de cobertura de recolección de basura a domicilio, 2027–2030.",
+  "Recuperar 20 parques y espacios públicos, 2027–2030.",
+  "Digitalizar el 80 % de los trámites municipales priorizados, 2027–2031."
+ ],
+ "notas": [
+  "Unos USD 31 millones de los USD 62 del plan dependen de fuentes externas que no están aseguradas, según el propio plan.",
+  "Varias metas dicen 'sujeto a estudios' o 'sujeto a gestión'. La seguridad depende sobre todo de la Policía; el plan lo reconoce.",
+  "Plan muy largo (135 págs.): se resumieron las 66 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  7,
+  8,
+  10,
+  13,
+  14,
+  15,
+  17,
+  23,
+  26,
+  28,
+  31,
+  35,
+  36,
+  37,
+  39,
+  41,
+  43,
+  45,
+  46,
+  47,
+  49,
+  50,
+  51,
+  52,
+  54,
+  55,
+  56,
+  57,
+  59,
+  60,
+  61,
+  62,
+  63,
+  67,
+  71,
+  72,
+  73,
+  74,
+  75,
+  76,
+  78,
+  79,
+  80,
+  81,
+  82,
+  86,
+  87,
+  92,
+  93,
+  100,
+  101,
+  106,
+  107,
+  109,
+  111,
+  112,
+  113,
+  115,
+  116,
+  118,
+  119,
+  121,
+  122,
+  128,
+  130,
+  132
+ ],
+ "paginas": 135
+}

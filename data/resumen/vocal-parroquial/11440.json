@@ -1,0 +1,138 @@
+{
+ "enfoque": "Plan copiado del plan de la parroquia y del cantón. Propone sobre todo cuidar quebradas, perros callejeros, productores y fiestas. También habla de alcaldía.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Elaborar o actualizar planes de saneamiento de la parroquia.",
+    "que": "El plan no dice cuánto costará ni cuándo. Dice que se coordinará con otras instituciones.",
+    "v": "baja",
+    "n": "El agua y el alcantarillado son del Municipio, no de la junta.",
+    "cita": "Elaborar o actualizar los planes maestros de saneamiento para la parroquia.",
+    "pag": 18
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Elaborar un proyecto para proteger las fuentes de agua.",
+    "que": "Dice que el proyecto estará hasta el tercer año. El plan no dice cuánto costará ni quién lo paga.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Ministerio de Ambiente u otras instituciones.",
+    "cita": "Elaborar un proyecto de protección de fuentes de agua “sistemas de vida” hasta el tercer año de administración.",
+    "pag": 18
+   },
+   {
+    "t": "Apoyar jornadas masivas de esterilización de perros callejeros.",
+    "que": "Se haría con el Ministerio de Ambiente y fondos propios. Meta: reducir 20% de perros callejeros al 2027. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Son jornadas que la junta puede apoyar. Falta el costo.",
+    "cita": "Apoyar en la realización de las jornadas masivas de esterilización para los perros callejeros e identificación de los mismos.",
+    "pag": 18
+   },
+   {
+    "t": "Retomar el proyecto de tratamiento de desechos.",
+    "que": "El plan no dice cuánto costará ni en qué plazo.",
+    "v": "media",
+    "n": "La basura es del Municipio; necesita acuerdo con él.",
+    "cita": "Retomar el proyecto de tratamiento de los desechos.",
+    "pag": 15
+   }
+  ],
+  "economia": [
+   {
+    "t": "Elaborar un plan para producir y vender proyectos agro saludables.",
+    "que": "Dice que estará listo hasta el cuarto año de gestión. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Apoyar a productores es tarea de la junta. Falta el costo.",
+    "cita": "Elaborar un plan de producción y comercialización para proyectos agro saludables hasta el cuarto año de gestión.",
+    "pag": 21
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer actividades de saberes ancestrales, música, arte, gastronomía y danza.",
+    "que": "Aparece en la parte de diagnóstico del plan. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es tarea de la junta. Falta el costo.",
+    "cita": "Fortalecer los saberes ancestrales, música, arte, gastronomía, danza.",
+    "pag": 14
+   },
+   {
+    "t": "Fomentar las fiestas tradicionales de la parroquia.",
+    "que": "El plan dice que las fiestas ayudan a la economía. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar fiestas es tarea de la junta. Falta el costo.",
+    "cita": "Fomentar las fiestas tradicionales ya que se dinamiza la economía",
+    "pag": 14
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Hacer planes de seguridad según lo que pide la comunidad.",
+    "que": "El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "La policía y la seguridad no son competencia de la junta.",
+    "cita": "Generar planes de seguridad y riesgos de acuerdo a las necesidad de la comunidad.",
+    "pag": 14
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Presentar informes de la gestión a la ciudadanía cada año.",
+    "que": "Dice que habrá audiencia pública cada año y una final en marzo de 2031. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Rendir cuentas es tarea de la junta. Falta el costo.",
+    "cita": "Presentar informes de evaluación a través de procesos de rendición de cuentas sobre la gestión municipal.",
+    "pag": 17
+   }
+  ]
+ },
+ "metas": [
+  "El 20% de las quebradas intervenidas, delimitadas o recuperadas hasta diciembre de 2027.",
+  "Reducir 20% los perros callejeros al 2027.",
+  "Un proyecto para proteger fuentes de agua hasta el tercer año.",
+  "Un plan de producción y venta de proyectos agro saludables hasta el cuarto año.",
+  "Dos asambleas sectoriales al año."
+ ],
+ "notas": [
+  "Plan copiado del plan de la parroquia y del cantón. Habla de alcaldía y de temas que no son de la junta.",
+  "Casi ninguna propuesta dice cuánto costará ni de dónde saldrá el dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34
+ ],
+ "paginas": 34
+}

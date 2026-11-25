@@ -1,0 +1,116 @@
+{
+ "enfoque": "Copiado en gran parte del plan de desarrollo del cantón. Propone cuidar el agua, arreglar caminos rurales, manejar la basura y crear ferias del campo.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Renovar plantas de agua y poner alcantarillado en el campo.",
+    "que": "Repotenciar plantas de tratamiento y poner sistemas de alcantarillado en sectores rurales y dispersos. El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni en qué plazo.",
+    "cita": "Repotenciación de plantas de tratamiento de agua e implementación de sistemas biodigestores y alcantarillado en sectores rurales y dispersos.",
+    "pag": 6
+   },
+   {
+    "t": "Separar la basura orgánica y hacer abono con ella en una planta.",
+    "que": "Crear rutas de recolección separada y una planta que procesa desechos orgánicos para hacer abono agrícola. El plan no dice cuánto costará ni dónde se instalará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (basura). El plan no dice cuánto costará ni dónde.",
+    "cita": "Implementación de rutas de recolección diferenciada y procesamiento de desechos orgánicos para la producción de abono agrícola.",
+    "pag": 4
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Mantener las vías de lastre y tierra con maquinaria municipal.",
+    "que": "Usar maquinaria municipal para lastrado, cuneteado y aperturas viales de forma constante. El asfaltado depende de convenios con la Prefectura del Azuay. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El asfalto depende de la Prefectura.",
+    "cita": "Operación constante de la maquinaria municipal para lastrado, cuneteado y aperturas viales",
+    "pag": 6
+   },
+   {
+    "t": "Hacer los estudios técnicos para construir una terminal terrestre.",
+    "que": "El plan solo habla de estudios de factibilidad para la terminal. No dice cuánto costará la obra ni cuándo estará lista.",
+    "v": "alta",
+    "n": "Le toca al Municipio (buses). Solo son estudios; el plan no dice cuándo.",
+    "cita": "Levantamiento de proyectos técnicos de factibilidad para la construcción de la Terminal Terrestre",
+    "pag": 6
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Cercar y cuidar las zonas donde nace el agua para consumo y riego.",
+    "que": "Delimitar, cercar y conservar zonas de recarga hídrica que abastecen agua potable y riego. El fondo depende de alianzas con empresas eléctricas y juntas de agua. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Puede hacerlo el Municipio, pero depende de empresas eléctricas y juntas de agua.",
+    "cita": "Delimitación, cercado y conservación de zonas de recarga hídrica que abastecen las captaciones de agua potable y riego.",
+    "pag": 4
+   },
+   {
+    "t": "Vigilar los cortes de tierra de las vías y formar grupos de emergencia en comunidades.",
+    "que": "Revisar de forma constante los cortes de tierra en la red vial y equipar brigadas comunitarias de emergencia. El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (prevención de desastres). El plan no dice cuánto costará.",
+    "cita": "Monitoreo constante de taludes en la red vial y conformación/equipamiento de brigadas comunitarias de emergencia.",
+    "pag": 4
+   }
+  ],
+  "economia": [
+   {
+    "t": "Preparar un lugar para vender productos del campo sin intermediarios.",
+    "que": "Construir infraestructura adecuada para venta directa de productos locales, sin intermediarios. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (mercados). El plan no dice dónde ni cuándo.",
+    "cita": "Implementación de infraestructura adecuada para la venta directa de productos locales, garantizando precios justos y eliminando intermediarios.",
+    "pag": 5
+   },
+   {
+    "t": "Dar dinero sin devolverlo y cursos a mujeres, jóvenes y emprendedores.",
+    "que": "Entregar capital no reembolsable y capacitación técnica a proyectos de mujeres, jóvenes y economía popular y solidaria. El plan no dice cuánto dinero habrá.",
+    "v": "media",
+    "n": "Es apoyo a emprendedores, no creación de empleo. El plan no dice cuánto habrá.",
+    "cita": "Entrega de capital semilla no reembolsable y capacitación técnica para proyectos productivos de mujeres, jóvenes y organizaciones de la economía popular y solidaria.",
+    "pag": 5
+   },
+   {
+    "t": "Poner señales y miradores en la ruta de lagunas y embalses.",
+    "que": "Colocar señalización, miradores y puntos de descanso en la ruta de lagunas y embalses. El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "media",
+    "n": "Obras de turismo; no están en la lista de competencias. Sin costo declarado.",
+    "cita": "Señalética, miradores turísticos y puntos de descanso seguros para el aprovechamiento paisajístico",
+    "pag": 6
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer en internet los trámites de patentes, prediales y planos.",
+    "que": "Digitalizar trámites municipales: emisión de patentes, cobro de prediales y revisión de planos. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Es trámite del propio Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Digitalización de trámites (emisión de patentes, cobro de prediales, revisión de planos) para agilizar la atención ciudadana.",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [
+  "Rendición de cuentas una vez al año.",
+  "Asambleas para decidir prioridades de inversión cada seis meses.",
+  "Visión de cantón al año 2031, sin cifras medibles."
+ ],
+ "notas": [
+  "Plan copiado en gran parte del plan de desarrollo del cantón. Casi ninguna obra tiene costo ni fecha.",
+  "Hay propuestas de niños, adultos mayores y mujeres que no son competencia directa del Municipio según la ley."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "paginas": 8
+}

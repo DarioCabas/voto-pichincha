@@ -1,0 +1,145 @@
+{
+ "enfoque": "Calles, malecón del Casco Colonial, nuevo cementerio, basura y vivienda, muchas con préstamos o dinero del Gobierno. Incluye un centro de salud, que no es del Municipio.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Asfaltar y adoquinar 15.000 m² de calles en barrios de la ciudad.",
+    "que": "Costará $2.000.000 en total hasta 2031, con dinero del Gobierno (Modelo de Equidad Territorial) y cobro a vecinos beneficiados. El plan no dice qué barrios.",
+    "v": "media",
+    "n": "Calles sí son municipales, pero depende del dinero del Gobierno.",
+    "cita": "Cambio de estructura de suelo, bordillos, adoquinado y/o carpeta asfáltica.",
+    "pag": 18
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Seguir construyendo el nuevo cementerio: bóvedas, nichos y accesos.",
+    "que": "Costará $800.000 en total: $400.000 en 2027 y $400.000 en 2028, con crédito del Banco de Desarrollo y dinero municipal. El plan no dice cuántos nichos habrá.",
+    "v": "media",
+    "n": "Cementerio sí es municipal, pero depende de un crédito de un banco público.",
+    "cita": "Ejecución: Edificación de bloques de bóvedas, bloques de nichos, pavimentación de",
+    "pag": 17
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Cambiar rutas de basura, sembrar 5 hectáreas y recuperar parques.",
+    "que": "Cambiar horarios y rutas de recolección, plantar plantas nativas y recuperar el 100% de los parques urbanos. Parte de $300.000 en total, pagados con la tasa de basura y fondos propios.",
+    "v": "alta",
+    "n": "Basura, parques y árboles sí le tocan al Municipio, con dinero propio.",
+    "cita": "Ejecución: Siembra en riberas de ríos, mantenimiento de parques y optimización de rutas limpias.",
+    "pag": 20
+   },
+   {
+    "t": "Limpiar ríos y canales críticos antes de cada temporada de lluvias.",
+    "que": "Sacar tierra, basura y palos de cauces donde hay inundaciones. Sale del fondo de emergencias municipal, dentro de los $300.000 de basura y parques. El plan no dice cuántos kilómetros.",
+    "v": "alta",
+    "n": "Prevenir inundaciones sí es competencia del Municipio.",
+    "cita": "Ejecución: Limpieza, dragado preventivo y retiro de palizada en cauces críticos.",
+    "pag": 21
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir un malecón turístico y comercial en el Casco Colonial.",
+    "que": "Costará $1.200.000 en total: crédito del Banco de Desarrollo del Ecuador (BDE) y fondos propios. Obra prevista entre 2027 y 2029. El plan no dice cuántos locales.",
+    "v": "media",
+    "n": "Obra municipal, pero depende de un préstamo del Banco de Desarrollo.",
+    "cita": "Ejecución: Obra civil, construcción de locales comerciales y área regenerada.",
+    "pag": 10
+   },
+   {
+    "t": "Cambiar el uso del suelo y gestionar casas de bajo costo con privados.",
+    "que": "Primero cambiar el plan de uso del suelo (PUGS). Luego casas con el Ministerio de Vivienda (MIDUVI) y promotores privados. Costará $500.000 en total. El plan no dice cuántas casas.",
+    "v": "media",
+    "n": "Cambiar el suelo sí es municipal; las casas dependen de otros.",
+    "cita": "Reforma parcial al PUGS para uso de suelo residencial y diseño",
+    "pag": 14
+   }
+  ],
+  "social": [
+   {
+    "t": "Construir la piscina olímpica con el Ministerio del Deporte y la Liga Deportiva Cantonal.",
+    "que": "Costará $1.000.000 en total, pagado por el Ministerio del Deporte y un crédito del Banco de Desarrollo (BDE). La liga la administrará. Obra prevista entre 2027 y 2029.",
+    "v": "media",
+    "n": "Obra deportiva con dinero de otras entidades; depende de un convenio.",
+    "cita": "Ejecución: Construcción de la piscina olímpica, cuartos de bombas, vestidores y",
+    "pag": 13
+   },
+   {
+    "t": "Abrir un centro de salud municipal y hacer brigadas médicas en los recintos.",
+    "que": "El plan pone $250.000 en total para 2027–2031, de dinero del Gobierno (Modelo de Equidad Territorial) y donaciones privadas. Brigadas en el 100% de los recintos. No dice cuántas consultas.",
+    "v": "baja",
+    "n": "La salud no le toca al alcalde; es tarea del Ministerio de Salud.",
+    "cita": "Ejecución: Despliegue de brigadas de medicina general, odontología y laboratorio",
+    "pag": 15
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear un corredor de comida y artesanía y capacitar a 500 emprendedores.",
+    "que": "Cursos y puestos para emprendedores y artesanos. Costará $150.000 en total, con dinero del Gobierno (Modelo de Equidad Territorial) y aliados privados. El plan no dice cuándo.",
+    "v": "media",
+    "n": "Puestos y cursos sí son municipales; crear empleo no le toca.",
+    "cita": "Ejecución: Talleres de capacitación, capital semilla y ferias gastronómicas/artesanales.",
+    "pag": 11
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer trámites municipales en línea y crear una app de celular.",
+    "que": "Meta: digitalizar el 80% de los trámites. Costará $300.000 en total con dinero propio del Municipio. El plan no dice en qué fecha estará listo el portal.",
+    "v": "alta",
+    "n": "Trámites del Municipio sí le tocan al alcalde, con dinero propio.",
+    "cita": "Ejecución: Programación del sistema, migración de base de datos catastral y pruebas de",
+    "pag": 22
+   }
+  ]
+ },
+ "metas": [
+  "15.000 m² de calles urbanas pavimentadas, adoquinadas o regeneradas.",
+  "5 hectáreas de áreas degradadas reforestadas.",
+  "500 emprendedores y artesanos capacitados.",
+  "80% de los trámites municipales digitalizados.",
+  "1 malecón del Casco Colonial construido."
+ ],
+ "notas": [
+  "El plan no tiene obras concretas de agua potable ni de alcantarillado, aunque las menciona.",
+  "Muchas obras dependen de préstamos o dinero del Gobierno. El plan no dice qué pasa si ese dinero llega tarde."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31
+ ],
+ "paginas": 31
+}

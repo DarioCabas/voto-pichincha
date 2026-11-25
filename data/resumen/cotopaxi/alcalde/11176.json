@@ -1,0 +1,122 @@
+{
+ "enfoque": "Plan general sobre calles, agua, alcantarillado, basura, luz pública, cultura, deporte y turismo. Casi no dice en qué lugares ni cuánto costará.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Hacer un plan de mantenimiento de calles, según prioridades técnicas.",
+    "que": "El plan no dice qué calles se arreglarán primero ni cuánto costará. Dice que las obras se decidirán con diagnóstico técnico.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Implementar un Plan Municipal de Mantenimiento Vial con priorización técnica y territorial.",
+    "pag": 4
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Construir y arreglar aceras, rampas y cruces seguros para peatones.",
+    "que": "El plan no dice en qué calles se hará ni cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice dónde ni cuánto.",
+    "cita": "Construir y mejorar aceras, bordillos, rampas y cruces seguros.",
+    "pag": 4
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Reducir el agua que se pierde por fugas en las tuberías.",
+    "que": "Se hará con mantenimiento y por sectores, poco a poco. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Reducir pérdidas y fugas mediante mantenimiento y sectorización progresiva.",
+    "pag": 4
+   },
+   {
+    "t": "Hacer un registro técnico de las tuberías de desagüe y de los puntos con problemas.",
+    "que": "Es el primer paso del plan para el alcantarillado. El plan no dice cuánto costará ni cuándo estará listo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuándo terminará.",
+    "cita": "Levantar un catastro técnico de redes y puntos críticos.",
+    "pag": 5
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Eliminar los lugares donde se tira basura a escondidas y evitar nuevos.",
+    "que": "El plan no dice cuáles lugares ni cuántos. Tampoco dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice dónde ni cuánto.",
+    "cita": "Eliminar y prevenir puntos críticos y botaderos clandestinos.",
+    "pag": 5
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Mejorar la luz de calles, parques, canchas y espacios públicos.",
+    "que": "El plan no dice qué lugares se iluminarán primero ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio en calles y parques. El plan no dice costo.",
+    "cita": "Mejorar iluminación de calles, parques, canchas y espacios públicos.",
+    "pag": 4
+   },
+   {
+    "t": "Poner cámaras de vigilancia en puntos elegidos, poco a poco.",
+    "que": "El plan no dice qué puntos ni cuánto costará. La seguridad y la policía no son competencia del Municipio.",
+    "v": "media",
+    "n": "Depende de la Policía para actuar. El plan no dice costo.",
+    "cita": "Implementar y ampliar progresivamente sistemas de videovigilancia y monitoreo en puntos priorizados.",
+    "pag": 4
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer cada año una agenda de actividades culturales en el Centro Cultural Municipal.",
+    "que": "El plan no dice cuántos eventos habrá ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice costo.",
+    "cita": "Fortalecer la agenda cultural anual y el Centro Cultural Municipal.",
+    "pag": 5
+   },
+   {
+    "t": "Arreglar y mantener los escenarios deportivos con un programa.",
+    "que": "El plan no dice cuáles escenarios ni cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Implementar un programa de recuperación y mantenimiento de escenarios deportivos.",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Diseñar rutas de turismo de naturaleza, aventura, gastronomía y rural.",
+    "que": "El plan no dice cuántas rutas ni cuánto costará. Menciona alianzas con privados y cooperación.",
+    "v": "media",
+    "n": "El turismo no está en la lista de lo que le toca al Municipio.",
+    "cita": "Diseñar rutas de naturaleza, aventura, gastronomía y turismo rural.",
+    "pag": 5
+   }
+  ]
+ },
+ "metas": [
+  "2027: diagnósticos técnicos, líneas base y estudios de proyectos prioritarios.",
+  "2028: ejecución de obras prioritarias de vialidad, agua, alcantarillado, desechos y seguridad.",
+  "2029: ampliación de programas de cultura, deporte y turismo.",
+  "2031: cierre de metas y rendición de cuentas final del período."
+ ],
+ "notas": [
+  "El plan no fija montos ni cantidades de obras. Dice que los costos se verán después de estudios y presupuesto.",
+  "El texto dice ser una versión de trabajo. Puede cambiar antes de la inscripción en el CNE."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "paginas": 9
+}

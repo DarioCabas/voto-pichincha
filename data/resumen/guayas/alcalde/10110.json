@@ -1,0 +1,140 @@
+{
+ "enfoque": "Cuidar agua y alcantarillado, arreglar calles y parques, manejar la basura y los riesgos, estudiar una terminal y mejorar el centro de faenamiento.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar la cobertura de agua por red pública a al menos 75 % al 2031.",
+    "que": "Primero se hará un diagnóstico del sistema en 100 días: conexiones, cortes y pérdidas. El plan no dice cuánto costará la ampliación.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero necesita préstamos y estudios. El plan no dice cuánto cuesta.",
+    "cita": "alcanzar al 2031 una cobertura efectiva de agua por red pública de al menos 75 %",
+    "pag": 13
+   },
+   {
+    "t": "Subir la cobertura de alcantarillado de 32,6 % a entre 45 % y 50 % al 2031.",
+    "que": "Se priorizarán sectores con más riesgo sanitario. El plan no dice cuánto costará ni qué barrios empezarán primero.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende del dinero disponible. El plan no dice cuánto cuesta.",
+    "cita": "Elevar progresivamente la cobertura de alcantarillado desde la línea base de 32,6 % hasta un rango de 45-50 % al 2031",
+    "pag": 13
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Dar una solución técnica y segura a la basura: primero transitoria y luego definitiva.",
+    "que": "Primero se revisa el sitio actual de basura y se hacen estudios y permisos. El plan no dice cuánto costará ni cuándo estará lista la solución final.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni en qué año estará lista.",
+    "cita": "Implementar una gestión integral de residuos sólidos que atienda técnicamente la situación actual y avance hacia",
+    "pag": 10
+   },
+   {
+    "t": "Implementar una política de fauna urbana: educación, esterilización y vacunación de perros y gatos.",
+    "que": "Habrá campañas anuales de tenencia responsable, esterilización y vacunación coordinada. El plan no dice cuántos animales atenderá ni cuánto costará.",
+    "v": "alta",
+    "n": "Es gestión local, según el plan. El plan no dice cuánto costará.",
+    "cita": "Implementar una política responsable de fauna urbana que incluya educación, tenencia responsable, esterilización y",
+    "pag": 11
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar y mantener parques, áreas verdes y canchas, e impulsar ciclovías donde sea posible.",
+    "que": "Mantenimiento, iluminación y áreas verdes en espacios priorizados. El plan no dice cuántos parques arreglará ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuántos parques ni en qué plazo.",
+    "cita": "Recuperar y mantener parques, áreas verdes, espacios deportivos y de recreación, e impulsar ciclovías donde exista factibilidad técnica y demanda ciudadana",
+    "pag": 10
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar vías urbanas y rurales, dando prioridad a caminos productivos y zonas afectadas en invierno.",
+    "que": "Mantenimiento, rehabilitación y priorización de vías. Los caminos rurales se harán con la Prefectura. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Las calles sí son del Municipio; los caminos rurales dependen de la Prefectura.",
+    "cita": "Mejorar la conectividad urbana y rural mediante mantenimiento, rehabilitación y priorización de vías, especialmente corredores productivos y sectores afectados durante el invierno",
+    "pag": 10
+   },
+   {
+    "t": "Estudiar si conviene una terminal terrestre antes de construirla.",
+    "que": "Primero se hará un estudio de movilidad y factibilidad. El plan no dice cuánto costaría la terminal ni dónde se haría.",
+    "v": "alta",
+    "n": "Le toca al Municipio (buses). El plan solo prevé un estudio, no la obra.",
+    "cita": "Completar estudio integral de movilidad y factibilidad de terminal terrestre antes de comprometer obra",
+    "pag": 14
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Preparar la ciudad contra inundaciones, lluvias fuertes e incendios con drenaje y limpieza preventiva.",
+    "que": "Habrá un plan anual de drenaje y limpieza, y se actualizarán puntos críticos y protocolos de respuesta. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "La prevención de desastres sí le toca al Municipio. El plan no dice costos.",
+    "cita": "Fortalecer la gestión de riesgos frente a inundaciones, lluvias intensas, incendios y otros eventos",
+    "pag": 10
+   }
+  ],
+  "economia": [
+   {
+    "t": "Convertir el centro de faenamiento (donde se sacrifican reses) en un servicio para productores de otros cantones.",
+    "que": "Firmar convenios con asociaciones de ganaderos y atraer usuarios de cantones vecinos. El plan busca que el centro cubra sus costos. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Es un servicio municipal. El plan no dice cuánto dinero se necesita para arrancarlo.",
+    "cita": "Convertir el centro de faenamiento municipal en un servicio regional sostenible, promoviendo convenios con",
+    "pag": 10
+   },
+   {
+    "t": "Impulsar el emprendimiento y el comercio local con capacitación y acceso a crédito.",
+    "que": "Capacitación, formalización y vínculo con fuentes de crédito. El plan no dice cuántas personas se beneficiarán ni cuánto costará.",
+    "v": "baja",
+    "n": "Crear empleo no le toca directamente al Municipio. Solo puede capacitar y apoyar.",
+    "cita": "Impulsar el emprendimiento, el agroprocesamiento, el comercio y la economía popular y solidaria como mecanismos",
+    "pag": 10
+   }
+  ]
+ },
+ "metas": [
+  "Agua por red pública: al menos 75 % de cobertura al 2031.",
+  "Alcantarillado: de 32,6 % a un rango de 45-50 % al 2031.",
+  "Digitalizar al menos 10 trámites o servicios prioritarios al 2031.",
+  "Aumentar al menos 30 % las cabezas faenadas frente a la línea base de 2027 y captar usuarios de 2 cantones vecinos.",
+  "Publicar la línea base financiera en los primeros 100 días."
+ ],
+ "notas": [
+  "El plan no pone montos en ninguna obra: dice que se añadirán cuando haya información financiera definitiva.",
+  "Varias metas dependen de la Prefectura, del Gobierno Central o de préstamos. Los caminos rurales no son solo del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28
+ ],
+ "paginas": 28
+}

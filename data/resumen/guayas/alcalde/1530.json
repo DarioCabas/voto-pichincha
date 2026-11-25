@@ -1,0 +1,154 @@
+{
+ "enfoque": "Plan para Guayaquil 2027-2031: calles, agua, basura, parques y comercio, más prevención con luces, limpieza y cámaras. Varias metas dependen de otras entidades.",
+ "tabla": {
+  "seguridad": [
+   {
+    "t": "Modernizar o ampliar hasta 1.500 puntos de videovigilancia (cámaras).",
+    "que": "El plan dice que será de acuerdo con estudios técnicos. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de estudios y de coordinar con la Policía, que no es del Municipio.",
+    "cita": "Modernizar o ampliar hasta 1.500 puntos de videovigilancia, de acuerdo con estudios técnicos.",
+    "pag": 7
+   },
+   {
+    "t": "Intervenir al menos 60 corredores seguros con luces, limpieza y señales.",
+    "que": "Los corredores son alrededor de escuelas, mercados y paradas. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: luces, calles y limpieza. El plan no dice el costo.",
+    "cita": "Intervenir al menos 60 corredores prioritarios durante el período.",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar al menos 100 parques y espacios públicos de proximidad.",
+    "que": "El plan no dice cuánto costará ni en qué fechas se hará cada parque.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Recuperar al menos 100 parques y espacios públicos de proximidad.",
+    "pag": 7
+   },
+   {
+    "t": "Facilitar al menos 5.000 soluciones de vivienda, entre casas nuevas y mejoras.",
+    "que": "El plan dice que se hará con bancos, empresas y otras entidades. No dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de otras entidades y de dinero. El plan no dice el costo.",
+    "cita": "Facilitar al menos 5.000 soluciones habitacionales durante el período 2027-2031, combinando",
+    "pag": 11
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Llegar al 65 % de cobertura de agua potable y saneamiento urbano, si es viable.",
+    "que": "El plan dice que depende de la viabilidad técnica y del presupuesto. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará ni cuándo.",
+    "cita": "Alcanzar o superar 65 % de cobertura de agua potable y saneamiento urbano cuando la viabilidad técnica y presupuestaria lo permita.",
+    "pag": 12
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Desviar al menos 10 % de la basura que va al relleno, con reciclaje y compostaje.",
+    "que": "El plan no dice cuánto costará ni cuándo. Pide permisos ambientales antes de empezar.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Desviar de la disposición final al menos 10 % del flujo anual de residuos sólidos no peligrosos mediante reciclaje, compostaje",
+    "pag": 14
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Intervenir al menos 400 km de calles (construir, arreglar o mantener).",
+    "que": "El plan dice que dependerá del presupuesto disponible. No dice cuánto costará ni en qué calles.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero depende de presupuesto y estudios técnicos.",
+    "cita": "Intervenir al menos 400 km de vías mediante construcción, rehabilitación y mantenimiento",
+    "pag": 7
+   }
+  ],
+  "economia": [
+   {
+    "t": "Acompañar al menos a 10.000 comerciantes en trámites para regularizarse.",
+    "que": "El plan dice que dependerá de quién cumpla los requisitos. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: mercados y espacio público. El plan no dice el costo.",
+    "cita": "Acompañar al menos a 10.000 comerciantes en procesos de regularización",
+    "pag": 10
+   },
+   {
+    "t": "Capacitar al menos a 25.000 personas en oficios y habilidades.",
+    "que": "El plan no dice cuánto costará. Dice que se hará con convenios con empresas y escuelas.",
+    "v": "media",
+    "n": "El Municipio da cursos, pero no crea empleo directo. El plan no dice costo.",
+    "cita": "Capacitar al menos a 25.000 personas durante el período.",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Dar al menos 50.000 atenciones de prevención y recuperación por adicciones.",
+    "que": "El plan dice que la atención médica se hará por unidades de salud habilitadas. No dice costo.",
+    "v": "baja",
+    "n": "La atención de salud no es del Municipio. Solo puede prevenir.",
+    "cita": "Alcanzar al menos 50.000 atenciones acumuladas durante el período en prevención, atención, recuperación y reinserción",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "Modernizar o ampliar hasta 1.500 puntos de videovigilancia, según estudios técnicos.",
+  "Intervenir al menos 60 corredores prioritarios en 2027-2031.",
+  "Recuperar al menos 100 parques y espacios públicos de proximidad.",
+  "Llegar a 65 % de cobertura de agua potable y saneamiento urbano, si es viable.",
+  "Intervenir al menos 400 km de vías en el período."
+ ],
+ "notas": [
+  "Muchas metas dependen de presupuesto, estudios y otras entidades. El plan no dice cuánto costará ninguna obra ni cuándo empieza.",
+  "Varias propuestas son de Policía, salud o educación, que no le tocan al alcalde. El plan lo reconoce, pero las incluye."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40
+ ],
+ "paginas": 40
+}

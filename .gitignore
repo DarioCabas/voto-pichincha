@@ -41,3 +41,7 @@ CLAUDE.md
 *.pem
 *.key
 .npmrc
+
+# Herramientas locales de OCR (scripts/pipeline.sh las instala)
+.venv-ocr/
+.tessdata/

@@ -1,0 +1,111 @@
+{
+ "enfoque": "Plan general de la parroquia San José de Minas: caminos, producción, ambiente y participación, con pedidos a otras entidades para lo demás.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Apoyar proyectos comunitarios para cuidar el ambiente y la biodiversidad.",
+    "que": "El plan no dice qué proyectos ni dónde, ni cuánto costará. Se hará con las autoridades competentes cuando corresponda.",
+    "v": "alta",
+    "n": "Le toca a la junta incentivar proyectos comunitarios. El plan no dice cuánto costará.",
+    "cita": "Incentivar proyectos comunitarios de protección ambiental y preservación de la biodiversidad, articulando con las autoridades competentes cuando corresponda.",
+    "pag": 9
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar ayuda técnica a los productores del campo y buscar alianzas con otras entidades.",
+    "que": "El plan no dice qué ayuda técnica, a cuántos productores ni cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Las alianzas dependen de otras instituciones. El plan no dice cómo se paga.",
+    "cita": "Impulso a la producción agropecuaria mediante asistencia técnica y alianzas estratégicas",
+    "pag": 9
+   },
+   {
+    "t": "Promover emprendimientos locales, con enfoque en jóvenes y mujeres.",
+    "que": "El plan no dice cuántos emprendimientos ni cuánto costará. Dice que es parte de la competencia parroquial de incentivar la producción.",
+    "v": "alta",
+    "n": "Le toca a la junta incentivar la producción. El plan no dice cuánto costará.",
+    "cita": "Promoción de emprendimientos locales con enfoque en jóvenes y mujeres.",
+    "pag": 5
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una rendición de cuentas pública cada año.",
+    "que": "El plan no dice dónde ni con qué detalle. Además, publicará avances del plan cada seis meses.",
+    "v": "alta",
+    "n": "La junta puede rendir cuentas por sí misma. El plan no dice el lugar.",
+    "cita": "se efectuará la rendición pública anual conforme a la normativa aplicable",
+    "pag": 10
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Planificar y participar en el mantenimiento de los caminos rurales, junto con la Prefectura.",
+    "que": "El plan no dice qué caminos ni cuánto costará ni cuándo. Se haría en coordinación con el Gobierno Provincial.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura, que es quien hace las vías. El plan no dice con qué dinero.",
+    "cita": "Planificar, gestionar y participar en el mantenimiento de la vialidad parroquial rural en coordinación con el Gobierno Provincial",
+    "pag": 9
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Organizar a la comunidad en prevención y pedir herramientas de apoyo tecnológico.",
+    "que": "El plan dice que no hará funciones policiales. Pedirá herramientas en coordinación con la Policía, el ECU 911 (servicio de emergencias) y el Municipio.",
+    "v": "baja",
+    "n": "La seguridad le toca a la Policía, no a la junta. El plan no dice cómo lo hará.",
+    "cita": "Promover organización, prevención y seguridad comunitaria y gestionar herramientas de apoyo tecnológico",
+    "pag": 9
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Gestionar y seguir ante otras entidades proyectos de salud, educación, servicios e infraestructura.",
+    "que": "La junta no ejecuta estas obras. El plan no dice cuáles ni cuándo ni cuánto costarán.",
+    "v": "baja",
+    "n": "Salud, educación y agua le tocan a otros niveles de gobierno.",
+    "cita": "Gestionar y dar seguimiento ante las entidades competentes a proyectos de salud, educación, servicios e infraestructura básica",
+    "pag": 9
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar procesos de participación ciudadana en barrios y comunidades.",
+    "que": "El plan no dice cuántas reuniones habrá ni cuándo ni en qué lugares.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es función de la junta.",
+    "cita": "Implementación de procesos de participación ciudadana en barrios y comunidades.",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Informe de avance del plan cada seis meses (semestral).",
+  "Seguimiento técnico del plan cada tres meses (trimestral).",
+  "Rendición pública de cuentas una vez al año.",
+  "Presupuesto participativo una vez al año.",
+  "Evaluación final del plan al cierre del período 2027-2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Varias propuestas dependen de la Prefectura, el Municipio o el Gobierno Nacional; la junta solo puede gestionarlas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ],
+ "paginas": 13
+}

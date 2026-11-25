@@ -1,0 +1,108 @@
+{
+ "enfoque": "Plan de Salcedo basado en el plan de desarrollo del cantón: tránsito, agua, catastro, parques y trámites en línea. Casi no dice costos ni plazos.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Reordenar el tránsito urbano, con señales y zonas de parqueo seguro.",
+    "que": "Intervenir 3 puntos críticos de tránsito y movilidad peatonal. El plan no dice cuáles son ni cuánto costará. Plazo: años 1 a 4.",
+    "v": "alta",
+    "n": "Tránsito es competencia del Municipio. El plan no dice cuánto costará.",
+    "cita": "Intervenir 3 puntos críticos de tránsito y movilidad peatonal",
+    "pag": 9
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Dar agua potable y saneamiento (alcantarillado) en el cantón.",
+    "que": "Es un objetivo general. El plan habla de 2 proyectos de agua y saneamiento, pero no dice dónde ni cuánto costarán.",
+    "v": "alta",
+    "n": "Agua y alcantarillado son del Municipio. El plan no dice qué obras.",
+    "cita": "Garantizar el acceso a agua potable, saneamiento, vialidad digna y protección de las fuentes hídricas",
+    "pag": 9
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar el plan de uso del suelo y el plan de desarrollo del cantón.",
+    "que": "Aprobar una nueva ordenanza y publicarla en el Registro Oficial, en años 1 y 2. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "El uso del suelo es del Municipio. El plan no dice cuánto costará.",
+    "cita": "el PDOT y PUGS cantonal conforme al COOTAD y LOOTUGS",
+    "pag": 9
+   },
+   {
+    "t": "Mantener al día el catastro, el registro de terrenos y casas.",
+    "que": "Catastro con ubicación exacta de cada predio y plataforma digital. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "El catastro es del Municipio. El plan no dice costo.",
+    "cita": "Mantener actualizado el catastro georreferenciado, para una mejora en la prestación de servicios a la ciudadanía.",
+    "pag": 4
+   },
+   {
+    "t": "Iluminar y arreglar al menos 3 espacios públicos prioritarios.",
+    "que": "Arreglar e iluminar 3 espacios públicos. El plan no dice cuáles son ni cuánto costará.",
+    "v": "alta",
+    "n": "Parques y espacios públicos son del Municipio. El plan no dice costo.",
+    "cita": "Intervenir e iluminar al menos en 3 espacios públicos prioritarios",
+    "pag": 8
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Reforzar la seguridad preventiva con el centro de monitoreo y brigadas.",
+    "que": "Un centro de monitoreo municipal articulado con la Policía Nacional y brigadas comunitarias. El plan no dice cuánto costar��.",
+    "v": "media",
+    "n": "La Policía es del Gobierno. El Municipio solo pone el centro de monitoreo.",
+    "cita": "Fortalecer la seguridad preventiva, la articulación comunitaria y la recuperación del espacio público",
+    "pag": 6
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Digitalizar trámites municipales para hacerlos en línea.",
+    "que": "Pasar a internet trámites como patentes, catastros y líneas de fábrica. Meta: al menos 3 trámites. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Los trámites municipales son del Municipio. El plan no dice costo.",
+    "cita": "Digitalizar los trámites municipales, promoviendo el gobierno abierto mediante una efectiva participación ciudadana",
+    "pag": 5
+   },
+   {
+    "t": "Hacer asambleas en las parroquias para revisar necesidades locales.",
+    "que": "Asambleas en San Miguel y en las cinco parroquias rurales. El plan no dice cuánto costarán ni cada cuánto se harán.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Asambleas itinerantes en Antonio José Holguín, Cusubamba, Mulalillo, Mulliquindil, Panzaleo y San Miguel para evaluar necesidades locales",
+    "pag": 13
+   }
+  ]
+ },
+ "metas": [
+  "Intervenir 3 puntos críticos de tránsito y movilidad peatonal.",
+  "Intervenir e iluminar al menos 3 espacios públicos prioritarios.",
+  "Digitalizar al menos 3 trámites municipales.",
+  "Ejecutar o cofinanciar al menos 2 proyectos de agua y saneamiento.",
+  "Intervenir al menos 10 km de vías urbanas y rurales."
+ ],
+ "notas": [
+  "Casi ninguna propuesta dice cuánto cuesta ni de dónde saldrá el dinero. Varias metas no dicen dónde se harán.",
+  "Incluye temas de Policía y escuelas deportivas que no son del Municipio. La Policía es del Gobierno."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14
+ ],
+ "paginas": 14
+}

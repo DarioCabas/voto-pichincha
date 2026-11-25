@@ -1,0 +1,139 @@
+{
+ "enfoque": "Obras viales, limpieza de quebradas, parques y empleo. Varias obras son del Municipio, la Prefectura o ministerios, y el plan casi no dice cuánto costarán.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Asignar cada año un presupuesto para diseñar trazados viales en sectores sin planificación.",
+    "que": "El plan dice que la junta gestionará ese presupuesto anual. El plan no dice cuánto dinero será ni cuándo se hará.",
+    "v": "media",
+    "n": "La junta pide el dinero, pero el plan no dice cuánto cuesta.",
+    "cita": "El Gobierno Parroquial gestionará la asignación de un presupuesto anual destinado a la elaboración y actualización de los trazados viales",
+    "pag": 5
+   },
+   {
+    "t": "Gestionar con el Municipio y la Prefectura una vía nueva entre Gualo y la cabecera parroquial.",
+    "que": "El plan dice que se hará junto con el Municipio y la Prefectura, para mejorar la movilidad. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio y la Prefectura. El plan no dice cuánto costará.",
+    "cita": "la planificación, diseño y construcción de una nueva vía que conecte el sector de Gualo con la cabecera parroquial de Llano Chico",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Pedir al Municipio construir un boulevard en la avenida 17 de Septiembre y la calle Sofía González.",
+    "que": "El plan dice que tendría espacios peatonales, árboles, luces y áreas de encuentro. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Le toca al Municipio; la junta solo puede pedirlo. El plan no dice el costo.",
+    "cita": "para la construcción de un boulevard urbano en la intersección de la avenida 17 de Septiembre y la calle Sofía González",
+    "pag": 5
+   },
+   {
+    "t": "Adecuar 2 parques infantiles inclusivos con juegos adaptados.",
+    "que": "El plan no dice en qué sectores están los 2 parques ni cuánto costará. Antes haría un diagnóstico de accesibilidad.",
+    "v": "alta",
+    "n": "Le toca a la junta: parques de la parroquia. El plan no dice costo.",
+    "cita": "Realizar el diagnóstico de accesibilidad en espacios públicos. Adecuar baterías sanitarias y juegos infantiles adaptados.",
+    "pag": 9
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Organizar mingas para limpiar las quebradas y crear un vivero de plantas nativas.",
+    "que": "Las quebradas nombradas son Gualo, Pimán, Angarachaca, El Milagro, Chaquiscahuayco y San Antonio. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca a la junta: organizar mingas y producir plantas. El plan no dice costo.",
+    "cita": "Organizar mingas comunitarias de limpieza en quebradas. Crear el Vivero Parroquial Comunitario para la producción de especies nativas.",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Pedir al MIES y al Municipio nuevos centros de cuidado infantil en tres sectores.",
+    "que": "La junta solo gestiona esto. El plan no dice cuándo abrirán los centros ni cuánto costarán.",
+    "v": "baja",
+    "n": "Le toca al MIES y al Municipio, no a la junta.",
+    "cita": "la implementación de nuevos Centros de Desarrollo Infantil y Wawa Centros en los sectores de Carmen Bajo, Alvaropamba y Santa Ana",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear una bolsa de empleo parroquial y dar talleres de capacitación técnica.",
+    "que": "El plan no dice cómo funcionará la bolsa de empleo ni cuánto costará. Los talleres se harían con universidades.",
+    "v": "alta",
+    "n": "Le toca a la junta. Los talleres dependen de universidades.",
+    "cita": "Crear la Bolsa de Empleo Parroquial de Llano Chico. Realizar talleres de capacitación técnica con la academia/SETEC.",
+    "pag": 9
+   },
+   {
+    "t": "Hacer una feria parroquial permanente donde el productor venda directo al consumidor.",
+    "que": "El plan no dice dónde ni cada cuánto será la feria, ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta: organizar ferias. El plan no dice costo.",
+    "cita": "Implementar la feria parroquial permanente de comercialización directa del productor al consumidor.",
+    "pag": 15
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Decidir en asambleas con los barrios en qué se gasta todo el dinero de inversión de la junta.",
+    "que": "El plan dice que delegados de barrios y comunidades votarán los proyectos en reuniones públicas. El plan no dice cuánto dinero es.",
+    "v": "alta",
+    "n": "Lo decide la junta misma. Depende del dinero que le asignen.",
+    "cita": "El 100% de los fondos asignados legalmente a la Junta Parroquial para proyectos de inversión será discutido",
+    "pag": 18
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Gestionar luces, alarmas y recuperación de espacios públicos en los sectores que lo necesiten.",
+    "que": "El plan dice que se pedirá a las instituciones competentes. No dice qué sectores ni cuánto costará.",
+    "v": "media",
+    "n": "Luces y alarmas son del Municipio o la Policía; la junta solo gestiona.",
+    "cita": "conformación de mesa y comités; priorización de primeras intervenciones; gestión de iluminación, alarmas y recuperación de espacios.",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "Al menos 40 % de la mano de obra de proyectos en la parroquia sea de habitantes de Llano Chico.",
+  "Adecuar 2 parques infantiles inclusivos (año 1).",
+  "Capacitar a 50 emprendedores (año 1).",
+  "Año 2: intervenir 2 quebradas y recuperar 5 hectáreas ecológicas.",
+  "Certificar 100 emprendimientos de la parroquia (año 3)."
+ ],
+ "notas": [
+  "Casi ninguna propuesta dice cuánto costará ni de dónde saldrá el dinero.",
+  "Varias propuestas son del Municipio o la Prefectura. Incluye salud y policía, que no le tocan a la junta."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25
+ ],
+ "paginas": 25
+}

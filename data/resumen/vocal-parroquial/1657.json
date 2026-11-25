@@ -1,0 +1,126 @@
+{
+ "enfoque": "Plan de toda la lista: cuidar el ambiente y los cauces, apoyar a productores, arreglar caminos y parques, y hacer asambleas. Agua potable y policía no le tocan a la junta.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Pedir dinero para construir, ampliar o arreglar sistemas de agua potable.",
+    "que": "Son obras de agua potable. El plan no dice cuánto costará ni cuándo se harían.",
+    "v": "baja",
+    "n": "El agua potable no le toca a la junta parroquial.",
+    "cita": "Gestionar recursos para la construcción, ampliación y rehabilitación de sistemas de agua potable.",
+    "pag": 3
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Pedir que declaren zonas de conservación donde están las fuentes de agua.",
+    "que": "Serían las zonas con vertientes y pozos profundos que dan agua a la parroquia. El plan no dice cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con otras instituciones, como el Ministerio del Ambiente.",
+    "cita": "Gestionar la declaratoria de zonas de conservación hídrica en las áreas donde se ubican vertientes y pozos profundos",
+    "pag": 3
+   },
+   {
+    "t": "Hacer limpiezas periódicas de los cauces naturales de la parroquia.",
+    "que": "Limpiar los cauces para evitar inundaciones en invierno. El plan no dice cuánto costará ni con qué dinero.",
+    "v": "alta",
+    "n": "Limpiar cauces con la gente es trabajo de la junta y cuesta poco.",
+    "cita": "Ejecutar jornadas periódicas de limpieza de los principales cauces naturales de la parroquia.",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer nuevas áreas recreativas y deportivas en la parroquia.",
+    "que": "El plan no dice dónde, cuántas ni cuánto costará.",
+    "v": "alta",
+    "n": "Los parques y espacios públicos sí le tocan a la junta.",
+    "cita": "Gestionar la adecuación de nuevas áreas recreativas y deportivas.",
+    "pag": 5
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Pedir mantenimiento permanente de los caminos de la parroquia.",
+    "que": "Se haría en la red vial parroquial. El plan no dice cuánto costará ni quién pagará.",
+    "v": "media",
+    "n": "Los caminos se cuidan junto con la Prefectura.",
+    "cita": "Gestionar el mantenimiento permanente de la red vial parroquial.",
+    "pag": 3
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar actividades deportivas para niños, jóvenes y adultos.",
+    "que": "El plan no dice cuántas actividades, dónde ni cuánto costarán.",
+    "v": "alta",
+    "n": "Organizar actividades y eventos le toca a la junta.",
+    "cita": "Impulsar actividades deportivas para niños, jóvenes y adultos.",
+    "pag": 6
+   }
+  ],
+  "economia": [
+   {
+    "t": "Ayudar a convertir la leche de la parroquia en productos lácteos.",
+    "que": "El plan no dice dónde se haría, cuánto costará ni quién lo pagará.",
+    "v": "media",
+    "n": "Necesita dinero y apoyo de otras instituciones.",
+    "cita": "Impulsar la transformación de la leche en productos lácteos con valor agregado.",
+    "pag": 4
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer cuatro asambleas ciudadanas cada año.",
+    "que": "Son para que la gente vea la gestión y proponga cosas. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Reunir a la gente en asambleas es tarea de la junta.",
+    "cita": "Realizar al menos cuatro asambleas ciudadanas por año.",
+    "pag": 7
+   },
+   {
+    "t": "Publicar informes de lo que se hace y de cómo se gasta el dinero.",
+    "que": "Se difundirían por redes sociales y espacios comunitarios. El plan no dice cada cuánto.",
+    "v": "alta",
+    "n": "Informar a la gente es tarea de la junta y cuesta poco.",
+    "cita": "Publicar informes periódicos de gestión y ejecución presupuestaria.",
+    "pag": 7
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Reforzar los comités de seguridad de barrios y comunidades.",
+    "que": "El plan no dice cuántos comités se formarán ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a los vecinos sí le toca a la junta.",
+    "cita": "Fortalecer los comités barriales y comunitarios de seguridad.",
+    "pag": 7
+   }
+  ]
+ },
+ "metas": [
+  "Realizar al menos cuatro asambleas ciudadanas por año.",
+  "Capacitar anualmente a productores agropecuarios.",
+  "Gestionar al menos cinco proyectos de mejoramiento de sistemas de agua potable.",
+  "Fortalecer el 100% de las juntas administradoras de agua de la parroquia.",
+  "Cronograma de ejecución del plan de 2027 a 2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Es el mismo plan para los cinco candidatos de la lista. Mezcla temas que no son de la junta, como agua potable y policía."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "paginas": 10
+}

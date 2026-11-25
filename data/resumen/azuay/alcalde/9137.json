@@ -1,0 +1,131 @@
+{
+ "enfoque": "Propone agua, alcantarillado, caminos rurales, basura y ordenar el crecimiento urbano, además de apoyo a emprendimientos. Gran parte copia el plan de desarrollo del cantón.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar y modernizar el agua potable para llegar a más del 50 % de cobertura.",
+    "que": "Meta para 2031: cobertura efectiva de agua por encima del 50 %. En 2019 era del 32 %. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni de dónde sale el dinero.",
+    "cita": "expandir y modernizar los sistemas para alcanzar sobre el 50% de cobertura efectiva",
+    "pag": 10
+   },
+   {
+    "t": "Modernizar el agua y el alcantarillado de la ciudad de Santa Isabel.",
+    "que": "Es parte del plan para la cabecera, donde el agua llega hoy al 57 %. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni en qué plazo.",
+    "cita": "Modernización del sistema de agua (57 %) y alcantarillado.",
+    "pag": 18
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar y consolidar caminos rurales con lastre y mantenimiento programado.",
+    "que": "El plan busca duplicar la red de caminos consolidada entre 2027 y 2031. El plan no dice cuánto costará cada tramo.",
+    "v": "alta",
+    "n": "Le toca al Municipio (vías cantonales). El plan no dice cuánto costará.",
+    "cita": "Consolidación vial: lastrado, obras de arte, caminos de verano a todo tiempo y mantenimiento programado.",
+    "pag": 15
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Recoger, transportar y reciclar la basura, con destino final controlado.",
+    "que": "El plan incluye recoger, reciclar y dar destino controlado a la basura del cantón. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Es competencia del Municipio. El plan no dice cuánto costará.",
+    "cita": "Recolección, transporte, reciclaje y disposición técnicamente controlada de desechos sólidos del cantón",
+    "pag": 20
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer el plan de uso del suelo para ordenar el crecimiento urbano.",
+    "que": "Sirve para ordenar el crecimiento de la ciudad. El plan no dice cuánto costará ni cuándo estará listo.",
+    "v": "alta",
+    "n": "El uso del suelo es competencia del Municipio. El plan no dice el plazo.",
+    "cita": "Plan de Uso y Gestión del Suelo (PUGS) para ordenar el crecimiento urbano.",
+    "pag": 18
+   }
+  ],
+  "otros": [
+   {
+    "t": "Vigilar el suelo y reubicar las 11 viviendas con grietas de Quillosisa.",
+    "que": "Es parte del plan para la cabecera. El plan no dice cuánto costará ni quién pagará las casas nuevas.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el plan no dice cómo la pagará.",
+    "cita": "Monitoreo geotécnico y reubicación de las 11 viviendas con grietas (sector Quillosisa).",
+    "pag": 18
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar apoyo financiero a emprendimientos jóvenes y ayudarles a llegar a mercados.",
+    "que": "El plan habla de dar capital semilla y formación a emprendedores. No dice cuánto dinero ni de dónde saldrá.",
+    "v": "media",
+    "n": "Puede impulsarlo el Municipio, pero el plan no dice de dónde sale el dinero.",
+    "cita": "el apoyo financiero a emprendimientos jóvenes y la facilitación del acceso a mercados nacionales e internacionales",
+    "pag": 13
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar un informe anual de gestión con metas, gasto y resultados.",
+    "que": "Se presentará a la ciudadanía y al Consejo de Participación Ciudadana (CPCCS). El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Depende solo del Municipio. El plan no dice cuánto costará.",
+    "cita": "Informe anual público de gestión: ante la ciudadanía y el CPCCS",
+    "pag": 22
+   },
+   {
+    "t": "Publicar cada trimestre el avance de obras en un portal de datos abiertos.",
+    "que": "Cada tres meses se publicará el avance físico y financiero de las obras prioritarias. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Depende solo del Municipio. Es una publicación en internet.",
+    "cita": "Tablero trimestral de avance: publicación del avance físico y financiero",
+    "pag": 22
+   }
+  ]
+ },
+ "metas": [
+  "Cobertura efectiva de agua potable por encima del 50 % en 2031.",
+  "Duplicar la red de caminos consolidada entre 2027 y 2031.",
+  "Rehabilitar 50 km de vías rurales en el período 2027-2031.",
+  "500 emprendimientos consolidados con apoyo directo (2027-2031).",
+  "4 informes de rendición de cuentas públicas (2027-2031)."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará cada obra ni cuándo se entregará. Gran parte repite el plan de desarrollo del cantón.",
+  "Los porcentajes de las fuentes de dinero que da el plan suman más de 100 %."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25
+ ],
+ "paginas": 25
+}

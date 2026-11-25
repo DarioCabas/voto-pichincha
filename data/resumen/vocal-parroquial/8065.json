@@ -1,0 +1,114 @@
+{
+ "enfoque": "Ferias y emprendimientos, limpieza de quebradas y reforestación, y programas para adultos mayores, mujeres y jóvenes. Muchas obras dependen de otras instituciones.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Hacer jornadas comunitarias de limpieza de quebradas y espacios públicos.",
+    "que": "Se hará con vecinos y barrios en quebradas y espacios públicos. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Son mingas comunitarias, algo que la junta sí puede organizar.",
+    "cita": "Promover jornadas comunitarias de limpieza de quebradas y espacios públicos.",
+    "pag": 5
+   },
+   {
+    "t": "Sembrar árboles con el programa Sembrando Vida en zonas estratégicas.",
+    "que": "El plan dice que será en zonas estratégicas, pero no dice cuáles. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Reforestar sí está en lo que puede hacer la junta; el plan no dice el costo.",
+    "cita": "Programa \"Sembrando Vida\", orientado a la reforestación de zonas estratégicas.",
+    "pag": 5
+   },
+   {
+    "t": "Gestionar proyectos para cuidar el agua y el riego, con convenios.",
+    "que": "El plan dice que se harán dentro de las competencias y mediante convenios. No dice cuánto costará ni quién paga.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio o la Prefectura.",
+    "cita": "Gestionar proyectos para mejorar los sistemas de agua y riego dentro de las competencias",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Gestionar capacitaciones para personas con discapacidad.",
+    "que": "El plan no dice cuántas personas se beneficiarán, dónde ni cuándo. Tampoco dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con otras instituciones para dar los cursos.",
+    "cita": "Gestionar programas de capacitación para personas con discapacidad.",
+    "pag": 2
+   }
+  ],
+  "economia": [
+   {
+    "t": "Organizar una feria productiva para vender productos de la parroquia.",
+    "que": "Será un espacio para vender directo productos agrícolas, artesanales y gastronómicos. El plan no dice cuándo ni dónde.",
+    "v": "alta",
+    "n": "Las ferias sí son parte de lo que puede hacer la junta.",
+    "cita": "Espacio para la comercialización directa de productos agrícolas, artesanales y gastronómicos.",
+    "pag": 4
+   },
+   {
+    "t": "Gestionar cursos en administración, comercialización y marketing para emprendedores.",
+    "que": "El plan no dice cuántos cursos habrá, dónde ni cuánto costarán.",
+    "v": "alta",
+    "n": "Los cursos son tarea de la junta, aunque dependa de quién los dicte.",
+    "cita": "Gestionar programas de capacitación en administración, comercialización y marketing.",
+    "pag": 2
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Gestionar mejoras del alumbrado público en espacios comunitarios.",
+    "que": "El plan no dice cuántas luces se pondrán, dónde ni cuánto costará.",
+    "v": "media",
+    "n": "El alumbrado le toca al Municipio; la junta solo puede gestionarlo.",
+    "cita": "Gestión para mejorar el alumbrado público en espacios comunitarios.",
+    "pag": 7
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Coordinar mesas de seguridad con la Policía Nacional.",
+    "que": "El plan dice que la seguridad es competencia principal del Estado. No dice cada cuánto se reunirán ni dónde.",
+    "v": "baja",
+    "n": "La policía no le toca a la junta; solo puede coordinar.",
+    "cita": "Coordinar mesas de seguridad con la Policía Nacional.",
+    "pag": 7
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Explicar en lenguaje claro en qué se gasta el presupuesto parroquial.",
+    "que": "Se explicarán asignaciones, inversiones y gastos ejecutados. El plan no dice cuándo ni cómo se hará.",
+    "v": "alta",
+    "n": "Es transparencia de la junta; no cuesta mucho.",
+    "cita": "Socializar de manera clara y detallada el presupuesto parroquial, explicando las asignaciones, inversiones y gastos ejecutados.",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Realizar rendiciones públicas de cuentas cada año, durante el período 2027-2031.",
+  "Presentar proyectos de gestión durante todo el período de gobierno, 2027-2031.",
+  "Incrementar las jornadas de reforestación durante el periodo de gobierno; el plan no dice cuántas."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Varias propuestas son de salud, policía o alumbrado, que no le tocan del todo a la junta parroquial."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "paginas": 12
+}

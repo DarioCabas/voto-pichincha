@@ -1,0 +1,144 @@
+{
+ "enfoque": "Obras de agua, calles, basura y mercados. Gran parte del texto parece copiado del plan actual de la municipalidad (PDOT) y no dice cuánto cuesta cada obra.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Construir una planta para clasificar la basura.",
+    "que": "Está planificada para 2028 según el cronograma. El plan no dice cuánto costará ni quién la opera.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará.",
+    "cita": "Construcción de planta de clasificación de residuos. Inicio de programas de reforestación",
+    "pag": 51
+   },
+   {
+    "t": "Reforestar 200 hectáreas de páramos y cuidar fuentes de agua.",
+    "que": "Meta: 200 hectáreas, con inicio en 2029. El plan no dice cuánto costará ni quién pone el dinero.",
+    "v": "media",
+    "n": "Puede apoyar, pero los páramos dependen de otras autoridades.",
+    "cita": "Inicio de programas de reforestación y conservación de páramos",
+    "pag": 51
+   }
+  ],
+  "economia": [
+   {
+    "t": "Modernizar el 100% de los mercados y reubicar la feria de carros.",
+    "que": "Mercados en 2028 y feria de carros en 2029, según el cronograma. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Mercados y plazas son competencia del Municipio. El plan no dice cuánto costará.",
+    "cita": "Modernizar 100% mercados; reubicar feria de carros; aumentar 25% turismo cantonal",
+    "pag": 50
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar el 80% de las vías del cantón y poner señalización inteligente.",
+    "que": "Meta: arreglar 80% de la red vial y reducir 40% los accidentes. Arreglo de vías y accesos en 2028. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (calles y tránsito). El plan no dice cuánto costará.",
+    "cita": "Rehabilitar 80% de la red vial; reducir 40% siniestralidad; implementar señalización inteligente",
+    "pag": 49
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Hacer estudios y optimizar las redes de agua y alcantarillado.",
+    "que": "Meta: ampliar 30% la cobertura de agua y alcantarillado. Estudios en 2027. El plan también dice que la planta de tratamiento de agua necesita arreglo. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Estudios técnicos y optimización de redes de agua y alcantarillado",
+    "pag": 49
+   }
+  ],
+  "social": [
+   {
+    "t": "Construir 3 centros recreativos y modernizar el Polideportivo y el Coliseo.",
+    "que": "Meta: 3 centros recreativos y cobertura total a grupos prioritarios. Polideportivo y Coliseo en 2028. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Los parques sí son del Municipio; el plan no dice cuánto costará.",
+    "cita": "Construir 3 centros recreativos; modernizar Polideportivo y Coliseo; cobertura total a grupos prioritarios",
+    "pag": 50
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar el plan de ordenamiento territorial para controlar el crecimiento urbano.",
+    "que": "El plan lo pone como necesidad. No dice cuánto costará ni cuándo se hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: el uso del suelo es su competencia.",
+    "cita": "Actualizar y aplicar el Plan de Ordenamiento Territorial para controlar el crecimiento urbano",
+    "pag": 33
+   }
+  ]
+ },
+ "metas": [
+  "Ampliar 30% la cobertura de agua y alcantarillado",
+  "Rehabilitar 80% de la red vial y reducir 40% los accidentes",
+  "Modernizar 100% de los mercados y reubicar la feria de carros",
+  "Digitalizar 80% de los trámites y reducir 50% el tiempo de atención",
+  "Reforestar 200 hectáreas de páramos"
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero. Solo pone años tentativos.",
+  "Gran parte del texto es diagnóstico del cantón copiado del plan municipal actual (PDOT), no propuestas nuevas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56
+ ],
+ "paginas": 56
+}

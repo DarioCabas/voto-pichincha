@@ -1,0 +1,133 @@
+{
+ "enfoque": "Plan general con siete ejes, basado en el PDOT 2023-2027 de Nobol. No pone cifras ni costos, y varias acciones dependen de otras entidades.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Ordenar tricimotos, paradas y señalización del transporte local.",
+    "que": "El plan dice que revisará tricimotos, paradas, accesibilidad peatonal y señalización en los primeros 100 días. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: tránsito y buses son competencia municipal.",
+    "cita": "Revisar tricimotos, paradas, accesibilidad peatonal, señalización y operación",
+    "pag": 12
+   },
+   {
+    "t": "Coordinar con la Prefectura las obras de caminos rurales.",
+    "que": "El plan dice que el Municipio coordinará con la Prefectura del Guayas las intervenciones en la red vial rural. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de la Prefectura; el Municipio solo coordina.",
+    "cita": "Prefectura del Guayas para las intervenciones que correspondan a la red vial rural",
+    "pag": 8
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Revisar redes, calidad y mantenimiento de agua y alcantarillado.",
+    "que": "Revisión con la empresa de agua EP-EMAPAN en los primeros 100 días. El plan no dice cuánto costará ni qué obras harán.",
+    "v": "alta",
+    "n": "Agua y alcantarillado son competencia municipal; el plan no dice costos.",
+    "cita": "Revisar operación, redes, sistemas, cartera, calidad, mantenimiento y proyectos de agua y saneamiento",
+    "pag": 12
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Ayudar a regularizar barrios y recintos cuando la ley lo permita.",
+    "que": "El plan dice que facilitará regularizar barrios y recintos solo cuando la norma lo permita. No dice cuáles ni cuánto costará.",
+    "v": "alta",
+    "n": "Uso del suelo es competencia municipal; el plan no fija zonas.",
+    "cita": "facilitando procesos de regularización y mejoramiento urbano o rural cuando la normativa lo permita",
+    "pag": 8
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Prevenir y responder frente a inundaciones en las comunidades.",
+    "que": "El plan no dice qué zonas ni cuánto costará. Trabaja con la Secretaría Nacional de Gestión de Riesgos y el COE cantonal.",
+    "v": "media",
+    "n": "Depende de la Secretaría de Gestión de Riesgos y de otras entidades.",
+    "cita": "Mejorar la capacidad local para prevenir y responder frente a inundaciones",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer acciones de cultura, deporte, juventud y atención a grupos prioritarios.",
+    "que": "Se hará de forma coordinada con las instituciones que tienen competencia. El plan no dice qué actividades ni cuánto costará.",
+    "v": "media",
+    "n": "Parte es de otras entidades; el Municipio coordina y organiza.",
+    "cita": "Desarrollar acciones municipales de inclusión, cultura, deporte, juventud y atención a grupos prioritarios",
+    "pag": 8
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear una mesa permanente con productores, comerciantes y asociaciones.",
+    "que": "Será un espacio de coordinación con productores y comerciantes. El plan no dice cada cuánto se reunirá ni cuánto costará.",
+    "v": "media",
+    "n": "Es una mesa de diálogo; depende de otras entidades públicas.",
+    "cita": "Espacio permanente de coordinación con productores, asociaciones, comerciantes, academia y entidades publicas",
+    "pag": 11
+   },
+   {
+    "t": "Organizar ferias y ruedas locales para vender productos del campo.",
+    "que": "Incluye capacitación para presentación, calidad y venta. El plan no dice cuántas ferias habrá ni cuánto costarán.",
+    "v": "media",
+    "n": "Puede organizarlas, pero el plan no dice con qué dinero.",
+    "cita": "Ferias, ruedas locales, promoción de compras y encadenamientos permitidos, capacitación para",
+    "pag": 11
+   }
+  ],
+  "otros": [
+   {
+    "t": "Ordenar la información de atractivos, tradiciones y gastronomía para visitantes.",
+    "que": "Se hará con registro técnico y promoción responsable. El plan no dice cuánto costará ni cuándo estará lista.",
+    "v": "media",
+    "n": "Turismo no está en la lista municipal; depende de otras entidades.",
+    "cita": "Actualizar y ordenar la información de atractivos, tradiciones, gastronomía y espacios rurales con potencial de visita",
+    "pag": 11
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Simplificar trámites y reforzar la planificación y contratación pública.",
+    "que": "El plan dice que publicará contratos, obras y avances. No dice cuántos trámites se simplificarán ni en qué plazo.",
+    "v": "alta",
+    "n": "Es administración propia del Municipio.",
+    "cita": "simplificar trámites, reforzar la planificación y la contratación pública",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "Primeros 100 días: ordenar la información y revisar el estado real del Municipio.",
+  "2027: año de transición, revisión de presupuesto, contratos y convenios.",
+  "2028 a 2031: primera etapa de proyectos, evaluación intermedia en 2029 y cierre de gestión en 2031."
+ ],
+ "notas": [
+  "El plan no pone cifras, costos ni fechas de obras. Dice que se definirán después de recibir la administración.",
+  "Gran parte del texto repite el PDOT 2023-2027 y un modelo; muchas acciones dependen de la Prefectura u otras entidades."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19
+ ],
+ "paginas": 19
+}

@@ -1,0 +1,128 @@
+{
+ "enfoque": "Más luz y cámaras que funcionen en calles y parques, estudios para cuidar los páramos, obras contra inundaciones y reglas para vivienda popular. No dice cuánto costará.",
+ "tabla": {
+  "seguridad": [
+   {
+    "t": "Arreglar y reforzar la luz en corredores, parques, paradas y mercados.",
+    "que": "El plan habla de revisar de noche las luces, arreglar las que fallan y dar prioridad a los puntos oscuros. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: el alumbrado de espacios municipales es suyo.",
+    "cita": "Mejorar iluminación y visibilidad en corredores, parques, paradas, mercados y zonas priorizadas.",
+    "pag": 9
+   },
+   {
+    "t": "Mantener cámaras y alarmas municipales para que funcionen todo el tiempo.",
+    "que": "El plan prioriza que los equipos municipales funcionen, con mantenimiento y conexión. No dice cuánto costará ni cuántos equipos habrá.",
+    "v": "alta",
+    "n": "Le toca al Municipio mantener sus equipos. La policía no es competencia municipal.",
+    "cita": "Integrar video vigilancia, alarmas y botones de auxilio con mantenimiento, conectividad y protocolos.",
+    "pag": 9
+   },
+   {
+    "t": "Hacer rutas seguras con señales, luces y cruces cerca de escuelas y mercados.",
+    "que": "Prioridad en centros educativos, mercados, salud y transporte. El plan no dice cuántas rutas se harán ni cuánto costarán.",
+    "v": "alta",
+    "n": "Señalización, luces y aceras son del Municipio. El control policial no.",
+    "cita": "Rutas seguras alrededor de centros educativos, mercados, salud y transporte.",
+    "pag": 10
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer estudios para proteger los páramos que dan agua a Cuenca.",
+    "que": "Estudios geológicos, biológicos y otros, con meta del 100% para 2031. El plan no dice cuánto costarán ni en qué orden se harán.",
+    "v": "media",
+    "n": "El Municipio puede pagar estudios. Frenar la minería depende de otras entidades.",
+    "cita": "Estudios geológicos, geotécnicos, geofísicos, limnológicos, biológicos, etc., para preservar",
+    "pag": 12
+   },
+   {
+    "t": "Hacer obras para reducir inundaciones, aludes de lodo y derrumbes causados por el agua.",
+    "que": "El plan dice que se destinarán más recursos a estas obras, con meta de 50% para 2031. No dice cuánto costarán ni qué obras van primero.",
+    "v": "alta",
+    "n": "Le toca al Municipio ejecutar obras. El monto depende del presupuesto.",
+    "cita": "se podrá destinar más recursos para planificar y construir obras de mitigación de inundaciones, aluviones y flujos sub-superficiales",
+    "pag": 12
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Cambiar las reglas de uso del suelo para permitir vivienda popular en lotes más pequeños.",
+    "que": "El plan propone lotes mínimos accesibles para vivienda popular. No dice cuándo se aprobará la norma ni cuánto costará.",
+    "v": "alta",
+    "n": "Es competencia municipal de suelo. El Concejo debe aprobar la norma.",
+    "cita": "Planificar movilidad, vivienda popular, equipamientos, suelo productivo, centralidades y servicios.",
+    "pag": 15
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Dar prioridad a los buses y ordenar semáforos y estacionamientos.",
+    "que": "Primero un estudio de dónde viaja la gente; luego prioridad para el transporte público y mejor manejo de semáforos. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Tránsito y buses son competencia municipal.",
+    "cita": "Diagnóstico origen-destino y datos. 2) Priorización del transporte público. 3) Gestión semafórica y estacionamiento.",
+    "pag": 17
+   }
+  ],
+  "economia": [
+   {
+    "t": "Conectar a jóvenes con prácticas, mentorías y formación en empresas y universidades.",
+    "que": "Convocatorias y convenios con universidades, cámaras y empresas. El plan no dice cuántos cupos habrá ni cuánto costará.",
+    "v": "media",
+    "n": "Depende de empresas y universidades. El Municipio no reparte empleos.",
+    "cita": "Vincular a los jóvenes a prácticas, formación, mentorías o procesos de empleo.",
+    "pag": 18
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar cada tres meses el avance de metas, obras y presupuesto.",
+    "que": "Un tablero público con avance por eje, programas, presupuestos y semáforos de alerta. El plan no dice dónde se publicará.",
+    "v": "alta",
+    "n": "Es información que maneja la propia Alcaldía.",
+    "cita": "Avance por eje, programas, presupuestos y semáforos correctivos.",
+    "pag": 21
+   }
+  ]
+ },
+ "metas": [
+  "Plan cantonal de seguridad elaborado y llevado a territorio: 100% en 2031.",
+  "Operatividad de sistemas municipales de seguridad: 90% en 2031.",
+  "21 parroquias rurales con protocolos de respuesta ante emergencias en 2031.",
+  "Estudios para preservar páramos y fuentes de agua: 100% en 2031.",
+  "Obras de mitigación de inundaciones y aluviones: 50% en 2031."
+ ],
+ "notas": [
+  "El plan no da costos por proyecto. Dice que cada programa tendrá una ficha de costos antes de entrar al presupuesto.",
+  "Varias acciones de seguridad dependen de la Policía y del ECU 911. El Municipio solo coordina con ellos."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24
+ ],
+ "paginas": 24
+}

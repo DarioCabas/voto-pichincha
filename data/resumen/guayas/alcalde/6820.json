@@ -1,0 +1,127 @@
+{
+ "enfoque": "Prioriza juventud y educación, y también agua, calles y basura en zonas rurales. Se basa en el plan de desarrollo del cantón 2023–2027.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Manejar la basura en todo el proceso: separarla desde el origen, reciclarla y darle disposición final técnica.",
+    "que": "Incluye separar la basura desde el origen y darle tratamiento final técnico. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "La basura es competencia del Municipio. El plan no dice cuánto costará.",
+    "cita": "Implementar la gestión integral de residuos sólidos en todas sus fases: clasificación en la fuente",
+    "pag": 6
+   },
+   {
+    "t": "Hacer obras de drenaje y limpiar canales para bajar el riesgo de inundación.",
+    "que": "Es una obra permanente, no solo de emergencia, según el plan. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "La prevención de desastres es del Municipio. El plan no dice cuánto cuesta.",
+    "cita": "Ejecutar obras de drenaje y limpieza de canales para reducir el riesgo de inundación",
+    "pag": 11
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Actualizar el catastro, el registro de casas y terrenos, para cobrar mejor el impuesto predial.",
+    "que": "El plan dice que el catastro es la base para cobrar y planificar servicios. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto cuesta ni cuándo termina.",
+    "cita": "Ejecutar la actualización del catastro inmobiliario urbano y rural como base de la recaudación",
+    "pag": 12
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Publicar un calendario anual de arreglos de vías, con fechas, montos y responsables.",
+    "que": "Se publica por parroquia y recinto y se reporta cada tres meses. El plan no dice el monto total.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no da el monto total de las obras.",
+    "cita": "Elaborar y publicar un cronograma anual de intervención vial por parroquia y recinto, con fechas, montos y responsables",
+    "pag": 8
+   },
+   {
+    "t": "Dar transporte escolar y ayuda para viajar a estudiantes de bachillerato de zonas rurales.",
+    "que": "Beneficia a Cone, Boliche y los recintos. El plan no dice cuántos estudiantes ni cuánto costará.",
+    "v": "media",
+    "n": "El transporte sí es del Municipio; la escuela no. El plan no dice costo.",
+    "cita": "Implementar un programa de transporte escolar y becas de movilidad para estudiantes de",
+    "pag": 7
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar cámaras de vigilancia en las entradas de vías y en los puntos con más delitos.",
+    "que": "Se conectará con la Policía Nacional, que no le toca al Municipio. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Las cámaras sí puede instalarlas; la policía no. El plan no dice costo.",
+    "cita": "Implementar un sistema de videovigilancia municipal en los accesos viales y en los puntos de mayor",
+    "pag": 9
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Llevar agua potable por fases a Cone, Virgen de Fátima y Boliche.",
+    "que": "También para los recintos dispersos. El plan no dice cuánto costará ni cuándo termina cada fase.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto cuesta.",
+    "cita": "Ejecutar por fases el plan de agua segura para Cone, Virgen de Fátima y Boliche",
+    "pag": 8
+   },
+   {
+    "t": "Terminar la planta que vuelve el agua apta para tomar y ponerla a funcionar.",
+    "que": "El plan dice que el diagnóstico la señala como obra prevista y no ejecutada. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Es obra de agua potable del Municipio. El plan no dice cuánto cuesta.",
+    "cita": "Concluir y poner en operación la infraestructura de potabilización pendiente",
+    "pag": 8
+   },
+   {
+    "t": "Ampliar la red de alcantarillado en la cabecera cantonal y en las cabeceras parroquiales.",
+    "que": "Cambiar poco a poco los pozos sépticos (hoyos para aguas negras). El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Alcantarillado es del Municipio. El plan no dice cuánto cuesta.",
+    "cita": "Ampliar la red de alcantarillado sanitario en la cabecera cantonal y en las cabeceras parroquiales",
+    "pag": 8
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Asfaltar, adoquinar y poner aceras y bordillos en la cabecera y en Cone, Virgen de Fátima y Boliche.",
+    "que": "Incluye la cabecera cantonal y las cabeceras de las tres parroquias rurales. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Las calles son competencia del Municipio. El plan no dice costo ni plazo.",
+    "cita": "Ejecutar el asfaltado, adoquinado y la construcción de aceras y bordillos en la cabecera cantonal",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "Ejecución de la partida de agua potable superior al 90 % anual.",
+  "Cronograma vial publicado y cumplido, con reporte trimestral.",
+  "Plan cantonal de gestión de riesgos aprobado durante el primer año.",
+  "Asambleas de presupuesto participativo realizadas por año en las cuatro parroquias.",
+  "Servicios sociales municipales operando en las tres parroquias rurales durante el primer año."
+ ],
+ "notas": [
+  "Casi ninguna propuesta dice cuánto costará ni cuándo. Varias dependen de convenios con otros ministerios o de crédito.",
+  "Mucho del plan (escuelas, empleo, salud, policía) no le toca al alcalde; depende de otros niveles de gobierno."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15
+ ],
+ "paginas": 15
+}

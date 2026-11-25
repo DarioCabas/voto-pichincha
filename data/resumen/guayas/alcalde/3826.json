@@ -1,0 +1,138 @@
+{
+ "enfoque": "Obras contra inundaciones (celda hidráulica), alcantarillado del norte y mercados. También salud y becas, que no son competencia del Municipio.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Construir en el primer año una celda para guardar y bombear agua en inundaciones.",
+    "que": "Costo: hasta USD 5.000.000 el primer año, del presupuesto municipal, del banco de desarrollo (BDE) y de cooperación para ampliaciones. Sujeto a estudios y caja.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan dice que depende de estudios y de caja.",
+    "cita": "Construir en el primer año una celda funcional de almacenamiento temporal, bombeo y descarga controlada.",
+    "pag": 6
+   },
+   {
+    "t": "Ampliar el saneamiento del sector norte con estudios y una primera intervención en sectores críticos.",
+    "que": "Costo de USD 1.200.000 a 2.500.000 el primer año, del presupuesto municipal y otras fuentes según competencia. Sujeto a estudios y disponibilidad.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice de qué fuentes saldrá el resto del dinero.",
+    "cita": "Ampliar el saneamiento del sector norte mediante estudios y primera intervención crítica.",
+    "pag": 5
+   },
+   {
+    "t": "Poner estaciones de agua segura en escuelas públicas elegidas por prioridad.",
+    "que": "Costo de USD 350.000 a 455.000, del presupuesto municipal y otras fuentes. El plan no dice cuáles escuelas se elegirán.",
+    "v": "media",
+    "n": "Las escuelas no son del Municipio; depende de coordinar con otras instituciones.",
+    "cita": "Garantizar estaciones de agua segura en instituciones educativas fiscales priorizadas.",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar mercados priorizados, con más higiene y seguridad para los comerciantes.",
+    "que": "Costo de USD 600.000 a 900.000, sujeto a priorización. Viene del presupuesto municipal y otras fuentes según competencia.",
+    "v": "alta",
+    "n": "Los mercados sí son competencia municipal. El plan da costo, pero sujeto a prioridades.",
+    "cita": "Recuperar mercados y mejorar salubridad y seguridad comercial.",
+    "pag": 5
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar calles críticas y hacer más seguro el tránsito en esas calles.",
+    "que": "El plan no dice cuánto costará ni cuándo. Incluye revisar vías, aceras y señalización en barrios y sectores con más problemas.",
+    "v": "alta",
+    "n": "Le toca al Municipio (vías y tránsito). El plan no dice costo ni plazo.",
+    "cita": "Ejecutar programa de calles críticas, accesibilidad y movilidad segura.",
+    "pag": 5
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear una oficina que dirija y controle los proyectos y busque cooperación internacional.",
+    "que": "Costo de USD 350.000 a 500.000. El plan dice que la oficina estará operativa en 60 días.",
+    "v": "alta",
+    "n": "Le toca al alcalde organizar su propia administración.",
+    "cita": "Crear Oficina Municipal de Dirección de Proyectos y Cooperación Internacional.",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Dar atención médica y cirugías de bajo costo a personas en extrema pobreza.",
+    "que": "Aporte municipal de USD 200.000 al año, ampliable con cooperación internacional. El plan no dice cuántas personas se atenderán en total.",
+    "v": "baja",
+    "n": "Salud no es del Municipio; el plan admite que no sustituye al Ministerio de Salud.",
+    "cita": "Implementar un Sistema Municipal de Salud Integral y Cirugías Solidarias.",
+    "pag": 5
+   },
+   {
+    "t": "Dar comida escolar a 7.000 estudiantes pobres durante 10 meses del año.",
+    "que": "Costo de USD 1.750.000 al año. El plan dice que no incluye transporte. Viene del presupuesto municipal y otras fuentes.",
+    "v": "baja",
+    "n": "La educación no es del Municipio; el plan da dos cifras distintas de estudiantes.",
+    "cita": "Entregar becas exclusivamente alimenticias a 7.000 estudiantes durante 10 meses del año escolar.",
+    "pag": 10
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar apoyos de USD 100 a 300 a pequeños comerciantes, con capacitación y control.",
+    "que": "Fondo inicial de USD 500.000 el primer año, para hasta 3.000 comerciantes. Viene del presupuesto municipal y de convenios financieros o privados.",
+    "v": "media",
+    "n": "Depende de convenios con bancos y empresas privadas, según el plan.",
+    "cita": "Entregar apoyo productivo escalonado con capacitación, formalización y control.",
+    "pag": 8
+   },
+   {
+    "t": "Crear un programa de aves y huevos para familias rurales.",
+    "que": "Costo de USD 1.200.000 a 1.500.000, del presupuesto municipal y otras fuentes según competencia. El plan no dice cuántas familias.",
+    "v": "baja",
+    "n": "No está en lo que le toca al Municipio; el plan depende de otras fuentes.",
+    "cita": "Desarrollar programa agroproductivo de aves, huevos y ciclos cortos.",
+    "pag": 5
+   }
+  ]
+ },
+ "metas": [
+  "Celda funcional operativa en el primer año.",
+  "Oficina de proyectos operativa en 60 días.",
+  "Fondo de USD 500.000 el primer año para hasta 3.000 comerciantes.",
+  "Rendición formal de cuentas dentro de los primeros 60 días del año siguiente."
+ ],
+ "notas": [
+  "Los montos son referenciales: el plan dice que dependen de estudios, caja y reformas, y no tiene dinero asegurado.",
+  "Cifras de becas no coinciden: 7.000 estudiantes en el texto y hasta 3.000 en la matriz. Seguridad y policía no son del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27
+ ],
+ "paginas": 27
+}

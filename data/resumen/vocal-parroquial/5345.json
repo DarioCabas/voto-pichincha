@@ -1,0 +1,134 @@
+{
+ "enfoque": "Mingas y siembra para cuidar ríos y bosques, cursos para artesanos y fiestas tradicionales. Gran parte del texto está copiado del plan de desarrollo de la parroquia.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Organizar mingas por barrios para limpiar ríos y quebradas.",
+    "que": "Mingas con vecinos, con ayuda de instituciones públicas y privadas. El plan no dice cuánto costará ni cuándo se harán.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es tarea de la junta. El plan no dice cuánto costará.",
+    "cita": "Organización por barrios para realizar mingas comunitarias conjuntamente con la ayuda de instituciones públicas y privadas.",
+    "pag": 23
+   },
+   {
+    "t": "Hacer campañas de reforestación con guarango y penco.",
+    "que": "Siembra masiva de guarango y penco como alternativa económica y para no contaminar ríos. El plan no dice cuántas plantas ni cuánto costará.",
+    "v": "alta",
+    "n": "Siembra y campañas las puede hacer la junta. El plan no dice de dónde salen las plantas.",
+    "cita": "Generar campañas de reforestación, con LA SIEMBRA MASIVA DEL GUARANGO, PENCO, como alternativas económicas",
+    "pag": 33
+   },
+   {
+    "t": "Hacer campañas para manejar bien los residuos orgánicos.",
+    "que": "Incluye charlas y un proyecto de reciclaje masivo. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Las campañas sí. La basura y su recolección le tocan al Municipio.",
+    "cita": "Proyecto de concientización y manejo adecuado de los residuos orgánicos.",
+    "pag": 33
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Hacer un programa de alcantarillado y una planta de aguas servidas.",
+    "que": "El plan no dice cuánto costará, cuándo se hará ni quién lo pagará.",
+    "v": "baja",
+    "n": "El alcantarillado le toca al Municipio, no a la junta.",
+    "cita": "Programa de alcantarillado masivo y generar una planta de tratamiento de aguas servidas",
+    "pag": 33
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Construir puentes para unir barrios y limpiar quebradas para senderos.",
+    "que": "Uniría los barrios de la periferia y haría senderos ecológicos. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Obra grande. Necesita a la Prefectura o al Municipio. El plan no dice cuánto costará.",
+    "cita": "Construir puentes para unir los barrios y con la limpieza de quebradas hacer senderos",
+    "pag": 31
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar talleres de capacitación a emprendedores, con certificados.",
+    "que": "Talleres con alianza de instituciones y certificados avalados para emprendedores de la parroquia. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Talleres y certificados: la junta puede organizarlos con otras instituciones.",
+    "cita": "Talleres de capacitación con alianza de instituciones, y se entreguen certificados avalados para los",
+    "pag": 23
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar festivales anuales de comida típica, comparsas y juegos tradicionales.",
+    "que": "Para recuperar fiestas y costumbres de Alangasí. El plan no dice cuánto costará ni en qué fechas.",
+    "v": "alta",
+    "n": "Eventos y ferias: tarea de la junta. El plan no dice cuánto costará.",
+    "cita": "Organiza festivales anuales de gastronomía típica, comparsas y juegos tradicionales.",
+    "pag": 22
+   },
+   {
+    "t": "Crear centros infantiles en barrios con otras instituciones.",
+    "que": "Se haría en alianza con otras instituciones públicas o privadas. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Le toca a otras entidades de cuidado infantil, no a la junta.",
+    "cita": "Crear Centros Infantiles en distintos barrios en alianzas con el MIES, Quito Cuna y otras instituciones",
+    "pag": 23
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Aplicar estrategias de seguridad preventiva con la comunidad y autoridades.",
+    "que": "El plan no dice qué estrategias ni cuánto costarán. Dice que se buscará apoyo de la empresa privada.",
+    "v": "baja",
+    "n": "La seguridad le toca a la Policía. La junta solo puede coordinar.",
+    "cita": "Implementar estrategias de seguridad preventiva y correctiva en coordinación con la comunidad y autoridades competentes.",
+    "pag": 34
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Revisar y evaluar la participación ciudadana y la veeduría en barrios y comunas.",
+    "que": "Busca que los vecinos vigilen las obras. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es tarea de la junta.",
+    "cita": "Programar y evaluar los mecanismos actuales de participación ciudadana y veeduría en los barrios y comunas de Alangasí.",
+    "pag": 28
+   }
+  ]
+ },
+ "metas": [
+  "Plan de cuatro años (años 1 a 4) dentro del periodo 2027-2031."
+ ],
+ "notas": [
+  "Gran parte del texto está copiado del plan de desarrollo de la parroquia y de otros planes; no todo son propuestas de la candidata.",
+  "El plan casi no dice cuánto costará ni de dónde saldrá el dinero. Varias propuestas dependen del Municipio o de la Prefectura.",
+  "Plan muy largo (34 págs.): se resumieron las 23 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  6,
+  9,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  27,
+  28,
+  29,
+  31,
+  33,
+  34
+ ],
+ "paginas": 34
+}

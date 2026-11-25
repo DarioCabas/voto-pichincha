@@ -1,0 +1,116 @@
+{
+ "enfoque": "Propone reforestar, ferias, cursos digitales, asambleas y programas sociales. Incluye salud y temas que no son de la junta. Parte del texto está copiada de otro cantón.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Plantar árboles y hacer campañas sobre buenas prácticas ambientales.",
+    "que": "El plan no dice dónde ni cuánto costará. Solo dice que habrá reforestación, arborización y campañas de sensibilización.",
+    "v": "alta",
+    "n": "Le toca a la junta: son siembras y charlas con la comunidad.",
+    "cita": "con actividades de reforestación, arborización, campaña de sensibilización de buenas prácticas ambientales",
+    "pag": 3
+   },
+   {
+    "t": "Vigilar y controlar las actividades extractivas en la parroquia.",
+    "que": "Se hará en coordinación con las autoridades cantonales y la comunidad. El plan no dice cómo ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con las autoridades cantonales; la junta no lo puede hacer sola.",
+    "cita": "mediante la fiscalización y control de actividades extractivas, el manejo sostenible del suelo",
+    "pag": 4
+   },
+   {
+    "t": "Apoyar brigadas de vecinos y planes de emergencia en cada barrio.",
+    "que": "El plan no dice cuántas brigadas habrá ni dónde. También habla de proteger zonas de riesgo, sin decir cómo.",
+    "v": "alta",
+    "n": "Le toca organizar a la comunidad. El plan no dice cuánto costará.",
+    "cita": "fortaleciendo las brigadas comunitarias, los planes de emergencia barriales y la protección de zonas de riesgo",
+    "pag": 4
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias permanentes con espacios seguros para emprendimientos locales.",
+    "que": "El plan no dice dónde ni cuándo serán las ferias ni cuánto costarán. Es para la economía popular y solidaria.",
+    "v": "alta",
+    "n": "Ferias y espacios: le toca a la junta. Falta saber dónde y cuándo.",
+    "cita": "la gestión de espacios dignos y seguros a través de ferias productivas permanentes",
+    "pag": 1
+   },
+   {
+    "t": "Dar cursos de contenido y marketing digital a emprendedores locales.",
+    "que": "El plan no dice quién dará los cursos, cuándo ni cuánto costarán. Busca dar visibilidad y vender los productos.",
+    "v": "alta",
+    "n": "Cursos: le toca a la junta, pero el plan no dice quién los dará.",
+    "cita": "Brindar soporte y capacitación en la creación de contenido estratégico y marketing digital",
+    "pag": 3
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a las vías de la parroquia.",
+    "que": "El plan no dice qué calles se arreglarán, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Se hace junto con la Prefectura. La junta tiene poco presupuesto para esto.",
+    "cita": "mejorando el mantenimiento de vías, de los servicios básicos y equipamientos urbanos",
+    "pag": 2
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer programas de inclusión social para niños, jóvenes, mujeres y personas mayores.",
+    "que": "El plan no dice qué programas habrá ni cuánto costarán. Va dirigido también a la población en general.",
+    "v": "alta",
+    "n": "Le toca organizar a la comunidad. Faltan detalles de los programas.",
+    "cita": "Implementar programas de inclusión social y participación, orientados a niños, jóvenes, mujeres",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Explicar en público cómo se gasta el dinero de la parroquia.",
+    "que": "Dice que se explicarán las asignaciones, inversiones y gastos, y que la comunidad participará en priorizar recursos. El plan no dice cuándo.",
+    "v": "alta",
+    "n": "Le toca a la junta. El plan no dice cada cuánto se hará.",
+    "cita": "Socializar de manera clara y detallada el presupuesto parroquial, explicando las asignaciones,",
+    "pag": 5
+   },
+   {
+    "t": "Hacer asambleas públicas para informar a la comunidad y recibir propuestas.",
+    "que": "Se harán con organizaciones, directivas barriales e instituciones. El plan no dice cada cuánto ni dónde.",
+    "v": "alta",
+    "n": "Le toca a la junta. Falta decir cada cuánto serán.",
+    "cita": "Convocar periódicamente a la comunidad, organizaciones sociales-culturales-ambientales, directivas barriales",
+    "pag": 5
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Hacer campañas de salud con ayuda de empresas privadas.",
+    "que": "El plan dice que se harán campañas de salud con apoyo de empresas privadas. No dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "La salud no es de la junta. Solo puede gestionar y pedir ayuda.",
+    "cita": "gestionar y llevar a cabo campañas de salud con apoyo de la empresa privada",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [
+  "Plan de trabajo para los años 2027 a 2031."
+ ],
+ "notas": [
+  "Parte del plan está copiado de otro cantón: menciona a Pastaza, no a Quito.",
+  "Ninguna propuesta dice cuánto costará ni cuándo se hará. Muchas dependen de otros niveles de gobierno."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "paginas": 8
+}

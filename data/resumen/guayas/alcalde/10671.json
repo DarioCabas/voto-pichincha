@@ -1,0 +1,133 @@
+{
+ "enfoque": "Obras de agua, calles, parques y riesgos del Municipio, pero también pide hospital, escuelas y policía, que no le tocan al Municipio.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar y mantener las calles de los centros poblados rurales.",
+    "que": "Es parte del plan de caminos y calles de los recintos del cantón. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Reconformación y mantenimiento de las calles de los centros poblados de los recíntos",
+    "pag": 15
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar el agua potable en el área urbana y rural.",
+    "que": "Captar, guardar y repartir agua potable en la ciudad y el campo, con otras entidades. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "El agua es competencia del Municipio. El plan no dice cuánto costará.",
+    "cita": "Mejorammienta y ampllación dela cobertura del sistema de captación, alrracenarslento y lstribución de agua potable en el área urbana y rural del cantón.",
+    "pag": 13
+   },
+   {
+    "t": "Mejorar el alcantarillado y tratar las aguas residuales de la ciudad.",
+    "que": "Arreglar el sistema de desagüe sanitario y tratar las aguas sucias de la zona urbana. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Mejoramiento del sistema de alcantarillado sanitario y tratamiento de aguas resIduales descargadas af efluente en el área urbana del",
+    "pag": 13
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Gestionar muros de contención en zonas vulnerables de La Isla y otros dos sectores.",
+    "que": "Muros para proteger zonas vulnerables en La Isla, Chanchán - Dos Pinos y Barranco Alto. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de fondos del Gobierno y de un banco.",
+    "cita": "Gestión para la construcción de muros de contención en las zonas vulnerables del cantón, identificadas en el sector La Isla,",
+    "pag": 13
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar el plan de uso del suelo del cantón, con una academia.",
+    "que": "Se hará con un convenio de cooperación con la academia. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "El uso del suelo es del Municipio. El plan no dice cuánto costará.",
+    "cita": "Actuallzación del Plan de Uso y Gestión de Suelo del cantón Crnl. MarcelIno Maridueña a través de",
+    "pag": 13
+   },
+   {
+    "t": "Urbanizar un terreno de 8 hectáreas para viviendas de interés social.",
+    "que": "El terreno de 8 hectáreas está en zona de crecimiento de la ciudad. Lo hacen el Municipio y entidades del Gobierno. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "El uso del suelo es del Municipio, pero las casas dependen de fondos del Gobierno.",
+    "cita": "Urbanización del terreno de 8,00 Ha identificado como zona de expansión urbana",
+    "pag": 13
+   },
+   {
+    "t": "Diseñar y arreglar espacios recreativos y deportivos en la ciudad y el campo.",
+    "que": "Espacios para deporte y recreo en áreas urbanas y rurales. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Parques y espacios públicos son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Diseño y ejecución del plan de mejoramiento físico Integral de los espacios recreativos y",
+    "pag": 13
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer programas para dar título legal a la tierra en zonas urbanas y rurales.",
+    "que": "Se hará en convenio con las instituciones encargadas. El plan no dice cuántas tierras ni cuánto costará.",
+    "v": "media",
+    "n": "Depende de otras instituciones, no solo del Municipio.",
+    "cita": "Garantizar la tenencia legal de la tierra con programas de legalización y titulación en convenio con las instituciones encargadas.",
+    "pag": 9
+   },
+   {
+    "t": "Gestionar un Centro de Salud Pública en el sector La Isla.",
+    "que": "Pide al Gobierno que lo construya. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "La salud le toca al Gobierno, no al Municipio.",
+    "cita": "Gestión para la construcción de un Centro de Salud Pública en el Sector La",
+    "pag": 13
+   }
+  ],
+  "economia": [
+   {
+    "t": "Construir una plaza artesanal en la vía Acapulco.",
+    "que": "Es una obra de comercio en la vía Acapulco. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Los mercados son del Municipio, pero el plan no dice cuánto costará.",
+    "cita": "Construcción de la plaza artesanal en la vía",
+    "pag": 11
+   }
+  ]
+ },
+ "metas": [
+  "Urbanizar 8 hectáreas para viviendas de interés social.",
+  "Consultoría del nuevo eje vial urbano prevista para el año 2040.",
+  "Plan de trabajo de cuatro años, de 2027 a 2031.",
+  "Rendir cuentas al cumplir un año de gestión."
+ ],
+ "notas": [
+  "El plan no dice cuánto cuesta ninguna obra ni de dónde saldrá el dinero.",
+  "Parte del texto parece copiado de un modelo general y dice 'Consejera Provincial' en vez de alcaldesa."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22
+ ],
+ "paginas": 22
+}

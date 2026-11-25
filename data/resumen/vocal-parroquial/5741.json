@@ -1,0 +1,120 @@
+{
+ "enfoque": "Propone caminos, riego, ambiente y producción para Cangahua 2027-2031. Mucho del texto es general y casi no dice cuánto costará nada.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Crear una resolución para hacer un plan anual de mantenimiento de caminos.",
+    "que": "La junta aprobaría una resolución para que el plan anual de caminos sea oficial. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Los caminos se cuidan junto con la Prefectura. El plan no dice con qué dinero.",
+    "cita": "Resolución para institucionalizar el Plan Anual de Mantenimiento Vial",
+    "pag": 8
+   },
+   {
+    "t": "Pedir a otras entidades el asfaltado o mejora de vías prioritarias.",
+    "que": "La junta solo gestionaría. El plan no dice qué vías, cuánto costará ni cuándo se haría.",
+    "v": "baja",
+    "n": "Es una obra grande que le toca a otro nivel de gobierno, no a la junta.",
+    "cita": "Promover la gestión interinstitucional para el asfaltado, adoquinado o mejoramiento integral de vías prioritarias de la parroquia.",
+    "pag": 7
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Crear una resolución para proteger fuentes de agua, páramos y espacios verdes.",
+    "que": "La junta aprobaría una resolución que da prioridad a estas zonas. El plan no dice cuánto costará ni cómo se vigilarán.",
+    "v": "alta",
+    "n": "Es una norma que aprueba la propia junta.",
+    "cita": "Resolución para priorizar la protección de fuentes de agua, páramos, espacios verdes y zonas ambientalmente sensibles.",
+    "pag": 8
+   },
+   {
+    "t": "Hacer acciones de protección ambiental, educación ambiental y manejo de residuos.",
+    "que": "Incluye cuidar fuentes de agua y recuperar espacios verdes. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Son acciones comunitarias que la junta puede organizar. Falta el presupuesto.",
+    "cita": "Impulsar acciones de protección ambiental, conservación de fuentes de agua, recuperación de espacios verdes, educación ambiental y manejo comunitario de residuos.",
+    "pag": 8
+   }
+  ],
+  "economia": [
+   {
+    "t": "Gestionar proyectos de riego, drenaje y tecnificación con otras entidades.",
+    "que": "La junta gestionaría proyectos para juntas de agua y productores. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "El riego lo coordinan entidades competentes, no solo la junta.",
+    "cita": "Gestionar proyectos de riego, drenaje, tecnificación y fortalecimiento",
+    "pag": 8
+   },
+   {
+    "t": "Apoyar la producción campesina y los emprendimientos de mujeres y jóvenes.",
+    "que": "La matriz del plan menciona ferias y capacitación. El plan no dice cuánto costará ni cuántas veces se harán.",
+    "v": "alta",
+    "n": "Apoyar productores y hacer ferias son tareas que puede organizar la junta.",
+    "cita": "Fortalecer la economía popular y solidaria, la producción campesina, el",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Apoyar a escuelas con conectividad y espacios comunitarios de aprendizaje.",
+    "que": "El plan no dice qué apoyo darán ni cuánto costará. Solo lo menciona como objetivo, sin plazo.",
+    "v": "baja",
+    "n": "Las escuelas le tocan al Ministerio de Educación, no a la junta.",
+    "cita": "Contribuir al fortalecimiento de la educación rural mediante apoyo a instituciones educativas, conectividad, espacios comunitarios de",
+    "pag": 7
+   },
+   {
+    "t": "Promover la participación ciudadana, mingas y asambleas en las comunidades.",
+    "que": "Incluye veedurías y control social. El plan no dice con qué frecuencia ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar mingas y asambleas es parte del trabajo de la junta.",
+    "cita": "Promover la participación ciudadana, las mingas, las asambleas",
+    "pag": 8
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear una resolución para publicar presupuesto, convenios, obras y contrataciones.",
+    "que": "La información se publicaría de forma periódica. El plan no dice dónde ni cada cuánto tiempo se publicaría.",
+    "v": "alta",
+    "n": "La junta puede aprobar sus propias resoluciones.",
+    "cita": "Resolución para transparentar la información pública parroquial mediante",
+    "pag": 8
+   },
+   {
+    "t": "Crear una comisión permanente de vialidad, riego, producción y ambiente.",
+    "que": "La junta aprobaría una resolución para conformarla. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Crear comisiones es tarea propia de la junta.",
+    "cita": "Resolución para conformar la Comisión Permanente de Vialidad, Riego, Producción y Ambiente.",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "Plan de trabajo para el período 2027-2031."
+ ],
+ "notas": [
+  "Mucho del texto es general o copiado del plan de desarrollo de la parroquia. Casi ninguna obra tiene costo ni fecha.",
+  "Incluye temas que no son de la junta, como escuelas y cámaras de seguridad. Varias propuestas dependen de otros niveles de gobierno."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14
+ ],
+ "paginas": 14
+}

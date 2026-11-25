@@ -1,0 +1,128 @@
+{
+ "enfoque": "Repite en gran parte el plan de desarrollo del cantón. Propone agua, alcantarillado, calles, basura y espacios verdes; también incluye salud, escuelas y policía, que no son del Municipio.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Elaborar un plan cantonal para prevenir incendios forestales e inundaciones.",
+    "que": "El plan no dice cuánto costará. Lo fija para los años 1 y 2 y dice que se coordinará con el organismo nacional de riesgos.",
+    "v": "alta",
+    "n": "Le toca al Municipio: prevenir desastres es competencia municipal.",
+    "cita": "elaboración de un plan cantonal de gestión de riesgos",
+    "pag": 10
+   },
+   {
+    "t": "Controlar la extracción de áridos y pétreos (material de piedra y arena) en el cantón.",
+    "que": "El plan no dice cuánto costará ni cuándo. Su meta es frenar la contaminación de agua y suelo.",
+    "v": "alta",
+    "n": "Control municipal, pero el plan no dice cómo se financia.",
+    "cita": "monitoreo y control de la extracción de áridos y pétreos",
+    "pag": 10
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Garantizar agua potable de forma permanente en la cabecera cantonal (centro urbano).",
+    "que": "Según el plan, en años 1 y 2 se haría un nuevo pozo y se revisaría la planta de tratamiento. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cómo se pagará el pozo.",
+    "cita": "Garantizar un servicio permanente en la cabecera cantonal y optimizar el servicio en sectores rurales",
+    "pag": 7
+   },
+   {
+    "t": "Construir reservorios y tanques comunitarios para guardar agua de invierno.",
+    "que": "El plan no dice cuántos habrá, dónde ni cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero depende de fondos aún por definir.",
+    "cita": "construcción de reservorios y tanques comunitarios para almacenar agua de invierno",
+    "pag": 7
+   },
+   {
+    "t": "Hacer proyectos de alcantarillado para ampliar la red en la cabecera, parroquias y recintos.",
+    "que": "Primero estudios de sectores y luego obras, en años 2 y 3. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El dinero aún no está definido.",
+    "cita": "Elaborar proyectos de agua servida y agua lluvia para ampliar la red en la cabecera cantonal, parroquias y recintos",
+    "pag": 8
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Mejorar espacios públicos, crear áreas verdes y mejorar el manejo de basura.",
+    "que": "Incluye modernizar el centro de faenamiento (matadero), en años 2 y 3. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Adecuar espacios físicos, mejorar el Centro de Faenamiento y el manejo de desechos sólidos, y crear nuevos espacios verdes recreativos",
+    "pag": 8
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Construir puentes y alcantarillas donde los esteros se desbordan en invierno.",
+    "que": "Para recintos que quedan aislados en invierno. Años 2 y 3 según el plan. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cómo se pagará.",
+    "cita": "construcción de puentes y alcantarillas en los puntos donde los esteros se desbordan en invierno y aíslan recintos",
+    "pag": 7
+   },
+   {
+    "t": "Construir y mejorar vías rurales junto con la Prefectura del Guayas.",
+    "que": "Se haría por convenio, en años 2 y 3. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de la Prefectura, que es otra entidad.",
+    "cita": "la construcción de vías rurales en convenio con el Consejo Provincial del Guayas",
+    "pag": 13
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar cámaras de videovigilancia en mercado, terminal, parque central y accesos.",
+    "que": "La vigilancia se haría desde el ECU 911 (centro de emergencias). El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Las cámaras sí, pero la policía y la vigilancia no son del Municipio.",
+    "cita": "instalación de cámaras de videovigilancia en mercado, terminal, parque central y accesos principales",
+    "pag": 9
+   }
+  ],
+  "economia": [
+   {
+    "t": "Construir un centro para secar y clasificar grano de los pequeños productores.",
+    "que": "El plan no dice cuánto costará ni dónde. Dice que se pagará con créditos, cooperación o recursos propios, por definir.",
+    "v": "media",
+    "n": "Puede impulsarlo, pero depende de créditos y de otras entidades.",
+    "cita": "Construcción de un centro de acopio y transformación básica (secado y clasificación de grano)",
+    "pag": 10
+   }
+  ]
+ },
+ "metas": [
+  "Mejorar el 100% de las vías priorizadas del área urbana y avanzar en la rehabilitación de vías rurales de 2.° y 3.er orden (4 años).",
+  "Cubrir en su mayoría los sectores sin alcantarillado durante el período 2027-2031.",
+  "Plan de prevención de incendios e inundaciones: horizonte de años 1 y 2."
+ ],
+ "notas": [
+  "Gran parte del texto repite el plan de desarrollo del cantón, no propuestas nuevas.",
+  "Casi no hay costos: las fuentes de dinero figuran como \"por definir\" y el plan no dice cuánto costará cada obra."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "paginas": 18
+}

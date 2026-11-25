@@ -1,0 +1,108 @@
+{
+ "enfoque": "Propone parques, ferias, mingas, reciclaje y alarmas vecinales. Está escrito para presidente parroquial y no dice costos ni plazos.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Recuperar y mejorar parques, canchas y áreas comunales.",
+    "que": "Serían lugares seguros para que los vecinos se encuentren. El plan no dice dónde, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca a la junta: parques y espacios de la parroquia.",
+    "cita": "Recuperar y mejorar parques, espacios recreativos, canchas deportivas y áreas comunales como lugares seguros de encuentro ciudadano",
+    "pag": 2
+   }
+  ],
+  "economia": [
+   {
+    "t": "Buscar lugares fijos para ferias de productos, artesanía, agrícolas y comida.",
+    "que": "Ferias productivas, artesanales, agrícolas y gastronómicas. El plan no dice dónde, cuánto cuesta ni cuándo.",
+    "v": "alta",
+    "n": "Hacer ferias es tarea de la junta, con poco presupuesto.",
+    "cita": "Gestionar espacios permanentes para la realización de ferias productivas, artesanales, agrícolas y gastronómicas",
+    "pag": 2
+   },
+   {
+    "t": "Apoyar a pequeños productores agrícolas con cursos y venta de sus productos.",
+    "que": "Cursos de capacitación y acceso a nuevas formas de vender. El plan no dice cuántos productores, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Apoyar productores y dar cursos sí le toca a la junta.",
+    "cita": "Apoyar a pequeños productores agricolas mediante programas de capacitación y acceso a nuevas oportunidades de comercialización",
+    "pag": 3
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer programas para reciclar y separar la basura.",
+    "que": "Separar la basura y reusar materiales (lo que el plan llama residuos sólidos). El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Recoger la basura le toca al Municipio; la junta organiza programas.",
+    "cita": "Promover programas de reciclaje, clasificación de residuos sólidos y economía circular",
+    "pag": 3
+   },
+   {
+    "t": "Gestionar proyectos para plantar árboles y recuperar quebradas.",
+    "que": "Reforestar, recuperar quebradas, áreas verdes y espacios naturales. El plan no dice cuántos árboles, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Obras grandes requieren acuerdo con el Municipio o la Prefectura.",
+    "cita": "Gestionar proyectos de reforestación y recuperación de quebradas, áreas verdes y espacios naturales",
+    "pag": 3
+   },
+   {
+    "t": "Apoyar las mingas comunitarias, trabajos hechos entre vecinos.",
+    "que": "Trabajos comunitarios donde los vecinos participan en el cuidado de su zona. El plan no dice qué trabajos ni cuándo.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta.",
+    "cita": "Fortalecer las mingas comunitarias como mecanismo de corresponsabilidad ciudadana",
+    "pag": 3
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Organizar redes de vecinos y alarmas comunitarias en los barrios.",
+    "que": "Alarmas comunitarias, cámaras de videovigilancia y redes de apoyo entre vecinos. El plan no dice cuánto cuestan ni quién paga las cámaras.",
+    "v": "media",
+    "n": "Organizar vecinos sí; las cámaras cuestan y la policía no es de la junta.",
+    "cita": "Impulsar la instalación y fortalecimiento de sistemas de alarmas comunitarias, cámaras de videovigilancia y redes de apoyo vecinal",
+    "pag": 2
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Pedir a la Prefectura ayuda para proyectos de caminos rurales.",
+    "que": "Trabajar con la Prefectura de Pichincha en caminos rurales. El plan no dice qué caminos, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca a la junta junto con la Prefectura.",
+    "cita": "El Gobierno Autónomo Descentralizado de la Provincia de Pichincha, para fortalecer proyectos de desarrollo productivo, vialidad rural",
+    "pag": 5
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Informar de forma permanente sobre la gestión y el dinero de la junta.",
+    "que": "Dar información pública y rendir cuentas de forma permanente. El plan no dice cómo ni cuándo.",
+    "v": "alta",
+    "n": "Informar sobre su propio trabajo sí le toca a la junta.",
+    "cita": "Implementar mecanismos permanentes de transparencia, acceso a la información pública y rendición de cuentas",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [
+  "Periodo del plan: 2027 a 2031."
+ ],
+ "notas": [
+  "El plan dice ser para presidente parroquial, no para vocal. Casi no dice cuánto cuesta ni cuándo se haría cada cosa.",
+  "Incluye temas que no son de la junta, como agua y coordinación con la Policía. Esos dependen de otros niveles."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "paginas": 8
+}

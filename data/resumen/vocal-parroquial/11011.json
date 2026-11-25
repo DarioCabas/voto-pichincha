@@ -1,0 +1,110 @@
+{
+ "enfoque": "Plan de vocales de Cotogchoa: caminos rurales con la Prefectura, prevención de riesgos, apoyo a productores, cuidado del ambiente y organización comunitaria. No dice cuánto costará.",
+ "tabla": {
+  "seguridad": [
+   {
+    "t": "Organizar a la comunidad para prevenir riesgos y prepararse ante emergencias.",
+    "que": "El plan menciona mapa de riesgos, comités comunitarios y simulacros. Dice que no reemplaza a la Policía ni a Bomberos. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta: organizar a la comunidad. No sustituye a Policía ni Bomberos.",
+    "cita": "Coordinar prevención comunitaria y preparación ante riesgos, sin sustituir a Policia, Bomberos ni al ente rector.",
+    "pag": 8
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Planificar y mantener caminos vecinales junto con la Prefectura.",
+    "que": "Se hará junto con la Prefectura de Pichincha, con planificación y mantenimiento de la vialidad rural. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Planificar y mantener, coordinadamente con el GAD Provincial, la vialidad parroquial rural y gestionar conectividad segura.",
+    "pag": 8
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Planificar, construir y mantener espacios públicos, equipamientos e infraestructura de la parroquia.",
+    "que": "Solo se harán obras incluidas en la planificación y el presupuesto participativo. Las obras grandes dependen de estudios, permisos y convenios. El plan no fija montos.",
+    "v": "media",
+    "n": "Obras grandes necesitan estudios y convenios. El plan no dice cuánto costarán.",
+    "cita": "Planificar, construir y mantener infraestructura, equipamientos y espacios públicos parroquiales incluidos en planificación y presupuesto participativo,",
+    "pag": 8
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar a productores con asistencia técnica, ferias y ventas a mercados.",
+    "que": "El plan habla de asistencia técnica, ferias y acceso a mercados para productores y emprendedores. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta: ferias y apoyo a productores. El plan no dice cuánto costará.",
+    "cita": "Incentivar actividades productivas comunitarias y fortalecer asociatividad y acceso a mercados,",
+    "pag": 8
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Cuidar la biodiversidad y el ambiente junto con la comunidad.",
+    "que": "El plan habla de proteger quebradas y zonas de recarga, y del paisaje rural. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta: organizar a la comunidad y cuidar el ambiente.",
+    "cita": "Incentivar preservación de biodiversidad, protección ambiental y coresponsabilidad comunitaria.",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar a la comunidad y apoyar la inclusión, la identidad y el turismo sostenible.",
+    "que": "El plan habla de atender a grupos de atención prioritaria, jóvenes e identidad, y de turismo rural de cercanía. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta: organizar a la comunidad. El plan no dice cuánto costará.",
+    "cita": "Promover organización social, inclusión comunitaria, identidad y turismo sostenible dentro de las competencias parroquiales.",
+    "pag": 8
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Atender a vecinos en persona y por internet, con registro y respuesta.",
+    "que": "Cada pedido se anotará, se derivará a la institución que corresponda y tendrá respuesta. Es de atención permanente. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta. El plan no dice cuánto costará.",
+    "cita": "Atención ciudadana Canales presenciales y digitales: registro, derivación y respuesta.",
+    "pag": 12
+   },
+   {
+    "t": "Presentar avances a los vecinos en asambleas y rendir cuentas cada año.",
+    "que": "Informes cada seis meses y al menos dos asambleas parroquiales por año. Rendición de cuentas una vez al año. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta: son reuniones e informes del mismo cargo.",
+    "cita": "Informe de gestión Resultados, dificultades, medidas correctivas y evidencia",
+    "pag": 12
+   }
+  ]
+ },
+ "metas": [
+  "Asambleas parroquiales: 2 por año.",
+  "Informe de gestión cada seis meses.",
+  "Rendición de cuentas una vez al año.",
+  "Seguimiento de convenios cada tres meses.",
+  "Evaluación final del plan en 2031."
+ ],
+ "notas": [
+  "La certificación (pág. 3) dice 'candidatura a la Alcaldía', no vocales de la junta. Revisar antes de votar.",
+  "La tabla de metas (págs. 9-10) está muy dañada por el escaneo; costos y plazos por obra no se pudieron leer bien."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "paginas": 12
+}

@@ -1,0 +1,117 @@
+{
+ "enfoque": "Pedir cuentas al gobierno de la parroquia, pedir convenios de cursos para emprendedores y organizar campañas de árboles y basura en el llaló y quebradas.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Organizar campañas para sembrar árboles en el llaló y manejar la basura en las quebradas.",
+    "que": "Campañas de reforestación en los flancos del llaló (cerro) y de manejo de basura en quebradas, junto con el Municipio de Quito y el Ministerio del Ambiente. El plan no dice cuándo ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita coordinar con el Municipio y el Ministerio del Ambiente.",
+    "cita": "Impulso a campañas de reforestación en los flancos del llaló y de manejo de desechos en las quebradas",
+    "pag": 4
+   }
+  ],
+  "economia": [
+   {
+    "t": "Presentar un acuerdo para pedir cursos y dinero a emprendedores con SECAP, ConQuito y universidades.",
+    "que": "La junta llevaría un acuerdo para pedir convenios de capacitación y financiamiento a emprendedores. El plan no dice cuánto dinero habrá ni cuántos emprendedores se beneficiarán.",
+    "v": "media",
+    "n": "Depende de otras instituciones. El plan no dice cuánto costará.",
+    "cita": "Iniciativa de acuerdo para la gestión de convenios de capacitación y financiamiento para emprendedores",
+    "pag": 4
+   },
+   {
+    "t": "Pedir que se termine el registro (catastro) de lugares turísticos y de comida de la parroquia.",
+    "que": "Terminar el registro de lugares turísticos y gastronómicos para promocionar el Chaquiñán, el patrimonio cultural y las bioferias ya existentes. El plan no dice quién lo hará ni cuándo.",
+    "v": "media",
+    "n": "Necesita que una entidad lo haga. El plan no dice quién ni cuándo.",
+    "cita": "Impulso a la conclusión del catastro turístico y gastronómico de la parroquia, para fortalecer la promoción",
+    "pag": 4
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Pedir informes periódicos al gobierno de la parroquia sobre sus obras y planes.",
+    "que": "Pedir informes sobre la ejecución del plan anual de trabajo (POA) y del plan de desarrollo de la parroquia (PDOT). El plan no dice cada cuánto se pedirán.",
+    "v": "alta",
+    "n": "Es tarea de la junta. El plan no habla de costos.",
+    "cita": "Pedido periódico de informes de ejecución del POA y del PDOT parroquial al ejecutivo parroquial",
+    "pag": 3
+   },
+   {
+    "t": "Publicar un informe que compare lo presupuestado con lo gastado de la parroquia.",
+    "que": "El plan dice que el informe se publicará de forma periódica. El plan no dice cada cuánto ni en qué medio se publicará.",
+    "v": "alta",
+    "n": "Lo puede hacer la junta. El plan no habla de costos.",
+    "cita": "Publicación periódica de un informe comparado de lo presupuestado frente a lo efectivamente ejecutado",
+    "pag": 4
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Dar seguimiento a los proyectos viales pendientes de la parroquia, como la vía Polígono de Tiro-Chuspiyácu.",
+    "que": "Pedir que se cumpla lo pendiente en el plan de la parroquia: la vía Polígono de Tiro-Chuspiyácu y las veredas (pasos peatonales). El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Va junto con la Prefectura. El plan no dice quién pone el dinero.",
+    "cita": "Seguimiento al cumplimiento de los proyectos viales identificados como pendientes en el PDOT vigente",
+    "pag": 4
+   },
+   {
+    "t": "Presentar en la junta un acuerdo para arreglar caminos rurales pendientes con el Consejo Provincial.",
+    "que": "Llevar a la junta un acuerdo para el mantenimiento de caminos rurales pendientes, en coordinación con el Consejo Provincial de Pichincha. El plan no dice qué caminos ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Consejo Provincial. El plan no dice plazos.",
+    "cita": "Presentar iniciativas de acuerdo para el mantenimiento de la vialidad rural pendiente, en coordinación con el Consejo Provincial de Pichincha",
+    "pag": 3
+   }
+  ],
+  "otros": [
+   {
+    "t": "Convocar reuniones periódicas de la comisión de emergencias para prevenir incendios y deslizamientos.",
+    "que": "Reunir a la comisión de emergencias de la parroquia, con Policía, Bomberos y el MSP (ministerio de salud), para prevenir incendios en el llaló y deslizamientos en época de lluvias. El plan no dice cada cuánto.",
+    "v": "media",
+    "n": "Necesita que Policía, Bomberos y MSP asistan. El plan no dice cada cuánto.",
+    "cita": "Convocatoria periódica de la Comisión Parroquial de Emergencias (COPAE), con participación de la Policía",
+    "pag": 4
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Dar seguimiento al plan de la parroquia sobre alcantarillado y alumbrado público.",
+    "que": "La junta vigilaría la parte del plan de la parroquia sobre alcantarillado y alumbrado público. El plan no dice quién hará las obras, cuánto costarán ni cuándo.",
+    "v": "media",
+    "n": "Solo puede vigilar. El plan no dice quién hace las obras.",
+    "cita": "Seguimiento a la actualización del PDOT parroquial en su componente de servicios básicos",
+    "pag": 2
+   }
+  ],
+  "social": [
+   {
+    "t": "Pedir convenios con el MIES (ministerio de ayuda social) y el Consejo Provincial para grupos prioritarios.",
+    "que": "Llevar a la junta un acuerdo para fortalecer convenios con el MIES y el Consejo Provincial para atender grupos prioritarios. El plan no dice qué grupos ni cuánta gente se beneficiará.",
+    "v": "media",
+    "n": "Necesita acuerdo con el MIES y el Consejo Provincial.",
+    "cita": "Iniciativa de acuerdo para fortalecer los convenios con el MIES y el Consejo Provincial de Pichincha para la atención de grupos prioritarios",
+    "pag": 4
+   }
+  ]
+ },
+ "metas": [
+  "Plan para el período 2027-2031, es decir, cuatro años.",
+  "Rendición de cuentas anual ante la ciudadanía, en asambleas ciudadanas."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Es el plan de toda la lista 3, no de una sola persona. Su diagnóstico copia partes del plan de desarrollo de la parroquia."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "paginas": 6
+}

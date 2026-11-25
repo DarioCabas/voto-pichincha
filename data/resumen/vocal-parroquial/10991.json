@@ -1,0 +1,128 @@
+{
+ "enfoque": "Propone mingas, ferias, talleres, deporte y cuidado del ambiente en la parroquia. Varias obras grandes y temas de policía no le tocan a la junta.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Sembrar árboles nativos en las orillas de ríos y quebradas.",
+    "que": "Habrá talleres de cómo plantar y se sembrará con mingas. Hará monitoreo durante 2 años. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Son trabajos comunitarios que la junta puede organizar.",
+    "cita": "Sembrar los árboles mediante mingas y mantener monitoreo durante 2 años.",
+    "pag": 9
+   },
+   {
+    "t": "Dar talleres y campañas para evitar la quema de vegetación.",
+    "que": "Se explicará a la población las causas y consecuencias de la quema y los incendios. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Son talleres y campañas que la junta puede hacer.",
+    "cita": "TALLERES para evitar quemar y mejorar el suelo.",
+    "pag": 9
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer mingas para limpiar canchas, parques y áreas verdes.",
+    "que": "Vecinos trabajan juntos en la limpieza y el mantenimiento de canchas, parques y áreas verdes. El plan no dice cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "Las mingas las puede organizar la junta.",
+    "cita": "Mingas de limpieza y mantenimiento de canchas, parques, áreas verdes",
+    "pag": 11
+   },
+   {
+    "t": "Dar talleres gratis de danza, fútbol y música.",
+    "que": "Los talleres son para niños, niñas y jóvenes. El plan no dice dónde ni cuándo se darán ni cuánto costarán.",
+    "v": "alta",
+    "n": "Los talleres son de tipo que la junta puede organizar.",
+    "cita": "Implementar talleres de danza, fuibol y música gratuitos",
+    "pag": 12
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer una feria semanal para vender productos y artesanías.",
+    "que": "La feria mostrará textiles, manufacturas, artesanías e itinerarios turísticos de la parroquia. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Las ferias son de tipo que la junta puede organizar.",
+    "cita": "una feria senanal donde se exponga todos los productos elaborados textiles, manufacturas, artesanías",
+    "pag": 7
+   },
+   {
+    "t": "Volver a dar talleres de emprendimiento para mujeres.",
+    "que": "Los talleres buscan dar conocimientos y habilidades a las mujeres. El plan no dice cuándo se harán ni cuánto costarán.",
+    "v": "alta",
+    "n": "Los cursos son de tipo que la junta puede organizar.",
+    "cita": "Reactivar talleres de emprendimiento y de formación continua.",
+    "pag": 12
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Pavimentar o adoquinar vías que llevan al casco parroquial.",
+    "que": "Se da prioridad a las vías secundarias que conectan el casco con La Toglla, Rumiloma y Soria-Loma. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Es obra grande. Necesita acuerdo con la Prefectura o el Municipio.",
+    "cita": "Pavimentación y/o adoquinado priorizado en las vías secundarias que conectan el casco parroquial",
+    "pag": 8
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Instalar o reparar luces en parques, como el parque central.",
+    "que": "Se busca quitar zonas oscuras en parques, paradas de bus y canchas. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio. El plan no dice cuánto costará.",
+    "cita": "Instalar 0 reparar luminarias en parques (como el parque central de Guangopolo)",
+    "pag": 9
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Pedir más policías permanentes en la parroquia.",
+    "que": "El plan pide que haya presencia constante de policías en la parroquia. El plan no dice cómo se logrará.",
+    "v": "baja",
+    "n": "Le toca a la Policía, no a la junta.",
+    "cita": "Solicitar le presencia constante de elementos policiales en nuestra parroquia",
+    "pag": 8
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una asamblea pública al año para rendir cuentas.",
+    "que": "En la asamblea se informará sobre el plan, las obras y el presupuesto. El plan no dice dónde ni cuándo se hará.",
+    "v": "alta",
+    "n": "Es una reunión que la junta puede organizar.",
+    "cita": "Realizar al menos una asamblea pública anual para informar sobre el cumplimiento del",
+    "pag": 13
+   }
+  ]
+ },
+ "metas": [
+  "Monitoreo de los árboles sembrados durante 2 años.",
+  "Una asamblea pública de rendición de cuentas al año.",
+  "Informes semestrales o trimestrales sobre avances y presupuesto.",
+  "Una feria semanal de productos y artesanías."
+ ],
+ "notas": [
+  "Parte del texto parece copiado de un plan de ordenamiento de la parroquia. Mezcla temas de Policía, Municipio y Ministerio.",
+  "Casi ninguna propuesta dice cuánto costará ni de dónde saldría el dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15
+ ],
+ "paginas": 15
+}

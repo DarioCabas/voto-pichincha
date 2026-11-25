@@ -1,0 +1,117 @@
+{
+ "enfoque": "Plan general: agua, basura, calles, ferias, espacios deportivos y prevención de riesgos. No nombra obras concretas ni costos.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Mantener y ampliar poco a poco el agua potable y el saneamiento.",
+    "que": "Se hará en sectores con falta de cobertura y donde crezca la población. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "fortalecer, mantener y ampliar progresivamente la infraestructura existente,",
+    "pag": 1
+   },
+   {
+    "t": "Promover la reducción, clasificación y reciclaje de la basura.",
+    "que": "El plan habla de reciclar y disponer bien de los desechos. No dice en qué lugares ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "promoviendo la reducción, clasificación, reciclaje y disposición responsable de loz",
+    "pag": 1
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Mejorar la conexión hacia los sectores rurales, junto con otras instituciones.",
+    "que": "El plan dice que lo hará con coordinación con otras instituciones. No dice qué caminos ni cuándo.",
+    "v": "media",
+    "n": "Depende de otras instituciones. El plan no dice qué caminos.",
+    "cita": "contribuir al mejoramiento de la conectividad hacia los diferentes",
+    "pag": 1
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar y mantener las calles urbanas del cantón.",
+    "que": "El plan no dice qué calles, ni cuánto costará, ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué calles se arreglarán.",
+    "cita": "continuar con el mejoramiento y mantenimiento de la infraestructura vial urbana y,",
+    "pag": 1
+   },
+   {
+    "t": "Ordenar el crecimiento urbano y rural y controlar el uso del suelo.",
+    "que": "El plan habla de controlar el uso del suelo y de actualizar los planes de ordenamiento. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: el uso del suelo es su competencia.",
+    "cita": "consolidar una ocupación ordenada del territorio, fortalecer el control del uso",
+    "pag": 1
+   },
+   {
+    "t": "Mantener y mejorar los espacios deportivos, recreativos y comunitarios.",
+    "que": "El plan no dice qué espacios ni cuánto costará. Habla de mantenimiento permanente.",
+    "v": "alta",
+    "n": "Le toca al Municipio: parques y espacios públicos.",
+    "cita": "La infraestructura deportiva, recreativa y comunitaria requiera mantenimiento y",
+    "pag": 2
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar espacios de venta, ferias y capacitación a productores y comerciantes.",
+    "que": "El plan habla de espacios de venta, promoción y capacitación. No dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Los mercados sí son del Municipio; la capacitación depende de otras entidades.",
+    "cita": "infraestructura, espacios de comercialización, promoción territorial, capacitación y",
+    "pag": 2
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar en la web el presupuesto, las compras, las obras y las ordenanzas.",
+    "que": "El plan dice que tendrá una página con información actualizada. No dice cuándo estará lista.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Es información de su propia gestión.",
+    "cita": "actualizada sobre presupuesto, contratación pública, proyectos, obras, resoluciones,",
+    "pag": 5
+   },
+   {
+    "t": "Rendir cuentas cada año y dar informes cada seis meses.",
+    "que": "Explicará metas, obras, presupuesto usado y cumplimiento del plan. El plan no dice cómo ni dónde.",
+    "v": "alta",
+    "n": "Le toca al Municipio informar sobre su propia gestión.",
+    "cita": "Informes semestrales de avance. Se elaborarán informes sobre el avance físico y",
+    "pag": 5
+   }
+  ],
+  "otros": [
+   {
+    "t": "Prevenir incendios, deslizamientos y sequías con planes y preparación comunitaria.",
+    "que": "El plan habla de planificar, coordinar con otras instituciones y preparar a la comunidad. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio; prevenir desastres está en sus competencias.",
+    "cita": "Fortalecer la prevención y gestión de riesgos, mediente planificación,",
+    "pag": 2
+   }
+  ]
+ },
+ "metas": [
+  "Año 1 (2027-2028): evaluar servicios, proyectos e infraestructura del Municipio y hacer estudios.",
+  "Año 2 (2028-2029): ejecutar proyectos de servicios básicos, calles, espacios públicos, producción, turismo, deporte y atención social.",
+  "Año 4 (2030-2031): terminar proyectos estratégicos y dar mantenimiento a la infraestructura.",
+  "Informes de avance cada seis meses y rendición de cuentas cada año, durante 2027-2031."
+ ],
+ "notas": [
+  "El plan no pone costos ni cifras de obras y dice que muchas cosas dependen de convenios con otras entidades.",
+  "El plan es general: no nombra calles, sectores ni obras. Temas sociales y turismo no están entre las competencias del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "paginas": 6
+}

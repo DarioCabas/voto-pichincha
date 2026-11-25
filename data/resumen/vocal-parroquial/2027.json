@@ -1,0 +1,122 @@
+{
+ "enfoque": "Plan copiado en gran parte del plan de la ciudad: reciclaje, parques y canchas, ferias y turismo comunitario en Ambuela. No dice cuánto cuesta.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Poner 20 recipientes para reciclar en lugares clave de Perucho.",
+    "que": "En el año 1 se instalan 20 recipientes reciclados en puntos estratégicos. El plan no dice cuánto cuesta ni quién los paga.",
+    "v": "alta",
+    "n": "Cuidar el ambiente es tarea de la junta. El plan no dice cuánto cuesta.",
+    "cita": "instalación de 20 recipientes reciclados en puntos estratégicos de la parroquia de Perucho.",
+    "pag": 4
+   },
+   {
+    "t": "Poner estaciones ecológicas en parques, escuelas, casa comunal y espacios públicos.",
+    "que": "El plan no dice cuánto costarán ni cuándo se harán. Tampoco dice quién pone el dinero.",
+    "v": "media",
+    "n": "Las escuelas no son de la junta. Necesita acuerdo con quien las maneja.",
+    "cita": "Instalar estaciones ecológicas en parques, escuelas, casa comunal y espacios públicos.",
+    "pag": 4
+   },
+   {
+    "t": "Organizar mingas para limpiar parques y espacios públicos.",
+    "que": "Son trabajos de limpieza hechos con la comunidad. El plan no dice cuántas mingas habrá ni cuánto costarán.",
+    "v": "alta",
+    "n": "Las mingas son trabajo comunitario que la junta puede organizar.",
+    "cita": "Organizar mingas ambientales para la limpieza de espacios públicos.",
+    "pag": 4
+   }
+  ],
+  "social": [
+   {
+    "t": "Arreglar los parques y canchas priorizados durante los cuatro años.",
+    "que": "Dice que se intervendrá el 100 % de los parques priorizados y escenarios deportivos, con mantenimiento y equipos. El plan no dice cuánto cuesta.",
+    "v": "media",
+    "n": "Obras grandes con apoyo de Prefectura y Municipio. El plan no dice cómo se pagan.",
+    "cita": "Intervenir el 100 % de los parques priorizados y escenarios deportivos de la parroquia durante el período de gestión",
+    "pag": 7
+   },
+   {
+    "t": "Arreglar canchas, cerramientos, graderíos, iluminación y mobiliario deportivo.",
+    "que": "Mantenimiento de canchas, cerramientos, graderíos, iluminación y mobiliario en escenarios comunitarios. El plan no dice cuánto cuesta ni cuándo.",
+    "v": "media",
+    "n": "Iluminación y graderíos son obras grandes. La Prefectura cofinanciaría.",
+    "cita": "Mejorar y equipar los escenarios deportivos comunitarios mediante el mantenimiento de canchas, cerramientos, graderíos, iluminación y mobiliario deportivo.",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir o adecuar un bulevar para emprendedores y ferias.",
+    "que": "Es una obra grande y el plan no dice dónde ni cuánto cuesta. Tampoco dice cómo se pagará.",
+    "v": "baja",
+    "n": "Obra grande, le toca más al Municipio. El plan no dice cuánto cuesta.",
+    "cita": "Construir o adecuar un bulevar para emprendedores y ferias agroproductivas.",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias de productos del campo, comida y artesanías los fines de semana.",
+    "que": "Se hacen durante fines de semana y feriados. El plan no dice cuánto cuesta ni dónde se harán.",
+    "v": "alta",
+    "n": "Organizar ferias es tarea de la junta. El plan no dice cuánto cuesta.",
+    "cita": "Organizar ferias agroproductivas, gastronómicas y artesanales durante fines de semana y feriados.",
+    "pag": 5
+   },
+   {
+    "t": "Crear un restaurante y un alojamiento comunitarios en Ambuela.",
+    "que": "Primero capacitar a la gente, luego gestionar la construcción. Los habitantes de Ambuela los administrarían. El plan no dice cuánto cuesta.",
+    "v": "baja",
+    "n": "Obra grande y de largo plazo. El plan no dice de dónde sale el dinero.",
+    "cita": "La propuesta contempla la creación progresiva de un restaurante comunitario y un alojamiento u hotel comunitario",
+    "pag": 5
+   },
+   {
+    "t": "Crear una plataforma en internet para vender productos de la parroquia.",
+    "que": "Busca incluir 30 emprendimientos con permisos legales. El plan no dice cuánto cuesta ni quién la mantendrá.",
+    "v": "media",
+    "n": "Necesita apoyo de la Secretaría de Desarrollo Económico del Municipio.",
+    "cita": "Implementar una plataforma digital para la promoción y comercialización de productos y servicios de la parroquia.",
+    "pag": 7
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas cada tres meses en barrios y comunas.",
+    "que": "Se hacen en los barrios y comunas, para que la gente no tenga que trasladarse. El plan no dice cuánto cuesta.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es tarea de la junta.",
+    "cita": "Se institucionalizará la convocatoria trimestral a Asambleas de carácter itinerante en los diferentes barrios y comunas de la jurisdicción rural.",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Instalar 20 recipientes reciclados en puntos estratégicos (año 1).",
+  "Realizar 4 campañas de concientización (año 1).",
+  "Intervenir el 100 % de los parques priorizados y escenarios deportivos durante la gestión.",
+  "Acompañar a 20 emprendedores en permisos y documentos legales.",
+  "Implementar una plataforma digital con al menos 30 emprendimientos formalizados."
+ ],
+ "notas": [
+  "Gran parte del texto está copiado del plan de la ciudad: menciona Pifo, Calderón y el relleno de El Inga, no datos de Perucho.",
+  "El plan casi no dice cuánto costará cada obra ni de dónde saldrá el dinero. Agua y alcantarillado no son de la junta."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "paginas": 12
+}

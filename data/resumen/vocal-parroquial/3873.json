@@ -1,0 +1,145 @@
+{
+ "enfoque": "Arreglar vías con mingas, capacitar productores, reforestar vertientes, ordenar el mercado y hacer eventos culturales y asambleas barriales. Varias partes son generales y copiadas de leyes.",
+ "tabla": {
+  "economia": [
+   {
+    "t": "Crear una unidad dentro de la junta para administrar recursos de espacios públicos y cooperación privada.",
+    "que": "Usaría dinero de espacios públicos y de empresas privadas para mejorar esos mismos espacios. El plan no dice cuánto costará ni cuándo empezará.",
+    "v": "media",
+    "n": "Necesita convenios con empresas privadas. El plan no dice cuánto dinero habrá.",
+    "cita": "Crear una Unidad de Gestión de Proyectos dentro de la Junta Parroquial para administrar recursos provenientes de espacios públicos",
+    "pag": 16
+   },
+   {
+    "t": "Tecnificar la producción agrícola y ganadera y armar una ruta gastronómica y turística en Alóag.",
+    "que": "Haría un censo de productores, los capacitaría y pondría paraderos gastronómicos en la vía principal. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Los paraderos en la vía principal pueden requerir acuerdo con el Municipio.",
+    "cita": "Tecnificar la producción agrícola/ganadera local y estructurar un circuito turístico-gastronómico aprovechando la ubicación de Alóag",
+    "pag": 17
+   },
+   {
+    "t": "Dar capacitación y asistencia técnica a productores y emprendedores de la parroquia.",
+    "que": "La meta es capacitar a 50 productores y emprendedores. Primero harían un estudio de necesidades. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Son cursos y asesoría, algo que la junta sí puede organizar.",
+    "cita": "Implementar un programa de capacitación y asistencia técnica dirigido a productores y emprendedores de la parroquia de Alóag",
+    "pag": 18
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar vías parroquiales con mingas y maquinaria de la Prefectura, la junta y el Municipio.",
+    "que": "Arreglarían tramos críticos con mingas, nueva capa de la calzada y drenajes, primero las vías por donde salen los productos. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita apoyo de la Prefectura y del Municipio con maquinaria.",
+    "cita": "Intervención integral de las arterias viales urbanas y rurales mediante la implementación de mingas comunitarias respaldadas con maquinaria del GAD provincial",
+    "pag": 16
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Reforestar con plantas nativas las vertientes de agua y crear una veeduría ambiental ciudadana.",
+    "que": "Harían 10 talleres y jornadas de reforestación hasta 2031, con inspecciones junto a la Autoridad Ambiental. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Cuidar el ambiente y organizar a la comunidad sí es competencia de la junta.",
+    "cita": "Ejecutar un plan de reforestación con especies nativas en vertientes de agua y conformar un sistema de veeduría ambiental ciudadana",
+    "pag": 19
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Adecuar el mercado de Alóag con puestos semifijos, baños y servicios básicos para comerciantes.",
+    "que": "Incluye un censo de comerciantes informales y un carné para ellos. Meta: 5 proyectos. El plan no dice cuánto costará ni quién pagará.",
+    "v": "media",
+    "n": "Ordenar el espacio público necesita acuerdo con el Municipio de Mejía.",
+    "cita": "Adecuación del mercado de Alóag de emprendimientos dotado de módulos semifijos, baterías sanitarias y servicios básicos",
+    "pag": 20
+   }
+  ],
+  "social": [
+   {
+    "t": "Arreglar parques, coliseos y canchas para deporte y actividades de salud comunitaria.",
+    "que": "Meta: 8 espacios, 2 por año entre 2028 y 2031. Usarían convenios con los ministerios de salud y educación. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Los parques y canchas sí; los convenios con ministerios dependen de otras entidades.",
+    "cita": "Recuperar parques, coliseos y canchas comunitarias, acondicionados como centros integrales para la salud comunitaria y el deporte",
+    "pag": 21
+   },
+   {
+    "t": "Organizar festivales, ferias y talleres culturales en la parroquia.",
+    "que": "Meta: 25 eventos culturales entre 2027 y 2031, unos 5 por año. Se harían con escuelas y organizaciones. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar ferias y eventos es trabajo de la junta con la comunidad.",
+    "cita": "Organizar festivales, ferias, talleres y programas educativos con participación de instituciones y organizaciones comunitarias",
+    "pag": 22
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas comunitarias y mesas de trabajo con los barrios.",
+    "que": "Meta: una asamblea cada tres meses y mesas en todos los barrios. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta.",
+    "cita": "Realizar asambleas comunitarias, mesas de trabajo y procesos de participación con organizaciones sociales y barriales",
+    "pag": 22
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Dar atención en el centro médico parroquial las 24 horas, con insumos permanentes.",
+    "que": "El plan propone convenios y autogestión para el centro médico. El plan no dice cuánto costará ni cómo se pagará.",
+    "v": "baja",
+    "n": "La salud no le toca a la junta; es competencia de otras entidades.",
+    "cita": "Optimizar la gestión y operatividad del centro médico parroquial para garantizar una atención continua las 24 horas",
+    "pag": 23
+   }
+  ]
+ },
+ "metas": [
+  "15 proyectos de vías rehabilitadas al 2031: 3 en 2028, 4 en 2029, 4 en 2030 y 4 en 2031.",
+  "15 iniciativas productivas y turísticas al año 2031.",
+  "Capacitar y dar asistencia técnica a 50 productores y emprendedores.",
+  "25 eventos culturales entre 2027 y 2031.",
+  "8 espacios deportivos rehabilitados y equipados entre 2028 y 2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Parte del texto es general: cita leyes y metas internacionales. Salud y centro médico no son competencia de la junta."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31
+ ],
+ "paginas": 31
+}

@@ -1,0 +1,138 @@
+{
+ "enfoque": "Caminos, buses, río San Pedro, basura, deporte y seguridad. Varias obras son del Municipio o de ministerios; la junta solo puede gestionarlas.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Gestionar corredores viales que conecten la parroquia con la Av. Simón Bolívar y los cantones.",
+    "que": "El plan no dice cuánto costará ni cuándo. Se harían gestiones de dinero y técnicas en el Ministerio de Transporte y Obras Públicas y en la Agencia Metropolitana de Transporte.",
+    "v": "media",
+    "n": "Le toca al Ministerio de Transporte y a la agencia de transporte; la junta solo gestiona.",
+    "cita": "Gestionar la habilitación de corredores viales que conecten a la parroquia con la Av. Simón Bolívar y los cantones.",
+    "pag": 19
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Gestionar un proyecto de agua potable, alcantarillado y letrinas ecológicas.",
+    "que": "El plan no dice cuánto costará ni cuándo. Se pediría presupuesto al Municipio y a la empresa correspondiente.",
+    "v": "baja",
+    "n": "Agua y alcantarillado le tocan al Municipio o a la empresa, no a la junta.",
+    "cita": "Diseñar y gestionar el proyecto para dotación y mejoramiento del servicio de agua potable, alcantarillado y letrinas ecológicas.",
+    "pag": 17
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Controlar las descargas de aguas sucias al río San Pedro y a las quebradas.",
+    "que": "El plan no dice cuánto costará ni cuándo. Se pediría al Ministerio de Ambiente y Agua que controle las descargas contaminantes.",
+    "v": "media",
+    "n": "El control de descargas es del Ministerio; la junta solo lo gestiona.",
+    "cita": "Gestionar el control de descargas y emisiones contaminantes en el Ministerio de Ambiente y Agua.",
+    "pag": 22
+   },
+   {
+    "t": "Crear un programa de reciclaje, reuso y basureros ecológicos en la parroquia.",
+    "que": "El plan no dice cuánto costará ni cuándo. Incluye educación ambiental y entregar basureros ecológicos.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es tarea de la junta; el plan no dice quién paga los basureros.",
+    "cita": "Diseñar, ejecutar y evaluar el programa dirigido al reuso, reciclaje y reducción de los desechos generados en la parroquia,",
+    "pag": 17
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar campeonatos y actividades deportivas comunitarias y recreativas en la parroquia.",
+    "que": "El plan no dice cuánto costará ni cuándo. Incluye convenios con ligas deportivas barriales y organizaciones deportivas locales.",
+    "v": "alta",
+    "n": "Organizar campeonatos con la gente es tarea de la junta; el plan no dice el costo.",
+    "cita": "Diseñar, ejecutar y evaluar un proyecto para el fomento de actividades deportivas y recreacionales comunitarias(campeonatos)",
+    "pag": 17
+   },
+   {
+    "t": "Buscar dinero para construir una Casa de la Niñez y un Centro del Adulto Mayor.",
+    "que": "El plan no dice cuánto costará ni cuándo. Pide financiamiento al Ministerio de Inclusión Económica y Social (MIES) y a los gobiernos locales (GAD).",
+    "v": "media",
+    "n": "Construir necesita al Ministerio y al Municipio; la junta solo busca el dinero.",
+    "cita": "Gestiones para la consecución de financiamiento en el MIES y GADs.",
+    "pag": 18
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar cámaras, sirenas y megáfonos en los barrios, vigilados por los vecinos.",
+    "que": "El plan no dice cuánto costará ni cuándo. Los barrios los vigilarían. Se gestionaría dinero en el Municipio y el Ministerio del Interior.",
+    "v": "baja",
+    "n": "La seguridad y la policía no le tocan a la junta; el plan no dice cuánto cuestan las cámaras.",
+    "cita": "Implementar sistemas de cámaras, sirenas y megáfonos de disuasión para que sean monitoreados por los barrios.",
+    "pag": 18
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar cursos para crear emprendimientos o mejorar los negocios que ya existen.",
+    "que": "El plan no dice cuánto costará. Pide acuerdos y capacitación con los ministerios de Agricultura, Turismo y Trabajo.",
+    "v": "alta",
+    "n": "Los cursos los puede organizar la junta, con ayuda de los ministerios.",
+    "cita": "Desarrollar cursos de capacitación para emprendimientos o mejoramiento de los sistemas productivos existentes.",
+    "pag": 20
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas cada tres meses en barrios y comunas para rendir cuentas.",
+    "que": "El plan no dice cuánto costará. Las asambleas irían a cada barrio y comuna para no obligar a la gente a viajar.",
+    "v": "alta",
+    "n": "Reunir a los vecinos en sus barrios sí le toca a la junta.",
+    "cita": "Se Institucionalizará la convocatoria trimestral a Asambleas de carácter itinerante en los diferentes barrios",
+    "pag": 23
+   },
+   {
+    "t": "Decidir con delegados de los barrios cómo se gastan los fondos de obras de la junta.",
+    "que": "El plan no dice cuánto dinero es. Los fondos se aprobarían en reuniones públicas con delegados de barrios y comunidades.",
+    "v": "alta",
+    "n": "Le toca a la junta decidir su presupuesto; el monto no está en el plan.",
+    "cita": "los fondos asignados legalmente a la Junta Parroquial para proyectos de inversión será discutido",
+    "pag": 23
+   }
+  ]
+ },
+ "metas": [
+  "Asambleas de rendición de cuentas cada tres meses.",
+  "Plan de trabajo para 4 años, de 2027 a 2031.",
+  "Portal de internet con información de la junta cada trimestre."
+ ],
+ "notas": [
+  "Casi ninguna propuesta tiene costo. El plan no dice cuánto cuesta ni de dónde sale el dinero.",
+  "Muchas obras son del Municipio, de empresas o de ministerios; la junta solo puede gestionarlas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26
+ ],
+ "paginas": 26
+}

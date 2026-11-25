@@ -1,0 +1,111 @@
+{
+ "enfoque": "Plan para el cantón General Antonio Elizalde: agua, basura, calles, parques, mercado y control del suelo. No dice cuánto cuesta ni en qué barrios se hará.",
+ "tabla": {
+  "gobierno": [
+   {
+    "t": "Aplicar la silla vacía y el presupuesto participativo con los vecinos.",
+    "que": "Silla vacía: un asiento en las sesiones del concejo para que hable un ciudadano. El plan no dice cómo ni cuándo se aplicará.",
+    "v": "alta",
+    "n": "Le toca al alcalde junto con el concejo. El plan no dice cuándo.",
+    "cita": "Aplicar la Silla Vacía (art. 311 COOTAD) y el presupuesto participativo.",
+    "pag": 6
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Planificar y controlar el tránsito y el transporte terrestre dentro del cantón.",
+    "que": "Incluye poner señales, semáforos y pasos peatonales seguros. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice dónde ni en qué plazo.",
+    "cita": "Fortalecer la planificación y control del tránsito y transporte terrestre cantonal",
+    "pag": 5
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar un centro de cámaras de seguridad en zonas estratégicas.",
+    "que": "El plan no dice qué zonas ni cuánto costará. Dice que se coordinará con la Policía Nacional.",
+    "v": "baja",
+    "n": "La seguridad y la policía no le tocan al alcalde. El plan no dice cuánto costará.",
+    "cita": "Implementar un centro de videovigilancia y cámaras en zonas estratégicas.",
+    "pag": 6
+   },
+   {
+    "t": "Reforzar el Cuerpo de Bomberos y el sistema para prevenir desastres.",
+    "que": "El plan no dice qué cambios hará en bomberos ni cuánto costará. Prevenir desastres sí es tarea del Municipio.",
+    "v": "alta",
+    "n": "Le toca al Municipio (prevención de desastres). El plan no dice cuánto costará.",
+    "cita": "Fortalecer el Cuerpo de Bomberos y el sistema cantonal de gestión de riesgos.",
+    "pag": 6
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar agua potable y alcantarillado en sectores urbanos y rurales con falta de servicio.",
+    "que": "El plan no dice qué sectores ni cuánto costará. Tampoco dice en qué plazo se hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Ampliar la cobertura de agua potable y alcantarillado en los sectores urbanos y rurales con déficit.",
+    "pag": 4
+   },
+   {
+    "t": "Renovar los camiones recolectores de basura y ampliar el servicio.",
+    "que": "El plan no dice cuántos camiones ni en qué barrios. Tampoco dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta cuánto cuesta y en qué plazo.",
+    "cita": "Renovar el parque de recolectores y ampliar la cobertura del servicio.",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Remodelar el mercado municipal y el camal, el lugar donde se matan animales para carne.",
+    "que": "El plan no dice qué obras harán ni cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Remodelar y adecuar el mercado municipal y el camal.",
+    "pag": 5
+   },
+   {
+    "t": "Conseguir maquinaria para nivelar, adoquinar y asfaltar calles.",
+    "que": "El plan no dice qué calles ni cuánto costará. Solo dice que se gestionará la maquinaria.",
+    "v": "media",
+    "n": "Puede hacerlo, pero el plan no dice con qué dinero se compra.",
+    "cita": "Gestionar maquinaria para nivelación, adoquinado y asfaltado de calles.",
+    "pag": 5
+   },
+   {
+    "t": "Rehabilitar parques, canchas de uso múltiple y espacios recreativos.",
+    "que": "El plan no dice qué parques ni cuánto costará. Tampoco dice en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué parques ni cuándo.",
+    "cita": "Rehabilitar parques, canchas de uso múltiple y espacios recreativos.",
+    "pag": 5
+   },
+   {
+    "t": "Actualizar el plan de crecimiento del cantón y las reglas para usar el suelo.",
+    "que": "También regularizar, o dar papeles legales, a barrios ya formados. El plan no dice qué barrios ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará ni cuándo.",
+    "cita": "Actualizar el PDOT y las ordenanzas de uso y ocupación del suelo.",
+    "pag": 4
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra, de dónde saldrá el dinero ni en qué barrios se hará.",
+  "Parte del texto son leyes y frases generales. Muchas propuestas no dicen dónde ni cuándo."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "paginas": 7
+}

@@ -1,0 +1,130 @@
+{
+ "enfoque": "Propone estudios y ordenanzas sobre agua, basura y tránsito, y más luz en calles y parques. Casi no dice costos ni cómo se pagarán.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer un estudio técnico del estado de los caminos vecinales.",
+    "que": "Es para saber en qué estado están los caminos vecinales. Va en el programa de vialidad, de mayo de 2027 a mayo de 2031. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Caminos fuera de la ciudad pueden ser de la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Realizar un estudio técnico del estado de los caminos vecinales.",
+    "pag": 16
+   },
+   {
+    "t": "Establecer rutas alternativas y planes de circulación temporal.",
+    "que": "El plan no dice dónde ni cuándo se aplicarán. Va en el programa de vialidad, de mayo de 2027 a mayo de 2031. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Tránsito es competencia del Municipio. El plan no dice cuánto costará.",
+    "cita": "Establecer rutas alternativas y planes de circulación temporal.",
+    "pag": 16
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Hacer estudios para llevar agua potable a zonas que no la tienen.",
+    "que": "Los estudios son para ampliar el agua potable a las zonas más necesitadas. El plan no dice cuánto costará ni qué zonas son.",
+    "v": "alta",
+    "n": "El agua potable es del Municipio. El plan no dice cuánto costará.",
+    "cita": "Desarrollar los Estudios para la ampliación del servicio de agua potable para las zonas más necesitadas.",
+    "pag": 20
+   },
+   {
+    "t": "Presentar una ordenanza para cuidar el agua potable del cantón.",
+    "que": "Es un proyecto de ordenanza. El plan no dice qué regla pondrá ni cuánto costará. Va de mayo de 2027 a mayo de 2031.",
+    "v": "alta",
+    "n": "El alcalde presenta el proyecto al Concejo. El plan no dice cuánto costará.",
+    "cita": "Proyecto de Ordenanza Municipal para la Sustentabilidad del Agua Potable en el Cantón Lomas de Sargentillo",
+    "pag": 17
+   },
+   {
+    "t": "Ajustar el servicio de recolección de basura y desechos sólidos.",
+    "que": "El plan no dice qué cambios hará ni cuánto costará. Va en el programa de limpieza, de mayo de 2027 a mayo de 2031.",
+    "v": "alta",
+    "n": "La basura es competencia del Municipio. El plan no dice cuánto costará.",
+    "cita": "Optimizar y adecuar el servicio de recolección de desechos sólidos.",
+    "pag": 17
+   },
+   {
+    "t": "Crear una empresa de basura, o darla en concesión a privados.",
+    "que": "Concesión significa entregar el servicio a una empresa privada. El plan no dice cuánto costará ni cuándo se decidirá.",
+    "v": "alta",
+    "n": "Es una decisión del Municipio. El plan no dice cuánto costará.",
+    "cita": "Proyecto de ordenanza Municipal para la creación o concesión de una Empresa de Recolección de Basura",
+    "pag": 17
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear un centro para personas de atención prioritaria.",
+    "que": "El plan no dice dónde estará, cuánto costará ni cuándo abrirá. Va en el programa de atención social, de mayo de 2027 a mayo de 2031.",
+    "v": "alta",
+    "n": "Protección de grupos prioritarios es competencia municipal. El plan no dice cuánto costará.",
+    "cita": "Proyecto de Ordenanza Municipal para la Creación del Centro de Atención de Personas con Atención Prioritaria.",
+    "pag": 17
+   },
+   {
+    "t": "Hacer campañas médicas en zonas rurales para personas prioritarias.",
+    "que": "El plan no dice cuántas campañas habrá ni cuánto costarán. Va en el programa de atención prioritaria, de mayo de 2027 a mayo de 2031.",
+    "v": "baja",
+    "n": "La salud no le toca al Municipio, sino al Ministerio de Salud.",
+    "cita": "Campañas medicas en las zonas rurales para personas de atención prioritaria.",
+    "pag": 18
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Hacer operativos con la Policía, el 911 y los bomberos.",
+    "que": "El plan no dice cuándo ni cuánto costarán. La Policía es del Gobierno; el Municipio solo puede coordinar con ella.",
+    "v": "baja",
+    "n": "La Policía no le toca al Municipio, solo coordinar.",
+    "cita": "coordinar operativos conjuntos con policía nacional, ecu 911, bomberos y demás entidades competentes.",
+    "pag": 19
+   },
+   {
+    "t": "Poner más luz en calles, parques y sectores vulnerables.",
+    "que": "El plan no dice qué calles ni cuánto costará. Va en el programa de seguridad, de mayo de 2027 a mayo de 2031.",
+    "v": "alta",
+    "n": "Calles y parques son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Mejorar la iluminación de calles, parques y sectores vulnerables.",
+    "pag": 19
+   }
+  ]
+ },
+ "metas": [
+  "Gestión del 14 de mayo de 2027 al 13 de mayo de 2031.",
+  "Programas de vialidad, limpieza, agua, seguridad y bienestar: de mayo de 2027 a mayo de 2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Gran parte del texto copia leyes y noticias de 2014-2015. Salud y Policía no son del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25
+ ],
+ "paginas": 25
+}

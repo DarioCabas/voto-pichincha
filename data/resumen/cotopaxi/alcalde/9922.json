@@ -1,0 +1,147 @@
+{
+ "enfoque": "Calles, agua, alcantarillado, basura, mercados, parques y uso del suelo, con plazos 2027–2031. No dice cuánto costará cada obra ni de dónde saldrá el dinero.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Hacer un plan maestro de agua potable para 2027–2028.",
+    "que": "Es un plan técnico y financiero para cubrir más casas, mejorar la calidad y reducir pérdidas de agua. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero depende de estudios y capacidad de pago.",
+    "cita": "Contar con un instrumento técnico y financiero que programe cobertura, calidad, reducción de pérdidas y sostenibilidad",
+    "pag": 11
+   },
+   {
+    "t": "Separar la basura en origen, hacer compost y reciclar, y cerrar puntos críticos.",
+    "que": "Incluye recolección separada, compostaje y cierre técnico de puntos críticos, 2027–2031. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Competencia exclusiva del Municipio. El plan no dice el costo.",
+    "cita": "Separación en la fuente; recolección diferenciada; compostaje; reciclaje inclusivo; cierre técnico de puntos críticos",
+    "pag": 6
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar y señalizar las calles urbanas, con aceras y drenaje.",
+    "que": "Asfalto o adoquín en las calles que se prioricen, con aceras, drenaje y señales, 2027–2031. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Mejorar seguridad, accesibilidad, drenaje y estado funcional de la red vial urbana",
+    "pag": 13
+   },
+   {
+    "t": "Arreglar caminos rurales solo con convenio con la Prefectura.",
+    "que": "Se haría con convenios con la Prefectura de Cotopaxi y los GAD parroquiales (juntas parroquiales). El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca a la Prefectura; el Municipio solo ayuda por convenio.",
+    "cita": "Convenios con la Prefectura de Cotopaxi y GAD parroquiales; el GAD Municipal no sustituirá la competencia provincial",
+    "pag": 5
+   },
+   {
+    "t": "Hacer un plan de movilidad y ordenar las paradas de buses.",
+    "que": "Incluye paradas, señales, pasos peatonales y regulación de estacionamiento. El plan no dice cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "Competencia municipal de tránsito y buses.",
+    "cita": "Plan de movilidad; ordenamiento de paradas; señalización; pasos peatonales",
+    "pag": 13
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar, cuidar y hacer accesibles parques y plazas.",
+    "que": "Incluye mobiliario, árboles, accesibilidad y plan de mantenimiento, 2027–2031. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Competencia y función municipal, según el plan.",
+    "cita": "Parques, plazas, áreas verdes, mobiliario, accesibilidad, arborización, ordenanza de uso y plan de mantenimiento",
+    "pag": 20
+   },
+   {
+    "t": "Actualizar los planes de uso del suelo y el catastro de terrenos.",
+    "que": "Son los planes de ordenamiento (PDOT y PUGS) y el registro de terrenos. Plazo 2027–2029. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Competencia exclusiva del Municipio, con plazo declarado.",
+    "cita": "Actualizar y aplicar PDOT, PUGS, catastros y normativa de suelo",
+    "pag": 20
+   }
+  ],
+  "economia": [
+   {
+    "t": "Modernizar el mercado y las ferias del cantón.",
+    "que": "Incluye ordenanza de comercio, capacitación, permisos más simples y centros de acopio según estudios. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Los mercados y ferias son competencia municipal.",
+    "cita": "Modernización de mercados; ferias; centros de acopio sujetos a estudios; marca Hecho en Sigchos",
+    "pag": 35
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Iluminar y recuperar espacios públicos, y poner alarmas comunitarias.",
+    "que": "Incluye luz, cámaras con protección de datos y alarmas en comunidades. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "El Municipio pone luz y alarmas; la policía no es del Municipio.",
+    "cita": "Iluminación y recuperación de espacios; videovigilancia conforme a protección de datos; alarmas comunitarias",
+    "pag": 19
+   }
+  ]
+ },
+ "metas": [
+  "Plan maestro de agua potable: 2027–2028.",
+  "Actualizar planes de uso del suelo y catastro: 2027–2029.",
+  "Catastro actualizado y ventanilla única: 2027–2030.",
+  "Obras de calles, agua y espacios públicos: 2027–2031."
+ ],
+ "notas": [
+  "El plan no pone cifras ni costos. Dice que las metas numéricas se fijarán con datos de 2026.",
+  "Muchas obras dependen de crédito, convenios o estudios. Vialidad rural y seguridad pública no son competencia municipal."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46
+ ],
+ "paginas": 46
+}

@@ -1,0 +1,193 @@
+{
+ "enfoque": "Propone agua potable en la periferia, humedales para limpiar el Estero Salado, parques con actividades, casas en el centro y cultura de paz. Varias metas dependen de otros.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Unir las ciclovías con corredores verdes de sombra.",
+    "que": "El plan fija 120 km de ciclovías al 2031 y 32 millones de dólares para ciclovías segregadas. No dice cómo se pagarán.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice de dónde sale el dinero.",
+    "cita": "integración obligatoria de las ciclovías con los Corredores Verdes de Sombra, porque",
+    "pag": 92
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Extender la red de agua potable en Monte Sinaí, Nueva Prosperina y Sergio Toral.",
+    "que": "Para esto se renegociaría el contrato con la concesionaria. En la cartera ambiental pone 180 millones de dólares para agua y saneamiento.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero depende de cambiar el contrato con la concesionaria.",
+    "cita": "la extensión de la red física principal en Monte Sinaí, Nueva Prosperina y Sergio Toral",
+    "pag": 72
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Construir 25 humedales con plantas para limpiar el Estero Salado.",
+    "que": "Serían en ramales críticos (Trinitaria, Suburbio, Mucho Lote). Cartera: 145 millones de dólares para Macro-PTAR y humedales. El plan no dice cuándo terminan.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que maneja el saneamiento. El plan no dice plazos.",
+    "cita": "se construirá una red de 25 humedales artificiales de fitodepuración con manglar y macrófitas",
+    "pag": 72
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Dar programas culturales permanentes en los parques recuperados.",
+    "que": "Ludotecas, bailoterapia y talleres, hechos con organizaciones sociales, iglesias y colectivos. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Los parques son competencia municipal.",
+    "cita": "los parques recuperados por regeneración urbana deberán contar con",
+    "pag": 88
+   },
+   {
+    "t": "Repoblar el centro con casas colectivas en edificios vacíos.",
+    "que": "Recuperar edificios abandonados o en venta. El plan no dice cuántas casas se harán ni cuánto costará.",
+    "v": "media",
+    "n": "Depende de cooperativas y compradores. El plan no dice cuántos ni cuándo.",
+    "cita": "La estrategia propuesta es repoblar el casco central recuperando edificaciones abandonadas o en venta mediante modelos colectivos",
+    "pag": 90
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Abrir una red de centros de cultura de paz en barrios con más delitos.",
+    "que": "Empezarían en Durán, Pascuales, Portete, el distrito Sur y Esteros. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "La prevención sí es del Municipio. No incluye policía. El plan no dice costo.",
+    "cita": "Se implementará una Red de Centros de Cultura de Paz y Bibliotecas Comunitarias",
+    "pag": 87
+   },
+   {
+    "t": "Crear un sistema de cámaras y drones organizado por cuadrantes de riesgo.",
+    "que": "Lo definen con la comunidad y la Policía Metropolitana. SEGURA EP ya administra cerca de 34 000 cámaras. El plan no dice costo.",
+    "v": "media",
+    "n": "SEGURA EP lo maneja, pero depende de la Policía. El plan no dice costo.",
+    "cita": "despliegue de un Sistema de Monitoreo Tecnológico y Disuasión organizado por cuadrantes de riesgo",
+    "pag": 88
+   }
+  ],
+  "otros": [
+   {
+    "t": "Crear 10 pares de unidades educativas municipales.",
+    "que": "Se haría con una delegación que aún debe aprobar el Consejo Nacional de Competencias. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "Educación es del Gobierno central. Depende de un permiso que el plan no asegura.",
+    "cita": "Se proyecta la creación de 10 pares de unidades educativas bajo este esquema durante",
+    "pag": 93
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear Administraciones Zonales por ordenanza municipal.",
+    "que": "Tendrían Consejos de participación ciudadana y Fondo Zonal de Desarrollo. El plan dice que no requiere reforma legal.",
+    "v": "alta",
+    "n": "Le toca al Municipio por ordenanza. El plan dice que no necesita reforma legal.",
+    "cita": "Primero, la creación por ordenanza municipal de las Administraciones Zonales",
+    "pag": 97
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias libres piso-techo en barrios que no tienen mercado municipal.",
+    "que": "El plan pide al menos 3 ferias para 2031. No dice cuánto costará ni en qué barrios se harán.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que maneja mercados y espacios públicos.",
+    "cita": "En los barrios donde no existen mercados municipales se implementarán Ferias Libres bajo modalidad piso-techo",
+    "pag": 81
+   }
+  ]
+ },
+ "metas": [
+  "Área verde urbana de 3,2 a 6,0 m² por habitante al 2031",
+  "98 % de aguas residuales tratadas al 2031",
+  "120 km de ciclovías al 2031",
+  "5.000 viviendas sociales (VIS) construidas al 2031",
+  "Al menos 3 ferias libres piso-techo en barrios sin mercado"
+ ],
+ "notas": [
+  "Incluye educación y seguridad policial, que no son del Municipio. Algunas propuestas dependen del Gobierno central.",
+  "La mayoría de propuestas no dice cuánto cuestan ni cuándo se harán. Solo la cartera ambiental trae montos.",
+  "Plan muy largo (117 págs.): se resumieron las 76 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  5,
+  6,
+  10,
+  13,
+  14,
+  15,
+  16,
+  20,
+  24,
+  28,
+  29,
+  32,
+  33,
+  34,
+  35,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  61,
+  63,
+  64,
+  65,
+  66,
+  69,
+  71,
+  72,
+  74,
+  75,
+  76,
+  77,
+  78,
+  79,
+  81,
+  82,
+  84,
+  85,
+  86,
+  87,
+  88,
+  89,
+  90,
+  91,
+  92,
+  93,
+  94,
+  95,
+  97,
+  98,
+  100,
+  102,
+  104,
+  111,
+  112,
+  113,
+  116
+ ],
+ "paginas": 117
+}

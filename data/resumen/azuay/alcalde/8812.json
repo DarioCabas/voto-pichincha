@@ -1,0 +1,167 @@
+{
+ "enfoque": "Propone obras y servicios en calles, agua, basura, parques y mercados de Gualaceo. Casi no dice cuánto costará ni cuándo se hará; mucho texto copia leyes y planes de la ciudad.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Organizar rutas y frecuencias del transporte público para llegar a más sectores.",
+    "que": "El plan dice que se establecerán formas de mejorar el transporte público en los sectores. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuándo ni cuánto costará.",
+    "cita": "en paralelo con el plan de rutas y frecuencias se establecerá las formas de garantizar de mejor manera el transporte público",
+    "pag": 33
+   },
+   {
+    "t": "Sumar al menos una máquina caminera más para arreglar calles y caminos.",
+    "que": "El plan propone dos equipos camineros para la ciudad y la zona periférica. Un tercero iría con convenios a las 8 parroquias rurales. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni en qué plazo.",
+    "cita": "al equipo caminero actual se le deberá incluir al menos uno más para operar dos equipos camineros en la vialidad urbano y periférico del cantón Gualaceo",
+    "pag": 34
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Construir una planta de tratamiento de aguas residuales para devolver agua limpia al río.",
+    "que": "El plan dice que la planta devolverá agua tratada al río de Gualaceo. Primero pide un estudio y una propuesta de presupuesto. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo se construiría.",
+    "cita": "contar con una planta de tratamiento de aguas residuales que deberá garantizar el retorno de un agua tratada",
+    "pag": 24
+   },
+   {
+    "t": "Buscar nuevas captaciones de agua para subir la cantidad de agua por segundo.",
+    "que": "El plan dice que una nueva captación sube los litros por segundo y reduce el riesgo de contaminación. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "la ubicación de una nueva captación apoyará elevando los niveles de litro por segundo",
+    "pag": 28
+   },
+   {
+    "t": "Revisar si la basura sigue en manos de una empresa privada o la maneja el Municipio.",
+    "que": "El plan dice que la empresa cuesta unos 800,000 dólares al año. Se analizarán costos y beneficios para ahorrar. No dice cuándo se decidirá.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuándo decidirá ni cuánto ahorraría.",
+    "cita": "si continuamos con una empresa privada manejando el desecho solido",
+    "pag": 28
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Plantar árboles en zonas altas de la ciudad y de las 8 parroquias rurales.",
+    "que": "El plan habla de reforestar las zonas altas de la ciudad y de las parroquias rurales. No dice cuántos árboles ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuántos árboles ni cuándo.",
+    "cita": "Reforestación en las zonas altas de las 8",
+    "pag": 28
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir el parque de La Familia.",
+    "que": "El plan dice que el parque estará en Abelardo J Andrade y Vázquez Correa. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Construcción del parque de La Familia, ubicado en",
+    "pag": 31
+   },
+   {
+    "t": "Dar equipos nuevos a los mercados Santiago de Gualaceo y 25 de Junio.",
+    "que": "El plan dice que los dos mercados recibirán equipamiento. No dice qué equipos, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué equipos ni cuánto costará.",
+    "cita": "Equipamiento a los mercados Santiago de Gualaceo y 25 de Junio",
+    "pag": 35
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar un centro de monitoreo de cámaras las 24 horas en el Consejo de Seguridad.",
+    "que": "El plan dice que el centro funcionará 24/7 en convenio con el Ministerio del Interior. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "La seguridad es de la Policía. El Municipio solo puede apoyar con convenios.",
+    "cita": "una inversión en el Consejo de Seguridad Ciudadana para fortalecer la logistica implementando un verdadero centro de monitoreo 24/7",
+    "pag": 35
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Enviar informes mensuales del alcalde para rendir cuentas al público.",
+    "que": "El plan dice que el alcalde enviará un informe cada mes al área de Comunicación para un calendario de rendición de cuentas.",
+    "v": "alta",
+    "n": "Le toca al alcalde. Es una tarea que puede cumplir sin depender de otros.",
+    "cita": "el Alcalde de forma mensual remitirá informes al Departamento de Comunicación",
+    "pag": 25
+   }
+  ]
+ },
+ "metas": [
+  "Informe mensual del alcalde para rendir cuentas.",
+  "Medición del trabajo de cada departamento cada tres meses.",
+  "Plan de trabajo para 4 años.",
+  "Al menos 10% de los ingresos no tributarios para grupos prioritarios."
+ ],
+ "notas": [
+  "El plan casi no dice cuánto costará cada obra ni cuándo se hará.",
+  "Gran parte del texto copia leyes, diagnósticos y planes de desarrollo; varias acciones son generales."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56
+ ],
+ "paginas": 56
+}

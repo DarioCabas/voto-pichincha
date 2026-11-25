@@ -1,0 +1,95 @@
+{
+ "enfoque": "Propone arreglar calles, terminar obras de agua y publicar datos de obras. Varias metas dependen de la Prefectura o del Gobierno; el plan no dice cuánto costará.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a calles de la ciudad, señalización y paradas.",
+    "que": "El plan habla de mantenimiento urbano, señales, seguridad vial, paradas y circulación para peatones. No dice en qué calles ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni en qué plazo.",
+    "cita": "La agenda municipal debe priorizar mantenimiento urbano, señalización, accesibilidad, seguridad vial, mejoramiento de paradas, circulación peatonal",
+    "pag": 8
+   },
+   {
+    "t": "Buscar convenios para obras rurales estratégicas.",
+    "que": "El plan dice que hará gestión de convenios para obras en zonas rurales. No dice qué obras ni cuánto costarán.",
+    "v": "media",
+    "n": "Los caminos rurales son de la Prefectura. El Municipio solo puede pedir convenios.",
+    "cita": "circulación peatonal y gestión de convenios para intervenciones rurales estratégicas",
+    "pag": 8
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Terminar obras pendientes de agua y ampliar sistemas.",
+    "que": "El plan dice que revisará el estado de las obras de agua, terminará lo pendiente y ampliará el servicio. No dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "El agua es competencia municipal. El plan no dice cuánto costará ni cuándo.",
+    "cita": "concluir lo pendiente y priorizar ampliación, mantenimiento preventivo, control de calidad y protección de fuentes",
+    "pag": 8
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Restaurar áreas afectadas y cuidar fuentes de agua, con monitoreo.",
+    "que": "El plan habla de prevenir daños, educar, vigilar y restaurar zonas afectadas, como las quemadas por incendios. No dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Parte es del Municipio, pero el cuidado de los páramos depende también de la Prefectura. El plan no dice cuánto costará.",
+    "cita": "prevención, educación ambiental, monitoreo, respuesta comunitaria, protección de fuentes hídricas y restauración de áreas afectadas",
+    "pag": 8
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar metas, presupuesto, contratos y avance de obras.",
+    "que": "El plan dice que publicará metas, presupuesto, contratación, avance de obras e indicadores de cumplimiento. No dice en qué plataforma ni cuándo.",
+    "v": "alta",
+    "n": "Es tarea directa de la Alcaldía. No necesita dinero extra.",
+    "cita": "Publicar metas, presupuesto, contratación, avance de obras e indicadores de cumplimiento",
+    "pag": 6
+   },
+   {
+    "t": "Publicar cada trimestre un tablero de resultados.",
+    "que": "El plan dice que Planificación juntará los resultados y publicará un tablero cada tres meses.",
+    "v": "alta",
+    "n": "Es tarea directa del Municipio. Cada tres meses es un plazo que el plan sí da.",
+    "cita": "Planificación consolidará los resultados y publicará un tablero trimestral",
+    "pag": 17
+   }
+  ]
+ },
+ "metas": [
+  "Invertir al menos el 68 % del presupuesto en obras y bienes en 2027.",
+  "Invertir al menos el 70 % del presupuesto en obras y bienes desde 2028.",
+  "Publicar un tablero de avance cada trimestre.",
+  "Levantar la línea base de cada indicador en los primeros meses de gestión."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni en qué año se terminará.",
+  "Gran parte del texto sale del PDOT cantonal y de planes de otros niveles. No propone nada sobre basura ni mercados."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20
+ ],
+ "paginas": 20
+}

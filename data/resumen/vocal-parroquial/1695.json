@@ -1,0 +1,119 @@
+{
+ "enfoque": "Plan del movimiento Imparables para Alangasí: arreglar caminos, cuidar el ambiente y organizar a la comunidad. Varias propuestas son de otros niveles.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Gestionar con el Municipio el bacheo y mantenimiento de vías secundarias y caminos vecinales.",
+    "que": "Pedir al Municipio de Quito que arregle los huecos y mantenga las calles secundarias y caminos vecinales. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio, que es quien arregla estas vías. El plan no dice cuánto ni cuándo.",
+    "cita": "Gestionar con el Municipio del Distrito Metropolitano de Quito el bacheo y mantenimiento permanente de las vías secundarias y caminos vecinales.",
+    "pag": 2
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Traer agua en tanqueros en emergencias y promover tanques comunitarios para guardar agua.",
+    "que": "Para sectores vulnerables con cortes de agua. El plan no dice cuántos tanqueros, en qué barrios ni cuánto costará.",
+    "v": "baja",
+    "n": "El agua potable le toca a la empresa de agua de Quito (EPMAPS), no a la junta.",
+    "cita": "Gestionar el abastecimiento mediante tanqueros de emergencia y promover sistemas comunitarios de almacenamiento de agua para sectores vulnerables.",
+    "pag": 2
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer programas permanentes para sembrar árboles nativos.",
+    "que": "Siembra de especies nativas. El plan no dice cuántos árboles, en qué lugares ni cuánto costará.",
+    "v": "alta",
+    "n": "Es tarea de la junta y cuesta poco. El plan no dice cuántos árboles ni dónde.",
+    "cita": "Desarrollar programas permanentes de reforestación con especies nativas.",
+    "pag": 3
+   },
+   {
+    "t": "Hacer jornadas comunitarias de limpieza y mingas ambientales.",
+    "que": "Trabajo colectivo de limpieza con vecinos. El plan no dice dónde, cada cuánto ni cuánto costará.",
+    "v": "alta",
+    "n": "Es tarea de la junta: organizar a la comunidad. El plan no dice cada cuánto.",
+    "cita": "Promover jornadas comunitarias de limpieza y mingas ambientales.",
+    "pag": 3
+   },
+   {
+    "t": "Hacer campañas para reciclar y separar la basura.",
+    "que": "Campañas para separar y reciclar la basura sólida. El plan no dice dónde ni cuándo empiezan.",
+    "v": "alta",
+    "n": "Campañas y charlas son tarea de la junta. El plan no dice cuánto costará ni cuándo empieza.",
+    "cita": "Implementar campañas de reciclaje y clasificación de residuos sólidos.",
+    "pag": 3
+   },
+   {
+    "t": "Recuperar y proteger quebradas y espacios ecológicos de la parroquia.",
+    "que": "Cuidar las quebradas y zonas naturales de la parroquia. El plan no dice cuáles, cómo se hará ni cuánto costará.",
+    "v": "media",
+    "n": "Podría necesitar apoyo del Municipio. El plan no dice cómo ni cuánto costará.",
+    "cita": "Recuperar y proteger quebradas y espacios ecológicos de la parroquia.",
+    "pag": 3
+   }
+  ],
+  "social": [
+   {
+    "t": "Dar mantenimiento a las canchas deportivas de los barrios.",
+    "que": "Cuidar y arreglar canchas deportivas de los barrios para que se usen bien. El plan no dice cuáles ni cuánto costará.",
+    "v": "alta",
+    "n": "Cuidar espacios de la parroquia es tarea de la junta. El plan no dice cuánto costará.",
+    "cita": "Fortalecer el mantenimiento y adecuado uso de canchas deportivas barriales.",
+    "pag": 3
+   },
+   {
+    "t": "Crear la Brigada Juvenil de Alangasí para ayudar en mingas y actividades comunitarias.",
+    "que": "Un grupo de jóvenes que apoya mingas, actividades de la comunidad y proyectos de liderazgo. El plan no dice cuántos jóvenes ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es tarea de la junta. El plan no dice cuánto costará.",
+    "cita": "Crear la Brigada Juvenil de Alangasí para apoyar mingas, actividades comunitarias y proyectos de liderazgo juvenil.",
+    "pag": 3
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Dar charlas para prevenir estafas, violencia y robos, sobre todo a adultos mayores.",
+    "que": "Charlas y campañas para adultos mayores y grupos vulnerables. El plan no dice cuántas charlas, cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "Charlas y campañas son tareas que la junta puede hacer. El plan no dice cuándo.",
+    "cita": "Organizar campañas y charlas de prevención de estafas, violencia y robos, especialmente dirigidas a adultos mayores y grupos vulnerables.",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Decidir en asambleas de barrios todo el dinero de inversión que recibe la junta.",
+    "que": "Los delegados de barrios y comunidades aprueban en reuniones públicas en qué se gasta. El plan no dice cuánto dinero es ni cuándo.",
+    "v": "alta",
+    "n": "La junta decide su propio presupuesto. El plan no dice cuánto dinero recibe.",
+    "cita": "El 100% de los fondos asignados legalmente a la Junta Parroquial para proyectos de inversión será discutido, priorizado y aprobado democráticamente",
+    "pag": 7
+   }
+  ]
+ },
+ "metas": [
+  "Asambleas en barrios y comunas cada tres meses.",
+  "Publicar en un portal web, cada trimestre, las sesiones de la junta y el cumplimiento del plan.",
+  "Plan para el período 2027-2031 (4 años)."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Parte del texto es del plan de la ciudad (Plan Ciudad Imparables). Varias propuestas son de otros niveles, como agua, salud o policía."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "paginas": 9
+}

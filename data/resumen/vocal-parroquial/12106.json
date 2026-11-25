@@ -1,0 +1,138 @@
+{
+ "enfoque": "Cuidar caminos junto con la Prefectura, arreglar espacios públicos, organizar mingas y productores y cuidar el ambiente. No dice cuánto costará.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a los caminos rurales de la parroquia, junto con la Prefectura de Pichincha.",
+    "que": "El plan no dice qué caminos ni cuánto costará. Se hará según el presupuesto disponible, en el periodo 2027-2031.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Planificar y gestionar el mantenimiento de la vialidad parroquial rural, en coordinación con el Gobierno Provincial de Pichincha.",
+    "pag": 15
+   },
+   {
+    "t": "Elegir qué caminos rurales necesitan mantenimiento primero.",
+    "que": "El plan no dice qué caminos ni cuándo. Plazo general: 2027-2031. Se prioriza según la conexión de comunidades y zonas productivas.",
+    "v": "alta",
+    "n": "Es una tarea de planificación que le toca a la junta.",
+    "cita": "Identificar y priorizar las vías y caminos rurales que requieran mantenimiento, considerando su importancia para la conectividad de comunidades y zonas productivas.",
+    "pag": 16
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Dar mantenimiento y mejorar la infraestructura y espacios públicos de la parroquia.",
+    "que": "El plan no dice qué espacios ni cuánto costará. Barrios, comunas y comunidades participarían en elegir prioridades. Plazo: 2027-2031.",
+    "v": "alta",
+    "n": "Parques y espacios de la parroquia son tarea de la junta. El plan no dice cuánto cuesta.",
+    "cita": "Planificar e impulsar progresivamente el mantenimiento, adecuación y mejoramiento de la infraestructura física, equipamientos y espacios públicos parroquiales.",
+    "pag": 16
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Organizar acciones comunitarias para cuidar y recuperar espacios naturales de la parroquia.",
+    "que": "El plan no dice qué espacios ni cuánto costará. Se hará con la comunidad y las entidades competentes. Plazo: 2027-2031.",
+    "v": "alta",
+    "n": "Es trabajo comunitario de la junta. El plan no dice cuánto costará.",
+    "cita": "Impulsar acciones comunitarias de conservación y recuperación de espacios naturales de la parroquia, en coordinación con las entidades competentes.",
+    "pag": 20
+   },
+   {
+    "t": "Impulsar acciones comunitarias para proteger la biodiversidad y el patrimonio natural de la parroquia.",
+    "que": "El plan no dice qué acciones ni cuánto costará. Plazo: 2027-2031.",
+    "v": "alta",
+    "n": "Trabajo comunitario, dentro de lo que le toca a la junta.",
+    "cita": "Incentivar acciones comunitarias para la protección de la biodiversidad y el patrimonio natural.",
+    "pag": 19
+   }
+  ],
+  "economia": [
+   {
+    "t": "Organizar a productores y emprendedores de la parroquia en grupos o asociaciones.",
+    "que": "El plan no dice cuántos productores ni cuánto costará. Plazo: 2027-2031.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es tarea de la junta.",
+    "cita": "Promover la organización y asociatividad de productores y emprendedores de la parroquia,",
+    "pag": 12
+   },
+   {
+    "t": "Buscar formas de vender los productos locales de la parroquia.",
+    "que": "El plan no dice qué mecanismos usará ni cuánto costará. Se hará con instituciones y organizaciones competentes.",
+    "v": "media",
+    "n": "Necesita apoyo de otras instituciones. El plan no dice cuáles.",
+    "cita": "Impulsar mecanismos de promoción y comercialización de productos locales.",
+    "pag": 19
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar mingas, es decir, trabajo comunitario en grupo, para acciones de interés de todos.",
+    "que": "El plan no dice cuántas mingas ni dónde. Plazo: 2027-2031. Se hace con la participación de la ciudadanía.",
+    "v": "alta",
+    "n": "Las mingas están dentro de lo que puede hacer la junta.",
+    "cita": "Impulsar la participación comunitaria y las mingas para el desarrollo de acciones de interés colectivo.",
+    "pag": 23
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar en medios de la junta los planes, proyectos, presupuesto y gestión de la parroquia.",
+    "que": "El plan no dice con qué frecuencia. Habrá una rendición anual de cuentas. Plazo: 2027-2031.",
+    "v": "alta",
+    "n": "Le toca a la junta. El plan no dice cuánto costará.",
+    "cita": "Publicación de información sobre planes, proyectos, presupuesto y gestión parroquial mediante los medios institucionales disponibles.",
+    "pag": 28
+   },
+   {
+    "t": "Hacer seguimiento a las obras y servicios públicos que se hagan en la parroquia, con la ciudadanía.",
+    "que": "El plan no dice qué obras ni cuándo. Plazo: 2027-2031. Se hará con mecanismos de participación ciudadana.",
+    "v": "alta",
+    "n": "La junta puede vigilar obras. El plan no dice cuáles.",
+    "cita": "Fortalecer la vigilancia ciudadana y el seguimiento de las obras y servicios públicos que se desarrollen en la parroquia.",
+    "pag": 15
+   }
+  ]
+ },
+ "metas": [
+  "Todas las acciones tienen plazo 2027-2031. El plan no fija metas con cifras."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta. Casi todo depende de la \"disponibilidad presupuestaria\".",
+  "Muchas propuestas son generales y usan \"fortalecer\" sin decir qué. El diagnóstico toma datos del plan parroquial 2024-2027."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30
+ ],
+ "paginas": 30
+}

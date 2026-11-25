@@ -1,0 +1,163 @@
+{
+ "enfoque": "Plan general: calles, agua, parques, mercados y reciclaje, con pocas cifras. Varias acciones son de ministerios, no del Municipio.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer mantenimiento y mejorar las calles de la ciudad.",
+    "que": "El plan dice que se hará con programas y que se dará prioridad según las necesidades. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Las calles son del Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Ejecutar programas de mantenimiento y mejoramiento de la vialidad urbana, priorizando las intervenciones de acuerdo con las necesidades",
+    "pag": 28
+   },
+   {
+    "t": "Arreglar aceras y poner señales para caminar con más seguridad.",
+    "que": "Incluye aceras, señales y espacios para caminar. El plan no dice en qué barrios ni cuánto costará.",
+    "v": "alta",
+    "n": "Aceras y señales son del Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Mejorar progresivamente las condiciones de movilidad peatonal y accesibilidad, mediante la intervención de aceras, señalización",
+    "pag": 27
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar, arreglar y mantener el agua potable y el alcantarillado.",
+    "que": "Primero irán los sectores con más necesidad. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Agua y alcantarillado son del Municipio. El plan dice 'gestionar' y no dice el costo.",
+    "cita": "Gestionar la ampliación, mejoramiento y mantenimiento de los sistemas de agua potable, alcantarillado y saneamiento",
+    "pag": 28
+   },
+   {
+    "t": "Hacer estudios para construir plantas que traten el agua potable.",
+    "que": "Los estudios se harán con aprobación de la agencia que controla el agua (ARCA). El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita aprobación de otra agencia del Estado. El plan no dice cuánto costará.",
+    "cita": "Coordinar estudios técnicos para la creación de plantas de tratamiento de agua potable de calidad",
+    "pag": 53
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer campañas para reciclar en el centro del cantón y en las parroquias.",
+    "que": "Son campañas para reciclar basura en el centro de Paute y en las parroquias. El plan no dice cuántas ni cuándo.",
+    "v": "alta",
+    "n": "La basura es competencia municipal. El plan no dice cuánto costará.",
+    "cita": "Campañas de reciclaje en el centro cantonal y parroquias.",
+    "pag": 52
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar y cuidar parques, plazas, canchas y espacios públicos.",
+    "que": "El plan dice que serán para convivir, jugar y reunirse. El plan no dice en qué parques ni cuánto costará.",
+    "v": "alta",
+    "n": "Parques y plazas son del Municipio. El plan no dice dónde ni cuánto costará.",
+    "cita": "Recuperar, mantener y mejorar parques, plazas, canchas, áreas recreativas y espacios públicos",
+    "pag": 28
+   },
+   {
+    "t": "Cuidar la orilla izquierda del río Paute y hacer un camino piloto.",
+    "que": "Un camino piloto de Zhumir a la parroquia El Cabo, con recursos del Gobierno Provincial. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita al Gobierno Provincial para conseguir el dinero. El plan no dice cuánto costará.",
+    "cita": "Gestionar el cuidado, protección y señalética de la marginal izquierdo del rio Paute",
+    "pag": 53
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear, ampliar y modernizar mercados y centros de acopio.",
+    "que": "Dice que llegará a las parroquias rurales. El plan no dice en qué lugares ni cuánto costará.",
+    "v": "alta",
+    "n": "Los mercados son del Municipio. El plan no dice dónde ni cuánto costará.",
+    "cita": "Crear, ampliar y modernizar mercados y centros de acopio con influencia en las parroquias rurales.",
+    "pag": 53
+   },
+   {
+    "t": "Organizar ferias de productos del campo, artesanía y comida.",
+    "que": "Sirven para vender lo hecho en el cantón. El plan no dice cuántas ferias, dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Ferias y mercados entran en lo que hace el Municipio. El plan no dice cuándo ni dónde.",
+    "cita": "Organizar y fortalecer ferias agrícolas, artesanales, gastronómicas y productivas",
+    "pag": 23
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer jornadas de atención social en parroquias y comunidades alejadas.",
+    "que": "Dice que la distancia no será una barrera. El plan no dice cuántas jornadas, dónde ni cuánto costará.",
+    "v": "baja",
+    "n": "Los servicios sociales los dan sobre todo ministerios, no el Municipio.",
+    "cita": "Realizar brigadas y jornadas de atención a las parroquias rurales y comunidades más alejadas",
+    "pag": 16
+   }
+  ]
+ },
+ "metas": [
+  "Tener al 100% la lista de grupos vulnerables del cantón hasta 2031.",
+  "Tener al 100% la lista de organizaciones y entidades del cantón hasta finalizar 2027.",
+  "Usar al menos 80% de las regalías mineras para mejorar vialidad del centro y parroquias, 2027-2031.",
+  "Hacer 8 campañas puerta a puerta para mascotas, 2027-2031.",
+  "Dar capacitación técnica a al menos 90% de productores, 2027-2031."
+ ],
+ "notas": [
+  "La mayoría de acciones no dice cuánto costarán ni cuándo. Muchas dicen 'fortalecer' o 'impulsar' sin decir qué ni dónde.",
+  "Varias propuestas son de ministerios o del Gobierno Provincial (salud, empleo, social), no del Municipio.",
+  "Plan muy largo (62 págs.): se resumieron las 50 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  5,
+  6,
+  7,
+  8,
+  13,
+  14,
+  16,
+  17,
+  18,
+  19,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61
+ ],
+ "paginas": 62
+}

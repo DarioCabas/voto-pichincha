@@ -1,0 +1,154 @@
+{
+ "enfoque": "Plan general: agua y alcantarillado, calles, basura, parques, mercados y cuentas públicas cada año. No pone costos. Parte del texto parece copiada de un concejal.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar las redes de agua potable y alcantarillado en 2028",
+    "que": "El plan dice que en 2028 se amplían las redes de agua y alcantarillado. El plan no dice cuánto costará ni en qué sectores.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Ampliación de redes de agua potable y alcantarillado",
+    "pag": 15
+   },
+   {
+    "t": "Priorizar obras de agua potable y saneamiento desde 2027",
+    "que": "En 2027 el plan prioriza obras de agua y saneamiento tras un diagnóstico técnico. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta el costo y las obras concretas.",
+    "cita": "Priorización de obras de agúa potable y sancamiento",
+    "pag": 14
+   },
+   {
+    "t": "Hacer mantenimiento permanente de agua, drenaje y basura en sectores con déficit",
+    "que": "El plan dice que se ampliará la cobertura a sectores que todavía no tienen servicios y que habrá mantenimiento permanente. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. No dice qué sectores ni cuándo.",
+    "cita": "que todavía presentan déficits y establecer programas permanentes de mantenimiento",
+    "pag": 6
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar calles, caminos y aceras con mantenimiento y rehabilitación",
+    "que": "El plan dice que se hará mantenimiento, rehabilitación y mejora de calles, caminos y aceras. No dice cuánto costará ni qué calles.",
+    "v": "media",
+    "n": "Calles urbanas: sí le toca. Caminos rurales dependen de otras instituciones.",
+    "cita": "mantenimiento, rehabilitición y mejoramiento de calles, caminos, aceras",
+    "pag": 10
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear programas de emprendimiento y desarrollo productivo en 2027",
+    "que": "En 2027 el plan crea programas de emprendimiento y desarrollo productivo. El plan no dice cuánto costará ni a cuántas personas llegará.",
+    "v": "media",
+    "n": "Puede hacer programas, pero el empleo no es su competencia directa.",
+    "cita": "Creación de programas de emprendimiento y desarrollo productivo",
+    "pag": 15
+   },
+   {
+    "t": "Consolidar ferias y mercados para productores locales desde 2028",
+    "que": "En 2028 el plan consolida ferias y mercados para productores locales. El plan no dice cuánto costará ni dónde se harán.",
+    "v": "alta",
+    "n": "Le toca al Municipio: los mercados son su competencia. Falta el costo.",
+    "cita": "Consolidación de ferias y mercados pora productores locales",
+    "pag": 15
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar parques, plazas y canchas del cantón",
+    "que": "El plan dice que se recuperan parques, plazas, canchas y áreas verdes. No dice cuánto costará ni cuáles primero.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Recuperar y mejorar los espacios públicos del cantón, incluyendo parques",
+    "pag": 11
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Mejorar la recolección de basura y el reciclaje en el cantón",
+    "que": "El plan habla de una mejor recolección y disposición de basura, reciclaje y arborización. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta el costo y las fechas.",
+    "cita": "promoviendo una adecuada recolección y disposición de residuos",
+    "pag": 11
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Dar cuentas públicas cada año sobre obras, dinero y metas",
+    "que": "Cada año el alcalde informará en público sobre obras, presupuesto, ingresos, gastos y metas. El plan no dice en qué mes.",
+    "v": "alta",
+    "n": "Le toca al alcalde. Es un compromiso de informar, no una obra.",
+    "cita": "La Alcaldia realizará procesos públicos de rendición de cuentas cada año",
+    "pag": 26
+   },
+   {
+    "t": "Publicar en internet contratos, obras y presupuesto del Municipio",
+    "que": "El plan dice que se fortalecerán los medios para publicar contratos, obras, presupuesto y convenios. No dice plazos.",
+    "v": "alta",
+    "n": "Le toca al Municipio, usando sus propios medios.",
+    "cita": "Se fortalecerán los mecanismos de publicación de información pública",
+    "pag": 27
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Prevenir la violencia con espacios públicos, luz y actividades",
+    "que": "El plan dice que el Municipio ayudará con espacios públicos, iluminación y programas deportivos y culturales. La policía no es del Municipio. No dice cuánto costará.",
+    "v": "media",
+    "n": "La policía no le toca. Puede poner luz y espacios, pero el plan no dice cómo.",
+    "cita": "Contribuir a la prevención de la violencia y ul fortalecimiento de la seguridad",
+    "pag": 11
+   }
+  ]
+ },
+ "metas": [
+  "2027: diagnóstico técnico de servicios básicos y programa de mantenimiento de calles.",
+  "2028: ampliación de redes de agua potable y alcantarillado.",
+  "Cada año: rendición de cuentas pública.",
+  "2029: evaluación intermedia del Plan de Trabajo.",
+  "2031: presentación pública de resultados del periodo 2027-2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero exacto. Tiene años, pero casi ninguna cifra.",
+  "Parte del texto parece copiado de un concejal (habla de concejales y parroquias urbanas). Las propuestas son generales."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32
+ ],
+ "paginas": 32
+}

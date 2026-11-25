@@ -1,0 +1,152 @@
+{
+ "enfoque": "Propone ordenar la administración, cobrar más impuestos propios, rendir cuentas y que los vecinos decidan parte del presupuesto. Casi no trae obras concretas.",
+ "tabla": {
+  "economia": [
+   {
+    "t": "Actualizar el catastro para cobrar mejor el impuesto predial y subir lo que recauda el municipio.",
+    "que": "El plan dice que cobrará más cada año con impuestos propios, actualizando el catastro y mejorando el cobro. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto subirá el cobro.",
+    "cita": "incrementar presgresivamente la rocaadación propia del cantón mediane la actualización del catastro incoobillario",
+    "pag": 76
+   },
+   {
+    "t": "Pedir préstamos al banco público para obras grandes que el municipio no pueda pagar con dinero propio.",
+    "que": "El plan dice que los préstamos se usarán para obras que superen el dinero propio, cuidando que el municipio pueda pagarlos. El plan no dice cuánto ni qué obras.",
+    "v": "media",
+    "n": "Puede pedirlo, pero depende del banco. El plan no dice qué obras.",
+    "cita": "Municipal púdrá accedes a Mess de enbdito del Maneo de Decarmoddo del Ecuador",
+    "pag": 77
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Rendir cuentas a los vecinos cada año y al final del periodo de gobierno.",
+    "que": "La alcaldesa hará la rendición de cuentas cada año fiscal y al terminar el periodo, incluyendo el cumplimiento de este plan. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la alcaldesa. Es obligatorio por ley.",
+    "cita": "la Alcaldesa reafizará el proceso de rendición de corrtas una vez por cada",
+    "pag": 78
+   },
+   {
+    "t": "Hacer un cabildo popular cada año para escuchar propuestas de los vecinos.",
+    "que": "Cada año habrá un cabildo popular, una reunión donde los vecinos dan sus necesidades y propuestas. Lo que se acuerde se tomará en cuenta. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la alcaldía organizarlo. Lo pide la ley de participación.",
+    "cita": "un Cabildo Popular anual, conforme a lo previmo en la Ley Orgánica de Participación",
+    "pag": 80
+   },
+   {
+    "t": "Dejar una parte del presupuesto anual para que barrios, parroquias y recintos decidan en qué se gasta.",
+    "que": "El plan dice que una parte del presupuesto anual la decidirán los vecinos organizados. El plan no dice qué porcentaje ni cuánto dinero.",
+    "v": "alta",
+    "n": "Le toca al Municipio decidir su presupuesto. El plan no dice cuánto.",
+    "cita": "parte de los recurños del prevpueslo mueleipal anúil merá dedicado al",
+    "pag": 77
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Medir con encuestas y consultas qué piensan los vecinos de los servicios municipales.",
+    "que": "Se harán encuestas, consultas y plataformas digitales para saber si los vecinos están conformes con los servicios. El plan no dice cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice el costo.",
+    "cita": "Se desarrollarán mecanismos permánemes para medir lo percepción y el nivel de sallilieción",
+    "pag": 81
+   }
+  ]
+ },
+ "metas": [
+  "Rendición de cuentas cada año fiscal y al final del periodo 2027-2031."
+ ],
+ "notas": [
+  "Gran parte del texto es ilegible por el escaneo. Solo se pudieron leer partes; revise el plan original en el CNE.",
+  "Casi no tiene obras concretas (calles, agua, basura) con lugar, costo ni plazo. Parte de un plan de desarrollo ya existente del cantón."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61,
+  62,
+  63,
+  64,
+  65,
+  66,
+  67,
+  68,
+  69,
+  70,
+  71,
+  72,
+  73,
+  74,
+  75,
+  76,
+  77,
+  78,
+  79,
+  80,
+  81,
+  82
+ ],
+ "paginas": 82
+}

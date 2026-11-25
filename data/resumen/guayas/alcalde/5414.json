@@ -1,0 +1,155 @@
+{
+ "enfoque": "Plan de obras municipales: asfalto y caminos, agua potable y alcantarillado, basura y obras contra inundaciones. Casi no dice cuánto cuesta.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Asfaltar y pavimentar calles de la ciudad y de sus zonas periféricas.",
+    "que": "Se hará primero en vías urbanas y zonas alejadas del centro. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Las calles le tocan al Municipio. El plan no dice cuánto costará.",
+    "cita": "Plan Integral de Asfaltado y Pavimentación: Intervención prioritaria en vías",
+    "pag": 22
+   },
+   {
+    "t": "Arreglar y mantener los caminos vecinales de las zonas rurales.",
+    "que": "Trabajo continuo en caminos del campo para que los productos agrícolas lleguen a los mercados. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Los caminos le tocan al Municipio. El plan no dice cuánto costará.",
+    "cita": "Intervención continua para garantizar la movilidad del sector agrícola y comercial.",
+    "pag": 22
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Construir una planta de agua potable para el recinto La Libertad.",
+    "que": "Agua tratada y continua para los hogares de La Libertad. Según el plan, el BDE (Banco de Desarrollo del Ecuador) financia obras de agua. No dice cuánto cuesta.",
+    "v": "alta",
+    "n": "El agua potable le toca al Municipio. El plan no dice cuánto cuesta.",
+    "cita": "La construcción de la Planta de Tratamiento de Agua Potable para el Recinto La Libertad.",
+    "pag": 3
+   },
+   {
+    "t": "Instalar pozos, tanques elevados y tuberías en recintos rurales alejados.",
+    "que": "Pozos profundos, tanques altos y tuberías hasta las casas de recintos lejos de las redes principales. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "El agua potable le toca al Municipio. El plan no dice cuánto cuesta.",
+    "cita": "Sistemas Descentralizados de Agua Potable mediante Castillos y Tanques Elevados con Redes Domiciliarias en los recintos rurales.",
+    "pag": 23
+   },
+   {
+    "t": "Construir redes separadas de alcantarillado para aguas servidas y para lluvia.",
+    "que": "Una red para aguas servidas y otra para lluvia, con una planta de tratamiento de aguas residuales. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "El alcantarillado le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Diseñar e implementar redes independientes de alcantarillado sanitario (evacuación de aguas servidas) y alcantarillado pluvial",
+    "pag": 27
+   },
+   {
+    "t": "Comprar camiones y poner contenedores para recoger la basura.",
+    "que": "Rutas nuevas de recolección en la ciudad y el campo, con contenedores en puntos del cantón. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "La basura le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "adquisición de nueva flota vehicular (camiones compactadores) e instalación de contenedores comunitarios en puntos estratégicos del cantón.",
+    "pag": 27
+   }
+  ],
+  "otros": [
+   {
+    "t": "Construir drenaje, dragado y canales para evitar inundaciones.",
+    "que": "Obras para sacar el agua de lluvia y sacar tierra del fondo de los ríos para que no inunden. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Prevenir desastres le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Plan Integral de Mitigación de Inundaciones: Obras de drenaje pluvial, dragado y canalización.",
+    "pag": 22
+   }
+  ],
+  "economia": [
+   {
+    "t": "Reconstruir y modernizar el mercado municipal con normas sanitarias.",
+    "que": "El mercado debe cumplir normas sanitarias y de bomberos. El BDE financia el nuevo mercado de abastos, según el plan. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Los mercados le tocan al Municipio. El plan no dice cuánto costará.",
+    "cita": "Adecuación técnica y sanitaria bajo el cumplimiento normativo",
+    "pag": 23
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar cámaras de vigilancia en zonas comerciales y entradas del cantón.",
+    "que": "Cámaras de alta resolución conectadas al ECU-911 (sistema nacional de emergencias). El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende del ECU-911, que es nacional. El plan no dice cuánto costará.",
+    "cita": "Instalación de puntos de monitoreo estratégico con cámaras de alta resolución en zonas comerciales",
+    "pag": 29
+   },
+   {
+    "t": "Firmar convenios con la Policía para dar combustible y vehículos.",
+    "que": "La Policía sigue a cargo de la seguridad. El plan dice que el Municipio apoyaría con combustible y vehículos mediante convenio.",
+    "v": "baja",
+    "n": "La policía no le toca al Municipio. Solo apoyaría con convenio.",
+    "cita": "Firma de convenios para dotación/mantenimiento de UPCS (Unidades de Policía Comunitaria), apoyo logístico municipal",
+    "pag": 30
+   }
+  ]
+ },
+ "metas": [
+  "Recolección de basura con cobertura del 100% en la zona urbana.",
+  "Reducir hasta un 30% el tiempo de traslado de productos agrícolas.",
+  "Reducir en un 50% el tiempo de respuesta al ciudadano en trámites.",
+  "Ejecutar el plan en cuatro etapas, de año 1 a año 4.",
+  "Modernizar prácticas agrícolas de más de 1.500 productores pequeños y medianos."
+ ],
+ "notas": [
+  "El plan casi no dice cuánto cuesta cada obra ni de dónde sale el dinero. Solo menciona al BDE como financiador de agua y mercado.",
+  "Incluye temas que no son del Municipio (policía, salud, escuelas) y los presenta como propios. Revise qué puede hacer el alcalde."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45
+ ],
+ "paginas": 45
+}

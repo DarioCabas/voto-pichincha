@@ -1,0 +1,116 @@
+{
+ "enfoque": "Plan único de los cinco candidatos de la lista 21: arreglar caminos con la Prefectura, cuidar parques y casas comunales, apoyar ferias y emprendimientos.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar caminos vecinales y de acceso junto con la Prefectura.",
+    "que": "El plan dice que se hará mantenimiento y lastrado (echar material en el camino). El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura. El plan no dice costos.",
+    "cita": "Gestionar el mantenimiento y lastrado de caminos vecinales.",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir y arreglar parques, canchas y espacios públicos.",
+    "que": "Se harían en la parroquia. El plan no dice cuánto costará ni en qué lugares exactos.",
+    "v": "alta",
+    "n": "Es tarea de la junta. El plan no dice cuánto costará.",
+    "cita": "Construir y rehabilitar espacios públicos, parques y canchas deportivas.",
+    "pag": 5
+   },
+   {
+    "t": "Arreglar casas comunales y equipos que usa la comunidad.",
+    "que": "El plan no dice qué arreglos harán, dónde ni cuánto costarán.",
+    "v": "alta",
+    "n": "Es tarea de la junta, pero el plan no dice cuánto costará.",
+    "cita": "Mejorar casas comunales y equipamiento de uso colectivo.",
+    "pag": 5
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Sembrar árboles y cuidar las fuentes de agua de la parroquia.",
+    "que": "El plan dice que hará programas de reforestación y protección de fuentes de agua. No dice cuántos árboles, dónde ni cuándo.",
+    "v": "alta",
+    "n": "Le toca a la junta. No es agua potable, que es otro nivel.",
+    "cita": "Ejecutar programas de reforestación y protección de fuentes de agua.",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar emprendimientos y ferias de productos de la parroquia.",
+    "que": "El plan dice que apoyará negocios nuevos y ferias productivas. No dice cómo ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta. El plan no dice cuánto costará.",
+    "cita": "Apoyar emprendimientos y ferias productivas de la parroquia.",
+    "pag": 5
+   },
+   {
+    "t": "Apoyar el turismo comunitario y dar más valor a productos locales.",
+    "que": "El plan no dice qué lugares ni qué productos, ni cómo se hará. Tampoco dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca a la junta, pero el plan no dice cómo ni con qué dinero.",
+    "cita": "Impulsar el turismo comunitario y el valor agregado local.",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Ayudar a que los grupos de la comunidad se registren legalmente.",
+    "que": "El plan dice que promoverá y legalizará organizaciones comunitarias de base. No dice cuántas ni cómo.",
+    "v": "alta",
+    "n": "Le toca a la junta organizar a la comunidad. Falta saber cómo.",
+    "cita": "Promover y legalizar las organizaciones comunitarias de base.",
+    "pag": 6
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Revisar las obras que se hacen en la parroquia.",
+    "que": "El plan dice que se dará seguimiento a las obras que se ejecutan en la parroquia. No dice cómo lo harán.",
+    "v": "alta",
+    "n": "Le toca a la junta. El plan no dice cómo hará el seguimiento.",
+    "cita": "Dar seguimiento a las obras que se ejecutan en la parroquia.",
+    "pag": 2
+   },
+   {
+    "t": "Vigilar la calidad de los servicios públicos y avisar a la gente.",
+    "que": "El plan dice que vigilará los servicios y reportará a la ciudadanía. No dice cómo ni cada cuánto.",
+    "v": "media",
+    "n": "Solo vigilar. Los servicios los dan otros niveles de gobierno.",
+    "cita": "Vigilar la calidad de los servicios públicos y reportar a la ciudadanía.",
+    "pag": 6
+   },
+   {
+    "t": "Dar un informe anual de cuentas en audiencia pública abierta.",
+    "que": "Se haría cada año, en audiencia pública convocada abiertamente. El plan no dice dónde ni en qué fecha.",
+    "v": "alta",
+    "n": "Le toca a la junta. Es informar lo que se hace.",
+    "cita": "Informe anual de rendición de cuentas ante la ciudadanía, mediante audiencia pública",
+    "pag": 6
+   }
+  ]
+ },
+ "metas": [
+  "Plan de trabajo para el período 2027-2031.",
+  "Informe anual de rendición de cuentas ante la ciudadanía."
+ ],
+ "notas": [
+  "Es una sola propuesta para los cinco candidatos. El plan no dice qué hará cada persona por separado.",
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "paginas": 7
+}

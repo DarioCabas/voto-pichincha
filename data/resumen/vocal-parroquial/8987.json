@@ -1,0 +1,141 @@
+{
+ "enfoque": "Plan general de todo el gobierno parroquial: parques, ambiente, cuentas claras y obras sin terminar. Mucho texto repite estudios del Municipio y del plan de desarrollo 2019–2023.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Sembrar plantas y recuperar terrenos dañados o sin cobertura vegetal.",
+    "que": "El plan habla de reforestación y de recuperar zonas degradadas. No dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Son mingas y siembras, algo que la junta sí puede organizar. El plan no dice cuánto cuesta.",
+    "cita": "impulsar programas de revegetación, rehabilitación de espacios degradados, protección de suelos y fortalecimiento de las áreas verdes comunitarias",
+    "pag": 11
+   },
+   {
+    "t": "Tomar acciones para reducir el polvo en sectores afectados en época seca.",
+    "que": "El plan no dice qué acciones ni en qué sectores. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio o la Prefectura para obras grandes. El plan no lo detalla.",
+    "cita": "Gestión de acciones para mitigar impactos ambientales en sectores afectados por polvo.",
+    "pag": 23
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar canchas, parques y áreas recreativas en varios sectores.",
+    "que": "El plan no dice qué sectores ni cuántas canchas o parques. No dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Parques y espacios de la parroquia sí le tocan a la junta. El plan no dice costos.",
+    "cita": "sectores se evidencia la necesidad de recuperar canchas, parques, áreas recreativas y",
+    "pag": 14
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Pedir mejoras de transporte y movilidad en la parroquia.",
+    "que": "El plan no dice qué rutas ni horarios. No dice cuánto costará ni cuándo se haría.",
+    "v": "media",
+    "n": "Las rutas dependen de las empresas de transporte y del Municipio. La junta solo puede pedir.",
+    "cita": "Gestión para mejorar la conectividad y movilidad parroquial.",
+    "pag": 27
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Apoyar a las juntas de agua y proteger las fuentes de agua.",
+    "que": "El plan habla de apoyar a las juntas de agua y proteger fuentes hídricas. No dice cuánto costará.",
+    "v": "baja",
+    "n": "El agua potable es de otro nivel de gobierno, no de la junta. El plan no dice cómo.",
+    "cita": "juntas administradoras de agua, la protección de fuentes hídricas, la gestión",
+    "pag": 10
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Revisar las obras que quedaron sin terminar y decidir cuáles seguir.",
+    "que": "El plan dice que se revisarán técnica, legal y financieramente. No dice cuánto costará terminarlas ni cuándo.",
+    "v": "media",
+    "n": "Revisar sí puede la junta; terminar obras necesita al Municipio o la Prefectura.",
+    "cita": "Evaluar técnica, jurídica y financieramente los proyectos inconclusos de la",
+    "pag": 19
+   },
+   {
+    "t": "Publicar informes cada tres meses sobre obras, convenios y gastos.",
+    "que": "El plan dice que los informes se harán cada tres meses, en físico y en digital. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Publicar informes sí le toca a la junta y cuesta poco. El plan no fija fecha de inicio.",
+    "cita": "Se publicarán informes trimestrales sobre el avance de los proyectos, convenios,",
+    "pag": 29
+   },
+   {
+    "t": "Hacer una rendición de cuentas pública cada año.",
+    "que": "El plan dice que se mostrará el presupuesto, los proyectos y los resultados. No dice dónde ni cuándo.",
+    "v": "alta",
+    "n": "Es un trámite que la junta sí puede hacer. El plan no dice fecha ni lugar.",
+    "cita": "Se realizará una rendición de cuentas pública cada año, conforme a la normativa vigente,",
+    "pag": 29
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear programas para niños, jóvenes, adultos mayores, mujeres y personas con discapacidad.",
+    "que": "El plan no dice qué programas ni cuántas personas. No dice cuánto costará ni cuándo empezarían.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta. Falta saber qué programas y con qué dinero.",
+    "cita": "Promover el bienestar y la inclusión social mediante programas dirigidos a niños,",
+    "pag": 20
+   }
+  ],
+  "economia": [
+   {
+    "t": "Pedir cursos de capacitación para jóvenes, emprendedores y productores.",
+    "que": "El plan dice que se harán con instituciones educativas y centros de formación. No dice qué cursos ni cuándo.",
+    "v": "media",
+    "n": "Depende de acuerdos con escuelas, institutos y entidades públicas. La junta solo puede gestionarlos.",
+    "cita": "Gestionar oportunidades de formación, capacitación y desarrollo de capacidades",
+    "pag": 20
+   }
+  ]
+ },
+ "metas": [
+  "Para 2031: contar con un GAD fortalecido institucionalmente y con participación ciudadana permanente.",
+  "Informes de avance cada tres meses (trimestrales).",
+  "Rendición de cuentas pública cada año."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero. Tampoco da fechas de inicio.",
+  "El plan es para todo el gobierno parroquial, no solo para este cargo. Incluye agua, salud, escuelas y policía, que no le tocan a la junta.",
+  "Plan muy largo (32 págs.): se resumieron las 28 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  3,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  32
+ ],
+ "paginas": 32
+}

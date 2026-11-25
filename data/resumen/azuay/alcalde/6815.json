@@ -1,0 +1,164 @@
+{
+ "enfoque": "Prioriza agua, alcantarillado, basura, parques y catastro. Para casi todas las obras no dice cuánto costarán ni cuándo. Incluye café y emprendimiento.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Estudiar el sistema de agua potable regional y decidir si se amplía.",
+    "que": "Primero un estudio técnico del sistema actual. Si hace falta, buscar una nueva solución de agua. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Agua potable es competencia municipal. El plan no dice cuánto costará.",
+    "cita": "Realizar una evaluación técnica integral del Proyecto Regional de Agua Potable para determinar su",
+    "pag": 15
+   },
+   {
+    "t": "Ampliar y mejorar el alcantarillado en la ciudad y en comunidades.",
+    "que": "Se haría en la cabecera cantonal y en comunidades. El plan no dice cuánto costará; depende de crédito o cooperación.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará.",
+    "cita": "mediante la ampliación y mejoramiento progresivo de los sistemas de alcantarillado sanitario",
+    "pag": 15
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Buscar una solución definitiva para la basura, porque el sitio actual ya no tiene capacidad.",
+    "que": "Primero estudios para elegir la solución; después cierre y recuperación del sitio viejo. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "se priorizará la implementación de una solución definitiva para la disposición final de los residuos sólidos del cantón",
+    "pag": 11
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar y cuidar parques, plazas y áreas recreativas, empezando por el centro.",
+    "que": "Se hará según el estado de cada espacio y cuánta gente lo usa. Incluye zonas rurales. El plan no dice cuántos ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuántos parques ni cuánto costará.",
+    "cita": "Se impulsará la recuperación, mejoramiento y mantenimiento progresivo de parques, plazas, áreas",
+    "pag": 13
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Mantener y mejorar caminos rurales junto con la Prefectura del Azuay.",
+    "que": "El plan dice que la Prefectura debe participar y que el Municipio solo gestiona. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de la Prefectura. El Municipio solo gestiona.",
+    "cita": "se gestionará el mantenimiento y mejoramiento de la vialidad rural en coordinación con el GAD Provincial del Azuay",
+    "pag": 12
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Poner al día el catastro, el registro de terrenos y casas del cantón.",
+    "que": "Se haría en los años 1 y 2 de gestión, según el plan. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El catastro sirve para planear y cobrar impuestos.",
+    "cita": "Actualizar progresivamente la información catastral. Digitalizar e integrar la información territorial",
+    "pag": 13
+   }
+  ],
+  "social": [
+   {
+    "t": "Gestionar ante el Ministerio de Salud una evaluación de hospital para el cantón.",
+    "que": "Solo si los estudios dicen que hace falta. El plan no dice cuánto costará ni dónde estaría.",
+    "v": "baja",
+    "n": "La salud es del Ministerio de Salud, no del Municipio.",
+    "cita": "promover la articulación interinstitucional para la estructuración de un proyecto hospitalario",
+    "pag": 16
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Mejorar luces y espacios públicos como parte de la prevención.",
+    "que": "Solo en lo que toca al Municipio: luz, espacios públicos y prevención comunitaria. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "La seguridad es de la Policía. El Municipio solo aporta luz y espacios.",
+    "cita": "especialmente la recuperación y activación de espacios públicos, iluminación, infraestructura urbana",
+    "pag": 39
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear una incubadora para ayudar a pequeños negocios y emprendedores.",
+    "que": "Ofrecería capacitación, asesoría y acceso a financiamiento, con alianzas con universidades. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Es un servicio municipal, pero no crea empleo directo.",
+    "cita": "La Incubadora proporcionará capacitación, mentoría, asistencia para modelos de negocio",
+    "pag": 36
+   },
+   {
+    "t": "Evaluar y crear un Corredor Cafetero en las zonas altas del cantón.",
+    "que": "Primero estudios de aptitud de la tierra. Luego producción, acopio, venta y turismo rural. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de estudios y de otras instituciones. El plan no dice cuánto costará.",
+    "cita": "Una de las iniciativas estratégicas será evaluar e impulsar la creación del Corredor Cafetero de Camilo",
+    "pag": 21
+   }
+  ]
+ },
+ "metas": [
+  "Actualizar el catastro y el plan de uso del suelo en los años 1 y 2 de gestión (2027-2029).",
+  "Hacer en los primeros 12 meses la evaluación del sistema regional de agua potable.",
+  "Evaluar la estructura interna de la Municipalidad durante el primer año de gestión.",
+  "Rendir cuentas cada año con un informe público anual."
+ ],
+ "notas": [
+  "El plan casi no dice cuánto costará cada obra. Casi todo depende de estudios que se harán después.",
+  "Mucho texto viene del plan de desarrollo del cantón. Incluye temas que no son del alcalde: hospital, policía y salud."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49
+ ],
+ "paginas": 49
+}

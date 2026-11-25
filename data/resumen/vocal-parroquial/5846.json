@@ -1,0 +1,128 @@
+{
+ "enfoque": "Plan para la parroquia Guayllabamba: parques, trabajo comunitario, ferias, cultura y ambiente. Muchas tareas son del Municipio, la Prefectura o el Gobierno Nacional.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Coordinar con otras instituciones obras de caminos rurales y equipamiento de los barrios.",
+    "que": "Coordinar con las instituciones competentes obras de caminos rurales y equipamiento para los barrios. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio o la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Coordinar con las instituciones competentes la ejecucio n de obras de infraestructura basica, vialidad rural y equipamiento comunitario",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar parques, áreas recreativas y canchas de la parroquia.",
+    "que": "Arreglar parques, áreas recreativas, canchas y espacios de encuentro. Primero se hace un inventario de canchas en 2027. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Los parques son de la junta. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Gestionar el mantenimiento, adecuacio n y recuperacion de parques, areas recreativas, canchas",
+    "pag": 4
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Crear comités de barrio en los barrios elegidos y hacer 4 mesas de seguridad al año.",
+    "que": "Crear comités en los barrios elegidos (el plan no los nombra) y hacer 4 mesas parroquiales de seguridad al año. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca. La Policía no: el plan dice que no la reemplaza.",
+    "cita": "Constituir o fortalecer comites en los barrios priorizados.",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer al menos 4 jornadas solidarias al año.",
+    "que": "Hacer jornadas solidarias y 2 ferias productivas al año. El plan no dice a qué barrios van ni cuánto costarán.",
+    "v": "alta",
+    "n": "Son actividades comunitarias. El plan no dice cuánto costarán.",
+    "cita": "Ejecutar al menos 4 jornadas solidarias y 2 ferias productivas por año;",
+    "pag": 7
+   },
+   {
+    "t": "Conseguir un servicio de cuidado para adultos mayores, por convenio.",
+    "que": "Conseguir un servicio de cuidado permanente para adultos mayores, o un convenio equivalente. El plan no dice dónde ni cuánto costará.",
+    "v": "baja",
+    "n": "Requiere personal habilitado y convenios. No es tarea directa de la junta.",
+    "cita": "gestionar un servicio gerontologico permanente o convenio equivalente.",
+    "pag": 9
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer 2 ferias productivas y 1 Expo Turismo al año.",
+    "que": "Hacer 2 ferias productivas y 1 Expo Turismo por año, con apoyo a productores. El plan no dice cuánto costará la Expo ni dónde se hará.",
+    "v": "alta",
+    "n": "Las ferias son de la junta. El plan no dice cuánto costará la Expo.",
+    "cita": "realizar 2 ferias productivas y 1 Expo Turismo por año",
+    "pag": 10
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Gestionar la limpieza de quebradas y hacer jornadas de trabajo vecinal.",
+    "que": "Limpiar quebradas y hacer mapas de zonas de riesgo en 2027. El plan no dice cuánto costará ni quién paga la limpieza.",
+    "v": "media",
+    "n": "Necesita permiso o apoyo del Municipio. El plan no dice cuánto costará.",
+    "cita": "gestionar limpieza y recuperacion de quebradas; realizar mingas y educacion ambiental;",
+    "pag": 12
+   },
+   {
+    "t": "Hacer al menos 4 jornadas de trabajo vecinal o campañas ambientales al año.",
+    "que": "Hacer al menos 4 jornadas de trabajo vecinal o campañas ambientales por año, y un simulacro al año. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "El trabajo comunitario sí le toca a la junta. El plan no dice cuánto costará.",
+    "cita": "realizar al menos 4 mingas o campañas ambientales por año",
+    "pag": 7
+   }
+  ],
+  "otros": [
+   {
+    "t": "Hacer un inventario cultural en 2027 y una agenda cultural cada año.",
+    "que": "Hacer un inventario cultural en 2027 y publicar una agenda cada año, con al menos 4 eventos culturales. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta. Las obras en bienes históricos necesitan permiso de las autoridades de patrimonio.",
+    "cita": "Elaborar un inventario cultural participativo; crear una agenda anual;",
+    "pag": 9
+   },
+   {
+    "t": "Firmar convenios con universidades y empresas para becas y cursos.",
+    "que": "Buscar convenios para becas, refuerzo escolar, computación e inglés, con 4 ciclos de cursos al año. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "La educación es del Gobierno Nacional. La junta solo puede gestionar convenios y espacios.",
+    "cita": "Gestionar convenios con universidades, institutos, unidades educativas y empresas",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "Completar un inventario cultural inicial en 2027.",
+  "Realizar al menos 4 eventos culturales por año.",
+  "Realizar al menos 4 mingas o campañas ambientales por año.",
+  "Realizar 4 mesas parroquiales de seguridad por año.",
+  "Realizar 2 ferias productivas y 1 Expo Turismo por año."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero. Solo dice que no compromete recursos no asignados.",
+  "Varias tareas son de salud, educación o policía, que no son de la junta. El plan dice que la junta solo puede coordinar o facilitar esas tareas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14
+ ],
+ "paginas": 14
+}

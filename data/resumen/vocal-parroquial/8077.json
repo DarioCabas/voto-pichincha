@@ -1,0 +1,116 @@
+{
+ "enfoque": "Plan general para Rumipamba: ferias y ayuda a productores, cuidado de caminos, parques, ambiente y reuniones con la comunidad. No dice cuánto costará.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Coordinar el mantenimiento de caminos rurales y accesos a las comunidades.",
+    "que": "El plan dice que se coordinarán acciones de mantenimiento de la vialidad rural. No dice qué caminos, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Se hace junto con la Prefectura. La junta solo coordina.",
+    "cita": "Coordinar acciones para el mantenimiento de la vialidad rural y los accesos comunitarios.",
+    "pag": 4
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer proyectos para arreglar espacios públicos, áreas verdes y parques.",
+    "que": "El plan no dice qué parques ni cuánto costará. No dice cuándo se harán ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Es tarea de la junta, pero el plan no dice de dónde sale el dinero.",
+    "cita": "Impulsar proyectos para mejorar los espacios públicos, áreas verdes, parques y equipamientos comunitarios.",
+    "pag": 4
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger las fuentes de agua, quebradas, bosques y zonas ecológicas.",
+    "que": "El plan no dice qué fuentes ni qué acciones concretas. No dice cuánto costará ni cuándo se hará.",
+    "v": "alta",
+    "n": "Cuidar el ambiente es competencia de la junta.",
+    "cita": "Promover la protección de fuentes de agua, quebradas, bosques y áreas de importancia ecológica.",
+    "pag": 4
+   },
+   {
+    "t": "Hacer campañas para sembrar árboles y recuperar espacios naturales.",
+    "que": "Incluye campañas de educación ambiental. El plan no dice cuántos árboles ni en qué lugares, ni cuándo.",
+    "v": "alta",
+    "n": "Campañas y charlas: la junta sí puede organizarlas.",
+    "cita": "Gestionar campañas de reforestación, educación ambiental y recuperación de espacios naturales.",
+    "pag": 4
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias agrícolas, gastronómicas y artesanales para vender productos locales.",
+    "que": "Las ferias son para productores locales. El plan no dice dónde ni cuándo se harán, ni cuánto costarán.",
+    "v": "alta",
+    "n": "Organizar ferias es una tarea que la junta sí puede hacer.",
+    "cita": "Impulsar ferias agrícolas, gastronómicas, artesanales y espacios de comercialización para productores locales.",
+    "pag": 3
+   },
+   {
+    "t": "Pedir programas de apoyo para agricultores, ganaderos y productores rurales.",
+    "que": "El plan no dice qué programas ni cuánto dinero. No dice quién los paga ni cuándo llegarían.",
+    "v": "media",
+    "n": "La junta gestiona; los programas dependen de otras instituciones.",
+    "cita": "Gestionar programas de apoyo para agricultores, ganaderos y productores rurales.",
+    "pag": 3
+   }
+  ],
+  "social": [
+   {
+    "t": "Pedir arreglos para casas comunales, espacios recreativos y equipamientos comunitarios.",
+    "que": "El plan no dice qué casas comunales ni cuánto costará. No dice cuándo se harán ni quién paga.",
+    "v": "media",
+    "n": "Se pide a otras instituciones. El plan no dice quién paga.",
+    "cita": "Gestionar el mantenimiento y fortalecimiento de casas comunales, espacios recreativos y equipamientos comunitarios.",
+    "pag": 3
+   },
+   {
+    "t": "Apoyar cursos de capacitación para dirigentes y organizaciones sociales.",
+    "que": "El plan no dice qué cursos, cuántos ni cuándo se darán. No dice cuánto costarán.",
+    "v": "alta",
+    "n": "Organizar cursos para dirigentes es tarea de la junta.",
+    "cita": "Apoyar procesos de capacitación para dirigentes comunitarios y organizaciones sociales.",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas periódicas para informar sobre lo que hace la junta.",
+    "que": "Se harán asambleas, reuniones con barrios y se socializará el presupuesto. El plan no dice cuántas veces al año.",
+    "v": "alta",
+    "n": "Rendir cuentas es tarea de la junta y cuesta poco.",
+    "cita": "Asambleas parroquiales periódicas para informar sobre la gestión realizada.",
+    "pag": 5
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Gestionar mejoras de agua potable, saneamiento, alumbrado y recolección de basura.",
+    "que": "El plan no dice cuánto costará ni cuándo. La junta solo gestiona ante otros niveles de gobierno.",
+    "v": "baja",
+    "n": "Le toca a otro nivel. El agua potable no es competencia de la junta.",
+    "cita": "Gestionar acciones para fortalecer los servicios de agua potable, saneamiento, alumbrado público, recolección de residuos y conectividad.",
+    "pag": 4
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Es un plan de la lista 7 para varios precandidatos a la vez, no un plan personal de cada uno."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "paginas": 8
+}

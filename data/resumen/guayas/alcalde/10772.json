@@ -1,0 +1,129 @@
+{
+ "enfoque": "Plan para Naranjito: agua y alcantarillado, calles, caminos rurales, buses y reciclaje. Varias obras dependen de dinero de otras instituciones y el plan no dice cuánto costarán.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Seguir mejorando los pozos, bombas, almacenamiento y redes de agua potable.",
+    "que": "El plan no dice cuánto costará ni en qué sectores. Se pagaría con dinero del Municipio, del Banco de Desarrollo del Ecuador (BDE) o de convenios.",
+    "v": "alta",
+    "n": "Es competencia del Municipio. El plan no dice cuánto costará.",
+    "cita": "Mientras se gestiona esta solución estructural, será necesario continuar fortaleciendo los sistemas",
+    "pag": 2
+   },
+   {
+    "t": "Hacer los estudios técnicos del Plan Maestro de agua potable y alcantarillado.",
+    "que": "El plan dice que estos estudios servirán para decidir qué inversiones hacer. No dice cuánto costarán ni cuándo terminarán.",
+    "v": "alta",
+    "n": "Es trabajo técnico del Municipio. Aún no hay costo ni fecha.",
+    "cita": "La elaboración del Plan Maestro de Agua Potable y Alcantarillado constituye una oportunidad",
+    "pag": 2
+   },
+   {
+    "t": "Construir la nueva Planta de Agua Potable de Naranjito, si consigue el dinero.",
+    "que": "El plan dice que su construcción depende de conseguir financiamiento. No dice cuánto costará ni cuándo se haría.",
+    "v": "media",
+    "n": "Depende de dinero de BDE, Gobierno Nacional u otros. El plan no dice cuándo.",
+    "cita": "Planta de Agua Potable de Naranjito estará condicionada a la obtención del financiamiento",
+    "pag": 2
+   },
+   {
+    "t": "Ampliar y renovar el alcantarillado y el drenaje de aguas lluvias en sectores que se inundan.",
+    "que": "El plan no dice qué sectores ni cuánto costará. Se pagaría con presupuesto municipal, BDE o convenios.",
+    "v": "alta",
+    "n": "Es competencia del Municipio. El plan no dice cuánto costará.",
+    "cita": "del alcantarillado sanitario y el manejo de aguas lluvias, especialmente en sectores sometidos a",
+    "pag": 2
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Asfaltar, arreglar y mantener las calles de la ciudad, con drenaje y señalización.",
+    "que": "El plan no dice qué calles ni cuánto costará. Se pagaría con presupuesto municipal, BDE o convenios. Incluye aceras e iluminación si corresponde.",
+    "v": "alta",
+    "n": "Calles son competencia del Municipio. Falta saber qué calles.",
+    "cita": "La vialidad urbana también requiere continuidad en los programas de mantenimiento,",
+    "pag": 2
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Gestionar con la Prefectura y el Ministerio de Infraestructura y Transporte arreglos de caminos rurales y puentes.",
+    "que": "El plan dice que estas obras dependen de la Prefectura del Guayas y del Ministerio de Infraestructura y Transporte. No dice cuánto costarán.",
+    "v": "media",
+    "n": "Caminos rurales y puentes los hacen otras instituciones. El alcalde solo gestiona.",
+    "cita": "La vialidad rural, puentes y sistemas de riego requieren la participación y coordinación de",
+    "pag": 3
+   },
+   {
+    "t": "Impulsar un paradero cubierto y seguro para buses intercantonales en el Mercado de Naranjito.",
+    "que": "El plan dice que va en el sector del Mercado, con servicios y espacios comerciales. No dice cuánto costará ni cuándo; depende de estudios y financiamiento.",
+    "v": "media",
+    "n": "Buses y mercados son del Municipio, pero depende de dinero y alianzas.",
+    "cita": "el Parque Ecológico Familiar y el Centro de Movilidad Intercantonal.",
+    "pag": 3
+   }
+  ],
+  "otros": [
+   {
+    "t": "Preparar planes y protocolos para inundaciones y otras emergencias.",
+    "que": "El plan dice que actualizará planes y protocolos y hará acciones preventivas. No dice cuánto costará ni en qué zonas.",
+    "v": "alta",
+    "n": "Prevenir desastres es competencia del Municipio. Falta costo.",
+    "cita": "prevención y capacidad de respuesta frente a inundaciones y otros eventos adversos, así como la",
+    "pag": 4
+   }
+  ],
+  "social": [
+   {
+    "t": "Impulsar dos centros comunitarios en las zonas del Papayal y de Bucay.",
+    "que": "Servirán para atención comunitaria y como albergues temporales. El plan también menciona terapias, que dependen de otras instituciones. No dice cuánto costarán.",
+    "v": "media",
+    "n": "Construir es del Municipio; las terapias dependen de salud y otras entidades.",
+    "cita": "Impulsar dos centros para las comunidades de las vías al Papayal y a Bucay,",
+    "pag": 10
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer campañas para separar la basura en casa y reciclar.",
+    "que": "El plan dice que habrá educación ciudadana y mejoras en la recolección y el reciclaje. No dice cuántas campañas ni cuánto costará.",
+    "v": "alta",
+    "n": "Basura y recolección son del Municipio. Falta presupuesto.",
+    "cita": "Desarrollar educación ciudadana, separación de residuos desde los hogares,",
+    "pag": 10
+   }
+  ]
+ },
+ "metas": [
+  "Pozo y estación de bombeo de Norton implementados y operativos, entre 2027 y 2031.",
+  "Dos Centros Comunitarios Multifuncionales implementados, entre 2027 y 2031.",
+  "Rendición pública de cuentas cada año."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará casi ninguna obra ni cuándo se terminará. Varias dependen de dinero de BDE, Gobierno u otros.",
+  "Salud y educación no son del Municipio; el plan solo habla de convenios. La seguridad depende de Policía y ECU 911."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19
+ ],
+ "paginas": 19
+}

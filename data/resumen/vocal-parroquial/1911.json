@@ -1,0 +1,123 @@
+{
+ "enfoque": "Plan general de la junta de Cumbayá: seguridad, parques, ambiente, ferias y cursos. Muchas acciones dependen de pedir a la Policía o al Municipio, y no dice cuánto costará.",
+ "tabla": {
+  "seguridad": [
+   {
+    "t": "Reunir a la Policía, el ECU 911, el Municipio y los barrios en mesas de seguridad.",
+    "que": "El plan dice que se harán mesas con la Policía Nacional, el ECU 911, el Municipio, la Administración Zonal y los barrios. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "La junta puede convocarlas, pero la Policía y el Municipio tienen que participar.",
+    "cita": "Conformar mesas de coordinación con Policía Nacional, ECU 911, Municipio del Distrito Metropolitano de Quito, Administración Zonal y representantes de barrios y comunidades.",
+    "pag": 3
+   },
+   {
+    "t": "Pedir a las autoridades cámaras de video vigilancia donde técnicamente corresponda.",
+    "que": "El plan dice que la junta gestionará cámaras ante las autoridades. No dice dónde ni cuánto costará.",
+    "v": "baja",
+    "n": "Le toca a la Policía o al Municipio, no a la junta.",
+    "cita": "Gestionar ante las autoridades competentes la implementación o ampliación de sistemas de video vigilancia donde técnicamente corresponda.",
+    "pag": 3
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Pedir mejor iluminación en espacios y sectores prioritarios.",
+    "que": "El plan dice que la junta gestionará la mejora de la luz en espacios prioritarios ante las entidades responsables. No dice cuáles ni cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio. La junta solo puede pedirla.",
+    "cita": "Gestionar ante las entidades responsables el mejoramiento de la iluminación en espacios y sectores prioritarios.",
+    "pag": 3
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer un diagnóstico con vecinos de los puntos con tráfico denso y peligro en la calle.",
+    "que": "El plan dice que se identificarán puntos críticos con barrios y comunidades. No dice plazo ni costo.",
+    "v": "alta",
+    "n": "La junta puede organizarlo con los vecinos.",
+    "cita": "Elaborar un diagnóstico participativo de puntos críticos de congestión, movilidad y seguridad vial.",
+    "pag": 4
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Plantar árboles en zonas dañadas, usando especies adecuadas para el entorno.",
+    "que": "El plan dice que se gestionarán acciones de arborización en áreas degradadas. No dice cuántos árboles, dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Es una minga o jornada que puede organizar la junta.",
+    "cita": "Gestionar acciones de arborización y recuperación de áreas degradadas utilizando especies adecuadas para el entorno.",
+    "pag": 5
+   },
+   {
+    "t": "Hacer campañas para que no boten basura en quebradas y espacios naturales.",
+    "que": "El plan dice que se harán campañas para prevenir que se deposite basura en quebradas y espacios naturales. No dice cuántas ni cuánto costará.",
+    "v": "alta",
+    "n": "Son campañas de vecinos que la junta puede organizar.",
+    "cita": "Impulsar campañas para prevenir el depósito de residuos en quebradas y espacios naturales.",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias periódicas de productos y servicios locales en la parroquia y barrios.",
+    "que": "El plan dice que habrá ferias periódicas de productos y servicios de la parroquia y barrios. No dice cada cuánto ni cuánto costará.",
+    "v": "alta",
+    "n": "Feria local que la junta puede organizar.",
+    "cita": "Promover ferias periódicas de productos y servicios locales en la parroquia y barrios.",
+    "pag": 5
+   },
+   {
+    "t": "Dar cursos de oficios como gastronomía, turismo, belleza, administración y construcción.",
+    "que": "El plan dice que se gestionarán cursos con universidades, institutos y el sector privado. No dice cuántos cursos ni cuánto costará.",
+    "v": "alta",
+    "n": "Cursos que la junta puede gestionar con institutos y universidades.",
+    "cita": "Promover capacitación en gastronomía, turismo, belleza, administración, mantenimiento, construcción y otros oficios.",
+    "pag": 4
+   }
+  ],
+  "social": [
+   {
+    "t": "Impulsar escuelas de deporte en los barrios para niños y jóvenes.",
+    "que": "El plan dice que se impulsarán escuelas deportivas en barrios. No dice cuántas, dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "La junta puede organizarlas con los barrios.",
+    "cita": "Impulsar escuelas deportivas barriales para niños y jóvenes.",
+    "pag": 6
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Ayudar a los vecinos a formar veedurías, grupos que vigilan la gestión pública.",
+    "que": "El plan dice que se facilitará el control de los vecinos y la creación de veedurías según la ley. No dice plazos.",
+    "v": "alta",
+    "n": "Es organizar a la comunidad, lo que sí le toca a la junta.",
+    "cita": "Facilitar el ejercicio del control social y la conformación de veedurías ciudadanas conforme a la normativa vigente.",
+    "pag": 7
+   }
+  ]
+ },
+ "metas": [
+  "2027: levantar diagnósticos participativos y empezar programas de capacitación, cultura, deporte y ambiente.",
+  "2028: ampliar la recuperación de espacios públicos y desarrollar ferias.",
+  "2031: evaluar el cumplimiento del plan y presentar resultados a la ciudadanía."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "La mayoría de acciones son gestionar o promover ante la Policía o el Municipio. Sin su respuesta, no se cumplen."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "paginas": 11
+}

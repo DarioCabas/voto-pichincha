@@ -1,0 +1,395 @@
+{
+  "canton": "SAN MIGUEL DE LOS BANCOS",
+  "candidatos": [
+    {
+      "codFormulario": 7102,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan de toda la parroquia, copiado en parte del plan de desarrollo de Mindo: turismo, vías, agua y ambiente. Casi todo depende de otros niveles de gobierno.",
+      "tabla": {
+        "ambiente": [
+          {
+            "t": "Hacer campañas para reducir, reciclar y reutilizar basura, dirigidas a vecinos y negocios turísticos.",
+            "que": "Campañas permanentes para la población y los prestadores de servicios turísticos. El plan no dice cuánto costará ni cuándo empieza.",
+            "v": "alta",
+            "n": "Charlas y campañas con la comunidad: le toca a la junta. El plan no dice costo.",
+            "cita": "Realizar campañas permanentes de reducción, reciclaje y reutilización dirigidas a la población y a los prestadores de servicios turísticos.",
+            "pag": 16
+          },
+          {
+            "t": "Hacer mingas para limpiar ríos y quebradas de los lugares que visitan los turistas.",
+            "que": "Trabajo comunitario en ríos y quebradas frecuentados por visitantes. El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Mingas con vecinos: se puede hacer desde la junta. El plan no dice costo.",
+            "cita": "Impulsar mingas de limpieza en ríos y quebradas, atractivos turísticos frecuentados por visitantes.",
+            "pag": 16
+          },
+          {
+            "t": "Sembrar árboles nativos en orillas de ríos y zonas dañadas, con viveros comunitarios.",
+            "que": "El plan dice que se hará con viveros comunitarios, mingas y apoyo de la Prefectura. No dice costo ni fechas.",
+            "v": "media",
+            "n": "Necesita apoyo de la Prefectura. El plan no dice cuánto costará.",
+            "cita": "Impulsar la reforestación de riberas y zonas degradadas con especies nativas del Chocó Andino.",
+            "pag": 16
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Dar mantenimiento a las vías de tierra y lastre de barrios y recintos, primero en los más alejados.",
+            "que": "Prioriza barrios y recintos con más dispersión de casas. Se haría con mingas y máquinas del Municipio y de la Prefectura. No dice costo.",
+            "v": "media",
+            "n": "Necesita máquinas y acuerdo con la Prefectura y el Municipio. El plan no dice costo.",
+            "cita": "Dar mantenimiento y mejorar las vías internas de lastre (51 % del total) priorizando barrios y recintos con mayor dispersión poblacional.",
+            "pag": 14
+          },
+          {
+            "t": "Pedir a la Prefectura y al Municipio el arreglo periódico de las vías vecinales.",
+            "que": "Vías como Mindo-Nambillo-Río Bravo, Mindo-El Cinto y Mindo-Cunuco. El plan no dice cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "Lo hacen la Prefectura y el Municipio; la junta solo gestiona. El plan no dice costo.",
+            "cita": "Gestionar ante el GAD provincial y cantonal el mantenimiento periódico de las vías vecinales",
+            "pag": 14
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Pedir al Municipio que más casas tengan agua potable tratada, hoy 58 %.",
+            "que": "El plan dice que la cobertura de agua tratada es de 58 % y que se ampliará. No dice costo ni fechas.",
+            "v": "baja",
+            "n": "Le toca al Municipio, no a la junta. El plan no dice cuándo llegará.",
+            "cita": "Gestionar la ampliación de la cobertura de agua potable tratada, hoy limitada al 58 %",
+            "pag": 15
+          },
+          {
+            "t": "Pedir que más sectores rurales tengan luz eléctrica y alumbrado público.",
+            "que": "Sectores sin luz son el 6 % de la población. El plan habla de un convenio con la empresa eléctrica de Quito. No dice costo.",
+            "v": "baja",
+            "n": "Le toca a la empresa eléctrica, no a la junta. Solo puede pedirlo.",
+            "cita": "Promover el acceso a energía eléctrica y alumbrado público en los sectores rurales",
+            "pag": 15
+          }
+        ],
+        "social": [
+          {
+            "t": "Organizar escuelas deportivas y recreativas en barrios y recintos para niños, jóvenes y adultos mayores.",
+            "que": "Se haría con la Liga Parroquial, el Ministerio del Deporte y el Consejo Provincial. El plan no dice costo ni cuándo.",
+            "v": "alta",
+            "n": "Organizar grupos en barrios le toca a la junta. El plan no dice cuánto cuesta.",
+            "cita": "Fomentar escuelas deportivas y recreativas para niños, jóvenes y adultos mayores en los distintos barrios y recintos.",
+            "pag": 17
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Dar mantenimiento a espacios públicos, canchas y áreas recreativas de la parroquia.",
+            "que": "Se haría con mingas y con el Municipio. El plan no dice cuánto costará ni en qué plazo.",
+            "v": "alta",
+            "n": "Parques y espacios públicos son tarea de la junta. El plan no dice costo.",
+            "cita": "Mejorar y dar mantenimiento a los espacios públicos, canchas y áreas recreativas de la parroquia.",
+            "pag": 17
+          }
+        ],
+        "economia": [
+          {
+            "t": "Organizar ferias periódicas para vender directo lo que producen los agricultores locales.",
+            "que": "Ferias agroecológicas y agroturísticas. El plan no dice cuántas ferias al año ni cuánto costará.",
+            "v": "alta",
+            "n": "Ferias y coordinación con productores: tarea de la junta. El plan no dice costo.",
+            "cita": "Impulsar ferias agroecológicas y agro turísticas periódicas para la comercialización directa de la producción local.",
+            "pag": 15
+          }
+        ]
+      },
+      "metas": [
+        "Rendición de cuentas cada seis meses (semestral) con barrios y recintos.",
+        "Informes anuales de rendición de cuentas y presupuesto participativo."
+      ],
+      "notas": [
+        "Muchas propuestas (agua, luz, vías grandes, policía) no son de la junta. El plan no dice cuánto cuesta ninguna.",
+        "Es el plan de todo el gobierno parroquial, basado en el plan de desarrollo de Mindo, no del cargo de vocal."
+      ]
+    },
+    {
+      "codFormulario": 11033,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan general para Mindo: reuniones con vecinos, informes, prevención con Policía y Municipio y seguimiento de obras. No dice costos ni lugares concretos.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Hacer informes periódicos de la gestión y darlos a conocer a la ciudadanía.",
+            "que": "El plan dice que se elaborarán y difundirán informes periódicos. No dice cada cuánto ni por qué medios, ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la junta y no necesita mucho dinero.",
+            "cita": "Se promoverá la elaboración y socialización de informes periódicos sobre",
+            "pag": 45
+          },
+          {
+            "t": "Hacer asambleas, reuniones comunitarias y diálogos en barrios y comunidades.",
+            "que": "El plan dice que habrá asambleas parroquiales, reuniones comunitarias y diálogos territoriales. No dice cuántas ni en qué lugares.",
+            "v": "alta",
+            "n": "Son reuniones con vecinos: le toca a la junta.",
+            "cita": "Se fortalecerán espacios de encuentro con la ciudadanía mediante",
+            "pag": 46
+          }
+        ],
+        "social": [
+          {
+            "t": "Dar a la gente un papel en revisar las acciones del plan.",
+            "que": "El plan dice que se promoverá la participación ciudadana en el seguimiento, con observaciones y acompañamiento. No dice cómo ni cuándo.",
+            "v": "alta",
+            "n": "Son reuniones y observaciones; le toca a la junta.",
+            "cita": "Se promoverá la participación ciudadana en el seguimiento de las acciones planteadas",
+            "pag": 45
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Organizar reuniones entre vecinos, organizaciones e instituciones para prevenir riesgos sociales.",
+            "que": "El plan dice que se gestionarán espacios de coordinación con la Policía Nacional y el Municipio. No dice cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "Necesita acuerdo con la Policía y el Municipio; la junta no manda en la policía.",
+            "cita": "Promover espacios de coordinación entre ciudadanía, organizaciones comunitarias e instituciones competentes para fortalecer la prevención de riesgos sociales.",
+            "pag": 21
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Dar seguimiento a obras de infraestructura y coordinar con otros niveles de gobierno.",
+            "que": "El plan dice que hará seguimiento de infraestructura y articulación. No dice qué obras, dónde ni cuánto costarán.",
+            "v": "media",
+            "n": "Las obras le tocan a la Prefectura o al Municipio; la junta solo las sigue.",
+            "cita": "Seguimiento de infraestructura, articulación con otros niveles de gobierno",
+            "pag": 33
+          }
+        ],
+        "economia": [
+          {
+            "t": "Juntar a emprendedores con actores turísticos para trabajar en conjunto.",
+            "que": "El plan habla de acciones de articulación con actores turísticos. No dice cuántas, dónde ni cuánto costará.",
+            "v": "media",
+            "n": "Necesita acuerdos con el Municipio y el Ministerio de Turismo.",
+            "cita": "Número de acciones de articulación con actores turísticos",
+            "pag": 42
+          }
+        ]
+      },
+      "metas": [
+        "Evaluación intermedia del avance del Plan en 2029.",
+        "Evaluación final y rendición de cuentas en 2031."
+      ],
+      "notas": [
+        "El plan no pone cifras ni costos. Casi todo son intenciones generales, sin decir qué hará la junta ni dónde.",
+        "Gran parte repite el plan de desarrollo y ordenamiento territorial de Mindo. Varias tareas son de Policía y Municipio, no de la junta.",
+        "Plan muy largo (48 págs.): se resumieron las 39 páginas con propuestas."
+      ]
+    },
+    {
+      "codFormulario": 8070,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan general de la parroquia: pide agua potable al Municipio y obras, y para la junta propone charlas ambientales, consejos y rendir cuentas.",
+      "tabla": {
+        "ambiente": [
+          {
+            "t": "Hacer talleres sobre derechos de la naturaleza y defensa del medio ambiente.",
+            "que": "El plan dice que habrá talleres para promocionar derechos en defensa de la naturaleza y del medio ambiente. No dice cuántos ni cuándo.",
+            "v": "alta",
+            "n": "Charlas y talleres: la junta puede hacerlos. El plan no dice cuánto costarán.",
+            "cita": "Realizar talleres para promocionar derechos en defensa de la naturaleza y medio",
+            "pag": 5
+          },
+          {
+            "t": "Hacer actividades con estudiantes sobre el cuidado del ambiente y el reciclaje.",
+            "que": "El plan dice que se animará a los estudiantes a participar en actividades educativas comunitarias. No dice cuándo ni dónde.",
+            "v": "alta",
+            "n": "La junta puede organizar actividades. El plan no dice con qué escuelas ni cuándo.",
+            "cita": "fomentar la defensa del medio ambiente, promoviendo buenas prácticas de reciclaje.",
+            "pag": 5
+          },
+          {
+            "t": "Dar conferencias sobre impacto ambiental a prestadores de servicios turísticos y a la gente.",
+            "que": "El plan dice que habrá conferencias sobre impacto ambiental para gastronomía, transporte, deportes de aventura y ciudadanos. No dice cuándo.",
+            "v": "alta",
+            "n": "Charlas que la junta puede organizar. El plan no dice cuántas ni cuándo.",
+            "cita": "Se promoverán conferencias sobre impacto ambiental, involucrando a los prestadores",
+            "pag": 5
+          },
+          {
+            "t": "Pedir ayuda al Ministerio del Ambiente y a la Prefectura para recuperar espacios naturales dañados.",
+            "que": "El plan dice que se buscará la participación del Ministerio del Ambiente y del Gobierno de la provincia de Pichincha para recuperar espacios naturales. No dice cómo ni cuándo.",
+            "v": "media",
+            "n": "Necesita acuerdo con el Ministerio y la Prefectura. El plan no dice cómo ni cuándo.",
+            "cita": "impulsar acciones en defensa del medio ambiente, regenerar espacios",
+            "pag": 5
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Pedir al Municipio que Mindo se encargue del servicio de agua potable.",
+            "que": "El plan dice que se pedirá al Municipio de San Miguel de los Bancos que la parroquia preste el agua potable, para mejorar su calidad. No dice cuánto costará.",
+            "v": "baja",
+            "n": "El agua potable le toca al Municipio, no a la junta. El plan no dice cómo se pagará.",
+            "cita": "competencia para prestar el servicio de agua potable en la parroquia de Mindo",
+            "pag": 4
+          }
+        ],
+        "social": [
+          {
+            "t": "Crear consejos consultivos con profesionales de Mindo para revisar los avances.",
+            "que": "El plan dice que se animará a formar consejos consultivos con profesionales de Mindo para evaluar los avances. No dice cuándo se formarán.",
+            "v": "alta",
+            "n": "Organizar a la gente es tarea de la junta. El plan no dice quiénes ni cuándo.",
+            "cita": "Se incentivará la conformación de consejos consultivos con la participación de",
+            "pag": 4
+          }
+        ],
+        "economia": [
+          {
+            "t": "Dar cursos a los prestadores de servicios locales sobre buenas prácticas y turismo sostenible.",
+            "que": "El plan dice que se capacitará a los prestadores locales en buenas prácticas, gestión ambiental y turismo sostenible. No dice cuándo ni quién dará los cursos.",
+            "v": "alta",
+            "n": "Cursos que la junta puede organizar. El plan no dice cuánto cuestan.",
+            "cita": "Se capacitará a los prestadores de servicios locales en buenas prácticas, gestión",
+            "pag": 5
+          },
+          {
+            "t": "Buscar acuerdos de cooperación internacional para conseguir dinero para obras grandes.",
+            "que": "El plan dice que se promoverán acuerdos de cooperación internacional para conseguir recursos que financien obras. No dice qué obras ni cuánto costarán.",
+            "v": "baja",
+            "n": "Obra grande, sin obras ni costos definidos. La junta tiene poco presupuesto.",
+            "cita": "Se promoverán acuerdos de Cooperación Internacional para conseguir recursos que",
+            "pag": 5
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Rendir cuentas de forma permanente sobre el trabajo de la junta.",
+            "que": "El plan dice que la rendición de cuentas será permanente para dar transparencia al trabajo del gobierno parroquial. No dice cada cuánto ni cómo.",
+            "v": "alta",
+            "n": "Es tarea propia de la junta. El plan no dice cada cuánto ni cómo.",
+            "cita": "La rendición de cuentas, será de ejercicio permanente para la administración del",
+            "pag": 7
+          }
+        ],
+        "otros": [
+          {
+            "t": "Hacer gestiones ante otras entidades para conseguir obras que hagan falta en la parroquia.",
+            "que": "El plan dice que habrá gestiones permanentes para conseguir la infraestructura que resuelva las carencias locales. No dice qué obras ni cuándo.",
+            "v": "media",
+            "n": "Las obras las deciden otros niveles de gobierno. La junta solo puede pedirlas.",
+            "cita": "Impulsar diligencias permanentes de gestión para la consecución de infraestructura que",
+            "pag": 4
+          }
+        ]
+      },
+      "metas": [
+        "Plan para el período 2027 — 2031."
+      ],
+      "notas": [
+        "El plan no dice cuánto costará nada ni cuándo se hará. Casi todas las propuestas son generales.",
+        "El plan describe problemas de caminos, puentes y parques, pero no propone acciones concretas para ellos."
+      ]
+    },
+    {
+      "codFormulario": 10861,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan general de Mindo: cuidar el ambiente, mantener caminos con la Prefectura, apoyar productores y hacer reportes. Casi no dice costos ni fechas.",
+      "tabla": {
+        "ambiente": [
+          {
+            "t": "Organizar mingas (trabajo voluntario de vecinos) para cuidar el ambiente y los espacios comunitarios.",
+            "que": "El plan no dice en qué lugares ni cuántas mingas se harán. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Organizar a la comunidad es algo que la junta sí puede hacer.",
+            "cita": "Organización de mingas, conservación ambiental, mantenimiento y cuidado de infraestructura y espacios comunitarios",
+            "pag": 29
+          },
+          {
+            "t": "Hacer acciones de medio ambiente y gestión de riesgos junto con el Municipio y la Prefectura.",
+            "que": "El plan no dice qué acciones ni en qué lugares. El plan no dice cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "Necesita acuerdo con el Municipio y la Prefectura.",
+            "cita": "Ejecución coordinada de acciones relacionadas con la gestión ambiental y la gestión de riesgos",
+            "pag": 29
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Hacer mantenimiento de caminos de la parroquia junto con la Prefectura.",
+            "que": "El plan no dice qué caminos se arreglarán ni cuánto costará. El plan no dice en qué plazo.",
+            "v": "media",
+            "n": "Va junto con la Prefectura. La junta no puede hacerlo sola.",
+            "cita": "Planificación y mantenimiento de la vialidad parroquial rural en coordinación con el GAD Provincial",
+            "pag": 29
+          }
+        ],
+        "economia": [
+          {
+            "t": "Gestionar créditos y asistencia técnica en el Banco de Desarrollo para productores.",
+            "que": "El plan no dice para qué productores ni cuánto dinero. Es una gestión de trámites, no dinero propio de la junta.",
+            "v": "media",
+            "n": "Depende del banco. La junta solo hace la gestión.",
+            "cita": "Gestión de créditos, asistencia técnica y recursos de preinversión ante el Banco de Desarrollo del Ecuador B.P.",
+            "pag": 29
+          },
+          {
+            "t": "Gestionar asistencia técnica, cursos y dinero no reembolsable de otras instituciones para productores.",
+            "que": "El plan no dice qué instituciones ni cuánto dinero. El plan no dice cuándo llegará.",
+            "v": "media",
+            "n": "Depende de terceros que el plan no nombra.",
+            "cita": "Gestión de asistencia técnica, financiamiento no reembolsable, capacitación, investigación, innovación",
+            "pag": 29
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Publicar información periódica sobre la gestión, el presupuesto y los proyectos.",
+            "que": "El plan dice periódicamente, pero no dice cada cuánto ni en qué medio. No dice cuánto costará.",
+            "v": "alta",
+            "n": "Lo hace la propia junta, sin depender de otro nivel.",
+            "cita": "Publicar periódicamente información relacionada con la gestión institucional, el presupuesto, los proyectos y la rendición de cuentas",
+            "pag": 28
+          },
+          {
+            "t": "Hacer reportes cada tres meses sobre metas, indicadores y gasto.",
+            "que": "El plan no dice quién los revisará ni cuánto costará. Dice que serán trimestrales.",
+            "v": "alta",
+            "n": "Es trabajo de la propia junta.",
+            "cita": "Elaborar reportes trimestrales sobre el cumplimiento de metas, indicadores y ejecución presupuestaria.",
+            "pag": 27
+          },
+          {
+            "t": "Hacer cuatro cursos de capacitación para autoridades, vocales y personal hasta 2031.",
+            "que": "El plan no dice de qué temas serán ni cuánto costarán. Son para la propia junta, no para los vecinos.",
+            "v": "alta",
+            "n": "Los cursos son para la propia junta; cuestan poco.",
+            "cita": "Ejecutar cuatro procesos de capacitación dirigidos a los autoridades, vocales y personal administrativo",
+            "pag": 27
+          },
+          {
+            "t": "Tener una lista al día de proyectos, con papeles, convenios y posibles fuentes de dinero.",
+            "que": "El plan no dice cuántos proyectos ni cuándo estará lista. No dice cuánto costará.",
+            "v": "alta",
+            "n": "Es trabajo de organización de la junta.",
+            "cita": "Organizar y mantener actualizada una cartera parroquial de proyectos",
+            "pag": 27
+          }
+        ]
+      },
+      "metas": [
+        "Cuatro procesos de capacitación hasta 2031 para autoridades, vocales y personal.",
+        "Reportes trimestrales (cada tres meses) sobre metas y gasto.",
+        "Informes de gestión cada seis meses.",
+        "Asamblea parroquial al menos una vez al año.",
+        "Plan de trabajo para el período 2027-2031."
+      ],
+      "notas": [
+        "La portada dice 'Distrito Metropolitano de Quito', pero Mindo está en San Miguel de los Bancos. Revise si el plan es de este cargo.",
+        "Pocas propuestas tienen costo, lugar o fecha. Muchas son de organizar reuniones y reportes, no obras.",
+        "Plan muy largo (52 págs.): se resumieron las 23 páginas con propuestas."
+      ]
+    }
+  ]
+}

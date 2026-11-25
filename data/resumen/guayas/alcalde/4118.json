@@ -1,0 +1,122 @@
+{
+ "enfoque": "Plan centrado en agua y basura, con caminos rurales, parques y mercado. Casi no dice cuánto costará ni cuándo se hará.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Hacer un plan maestro de agua potable y alcantarillado para todo el cantón.",
+    "que": "Incluirá un censo de cobertura por recinto y priorizará según población y condición sanitaria. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Formular y licitar el plan maestro de agua potable y alcantarillado del cantón, con levantamiento",
+    "pag": 5
+   },
+   {
+    "t": "Llevar la red pública de agua a más casas, primero en el campo.",
+    "que": "Hoy llega al 30,87 % de la población. El plan no dice cuántas casas nuevas se conectarán ni cuánto costará.",
+    "v": "media",
+    "n": "Depende de préstamos y cooperación, según el mismo plan.",
+    "cita": "Ampliar la red pública más allá del 30,87 % de población conectada, con prioridad en el área rural,",
+    "pag": 6
+   },
+   {
+    "t": "Subir el agua por persona de 65 a 130 litros al día.",
+    "que": "El plan no dice cómo ni en qué plazo se llegará a 130 litros por persona al día.",
+    "v": "media",
+    "n": "El Municipio puede hacerlo, pero el plan no explica cómo.",
+    "cita": "dotación diaria por habitante desde los 65 litros que registra el PDOT hacia el estándar de",
+    "pag": 5
+   },
+   {
+    "t": "Llevar la recolección de basura a todos los recintos del cantón.",
+    "que": "Hará un mapa público de cobertura por recinto y cambiará rutas y frecuencias. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuántos camiones ni cuánto costará.",
+    "cita": "Levantar y publicar la cobertura real de recolección por recinto, y reorganizar rutas y frecuencias",
+    "pag": 6
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Eliminar los botaderos informales y la quema de basura.",
+    "que": "Lo hará con un registro y un calendario públicos. El plan no dice en qué plazo ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no fija fecha para terminarlo.",
+    "cita": "Erradicar los botaderos informales y la quema de residuos, con catastro y cronograma públicos.",
+    "pag": 6
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento cada año a los caminos rurales, con lista pública de tramos.",
+    "que": "Arreglará primero los tramos que quedan cortados en invierno, y las alcantarillas. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Caminos del cantón: le toca al Municipio. Las vías provinciales dependen del Gobierno Provincial.",
+    "cita": "Establecer un programa anual de mantenimiento vial rural con inventario público de tramos",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar y mantener parques y espacios públicos, con luz, bancas y accesibilidad.",
+    "que": "Cada año se construirán o arreglarán espacios deportivos o públicos, con al menos uno en el campo. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuántos parques ni cuánto costará.",
+    "cita": "Recuperar y mantener parques y espacios públicos, con mobiliario, iluminación y accesibilidad.",
+    "pag": 9
+   }
+  ],
+  "economia": [
+   {
+    "t": "Ordenar y equipar el mercado municipal.",
+    "que": "El plan no dice qué arreglos harán, cuánto costarán ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que maneja los mercados.",
+    "cita": "Ordenar y equipar el mercado municipal y la infraestructura de comercialización del cantón.",
+    "pag": 8
+   },
+   {
+    "t": "Pedir al Gobierno Provincial y al Ministerio de Agricultura obras de riego para el arroz.",
+    "que": "El plan no dice qué obras harán, cuánto costarán ni cuándo.",
+    "v": "baja",
+    "n": "No es competencia directa del Municipio. Depende de otros niveles de gobierno.",
+    "cita": "Impulsar con el Gobierno Provincial y el MAG la infraestructura de riego y drenaje que la",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Pedir al Ministerio de Salud mejoras para el centro de salud de la cabecera.",
+    "que": "Hoy tiene 24 camas para todo el cantón. El plan también propone brigadas médicas a los recintos.",
+    "v": "baja",
+    "n": "La salud no es del Municipio. Solo puede pedirla al Ministerio.",
+    "cita": "Gestionar ante el Ministerio de Salud Pública el fortalecimiento del centro de salud de la cabecera",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "Ejecutar más del 90 % del presupuesto cada año.",
+  "Publicar cada tres meses el avance de cada obra de agua y saneamiento.",
+  "Reporte cada seis meses sobre la recolección de basura.",
+  "Construir o arreglar al menos un espacio deportivo o público cada año, uno en el campo."
+ ],
+ "notas": [
+  "Casi ninguna propuesta dice cuánto costará ni cuándo. El agua depende de préstamos y de cooperación.",
+  "Varias propuestas, como la salud y el riego, dependen de otros niveles de gobierno, no solo del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "paginas": 11
+}

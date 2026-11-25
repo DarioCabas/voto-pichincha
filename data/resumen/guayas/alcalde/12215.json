@@ -1,0 +1,154 @@
+{
+ "enfoque": "Seguir obras de agua, calles, basura, parques y drenaje, y ordenar el crecimiento de la ciudad. La seguridad depende de la Policía, no del Municipio.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Limpiar y mantener cauces, canales y drenajes de forma preventiva.",
+    "que": "Obras grandes de drenaje dependen de estudios técnicos que aún se harán. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Prevenir inundaciones es del Municipio. Las obras grandes dependen de estudios.",
+    "cita": "Mantener una programación preventiva de limpieza y mantenimiento de cauces,",
+    "pag": 27
+   }
+  ],
+  "economia": [
+   {
+    "t": "Mejorar, poco a poco, los mercados y espacios municipales para el comercio.",
+    "que": "El plan no dice qué mercados se arreglarán, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Mercados son del Municipio. El plan no dice qué mercados ni costos.",
+    "cita": "Mejorar progresivamente las condiciones de mercados y espacios municipales",
+    "pag": 21
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Revisar y simplificar trámites municipales antes de pasarlos a internet.",
+    "que": "Luego ampliar trámites digitales y consultar su estado en línea. El plan no dice cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Revisar y simplificar procedimientos antes de su digitalización.",
+    "pag": 31
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Asfaltar, recapear y mantener calles, con prioridad según estado y población atendida.",
+    "que": "Incluye reconformación y lastrado de vías. El plan no dice cuántas calles se arreglarán ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuántas calles ni cuánto costará.",
+    "cita": "Continuar programas de asfaltado, recapeo, reconformación y mantenimiento.",
+    "pag": 17
+   },
+   {
+    "t": "Mejorar señales, accesos para peatones e intersecciones donde sea necesario.",
+    "que": "Empieza por corredores y puntos críticos de movilidad y seguridad vial. El plan no dice cuáles ni cuánto costará.",
+    "v": "alta",
+    "n": "Tránsito es del Municipio. El plan no dice cuántos puntos ni costos.",
+    "cita": "Mejorar señalización, accesibilidad peatonal e intersecciones donde sea necesario.",
+    "pag": 17
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Mejorar la iluminación y el espacio público en puntos con inseguridad.",
+    "que": "El plan dice que la seguridad pública depende de la Policía. El plan no dice cuántos puntos ni cuánto costará.",
+    "v": "alta",
+    "n": "La luz y el espacio público sí son del Municipio. La policía no.",
+    "cita": "Priorizar iluminación, recuperación y mantenimiento de espacios públicos en puntos",
+    "pag": 24
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar y mejorar las redes de agua potable y alcantarillado en sectores con más brechas.",
+    "que": "El plan no dice cuánto costará ni cuándo se terminará. Se pagaría con recursos municipales, crédito o cooperación.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Continuar y ampliar el mejoramiento de los sistemas de agua potable, alcantarillado sanitario",
+    "pag": 16
+   },
+   {
+    "t": "Mejorar la recolección de basura: cobertura, eficiencia y organización del servicio.",
+    "que": "Busca separar basura en origen donde haya condiciones. El plan no dice cuánto costará ni cuándo llegará a todos los sectores.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Mejorar la eficiencia, cobertura y organización del servicio de recolección.",
+    "pag": 28
+   }
+  ],
+  "social": [
+   {
+    "t": "Consolidar la política municipal para las mujeres: prevención, orientación y acompañamiento.",
+    "que": "Usa la Unidad de la Mujer ya existente y la coordinación con justicia, salud y policía. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Parte depende de justicia, salud y policía, que no le tocan al Municipio.",
+    "cita": "Consolidar la política municipal para las mujeres, fortaleciendo la prevención de la violencia,",
+    "pag": 23
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar y mantener parques, canchas y áreas recreativas, con prioridad donde falten.",
+    "que": "El plan no dice cuántos parques se arreglarán ni cuánto costará. Dice que se considerará el costo de mantenerlos.",
+    "v": "alta",
+    "n": "Parques y espacios públicos son del Municipio. El plan no dice cuántos ni costos.",
+    "cita": "Recuperar y mantener parques, áreas recreativas, canchas y equipamientos municipales.",
+    "pag": 18
+   }
+  ]
+ },
+ "metas": [
+  "Tiene 18 compromisos para el período 2027-2031.",
+  "Revisar al inicio del período las cifras de partida (líneas base) de los compromisos.",
+  "Seguimiento periódico durante los cuatro años de gobierno, sin cifras de meta fijas."
+ ],
+ "notas": [
+  "El plan casi no pone cifras ni costos. La mayoría de metas dicen 'progresivamente' y no tienen número.",
+  "Varias propuestas dependen de crédito, cooperación o de la Policía, que no le toca al Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40
+ ],
+ "paginas": 40
+}

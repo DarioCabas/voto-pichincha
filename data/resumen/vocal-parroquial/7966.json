@@ -1,0 +1,125 @@
+{
+ "enfoque": "Plan de ADN para la junta de Alangasí: vías, basura, agua, seguridad, apoyo a emprendedores y turismo. Varias obras son de otros niveles y el plan no dice cuánto cuestan.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer gestiones y mantener las vías de la parroquia",
+    "que": "El plan dice que se mantendrán las vías en mal estado y tiene una meta de 95% de vías y aceras. No dice cuánto costará ni quién pagará.",
+    "v": "media",
+    "n": "Le toca a la junta con la Prefectura. La junta no tiene mucho presupuesto.",
+    "cita": "se debe realizar las gestiones pertinentes y mantener las vías adecuadas",
+    "pag": 2
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Estudiar el agua potable y el alcantarillado de la parroquia",
+    "que": "El plan no dice cuánto costará ni cuándo. Tampoco dice qué estudios se harán.",
+    "v": "baja",
+    "n": "El agua potable le toca a otro nivel de gobierno, no a la junta.",
+    "cita": "Elaborar estudios para cubrir la deficiencia del agua potable y alcantarillado en la parroquia",
+    "pag": 9
+   },
+   {
+    "t": "Hacer un proyecto de recolección de basura para toda la población",
+    "que": "El plan no dice cuánto costará ni cuándo. Tampoco dice quién pagará el servicio.",
+    "v": "media",
+    "n": "La basura necesita acuerdo con el Municipio. El plan no lo dice con claridad.",
+    "cita": "Elaborar un proyecto sustentable de recolección de basura en la población",
+    "pag": 9
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger las fuentes de agua, bosques y ecosistemas de la parroquia",
+    "que": "El plan dice que se hará con control, manejo sostenible y participación de la comunidad. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Cuidar el ambiente y organizar a la comunidad sí le toca a la junta.",
+    "cita": "Proteger y conservar las fuentes de agua, bosques y ecosistemas estratégicos",
+    "pag": 4
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Mejorar y activar puntos de seguridad en la parroquia",
+    "que": "El plan no dice qué puntos son ni cuánto costará. No dice cuándo se hará.",
+    "v": "baja",
+    "n": "La policía no le toca a la junta. Solo puede coordinar con ella.",
+    "cita": "Mejorar y activar los puntos de seguridad, para dar mayor confianza y protección a la población",
+    "pag": 9
+   }
+  ],
+  "social": [
+   {
+    "t": "Atender a adultos mayores y grupos vulnerables con programas",
+    "que": "El plan no dice qué programas serán ni cuánto costarán. Tampoco dice cuándo empiezan.",
+    "v": "media",
+    "n": "Le toca a la junta organizar, pero el dinero necesita Municipio o Prefectura.",
+    "cita": "Programas enfocados en la atención a adultos mayores y grupos vulnerables en la parroquia",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar emprendimientos comunitarios y asociativos de economía popular",
+    "que": "El plan dice que el apoyo técnico, financiero y comercial vendrá de instituciones del Estado. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de apoyo de instituciones del Estado, no de la junta.",
+    "cita": "Impulsar emprendimientos comunitarios y asociativos, priorizando iniciativas de economía popular y solidaria",
+    "pag": 3
+   },
+   {
+    "t": "Promover el turismo comunitario en la parroquia",
+    "que": "El plan no dice cuánto costará ni cuándo. Menciona identidad Shuar, que no corresponde a Alangasí.",
+    "v": "media",
+    "n": "Necesita apoyo del Municipio o la Prefectura para la promoción.",
+    "cita": "Promover el turismo comunitario sostenible, basado en la identidad cultural Shuar y la conservación del patrimonio natural",
+    "pag": 4
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear un espacio de información pública sobre la gestión y el presupuesto",
+    "que": "El plan dice que dará acceso a contratos, presupuesto y otros datos. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Es un trabajo interno de la junta y cuesta poco.",
+    "cita": "Creación de un espacio de Transparencia y Acceso a la Información Pública, que facilitará el acceso oportuno",
+    "pag": 3
+   },
+   {
+    "t": "Convocar asambleas periódicas con comunidades y juntas vecinales",
+    "que": "El plan dice que se informará, se atenderán inquietudes y se recibirán propuestas. No dice cada cuánto ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta.",
+    "cita": "Convocar periódicamente a las comunidades, organizaciones sociales, juntas vecinales y autoridades tradicionales",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Rehabilitar el 95% de vías y aceras de la parroquia en 4 años, hasta 2030.",
+  "Rendir cuentas cada año ante la comunidad."
+ ],
+ "notas": [
+  "Las fechas no coinciden (2027-2030 y 2027-2031). Varias propuestas no dicen cuánto cuestan ni de dónde sale el dinero.",
+  "Parte del texto parece copiado de otro plan, por ejemplo la mención a la identidad Shuar y los ejes generales de ADN."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14
+ ],
+ "paginas": 14
+}

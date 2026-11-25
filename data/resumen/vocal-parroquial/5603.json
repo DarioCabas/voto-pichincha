@@ -1,0 +1,172 @@
+{
+ "enfoque": "Plan para toda la junta parroquial de Alóag: caminos, espacios públicos, ambiente, ferias y cursos. Muchas obras dependen del Municipio o la Prefectura.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar y mantener caminos y vías rurales de la parroquia.",
+    "que": "Será un programa permanente, junto con las instituciones competentes. El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "media",
+    "n": "Necesita acuerdos con la Prefectura u otras instituciones. El plan no dice cuánto cuesta.",
+    "cita": "Gestionar programas permanentes de mantenimiento y mejoramiento de caminos y vías rurales, en coordinación con las instituciones competentes.",
+    "pag": 10
+   },
+   {
+    "t": "Hacer proyectos de adoquín, empedrado, bordillos y cunetas en los sectores más necesitados.",
+    "que": "El plan no dice qué sectores ni cuánto costará. Dice que las obras se priorizarán por necesidad, población y conexión entre barrios.",
+    "v": "media",
+    "n": "Obras grandes que suelen ser del Municipio. El plan no dice cuánto cuesta.",
+    "cita": "Impulsar proyectos de adoquinado, empedrado, bordillos, cunetas y mejoramiento vial en los sectores que más lo necesiten.",
+    "pag": 10
+   },
+   {
+    "t": "Gestionar la construcción y arreglo de puentes, alcantarillas y obras de drenaje.",
+    "que": "El plan no dice dónde se construirán ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con otro nivel de gobierno. El plan no dice cuánto cuesta.",
+    "cita": "Gestionar la construcción y mantenimiento de puentes, alcantarillas y obras de drenaje.",
+    "pag": 10
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar espacios públicos, canchas y casas comunales de la parroquia.",
+    "que": "El plan no dice qué espacios se arreglarán ni cuánto costará. Dice que se gestionará su recuperación y mejoramiento.",
+    "v": "alta",
+    "n": "Parques y espacios sí son tarea de la junta. El plan no dice cuánto cuesta.",
+    "cita": "Gestionar la recuperación y mejoramiento de espacios públicos, canchas, casas comunales y demás infraestructura parroquial.",
+    "pag": 10
+   },
+   {
+    "t": "Pedir mejor iluminación y arreglo de espacios públicos a las entidades competentes.",
+    "que": "Se hará con las entidades competentes. El plan no dice cuál ni cuándo.",
+    "v": "media",
+    "n": "Depende de otras entidades; la junta solo gestiona. El plan no dice cuándo.",
+    "cita": "Impulsar la recuperación y adecuada iluminación de espacios públicos, mediante la gestión con las entidades competentes.",
+    "pag": 12
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Cuidar fuentes de agua y espacios naturales de la parroquia.",
+    "que": "El plan no dice qué fuentes ni cuánto costará. Dice que se harán acciones de cuidado y protección.",
+    "v": "alta",
+    "n": "Cuidar el ambiente sí es tarea de la junta. El plan no dice cuánto cuesta.",
+    "cita": "Impulsar acciones de cuidado y protección de fuentes de agua y espacios naturales.",
+    "pag": 11
+   },
+   {
+    "t": "Hacer campañas de educación, reciclaje y buen manejo de la basura.",
+    "que": "El plan no dice cuántas campañas habrá ni cuándo se harán ni cuánto costarán.",
+    "v": "alta",
+    "n": "Campañas y charlas las puede organizar la junta. El plan no dice cuándo.",
+    "cita": "Fomentar una cultura ambiental mediante campañas de educación, reciclaje y manejo responsable de residuos.",
+    "pag": 11
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar cursos a emprendedores y pequeños productores de la parroquia.",
+    "que": "El plan no dice cuántos cursos habrá ni cuánto costarán ni cuándo.",
+    "v": "alta",
+    "n": "Cursos son tarea que la junta puede organizar. El plan no dice cuándo.",
+    "cita": "Capacitar y fortalecer a emprendedores y pequeños productores de la parroquia.",
+    "pag": 11
+   },
+   {
+    "t": "Hacer ferias para vender productos de Alóag.",
+    "que": "El plan no dice cuántas ferias habrá ni dónde. Son espacios para exponer y vender lo que se produce en la parroquia.",
+    "v": "alta",
+    "n": "Ferias son tarea de la junta. El plan no dice cuántas ni cuándo.",
+    "cita": "Promover ferias y espacios para la exposición y comercialización de productos de Alóag.",
+    "pag": 11
+   },
+   {
+    "t": "Gestionar cursos y asistencia técnica para mejorar la producción de los agricultores.",
+    "que": "El plan no dice cuántos cursos habrá ni cuánto costarán ni cuándo.",
+    "v": "alta",
+    "n": "Cursos para productores sí puede organizar la junta. El plan no dice cuándo.",
+    "cita": "Gestionar capacitaciones y asistencia técnica para mejorar la producción.",
+    "pag": 11
+   }
+  ],
+  "social": [
+   {
+    "t": "Pedir programas de atención para adultos mayores, personas con discapacidad, niños y familias vulnerables.",
+    "que": "El plan no dice cuántos programas habrá ni cuánto costarán ni cuándo.",
+    "v": "media",
+    "n": "Estos programas los dan otras instituciones. La junta solo coordina.",
+    "cita": "Gestionar programas de atención para adultos mayores, personas con discapacidad, niños, adolescentes y familias en situación de vulnerabilidad.",
+    "pag": 12
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Hacer actividades de prevención y convivencia pacífica en barrios y comunidades.",
+    "que": "El plan no dice cuántas actividades habrá ni cuándo. Dice que la coordinación con otras instituciones será con las competentes.",
+    "v": "alta",
+    "n": "Charlas y actividades sí; la policía no le toca a la junta.",
+    "cita": "Promover actividades de prevención y convivencia pacífica en barrios y comunidades.",
+    "pag": 12
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar cada seis meses una lista de propuestas cumplidas, en marcha y pendientes.",
+    "que": "Se hará cada seis meses (semestral). El plan no dice cómo se verificará ni cuánto costará.",
+    "v": "alta",
+    "n": "Publicar información sí le toca a la junta.",
+    "cita": "Publicar una matriz de cumplimiento que indique las propuestas cumplidas, en ejecución y pendientes.",
+    "pag": 16
+   },
+   {
+    "t": "Crear espacios de diálogo para escuchar a los vecinos sobre sus necesidades.",
+    "que": "El plan no dice dónde ni cuántas veces ni cuánto costarán, aunque en la tabla de rendición de cuentas dice que las asambleas serán cada tres meses.",
+    "v": "alta",
+    "n": "Reuniones con vecinos sí le toca a la junta. El plan no dice cuánto cuesta.",
+    "cita": "Crear espacios de diálogo para conocer las necesidades y propuestas de la ciudadanía.",
+    "pag": 11
+   },
+   {
+    "t": "Hacer un presupuesto participativo: los vecinos eligen obras cada año.",
+    "que": "Se hará cada año. El plan no dice cuánto dinero se destinará ni cuánto costará.",
+    "v": "alta",
+    "n": "Decidir obras con vecinos sí le toca a la junta. El plan no dice cuánto cuesta.",
+    "cita": "Involucrar a la ciudadanía en la identificación y priorización de obras y proyectos para la parroquia.",
+    "pag": 15
+   }
+  ]
+ },
+ "metas": [
+  "Asambleas ciudadanas cada tres meses.",
+  "Rendición de cuentas pública cada seis meses.",
+  "Informe anual de gestión cada año.",
+  "Matriz de cumplimiento publicada cada seis meses.",
+  "Plan de trabajo para los años 2027 a 2031."
+ ],
+ "notas": [
+  "Incluye agua, salud, educación y policía, que no son del cargo de vocal. Varias obras dependen del Municipio o la Prefectura.",
+  "Casi ninguna propuesta dice cuánto cuesta, de dónde sale el dinero ni en qué mes se hará."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "paginas": 18
+}

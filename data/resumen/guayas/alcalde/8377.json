@@ -1,0 +1,130 @@
+{
+ "enfoque": "Copia en gran parte el plan de desarrollo del cantón: agua, alcantarillado, basura, calles y parques, con montos ya asignados en ese plan.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Hacer un plan maestro de agua potable y alcantarillado del cantón.",
+    "que": "Empezaría por la cabecera cantonal, donde el alcantarillado es emergencia sanitaria según el plan. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Ya hay USD 16.735.990,39 asignados en el plan vigente.",
+    "cita": "Formular y licitar el plan maestro de agua potable y alcantarillado del cantón, priorizando la cabecera cantonal",
+    "pag": 11
+   },
+   {
+    "t": "Extender la red de agua potable a comunas y recintos rurales.",
+    "que": "Incluye las comunas San Antonio y Engabao y los recintos El Arenal, San Vicente y Data de Villamil. Hoy la cobertura es del 35 %. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni en qué plazo.",
+    "cita": "Extender la red de agua potable a las comunas San Antonio y Engabao y a los recintos El Arenal",
+    "pag": 11
+   },
+   {
+    "t": "Auditar HIDROPLAYAS EP, la empresa municipal de agua, en los primeros 90 días.",
+    "que": "Revisar la planta de procesamiento y el punto de captación del embalse, sin mantenimiento desde 2010, según el plan. El plan no dice el costo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que es dueño de la empresa de agua.",
+    "cita": "Auditar técnica y financieramente a HIDROPLAYAS EP en los primeros noventa días de gestión,",
+    "pag": 10
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Levantar y publicar la lista de botaderos clandestinos de basura.",
+    "que": "El plan dice que cada botadero tendrá un cronograma de cierre y remediación. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio (basura). El plan no dice cuánto costará ni cuándo.",
+    "cita": "Levantar y publicar el catastro de botaderos clandestinos del cantón, problema al que el propio",
+    "pag": 11
+   },
+   {
+    "t": "Convertir el botadero a cielo abierto en un relleno sanitario.",
+    "que": "El plan lo incluye en proyectos de basura y reciclaje. El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cómo lo pagará.",
+    "cita": "incluida la transformación del botadero a cielo abíerto en un relleno sanitario con estándares ambientales",
+    "pag": 11
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Asfaltar, reasfaltar y tapar huecos en calles y avenidas del cantón.",
+    "que": "Según el plan, falta asfalto en el 70 % de la red. El plan no dice cuánto costará; usa USD 10.599.460,58 del plan vigente.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Hay USD 10.599.460,58 asignados en el plan vigente.",
+    "cita": "Programar y ejecutar el asfaltado, reasfaltado y bacheo de las calles y avenidas del cantón",
+    "pag": 13
+   },
+   {
+    "t": "Crear áreas verdes y espacios de recreación familiar.",
+    "que": "El plan dice que hoy no existen. Incluye espacios biosaludables en parques y áreas turísticas. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (parques). El plan no dice dónde ni cuánto costará.",
+    "cita": "Crear áreas verdes y espacios de recreación familiar, cuya Inexistencia el PDOT registra",
+    "pag": 13
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Ordenar el transporte público y los taxis y tricimotos.",
+    "que": "El plan menciona falta de servicio de noche y dificultades para personas mayores. No dice cómo ni cuándo lo hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cómo ni cuándo lo hará.",
+    "cita": "Ordenar el transporte público y las cooperativas de taxis y tricimotos, atendiendo la ausencia",
+    "pag": 13
+   }
+  ],
+  "otros": [
+   {
+    "t": "Pedir al Ministerio de Salud el hospital de la cabecera cantonal.",
+    "que": "El plan dice que pedirá la construcción o ampliación del hospital. El plan no dice cuándo se hará.",
+    "v": "baja",
+    "n": "La salud no le toca al Municipio. Solo puede pedirlo al Ministerio.",
+    "cita": "Gestionar ante el Ministerio de Salud Pública la construcción o ampliación del hospital de la",
+    "pag": 10
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Pedir al Ministerio del Interior unidades de Policía Comunitaria.",
+    "que": "Serían en zonas conflictivas. El plan no dice dónde ni cuánto costará.",
+    "v": "baja",
+    "n": "La policía no le toca al Municipio. Solo puede gestionarla.",
+    "cita": "gestionar ante el Ministerio del Interior la construcción de Unidades de Policía Comunitaria en",
+    "pag": 10
+   }
+  ]
+ },
+ "metas": [
+  "Auditar HIDROPLAYAS EP en los primeros 90 días de gestión.",
+  "Cuarenta procesos de construcción o mantenimiento de agua y saneamiento hasta 2027.",
+  "Doce procesos de regeneración urbana hasta 2027.",
+  "Reporte público semestral de recolección y botaderos.",
+  "Tablero público de obras cada tres meses."
+ ],
+ "notas": [
+  "Plan copiado en gran parte del plan de desarrollo del cantón. Muchas metas y montos son de ese plan, no propios.",
+  "El plan no trae costos propios; usa montos ya asignados en el plan vigente del cantón."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "paginas": 18
+}

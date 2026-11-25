@@ -1,0 +1,129 @@
+{
+ "enfoque": "Plan con 34 ideas para Durán (educación, empleo, obras, salud, turismo). Muchas dependen de convenios. No trae costos ni cifras.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Arreglar y modernizar obras urbanas, viales, hidráulicas y de servicios en los barrios.",
+    "que": "Dice que se priorizarán las necesidades de barrios y sectores. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Calles y obras de barrio son del Municipio. El plan no dice cómo se pagará.",
+    "cita": "Impulsaremos la recuperación y modernización de la infraestructura urbana, vial,",
+    "pag": 8
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Hacer estudios técnicos para encontrar opciones de agua potable sostenibles.",
+    "que": "Son estudios para mejorar el agua potable del cantón. El plan no dice cuánto costará ni cuándo estarán listos.",
+    "v": "alta",
+    "n": "El agua potable es del Municipio, pero el plan solo habla de estudios.",
+    "cita": "Realizaremos estudios técnicos integrales para determinar alternativas sostenibl",
+    "pag": 8
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Crear un Sistema de Reciclaje Municipal con separación de residuos y educación ambiental.",
+    "que": "Incluye separar basura, educar sobre el tema y recuperar materiales reciclables. El plan no dice cuánto costará ni dónde.",
+    "v": "alta",
+    "n": "La basura es competencia municipal. El plan no dice cuánto costará.",
+    "cita": "Implementaremos un Sistema de Reciclaje Municipal, promoviendo separación",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Ofrecer consultas externas y emergencias municipales las 24 horas.",
+    "que": "El plan dice que se hará según competencias y convenios. No dice cuánto costará ni dónde se atenderá.",
+    "v": "baja",
+    "n": "La salud no es competencia municipal; depende de otras instituciones.",
+    "cita": "gestionando consultas externas y atención de emergencias municipales las 24 horas,",
+    "pag": 9
+   },
+   {
+    "t": "Promover programas de cuidado infantil con convenios para familias trabajadoras.",
+    "que": "Busca apoyar a familias trabajadoras con atención a la primera infancia. El plan no dice cuánto costará ni cuántos niños atenderá.",
+    "v": "media",
+    "n": "Depende de convenios con otras instituciones. El plan no dice costos.",
+    "cita": "Promoveremos programas de atención y cuidado infantil, mediante convenios y",
+    "pag": 6
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Aportar iluminación y recuperar espacios públicos como apoyo a la seguridad.",
+    "que": "El plan dice que la seguridad es del Gobierno Nacional y que el Municipio ayudará con luz, espacios públicos y prevención. No dice costos.",
+    "v": "media",
+    "n": "Luz y espacios públicos sí son municipales; la policía no. El plan no dice costos.",
+    "cita": "Reconociendo que la seguridad pública es competencia del Gobierno Nacional",
+    "pag": 12
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear una Dirección de Desarrollo Artesanal para vender y promocionar artesanía de Durán.",
+    "que": "Busca capacitar, organizar, promocionar y comercializar la artesanía local. El plan no dice cuánto costará ni cuándo empieza.",
+    "v": "media",
+    "n": "El Municipio puede crear la dirección, pero el plan no dice cómo la pagará.",
+    "cita": "Crearemos y fortaleceremos una Dirección de Desarrollo Artesanal, orientada a",
+    "pag": 7
+   }
+  ],
+  "otros": [
+   {
+    "t": "Crear un programa de turismo basado en la identidad, gastronomía e historia de Durán.",
+    "que": "Busca aprovechar la cultura, la gastronomía y la ubicación de Durán. El plan no dice cuánto costará ni quién lo pagará.",
+    "v": "media",
+    "n": "La promoción turística depende de otras entidades. El plan no dice costos.",
+    "cita": "Desarrollaremos un Programa Integral de Turismo, aprovechando la identidad,",
+    "pag": 10
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar avances de obras, presupuesto y contrataciones para que la gente los vea.",
+    "que": "Dice que la información será clara y permanente. El plan no dice cada cuánto ni por qué medio se publicará.",
+    "v": "alta",
+    "n": "Es tarea propia del Municipio. El plan no dice la frecuencia.",
+    "cita": "Publicación y socialización de avances de obras y proyectos.",
+    "pag": 17
+   },
+   {
+    "t": "Hacer espacios de diálogo con barrios y organizaciones para conocer sus necesidades.",
+    "que": "Busca que los barrios y organizaciones sociales den sus prioridades. El plan no dice cuántas reuniones habrá ni cada cuánto.",
+    "v": "alta",
+    "n": "Reuniones con barrios son del Municipio. El plan no dice la frecuencia.",
+    "cita": "Espacios de diálogo con barrios, comunidades y organizaciones sociales.",
+    "pag": 17
+   }
+  ]
+ },
+ "metas": [
+  "Ejecución progresiva de las propuestas durante el período 2027-2031."
+ ],
+ "notas": [
+  "El plan no trae diagnóstico, presupuesto ni cifras: el propio documento dice que faltan datos oficiales.",
+  "Varias propuestas (universidad, salud, empleo, seguridad) no son del Municipio y dependen de convenios."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17
+ ],
+ "paginas": 17
+}

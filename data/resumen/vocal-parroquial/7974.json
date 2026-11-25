@@ -1,0 +1,115 @@
+{
+ "enfoque": "Plan general para Checa: cuidar agua y ambiente, ayudar a productores, pedir arreglos de calles y publicar las obras. Muchas tareas dependen de otras instituciones.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Revisar y cuidar fuentes de agua, quebradas y zonas prioritarias, con acuerdos de conservación.",
+    "que": "El plan no dice qué fuentes ni cuánto costará restaurarlas. No dice cuándo se hará.",
+    "v": "alta",
+    "n": "Vigilar y acordar cuidado con vecinos cabe en la junta; restaurar cuesta más.",
+    "cita": "Mapear, vigilar y restaurar fuentes, quebradas y áreas prioritarias; gestionar acuerdos de conservación.",
+    "pag": 3
+   },
+   {
+    "t": "Actualizar el mapa de peligros, rutas de evacuación y puntos seguros para incendios y eventos climáticos.",
+    "que": "El plan incluye brigadas y protocolos. No dice quién hará el mapa ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita apoyo de otras instituciones; el plan no dice cuáles.",
+    "cita": "Actualizar mapa de amenazas, rutas de evacuación, puntos seguros, brigadas y protocolos ante incendios y eventos climáticos.",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear ferias, canastas y compras locales, y conectar productores con restaurantes y hoteles.",
+    "que": "El plan dice que conectará con restaurantes, hoteles y empresas del corredor del aeropuerto. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Ferias y compras locales las puede organizar la junta; el plan no dice cuánto costará.",
+    "cita": "Desarrollar una marca territorial y circuitos cortos: ferias, canastas, compras locales y vinculación",
+    "pag": 2
+   },
+   {
+    "t": "Conseguir asesoría técnica para cultivos, riego, costos y ventas de productores.",
+    "que": "El plan no dice quién dará la asesoría, cuánto costará ni cuándo empieza.",
+    "v": "media",
+    "n": "Necesita que otra institución dé la asesoría; la junta puede organizarla.",
+    "cita": "Articular asistencia técnica en nutrición de cultivos, sanidad, riego eficiente, costos, asociatividad",
+    "pag": 2
+   },
+   {
+    "t": "Pedir mantenimiento y mejor uso del riego, sobre todo del Canal El Pisque.",
+    "que": "El plan no dice qué arreglos se harán, cuánto costarán ni quién los pagará.",
+    "v": "media",
+    "n": "Necesita acuerdo con otras instituciones; el plan no dice cuáles.",
+    "cita": "Gestionar mantenimiento, tecnificación y uso eficiente del riego, con énfasis en el Canal El Pisque",
+    "pag": 2
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar cada obra: presupuesto, empresa encargada, plazo y avance.",
+    "que": "El plan dice que se publicará lo gestionado o ejecutado en Checa. No dice en qué medio ni cada cuánto.",
+    "v": "alta",
+    "n": "Dar cuentas a la gente le toca a la junta. El plan no dice dónde se publicará.",
+    "cita": "Publicar estado, presupuesto, contratista, plazo, avance y alertas de proyectos gestionados o ejecutados en Checa,",
+    "pag": 3
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Organizar comités de vecinos, alarmas, luces y canales para denunciar.",
+    "que": "El plan no dice cuántos comités ni dónde se instalarán alarmas. La coordinación con la Policía y el servicio de emergencias no dice cómo se hará.",
+    "v": "media",
+    "n": "Comités y luces sí; la Policía y el servicio de emergencias no son de la junta.",
+    "cita": "Fortalecer comités, alarmas, iluminación preventiva, canales de denuncia y coordinación con",
+    "pag": 3
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Hacer un registro con los barrios de agua, drenaje, alumbrado, vías y espacios públicos.",
+    "que": "El plan dice que se hará con barrios y comunidades. No dice cuánto costará ni cuándo estará listo.",
+    "v": "media",
+    "n": "El agua y el drenaje no son de la junta; sirve para pedir obras al Municipio.",
+    "cita": "Levantar y actualizar, con barrios y comunidades, un banco georreferenciado de agua, saneamiento, drenaje, alumbrado, vías y espacios públicos.",
+    "pag": 2
+   }
+  ],
+  "social": [
+   {
+    "t": "Ayudar a personas mayores, con discapacidad, niños y familias vulnerables a llegar a la atención que necesitan.",
+    "que": "El plan no dice qué atención se dará, con quién ni cuánto costará.",
+    "v": "media",
+    "n": "La atención de salud no es de la junta; solo puede conectar con quien la da.",
+    "cita": "Coordinar atención y derivación para personas mayores, discapacidad, niñez y familias vulnerables.",
+    "pag": 3
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Pedir arreglos de cunetas, alcantarillas, adoquinado y tramos de calle en mal estado.",
+    "que": "El plan dice que se gestionará según competencia y estudios. No dice qué calles, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura o el Municipio; la junta no paga obras grandes.",
+    "cita": "Gestionar mantenimiento, cunetas, alcantarillas, adoquinado y estabilización de tramos criticos conforme a competencia y estudios.",
+    "pag": 2
+   }
+  ]
+ },
+ "metas": [
+  "Plan para el periodo 2027 a 2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto dinero costarán las propuestas ni cuándo se harán. Muchas tareas dependen de otras instituciones.",
+  "Parte del texto es general y parece copiado de un plan de desarrollo de la parroquia; agua, salud y policía no son de la junta."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "paginas": 5
+}

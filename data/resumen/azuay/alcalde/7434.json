@@ -1,0 +1,134 @@
+{
+ "enfoque": "Arreglar caminos, cuidar agua, alcantarillado y basura, y revisar obras con las reglas del suelo. Se basa en el plan de desarrollo del cantón.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar cada año al menos el 70 % de los caminos priorizados por el Municipio.",
+    "que": "El plan no dice cuánto costará. Incluye limpiar cunetas y arreglar bordillos y veredas donde haga falta.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto cuesta.",
+    "cita": "que intervenga anualmente al menos el 70 % de los tramos priorizados por la planificación municipal",
+    "pag": 10
+   },
+   {
+    "t": "Pedir un crédito al Banco de Desarrollo del Ecuador para renovar las máquinas que arreglan caminos.",
+    "que": "Se pediría hasta 2028. Depende de que el banco evalúe y apruebe el crédito, y de la capacidad de pagar deudas.",
+    "v": "media",
+    "n": "El banco decide. Si no aprueba el crédito, no se hace.",
+    "cita": "una operación de financiamiento ante el Banco de Desarrollo del Ecuador (BDE) para la renovación y modernización del equipo caminero municipal",
+    "pag": 10
+   },
+   {
+    "t": "Gestionar mejoras en al menos 5 kilómetros de caminos que unen comunidades y zonas productivas.",
+    "que": "El plan dice que lo gestionará, pero no dice cuánto costará ni cuándo. Dará prioridad a caminos que unen comunidades.",
+    "v": "media",
+    "n": "Depende de dinero y de otras instituciones.",
+    "cita": "la gestión para el mejoramiento de al menos 5 kilómetros de vías, priorizando aquellas que contribuyan a la conectividad entre comunidades",
+    "pag": 10
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar, arreglar y dar mantenimiento al agua potable, al alcantarillado y a la recolección de basura.",
+    "que": "El plan no dice cuánto costará ni en qué zonas se hará. Habla de agua, alcantarillado y basura sólida.",
+    "v": "alta",
+    "n": "Es tarea del Municipio. El plan no dice cuánto cuesta.",
+    "cita": "la ampliación, rehabilitación y mantenimiento de los sistemas de agua potable, alcantarillado y gestión de residuos sólidos",
+    "pag": 11
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer al menos cinco obras para mejorar espacios públicos, equipamientos y accesibilidad.",
+    "que": "Se elegirán según el plan de uso del suelo. El plan no dice cuánto costará ni en qué lugares.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto cuesta.",
+    "cita": "la ejecución de al menos cinco intervenciones municipales destinadas al mejoramiento de servicios, equipamiento, espacio público y accesibilidad",
+    "pag": 11
+   },
+   {
+    "t": "Revisar que todas las obras municipales cumplan las reglas de uso del suelo del cantón.",
+    "que": "La revisión se hará antes de aprobar o construir cada obra. Cada año se publicará un informe de esta revisión.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Es una revisión interna.",
+    "cita": "que el 100% de los proyectos municipales de inversión con incidencia territorial cuenten, antes de su priorización o ejecución",
+    "pag": 11
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Cuidar el ambiente y prevenir riesgos en las obras municipales.",
+    "que": "Las obras priorizadas tendrán un análisis para prevenir amenazas. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que también prevé desastres. Sin costo dicho.",
+    "cita": "la incorporación de criterios de sostenibilidad ambiental, conservación de los recursos naturales y gestión de riesgos en la planificación",
+    "pag": 9
+   }
+  ],
+  "social": [
+   {
+    "t": "Gastar al menos el 10 % de los ingresos que no son impuestos en programas para grupos prioritarios.",
+    "que": "Por ejemplo adultos mayores, jóvenes y mujeres rurales. El plan no dice cuánto dinero será en total.",
+    "v": "media",
+    "n": "Social no es tarea directa del alcalde según la ley.",
+    "cita": "al menos el 10% de los ingresos no tributarios para el financiamiento de la planificación y ejecución de programas sociales",
+    "pag": 10
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar al menos 12 grupos productivos y capacitar a 200 personas hasta 2031.",
+    "que": "Se hará con asistencia técnica, ayuda para vender y convenios con otras entidades. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de otras entidades. El plan no dice cuánto cuesta.",
+    "cita": "Fortalecer hasta 2031 al menos doce organizaciones, asociaciones o grupos productivos y capacitar al menos a 200 participantes",
+    "pag": 10
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar cada seis meses informes de avance del plan, con metas cumplidas y gastos.",
+    "que": "Incluye cuánto dinero se gastó y qué resultados hubo. También habrá una rendición de cuentas pública cada año.",
+    "v": "alta",
+    "n": "Le toca al alcalde y no depende de otros.",
+    "cita": "la publicación semestral de informes de avance del Plan de Trabajo, con información sobre el cumplimiento de metas",
+    "pag": 11
+   }
+  ]
+ },
+ "metas": [
+  "Cada año, arreglar al menos el 70 % de los caminos priorizados.",
+  "Hasta 2028: pedir el crédito del Banco de Desarrollo para renovar máquinas de caminos.",
+  "Hasta 2029: crear al menos tres rutas de turismo comunitario.",
+  "Hasta 2031: apoyar al menos 12 grupos productivos y capacitar a 200 personas.",
+  "Cada seis meses, un informe de avance; cada año, una rendición de cuentas pública."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará casi ninguna obra ni de dónde saldrá el dinero.",
+  "Según el plan, en 2027 solo habrá obras de bajo costo; las grandes quedan para después."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20
+ ],
+ "paginas": 20
+}

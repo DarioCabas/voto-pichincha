@@ -1,0 +1,141 @@
+{
+ "enfoque": "Caminos con mingas, convenios para conseguir dinero, turismo y ferias, y cuidado ambiental. Varias metas dependen de otras instituciones.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Hacer proyectos para cuidar ecosistemas y la biodiversidad de la parroquia.",
+    "que": "Diseñar una estrategia de gestión sostenible y conservación de ecosistemas y biodiversidad. Meta: 10 talleres entre 2028 y 2031. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Es un trabajo de la junta, pero el plan no dice qué acciones concretas tendrá.",
+    "cita": "Diseñar una estrategia de gestión sostenible y conservación de ecosistemas y biodiversidad",
+    "pag": 18
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer proyectos de turismo comunitario, rural, gastronómico y de naturaleza.",
+    "que": "Meta: 8 proyectos de desarrollo productivo y turístico hasta 2031. El plan no dice qué proyectos son ni cuánto costarán.",
+    "v": "media",
+    "n": "Necesita apoyo de otras instituciones. El plan no dice cuánto costará.",
+    "cita": "Impulsar el turismo comunitario, rural, gastronómico y de naturaleza.",
+    "pag": 12
+   },
+   {
+    "t": "Pedir la creación de centros para producir, guardar y vender.",
+    "que": "Gestionar centros de producción y comercialización para los agricultores. Meta: sistema de desarrollo productivo en 2029. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "La junta pide la obra. El plan no dice quién la construye ni cuánto cuesta.",
+    "cita": "Gestionar la creación de centros de producción y comercialización.",
+    "pag": 17
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Gestionar convenios con instituciones públicas, privadas y organismos de cooperación.",
+    "que": "Busca dinero y materiales para proyectos. Meta: 4 convenios entre 2028 y 2031. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Otras instituciones tienen que firmar. El plan no dice cuánto dinero se conseguirá.",
+    "cita": "Gestionar convenios con instituciones públicas, privadas, organizaciones sociales y organismos de cooperación.",
+    "pag": 15
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer un estudio y un mapa para decidir qué caminos arreglar primero.",
+    "que": "Elaborar un diagnóstico y mapa de prioridades de la vialidad parroquial. El plan no dice cuánto costará ni cuándo estará listo.",
+    "v": "alta",
+    "n": "Es un estudio que la junta puede hacer. El plan no dice cuánto costará.",
+    "cita": "Elaborar un diagnóstico y mapa de prioridades de la vialidad parroquial.",
+    "pag": 19
+   },
+   {
+    "t": "Organizar mingas para arreglar y cuidar los caminos.",
+    "que": "Trabajo comunitario para mantener caminos. Meta: 10 proyectos de mantenimiento vial entre 2027 y 2031. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Las mingas son trabajo comunitario que la junta puede organizar.",
+    "cita": "Promover mingas comunitarias para el mantenimiento de caminos.",
+    "pag": 24
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Coordinar con la Policía rondas y acciones de prevención en los barrios.",
+    "que": "Trabajar con la Policía Nacional en recorridos y acciones preventivas en barrios y comunidades. El plan no dice cuándo ni cuánto costará.",
+    "v": "baja",
+    "n": "La Policía es de otro nivel de gobierno. La junta solo puede coordinar.",
+    "cita": "Coordinar con la Policía Nacional recorridos y acciones preventivas en los diferentes barrios y comunidades.",
+    "pag": 18
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir arreglos y mantenimiento de las escuelas y colegios.",
+    "que": "Gestionar el mejoramiento y mantenimiento de los edificios de las escuelas. Meta: 10 talleres de educación y seguridad. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "Las escuelas son de otro nivel de gobierno, no de la junta.",
+    "cita": "Gestionar el mejoramiento y mantenimiento de la infraestructura de los establecimientos educativos.",
+    "pag": 11
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar cabalgatas, juegos populares y encuentros comunitarios.",
+    "que": "Actividades para unir a la comunidad. Meta: 8 proyectos deportivos y culturales entre 2027 y 2031. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar actividades comunitarias es trabajo de la junta.",
+    "cita": "Promover actividades tradicionales como cabalgatas, juegos populares y encuentros comunitarios.",
+    "pag": 16
+   },
+   {
+    "t": "Pedir arreglos, mantenimiento y ampliación de canchas y escenarios deportivos.",
+    "que": "Gestionar el mejoramiento, mantenimiento y ampliación de los escenarios deportivos de la parroquia. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Arreglar canchas cuesta dinero y depende de otras instituciones.",
+    "cita": "Gestionar el mejoramiento, mantenimiento y ampliación de los escenarios deportivos de la parroquia.",
+    "pag": 11
+   }
+  ]
+ },
+ "metas": [
+  "1 convenio al año; 4 convenios entre 2028 y 2031.",
+  "10 proyectos de mantenimiento vial entre 2027 y 2031.",
+  "8 proyectos de desarrollo productivo y turístico hasta 2031.",
+  "8 proyectos deportivos y culturales entre 2027 y 2031.",
+  "10 talleres de conservación ambiental entre 2028 y 2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Varias propuestas (escuelas, policía, transporte escolar) son de otros niveles y no de la junta."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27
+ ],
+ "paginas": 27
+}

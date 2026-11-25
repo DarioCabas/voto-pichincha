@@ -1,0 +1,101 @@
+{
+ "enfoque": "Plan copiado del plan del cantón. Propone cuidar páramos y agua, arreglar caminos con la Prefectura, apoyar productores y rendir cuentas en asambleas y en una web.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Hacer acciones comunitarias para cuidar páramos, fuentes de agua y microcuencas",
+    "que": "El plan dice que se harán acciones con la comunidad para regenerar, educar y cuidar los recursos naturales. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "La junta puede organizar a la comunidad para cuidar el ambiente. El plan no dice cuánto costará.",
+    "cita": "mediante acciones comunitarias de regeneración, educación ambiental y gestión sostenible de los recursos naturales",
+    "pag": 4
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas cada tres meses en barrios y comunas",
+    "que": "El plan dice que las asambleas serán itinerantes, en barrios y comunas, para informar sobre el gasto sin que la gente viaje. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Reunir a la comunidad sí le toca a la junta. El plan no dice cuánto costará.",
+    "cita": "Se institucionalizará la convocatoria trimestral a Asambleas de carácter itinerante en los diferentes barrios y comunas de la jurisdicción rural.",
+    "pag": 8
+   },
+   {
+    "t": "Decidir en público, con delegados, en qué se gasta el dinero de inversión de la junta",
+    "que": "El plan dice que el 100% del dinero de inversión de la junta se decidirá en reuniones públicas con delegados barriales y comunitarios. No dice cuánto dinero es.",
+    "v": "alta",
+    "n": "Es dinero de la junta y lo decide la comunidad. El plan no dice cuánto es.",
+    "cita": "El 100% de los fondos asignados legalmente a la Junta Parroquial para proyectos de inversión",
+    "pag": 9
+   },
+   {
+    "t": "Publicar en una web las sesiones de la junta y el cumplimiento del plan cada trimestre",
+    "que": "El plan dice que habrá un sitio web de libre acceso. Allí se publicará cada trimestre información de las sesiones y cuadros de cumplimiento del plan. No dice cuánto costará.",
+    "v": "media",
+    "n": "Es un sitio web: el plan no dice quién lo hará ni cuánto costará.",
+    "cita": "En este portal se publicarán trimestralmente información sobre las sesiones de la Junta y las matrices de cumplimiento",
+    "pag": 9
+   },
+   {
+    "t": "Apoyar la creación de grupos de vecinos que vigilen las obras y el mantenimiento",
+    "que": "El plan dice que la junta dará facilidades para que el Consejo de Participación Ciudadana forme grupos de vecinos que revisen obras viales y otros servicios. No dice cuánto costará.",
+    "v": "media",
+    "n": "Depende del Consejo de Participación Ciudadana, otra entidad. El plan no dice cómo se forman.",
+    "cita": "El GAD Parroquial promoverá y dará facilidades ante el Consejo de Participación Ciudadana y Control Social (CPCCS) para la conformación de veedurías ciudadanas independientes integradas por los propios vecinos.",
+    "pag": 9
+   },
+   {
+    "t": "Dar cursos de formación a dirigentes y jóvenes de la parroquia",
+    "que": "El plan dice que se formarán dirigentes y jóvenes para participar en presupuestos y en el seguimiento de proyectos. No dice cuántos cursos ni cuándo.",
+    "v": "alta",
+    "n": "Los cursos sí le tocan a la junta. El plan no dice cuándo ni cuánto cuesta.",
+    "cita": "la formación de dirigentes y jóvenes, los presupuestos participativos",
+    "pag": 3
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar caminos rurales en comunas y comunidades",
+    "que": "El plan dice que se mejorarán las condiciones de los caminos rurales, con prioridad en comunas y comunidades con más necesidad. No dice cuánto costará ni en qué plazo.",
+    "v": "media",
+    "n": "Los caminos se hacen junto con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Mejorar las condiciones de vialidad rural, agua potable, saneamiento y conectividad digital de la parroquia",
+    "pag": 4
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Mejorar el agua potable y el saneamiento, poco a poco, en la parroquia",
+    "que": "El plan dice que el agua potable y el saneamiento se mejorarán de forma progresiva. No dice dónde ni cuánto costará.",
+    "v": "baja",
+    "n": "El agua potable le toca a otro nivel de gobierno, no a la junta.",
+    "cita": "el mejoramiento progresivo del agua potable, saneamiento, vialidad rural y conectividad digital",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [
+  "Asambleas itinerantes en barrios y comunas cada tres meses.",
+  "El 100% de los fondos de inversión de la Junta se decide en público con delegados.",
+  "Información de sesiones y cumplimiento publicada en la web cada trimestre.",
+  "Plan de trabajo para los años 2027 a 2031."
+ ],
+ "notas": [
+  "Plan copiado del plan del cantón. Muchas propuestas no dicen cuánto cuestan ni cuándo se harán.",
+  "Agua, salud y escuelas le tocan a otros niveles de gobierno; el plan no aclara cómo las haría la junta."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "paginas": 10
+}

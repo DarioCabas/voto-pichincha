@@ -1,0 +1,127 @@
+{
+ "enfoque": "Arreglar vías, planear servicios para 35 barrios, hacer un plan urbanístico y buscar dinero de cooperación. Parte del texto parece copiado de un plan parroquial.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a vías rurales, con 10 proyectos entre 2028 y 2031.",
+    "que": "Busca que las comunidades se conecten y saquen sus productos. Usará equipos camineros municipales y minga. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Realizar mantenimiento de las vías rurales en la parroquia que permita",
+    "pag": 17
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Hacer 2 planes maestros para dar servicios públicos a 35 barrios.",
+    "que": "Serían en 2029 y 2030. El plan no dice qué servicios incluirá ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará.",
+    "cita": "Pasar de proyectos unitarios, a planes maestros que doten de servicios públicos a los barrios",
+    "pag": 15
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Crear un Plan Urbanístico para el cantón, listo en 2029.",
+    "que": "Busca un urbanismo acorde a la realidad del cantón. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "El uso del suelo es del Municipio. El plan no dice cuánto costará.",
+    "cita": "Diseño de un Plan Urbanístico para el cantón",
+    "pag": 15
+   },
+   {
+    "t": "Actualizar el catastro cantonal, el registro de terrenos y casas.",
+    "que": "Es una tarea permanente. El plan no dice cuánto costará ni cuándo estará listo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Modernizar, mantener y actualizar permanentemente el catastro cantonal",
+    "pag": 12
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Dar 10 talleres de cuidado de la naturaleza entre 2028 y 2031.",
+    "que": "Son charlas y capacitaciones para la comunidad. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Los talleres sí, pero cuidar páramos y agua depende de otros niveles.",
+    "cita": "Diseñar una estrategia de gestión sostenible y conservación de",
+    "pag": 14
+   }
+  ],
+  "economia": [
+   {
+    "t": "Conseguir dinero de organismos internacionales con convenios, uno al año.",
+    "que": "Se hará con un banco de cooperantes. Meta de 4 convenios entre 2028 y 2031. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de que otros organismos aporten. El plan no dice cuánto.",
+    "cita": "necesario solicitar el respaldo de organismos cooperantes que",
+    "pag": 13
+   },
+   {
+    "t": "Diseñar un plan de turismo con gastronomía, ferias y zonas productivas.",
+    "que": "Meta: 15 proyectos hasta 2031. El plan no dice cuánto costará ni quién lo pagará.",
+    "v": "media",
+    "n": "Depende de otros niveles de gobierno. El plan no dice cómo se financia.",
+    "cita": "Diseñar el plan turístico que incluya de manera complementaria",
+    "pag": 13
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Preparar documentos que avisen a la gente de riesgos y desastres.",
+    "que": "Incluye un mapa de riesgos hecho con participación ciudadana. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Prevenir desastres le toca al Municipio. El plan no dice costo.",
+    "cita": "Elaborar documentos técnicos que orienten al ciudadano respecto a los",
+    "pag": 18
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar cada semestre y cada año un resumen de la gestión.",
+    "que": "Se difundirá en prensa, internet y boletines en espacios públicos. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Informar de su gestión es tarea propia del Municipio.",
+    "cita": "Publicación periódica (semestral y anual) resumiendo los principales",
+    "pag": 16
+   }
+  ]
+ },
+ "metas": [
+  "4 convenios con organismos de cooperación, 1 por año (2028–2031).",
+  "15 proyectos turísticos y productivos hasta 2031.",
+  "10 proyectos de mantenimiento de vías, entre 2028 y 2031.",
+  "2 planes maestros de servicios, en 2029 y 2030.",
+  "1 plan urbanístico para el cantón, en 2029."
+ ],
+ "notas": [
+  "Parte del texto parece copiado de un plan de junta parroquial: menciona la junta parroquial y 'la parroquia'.",
+  "No dice cuánto costará ninguna propuesta ni cómo se pagará. Nada concreto sobre basura, mercados, parques ni tránsito."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21
+ ],
+ "paginas": 21
+}

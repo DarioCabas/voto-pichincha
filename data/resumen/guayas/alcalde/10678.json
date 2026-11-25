@@ -1,0 +1,148 @@
+{
+ "enfoque": "Agua, alcantarillado, basura, calles con drenaje y control de inundaciones. El río depende de la Prefectura y varias obras dependen de crédito del Banco de Desarrollo.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Poner medidores de agua a los usuarios que hoy no tienen uno.",
+    "que": "Hoy el 59,45 % de los usuarios no tiene medidor. La meta es bajar a menos del 25 % al cierre del periodo. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, por medio de la empresa de agua. El plan no dice el costo.",
+    "cita": "reducir el porcentaje de usuarios de agua potable sin medidor del 59,45 % actual a menos del 25 %",
+    "pag": 19
+   },
+   {
+    "t": "Ampliar la red de alcantarillado para subir la cobertura desde 26,6 %.",
+    "que": "Hoy solo el 26,6 % de las casas tiene alcantarillado por red pública. La meta se fijará después de los estudios. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de crédito del Banco de Desarrollo.",
+    "cita": "elevar la cobertura de alcantarillado por rad pública desde al 26,6 % de la linea base hacia una meta cuantificada",
+    "pag": 19
+   },
+   {
+    "t": "Cambiar las redes de agua con más de cincuenta años de antigüedad.",
+    "que": "El plan dice que la renovación será programada, por etapas y en sectores críticos. No dice cuántos kilómetros ni cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero necesita crédito del Banco de Desarrollo.",
+    "cita": "Renovación programada de las redes con más de cincuenta años",
+    "pag": 20
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Definir la solución final para la basura, tras estudiar el relleno de Los Aguacates.",
+    "que": "Primero se hará un estudio del relleno en el primer año. Luego se decidirá el modelo. El plan no dice la fecha final ni el costo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no fija cuándo ni cuánto cuesta.",
+    "cita": "Definición técnica y jurídica de la solución de disposición final del cantón, a partir del diagnóstico",
+    "pag": 20
+   },
+   {
+    "t": "Separar la basura en casa y recogerla aparte, hasta cubrir la mitad del área urbana.",
+    "que": "Meta: al menos 50 % del área urbana al final del periodo. Empieza con un plan piloto y crece por etapas. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta el costo y el plazo por etapas.",
+    "cita": "implementar recolección diferenciada progresiva hasta cubrir al menos el 50 % del área urbana",
+    "pag": 18
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar las calles urbanas y poner drenaje en cada obra vial, empezando por los nueve cruces críticos.",
+    "que": "Se intervendrán 339,02 km de calles sin asfalto ni hormigón. Las nueve intersecciones del centro se estudian el primer año y se obran en años 2 a 4. El plan no da un monto claro.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no da un monto claro para esta obra.",
+    "cita": "Intervención de la vialidad urbana con solución integrada de drenaje pluvial, de modo que",
+    "pag": 21
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Aprobar en el primer año una ordenanza de gestión de riesgos.",
+    "que": "Busca impedir que se construyan nuevos asentamientos en zonas inundables. Hay unas 4.100 viviendas en zona de amenaza alta. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio y no depende de otras entidades.",
+    "cita": "adoptar la ordenanza municipal de gestión de riesgos durante el primer año de gestión",
+    "pag": 18
+   },
+   {
+    "t": "Recuperar y mantener al menos 20 parques, canchas y espacios recreativos.",
+    "que": "Se dará prioridad a los sectores de mayor densidad y menor cobertura. Se hará por etapas en los cuatro años. El plan calcula unos USD 4,50 millones.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El monto es una estimación del plan.",
+    "cita": "Recuperar y mantener al menos 20 parques, canchas y espacios recreativos priorizados territorialmente",
+    "pag": 18
+   }
+  ],
+  "otros": [
+   {
+    "t": "Gestionar con la Prefectura las obras de dragado del río Milagro.",
+    "que": "La Prefectura hace las obras del río. El Municipio gestiona el convenio y aporta dinero. Meta: el convenio dentro de los dos primeros años. El plan no dice el monto.",
+    "v": "media",
+    "n": "Le toca a la Prefectura. El Municipio solo gestiona y aporta dinero.",
+    "cita": "mediante convenio de concurrencia con la Prefectura del Guayas, de las obras de dragado, encauzamiento y protección de riberas",
+    "pag": 21
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Poner luces y cámaras en espacios públicos y apoyar a la Policía con logística.",
+    "que": "El plan no dice cuánto costará ni cuándo. La vigilancia y los operativos son de la Policía Nacional, no del Municipio.",
+    "v": "media",
+    "n": "Luces y cámaras sí; la vigilancia policial no es del Municipio.",
+    "cita": "prevención situacional mediante recuperación de espacios públicos, Iluminación, videovigilancia y colaboración logística con la Policia Nacional",
+    "pag": 16
+   }
+  ]
+ },
+ "metas": [
+  "Reducir los usuarios de agua sin medidor del 59,45 % a menos del 25 % al cierre del periodo.",
+  "Aprobar la ordenanza de gestión de riesgos durante el primer año.",
+  "Recolección separada en al menos el 50 % del área urbana al final del periodo.",
+  "Recuperar y mantener al menos 20 parques, canchas y espacios recreativos durante el periodo.",
+  "Publicar cada trimestre el cumplimiento de la regla de gasto para obras y servicios."
+ ],
+ "notas": [
+  "Las cifras de costos de la tabla no cuadran con el total de USD 119,10 millones. Muchas obras dependen de crédito y convenios.",
+  "Gran parte del plan es marco legal. Las obras de ríos son de la Prefectura, no del Municipio, y el plan lo dice."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36
+ ],
+ "paginas": 36
+}

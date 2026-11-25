@@ -1,0 +1,155 @@
+{
+ "enfoque": "Plan general de obras de agua, alcantarillado, calles, parques y drenajes, copiado del plan de desarrollo del cantón. No dice montos ni fechas por obra.",
+ "tabla": {
+  "economia": [
+   {
+    "t": "Hacer alianzas para dar capacitación y asistencia técnica a productores.",
+    "que": "El plan no dice cuántos productores ni cuánto costará. Se haría con instituciones públicas y privadas.",
+    "v": "media",
+    "n": "Depende de alianzas con otras instituciones. El plan no dice cuántos se capacitarán.",
+    "cita": "Gestión de alianzas con instituciones públicas y privadas para capacitación y asistencia técnica",
+    "pag": 26
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Poner trámites municipales en plataformas digitales.",
+    "que": "El plan no dice cuánto costará ni cuándo estará lista. Incluye un sistema de atención ciudadana.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Implementación de plataformas digitales para trámites y servicios municipales",
+    "pag": 29
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar y dar mantenimiento a calles y vías urbanas.",
+    "que": "El plan no dice qué calles ni cuánto costará. Incluye pavimentación y mantenimiento vial.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice qué calles se arreglarán.",
+    "cita": "ejecución de proyectos de pavimentación, rehabilitación, mantenimiento vial y regeneración de espacios públicos",
+    "pag": 24
+   },
+   {
+    "t": "Mantener caminos rurales junto con la Prefectura.",
+    "que": "Se haría con convenios con el GAD Provincial, es decir, la Prefectura. El plan no dice cuántos kilómetros ni cuánto costará.",
+    "v": "media",
+    "n": "Depende de un convenio con la Prefectura. El plan no dice cuántos kilómetros.",
+    "cita": "Kilómetros de caminos rurales mantenidos en convenios con el GAD Provincial",
+    "pag": 25
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar cámaras de videovigilancia en sectores estratégicos.",
+    "que": "El plan no dice qué sectores ni cuántas cámaras, ni cuánto costará. La seguridad depende de la Policía.",
+    "v": "media",
+    "n": "Las cámaras son del Municipio, pero la seguridad depende de la Policía.",
+    "cita": "Implementación de sistemas de videovigilancia en sectores estratégicos",
+    "pag": 26
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar y mejorar los sistemas de agua potable.",
+    "que": "El plan no dice en qué sectores se hará ni cuánto costará. Forma parte del Plan Maestro de Agua Potable.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni en qué barrios.",
+    "cita": "Ampliación y mejoramiento de los sistemas de agua potable",
+    "pag": 28
+   },
+   {
+    "t": "Construir y rehabilitar redes de alcantarillado sanitario y pluvial.",
+    "que": "El plan no dice qué sectores ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Construcción y rehabilitación del alcantarillado sanitario y pluvial",
+    "pag": 25
+   },
+   {
+    "t": "Construir obras de drenaje para evitar inundaciones en sectores vulnerables.",
+    "que": "El plan no dice qué sectores ni cuánto costará. Es parte de los proyectos de agua y drenaje.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Construcción y mantenimiento de sistemas de drenaje pluvial para la prevención de inundaciones",
+    "pag": 28
+   },
+   {
+    "t": "Modernizar el alumbrado público con las entidades competentes.",
+    "que": "El plan no dice qué calles ni cuánto costará. Se hará en coordinación con otras entidades.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de otras entidades. El plan no dice cuánto costará.",
+    "cita": "Modernización del alumbrado público mediante gestión con las entidades competentes",
+    "pag": 26
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir y mejorar parques, plazas y espacios públicos.",
+    "que": "El plan no dice qué parques ni cuánto costará. Es un proyecto estratégico de infraestructura.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué parques se harán ni cuándo.",
+    "cita": "Construcción y mejoramiento de parques, plazas y espacios públicos",
+    "pag": 24
+   }
+  ]
+ },
+ "metas": [
+  "Informes de avance físico y financiero cada tres meses.",
+  "Evaluación del cumplimiento de metas cada seis meses.",
+  "Rendición de cuentas una vez al año."
+ ],
+ "notas": [
+  "Plan copiado en gran parte del plan de desarrollo del cantón. Casi no dice dónde ni cuánto costará cada obra.",
+  "Las tablas de montos y años salen ilegibles. El plan dice que todo depende de los recursos disponibles."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45
+ ],
+ "paginas": 45
+}

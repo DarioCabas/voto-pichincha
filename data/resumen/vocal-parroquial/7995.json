@@ -1,0 +1,138 @@
+{
+ "enfoque": "Plan general de Lloa: asambleas, caminos, parques, ferias, cuidado del agua y del bosque. Muchas propuestas dependen de otras instituciones.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Gestionar programas de reforestación con plantas nativas.",
+    "que": "El plan no dice cuánto costará ni cuándo. Se haría con el Municipio, el MAATE y la EPMAPS.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio y ministerios; el plan no dice el costo.",
+    "cita": "Gestionar programas de restauración ecológica y reforestación con especies nativas",
+    "pag": 6
+   },
+   {
+    "t": "Hacer campañas comunitarias para proteger las fuentes de agua.",
+    "que": "El plan no dice cuánto costará ni cuándo se harán.",
+    "v": "alta",
+    "n": "Son campañas con la comunidad, algo que la junta puede organizar.",
+    "cita": "Promover campañas comunitarias para la protección de fuentes de agua",
+    "pag": 17
+   },
+   {
+    "t": "Hacer jornadas comunitarias de limpieza y recuperación de espacios naturales.",
+    "que": "El plan no dice dónde ni cuánto costará. Las jornadas son con la comunidad.",
+    "v": "alta",
+    "n": "Son mingas comunitarias; la junta puede organizarlas.",
+    "cita": "Promover jornadas comunitarias de limpieza y recuperación de espacios naturales",
+    "pag": 17
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Gestionar la mejora de parques y áreas recreativas de la parroquia.",
+    "que": "El plan no dice qué parques ni cuánto costará. Lo gestionaría la junta ante otras entidades.",
+    "v": "alta",
+    "n": "Los parques son competencia de la junta; el plan no dice el costo.",
+    "cita": "Gestionar proyectos de mejoramiento de parques y áreas recreativas",
+    "pag": 15
+   },
+   {
+    "t": "Plantar árboles y embellecer áreas comunitarias de la parroquia.",
+    "que": "El plan no dice dónde ni cuántos árboles ni cuándo se hará.",
+    "v": "alta",
+    "n": "Plantar y embellecer es trabajo que la junta puede organizar.",
+    "cita": "Coordinar programas de arborización y embellecimiento de áreas comunitarias",
+    "pag": 6
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Pedir el arreglo de vías de acceso a comunidades, zonas productivas y turismo.",
+    "que": "El plan no dice qué vías ni cuánto costará. Se coordina con el Municipio y la Prefectura.",
+    "v": "media",
+    "n": "Los caminos se hacen junto con la Prefectura o el Municipio.",
+    "cita": "Priorizar la atención de vías de acceso a comunidades, zonas productivas y atractivos turisticos",
+    "pag": 14
+   }
+  ],
+  "economia": [
+   {
+    "t": "Gestionar ruedas de negocios entre productores y posibles compradores.",
+    "que": "El plan habla de dos ferias agroproductivas al año. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar ferias y conectar productores está al alcance de la junta.",
+    "cita": "Gestionar ruedas de negocios entre productores y potenciales compradores",
+    "pag": 9
+   },
+   {
+    "t": "Crear un programa para apoyar a emprendedores de la parroquia.",
+    "que": "El plan no dice cuánto costará ni cuándo. Buscaría capacitación y financiamiento de otras instituciones.",
+    "v": "media",
+    "n": "Depende de programas de instituciones públicas y privadas.",
+    "cita": "Crear un programa parroquial de fortalecimiento al emprendimiento",
+    "pag": 10
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer cuatro asambleas parroquiales al año con la comunidad.",
+    "que": "Sirven para informar del avance, recoger propuestas y decidir en conjunto. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Reunir a la comunidad es trabajo de la junta y cuesta poco.",
+    "cita": "Convocar al menos cuatro asambleas parroquiales por año con las comunidades, barrios, organizaciones",
+    "pag": 24
+   }
+  ],
+  "social": [
+   {
+    "t": "Gestionar jornadas de atención médica preventiva con el Ministerio de Salud.",
+    "que": "El plan no dice cuántas jornadas ni cuándo. Lo haría con el Ministerio de Salud Pública.",
+    "v": "baja",
+    "n": "La salud le toca al Ministerio de Salud, no a la junta.",
+    "cita": "Gestionar jornadas de atención médica preventiva en coordinación con el Ministerio de Salud Pública",
+    "pag": 5
+   }
+  ]
+ },
+ "metas": [
+  "Cuatro asambleas parroquiales por año.",
+  "Ocho jornadas comunitarias de atención social y preventiva por año.",
+  "Dos ferias agroproductivas al año.",
+  "Dos informes ciudadanos de seguimiento por año.",
+  "Cuatro programas formativos para jóvenes por año."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Muchas propuestas dependen del Municipio, la Prefectura o ministerios. El plan lo reconoce.",
+  "Plan muy largo (27 págs.): se resumieron las 25 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  27
+ ],
+ "paginas": 27
+}

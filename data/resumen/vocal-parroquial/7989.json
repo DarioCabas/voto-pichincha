@@ -1,0 +1,117 @@
+{
+ "enfoque": "Es un plan general del gobierno parroquial, no solo de vocales: Casa del Pueblo, cuidado ambiental, cursos, turismo y asambleas públicas.",
+ "tabla": {
+  "gobierno": [
+   {
+    "t": "Planificar la compra de un terreno para la Casa del Pueblo, a nombre de la junta.",
+    "que": "El plan no dice cuánto costará ni cuándo se comprará. Tampoco dice de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Necesita dinero y acuerdos con otros niveles. El plan no dice cómo.",
+    "cita": "Planificar y ejecutar el proyecto para la adquisición del terreno a nombre del Gobierno Autónomo Descentralizado Parroquial Rural de Guangopolo",
+    "pag": 5
+   },
+   {
+    "t": "Construir la Casa del Pueblo, sede de la junta y para actividades sociales.",
+    "que": "El plan no dice cuánto costará ni cuándo se construirá. Tampoco dice de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Le toca a la junta, pero es obra grande y el plan no dice cómo la pagará.",
+    "cita": "Construir, edificar la Casa del Pueblo para el funcionamiento del Gobierno Autónomo Descentralizado de la Parroquia de Guangopolo",
+    "pag": 5
+   },
+   {
+    "t": "Explicar el presupuesto de la parroquia a la gente, con gastos e inversiones.",
+    "que": "El plan dice que la gente podrá opinar sobre en qué gastar. No dice cuándo ni cómo.",
+    "v": "alta",
+    "n": "Informar sobre gastos es tarea de la junta.",
+    "cita": "Socializar de manera clara y detallada el presupuesto parroquial, explicando las asignaciones, inversiones y gastos ejecutados",
+    "pag": 6
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer programas continuos para cuidar fuentes de agua, suelos y plantas nativas.",
+    "que": "El plan no dice cuánto costará ni en qué zonas se hará.",
+    "v": "alta",
+    "n": "Cuidar el ambiente sí le toca a la junta. Falta el costo.",
+    "cita": "Ejecutar programas continuos de conservación de fuentes de agua, suelos y cobertura vegetal nativa",
+    "pag": 5
+   },
+   {
+    "t": "Crear un sistema para manejar la basura y promover energías limpias, poco a poco.",
+    "que": "El plan dice 'de forma progresiva'. No dice fechas, lugares ni costos.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio. El plan no dice cómo ni cuándo.",
+    "cita": "Implementar sistemas de gestión integral de residuos y promoción de energías limpias de forma progresiva",
+    "pag": 5
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Ayudar a mantener vías, agua y saneamiento junto con otros niveles de gobierno.",
+    "que": "El plan no dice qué vías se arreglarán ni cuánto costará.",
+    "v": "media",
+    "n": "Las vías se hacen con la Prefectura. El agua no le toca a la junta.",
+    "cita": "Contribuir con el mantenimiento de las obras de infraestructura básica (vías, agua, saneamiento) en coordinación",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar cursos de capacitación técnica y financiera a emprendedores y grupos sociales.",
+    "que": "El plan no dice cuántos cursos habrá, cuándo ni cuánto costarán.",
+    "v": "alta",
+    "n": "Cursos y capacitación son tareas de la junta.",
+    "cita": "Ejecutar ciclos continuos de capacitación técnica y financiera para emprendedores y organizaciones sociales de hecho y/o de derecho",
+    "pag": 4
+   },
+   {
+    "t": "Diseñar rutas y productos turísticos de base local, con capacitación.",
+    "que": "El plan no dice qué rutas se harán, cuánto costarán ni cuándo.",
+    "v": "media",
+    "n": "Puede necesitar apoyo del Municipio o la Prefectura. El plan no dice costo.",
+    "cita": "Diseñar e implementar rutas y productos turisticos de base local, acompañados de capacitación continua",
+    "pag": 4
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer asambleas públicas para informar sobre la gestión y recibir propuestas.",
+    "que": "El plan dice 'periódicamente'. No dice cada cuánto ni dónde se harán.",
+    "v": "alta",
+    "n": "Reunir a la gente y escuchar propuestas es tarea de la junta.",
+    "cita": "Convocar periódicamente a las organizaciones sociales, barrios, actores locales y a la población en general para informar sobre la gestión",
+    "pag": 6
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Intervenir en la administración del cementerio con participación ciudadana.",
+    "que": "El plan dice que los nichos están por colapsar. No dice qué cambios se harán ni cuándo.",
+    "v": "media",
+    "n": "Puede requerir acuerdo con el Municipio. El plan no dice cómo ni cuándo.",
+    "cita": "lo que conllevaría a una intervención en dicha admmistración con la participación de la ciudadanía guangopolense",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [
+  "Período de gestión: 2027 a 2031.",
+  "Dar seguimiento anual al Plan de Desarrollo Parroquial."
+ ],
+ "notas": [
+  "Muchos puntos (agua, salud, educación, seguridad) no son de la junta. El plan no dice cuánto costará ni cuándo.",
+  "Mucho texto es diagnóstico y metas generales. Casi ninguna propuesta tiene fechas ni costos."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "paginas": 8
+}

@@ -1,0 +1,332 @@
+{
+  "canton": "SAMBORONDON",
+  "candidatos": [
+    {
+      "codFormulario": 5510,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan de 15 proyectos: hospital, agua y caminos rurales, cámaras, becas y buses eléctricos. Cuesta USD 109.857.182,40 y depende sobre todo de préstamos y alianzas.",
+      "tabla": {
+        "otros": [
+          {
+            "t": "Construir el Hospital Municipal y arreglar el Centro Santa Ana",
+            "que": "El plan pone USD 1.000.000 como aporte del Municipio para la primera fase. El equipo médico vendría por convenio con el Ministerio de Salud (MSP) y el Banco de Desarrollo (BDE).",
+            "v": "baja",
+            "n": "La salud no le toca al Municipio; el hospital depende del Ministerio de Salud.",
+            "cita": "contempla avanzar con la construcción del nuevo Hospital Municipal del cantón",
+            "pag": 14
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Construir una planta de agua potable en Cerro Madope",
+            "que": "Cuesta USD 32.000.000. Se pagaría con un crédito de la CAF (banco internacional). Año 1: estudios. Meta: planta al 100% en el año 3.",
+            "v": "media",
+            "n": "Es del Municipio, pero depende de un crédito de la CAF sujeto a aprobación.",
+            "cita": "Planta de Agua Potable Cerro Madope (Macroinversión): USD 32.000.000,00.",
+            "pag": 18
+          },
+          {
+            "t": "Llevar agua y letrinas a los recintos rurales",
+            "que": "Cuesta USD 300.124,05. Para los recintos más dispersos, el plan pone biodigestores (equipos para tratar aguas servidas).",
+            "v": "alta",
+            "n": "Agua y saneamiento sí le tocan al Municipio, y el costo está en el plan.",
+            "cita": "Abastecimiento a Recintos Rurales y Letrinización: USD 300.124,05.",
+            "pag": 30
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Arreglar 120 km de caminos vecinales del campo",
+            "que": "Cuesta USD 600.000. El plan no dice en qué orden se harían los recintos ni en qué año.",
+            "v": "alta",
+            "n": "Vialidad rural le toca al Municipio, y el plan da el costo.",
+            "cita": "Reconformación y Relleno de Caminos Vecinales Rurales (120 km):",
+            "pag": 32
+          },
+          {
+            "t": "Construir puentes sobre los ríos Babahoyo y Los Tintos",
+            "que": "Es una obra a largo plazo. En el año 4 el plan solo termina los estudios del puente. El plan no dice cuánto cuesta.",
+            "v": "media",
+            "n": "Vialidad es del Municipio, pero el plan no da costo ni fuente de pago.",
+            "cita": "carrozables y peatonales sobre el río Babahoyo y Los Tintos, conectando recintos",
+            "pag": 13
+          },
+          {
+            "t": "Comprar buses eléctricos (Sambo Trolley) para el transporte público",
+            "que": "Cuesta USD 1.200.000. Año 1: incorporar la flota. Se pagaría con un crédito del BID (banco) y alianzas con operadoras privadas.",
+            "v": "media",
+            "n": "Buses sí le tocan al Municipio, pero dependen de un préstamo y de privados.",
+            "cita": "Sistema de Buses Eléctricos (Sambo Trolley): USD 1.200.000,00.",
+            "pag": 32
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Instalar cámaras con inteligencia artificial para vigilar la ciudad",
+            "que": "Cuesta USD 5.700.000 y lo maneja la empresa municipal ATV. Año 4: se conecta con la Policía Nacional y el ECU-911 (emergencias).",
+            "v": "media",
+            "n": "Lo puede hacer el Municipio con ATV, pero la integración con la policía no le toca.",
+            "cita": "Sistema Integrado de Vigilancia Ciudadana (ATV): USD 5.700.000,00.",
+            "pag": 28
+          },
+          {
+            "t": "Hacer patrullaje fluvial en los ríos",
+            "que": "Cuesta USD 2.340.000 y el plan lo pone para el año 3. Se equiparía a la Policía Municipal.",
+            "v": "baja",
+            "n": "Patrullar es trabajo de la policía, no del Municipio.",
+            "cita": "Año 3: Equipamiento de la Policía Municipal e intensificación del patrullaje fluvial.",
+            "pag": 24
+          }
+        ],
+        "social": [
+          {
+            "t": "Crear el programa Somos Valiosas para mujeres",
+            "que": "Cuesta USD 200.000. Incluye microcréditos, asesoría legal y prevención de violencia. Meta: 200 mujeres atendidas al año.",
+            "v": "alta",
+            "n": "Proteger a grupos prioritarios sí le toca al Municipio; el plan da el costo.",
+            "cita": "orientado al empoderamiento económico, prevención de la violencia intrafamiliar y",
+            "pag": 25
+          },
+          {
+            "t": "Abrir centros diurnos para adultos mayores",
+            "que": "Cuesta USD 935.019,73 con dinero del MIES (ministerio del Gobierno para inclusión social). Meta: 700 adultos mayores atendidos.",
+            "v": "media",
+            "n": "Cuidar adultos mayores sí es del Municipio, pero el dinero viene del Gobierno.",
+            "cita": "Convenio MIES - GAD \"Mis Años Dorados\": USD 935.019,73.",
+            "pag": 26
+          }
+        ]
+      },
+      "metas": [
+        "Hospital Municipal y Centro Santa Ana: obra al 100% en el año 3.",
+        "Planta de agua de Cerro Madope: 100% ejecutada al año 3.",
+        "Agua por red en Tarifa y recintos: 100% de cobertura (el plan no pone año).",
+        "Reducir 25% los delitos incidentales.",
+        "Adultos mayores atendidos en centros diurnos: 700."
+      ],
+      "notas": [
+        "Varias propuestas son de salud, educación o policía, que no le tocan al Municipio. El plan las mezcla con obras municipales.",
+        "El plan no tiene caja asegurada: gran parte depende de préstamos (CAF, BDE, BID) y alianzas privadas."
+      ]
+    },
+    {
+      "codFormulario": 5785,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Agua y alcantarillado en la parroquia Tarifa y la cabecera, semáforos en La Puntilla y luces LED. Quiere bajar el gasto del Municipio al 30%. Varias metas dependen de la Policía.",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Instalar semáforos inteligentes en la Av. Samborondón que cambien según el tráfico.",
+            "que": "Usaría sensores y cámaras para ajustar el tiempo de la luz verde. El plan no dice cuánto costará ni cuándo estará listo.",
+            "v": "alta",
+            "n": "Le toca al Municipio (tránsito). El plan no dice costo ni fecha.",
+            "cita": "implementación de un sistema centralizado de semáforos inteligentes a lo",
+            "pag": 16
+          },
+          {
+            "t": "Rediseñar intersecciones y retornos conflictivos de La Puntilla.",
+            "que": "Haría estudios de tráfico antes de cambiar giros y accesos. El plan no dice cuánto costará ni en qué plazo.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice costo ni fecha.",
+            "cita": "El proyecto contempla el rediseño geométrico de las intersecciones",
+            "pag": 15
+          },
+          {
+            "t": "Crear planes de entrada y salida para colegios, con cruces peatonales seguros.",
+            "que": "Incluye zonas de bajada y subida y control de estacionamiento indebido, con acuerdos con colegios. El plan no dice costo.",
+            "v": "alta",
+            "n": "Es del Municipio, con acuerdos con colegios. Sin costo ni plazo.",
+            "cita": "Establecer planes de entrada y salida para planteles,",
+            "pag": 17
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Llevar agua potable por tuberías a los recintos rurales de la parroquia Tarifa.",
+            "que": "Incluye estudios, tuberías y un medidor en cada casa. El plan dice que se pagaría con ahorro en gasto, pero no dice cuánto costará.",
+            "v": "alta",
+            "n": "El agua potable es del Municipio. El plan no dice costo ni fecha exacta.",
+            "cita": "Este proyecto técnico contempla desde los estudios topográficos y suelo hasta el",
+            "pag": 12
+          },
+          {
+            "t": "Instalar plantas pequeñas que traten el agua en recintos aislados.",
+            "que": "Serían una solución rápida mientras se extiende la red. El plan no dice cuánto costará ni cuántas plantas se instalarían.",
+            "v": "alta",
+            "n": "El agua potable es del Municipio. El plan no dice costo.",
+            "cita": "implementación de plantas modulares de tratamiento de agua en",
+            "pag": 13
+          },
+          {
+            "t": "Revisar con cámaras las tuberías de alcantarillado y hacer obras contra inundaciones.",
+            "que": "Buscará colapsos y conexiones ilegales, y luego se harían obras y estaciones de bombeo. El plan no dice costo ni fecha.",
+            "v": "alta",
+            "n": "El alcantarillado es del Municipio. Sin costo ni plazo.",
+            "cita": "Este diagnóstico integral incluirá el uso de tecnología de punta",
+            "pag": 13
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Cambiar luces de sodio por luces LED en La Puntilla, la cabecera y el campo.",
+            "que": "Empezaría por corredores comerciales de La Puntilla, luego escuelas y vías rurales de Tarifa. El plan no dice costo ni fecha.",
+            "v": "alta",
+            "n": "El alumbrado de calles es del Municipio. El plan no dice costo.",
+            "cita": "de sodio por tecnologia LED de alta potencia y bajo consumo",
+            "pag": 19
+          },
+          {
+            "t": "Conectar cámaras de urbanizaciones de La Puntilla con el centro de monitoreo municipal.",
+            "que": "Incluye fibra óptica municipal. Depende de que las urbanizaciones firmen acuerdos. El plan no dice costo ni fecha.",
+            "v": "media",
+            "n": "Depende de urbanizaciones y de la Policía. El plan no dice costo.",
+            "cita": "implementación de convenios con las Urbanizaciones de La Puntilla",
+            "pag": 19
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Bajar el gasto corriente al 30% del presupuesto y usar el 70% en obras.",
+            "que": "Se haría con una ordenanza municipal. El plan no dice en cuánto tiempo ni cuánto se ahorraría.",
+            "v": "alta",
+            "n": "Es decisión del Municipio. El plan no dice el plazo exacto.",
+            "cita": "restringe el gasto corriente y administrativo a un máximo del 30%,",
+            "pag": 13
+          },
+          {
+            "t": "Actualizar el plan de ordenamiento del territorio y el plan de uso del suelo.",
+            "que": "Lo haría en los primeros nueve meses de gestión, según el plan. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+            "cita": "El plan compromete la actualización obligatoria PDOT y la",
+            "pag": 26
+          }
+        ]
+      },
+      "metas": [
+        "Gasto corriente máximo del 30% del presupuesto; 70% para obras.",
+        "Auditoría de la administración municipal en el primer semestre del Año 1.",
+        "Actualizar planes de ordenamiento y uso del suelo en los primeros nueve meses.",
+        "Cuatro actualizaciones trimestrales de avance cada año de gestión.",
+        "Dos informes semestrales y una audiencia pública cada año."
+      ],
+      "notas": [
+        "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero, salvo la regla de gasto 70/30.",
+        "Varias propuestas de seguridad dependen de la Policía y del Gobierno Central, que no son competencia del alcalde."
+      ]
+    },
+    {
+      "codFormulario": 7461,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan de 4 años (2027–2031) con transporte, aceras, agua, alcantarillado, basura y trámites en internet. No pone costos ni fechas exactas.",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Implementar un sistema de transporte público integrado, por fases.",
+            "que": "Se hará por etapas entre los territorios priorizados, con operadores de buses. El plan no dice cuánto costará ni en qué año empieza.",
+            "v": "alta",
+            "n": "Le toca al Municipio (buses), pero el plan no dice cuánto cuesta.",
+            "cita": "Implementar un sistema integrado de transporte público por fases.",
+            "pag": 18
+          },
+          {
+            "t": "Mejorar aceras, cruces y ciclovías en zonas priorizadas del cantón.",
+            "que": "Se hará por etapas, con coordinación con escuelas, urbanizaciones y comercios. El plan no dice qué calles ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio (calles y aceras). El plan no dice costos.",
+            "cita": "Incorporar accesibilidad, seguridad vial, movilidad activa, sostenibilidad y resiliencia en la infraestructura urbana.",
+            "pag": 13
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Ampliar el acceso al agua potable y mejorar su continuidad y presión.",
+            "que": "El plan no dice en qué sectores ni cuánto costará. Pone como prioridad cerrar brechas de agua formal en Tarifa y recintos.",
+            "v": "alta",
+            "n": "El agua potable es competencia municipal. El plan no dice costos ni fechas.",
+            "cita": "Ampliar el acceso a agua segura y mejorar progresivamente la continuidad, presión, calidad y eficiencia de los sistemas.",
+            "pag": 15
+          },
+          {
+            "t": "Hacer obras de alcantarillado y drenaje según cada territorio.",
+            "que": "El plan habla de proyectos priorizados y puntos críticos, pero no dice cuáles ni cuánto costarán. Coordina con la Prefectura.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+            "cita": "Fortalecer el alcantarillado, el tratamiento de aguas residuales y el drenaje mediante soluciones adaptadas a cada territorio.",
+            "pag": 15
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Mejorar la recolección y separación de basura, con reciclaje.",
+            "que": "Se hará por etapas con rutas de recolección, separación y aprovechamiento de residuos. El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "La basura es competencia del Municipio. Falta costo y plazo.",
+            "cita": "Fortalecer la gestión integral de residuos y economía circular.",
+            "pag": 6
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Ordenar el uso del suelo, el catastro y el control urbano y rural.",
+            "que": "Se hará con información integrada y respuesta a tiempo. Las actuaciones tendrán registro y responsables. El plan no dice cuándo ni cuánto costará.",
+            "v": "alta",
+            "n": "Uso del suelo y catastro son del Municipio. Sin costos ni plazos.",
+            "cita": "Fortalecer el ordenamiento territorial, el catastro y el control urbano y rural mediante información integrada y respuesta oportuna.",
+            "pag": 16
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Simplificar y pasar a internet los trámites municipales más usados.",
+            "que": "Mantendrá atención en persona para quienes no usan internet. El plan no dice qué trámites ni para cuándo.",
+            "v": "alta",
+            "n": "Es trabajo propio del Municipio. El plan no dice plazos.",
+            "cita": "Simplificar y digitalizar los trámites esenciales de mayor uso e impacto, manteniendo atención asistida e inclusión digital.",
+            "pag": 16
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Reforzar a los agentes de control municipal (no son la Policía).",
+            "que": "El plan dice que se fortalecerán sus capacidades, protocolos y cobertura. No dice cuántos agentes ni cuánto costará.",
+            "v": "alta",
+            "n": "Es del Municipio, pero no es policía. El plan no dice cuántos agentes.",
+            "cita": "Fortalecer el Cuerpo de Agentes de Control Municipal.",
+            "pag": 19
+          },
+          {
+            "t": "Dar presencia de seguridad preventiva en la zona rural (Tarifa y recintos).",
+            "que": "El plan dice que lo hará con la Policía y otras entidades. No dice cuántos policías ni cuánto costará.",
+            "v": "baja",
+            "n": "La Policía no es competencia municipal. El Municipio solo puede coordinar.",
+            "cita": "Fortalecer las estrategias interinstitucionales de seguridad, prevención y convivencia.",
+            "pag": 19
+          }
+        ],
+        "otros": [
+          {
+            "t": "Llevar servicios de prevención y consulta de salud con brigadas y unidades móviles.",
+            "que": "Lo haría por convenios con otras entidades de salud. El plan no dice cuántas brigadas, dónde ni cuánto costará.",
+            "v": "baja",
+            "n": "La salud no es competencia municipal; depende de la autoridad de salud.",
+            "cita": "Facilitar servicios complementarios de prevención, detección temprana y atención ambulatoria",
+            "pag": 16
+          }
+        ]
+      },
+      "metas": [
+        "Rendición de cuentas pública al menos una vez al año, durante 2027–2031.",
+        "Plan de trabajo para cuatro años de gestión, 2027–2031.",
+        "2027: obras rápidas y estudios; 2028–2030: ejecución progresiva; 2031: evaluación de resultados."
+      ],
+      "notas": [
+        "Casi todas las acciones dicen 'progresivamente' y no fijan cuánto costarán, dónde ni cuándo.",
+        "Varias acciones (policía, salud) no son del Municipio. El documento tiene la fecha de firma en blanco."
+      ]
+    }
+  ]
+}

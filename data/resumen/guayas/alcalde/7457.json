@@ -1,0 +1,159 @@
+{
+ "enfoque": "Plan del alcalde actual, Juan Carlos Rivera: agua, alcantarillado, asfaltado, basura, terminal y parques. Describe mucho lo ya hecho y da pocas cifras.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ejecutar el nuevo Plan Maestro de Agua Potable del cantón.",
+    "que": "Un plan nuevo para ampliar el agua potable. Se financiaría con un crédito del Banco de Desarrollo (BDE). El plan no dice cuánto costará ni cuándo estará listo.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de un crédito sin monto.",
+    "cita": "Ejecutar el nuevo Plan Maestro de Agua Potable del Cantón Naranjal.",
+    "pag": 12
+   },
+   {
+    "t": "Ampliar el alcantarillado sanitario por fases, en sectores que no lo tienen.",
+    "que": "Nuevas fases de alcantarillado (tuberías de aguas servidas) según la planificación técnica. El plan no dice en qué sectores ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuántos sectores ni en qué plazo.",
+    "cita": "Se impulsará la ejecución progresiva de nuevas fases de alcantarillado sanitario en sectores que requieren este servicio,",
+    "pag": 18
+   },
+   {
+    "t": "Comprar vehículos recolectores de basura para llegar a más sectores.",
+    "que": "Con los nuevos vehículos se busca cubrir más sectores y pasar con más frecuencia. El plan no dice cuántos vehículos ni cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuántos ni cuándo llegan.",
+    "cita": "se contempla la adquisición de nuevos vehículos recolectores de desechos sólidos,",
+    "pag": 10
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Asfaltar calles en barrios que ya tienen servicios básicos, con aceras y bordillos.",
+    "que": "Nuevas obras de asfalto, con aceras y bordillos (la orilla de la calle). El plan no dice cuántos kilómetros ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: calles y aceras. El plan no dice cuánto cuesta.",
+    "cita": "Se continuará con la ejecución de proyectos de asfaltado en diferentes sectores del",
+    "pag": 18
+   },
+   {
+    "t": "Recuperar parques, áreas recreativas y espacios públicos de la ciudad.",
+    "que": "Arreglar y dar mantenimiento a parques y espacios públicos urbanos. El plan no dice cuáles parques se arreglarán ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: los parques son su competencia. El plan no dice cuáles.",
+    "cita": "destinadas a la recuperación, remodelación y mantenimiento de espacios públicos urbanos",
+    "pag": 18
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Construir un terminal terrestre municipal para ordenar los buses.",
+    "que": "Un espacio para que los buses salgan y lleguen de forma ordenada. El plan no dice dónde se hará, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el plan no dice con qué dinero se pagará.",
+    "cita": "La construcción del Terminal Terrestre Municipal representa un proyecto orientado a",
+    "pag": 17
+   },
+   {
+    "t": "Arreglar caminos rurales con la Prefectura del Guayas, mediante convenio.",
+    "que": "Convenio con la Prefectura (gobierno de la provincia) para reconformar y mejorar caminos rurales. El plan no dice cuántos caminos ni cuánto costará.",
+    "v": "media",
+    "n": "Depende de la Prefectura. El plan no dice cuántos caminos ni cuánto cuesta.",
+    "cita": "impulsar acciones orientadas a la reconformación, reasentamiento y mejoramiento de vias rurales",
+    "pag": 21
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Limpiar esteros, canales y quebradas para reducir daños por lluvias.",
+    "que": "Limpieza de esteros, desazolve de canales (sacar lodo y basura) y quitar maleza de quebradas. El plan no dice cuánto cuesta ni cada cuánto.",
+    "v": "alta",
+    "n": "Le toca al Municipio: prevención de desastres. Sin costos ni fechas.",
+    "cita": "Estas acciones buscan mejorar la capacidad de drenaje natural del territorio y reducir posibles afectaciones durante temporadas invernales.",
+    "pag": 23
+   }
+  ],
+  "social": [
+   {
+    "t": "Mantener la consulta médica gratis del Dispensario Médico Municipal.",
+    "que": "Atención médica gratuita en el dispensario del Municipio. El plan no dice cuántas atenciones ni cuánto costará.",
+    "v": "baja",
+    "n": "La salud no le toca al Municipio según la ley. El plan no lo aclara.",
+    "cita": "orientado a brindar asistencia médica gratuita y contribuir al bienestar de la",
+    "pag": 25
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Coordinar con la Policía y el ECU 911 (centro de emergencias) la seguridad.",
+    "que": "El Municipio apoya acciones preventivas y coordina con la Policía y el ECU 911. El plan no dice con qué recursos ni cuánto costará.",
+    "v": "baja",
+    "n": "La policía no le toca al Municipio; solo puede coordinar.",
+    "cita": "Apoyo a acciones preventivas orientadas a mejorar la seguridad comunitaria.",
+    "pag": 33
+   }
+  ]
+ },
+ "metas": [
+  "Período del plan: 2027-2031.",
+  "Recolección de basura: cobertura superior al 83% del cantón, según el plan (dato actual).",
+  "Construcción de 11 canchas deportivas, según el plan ya en curso.",
+  "Agua: llegar con agua a 25 sectores nuevos, según el plan (ya realizado)."
+ ],
+ "notas": [
+  "Casi no dice cuánto cuesta ni cuándo se termina cada obra. Gran parte describe lo que ya hizo la administración actual.",
+  "Varias propuestas son de salud, policía o convenios con otros niveles de gobierno, que no son del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48
+ ],
+ "paginas": 48
+}

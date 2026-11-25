@@ -1,0 +1,117 @@
+{
+ "enfoque": "Plan para Pifo: arreglar parques, pedir más policía y cámaras, ferias y tienda digital para productores, centro para adultos mayores y asambleas de cuentas. No dice costos.",
+ "tabla": {
+  "economia": [
+   {
+    "t": "Dar capacitación en riego y mejora de procesos a asociaciones agrícolas y ganaderas.",
+    "que": "Se hará con universidades e institutos técnicos de la parroquia. El plan no dice cuánto costará ni cuándo empieza.",
+    "v": "media",
+    "n": "Necesita convenios con universidades e institutos. El plan no dice costos.",
+    "cita": "capacitación en riego y mejora de procesos a las asociaciones agrícolas y ganaderas locales.",
+    "pag": 2
+   },
+   {
+    "t": "Organizar las primeras ferias parroquiales para floricultores, artesanos y emprendedores.",
+    "que": "Serán ferias para promover directamente sus productos. El plan no dice dónde ni cuándo se harán.",
+    "v": "alta",
+    "n": "Le toca a la junta organizar ferias. El plan no dice dónde ni cuándo.",
+    "cita": "Organización de las primeras ferias parroquiales para floricultores, artesanos y emprendedores.",
+    "pag": 5
+   },
+   {
+    "t": "Crear una plataforma digital para promocionar a floricultores, artesanos y emprendedores.",
+    "que": "Será una plataforma en internet para vender directo los productos de la parroquia. El plan no dice cuánto costará ni quién la maneja.",
+    "v": "media",
+    "n": "Podría hacerla la junta, pero el plan no dice cuánto cuesta ni cómo se manejará.",
+    "cita": "Implementación de ferias parroquiales y una plataforma digital para la promoción directa de floricultores, artesanos y emprendedores de Pito.",
+    "pag": 2
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas públicas cada tres meses, rotando por barrios y comunidades.",
+    "que": "Se presentará el avance de obras y programas, con acta pública y registro de asistentes. El plan no dice cuánto cuesta.",
+    "v": "alta",
+    "n": "Le toca a la junta organizar a la comunidad. El plan no dice costos.",
+    "cita": "Se institucionalizará la realización de Asambleas Ciudadanas Parroquiales trimestrales e itinerantes,",
+    "pag": 7
+   },
+   {
+    "t": "Crear un portal en internet con lo planificado, gastado y pendiente de la junta.",
+    "que": "Mostrará qué se planificó, cuánto se presupuestó, cuánto se ha gastado y quién responde. El plan no dice cuándo estará listo.",
+    "v": "alta",
+    "n": "Lo maneja la junta. El plan no dice cuánto costará ni cuándo estará listo.",
+    "cita": "Se implementará y fortalecerá un Portal Digital de Gestión Abierta, vinculado al sitio web institucional,",
+    "pag": 8
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Iluminar, limpiar y recuperar los parques y canchas de barrio más críticos.",
+    "que": "Se hará en los parques y ligas barriales más críticos. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Le toca a la junta cuidar parques. Pero el plan no dice cuánto cuesta.",
+    "cita": "Iluminación, limpieza y recuperación inicial de los parques y ligas barriales más críticos.",
+    "pag": 5
+   },
+   {
+    "t": "Pedir a la Policía rondas y gestionar alarmas comunitarias y cámaras conectadas al ECU-911.",
+    "que": "Se harán mesas de trabajo con la Policía Nacional. El plan no dice cuándo ni cuánto costarán las alarmas y cámaras.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Policía y el Municipio. El plan no dice cuánto cuesta.",
+    "cita": "Instalación de mesas de trabajo con la Policía Nacional para coordinar rondas y gestionar alarmas/cámaras ECU911.",
+    "pag": 5
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir al Ministerio de Salud que construya el Centro de Salud Tipo A/B.",
+    "que": "La junta solo presionará y gestionará ante el Ministerio. El plan no dice cuándo se construirá.",
+    "v": "baja",
+    "n": "La salud le toca al Ministerio de Salud, no a la junta.",
+    "cita": "Presión institucional y gestión incesante ante el Ministerio de Salud Pública (MSP) para concretar la construcción del Centro de Salud Tipo A/B en el predio destinado para este fin.",
+    "pag": 3
+   },
+   {
+    "t": "Pedir a EPMAPS que amplíe el alcantarillado en sectores con poca cobertura.",
+    "que": "La junta coordinará con EPMAPS, la empresa de agua de Quito. El plan no dice en qué sectores ni cuándo.",
+    "v": "baja",
+    "n": "El alcantarillado le toca a EPMAPS, no a la junta.",
+    "cita": "Coordinación técnica con la EPMAPS para ampliar la cobertura de alcantarillado (actualmente en 80,7%) en sectores deficitarios, previniendo enfermedades gastrointestinales.",
+    "pag": 3
+   }
+  ],
+  "social": [
+   {
+    "t": "Adecuar el local de la junta para un centro de cuidados de adultos mayores y personas con discapacidad.",
+    "que": "Se usará un espacio de la junta para atención a adultos mayores y personas con discapacidad. El plan no dice cuánto costará ni cuándo abrirá.",
+    "v": "media",
+    "n": "Usa un local de la junta, pero el plan no dice cuánto cuesta ni de dónde sale el dinero.",
+    "cita": "Adecuación de infraestructura del GAD Parroquial para implementar un Centro de Cuidados y atención integral para adultos mayores y personas con discapacidad.",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [
+  "Plan para los próximos 4 años (2027-2031).",
+  "Asambleas públicas cada tres meses (trimestrales)."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Varias propuestas (salud, agua, policía, escuelas) le tocan a otros niveles; la junta solo puede pedirlas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "paginas": 10
+}

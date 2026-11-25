@@ -1,0 +1,128 @@
+{
+ "enfoque": "Salud mental y prevención de consumo, agua, calles, basura y parques. Buena parte copia el Plan Milagro 2040 del cantón y no dice cuánto cuesta nada.",
+ "tabla": {
+  "social": [
+   {
+    "t": "Abrir Centros de Escucha gratuitos en la ciudad y en tres parroquias rurales.",
+    "que": "Serán para primera charla psicológica, orientación a familias y derivación a salud. El plan no dice cuánto costará ni cuándo abrirán.",
+    "v": "media",
+    "n": "El Municipio puede abrirlos, pero el tratamiento lo da el Ministerio de Salud.",
+    "cita": "Abrir Centros de Escucha municipales de atención gratuita en la cabecera cantonal y en las",
+    "pag": 7
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Dar agua segura a las tres parroquias rurales y a varios centros poblados.",
+    "que": "Es prioridad para Mariscal Sucre, Roberto Astudillo y Santa Rosa de Chobo. El plan no dice cuánto costará ni en cuánto tiempo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Faltan costo y plazo.",
+    "cita": "Priorizar la dotación de agua segura en las parroquias Mariscal Sucre, Roberto Astudillo y Santa Rosa de Chobo",
+    "pag": 10
+   },
+   {
+    "t": "Ampliar y renovar el alcantarillado de la ciudad, en los sectores que crecen.",
+    "que": "Se hará en la cabecera cantonal, con atención a los sectores de crecimiento reciente. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice de dónde sale el dinero.",
+    "cita": "Ampliar y renovar las redes de alcantarillado sanitario y pluvial de la cabecera cantonal",
+    "pag": 10
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Asfaltar, adoquinar y poner aceras en los barrios con más necesidad.",
+    "que": "También en las cabeceras de las parroquias rurales. El plan no dice cuántas calles ni cuánto costará.",
+    "v": "alta",
+    "n": "Obra de calles, que sí le toca al Municipio. Falta costo.",
+    "cita": "Ejecutar asfaltado, adoquinado, aceras y bordillos en los barrios con mayor déficit",
+    "pag": 10
+   },
+   {
+    "t": "Impulsar un sistema de transporte público que conecte los sectores del cantón.",
+    "que": "Se hará poco a poco, sin fecha. El plan no dice qué rutas, cuánto costará ni quién lo pagará.",
+    "v": "media",
+    "n": "Los buses sí son del Municipio, pero el plan no dice cómo ni cuándo.",
+    "cita": "Impulsar la implementación progresiva de un sistema de transporte público eficiente que conecte",
+    "pag": 10
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Llevar la recolección de basura a todos los distritos y parroquias rurales.",
+    "que": "El plan dice que los horarios se publicarán. No dice cuánto costará ni cuándo empezará.",
+    "v": "alta",
+    "n": "La basura es competencia del Municipio. Faltan costo y fecha.",
+    "cita": "Ampliar la cobertura y la frecuencia del servicio de limpieza y recolección de residuos hacia todos los distritos",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar, iluminar y equipar los parques que ya existen.",
+    "que": "Tendrán luces, muebles y actividades todo el año. El plan no dice en qué parques ni cuánto costará.",
+    "v": "alta",
+    "n": "Los parques sí son del Municipio. Falta costo y lista de parques.",
+    "cita": "Recuperar y equipar los parques existentes, con iluminación, mobiliario y programación permanente",
+    "pag": 10
+   },
+   {
+    "t": "Poner un plan de alumbrado público en barrios y accesos con más delitos.",
+    "que": "También en espacios públicos. El plan no dice cuántas luces se pondrán ni cuánto costará.",
+    "v": "alta",
+    "n": "Luces de calles y espacios públicos: le toca al Municipio. Falta costo.",
+    "cita": "Ejecutar un plan de alumbrado público en los barrios y accesos con mayor incidencia delictiva",
+    "pag": 9
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Ampliar el sistema de cámaras de vigilancia con una central de monitoreo.",
+    "que": "La central se conectará con la Policía Nacional y con el servicio de emergencias ECU 911. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Las cámaras sí son municipales; la policía no le toca al alcalde.",
+    "cita": "Fortalecer y ampliar el sistema municipal de videovigilancia, con central de monitoreo articulada",
+    "pag": 9
+   },
+   {
+    "t": "Pedir al Ministerio del Interior más Policía Comunitaria en barrios y parroquias.",
+    "que": "El Municipio solo hace el pedido; la policía es del Gobierno. El plan no dice cuántos policías ni cuándo llegarán.",
+    "v": "baja",
+    "n": "La policía no le toca al Municipio. Solo puede pedirla.",
+    "cita": "Gestionar ante el Ministerio del Interior el fortalecimiento de las Unidades de Policía Comunitaria",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Unidad Municipal de Salud Mental creada y funcionando durante el primer año de gestión.",
+  "Convenio con la Universidad Estatal de Milagro firmado durante el primer año.",
+  "Convenio con el Ministerio de Salud Pública para derivaciones firmado durante el primer año.",
+  "Tablero público de indicadores funcionando durante el primer año.",
+  "Publicación mensual de la ejecución del presupuesto y del avance de cada obra."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Parte del plan, como policía y salud, depende de otras instituciones. Buena parte copia el Plan Milagro 2040 del cantón."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16
+ ],
+ "paginas": 16
+}

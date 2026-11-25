@@ -1,0 +1,103 @@
+{
+ "enfoque": "Parece copiado de otro nivel. Propone rendir cuentas, reunir a vecinos y cuidar agua y riesgos; escuelas y salud no son del Municipio. Sin costos.",
+ "tabla": {
+  "gobierno": [
+   {
+    "t": "Explicar el presupuesto del Municipio de Playas a la ciudadanía, con detalle.",
+    "que": "El plan dice que se explicarán asignaciones, inversiones y gastos, y que la comunidad participará en priorizar recursos. El plan no dice cuándo ni cómo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice con qué frecuencia.",
+    "cita": "Socializar de manera clara y detallada el presupuesto del GAD Municipal de Playas, explicando las",
+    "pag": 3
+   },
+   {
+    "t": "Convocar asambleas en cantón y barrios para informar y recibir propuestas.",
+    "que": "El plan dice que se convocará periódicamente a comunidades, juntas vecinales y autoridades tradicionales. El plan no dice cuántas veces al año.",
+    "v": "alta",
+    "n": "Le toca al Municipio y no tiene costo grande. Falta la frecuencia.",
+    "cita": "Convocar periódicamente a las comunidades, organizaciones sociales, juntas vecinales y autoridades tradicionales para informar sobre la gestión",
+    "pag": 3
+   },
+   {
+    "t": "Mantener tableros comunitarios, boletines, redes sociales y reuniones virtuales.",
+    "que": "El plan dice que habrá canales permanentes para informar a la ciudadanía. El plan no dice cuánto costarán ni cuándo empezarán.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Mantener canales permanentes de información, como tableros comunitarios, boletines, redes sociales y reuniones virtuales",
+    "pag": 3
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Cuidar las fuentes de agua y los ecosistemas con control y participación vecinal.",
+    "que": "El plan dice que habrá acciones coordinadas de control, manejo sostenible y participación comunitaria. El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Cuidar fuentes de agua es del Municipio, pero el plan no dice qué hará.",
+    "cita": "Proteger y conservar las fuentes de agua y ecosistemas estratégicos, mediante acciones coordinadas de control, manejo sostenible y participación comunitaria",
+    "pag": 2
+   },
+   {
+    "t": "Hacer acciones para prevenir desastres y adaptarse al cambio climático.",
+    "que": "El plan dice que habrá acciones para prevenir y reducir riesgos. El plan no dice qué acciones, dónde ni cuánto costarán.",
+    "v": "media",
+    "n": "Prevenir desastres sí es del Municipio, pero el plan no dice qué hará.",
+    "cita": "Implementar acciones de gestión de riesgos y adaptación al cambio climático, orientadas a la prevención, reducción de vulnerabilidades",
+    "pag": 2
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Gestionar con el Estado obras de escuelas, salud y agua potable.",
+    "que": "El plan dice que se gestionarán proyectos con instituciones del Estado para escuelas, salud y agua. El plan no dice cuánto costarán ni cuándo.",
+    "v": "media",
+    "n": "Agua potable sí es del Municipio. Escuelas y salud no lo son.",
+    "cita": "Promover y gestionar proyectos con las Instituciones como la SCTEA infraestructura de educativa, salud e implementación de agua potable",
+    "pag": 2
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear programas de inclusión para mujeres, jóvenes y adultos mayores.",
+    "que": "El plan dice que habrá programas de inclusión y participación para mujeres, jóvenes y personas adultas mayores. El plan no dice cuáles ni cuánto costarán.",
+    "v": "media",
+    "n": "Podría hacerlo el Municipio, pero el plan no dice qué programas.",
+    "cita": "Implementar programas de inclusión social y participación, orientados a mujeres, jóvenes y personas adultas mayores",
+    "pag": 2
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar negocios comunitarios y asociativos con ayuda de instituciones del Estado.",
+    "que": "El plan dice que el apoyo vendrá de instituciones del Estado, con asistencia técnica, financiera y comercial. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "Los créditos y ayudas no son del Municipio. El plan no dice qué hará el alcalde.",
+    "cita": "Impulsar emprendimientos comunitarios y asociativos, priorizando iniciativas de economía popular y solidaria",
+    "pag": 2
+   },
+   {
+    "t": "Promover turismo comunitario en el cantón.",
+    "que": "El plan dice que el turismo generará ingresos y empleo local. El plan no dice qué hará el Municipio ni cuánto costará.",
+    "v": "baja",
+    "n": "El turismo no aparece entre las funciones del alcalde. El plan no lo detalla.",
+    "cita": "Promover el turismo comunitario sostenible, basado en la identidad cultural Shuar y la conservación del patrimonio natural",
+    "pag": 2
+   }
+  ]
+ },
+ "metas": [
+  "El plan cubre el período 2027 a 2031."
+ ],
+ "notas": [
+  "Parece copiado de otro cargo: habla del GAD Parroquial, del Gobierno Nacional y de dos pueblos (Huancavilca y Shuar).",
+  "El plan no dice cuánto costará ninguna propuesta, de dónde saldrá el dinero ni cuándo se hará. No habla de calles, basura ni tránsito."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "paginas": 5
+}

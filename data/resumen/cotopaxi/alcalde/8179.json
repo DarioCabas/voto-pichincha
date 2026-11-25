@@ -1,0 +1,122 @@
+{
+ "enfoque": "Copia del plan de desarrollo del cantón (PDOT): agua, alcantarillado, basura, parques y mercados, sin costos ni obras concretas.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Seguir el Plan Maestro de agua y alcantarillado en la ciudad, con prioridad en sectores con déficit.",
+    "que": "Prioriza sectores con déficit y busca mejorar cobertura, calidad y continuidad. El plan no dice cuánto costará ni en qué año.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Continuar la ejecución del Plan Maestro de Agua y Alcantarillado Urbano, priorizando sectores con déficit y mejorando progresivamente la cobertura",
+    "pag": 7
+   },
+   {
+    "t": "Ampliar agua potable y alcantarillado en zonas rurales, primero donde hay menos cobertura.",
+    "que": "Se prioriza parroquias, comunidades y sectores rurales con menor cobertura. El plan no dice cuánto costará ni cuándo terminará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero pide coordinar con otras instituciones. Sin costos.",
+    "cita": "Ampliar progresivamente los sistemas de agua potable y alcantarillado rural, priorizando parroquias, comunidades y sectores con menor cobertura",
+    "pag": 7
+   },
+   {
+    "t": "Hacer un complejo ambiental para tratar y reciclar la basura del cantón.",
+    "que": "Incluye reciclaje, aprovechamiento y educación ambiental. El plan no dice dónde se construirá ni cuánto costará.",
+    "v": "alta",
+    "n": "La basura es competencia municipal. Falta ubicación y costo.",
+    "cita": "Impulsar la implementación y funcionamiento de infraestructura para la gestión integral, aprovechamiento y tratamiento adecuado de los residuos sólidos",
+    "pag": 7
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Ordenar el tránsito y hacer infraestructura para peatones y transporte público.",
+    "que": "Incluye seguridad vial, transporte público eficiente y mejor conectividad urbana. El plan no dice qué calles ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: tránsito, buses y calles. Faltan lugares y plazos.",
+    "cita": "seguridad vial, transporte público eficiente, infraestructura peatonal y mejor conectividad urbana, incorporando criterios ambientales y de accesibilidad",
+    "pag": 8
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Conservar y recuperar páramos, humedales y quebradas del cantón.",
+    "que": "Se priorizan áreas de agua y ambiente, con participación comunitaria. El plan no dice cuánto costará ni qué zonas exactas.",
+    "v": "media",
+    "n": "Depende de otras instituciones y el plan no dice cómo se paga.",
+    "cita": "implementar acciónos de conservación, restauración y recuperación de páramos, humedales, quebradas y otros ecosistemas estratégicos del cantón",
+    "pag": 7
+   },
+   {
+    "t": "Mantener sistemas de monitoreo y alerta temprana ante volcán, inundaciones e incendios.",
+    "que": "Incluye preparar y organizar a la comunidad para responder. El plan no dice cuánto costará ni quién pone el dinero.",
+    "v": "alta",
+    "n": "La prevención de desastres es competencia municipal. Falta el costo.",
+    "cita": "Fortalecer los sistemas de monitoreo, alerta temprana, preparación comunitaria y respuesta ante amenazas volcánicas, inundaciones, incendios",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar y mejorar parques, plazas y áreas verdes, con iluminación y accesos para todos.",
+    "que": "Incluye iluminación, arborización y accesibilidad universal. El plan no dice en qué barrios ni cuánto costará.",
+    "v": "alta",
+    "n": "Parques y plazas son competencia municipal. Falta la lista de lugares.",
+    "cita": "Recuperar, rehabilitar y mejorar progresivamente parques, plazas, áreas verdes y espacios",
+    "pag": 7
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer obras y ordenar mercados y ferias municipales, con limpieza y organización.",
+    "que": "Incluye obras de infraestructura, salubridad y vincular productores con compradores. El plan no dice qué mercados ni cuánto costará.",
+    "v": "alta",
+    "n": "Los mercados son competencia municipal. Falta lista y costo.",
+    "cita": "Fortalecer mercados, ferias y espacios municipales de comercialización mediante intervenciones de infraestructura",
+    "pag": 9
+   },
+   {
+    "t": "Dar capacitación, asistencia técnica y apoyo a emprendedores locales.",
+    "que": "Programa 'Latacunga Emprende', con alianzas con universidades y empresas. El plan no dice cuánto costará ni cuántos beneficiarios.",
+    "v": "media",
+    "n": "Depende de alianzas. El Municipio no crea empleo directamente.",
+    "cita": "Implementar un sistema municipal de apoyo al emprendimiento sostenible mediante capacitación, asistencia técnica, innovación",
+    "pag": 8
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Poner los trámites municipales en línea y simplificarlos.",
+    "que": "Incluye digitalizar la administración y reducir tiempos de atención. El plan no dice plazos ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, es gestión interna. Falta cronograma.",
+    "cita": "Modernizar progresivamente la administración municipal mediante digitalización, interoperabilidad, simplificación de trámites y servicios en línea",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Informe público de avance del plan cada seis meses (semestral).",
+  "Informe de ejecución presupuestaria y de obras cada tres meses (trimestral).",
+  "Rendición de cuentas pública una vez al año."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni en qué año se hará cada obra.",
+  "Muchas propuestas vienen del PDOT del cantón 2024-2040. Algunas tablas del texto están ilegibles."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "paginas": 12
+}

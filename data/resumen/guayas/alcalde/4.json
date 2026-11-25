@@ -1,0 +1,179 @@
+{
+ "enfoque": "Plan de 121 propuestas: calles, agua, alcantarillado, inundaciones, mercados y basura. También incluye salud, policía y deporte, que no son del Municipio.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Crear una empresa municipal que revise las calles a diario y repare baches en 24 horas.",
+    "que": "La empresa registrará baches y tapas dañadas y buscará repararlos en 24 horas. Meta: 90% de calles sin bache. El plan no dice cuánto costará ni cuándo empieza.",
+    "v": "alta",
+    "n": "Le toca al Municipio: las calles son su competencia. El plan no dice cuánto costará.",
+    "cita": "Crear una empresa que se especialice en la inspección diaria de las calles y registre los baches existentes o tapas de inspección dañadas",
+    "pag": 46
+   },
+   {
+    "t": "Asfaltar calles por etapas, empezando por los barrios con más daño.",
+    "que": "El plan dice que el asfaltado irá primero a los barrios con más daño y se coordinará con agua y alcantarillado. Asigna $4.001.387,78 al año a vías. No dice cuánto costará cada calle.",
+    "v": "alta",
+    "n": "Las calles son del Municipio. El plan da un monto anual, pero no metas por calle.",
+    "cita": "Ejecutar un plan progresivo de asfaltado, priorizando los barrios con mayor deterioro vial",
+    "pag": 44
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar la red de agua potable a más sectores del cantón.",
+    "que": "Obras para llevar tuberías de agua a más sectores, según prioridades técnicas. El plan no dice qué sectores serán ni cuánto costará.",
+    "v": "alta",
+    "n": "El agua potable es competencia municipal. El plan no dice cuánto costará.",
+    "cita": "Ejecutar obras de ampliación de redes mediante planificación técnica y priorización territorial",
+    "pag": 44
+   },
+   {
+    "t": "Aumentar la recolección de basura a dos veces al día en el centro y el mercado.",
+    "que": "Coordinar con la empresa EcoAseo recorridos extra a las 13h00 y 19h00 en el centro y el mercado. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "La basura es del Municipio. El plan no dice cuánto costará.",
+    "cita": "Coordinar con la empresa EcoAseo recorridos adicionales a las 13h00 y 19h00, priorizando las zonas de mayor generación de desechos",
+    "pag": 53
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Ampliar y reconstruir el mercado La Dolorosa para reubicar comerciantes de la calle.",
+    "que": "Puestos nuevos, servicios básicos y espacio para comerciantes de las calles Manabí, Miguel Valverde y 24 de Mayo. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Los mercados son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Ampliar y reconstruir el Mercado La Dolorosa para brindar un espacio moderno, seguro y digno a los comerciantes informales",
+    "pag": 52
+   },
+   {
+    "t": "Cambiar luces públicas viejas por luces LED en zonas oscuras.",
+    "que": "Reemplazar luminarias obsoletas en zonas oscuras. El plan no dice cuántas luces serán ni cuánto costará ni cómo se pagará.",
+    "v": "media",
+    "n": "Puede hacerlo, pero depende de recursos. El plan no dice cuánto costará.",
+    "cita": "Plan masivo de sustitución de luminarias públicas obsoletas por tecnología LED en zonas oscuras.",
+    "pag": 55
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Dar dinero municipal para construir y equipar Unidades de Policía Comunitaria.",
+    "que": "El plan propone financiar la construcción y el equipamiento de Unidades de Policía Comunitaria. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "La policía es del Gobierno, no del Municipio.",
+    "cita": "Financiamiento municipal para la construcción y equipamiento de Unidades de Policía Comunitaria (UPC).",
+    "pag": 38
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear un Hospital del Día en el antiguo terminal terrestre.",
+    "que": "Se pedirá convenio con el Ministerio de Salud para adecuar, equipar y poner en marcha el hospital, con prioridad para embarazadas y adultos mayores. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "La salud es competencia del Gobierno. El Municipio solo gestiona el convenio.",
+    "cita": "crear un Hospital del Día en las instalaciones del antiguo terminal terrestre",
+    "pag": 33
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar el 30% de su sueldo neto a deporte, cultura y ayuda social.",
+    "que": "Dice que el 30% de su pago como autoridad irá a deporte, cultura y ayuda social. Pedidos por WhatsApp. El plan no dice cuánto suma ni cómo se revisa.",
+    "v": "alta",
+    "n": "Decisión personal del alcalde, posible de cumplir. El plan no dice cuánto suma.",
+    "cita": "El 30% del salario líquido que perciba como autoridad local, será destinado a actividades deportivas, culturales y de ayuda social",
+    "pag": 41
+   }
+  ],
+  "otros": [
+   {
+    "t": "Limpiar cada año el río Milagro y los esteros antes del invierno.",
+    "que": "Un programa anual de limpieza del fondo del río y los esteros en los tramos de mayor riesgo. El plan asigna $2.302.839,50 al año a riesgos de invierno.",
+    "v": "alta",
+    "n": "Prevención de inundaciones sí le toca al Municipio. El plan da un monto anual.",
+    "cita": "Ejecutar un programa anual de dragado preventivo priorizando los sectores de mayor riesgo de desbordamiento",
+    "pag": 45
+   }
+  ]
+ },
+ "metas": [
+  "Llegar al 90% de calles sin bache.",
+  "Reparar baches o tapas dañadas en un tiempo de 24 horas.",
+  "Reducir en un 70% las quejas por el trato de los agentes de tránsito.",
+  "Sembrar 5.000 árboles durante la administración."
+ ],
+ "notas": [
+  "Muchas propuestas (hospitales, policía, escuelas) no son del Municipio. Son de otras entidades.",
+  "La mayoría de propuestas no dice cuánto costarán ni de dónde saldrá el dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61,
+  62,
+  63,
+  64,
+  65,
+  66
+ ],
+ "paginas": 66
+}

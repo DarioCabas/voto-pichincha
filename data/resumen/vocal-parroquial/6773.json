@@ -1,0 +1,148 @@
+{
+ "enfoque": "Pide al Municipio de Quito, a la Prefectura y a otras entidades obras como canchas, calles, iluminación y ferias. Casi no dice cuánto cuesta ni cuándo.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Gestionar estudios para mejorar la conexión vial entre María Angélica Idrobo y Alba Calderón.",
+    "que": "El plan pide estudios técnicos y permisos para la calle que conecta con San Francisco de Pinsha y la Ruta Viva. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio y a la EPMMOP, no a la junta. Solo puede pedirlo.",
+    "cita": "Gestionar estudios técnicos y de factibilidad para el mejoramiento de la conexión vial entre las calles María Angélica Idrobo y Alba Calderón",
+    "pag": 22
+   },
+   {
+    "t": "Gestionar estudios para una ciclovía en el barrio La Mandarina.",
+    "que": "El plan pide estudios de factibilidad y planificación para una ciclovía. No dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Le toca al Municipio o a la EPMMOP. La junta solo puede gestionarlo.",
+    "cita": "Gestionar estudios de factibilidad y planificación para la implementación de una ciclovía en el barrio La Mandarina.",
+    "pag": 22
+   }
+  ],
+  "social": [
+   {
+    "t": "Gestionar programas de actividad física y recreación para niños, jóvenes y adultos mayores.",
+    "que": "El plan pide programas permanentes de actividad física y recreación para todas las edades. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Son actividades comunitarias, sí le tocan a la junta. El plan no dice el costo.",
+    "cita": "Gestionar programas permanentes de actividad física, recreación y promoción de la salud para niños, jóvenes, adultos y adultos mayores.",
+    "pag": 21
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Gestionar la iluminación del estadio del barrio Santa Inés.",
+    "que": "El plan pide iluminar el estadio para usarlo más y dar más seguridad. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio. La junta solo puede gestionarlo. El plan no dice el costo.",
+    "cita": "Gestionar la iluminación del estadio del barrio Santa Inés.",
+    "pag": 21
+   },
+   {
+    "t": "Gestionar el mejoramiento integral de la cancha del barrio San Francisco de Pinsha.",
+    "que": "El plan pide arreglar la cancha de San Francisco de Pinsha. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Es una obra grande que depende del Municipio. El plan no dice el costo.",
+    "cita": "Gestionar el mejoramiento integral de la cancha del barrio San Francisco de Pinsha.",
+    "pag": 21
+   },
+   {
+    "t": "Gestionar el mejoramiento de la cancha del barrio Santa Rosa.",
+    "que": "El plan pide mejorar la cancha de Santa Rosa. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Es una obra que depende del Municipio. El plan no dice el costo.",
+    "cita": "Gestionar el mejoramiento de la cancha del barrio Santa Rosa.",
+    "pag": 21
+   },
+   {
+    "t": "Hacer un diagnóstico de parques, canchas y espacios comunitarios que necesiten arreglos.",
+    "que": "El plan pide revisar con la gente qué parques y canchas necesitan arreglo. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Revisar parques y espacios de la parroquia sí le toca a la junta.",
+    "cita": "Realizar un diagnóstico participativo de parques, canchas y espacios comunitarios que requieran intervención.",
+    "pag": 23
+   }
+  ],
+  "economia": [
+   {
+    "t": "Organizar ferias de productos locales en el Parque Central de Cumbayá.",
+    "que": "El plan habla de ferias productivas, artesanales y gastronómicas en el Parque Central y barrios. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar ferias es un trabajo de la junta. El plan no dice el costo.",
+    "cita": "mediante la organización de ferias productivas, artesanales, gastronómicas y de economía popular y solidaria en el Parque Central de Cumbayá",
+    "pag": 11
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer programas de reforestación, educación ambiental y reciclaje.",
+    "que": "El plan habla de sembrar árboles, educar sobre el ambiente y reciclar desde la casa. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Cuidar el ambiente sí le toca a la junta. El plan no dice el costo.",
+    "cita": "impulsando programas de reforestación, educación ambiental, gestión integral de residuos sólidos, reciclaje desde la fuente",
+    "pag": 11
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Coordinar con la Policía acciones de seguridad en la parroquia.",
+    "que": "El plan pide coordinar con la Policía Nacional y otras entidades de seguridad. No dice qué acciones concretas.",
+    "v": "baja",
+    "n": "La seguridad y la Policía no son trabajo de la junta.",
+    "cita": "Fortalecer la coordinación con Policía Nacional y entidades de seguridad.",
+    "pag": 9
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear mesas de trabajo con barrios, comunas y urbanizaciones para elegir necesidades.",
+    "que": "El plan pide reuniones de trabajo con barrios, la Comuna de Lumbisí y urbanizaciones. No dice cuántas ni cuándo.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta.",
+    "cita": "Implementar mesas territoriales de trabajo con barrios, comunas y urbanizaciones para identificar y priorizar necesidades.",
+    "pag": 23
+   }
+  ]
+ },
+ "metas": [
+  "Atención ciudadana y reuniones con sectores cada mes.",
+  "Seguimiento interno de avances cada tres meses.",
+  "Resumen público de avances cada seis meses.",
+  "Rendición de cuentas formal una vez al año.",
+  "Gestión del 14 de mayo de 2027 al 14 de mayo de 2031."
+ ],
+ "notas": [
+  "Casi todo el plan dice 'gestionar', es decir, pedir a otras instituciones. No dice cuánto cuesta ninguna obra ni de dónde sale el dinero.",
+  "Gran parte del texto repite diagnósticos de otros planes del Municipio y de la parroquia. Incluye frases de borrador ('para tu Plan')."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26
+ ],
+ "paginas": 26
+}

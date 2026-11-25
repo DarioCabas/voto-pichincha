@@ -1,0 +1,137 @@
+{
+ "enfoque": "Copia del plan de desarrollo de la parroquia. Propone caminos, espacios públicos, ferias, cultura, ambiente y participación; muchos puntos son de otras instituciones.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer cada año un mapa de caminos para la producción.",
+    "que": "Se elegirán los caminos según volumen de producción, familias, conexión con mercados y escuelas, y riesgo de aislamiento. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "La junta cuida caminos junto con la Prefectura; el plan no dice cuánto costará.",
+    "cita": "Se propone crear un mapa anual de caminos productivos.",
+    "pag": 13
+   },
+   {
+    "t": "Hacer un plan anual para dar mantenimiento a los caminos.",
+    "que": "El plan prevé gestionar maquinaria y convenios con la Prefectura y el Municipio. No dice cuánto costará ni cuándo se hará.",
+    "v": "media",
+    "n": "El arreglo grande depende de la Prefectura y el Municipio. El plan no dice el costo.",
+    "cita": "Establecer un plan anual de mantenimiento y gestión vial.",
+    "pag": 15
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Hacer un diagnóstico de los sistemas de agua de cada comunidad.",
+    "que": "Después, gestionar mejoras con otras instituciones. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "El agua potable no le toca a la junta; le toca a otro nivel.",
+    "cita": "Diagnóstico comunitario de sistemas, priorización de necesidades y gestión de mejoras.",
+    "pag": 11
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Gestionar la protección y restauración de fuentes de agua y áreas ambientales.",
+    "que": "La meta es gestionar 100 hectáreas o más hasta 2031. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Cuidar el ambiente sí le toca a la junta; el plan no dice el costo.",
+    "cita": "Gestionar protección y restauración de fuentes hídricas y áreas ambientales prioritarias.",
+    "pag": 15
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar canchas, parques y casas comunales.",
+    "que": "El plan prevé un inventario de estos espacios y un plan de mantenimiento preventivo. No dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Parques y espacios de la parroquia sí son competencia de la junta.",
+    "cita": "Espacio público Recuperación de canchas, parques y casas comunales.",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Dar una escuela de liderazgo para mujeres dirigentes.",
+    "que": "Es una escuela de participación para mujeres que dirigen. El plan no dice cuánto costará ni cuándo empieza.",
+    "v": "alta",
+    "n": "Organizar a la comunidad y dar cursos sí le toca a la junta.",
+    "cita": "Escuela de liderazgo y participación para mujeres dirigentes.",
+    "pag": 7
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear un registro voluntario de emprendimientos y organizaciones productivas.",
+    "que": "Está entre las acciones de los primeros 100 días de gobierno. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Llevar un registro y organizar productores es tarea de la junta.",
+    "cita": "Registro parroquial voluntario de emprendimientos y organizaciones productivas.",
+    "pag": 9
+   },
+   {
+    "t": "Dar capacitación a productores en suelos, semillas, agua y prácticas sostenibles.",
+    "que": "Son cursos para agricultores y productores. El plan no dice cuánto costará, quién lo dará ni cuándo.",
+    "v": "alta",
+    "n": "Apoyar a productores le toca a la junta; el plan no dice el costo.",
+    "cita": "Capacitación en manejo de suelos, semillas, agua y prácticas sostenibles.",
+    "pag": 9
+   },
+   {
+    "t": "Conectar la producción familiar con mercados, escuelas, ferias y turismo.",
+    "que": "El plan no dice cómo se hará ni cuánto costará.",
+    "v": "media",
+    "n": "Ferias y mercados sí se pueden organizar; escuelas y turismo necesitan acuerdos.",
+    "cita": "Se propone una estrategia que conecte producción familiar con mercados, escuelas, ferias y turismo.",
+    "pag": 9
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas, mesas y presupuesto participativo con la comunidad.",
+    "que": "Asamblea al menos 2 veces al año, mesas cada tres meses, presupuesto cada año y rendición pública anual. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Reunir a la comunidad y decidir obras juntos es tarea de la junta.",
+    "cita": "Se propone una agenda de participación que combine asambleas, mesas sectoriales, presupuesto participativo, atención comunitaria y publicación de resultados.",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Al menos 2 asambleas parroquiales por año.",
+  "Espacios deportivos intervenidos: 10 o más hasta 2031.",
+  "Área gestionada para restauración o protección: 100 hectáreas o más hasta 2031.",
+  "Iniciativas productivas acompañadas: 50 o más hasta 2031."
+ ],
+ "notas": [
+  "Gran parte del texto copia el plan de desarrollo de la parroquia. Incluye agua, salud, escuelas y policía, que la junta no maneja.",
+  "El plan dice 2026–2031, pero el período de gestión es 2027–2031. El plan no da ningún costo en dólares."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24
+ ],
+ "paginas": 24
+}

@@ -1,0 +1,119 @@
+{
+ "enfoque": "Plan conjunto de la lista para toda la parroquia: riesgos, canteras, limpieza, legalizar terrenos y ayuda social. Muchas tareas no son de la junta.",
+ "tabla": {
+  "seguridad": [
+   {
+    "t": "Formar brigadas de vecinos para prevenir riesgos y responder en emergencias.",
+    "que": "El plan dice que se formarán poco a poco en barrios y comunas. No dice cuánto costará ni en qué fecha empezará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta.",
+    "cita": "Formar brigadas barriales y comunales de prevención y primera respuesta.",
+    "pag": 11
+   },
+   {
+    "t": "Crear una mesa permanente para riesgos con otras entidades.",
+    "que": "Reuniría a entidades del Municipio, la Prefectura y el Gobierno nacional. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio y la Prefectura.",
+    "cita": "Crear una mesa permanente de gestión de riesgos con las entidades metropolitanas",
+    "pag": 11
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Organizar mingas periódicas para limpiar parques, plazas y aceras.",
+    "que": "Se harán en los sectores que el plan priorice cada año. El plan no dice cada cuánto ni cuánto costará.",
+    "v": "alta",
+    "n": "Mingas y organizar vecinos son tareas de la junta.",
+    "cita": "Organizar mingas periódicas de limpieza y recuperación de espacios públicos.",
+    "pag": 14
+   },
+   {
+    "t": "Hacer campañas contra dejar basura y escombros en el espacio público.",
+    "que": "El plan no dice cuántas campañas se harán ni cuánto costarán.",
+    "v": "alta",
+    "n": "Campañas de educación son tareas de la junta, con poco dinero.",
+    "cita": "implementar campañas contra el abandono de basura y escombros",
+    "pag": 14
+   },
+   {
+    "t": "Recuperar quebradas, laderas y espacios llenos de escombros.",
+    "que": "El plan no dice qué quebradas se arreglarán, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Obras en quebradas y laderas van más allá de la junta; hace falta acuerdo.",
+    "cita": "Recuperar quebradas, laderas, zonas degradadas y espacios afectados por escombros.",
+    "pag": 12
+   },
+   {
+    "t": "Vigilar que las canteras cumplan las reglas ambientales, laborales y de seguridad.",
+    "que": "El plan no dice con qué personal ni con qué dinero se hará.",
+    "v": "baja",
+    "n": "Inspeccionar canteras le toca a otras entidades, no a la junta.",
+    "cita": "Promover inspecciones y vigilancia del cumplimiento de medidas ambientales, laborales y de seguridad.",
+    "pag": 12
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer programas de ejercicio, cultura y recreación para adultos mayores.",
+    "que": "Se harían en espacios comunitarios. El plan no dice para cuántas personas ni cuánto costará.",
+    "v": "media",
+    "n": "La junta puede organizarlo, pero los espacios y el dinero dependen de otros.",
+    "cita": "Implementar programas de envejecimiento activo, actividad física, cultura y",
+    "pag": 13
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar en internet el presupuesto, las compras y el avance de obras.",
+    "que": "Una página pública con datos del dinero, las obras y los compromisos asumidos. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita una página web y datos de otras entidades; el plan no dice cuánto cuesta.",
+    "cita": "El GAD implementará un tablero público de seguimiento, disponible en su página web y canales",
+    "pag": 18
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer una lista de barrios y comunas que necesitan legalizar sus terrenos.",
+    "que": "Luego ayudaría con los trámites ante otras entidades. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "media",
+    "n": "Hacer la lista sí puede; legalizar depende de otras entidades.",
+    "cita": "Crear un registro parroquial de barrios, comunas, asentamientos y sectores que",
+    "pag": 12
+   }
+  ]
+ },
+ "metas": [
+  "Mapa de riesgos y sectores expuestos durante el primer año.",
+  "Registro de canteras y sectores afectados durante el primer año.",
+  "Brigadas comunitarias formadas poco a poco en barrios y comunas.",
+  "Informes anuales de seguimiento al Plan de Trabajo."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Muchas tareas (canteras, riesgos, legalizar terrenos) son del Municipio, la Prefectura o el Gobierno. La junta solo acompaña."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "paginas": 18
+}

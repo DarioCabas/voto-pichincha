@@ -1,0 +1,180 @@
+{
+ "enfoque": "Copia del plan de desarrollo del cantón: agua, calles, basura, ríos y parques, junto con temas que no le tocan al Municipio, como salud.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Separar la basura desde el origen, recogerla por tipos y reciclarla.",
+    "que": "El plan propone crear una empresa pública de basura, sujeta a estudio de factibilidad. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "La basura le toca al Municipio. Falta el costo y las fechas.",
+    "cita": "residuos sólidos que incorpore separación en la fuente, recolección diferenciada, reciclaje inclusivo",
+    "pag": 42
+   },
+   {
+    "t": "Dar mantenimiento a drenajes y hacer obras contra inundaciones.",
+    "que": "Lo coordina con el sistema nacional de gestión de riesgos. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Drenajes y prevención de riesgos le tocan al Municipio. Falta el costo.",
+    "cita": "mantenimiento de drenajes, obras de mitigación, protocolos de respuesta y coordinación con el Sistema",
+    "pag": 42
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Dar agua potable de más calidad y con más continuidad, primero en zonas con más falta.",
+    "que": "El plan no dice cuánto costará ni cuándo. Dice que se prioriza a los sectores urbanos y rurales con mayor brecha.",
+    "v": "alta",
+    "n": "El agua potable es competencia del Municipio. Falta el costo y las fechas.",
+    "cita": "Mejorar progresivamente la calidad, continuidad y control del servicio municipal de agua potable, priorizando los sectores urbanos y rurales con mayor brecha",
+    "pag": 44
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar y mantener las calles urbanas y periurbanas con un programa de conservación.",
+    "que": "El plan no dice cuánto costará ni cuándo. Coordina con la Prefectura las conexiones rurales e intercantonales.",
+    "v": "alta",
+    "n": "Las calles le tocan al Municipio. Falta el costo y las fechas.",
+    "cita": "Rehabilitar y mantener la red vial urbana y periurbana mediante un programa de conservación preventiva, priorización técnica de intervenciones",
+    "pag": 38
+   },
+   {
+    "t": "Ordenar los parqueos en la calle con horarios, zonas de pago y control.",
+    "que": "El plan no dice cuánto costará ni cuándo. También estudiará terminales satélite y soluciones para la carga.",
+    "v": "alta",
+    "n": "Tránsito y parqueos son del Municipio. Falta el costo y las fechas.",
+    "cita": "Regular el estacionamiento en la vía pública mediante horarios, zonas tarifadas y control de",
+    "pag": 41
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Habilitar espacios públicos para deporte, cultura y ferias.",
+    "que": "El plan no dice cuánto costará ni en qué lugares se harán. Dice que serán seguros y accesibles.",
+    "v": "alta",
+    "n": "Parques y espacios públicos son del Municipio. Falta costo y lugares.",
+    "cita": "Planificar y habilitar espacios públicos multifuncionales, seguros y accesibles para actividades culturales, deportivas, feriales y de integración cantonal",
+    "pag": 44
+   },
+   {
+    "t": "Controlar construcciones y el uso del suelo, y vigilar asentamientos en zonas de riesgo.",
+    "que": "Incluye catastro (registro de terrenos) y gestión de asentamientos en zonas de riesgo. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Permisos de construcción y uso del suelo son del Municipio.",
+    "cita": "Fortalecer el ordenamiento territorial, el catastro, el control de construcciones y la gestión preventiva de asentamientos en zonas de riesgo",
+    "pag": 44
+   }
+  ],
+  "social": [
+   {
+    "t": "Gestionar con la autoridad de salud mejoras de edificios y equipos en zonas rurales.",
+    "que": "El plan no dice cuánto costará ni cuándo. Propone hacerlo con convenios, y el Municipio solo daría apoyo.",
+    "v": "baja",
+    "n": "Salud no le toca al Municipio; solo puede gestionar y apoyar.",
+    "cita": "Gestionar, mediante convenios y coordinación con la autoridad sanitaria, mejoras de infraestructura y equipamiento de salud",
+    "pag": 38
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Pasar a digital los trámites, expedientes y archivos de la alcaldía.",
+    "que": "El plan no dice cuánto costará ni cuándo. Incluye datos abiertos y seguimiento ciudadano.",
+    "v": "alta",
+    "n": "Es la gestión interna del Municipio. Falta costo y fechas.",
+    "cita": "Modernizar la gestión municipal mediante digitalización de expedientes, archivo, información territorial, trámites, interoperabilidad, datos abiertos",
+    "pag": 44
+   }
+  ]
+ },
+ "metas": [
+  "Al 2031, cumplir el 100% de los hitos programados del proyecto de descontaminación del río Milagro.",
+  "Al 2031, cumplir el 100% de los hitos del sistema de alerta temprana para inundaciones.",
+  "Al 2031, cumplir el 100% de los hitos del proyecto de terminales satélite y regulación de parqueos."
+ ],
+ "notas": [
+  "Casi todo el texto es copia del plan de desarrollo de la ciudad hasta 2040, no propuestas propias de la candidata.",
+  "No trae costos claros ni fechas por obra: dice que los costos son referenciales y deben validarse.",
+  "Plan muy largo (143 págs.): se resumieron las 77 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  10,
+  26,
+  29,
+  31,
+  32,
+  33,
+  34,
+  35,
+  37,
+  38,
+  40,
+  41,
+  42,
+  43,
+  44,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  56,
+  58,
+  59,
+  60,
+  63,
+  65,
+  66,
+  70,
+  71,
+  72,
+  75,
+  82,
+  84,
+  86,
+  87,
+  88,
+  89,
+  90,
+  91,
+  92,
+  93,
+  94,
+  96,
+  99,
+  100,
+  101,
+  102,
+  103,
+  104,
+  105,
+  106,
+  107,
+  108,
+  109,
+  110,
+  111,
+  112,
+  113,
+  114,
+  115,
+  117,
+  118,
+  119,
+  120,
+  121,
+  124,
+  132,
+  134,
+  135,
+  136,
+  138,
+  139
+ ],
+ "paginas": 143
+}

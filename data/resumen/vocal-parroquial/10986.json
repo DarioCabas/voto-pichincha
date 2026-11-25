@@ -1,0 +1,129 @@
+{
+ "enfoque": "Plan copiado en gran parte del plan de desarrollo de la parroquia: vías, riego, ambiente, talleres y ferias. Muchas cosas son de otros niveles, no de la junta.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer reuniones cada tres meses con la Prefectura para acordar el arreglo de vías.",
+    "que": "Las reuniones sirven para acordar cuándo se da mantenimiento a las vías y drenajes. El plan no dice cuánto costará ni cuándo se harán los arreglos.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura. La junta sola no arregla las vías.",
+    "cita": "Reuniones trimestrales con la Prefectura de Pichincha para acordar los",
+    "pag": 9
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer talleres con vecinos y organizaciones para elegir cada año las vías a arreglar.",
+    "que": "Los vecinos y organizaciones eligen cada año qué obras de vías y drenajes se hacen primero. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta organizar a la comunidad. El plan no dice el costo.",
+    "cita": "Talleres con la ciudadania y las organizaciones sociales para la priorización anual",
+    "pag": 9
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Sembrar árboles en sectores de la Reserva Mojanda Cambugán en Perucho.",
+    "que": "El plan no dice cuántos árboles ni cuánto costará. Se haría junto con el Ministerio de Ambiente, la Prefectura y el Municipio.",
+    "v": "media",
+    "n": "Necesita trabajar con el Ministerio, la Prefectura y el Municipio.",
+    "cita": "Reforestación en los sectores de la Reserva Mojanda Cambugán en Perucho",
+    "pag": 10
+   }
+  ],
+  "economia": [
+   {
+    "t": "Explicar a los agricultores sistemas de riego que gastan menos agua.",
+    "que": "Se haría junto con el Ministerio de Ambiente y la Prefectura. El plan no dice cuánto costará ni a cuántos agricultores llegará.",
+    "v": "media",
+    "n": "Necesita apoyo del Ministerio y la Prefectura, no solo de la junta.",
+    "cita": "Socialización de sistemas de riego tecnificados y propuestas de distribución de agua",
+    "pag": 10
+   },
+   {
+    "t": "Asesorar a productores para que participen en ferias.",
+    "que": "El plan incluye ferias locales, nacionales e internacionales. No dice cuánto costará ni quién paga los stands.",
+    "v": "alta",
+    "n": "Le toca a la junta apoyar a productores. El plan no dice cuánto costará.",
+    "cita": "Asesoramiento a los productores de la parroquia para participar en ferias",
+    "pag": 9
+   },
+   {
+    "t": "Dar talleres de capacitación a los emprendimientos de la parroquia.",
+    "que": "Los talleres los darían distintas instituciones con apoyo de la junta. El plan no dice cuántos talleres ni cuándo.",
+    "v": "alta",
+    "n": "Le toca a la junta. Depende de instituciones que el plan no nombra.",
+    "cita": "Talleres de capacitación con el apoyo de distintas instituciones para",
+    "pag": 9
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar actividades deportivas y culturales en espacios públicos de Perucho.",
+    "que": "El plan no dice cuántas actividades ni en qué lugares exactos, ni cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca a la junta: espacios públicos y organizar a la comunidad.",
+    "cita": "Promoción del uso del espacio público parroquial mediante la organización de actividades deportivas y culturales",
+    "pag": 9
+   },
+   {
+    "t": "Firmar convenios con universidades para dar apoyo escolar extra a estudiantes.",
+    "que": "El plan no dice cuántos estudiantes ni cuándo. Tampoco dice cuánto costará.",
+    "v": "baja",
+    "n": "La educación no le toca a la junta. Le toca a otros niveles.",
+    "cita": "Convenios con Universidades para el apoyo extracurricular en diversas asignaturas",
+    "pag": 12
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir a la empresa de agua de Quito, EPMAPS, que extienda tuberías en barrios ya formados.",
+    "que": "El plan no dice cuántos barrios ni cuándo. Es una coordinación con la empresa de agua de Quito.",
+    "v": "baja",
+    "n": "El agua potable no le toca a la junta. Le toca a la empresa de agua.",
+    "cita": "Coordinar con la EPMAPS para extensión de redes de agua y alcantarillado en barrios",
+    "pag": 11
+   },
+   {
+    "t": "Pedir a la empresa de basura de Quito, EMGIRS, composteras para los vecinos.",
+    "que": "Las composteras sirven para reducir y aprovechar la basura orgánica. El plan no dice cuántas entregarán ni cuándo.",
+    "v": "media",
+    "n": "Necesita coordinar con la empresa de basura de Quito, EMGIRS.",
+    "cita": "Coordinación con EMGIRS para la dotación de composteras a los ciudadanos de Perucho",
+    "pag": 11
+   }
+  ]
+ },
+ "metas": [
+  "Reuniones trimestrales con la Prefectura para acordar el mantenimiento de vías y drenajes",
+  "Reuniones semestrales con organizaciones sociales y barriales para seguir el plan",
+  "Asambleas anuales de rendición de cuentas"
+ ],
+ "notas": [
+  "Las páginas 13 a 19 del plan no se pueden leer; no se revisó su contenido.",
+  "La mayoría de propuestas no dicen cuánto costarán ni cuándo se harán."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19
+ ],
+ "paginas": 19
+}

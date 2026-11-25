@@ -1,0 +1,136 @@
+{
+ "enfoque": "Plan de Lloa con muchas propuestas de salud, agua, escuelas y cámaras que no le tocan a la junta. Lo que sí puede: mingas, murales, talleres y apoyo a productores.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer mantenimiento de caminos con lastrado o bacheo, según cada sector.",
+    "que": "Se haría en el Año 1 (2027–2028) con acuerdos con el Municipio de Quito y la Prefectura. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio y la Prefectura. El plan no dice cuánto costará.",
+    "cita": "mantenimiento vial preventivo y correctivo como el lastrado, bacheo",
+    "pag": 9
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Organizar mingas para limpiar rejillas y sumideros y evitar inundaciones.",
+    "que": "Serían mingas periódicas. Para limpiezas grandes piden maquinaria al Municipio y a la Prefectura. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar vecinos es tarea de la junta. Las limpiezas grandes dependen del Municipio.",
+    "cita": "Organizaremos mingas comunitarias para limpiar las rejillas y sumideros",
+    "pag": 10
+   },
+   {
+    "t": "Hacer un proyecto de biodigestor para producir gas de uso doméstico.",
+    "que": "Usaría basura orgánica y estiércol. Año 4 (2030–2031). Lo presentarían a instituciones públicas y de cooperación. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita apoyo de la Prefectura, el Municipio y el Ministerio de Agricultura.",
+    "cita": "Generación de proyectos amigables con el medio ambiente, generando gas",
+    "pag": 17
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Pintar murales en espacios públicos con mingas y jóvenes artistas.",
+    "que": "Usaría mingas para limpiar y pintar. Buscaría estudiantes de arte de universidades. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Son mingas y pintura, cosas que la junta puede organizar. Falta el costo.",
+    "cita": "para pintar la parroquia de colores con sus murales",
+    "pag": 10
+   },
+   {
+    "t": "Buscar un nuevo lugar para el mercado de Lloa, con el Municipio de Quito.",
+    "que": "Año 3 (2029–2030). Primero harían un estudio y reuniones con comerciantes. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Lo decide el Municipio de Quito. La junta solo puede estudiarlo con ellos.",
+    "cita": "Articular con el municipio de Quito sobre el estudio de los espacios para",
+    "pag": 16
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Formar brigadas vecinales con capacitación de bomberos y el Municipio.",
+    "que": "Año 1 (2027–2028). Primero reuniones para encontrar vecinos interesados; luego capacitación. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Reunir vecinos sí. La capacitación depende de bomberos y del Municipio.",
+    "cita": "Organizar reuniones comunitarias para identificar a las personas interesadas en",
+    "pag": 11
+   }
+  ],
+  "social": [
+   {
+    "t": "Traer médicos a las comunidades por brigadas periódicas.",
+    "que": "Se haría con universidades públicas y el Ministerio de Salud. El plan no dice cada cuánto vendrán ni cuánto costará.",
+    "v": "baja",
+    "n": "La salud le toca al Ministerio de Salud, no a la junta parroquial.",
+    "cita": "Gestionar convenios con universidades públicas y el Ministerio",
+    "pag": 13
+   }
+  ],
+  "economia": [
+   {
+    "t": "Unir a los pequeños productores en una asociación para bajar costos.",
+    "que": "Año 3 (2029–2030). El plan no dice cuánto costará ni quién pone el dinero.",
+    "v": "alta",
+    "n": "Reunir productores es tarea de la junta. Falta el costo.",
+    "cita": "una asociación, para que el costo sea bajo",
+    "pag": 15
+   },
+   {
+    "t": "Dar talleres de turismo comunitario para atender bien al visitante.",
+    "que": "Año 3 (2029–2030), con colegios y empresas de turismo. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Talleres y cursos son tarea de la junta. Falta el costo.",
+    "cita": "Desarrollar talleres dedicados al turismo comunitario sostenible para la atención al visitante",
+    "pag": 14
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una rendición de cuentas cada año en espacios públicos.",
+    "que": "Cada año, en espacios abiertos al público de la parroquia. El plan no dice fechas exactas.",
+    "v": "alta",
+    "n": "Rendir cuentas es tarea propia de la junta.",
+    "cita": "las autoridades de elección popular presentarán anualmente la",
+    "pag": 20
+   }
+  ]
+ },
+ "metas": [
+  "Año 1 (2027–2028): mantenimiento de caminos y limpieza de desagües con mingas.",
+  "Año 2 (2028–2029): campañas contra la violencia intrafamiliar y de género.",
+  "Año 3 (2029–2030): talleres y cursos de turismo comunitario para jóvenes.",
+  "Año 4 (2030–2031): primeros graduados de turismo y agroeconomía.",
+  "Año 4 (2030–2031): proyecto de biodigestor para gas de uso doméstico."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará casi ninguna propuesta ni de dónde saldrá el dinero.",
+  "Muchas propuestas (salud, educación, agua, alcantarillado, cámaras) son de otros niveles, no de la junta parroquial."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22
+ ],
+ "paginas": 22
+}

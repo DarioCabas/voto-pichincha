@@ -1,0 +1,142 @@
+{
+ "enfoque": "Pide arreglar la maquinaria y los caminos, sembrar árboles, cuidar páramos y mejorar espacios públicos. Gran parte depende del Municipio, la Prefectura o ministerios.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Arreglar y embellecer los espacios públicos de la parroquia.",
+    "que": "El plan no dice qué espacios, cuánto costará ni cuándo se hará.",
+    "v": "alta",
+    "n": "Le toca a la junta. Pero el plan no dice cómo se paga.",
+    "cita": "Adecentamiento y embellecimiento de los espacios públicos de la parroquia.",
+    "pag": 34
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar la maquinaria de la junta para trabajar en comunidades y barrios.",
+    "que": "El plan no dice cuánto costará ni cuándo. Mete como meta que el 80% de la maquinaria esté operativa.",
+    "v": "alta",
+    "n": "La maquinaria es de la junta. Le toca a la junta.",
+    "cita": "Repotencializar la maquinaria del Gobierno Parroquial para la intervención en las comunidades y barrios.",
+    "pag": 33
+   },
+   {
+    "t": "Hacer mantenimiento y empedrar caminos en comunidades y barrios.",
+    "que": "El plan no dice cuánto costará ni cuándo. Pide un convenio con la Prefectura para mantener caminos.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Proyecto de mantenimiento vial, reempedrados y empedrados en las comunidades y barrios de la parroquia.",
+    "pag": 32
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Sembrar árboles de la zona en áreas verdes y quebradas.",
+    "que": "Meta: 80% de áreas verdes y quebradas con árboles de la zona. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "La junta puede organizar siembras con la comunidad.",
+    "cita": "Proyecto de Forestación Ayora siembra vida, para la conservación de áreas verdes.",
+    "pag": 37
+   },
+   {
+    "t": "Enseñar a separar y manejar la basura en comunidades y barrios.",
+    "que": "Meta: 70% de comunidades y barrios concientizados sobre clasificar los desechos sólidos. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Son charlas y capacitación. La junta puede hacerlas.",
+    "cita": "Proyecto de Promoción e identificación de Buenas Prácticas sobre el manejo de desechos Sólidos, para recuperar quebradas y zonas verdes.",
+    "pag": 38
+   },
+   {
+    "t": "Pedir acuerdos para cuidar los páramos con las comunidades.",
+    "que": "El plan no dice cuánto costará ni cuándo. Habla de planes de cuidado con seguimiento.",
+    "v": "media",
+    "n": "Necesita apoyo de ministerios y del Municipio.",
+    "cita": "Promover acuerdos de corresponsabilidad para proteger los páramos, con participación comunitaria,",
+    "pag": 37
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer jornadas deportivas y de recreación en la parroquia.",
+    "que": "El plan no dice cuántas jornadas, dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Son actividades que la junta puede organizar.",
+    "cita": "Gestionar y e implementar jornadas deportivas para la sana recreación.",
+    "pag": 26
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar a productores con cultivos agroecológicos en tierras parroquiales y parcelas.",
+    "que": "El plan no dice cuánto costará ni cuándo. Busca apoyo para productores en tierras de la parroquia.",
+    "v": "media",
+    "n": "Necesita convenio con el Ministerio o el Municipio.",
+    "cita": "Fomento de la producción agroecológica y bioinsumos en las tierras parroquiales y parcelas familiares.",
+    "pag": 29
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir al Municipio proyectos de agua potable y alcantarillado.",
+    "que": "El plan no dice cuánto costará ni cuándo. Pide ampliar el agua y el alcantarillado en la parroquia.",
+    "v": "baja",
+    "n": "Le toca al Municipio, no a la junta.",
+    "cita": "Coordinar con el GAD municipal la ampliación y el acceso al servicio de agua potable, alcantarillado con calidad y eficiencia",
+    "pag": 23
+   },
+   {
+    "t": "Pedir mejoras y arreglos para el Centro de Salud de la parroquia.",
+    "que": "El plan no dice cuánto costará ni cuándo. Pide trabajar con el comité de salud.",
+    "v": "baja",
+    "n": "La salud le toca al Ministerio de Salud, no a la junta.",
+    "cita": "Gestión para mejorar y adecentar el Centro de Salud de la parroquia.",
+    "pag": 39
+   }
+  ]
+ },
+ "metas": [
+  "80% de las áreas verdes y quebradas con árboles de la zona.",
+  "80% de la maquinaria de la junta operativa para trabajos en la parroquia.",
+  "Reporte público cada tres meses: marzo, junio, septiembre y diciembre.",
+  "Asambleas participativas cada seis meses.",
+  "70% de comunidades y barrios concientizados sobre la clasificación de desechos."
+ ],
+ "notas": [
+  "Gran parte del plan es de otros niveles (agua, salud, convenios). Muchas tareas dicen 'gestionar' y no traen costos ni fechas.",
+  "Gran parte del texto es un resumen del plan de desarrollo de la parroquia. El plan no trae costos ni fechas por proyecto.",
+  "Plan muy largo (43 págs.): se resumieron las 29 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  2,
+  4,
+  5,
+  11,
+  12,
+  15,
+  17,
+  18,
+  20,
+  21,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41
+ ],
+ "paginas": 43
+}

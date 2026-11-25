@@ -1,0 +1,196 @@
+{
+ "enfoque": "Calles, agua, alcantarillado, parques, basura, seguridad y trámites digitales. Incluye también salud y escuelas, que no son del Municipio.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar calles, avenidas y caminos vecinales urbanos; al menos 80 km en el período.",
+    "que": "Incluye construir, arreglar y mantener calles y avenidas. Su tabla da un monto referencial, sujeto a presupuesto.",
+    "v": "alta",
+    "n": "Le toca al Municipio (calles urbanas). El costo depende del presupuesto.",
+    "cita": "Mejorar la infraestructura vial urbana y rural del cantón mediante la construcción, rehabilitación y mantenimiento de calles, avenidas, caminos vecinales",
+    "pag": 22
+   },
+   {
+    "t": "Mejorar hasta 100 km de caminos rurales junto con la Prefectura del Guayas.",
+    "que": "Lo haría con la Prefectura y otras entidades. El plan no dice cuánto costará ni cómo se pagará.",
+    "v": "media",
+    "n": "Depende de la Prefectura del Guayas, no solo del Municipio.",
+    "cita": "la intervención de hasta 100 km de caminos rurales priorizados",
+    "pag": 26
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar agua potable y alcantarillado en sectores con más necesidad.",
+    "que": "Meta: subir 20% la cobertura de agua y alcantarillado. Monto referencial en la tabla, sujeto a presupuesto.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan dice que depende del presupuesto.",
+    "cita": "Ampliar progresivamente la cobertura y calidad de los servicios básicos, priorizando los sectores con mayores necesidades",
+    "pag": 22
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar y construir espacios públicos, como parques y canchas: al menos 30.",
+    "que": "Meta: arreglar o construir al menos 30 espacios públicos. Su tabla da un monto referencial; el plan dice que depende del presupuesto.",
+    "v": "alta",
+    "n": "Parques y espacios públicos son competencia del Municipio.",
+    "cita": "Recuperar, construir y mantener espacios públicos, áreas recreativas, deportivas, culturales e infraestructura comunitaria",
+    "pag": 22
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Implementar un sistema integral de gestión de residuos sólidos (basura) y más reciclaje.",
+    "que": "Meta: cobertura total de recolección en la zona urbana y más reciclaje. Monto referencial, sujeto a presupuesto.",
+    "v": "alta",
+    "n": "La basura es competencia del Municipio.",
+    "cita": "manejo adecuado de los desechos sólidos, educación ambiental, adaptación al cambio climático",
+    "pag": 23
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Mejorar el alumbrado público y poner sistemas de vigilancia en el cantón.",
+    "que": "Incluye alumbrado y videovigilancia, y coordinar con la Policía y el ECU 911. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "El alumbrado sí es del Municipio; la Policía no. Depende de otros.",
+    "cita": "Fortalecer la seguridad ciudadana a través de la recuperación de espacios públicos, el mejoramiento del alumbrado público",
+    "pag": 23
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias productivas y apoyar a emprendedores y agricultores del cantón.",
+    "que": "Meta: 12 ferias en el período. Crédito con el Banco de Desarrollo (BDE). El plan no dice cómo se pagará.",
+    "v": "media",
+    "n": "El Municipio puede organizar ferias, pero el crédito depende del banco. Crear empleo no le toca.",
+    "cita": "Impulsar el desarrollo económico local mediante el fortalecimiento del emprendimiento, el comercio, la agricultura",
+    "pag": 23
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Digitalizar al menos el 80% de los trámites municipales en el período 2027-2031.",
+    "que": "Meta: reducir 50% los tiempos de atención al ciudadano. El plan no dice cuánto costará; monto referencial en la tabla.",
+    "v": "alta",
+    "n": "Los trámites municipales son competencia del Municipio.",
+    "cita": "Modernizar la administración municipal mediante la incorporación de herramientas tecnológicas, la digitalización de trámites",
+    "pag": 23
+   },
+   {
+    "t": "Hacer una rendición de cuentas anual y publicar la gestión en la página web.",
+    "que": "Incluye informes periódicos y publicar presupuesto y contratos. Espacios de diálogo ciudadano. El plan no dice cuánto cuesta.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto cuesta.",
+    "cita": "Realizar el proceso anual de rendición de cuentas, conforme a la Constitución de la República del Ecuador",
+    "pag": 103
+   }
+  ],
+  "social": [
+   {
+    "t": "Reestructurar la Junta de Protección de Derechos y la Comisaría Municipal.",
+    "que": "Busca una política de tolerancia cero contra el acoso laboral e institucional. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Son organismos del Municipio. El plan no dice cuánto costará.",
+    "cita": "reestructurar y dotar de recursos técnicos a la Junta Cantonal de Protección de Derechos",
+    "pag": 19
+   }
+  ]
+ },
+ "metas": [
+  "Rehabilitar y mantener al menos 80 km de vías urbanas en 2027-2031.",
+  "Construir o rehabilitar al menos 30 espacios públicos en 2027-2031.",
+  "Incrementar en un 20% la cobertura de agua potable y alcantarillado en sectores priorizados.",
+  "Digitalizar al menos el 80% de los trámites municipales en 2027-2031.",
+  "Sembrar al menos 5.000 árboles en el período 2027-2031."
+ ],
+ "notas": [
+  "Muchos montos son referenciales; el plan dice que dependen del presupuesto, de convenios y de la ley vigente.",
+  "Parte del diagnóstico viene del plan de desarrollo (PDOT) del cantón. Incluye salud, escuelas y empleo, que no son del Municipio.",
+  "Plan muy largo (105 págs.): se resumieron las 79 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  3,
+  4,
+  13,
+  19,
+  22,
+  23,
+  25,
+  26,
+  27,
+  29,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  44,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61,
+  62,
+  63,
+  64,
+  65,
+  66,
+  67,
+  68,
+  69,
+  70,
+  71,
+  72,
+  73,
+  74,
+  75,
+  76,
+  77,
+  78,
+  79,
+  80,
+  81,
+  82,
+  83,
+  84,
+  85,
+  86,
+  87,
+  88,
+  89,
+  90,
+  91,
+  92,
+  93,
+  94,
+  95,
+  96,
+  97,
+  98,
+  99,
+  100,
+  102,
+  103,
+  104
+ ],
+ "paginas": 105
+}

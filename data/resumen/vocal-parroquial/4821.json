@@ -1,0 +1,128 @@
+{
+ "enfoque": "Caminos, parques, ambiente y ferias con la comunidad. Para salud y escuelas pide ayuda a otros niveles de gobierno. No da costos. Su última página menciona Pintag.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer un inventario de caminos, cunetas, puentes y puntos críticos, ubicados en mapa.",
+    "que": "El plan no dice cuánto costará. Está previsto para 2027 en el cronograma.",
+    "v": "alta",
+    "n": "Caminos son tarea de la junta, junto con la Prefectura.",
+    "cita": "Levantar un inventario georreferenciado de vías, caminos, cunetas, alcantarillas, puentes y",
+    "pag": 7
+   },
+   {
+    "t": "Hacer cada año un plan de mantenimiento preventivo de caminos, decidido con las comunidades.",
+    "que": "Se prioriza con las comunidades. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Caminos son tarea de la junta; el dinero depende del presupuesto.",
+    "cita": "Elaborar cada año un plan de mantenimiento preventivo, priorizado con las comunidades.",
+    "pag": 7
+   },
+   {
+    "t": "Gestionar convenios con la Prefectura de Pichincha y el Municipio de Quito para caminos.",
+    "que": "El plan no dice cuánto costará ni qué aporta cada uno. Cada convenio debe fijar aportes y plazos.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura y el Municipio.",
+    "cita": "Gestionar convenios con el Gobierno Provincial de Pichincha y el Municipio de Quito.",
+    "pag": 7
+   },
+   {
+    "t": "Pedir mejoras de frecuencias, recorridos y paradas del transporte público.",
+    "que": "Se hace ante las autoridades competentes. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "El transporte público lo decide otra autoridad, no la junta.",
+    "cita": "Gestionar mejoras en frecuencias, recorridos y paradas de transporte público ante las",
+    "pag": 7
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Organizar jornadas para recuperar zonas degradadas con plantas adecuadas y cuidarlas después.",
+    "que": "El plan busca intervenir al menos dos áreas. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Son trabajos de la junta con la comunidad.",
+    "cita": "Gestionar jornadas de restauración con especies apropiadas y mantenimiento posterior.",
+    "pag": 9
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer un registro voluntario de productores, artesanos, prestadores turísticos y emprendimientos.",
+    "que": "Es voluntario: se anota quien quiera. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Es un listado; la junta puede hacerlo.",
+    "cita": "Elaborar un registro voluntario de productores, artesanos, prestadores turísticos y",
+    "pag": 8
+   },
+   {
+    "t": "Organizar ferias, mercados y ventas directas de productos locales.",
+    "que": "El plan no dice cuánto costará ni dónde se harán.",
+    "v": "alta",
+    "n": "Ferias y mercados entran en lo que puede hacer la junta.",
+    "cita": "Organizar ferias, mercados y canales de venta directa.",
+    "pag": 8
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Gestionar ante el Ministerio de Salud la construcción de un centro de salud tipo C.",
+    "que": "El plan no dice cuánto costará ni cuándo. Depende de estudios y del presupuesto nacional.",
+    "v": "baja",
+    "n": "La salud es del Ministerio. La junta solo puede pedirlo.",
+    "cita": "Gestionar ante el Ministerio de Salud Pública y las entidades competentes la construcción y",
+    "pag": 10
+   },
+   {
+    "t": "Gestionar cooperación internacional para construir o mejorar aulas de escuelas.",
+    "que": "El plan no dice cuánto costará ni cuántas aulas. Se haría con las entidades educativas competentes.",
+    "v": "baja",
+    "n": "Las escuelas son de otro nivel de gobierno, no de la junta.",
+    "cita": "incluyendo la construcción y/o mejoramiento de aulas para las escuelas",
+    "pag": 11
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Dar mantenimiento a parques y espacios comunitarios, con luz y accesibilidad.",
+    "que": "El plan no dice cuánto costará. Las obras son según competencias y presupuesto.",
+    "v": "alta",
+    "n": "Los parques son de la junta; el plan no da costo.",
+    "cita": "Ejecutar un programa de mantenimiento, accesibilidad e iluminación, según competencias y",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Cuatro informes trimestrales y una rendición pública cada año.",
+  "Al menos cuatro ciclos al año de capacitación o asistencia.",
+  "Intervenir al menos dos áreas prioritarias de restauración o protección.",
+  "Una estrategia de turismo y al menos dos circuitos o rutas.",
+  "Al menos dos capacitaciones por año en riesgos."
+ ],
+ "notas": [
+  "El documento menciona Pintag y 'Elecciones Seccionales 2026' en la última página: puede estar copiado de otra parroquia.",
+  "El plan no da costos. Dice que las metas se validan en 90 días y dependen del presupuesto."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "paginas": 18
+}

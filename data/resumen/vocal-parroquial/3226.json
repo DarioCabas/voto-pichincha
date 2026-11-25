@@ -1,0 +1,126 @@
+{
+ "enfoque": "Plan de la Junta Parroquial de El Quinche: ordenar obras y mantenimiento, ferias y escuela de producción, jornadas ambientales, mesas de prevención y tablero público.",
+ "tabla": {
+  "gobierno": [
+   {
+    "t": "Hacer una lista anual de obras y proyectos, elegida en asambleas de barrios y comunidades.",
+    "que": "La lista se actualizará cada año con asambleas territoriales. El plan no dice cuánto costará ni cuándo estará lista.",
+    "v": "alta",
+    "n": "Es trabajo de la propia junta. El plan no dice cuánto costará.",
+    "cita": "crear una Cartera Parroquial de Obras y Proyectos, actualizada anualmente y priorizada mediante asambleas territoriales",
+    "pag": 6
+   },
+   {
+    "t": "Publicar en un tablero el avance de cada compromiso del plan.",
+    "que": "Se actualizará al menos cada tres meses, con indicador, meta, presupuesto y avance. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Es trabajo de la propia junta; no depende de otro nivel.",
+    "cita": "implementar un Tablero Público de Cumplimiento del Plan de Trabajo",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer un plan anual de mantenimiento de obras y espacios públicos parroquiales.",
+    "que": "Se hará con un inventario, un cronograma, presupuesto participativo y mingas cuando sea legal. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Mantener parques y espacios es competencia de la junta.",
+    "cita": "implementar un Plan Anual de Mantenimiento de Infraestructura y Espacios Públicos de competencia parroquial",
+    "pag": 6
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer una agenda de caminos rurales, con los tramos productivos primero.",
+    "que": "Se priorizarán caminos productivos y comunitarios y se coordinará su arreglo con la Prefectura. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura de Pichincha. El plan no dice costos.",
+    "cita": "priorizar tramos rurales productivos y comunitarios y coordinar su mantenimiento con la Prefectura de Pichincha",
+    "pag": 6
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias de productores según un calendario anual.",
+    "que": "Incluirá capacitación, promoción y vínculos con compradores, restaurantes y turismo. El plan no dice cuántas ferias ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar ferias y capacitar productores sí le toca a la junta.",
+    "cita": "calendario anual, capacitación, promoción, asociatividad y articulación con compradores, restaurantes, comercio y turismo",
+    "pag": 6
+   },
+   {
+    "t": "Crear una escuela para formar emprendedores y productores.",
+    "que": "Dará formación en costos, comercialización (vender sus productos), herramientas digitales y asociatividad, con convenios. El plan no dice cuándo abrirá ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita convenios con instituciones de formación. El plan no dice costos.",
+    "cita": "crear una Escuela Comunitaria de Emprendimiento y Producción",
+    "pag": 6
+   },
+   {
+    "t": "Hacer una marca territorial de El Quinche para sus productos.",
+    "que": "Incluye un catálogo de productores, vitrinas digitales y participación en ferias, según el presupuesto. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Promocionar productores le toca a la junta. Depende del presupuesto.",
+    "cita": "impulsar la marca territorial y promoción de productos de El Quinche",
+    "pag": 6
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer jornadas permanentes de reforestación y recuperación de espacios naturales.",
+    "que": "Se harán con escuelas, organizaciones y comunidades; el plan dice al menos 4 jornadas comunitarias al año. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Plantar árboles y cuidar espacios naturales es competencia de la junta.",
+    "cita": "implementar jornadas permanentes de reforestación, recuperación de espacios naturales y educación ambiental",
+    "pag": 7
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Crear mesas de prevención con la Policía, el Municipio y dirigentes.",
+    "que": "Habrá reuniones al menos cada tres meses para ubicar puntos peligrosos y pedir luz o arreglo de espacios a quien corresponda. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "No le toca la policía: solo coordina con ella y con el Municipio.",
+    "cita": "reuniones periódicas con Policía Nacional, Municipio, dirigentes y actores sociales",
+    "pag": 7
+   }
+  ],
+  "otros": [
+   {
+    "t": "Armar una ruta turística de El Quinche con patrimonio religioso, cultura, comida y paisaje.",
+    "que": "Se coordinará con comerciantes, organizaciones y el Municipio de Quito para letreros, promoción y agenda. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio de Quito. El plan no dice costos.",
+    "cita": "articular una Ruta de El Quinche que vincule patrimonio religioso, cultura, gastronomía, producción y paisaje rural",
+    "pag": 6
+   }
+  ]
+ },
+ "metas": [
+  "Al menos 2 asambleas territoriales por año.",
+  "Tablero público de cumplimiento actualizado cada trimestre.",
+  "Al menos 4 jornadas de capacitación para productores y emprendedores por año.",
+  "Al menos 4 jornadas comunitarias de ambiente por año.",
+  "Un informe público de avance cada año y una evaluación final."
+ ],
+ "notas": [
+  "El plan no pone cifras de costo para ninguna propuesta. Dice que dependerá del presupuesto de la junta y de convenios.",
+  "Varias propuestas dependen de la Prefectura, el Municipio o la Policía; la junta solo puede coordinar."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "paginas": 12
+}

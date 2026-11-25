@@ -1,0 +1,120 @@
+{
+ "enfoque": "Plan escrito para la presidencia de la junta, no para vocal. Propone parques, ferias, deporte y reforestación; agua, calles y policía le tocan a otros niveles.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Poner luces LED y equipos en parques y plazas abandonadas para quitarle espacio a la delincuencia.",
+    "que": "El plan no dice cuánto costará, quién pagará ni en qué plazo se hará.",
+    "v": "alta",
+    "n": "Parques y espacios le tocan a la junta. Falta el costo.",
+    "cita": "Recuperación de espacios: Iluminación LED y equipamiento de parques y plazas",
+    "pag": 4
+   },
+   {
+    "t": "Dejar que la comunidad decida el uso de plazas, parques y casas comunales.",
+    "que": "La comunidad decidiría qué hacer, quién administra y cómo se generan ingresos. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta. Falta el costo.",
+    "cita": "comunales en centros de vida donde la comunidad decide qué hacer, quién administra y cómo",
+    "pag": 4
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Modernizar y ampliar las alarmas comunitarias en los barrios periféricos.",
+    "que": "Se coordinaría con la Policía Nacional. El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "baja",
+    "n": "La seguridad y la Policía no le tocan a la junta.",
+    "cita": "Alarmas comunitarias inteligentes: Modernización y ampliación del sistema de alarmas en",
+    "pag": 4
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar baches y pavimentar las vías principales de barrios altos y comunas.",
+    "que": "Pone como ejemplos Llano Chico y Oyacoto. El plan no dice cuánto costará ni quién pagará.",
+    "v": "media",
+    "n": "Las calles le tocan al Municipio o a la Prefectura.",
+    "cita": "Plan de bacheo y pavimentación: Priorizar las vías principales que conectan a los barrios",
+    "pag": 4
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias itinerantes seguras para vender productos de emprendedores locales.",
+    "que": "El plan no dice dónde ni cuándo serán las ferias, ni cuánto costarán.",
+    "v": "alta",
+    "n": "Organizar ferias sí entra en lo que puede hacer la junta.",
+    "cita": "Proponer ferias itinerantes seguras para reactivar la economía de los emprendedores locales",
+    "pag": 5
+   },
+   {
+    "t": "Dar talleres de oficios prácticos y de administración de negocios a jóvenes y mujeres.",
+    "que": "Se haría con convenios. El plan no dice cuánto costará ni cuántos talleres habrá.",
+    "v": "alta",
+    "n": "Cursos y talleres sí entran en lo que puede hacer la junta.",
+    "cita": "Convenios para Talleres de capacitación en oficios prácticos y",
+    "pag": 5
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Sembrar plantas nativas, recuperar el suelo y limpiar quebradas para evitar deslaves.",
+    "que": "El plan no dice dónde se hará ni cuánto costará. Incluye proteger quebradas.",
+    "v": "alta",
+    "n": "Reforestar y cuidar quebradas le toca a la junta. Falta el costo.",
+    "cita": "Proyectos de reforestación con plantas nativas, regeneración del suelo en general y limpieza",
+    "pag": 6
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Exigir al Municipio que amplíe el agua potable y el alcantarillado en barrios en regularización.",
+    "que": "La junta sería quien exige y gestiona. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "baja",
+    "n": "El agua y el alcantarillado son del Municipio, no de la junta.",
+    "cita": "Dotación y regularización: Aunque es competencia municipal (EPMAPS), la Junta",
+    "pag": 5
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear una veeduría ciudadana para vigilar que las obras cumplan sus plazos.",
+    "que": "Vigilaría proyectos de infraestructura básica. El plan no dice cuánto costará ni quién la integra.",
+    "v": "alta",
+    "n": "Organizar a vecinos para vigilar obras sí le toca a la junta.",
+    "cita": "Fiscalización de obras: Crear una veeduría ciudadana parroquial para vigilar que los",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear un programa de deporte comunitario para prevenir violencia y unir a vecinos.",
+    "que": "Usaría el deporte para prevenir violencia y unir a la comunidad. El plan no dice dónde, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Organizar actividades comunitarias sí le toca a la junta.",
+    "cita": "Programa de Deporte Social Comunitario. El deporte es tejido social, no solo",
+    "pag": 6
+   }
+  ]
+ },
+ "metas": [
+  "Ejecutar las propuestas en un periodo de cuatro años, según el plan."
+ ],
+ "notas": [
+  "El plan fue escrito para la presidencia de la junta, no para vocal. Varias propuestas son de otros niveles.",
+  "El plan casi no dice cuánto costará ni cuándo. No explica cómo se pagará."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "paginas": 8
+}

@@ -1,0 +1,121 @@
+{
+ "enfoque": "Sobre todo repite el plan de desarrollo del cantón 2020-2030. Propone agua, basura, calles, mercado, presupuesto participativo y programas para adultos mayores.",
+ "tabla": {
+  "gobierno": [
+   {
+    "t": "Decidir cada año en qué se invierte, según lo que pidan las comunidades.",
+    "que": "Desde el primer año, cada año se reparte parte de la inversión según lo que piden las comunidades. El plan no dice cuánto dinero será.",
+    "v": "alta",
+    "n": "Lo decide el propio Municipio. El plan no dice qué monto de inversión se destinará.",
+    "cita": "Institucionalizar el presupuesto participativo como mecanismo anual de asignación de la inversión según las prioridades de las comunidades",
+    "pag": 8
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar y mejorar el agua potable en parroquias con falta de agua.",
+    "que": "Hoy solo el 19% recibe agua tratada. El plan no dice cuánto costará ni en qué parroquias empieza.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "cita": "Ampliación y mejoramiento de sistemas de agua potable Agua segura Cantonal Parroquias con",
+    "pag": 10
+   },
+   {
+    "t": "Crear un sistema nuevo para la basura en todo el cantón.",
+    "que": "A mediano plazo, según el plan. Hoy el 33% quema la basura y el 31% la tira en sitios no autorizados. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Es tarea del Municipio. El plan no dice cuánto costará ni cómo se pagará.",
+    "cita": "Nuevo sistema integral de gestión de residuos sólidos",
+    "pag": 11
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Mejorar la vialidad urbana y rural del cantón.",
+    "que": "A largo plazo, según el plan. Hoy el 66% del sistema vial es de tierra y solo el 7% está asfaltado. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "La vía urbana es del Municipio; la rural depende de la Prefectura. El plan no dice costos.",
+    "cita": "Mejoramiento de la vialidad urbana y rural Conectividad Cantonal Cantón",
+    "pag": 11
+   }
+  ],
+  "economia": [
+   {
+    "t": "Modernizar el mercado y el camal municipales según normas sanitarias.",
+    "que": "A mediano plazo, según el plan. Busca cumplir normas sanitarias y la demanda actual de venta. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Mercados y camales son del Municipio. El plan no dice cuánto costará ni de dónde saldrá.",
+    "cita": "Gestionar la modernización del mercado y el camal municipales",
+    "pag": 9
+   },
+   {
+    "t": "Ordenar el turismo del Valle de Yunguilla, con servicios e infraestructura.",
+    "que": "A mediano plazo, según el plan. Hoy el valle tiene poca difusión y falta ordenamiento. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "El turismo lo comparten el Municipio y otros niveles. El plan no dice cuánto costará.",
+    "cita": "Ordenar y promover el turismo sostenible del Valle de Yunguilla, fortaleciendo infraestructura, servicios y participación comunitaria",
+    "pag": 9
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Hacer estudios y obras para reducir el riesgo de deslizamientos.",
+    "que": "A mediano plazo, en zonas vulnerables. El plan no dice qué zonas son ni cuánto costará.",
+    "v": "alta",
+    "n": "Prevenir desastres es tarea del Municipio. El plan no dice cuánto costará.",
+    "cita": "Estudios y obras para mitigación de riesgos por deslizamiento",
+    "pag": 10
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer un plan para proteger las fuentes de agua del cantón.",
+    "que": "A corto plazo, según el plan. El plan no dice qué zonas protegerá ni cuánto costará.",
+    "v": "media",
+    "n": "Uso del suelo sí le toca al Municipio; la minería no está en sus competencias.",
+    "cita": "Plan de protección de fuentes de agua Conservación",
+    "pag": 10
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear un programa de atención para adultos mayores en todo el cantón.",
+    "que": "A corto plazo, según el plan. El plan no dice qué servicios dará ni cuánto costará. Destina al menos 10% de sus ingresos que no son impuestos a programas sociales.",
+    "v": "media",
+    "n": "El Municipio puede impulsarlo, pero la salud no le toca. El plan no dice cuánto costará.",
+    "cita": "Programa de atención integral para adultos mayores Inclusión social",
+    "pag": 10
+   }
+  ]
+ },
+ "metas": [
+  "Al menos un mecanismo anual de presupuesto participativo funcionando desde el primer año.",
+  "Al menos 4 asambleas cantonales cada año.",
+  "Al menos 10% de los ingresos que no son impuestos, para programas sociales.",
+  "Ampliar la cobertura de recolección de basura en el cantón."
+ ],
+ "notas": [
+  "El plan casi no dice cuánto costará ninguna obra ni de dónde saldrá el dinero.",
+  "Gran parte copia el plan de desarrollo del cantón 2020-2030. Las obras aparecen solo como ideas, sin estudios hechos."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16
+ ],
+ "paginas": 16
+}

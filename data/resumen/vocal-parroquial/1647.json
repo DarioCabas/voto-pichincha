@@ -1,0 +1,136 @@
+{
+ "enfoque": "Arreglar caminos, canchas y cementerio, hacer ferias y apoyar productores. Incluye agua y salud, que no son de la junta. Repite mucho del plan de desarrollo parroquial.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Tapar baches en todas las rutas con cuadrillas cada mes.",
+    "que": "El plan no dice cuánto costará. Las cuadrillas trabajarían cada mes. Los fondos saldrían de la Prefectura y del presupuesto propio.",
+    "v": "media",
+    "n": "Le toca a la junta, pero necesita a la Prefectura para la maquinaria.",
+    "cita": "Bacheo constante en todas las rutas, con cuadrillas calendarizadas mensualmente",
+    "pag": 7
+   },
+   {
+    "t": "Mantener los 9 tramos de vía con perfilado, afirmado, cuneteo y bacheo.",
+    "que": "Se haría en 2028–2029 con contrato público y revisión técnica y de la comunidad. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Caminos: la junta trabaja con la Prefectura, que pone la maquinaria.",
+    "cita": "Ejecución del programa de mantenimiento vial en los 9 tramos: perfilado, afirmado, cuneteo y bacheo en todas las rutas",
+    "pag": 14
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir a SENAGUA proyectos de agua potable para Cartagena, Palmitopamba y La Perla.",
+    "que": "Se pediría en el año 1 (2027–2028) dinero para estudio y diseño. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "El agua potable no le toca a la junta. Le toca a la Secretaría del Agua (SENAGUA).",
+    "cita": "Gestión de proyectos de potabilización ante SENAGUA para Cartagena, Palmitopamba y La Perla",
+    "pag": 8
+   },
+   {
+    "t": "Pedir al Ministerio de Salud arreglar y ampliar el Subcentro de Salud.",
+    "que": "La junta pediría reparar, mantener y ampliar el Subcentro. El plan pone la mejora en 6 a 12 meses. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "La salud no le toca a la junta. Le toca al Ministerio de Salud.",
+    "cita": "Gestión de reparación, mantenimiento y ampliación de las instalaciones del Subcentro de Salud",
+    "pag": 10
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Plantar árboles nativos en zonas dañadas y orillas de ríos.",
+    "que": "Meta de 5 hectáreas o más hasta 2031. Se haría con mingas, el trabajo comunitario en grupo. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta y se hace con trabajo en grupo de vecinos.",
+    "cita": "Programa de reforestación comunitaria con especies nativas en zonas degradadas y márgenes de ríos",
+    "pag": 9
+   }
+  ],
+  "social": [
+   {
+    "t": "Arreglar el cementerio principal: limpieza, cerca, accesos y áreas verdes.",
+    "que": "Se haría en los meses 3 a 7 según el cronograma. Lo pagaría la junta con su presupuesto propio. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta con su propio presupuesto.",
+    "cita": "Mejora integral del cementerio principal: limpieza, cerramiento, accesos, señalización y áreas verdes",
+    "pag": 10
+   },
+   {
+    "t": "Arreglar cercas, luces, líneas y graderías de canchas de fútbol y vóley.",
+    "que": "Lo pagarían el Ministerio del Deporte, el Municipio de Quito (DMQ) y la junta. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita fondos del Ministerio del Deporte y del Municipio de Quito.",
+    "cita": "Mantenimiento y mejoramiento de canchas de fútbol, vóley y espacios multiusos en la parroquia y comunidades",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear una asociación de productores para vender juntos cacao, café y otros.",
+    "que": "Para vender juntos cacao fino y café especial. Se haría en el año 1 (2027–2028) con registro ante el MAG y la SEPS. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "La junta organiza a los productores. Pide registro a otras entidades.",
+    "cita": "Conformación o fortalecimiento de la Asociación de Productores Agrícolas de Nanegal para comercialización colectiva",
+    "pag": 12
+   },
+   {
+    "t": "Hacer una feria campesina para vender productos locales sin intermediarios.",
+    "que": "Se haría desde el año 3 (2029–2030), cada primer domingo del mes, en el parque central. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta organizar ferias. El plan no dice cuánto costará.",
+    "cita": "Implementación de feria campesina periódica: venta directa de productos locales, sin intermediarios",
+    "pag": 12
+   }
+  ],
+  "otros": [
+   {
+    "t": "Construir un puente colgante y un columpio en la Cascada La Piragua.",
+    "que": "Obra grande con zona de seguridad. La pagarían el Ministerio de Turismo, el Ministerio del Ambiente (MAATE) y el banco BDE. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "Obra grande que depende de otros ministerios y del banco.",
+    "cita": "instalación de puente colgante y columpio gigante certificado con zona de seguridad",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Al menos 5 convenios o acuerdos de cogestión firmados durante el primer año (2027–2028).",
+  "Los 9 tramos de vía intervenidos con mantenimiento, bacheo y señales, al 100%, en el año 2 (2028–2029).",
+  "Reforestación de 5 hectáreas o más hasta 2031.",
+  "Dotación inicial de 200 libros para la biblioteca en el año 2 (2028–2029).",
+  "Al menos 80% de la red vial parroquial transitable, certificado por auditoría técnica, en el año 4 (2030–2031)."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará casi ninguna obra. Muchas dependen de ministerios, del Municipio y de la Prefectura.",
+  "Incluye agua, salud e internet, que no son de la junta. Varios textos repiten el plan de desarrollo de la parroquia."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24
+ ],
+ "paginas": 24
+}

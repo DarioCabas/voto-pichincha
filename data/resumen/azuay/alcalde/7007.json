@@ -1,0 +1,153 @@
+{
+ "enfoque": "Seis programas: agua y alcantarillado, basura, calles, parques, mercados, turismo, cuidado social y administración. Se basa en el Plan de Desarrollo y Ordenamiento Territorial del cantón.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Proteger y recuperar fuentes de agua, bosques y ecosistemas del cantón.",
+    "que": "Meta: al menos 158,53 hectáreas protegidas o restauradas por año. Costo referencial: USD 1.900.000. Lo harán junto con la autoridad ambiental y del agua.",
+    "v": "media",
+    "n": "Depende de la autoridad ambiental y del agua; el Municipio coordina.",
+    "cita": "Proteger y recuperar el patrimonio natural, las fuentes hídricas y los ecosistemas estratégicos",
+    "pag": 24
+   }
+  ],
+  "economia": [
+   {
+    "t": "Ordenar mercados y ferias para que productores vendan directo a los consumidores.",
+    "que": "El plan no dice qué mercado se mejorará ni cuándo. Dice que hay 119 puestos municipales disponibles.",
+    "v": "alta",
+    "n": "Mercados y ferias son competencia municipal. El plan no dice cuáles.",
+    "cita": "el fortalecimiento de los mercados y ferias, el ordenamiento de los espacios de intercambio",
+    "pag": 5
+   },
+   {
+    "t": "Apoyar a productores y al turismo con capacitación, asistencia técnica y convenios.",
+    "que": "Meta: apoyar al menos 3.650 productores y emprendimientos, y subir 20 % el flujo de turistas frente a 2027. Costo referencial compartido con mercados: USD 1.000.000.",
+    "v": "media",
+    "n": "Agricultura y turismo dependen de la Prefectura y del Gobierno. El Municipio coordina.",
+    "cita": "la producción agropecuaria sostenible, la comercialización directa, la generación de valor agregado",
+    "pag": 14
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Implementar un sistema de información municipal y digitalizar trámites.",
+    "que": "Costo referencial: USD 2.200.000, en 2027-2031. Meta: integrar al menos 70 % de los datos territoriales e institucionales priorizados.",
+    "v": "alta",
+    "n": "Le toca al Municipio, es su propia administración.",
+    "cita": "la simplificación y digitalización de trámites; el fortalecimiento del Sistema de Información Local",
+    "pag": 25
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Intervenir al menos 80 km de vías priorizadas hasta 2031.",
+    "que": "Costo referencial de vías y espacios públicos juntos: USD 5.400.000, en 2027-2031 por fases. El plan no dice qué tramos se harán primero.",
+    "v": "media",
+    "n": "Vía urbana sí es del Municipio; la rural depende de la Prefectura.",
+    "cita": "Ordenar, integrar y conectar el territorio cantonal mediante la gestión planificada del suelo, el mejoramiento de la vialidad y la movilidad",
+    "pag": 24
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Poner tecnología e iluminación para prevenir delitos en espacios públicos.",
+    "que": "El plan no dice cuánto costará esta acción ni cuándo. Está dentro del programa Paute Cuida, con USD 3.000.000 referenciales.",
+    "v": "media",
+    "n": "Policía no le toca al alcalde. Iluminación y espacios sí, pero sin costo claro.",
+    "cita": "promover la seguridad preventiva mediante tecnología, iluminación, recuperación de espacios públicos",
+    "pag": 4
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar y mejorar el agua potable y el alcantarillado en sectores con más carencias.",
+    "que": "Meta: subir 4 puntos la cobertura de agua y 2 puntos la de alcantarillado hasta 2031. Costo referencial del programa, con basura: USD 4.500.000.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice de dónde saldrá todo el dinero.",
+    "cita": "Ampliar, rehabilitar y mejorar progresivamente la infraestructura y la prestación de los servicios públicos de agua potable, alcantarillado",
+    "pag": 24
+   },
+   {
+    "t": "Mejorar el manejo de la basura: recogida, tratamiento y lugar final de desechos.",
+    "que": "El plan dice que el relleno sanitario necesita nuevas celdas, pero no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice de dónde sale el dinero para el relleno.",
+    "cita": "fortalecer la gestión integral de residuos sólidos, con énfasis en los sectores urbanos y rurales",
+    "pag": 20
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear una red de cuidados y protección de derechos para grupos prioritarios.",
+    "que": "Meta: atender al menos 1.500 personas de grupos prioritarios y bajar 40 % los casos de vulneración de derechos. Costo referencial: USD 3.000.000.",
+    "v": "media",
+    "n": "Salud, educación y policía son de otras instituciones. El Municipio coordina.",
+    "cita": "una red cantonal de cuidados, inclusión y protección integral de derechos",
+    "pag": 24
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar parques, plazas y equipamientos comunitarios, accesibles y seguros.",
+    "que": "Meta: recuperar o mejorar 15 espacios o equipamientos hasta 2031. Costo referencial junto con vías: USD 5.400.000. Se priorizarán barrios y parroquias con más brechas.",
+    "v": "alta",
+    "n": "Le toca al Municipio: parques y espacios públicos son competencia municipal.",
+    "cita": "la recuperación de equipamientos y espacios públicos accesibles, seguros y resilientes",
+    "pag": 12
+   }
+  ]
+ },
+ "metas": [
+  "Agua potable: subir 4 puntos la cobertura hasta 2031.",
+  "Alcantarillado: subir 2 puntos la cobertura hasta 2031.",
+  "Vías: intervenir al menos 80 km de red vial priorizada hasta 2031.",
+  "Espacios públicos y equipamientos: recuperar o mejorar 15 hasta 2031.",
+  "Fuentes de agua y bosques: al menos 158,53 hectáreas protegidas o restauradas por año."
+ ],
+ "notas": [
+  "Los USD 18 millones son referenciales, no compromisos. Dependen de créditos, convenios y otras fuentes por gestionar.",
+  "Vía rural, riego, salud, policía y empleo no son del alcalde. El plan lo reconoce y solo promete coordinar."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37
+ ],
+ "paginas": 37
+}

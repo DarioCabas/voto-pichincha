@@ -1,0 +1,97 @@
+{
+ "enfoque": "Propone buscar dinero de cooperación, ferias y turismo, 3 nodos productivos, talleres ambientales y arreglar caminos con minga. No dice cuánto cuesta ninguna de estas cosas.",
+ "tabla": {
+  "economia": [
+   {
+    "t": "Buscar dinero de organismos de cooperación internacional para la parroquia",
+    "que": "Busca conseguir dinero de organismos cooperantes para la parroquia. El plan no dice cuánto conseguirá ni cuándo.",
+    "v": "alta",
+    "n": "Es competencia de la junta. Pero el plan no dice cuánto dinero conseguirá.",
+    "cita": "Generar un banco de cooperantes que fortalezcan las acciones terriboriales",
+    "pag": 14
+   },
+   {
+    "t": "Diseñar un plan turístico con turismo de comida, ferias y nodos productivos",
+    "que": "Meta: 15 proyectos implementados al 2031. Beneficia a la parroquia, al cantón y a la provincia. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Ferias y turismo se pueden organizar desde la junta. El plan no dice el costo.",
+    "cita": "Diseñar el plan turístico que incluya de manera complementaria el turismo gastronómico, las ferias y nodos de crecimiento productivo",
+    "pag": 14
+   },
+   {
+    "t": "Crear un sistema de desarrollo productivo con 3 nodos de producción",
+    "que": "Meta: 3 nodos de producción. Plazos en el plan: 2028, 2029 y 2031. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Son obras grandes. Puede necesitar acuerdos con el Municipio o la Prefectura. El plan no dice el costo.",
+    "cita": "con la implementación de 3 nodos de producción",
+    "pag": 15
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer talleres para conservar y restaurar la naturaleza y su biodiversidad",
+    "que": "Meta: 10 talleres. Beneficia a los ciudadanos de la parroquia. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Talleres y cuidado del ambiente son tareas de la junta. El plan no dice el costo.",
+    "cita": "Conservar, restaurar y gestionar el patrimonio natural y su biodiversidad",
+    "pag": 15
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar caminos parroquiales con minga y los equipos camineros de la junta",
+    "que": "Meta: 10 proyectos de mantenimiento de caminos para 60 comunidades. Plazo entre 2027 y 2031. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Los caminos parroquiales se hacen junto con la Prefectura. El plan no dice el costo.",
+    "cita": "impulsar la minga con equipos camineros de la Junta parroquial",
+    "pag": 15
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Mantener la infraestructura, equipamientos y espacios públicos de la parroquia",
+    "que": "El plan no dice qué obras ni en qué lugares. Tampoco dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca a la junta, pero el presupuesto es bajo y el plan no dice cuánto costará.",
+    "cita": "Planificar, gestionar, ejecutar, rehabilitar y mantener la infraestructura física, los",
+    "pag": 13
+   }
+  ]
+ },
+ "metas": [
+  "15 proyectos de turismo y desarrollo productivo implementados al 2031",
+  "3 nodos de producción dentro de un sistema de desarrollo productivo",
+  "10 talleres de conservación de ecosistemas y biodiversidad",
+  "10 proyectos de mantenimiento de caminos en 60 comunidades"
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Varios plazos se leen mal en el documento. Gran parte del texto son citas de leyes, no propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22
+ ],
+ "paginas": 22
+}

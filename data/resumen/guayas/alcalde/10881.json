@@ -1,0 +1,127 @@
+{
+ "enfoque": "Agua, basura, caminos rurales y drenaje, con apoyo a la cadena del arroz y al turismo. Parte del texto viene del plan anterior y del PDOT 2023-2027.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Rehabilitar redes, reservorios y bombas de agua potable en sectores con déficit.",
+    "que": "Según el plan, se hará según estudios. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Es competencia municipal. Falta costo y fechas.",
+    "cita": "Rehabilitación de redes, reservorios, equipos de bombeo y soluciones para sectores deficitarios, según estudios.",
+    "pag": 8
+   },
+   {
+    "t": "Ajustar las rutas de recolección de basura y dar mantenimiento a los camiones.",
+    "que": "Incluye separar la basura desde el origen y darle un destino adecuado. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Optimización de rutas, mantenimiento de flota, reducción de puntos críticos, separación en la fuente y disposición adecuada.",
+    "pag": 8
+   },
+   {
+    "t": "Hacer un mapa de sitios que se inundan y limpiar desagües antes de la lluvia.",
+    "que": "El plan dice que estas obras se priorizarán antes de la temporada de lluvias. No dice cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta costo y obras concretas.",
+    "cita": "Mapa de puntos críticos, limpieza preventiva y obras de drenaje priorizadas antes de temporadas de lluvia.",
+    "pag": 8
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer un inventario de caminos rurales y arreglar primero los que llegan a comunidades.",
+    "que": "Para tramos grandes, el plan pide coordinar con la Prefectura. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Caminos rurales son del Municipio. Falta costo y plazo.",
+    "cita": "Inventario georreferenciado, priorización por acceso a comunidades y producción, mantenimiento preventivo y coordinación con Prefectura.",
+    "pag": 8
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer un inventario de parques y canchas y programar su arreglo.",
+    "que": "El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "alta",
+    "n": "Parques y canchas son del Municipio. Falta costo y plazos.",
+    "cita": "Inventario, estado, accesibilidad y programación de parques, canchas y equipamientos.",
+    "pag": 10
+   },
+   {
+    "t": "Controlar el uso del suelo con inspecciones y permisos de construcción.",
+    "que": "El plan no dice cuánto costará ni en qué plazo. Dice que la información será pública.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta costo y plazo.",
+    "cita": "Mejorar inspección, permisos, información pública y seguimiento de procesos.",
+    "pag": 11
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear una mesa con productores, piladoras y comerciantes de arroz para estudiar costos y mercados.",
+    "que": "Busca reunir a productores, piladoras y comerciantes para ver costos, transporte y mercados. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Puede convocarla el Municipio, pero depende de otras entidades. Falta costo.",
+    "cita": "Articulación con productores, piladoras, comerciantes y entidades técnicas para identificar costos, logística y mercados.",
+    "pag": 6
+   },
+   {
+    "t": "Mantener el mercado y los espacios de venta, con control sanitario y promoción.",
+    "que": "Incluye control sanitario, transporte de productos y promoción. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Los mercados son del Municipio. Falta costo y lugar.",
+    "cita": "Fortalecer el mercado y espacios de comercialización, incluyendo gestión sanitaria, logística, promoción y mantenimiento.",
+    "pag": 9
+   },
+   {
+    "t": "Diseñar una ruta de visitas a piladoras, comidas típicas y zonas rurales.",
+    "que": "El plan no dice cuánto costará ni cuándo estará lista la ruta.",
+    "v": "media",
+    "n": "El turismo depende de otros niveles. Falta costo y fecha.",
+    "cita": "Diseñar una ruta que conecte producción, piladoras, gastronomía y experiencias rurales.",
+    "pag": 10
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar en internet el avance, el presupuesto y el plazo de cada proyecto grande.",
+    "que": "El plan lo pone como tablero público con actualización trimestral. No dice costo.",
+    "v": "alta",
+    "n": "Es decisión del Municipio. Verificable con publicaciones.",
+    "cita": "Publicar avance físico, financiero, responsable, plazo, fuente de financiamiento y estado de cada proyecto estratégico.",
+    "pag": 11
+   }
+  ]
+ },
+ "metas": [
+  "Levantar la línea base de indicadores en los primeros seis meses.",
+  "Presentar un informe de los primeros 100 días.",
+  "100% de los proyectos estratégicos con seguimiento físico-financiero trimestral.",
+  "Publicar avances y alertas de proyectos cada trimestre.",
+  "Rendición de cuentas anual."
+ ],
+ "notas": [
+  "El plan no fija costos ni fechas por proyecto. Muchas obras dependen de estudios previos y de convenios con la Prefectura.",
+  "Parte del texto viene del plan 2023-2027 y del PDOT. Varios compromisos usan 'fortalecer' o 'impulsar' sin detallar qué harán."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17
+ ],
+ "paginas": 17
+}

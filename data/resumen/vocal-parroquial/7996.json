@@ -1,0 +1,104 @@
+{
+ "enfoque": "Plan general de la lista 7: caminos entre recintos, cuidado del agua y bosques, cursos para productores, turismo de naturaleza y más información del presupuesto. No dice costos.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Construir y mejorar la conexión de caminos entre recintos y barrios.",
+    "que": "El plan no dice qué caminos, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Los caminos los cuida la junta con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Construcción y mejora de la conectividad entre recintos y barrios.",
+    "pag": 1
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger vertientes, ríos y arroyos para que el agua no se agote ni se contamine.",
+    "que": "Busca que el agua no se agote ni se contamine. El plan no dice cómo lo hará ni cuánto costará.",
+    "v": "alta",
+    "n": "Cuidar el ambiente sí le toca a la junta. El plan no dice cómo ni cuánto costará.",
+    "cita": "Proteger las fuentes de agua y microcuencas hidrográficas como son vertientes, rios y arroyos para",
+    "pag": 2
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar capacitación y apoyo técnico a productores agrícolas y ganaderos.",
+    "que": "Lo darán instituciones del Estado. El plan no dice cuántos cursos, dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar cursos sí le toca a la junta. El plan no dice quién los paga.",
+    "cita": "Implementar programas de capacitación y apoyo técnico especializado para optimizar las prácticas",
+    "pag": 2
+   },
+   {
+    "t": "Crear una estrategia de turismo de naturaleza que cuide el entorno y capacite a la gente.",
+    "que": "Busca crear una identidad comunitaria atractiva. El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio o la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Impulso a iniciativas de turismo sostenible y de naturaleza, mediante la estructura de una estrategia",
+    "pag": 2
+   },
+   {
+    "t": "Apoyar emprendimientos comunitarios con asistencia técnica y capacitación.",
+    "que": "Se hará con gestión de proyectos junto a instituciones estatales. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con instituciones del Estado. El plan no dice cuánto costará.",
+    "cita": "Fomentar el desarrollo económico y productivo local mediante el impulso de emprendimientos",
+    "pag": 2
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir acceso a servicios básicos, salud y educación ante las entidades del Estado.",
+    "que": "Incluye educación bilingüe. El plan no dice qué hará la junta ni cuánto costará.",
+    "v": "baja",
+    "n": "Agua, salud y educación le tocan a otro nivel, no a la junta.",
+    "cita": "Garantizar el acceso progresivo y equitativo a servicios básicos y sociales de calidad",
+    "pag": 1
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Explicar el presupuesto parroquial con reportes públicos cada seis meses.",
+    "que": "Se mostrarán asignaciones, inversiones y gastos. El plan no dice en qué medio se publicará.",
+    "v": "alta",
+    "n": "Informar del presupuesto sí le toca a la junta.",
+    "cita": "Socializar el presupuesto parroquial de forma clara, detallando y en formatos accesibles.",
+    "pag": 3
+   },
+   {
+    "t": "Hacer asambleas periódicas para que la gente participe en la gestión parroquial.",
+    "que": "Incluirá canales para mujeres, hombres, jóvenes y grupos vulnerables. El plan no dice cuántas ni cuándo.",
+    "v": "alta",
+    "n": "Reunir a la comunidad sí le toca a la junta. El plan no dice cuándo serán.",
+    "cita": "Garantizar la participación democrática en la gestión parroquial a través de asambleas periódicas",
+    "pag": 3
+   },
+   {
+    "t": "Informar a la gente por tableros, boletines, redes sociales y reuniones virtuales.",
+    "que": "Para que la ciudadanía pueda participar en la planificación y el control. El plan no dice costos.",
+    "v": "alta",
+    "n": "Informar a la comunidad sí le toca a la junta.",
+    "cita": "Mantener canales permanentes de información, como tableros comunitarios, boletines, redes sociales y reuniones virtuales",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [
+  "Reportes públicos del presupuesto parroquial cada seis meses (semestrales)."
+ ],
+ "notas": [
+  "Es el plan de la lista 7 para toda la parroquia, no de una persona. Muchas propuestas son de otros niveles: agua, salud y educación.",
+  "El plan no dice cuánto costará ninguna propuesta ni en qué plazo, salvo los reportes cada seis meses."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "paginas": 6
+}

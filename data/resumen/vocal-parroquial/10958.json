@@ -1,0 +1,128 @@
+{
+ "enfoque": "Parece copiado del plan de la parroquia: caminos con la Prefectura, espacios públicos, actividades, ambiente y talleres con vecinos. No dice cuánto costará nada.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Reunirse cada tres meses con la Prefectura para acordar el arreglo de caminos.",
+    "que": "Reuniones cada tres meses con la Prefectura de Pichincha para decidir cronogramas y qué vías tendrán mantenimiento periódico. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura. El plan no dice cuándo empiezan los arreglos.",
+    "cita": "Reuniones trimestrales con la Prefectura de Pichincha para acordar los cronogramas de mantenimiento vial y las vías a las que se brindará el mantenimiento periódico.",
+    "pag": 8
+   },
+   {
+    "t": "Hacer talleres con vecinos y organizaciones para elegir cada año qué caminos arreglar.",
+    "que": "Los vecinos y organizaciones elegirán cada año las obras de caminos de la parroquia. El plan no dice cuánto dinero habrá para ellas.",
+    "v": "alta",
+    "n": "La junta organiza los talleres. El plan no dice quién paga las obras.",
+    "cita": "Talleres con la ciudadanía y las organizaciones sociales para la priorización anual de las obras viales de la parroquia",
+    "pag": 8
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Pedir al Municipio ayuda para cuidar quebradas y zonas naturales.",
+    "que": "Gestiones con el Municipio para proteger y manejar quebradas y áreas naturales. El plan no dice qué zonas ni cuánto costará.",
+    "v": "media",
+    "n": "Depende del Municipio. La junta solo hace las gestiones.",
+    "cita": "Realizar gestiones con el municipio para la protección y manejo de quebradas y áreas naturales.",
+    "pag": 9
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Organizar deportes y actividades culturales en los espacios públicos de la parroquia.",
+    "que": "Organizar actividades deportivas y culturales en espacios públicos para que los vecinos los usen. El plan no dice dónde ni cuándo.",
+    "v": "alta",
+    "n": "Es organizar actividades, lo puede hacer la junta. El plan no dice cuánto costará.",
+    "cita": "Promoción del uso del espacio público parroquial mediante la organización de actividades deportivas y culturales.",
+    "pag": 7
+   },
+   {
+    "t": "Construir y mantener obras que los vecinos elijan en el plan de la parroquia.",
+    "que": "Las obras saldrán del plan de desarrollo hecho con vecinos. El plan no dice qué obras ni cuánto costarán ni cuándo.",
+    "v": "media",
+    "n": "Obras grandes necesitan dinero de otro nivel. El plan no dice de dónde sale el dinero.",
+    "cita": "Construcción y mantenimiento de la infraestructura física priorizada por la ciudadanía en el plan de desarrollo y ordenamiento territorial construido participativamente.",
+    "pag": 7
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar talleres deportivos, artísticos y culturales en espacios comunitarios.",
+    "que": "Talleres en espacios comunitarios para la gente de la parroquia. El plan no dice cuántos talleres ni en qué lugares.",
+    "v": "alta",
+    "n": "Actividades que la junta puede organizar. El plan no dice cuánto costará.",
+    "cita": "Organizar talleres deportivos, artísticos y culturales en espacios comunitarios.",
+    "pag": 9
+   },
+   {
+    "t": "Hacer gimnasia suave, bailo terapia y caminatas para adultos mayores.",
+    "que": "Programas de actividad física para adultos mayores: gimnasia suave, bailo terapia y caminatas. El plan no dice cuántas veces ni dónde.",
+    "v": "alta",
+    "n": "Actividades simples que la junta puede organizar. El plan no dice cuándo empiezan.",
+    "cita": "Implementando programas de actividad física adaptada (gimnasia suave, bailo terapia y caminatas).",
+    "pag": 9
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer con vecinos y organizaciones el plan de desarrollo de la parroquia.",
+    "que": "Talleres para diseñar el plan de la parroquia con la participación de vecinos y organizaciones. El plan no dice cuándo estará listo.",
+    "v": "alta",
+    "n": "La junta organiza los talleres. El plan no dice cuánto costará.",
+    "cita": "Diseño del Plan de Desarrollo y Ordenamiento Territorial de la parroquia con la participación de la ciudadanía y las organizaciones sociales del territorio.",
+    "pag": 7
+   },
+   {
+    "t": "Hacer asambleas para elegir prioridades en los presupuestos del Municipio y la Prefectura.",
+    "que": "Asambleas en la parroquia para elegir prioridades de los presupuestos participativos municipales y provinciales. El plan no dice cuánto dinero llegará.",
+    "v": "media",
+    "n": "Las asambleas son de la junta, pero el dinero es del Municipio o la Prefectura.",
+    "cita": "Asambleas parroquiales para la priorización de los presupuestos participativos municipales y provinciales.",
+    "pag": 9
+   }
+  ],
+  "economia": [
+   {
+    "t": "Llevar a productores de la parroquia a ferias locales, nacionales e internacionales.",
+    "que": "Asesorar a productores para que participen en ferias. El plan no dice cuántas ferias ni cuánto costará el viaje.",
+    "v": "alta",
+    "n": "Asesoría que la junta puede dar. El plan no dice quién paga los viajes a ferias.",
+    "cita": "Asesoramiento a los productores de la parroquia para participar en ferias productivas a nivel local, nacional e internacional.",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "Reuniones cada tres meses con la Prefectura para acordar cronogramas de mantenimiento vial.",
+  "Reuniones cada seis meses con organizaciones sociales para seguir el plan de la parroquia.",
+  "Asamblea anual de rendición de cuentas.",
+  "Plan para cuatro años, periodo 2027-2031."
+ ],
+ "notas": [
+  "Parece copiado del plan de la parroquia y habla de cosas de otros niveles de gobierno, como el Municipio y la Prefectura.",
+  "No dice cuánto dinero tendrá la junta ni cuánto costará cada obra. Casi todo depende de acuerdos con otros niveles."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17
+ ],
+ "paginas": 17
+}

@@ -1,0 +1,130 @@
+{
+ "enfoque": "Propone agua, alcantarillado, basura, calles, transporte, mercados y parques para Salitre. Casi no dice costos ni plazos.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar la cobertura y la calidad del agua potable en el cantón.",
+    "que": "El plan no dice cuánto costará ni cuándo. Da prioridad a las comunidades con menor cobertura de agua.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Ampliar y mejorar progresivamente la cobertura y calidad de los servicios de agua potable,",
+    "pag": 14
+   },
+   {
+    "t": "Ampliar la red de alcantarillado y mejorar el tratamiento de aguas residuales.",
+    "que": "El plan no dice dónde ni cuánto costará. Habla sobre todo de las zonas rurales, donde muchas casas usan pozos sépticos.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice dónde ni cuándo se hará.",
+    "cita": "ampliar la cobertura de alcantarillado sanitario, mejorar los sistemas de tratamiento de aguas",
+    "pag": 3
+   },
+   {
+    "t": "Crear programas para separar la basura y reciclar en el cantón.",
+    "que": "El plan no dice cuánto costará ni cuándo. Incluye educación ambiental y mejoras en el relleno sanitario.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "la implementación de programas de educación ambiental, separación de residuos,",
+    "pag": 2
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Cuidar los ríos y las áreas verdes del cantón.",
+    "que": "El plan no dice cómo ni cuánto costará. Menciona preocupación por las areneras cerca de los ríos.",
+    "v": "media",
+    "n": "Depende de otras entidades ambientales. El plan no dice cómo.",
+    "cita": "Implementar acciones para la protección de los recursos naturales, la conservación de ríos",
+    "pag": 15
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Mejorar las calles urbanas y poner mejor señalización.",
+    "que": "El plan no dice qué calles, cuánto costará ni cuándo. También habla de recuperar espacios peatonales.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué calles ni cuándo.",
+    "cita": "Mejorar la infraestructura vial urbana de competencia municipal, optimizar la señalización,",
+    "pag": 7
+   },
+   {
+    "t": "Ordenar el uso del suelo y ayudar a regularizar terrenos sin escritura.",
+    "que": "El plan no dice cuántas familias ni cuándo. Señala que una parte de la población no tiene escrituras legalizadas.",
+    "v": "media",
+    "n": "Parte es del Municipio (uso del suelo). Las escrituras dependen de otras instituciones.",
+    "cita": "fortalecer los procesos de regularización de la tenencia de la tierra",
+    "pag": 9
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Coordinar con la Prefectura del Guayas los caminos rurales.",
+    "que": "El plan no dice cuánto costará ni cuándo. Los caminos rurales son competencia de la Prefectura.",
+    "v": "media",
+    "n": "Los caminos rurales son de la Prefectura. El Municipio solo puede coordinar.",
+    "cita": "Gobierno Autónomo Descentralizado Municipal de Salitre y la Prefectura del Guayas,",
+    "pag": 6
+   },
+   {
+    "t": "Ordenar los tricimotos y el transporte con reglas claras.",
+    "que": "El plan no dice qué reglas ni cuánto costará. Dice que los tricimotos necesitan regulación para un servicio ordenado.",
+    "v": "alta",
+    "n": "Le toca al Municipio (tránsito y buses). El plan no dice qué reglas.",
+    "cita": "requiere una adecuada regulación y planificación para garantizar un servicio ordenado y seguro.",
+    "pag": 11
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias productivas y dar espacios para vender en mercados municipales.",
+    "que": "El plan no dice dónde ni cuánto costará. Busca impulsar la producción y el comercio local.",
+    "v": "alta",
+    "n": "Le toca al Municipio (mercados). El plan no dice dónde ni cuándo.",
+    "cita": "productivas, mercados municipales, espacios de comercialización y eventos que impulsen",
+    "pag": 16
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer áreas recreativas inclusivas para personas con discapacidad.",
+    "que": "El plan no dice dónde ni cuánto costará. Incluye también programas de atención y capacitación.",
+    "v": "alta",
+    "n": "Le toca al Municipio (parques). El plan no dice dónde ni cuándo.",
+    "cita": "mediante la implementación de áreas recreativas inclusivas, programas de atención, capacitación, educación",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Actividades planeadas para los años 1 a 4 de gestión (la tabla del plan marca X en esos años).",
+  "Mesas de trabajo con sectores productivos cada seis meses.",
+  "Informe de un año de gestión en los primeros 60 días del año siguiente.",
+  "Para el año 2030: servicios básicos de calidad, suficientes y accesibles para toda la población."
+ ],
+ "notas": [
+  "Parte del diagnóstico (geografía) habla del cantón Balao: el texto parece copiado de otro cantón.",
+  "Casi ninguna propuesta dice cuánto costará ni de dónde saldrá el dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19
+ ],
+ "paginas": 19
+}

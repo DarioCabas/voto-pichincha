@@ -1,0 +1,123 @@
+{
+ "enfoque": "Plan de Conocoto con mingas, parques, campañas y rutas seguras. Varias obras son del Municipio y el plan no dice cuánto costará nada.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Hacer mingas periódicas para cuidar parques, áreas verdes, senderos y casas comunales.",
+    "que": "Las mingas son trabajos hechos con vecinos. El plan no dice cuánto costará ni cuándo se harán.",
+    "v": "alta",
+    "n": "Le toca a la junta: son trabajos con la comunidad.",
+    "cita": "Promoveremos mingas periódicas para el mantenimiento de parques, áreas verdes, senderos, casas comunales",
+    "pag": 5
+   },
+   {
+    "t": "Hacer un plan anual de mantenimiento de parques, senderos y casas comunales.",
+    "que": "Incluye parques, áreas verdes y espacios recreativos. El plan no dice cuánto costará ni en qué meses se hará.",
+    "v": "alta",
+    "n": "Le toca a la junta cuidar parques y espacios públicos parroquiales.",
+    "cita": "Desarrollaremos un Plan Anual de Mantenimiento Comunitario para parques, áreas verdes, senderos, casas comunales y espacios recreativos.",
+    "pag": 5
+   },
+   {
+    "t": "Pedir al Municipio de Quito arreglar luces, señales y mantenimiento urbano.",
+    "que": "El plan no dice cuánto costará ni cuándo. La junta solo gestiona el pedido ante el Municipio.",
+    "v": "media",
+    "n": "Le toca al Municipio; la junta solo lo pide.",
+    "cita": "Gestionaremos ante el Municipio del Distrito Metropolitano de Quito la atención de requerimientos relacionados con iluminación",
+    "pag": 5
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Pedir al Municipio evaluar la Zona Azul, el sistema de parqueo con tarifa.",
+    "que": "Incluye diálogo con comerciantes, transportistas y barrios. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio. La junta solo gestiona y dialoga.",
+    "cita": "Gestionaremos la evaluación y fortalecimiento del Sistema de Estacionamiento Rotativo Tarifado (Zona Azul),",
+    "pag": 6
+   },
+   {
+    "t": "Pedir al Municipio arreglar aceras, cruces de peatones, señales y paradas de bus.",
+    "que": "El plan no dice cuánto costará ni cuándo se hará. La junta lo gestiona ante el Municipio.",
+    "v": "media",
+    "n": "Le toca al Municipio; la junta solo gestiona el pedido.",
+    "cita": "aceras, cruces peatonales, señalización, paradas de transporte público",
+    "pag": 7
+   },
+   {
+    "t": "Identificar con vecinos y escuelas las rutas seguras para estudiantes y adultos mayores.",
+    "que": "Incluye también a personas con discapacidad. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca a la junta identificar rutas junto con la comunidad.",
+    "cita": "Identificaremos, junto con las comunidades e instituciones educativas, rutas seguras para estudiantes",
+    "pag": 7
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Coordinar con la Policía Nacional y Bomberos acciones de prevención.",
+    "que": "El plan no dice cuánto costará ni cuándo. Solo habla de coordinar, no de tener policías propios.",
+    "v": "baja",
+    "n": "Le toca a la Policía y Bomberos, no a la junta.",
+    "cita": "Coordinaremos acciones con la Policia Nacional, el Cuerpo de Bomberos y las instituciones competentes",
+    "pag": 5
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer campañas para cuidar el agua, los recursos naturales y evitar incendios forestales.",
+    "que": "Son campañas de sensibilización. El plan no dice cuánto costará ni cuándo se harán.",
+    "v": "alta",
+    "n": "Le toca a la junta. No es agua potable: son campañas de cuidado.",
+    "cita": "Impulsaremos campañas de sensibilización sobre el uso responsable del agua, el cuidado de los recursos",
+    "pag": 7
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear un directorio digital con los negocios y emprendimientos de Conocoto.",
+    "que": "Incluye comercios, servicios, comida y artesanos. El plan no dice cuánto costará ni cuándo estará listo.",
+    "v": "alta",
+    "n": "Le toca a la junta; es una lista digital que puede hacer.",
+    "cita": "Crearemos el Directorio Digital de Negocios y Emprendimientos de Conocoto",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Invitar a jóvenes, mujeres, adultos mayores y personas con discapacidad a actividades parroquiales.",
+    "que": "El plan no dice cuánto costará ni cuándo. Busca que estos grupos participen en las actividades.",
+    "v": "alta",
+    "n": "Le toca a la junta organizar a la comunidad.",
+    "cita": "Fomentaremos la participación activa de jóvenes, mujeres, personas adultas mayores, personas con discapacidad",
+    "pag": 5
+   }
+  ]
+ },
+ "metas": [
+  "Período de gestión 2027-2031, con ejecución progresiva.",
+  "Año 2027: planificación y gestión inicial, según la programación del plan."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta. Varias dependen del Municipio de Quito.",
+  "El texto parece copiado de un plan general de la parroquia e incluye notas internas de ajuste antes de inscripción.",
+  "Plan muy largo (17 págs.): se resumieron las 13 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15
+ ],
+ "paginas": 17
+}

@@ -1,0 +1,144 @@
+{
+ "enfoque": "Es el plan de desarrollo del cantón, no solo del alcalde: agua, vías, parques y prevención de riesgos, con montos anuales. Incluye temas que no son del Municipio.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar el agua potable, el alcantarillado y el saneamiento, sobre todo en zonas rurales",
+    "que": "Da 700.000 unidades monetarias al año durante cuatro años. El plan no dice cuántas casas se conectarán.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice de dónde sale el dinero exacto.",
+    "cita": "orientado a ampliar y mejorar los sistemas de agua potable, alcantarillado y saneamiento, con especial atención a las comunidades que presentan menores niveles de cobertura",
+    "pag": 33
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar puntos críticos de vías con drenajes y contención de derrumbes",
+    "que": "Meta: 80 % de los puntos prioritarios. Cuesta 200.000 unidades monetarias al año. El plan no dice qué vías.",
+    "v": "media",
+    "n": "Caminos rurales pueden ser de la Prefectura; depende de convenios. El plan no dice de dónde sale el dinero.",
+    "cita": "El programa de infraestructura vial resiliente buscará intervenir al menos el 80 % de los puntos críticos identificados como prioritarios",
+    "pag": 34
+   },
+   {
+    "t": "Asfaltar y mejorar las vías que unen el centro del cantón con parroquias y comunidades",
+    "que": "Cuesta 200.000 unidades monetarias al año. El plan no dice cuántos kilómetros se harán ni qué vías.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuántos kilómetros se harán.",
+    "cita": "destinado al asfaltado y mejoramiento de las vías estratégicas que conectan la cabecera cantonal con las parroquias, comunidades y zonas productivas",
+    "pag": 34
+   },
+   {
+    "t": "Construir y arreglar aceras y senderos en los principales centros poblados",
+    "que": "Cuesta 150.000 unidades monetarias al año. El plan no dice qué calles ni cuántos kilómetros se harán.",
+    "v": "alta",
+    "n": "Aceras y calles son del Municipio. El plan no dice cuáles se harán.",
+    "cita": "construcción y recuperación de aceras, senderos, espacios peatonales y facilidades para modalidades de movilidad alternativa",
+    "pag": 34
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar parques, plazas y áreas recreativas para que sean accesibles y seguros",
+    "que": "Cuesta 120.000 unidades monetarias al año. El plan no dice qué parques se arreglarán ni cuántos.",
+    "v": "alta",
+    "n": "Parques y plazas son del Municipio. El plan no dice cuáles.",
+    "cita": "destinado a la regeneración y adecuación de parques, plazas, áreas recreativas y espacios comunitarios",
+    "pag": 34
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Hacer acciones de prevención y convivencia en zonas rurales",
+    "que": "Cuesta 60.000 unidades monetarias al año. El plan no dice qué acciones ni en qué sectores.",
+    "v": "baja",
+    "n": "La policía no es del Municipio. El plan no dice qué acciones hará.",
+    "cita": "Se plantea implementar acciones de prevención y convivencia en el 100 % de los sectores rurales priorizados",
+    "pag": 35
+   }
+  ],
+  "social": [
+   {
+    "t": "Gestionar mejoras del centro de salud y de las escuelas del cantón",
+    "que": "Cuesta 90.000 unidades monetarias al año. El plan solo habla de gestionar, no de hacer las obras.",
+    "v": "baja",
+    "n": "Salud y escuelas no son del Municipio. El plan solo dice gestionar.",
+    "cita": "incluyendo el fortalecimiento del centro de salud cantonal y de los equipamientos educativos",
+    "pag": 35
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar asistencia técnica a por lo menos 300 productores agropecuarios",
+    "que": "Cuesta 100.000 unidades monetarias al año. El plan no dice en qué comunidades se hará.",
+    "v": "media",
+    "n": "Depende de otras instituciones. El plan no dice de dónde sale el dinero.",
+    "cita": "Se plantea brindar atención técnica al menos a 300 productores durante el horizonte de planificación",
+    "pag": 35
+   },
+   {
+    "t": "Construir o arreglar al menos cinco centros de acopio o almacenamiento de productos",
+    "que": "Cuesta 60.000 unidades monetarias al año. El plan no dice dónde se harán ni quién los administrará.",
+    "v": "media",
+    "n": "Puede hacerlo el Municipio con otros. El plan no dice dónde ni quién paga.",
+    "cita": "Se plantea implementar o fortalecer al menos cinco infraestructuras de transformación, acopio o almacenamiento",
+    "pag": 35
+   }
+  ],
+  "otros": [
+   {
+    "t": "Implementar sistemas comunitarios de prevención de incendios y deslizamientos en zonas de riesgo",
+    "que": "Meta: 100 % de zonas prioritarias con prevención. Cuesta 200.000 unidades monetarias al año. El plan no dice qué zonas.",
+    "v": "alta",
+    "n": "Prevenir desastres es competencia municipal. El plan no dice qué zonas ni comunidades.",
+    "cita": "Se buscará alcanzar mecanismos comunitarios implementados en el 100 % de las zonas prioritarias identificadas",
+    "pag": 33
+   }
+  ]
+ },
+ "metas": [
+  "Intervenir al menos el 80 % de los puntos críticos viales prioritarios.",
+  "Mejorar o mantener al menos el 70 % de los caminos rurales priorizados.",
+  "Mecanismos comunitarios de prevención en el 100 % de las zonas prioritarias.",
+  "Implementar o fortalecer al menos cinco centros de acopio o almacenamiento.",
+  "Dar asistencia técnica a al menos 300 productores durante el plan."
+ ],
+ "notas": [
+  "Gran parte del texto es diagnóstico del cantón y del plan de desarrollo. Salud, escuelas y policía no son del Municipio.",
+  "Da montos anuales, pero no dice de dónde sale cada obra. Menciona el periodo 2023-2027: revise si es un plan anterior.",
+  "Plan muy largo (47 págs.): se resumieron las 29 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  2,
+  12,
+  13,
+  19,
+  20,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46
+ ],
+ "paginas": 47
+}

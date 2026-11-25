@@ -1,0 +1,152 @@
+{
+ "enfoque": "Casi todo está copiado del plan de desarrollo de la parroquia: caminos, parques, ferias y acuerdos con otras instituciones. Agua y salud no le tocan a la junta.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Reforestar zonas sin plantas y recuperar bosques con especies nativas.",
+    "que": "El plan no dice en qué zonas ni cuánto costará. Se haría con acuerdos con otras instituciones y actores locales, durante los cuatro años.",
+    "v": "media",
+    "n": "Necesita acuerdos con el Municipio y otras entidades. El plan no dice cuánto costará.",
+    "cita": "Reforestación de áreas sin cobertura vegetal, áreas erosionadas y espacios degradados, recuperación de bosques con especies nativas",
+    "pag": 22
+   },
+   {
+    "t": "Vigilar que funcionen bien las plantas que tratan el agua sucia.",
+    "que": "El plan dice que la junta vigilará las plantas y apoyará estudios de agua potable y alcantarillado. No dice cuánto costará.",
+    "v": "baja",
+    "n": "El agua potable y el alcantarillado le tocan a otra entidad, no a la junta.",
+    "cita": "Vigilar el funcionamiento de las plantas de tratamiento de aguas residuales y apoyo de gestión para estudios de agua potable y alcantarillado.",
+    "pag": 22
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir, arreglar y mantener parques, áreas verdes y espacios públicos.",
+    "que": "Se haría con el Municipio y actores locales, en los cuatro años. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Parques y espacios públicos sí le tocan a la junta. El plan no dice cuánto costará.",
+    "cita": "Construcción, recuperación y mantenimiento de áreas verdes, parques y espacios públicos.",
+    "pag": 22
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Abrir y mejorar vías para que la gente se mueva mejor en la parroquia.",
+    "que": "Se haría junto con la Prefectura y el Municipio. El plan no dice qué vías ni cuánto costará.",
+    "v": "media",
+    "n": "Los caminos se cuidan junto con la Prefectura, así que necesita acuerdo.",
+    "cita": "Gestión, apertura y mejoramiento de vías que facilite movilidad en la parroquia.",
+    "pag": 29
+   },
+   {
+    "t": "Gestionar máquinas y vehículos para mantener y abrir caminos.",
+    "que": "El plan dice que se gestionará con otros niveles de gobierno. No dice cuántas máquinas ni cuánto costarán.",
+    "v": "media",
+    "n": "Depende de acuerdos con otros niveles de gobierno. El plan no dice cuánto costará.",
+    "cita": "Gestión para incrementar equipo caminero y de movilización para el mantenimiento y apertura de vías de la parroquia",
+    "pag": 29
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias y asesorías técnicas para emprendimientos locales.",
+    "que": "Se haría con el Municipio, la Prefectura, universidades y escuelas. El plan no dice cuántas ferias ni cuánto costará.",
+    "v": "alta",
+    "n": "Apoyar a productores y hacer ferias sí le toca a la junta.",
+    "cita": "ferias, asesoramientos técnicos y todo aquellos que permita el desarrollo económico de la parroquia Juan Montalvo",
+    "pag": 15
+   },
+   {
+    "t": "Acompañar a productores para juntar y vender sus productos.",
+    "que": "El plan no dice dónde se hará el acopio ni cuánto costará. Menciona leche, cultivos tradicionales y flores.",
+    "v": "media",
+    "n": "El acopio puede necesitar espacio y dinero. El plan no dice cuánto.",
+    "cita": "productos generados por los emprendedores locales (leche, cultivos tradicionales, flores entre otros)",
+    "pag": 26
+   },
+   {
+    "t": "Apoyar la gestión para llevar riego a zonas con buena tierra para cultivar.",
+    "que": "El plan no dice qué zonas ni cuánto costará. Lo harían el Provincial, el Municipio y el Ministerio de Agricultura (MAGAP).",
+    "v": "media",
+    "n": "El riego lo decide otro nivel de gobierno. La junta solo gestiona.",
+    "cita": "Apoyo a la gestión para ampliación de la cobertura del riego en zonas con aptitud productiva.",
+    "pag": 23
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Formar brigadas de vecinos y poner cámaras y alarmas comunitarias.",
+    "que": "Lo harían con la Policía, el servicio de emergencias ECU 911 y bomberos. El plan no dice cuánto costarán las cámaras.",
+    "v": "media",
+    "n": "La Policía no le toca a la junta; organizar vecinos sí. Falta el costo.",
+    "cita": "Fomentar la seguridad mediante la organización barrial y comunitaria a través de la conformación de brigadas comunitarias e implementación equipos videovigilancia y sistema de alarmas comunitarias.",
+    "pag": 25
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Dar cada año una rendición de cuentas pública.",
+    "que": "Se informaría sobre el plan, metas, proyectos, presupuesto y resultados. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Es tarea propia de la junta y no exige obra grande.",
+    "cita": "Ejecutar el proceso público de rendición de cuentas, informando sobre el cumplimiento del Plan de Gobierno, metas, proyectos, presupuesto y resultados de gestión",
+    "pag": 31
+   },
+   {
+    "t": "Hacer asambleas en barrios y comunidades para escuchar necesidades.",
+    "que": "Se harían según lo que pida el territorio. El plan no dice cuántas asambleas ni cuándo.",
+    "v": "alta",
+    "n": "Organizar a la comunidad le toca a la junta.",
+    "cita": "Desarrollo de asambleas comunitarias y barriales, mesas de trabajo y audiencias públicas.",
+    "pag": 31
+   }
+  ]
+ },
+ "metas": [
+  "Al 2031, servicios básicos cubiertos en un 80% de la demanda total (dato del plan; la competencia es de otra entidad).",
+  "Revisar el cumplimiento del plan cada seis meses.",
+  "Informe público de gestión cada año.",
+  "Informe final de gestión al cierre del período 2027–2031."
+ ],
+ "notas": [
+  "Gran parte del texto copia el plan de desarrollo de la parroquia y de la ley. Casi no dice cuánto cuesta cada obra.",
+  "Muchas propuestas dependen de acuerdos con el Municipio, la Prefectura y otras instituciones."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33
+ ],
+ "paginas": 33
+}

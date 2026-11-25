@@ -1,0 +1,173 @@
+{
+ "enfoque": "Asfaltar calles urbanas y caminos rurales, hacer una terminal de buses, poner paradas, mejorar agua y poner cámaras. Gran parte del plan sale del plan de desarrollo del cantón.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Asfaltar calles del casco urbano, El Carmen, La Playita y barrios perimetrales.",
+    "que": "Según el plan: 10.2 km urbanos, 3.4 km en La Playita y 10 km de barrios perimetrales. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Usa fondos propios y del BDE; el plan no dice el costo.",
+    "cita": "Intervención de asfaltado integral con aceras, bordillos, señalización e iluminación.",
+    "pag": 49
+   },
+   {
+    "t": "Construir un malecón en el puente de El Carmen, con senderos y zonas deportivas.",
+    "que": "Sería para proteger de las crecidas del río San Pablo y para familias y turistas. Fondos del Ministerio de Turismo, BDE y gestión de riesgos. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de Turismo, BDE y otras entidades.",
+    "cita": "Construcción del Malecón Turístico, Recreativo y de Mitigación de Riesgos en el Sector Puente El Carmen.",
+    "pag": 45
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Construir la nueva terminal terrestre cantonal de La Maná.",
+    "que": "Tendría andenes, salas de espera y parqueaderos. Se pagaría con alianza público-privada, crédito del BDE y alquiler de locales. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de empresas privadas y de un crédito.",
+    "cita": "Construcción de la Infraestructura para la Terminal Terrestre Cantonal de La Maná.",
+    "pag": 20
+   },
+   {
+    "t": "Instalar paradas de bus nuevas, con luz LED, asientos y basureros.",
+    "que": "Serían para la ciudad y las parroquias, para proteger a niños, adultos mayores y mujeres. El plan no dice cuántas paradas ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: paradas de bus y tránsito. El plan no dice el costo.",
+    "cita": "Implementación de Infraestructura Movil de Paradas de Transporte Urbano e Interparroquial.",
+    "pag": 20
+   },
+   {
+    "t": "Arreglar caminos agrícolas clave con máquinas municipales, según un cronograma público.",
+    "que": "El cronograma sería público y el mantenimiento sería continuo, en invierno y en verano. El plan no dice cuántos kilómetros ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: calles y caminos. El plan no dice el costo.",
+    "cita": "Mantenimiento invernal/veraniego continuo mediante cronograma público de maquinaria municipal en caminos agrícolas clave.",
+    "pag": 51
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Reducir en un 30% el agua que se pierde y ampliar redes de agua y alcantarillado.",
+    "que": "Las redes se ampliarían en el 100% de los sectores a asfaltar. Se pagaría con el Fondo de Agua, créditos del BDE y cooperación. El plan no dice cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de un fondo, un crédito y cooperación.",
+    "cita": "Reducción de pérdidas de agua en un 30%, expansión de redes sanitarias/pluviales en el 100% de los sectores a asfaltar.",
+    "pag": 50
+   }
+  ],
+  "otros": [
+   {
+    "t": "Limpiar ríos y levantar muros de escollera antes del invierno, con sistemas de alerta.",
+    "que": "Obras en puntos críticos antes de la temporada de lluvias, y limpieza de sumideros y alcantarillas. Pide ayuda de la Prefectura y de Gestión de Riesgos. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (prevención de desastres). Pide ayuda de la Prefectura.",
+    "cita": "Intervención preventiva en puntos críticos pre-invierno mediante desazolve, muros de escollera, sistemas de alerta temprana",
+    "pag": 50
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear espacios fijos y mercados de venta directa del productor al consumidor.",
+    "que": "Busca vender directo del productor al consumidor, sin intermediarios. Se pagaría con presupuesto del GAD y empresa privada. El plan no dice cuánto costará ni dónde.",
+    "v": "alta",
+    "n": "Le toca al Municipio (mercados). El plan no dice dónde ni cuánto costará.",
+    "cita": "Espacios fijos y mercados itinerantes para la venta directa del productor al consumidor, eliminando intermediarios.",
+    "pag": 52
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Poner cámaras y botones de auxilio en entradas, escuelas, mercados y parques.",
+    "que": "Se haría en alianza con ECU 911 y Policía Nacional. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "La policía no le toca al alcalde. Depende de ECU 911 y Policía Nacional.",
+    "cita": "Despliegue de cámaras en puntos críticos (entradas/salidas del cantón, escuelas, mercados, parques, malecón) e instalación de botones de auxilio y alarmas comunitarias.",
+    "pag": 52
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar en internet y en cada obra: monto, contratista, plazo y avance.",
+    "que": "Tendría portal web en vivo y fichas físicas en cada obra, con monto, contratista, plazo, avance y fiscalizador. El plan no dice cuándo empieza.",
+    "v": "alta",
+    "n": "Le toca al Municipio; depende de la propia administración.",
+    "cita": "Portal web en vivo y fichas físicas en cada obra que muestren: Monto, Contratista, Plazo, Porcentaje de Avance y Nombre del Fiscalizador.",
+    "pag": 23
+   }
+  ]
+ },
+ "metas": [
+  "Reducir en 30% las pérdidas de agua.",
+  "Pasar el 80% de los trámites municipales a plataforma digital.",
+  "Dar permisos de construcción en 48 a 72 horas.",
+  "Un plan vial anual garantizado por parroquia.",
+  "Construir una terminal terrestre nueva."
+ ],
+ "notas": [
+  "Gran parte del plan sale del plan de desarrollo del cantón. Su cierre menciona Latacunga, otro cantón: señal de texto copiado.",
+  "Casi no dice cuánto costará cada obra ni cuándo. Varias dependen de préstamos del BDE (banco estatal) y de otras entidades."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59
+ ],
+ "paginas": 59
+}

@@ -1,0 +1,128 @@
+{
+ "enfoque": "Plan general: agua, basura, parques, caminos, uso del suelo y riesgos de deslizamientos. No dice cuánto costará ni cuándo se hará.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Separar la basura desde la casa y hacer compost y reciclaje.",
+    "que": "Programa permanente para separar residuos en hogares, comercios e instituciones educativas, con compostaje y reciclaje. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que maneja la basura. El plan no dice cuánto costará.",
+    "cita": "La administración municipal impulsará un programa permanente de separación de residuos en la fuente,",
+    "pag": 6
+   },
+   {
+    "t": "Reforestar con plantas nativas y proteger zonas donde se recarga el agua.",
+    "que": "Restaurar ecosistemas dañados y comprar áreas clave cuando sea técnica y legalmente posible. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de dueños de tierras y de otras entidades. El plan no dice costos.",
+    "cita": "reforestación con especies nativas, restauración de ecosistemas degradados, delimitación y protección de zonas de recarga hídrica",
+    "pag": 13
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Impulsar proyectos de caminos y conexiones entre parroquias y comunidades.",
+    "que": "Entre ellos la conexión Belén–La Voladora hacia la región oriental. Mantenimiento de vías junto con la Prefectura. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Caminos locales son del Municipio; el plan lo hace junto con la Prefectura.",
+    "cita": "impulsar proyectos de conectividad que permitan mejorar la integración territorial del cantón y su articulación",
+    "pag": 2
+   }
+  ],
+  "otros": [
+   {
+    "t": "Revisar zonas de peligro y poner alertas tempranas en comunidades.",
+    "que": "Actualizar estudios de amenazas y, donde sea técnicamente viable, instalar sistemas comunitarios de alerta temprana. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: prevenir desastres. El plan no dice cuánto costará.",
+    "cita": "Se actualizarán los estudios de amenazas, se implementarán sistemas comunitarios de alerta temprana",
+    "pag": 13
+   },
+   {
+    "t": "Recuperar y reubicar a familias de Rosas, Tamboloma y El Rosario.",
+    "que": "Plan con seguridad, servicios básicos, vivienda digna y espacio para producir, con apoyo de otras instituciones. El plan no dice costos ni plazos.",
+    "v": "media",
+    "n": "La vivienda también depende del Gobierno Nacional. El plan no dice cuánto costará.",
+    "cita": "se impulsará el Plan Integral de Recuperación Territorial y Reasentamiento para las Familias Afectadas por el Macrodeslizamiento",
+    "pag": 8
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Invertir en agua potable y proteger las fuentes de agua.",
+    "que": "El plan habla de obras de agua, organización comunitaria y protección de fuentes. No dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "La administración municipal impulsará una política integral de gestión del recurso hídrico que combine inversión en",
+    "pag": 6
+   }
+  ],
+  "social": [
+   {
+    "t": "Ampliar espacios de día y recreación para adultos mayores y otros grupos.",
+    "que": "Dirigido a personas adultas mayores, con discapacidad, mujeres, niñas, niños y adolescentes, junto con el Gobierno Nacional. El plan no dice cuántos ni dónde.",
+    "v": "media",
+    "n": "Depende en parte del Gobierno Nacional. El plan no dice costos.",
+    "cita": "Se ampliarán los espacios de atención diurna, programas de recreación, actividades culturales",
+    "pag": 14
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Dar mantenimiento permanente a parques, plazas y áreas verdes.",
+    "que": "Arborización, jardinería, luz y accesos para todos en parques y plazas. El plan no dice en qué sitios ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Se ejecutarán programas permanentes de mantenimiento preventivo, arborización, jardineria, iluminación,",
+    "pag": 11
+   },
+   {
+    "t": "Actualizar las reglas que dicen dónde se puede construir.",
+    "que": "Revisar los planes de uso del suelo con participación ciudadana. Legalizar barrios ya formados cuando la ley lo permita. El plan no dice cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que decide el uso del suelo. El plan no dice plazos.",
+    "cita": "La administración municipal impulsará la actualización de los instrumentos de planificación territorial conforme a la normativa vigente",
+    "pag": 6
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear un centro de asesoría para nuevos emprendimientos.",
+    "que": "Dará asesoría técnica, capacitación y acompañamiento a nuevos negocios. El plan no dice dónde funcionará ni cuánto costará.",
+    "v": "media",
+    "n": "Puede hacerlo, pero no crea empleo directo. El plan no dice costos.",
+    "cita": "La administración municipal implementará un Centro Municipal de Emprendimiento e Innovación que",
+    "pag": 6
+   }
+  ]
+ },
+ "metas": [
+  "El plan cubre de 2027 a 2031, sin metas con cifras."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta, de dónde saldrá el dinero ni en qué plazo se hará.",
+  "Plan general: casi no nombra obras concretas. No habla de buses ni de mercados."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "paginas": 18
+}

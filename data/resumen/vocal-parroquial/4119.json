@@ -1,0 +1,135 @@
+{
+ "enfoque": "Plan general para la parroquia: caminos, parques, ambiente, productores y organizar a la comunidad. No dice costos ni fechas.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a caminos parroquiales y arreglar drenajes y puntos críticos.",
+    "que": "Trabajar en caminos que unen barrios, comunidades y zonas productivas. El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "media",
+    "n": "Los caminos se hacen junto con la Prefectura, no solo con la junta.",
+    "cita": "Se priorizarán acciones de mantenimiento, mejoramiento, drenaje, recuperación y atención de puntos críticos",
+    "pag": 25
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar, mantener y mejorar parques, plazas, canchas y casas comunales.",
+    "que": "Las obras se definirán con los barrios y comunidades. El plan no dice cuánto costará ni en qué lugares se harán.",
+    "v": "alta",
+    "n": "Parques y espacios públicos sí son competencia de la junta.",
+    "cita": "recuperar, mantener y mejorar la infraestructura de uso comunitario y los espacios públicos de la parroquia",
+    "pag": 25
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Reforestar con especies nativas y restaurar áreas afectadas.",
+    "que": "Se prioriza la recuperación de sectores con incendios, erosión o pérdida de cobertura vegetal. El plan no dice cuántos árboles ni cuánto costará.",
+    "v": "alta",
+    "n": "Cuidar el ambiente sí es competencia de la junta.",
+    "cita": "mediante procesos de reforestación con especies nativas, restauración de áreas afectadas",
+    "pag": 24
+   },
+   {
+    "t": "Hacer campañas de educación ambiental y jornadas comunitarias de limpieza.",
+    "que": "Las campañas serán permanentes y las jornadas de limpieza serán con la comunidad. El plan no dice cuántas ni cuánto costarán.",
+    "v": "alta",
+    "n": "Campañas y jornadas de limpieza son tareas que la junta sí puede hacer.",
+    "cita": "Se desarrollarán campañas permanentes de educación y sensibilización ambiental, jornadas comunitarias de limpieza",
+    "pag": 24
+   },
+   {
+    "t": "Identificar con los barrios las zonas de riesgo y elaborar protocolos de actuación.",
+    "que": "El plan menciona incendios, movimientos de tierra, sequías e inundaciones. El plan no dice plazos ni costos.",
+    "v": "media",
+    "n": "Hace falta coordinar con las instituciones responsables de los riesgos.",
+    "cita": "Se promoverá la identificación comunitaria de zonas de riesgo, la elaboración y actualización de protocolos de actuación",
+    "pag": 24
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar capacitación y asistencia técnica a productores y apoyar sus asociaciones.",
+    "que": "Incluye acceso a mercados para vender lo que producen. El plan no dice cuántas capacitaciones ni cuánto costarán.",
+    "v": "media",
+    "n": "La asistencia técnica y los mercados necesitan acuerdo con el Municipio o la Prefectura.",
+    "cita": "Se promoverá la capacitación, asistencia técnica, asociatividad, innovación, acceso a mercados",
+    "pag": 24
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Apoyar los procesos comunitarios del agua y el mantenimiento de sus sistemas.",
+    "que": "El plan lo coordinaría con el Municipio. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "El agua le toca al Municipio, no a la junta.",
+    "cita": "Se promoverá el apoyo a procesos comunitarios de gestión del agua, mantenimiento y fortalecimiento de sistemas existentes",
+    "pag": 25
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Organizar reuniones permanentes con barrios y comunidades para decidir prioridades.",
+    "que": "Serán espacios de diálogo y planificación con la gente. El plan no dice cada cuánto ni en qué lugares.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta.",
+    "cita": "Se generarán espacios permanentes de diálogo, planificación participativa y construcción de acuerdos",
+    "pag": 26
+   },
+   {
+    "t": "Dar cuentas en público de lo que hace la junta y de cómo usa el dinero.",
+    "que": "Informará sobre metas, proyectos y uso de los recursos, con espacios para preguntas. El plan dice periódicamente, pero no dice cada cuánto.",
+    "v": "alta",
+    "n": "Rendir cuentas depende de la propia junta.",
+    "cita": "el GAD Parroquial presentará periódicamente información sobre el cumplimiento de los objetivos y metas del Plan de Gobierno",
+    "pag": 5
+   }
+  ],
+  "otros": [
+   {
+    "t": "Hacer actividades culturales y recuperar la memoria histórica de la parroquia.",
+    "que": "Se harán con niños, jóvenes y organizaciones comunitarias. El plan no dice qué actividades se harán ni cuánto costarán.",
+    "v": "alta",
+    "n": "Actividades culturales y organizar a la comunidad sí son tareas de la junta.",
+    "cita": "Se promoverán actividades culturales, procesos de recuperación de la memoria histórica",
+    "pag": 25
+   }
+  ]
+ },
+ "metas": [
+  "Todos los programas del plan se harían en los cuatro años, de 2027 a 2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero. Depende de los recursos disponibles.",
+  "Muchas propuestas son de agua, saneamiento y vivienda, que no le tocan a la junta. Buena parte del texto es diagnóstico.",
+  "Plan muy largo (31 págs.): se resumieron las 24 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  16,
+  17,
+  18,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29
+ ],
+ "paginas": 31
+}

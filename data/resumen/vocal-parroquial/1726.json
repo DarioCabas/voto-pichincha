@@ -1,0 +1,132 @@
+{
+ "enfoque": "Cuidar quebradas y drenajes, arreglar caminos, apoyar productores y hacer actividades culturales. Gran parte del texto repite el diagnóstico del plan de desarrollo de la parroquia.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Intervenir 5 quebradas prioritarias de la parroquia entre 2027 y 2031.",
+    "que": "El plan no dice cuánto costará ni cuáles son las cinco quebradas. Se haría de forma continua en los años 1 a 4.",
+    "v": "media",
+    "n": "Las quebradas cruzan calles y barrios; puede necesitar acuerdo con el Municipio. El plan no lo aclara.",
+    "cita": "Intervenir progresivamente 5 quebradas prioritarias durante el periodo 2027-2031.",
+    "pag": 13
+   },
+   {
+    "t": "Hacer 20 jornadas de limpieza y mantenimiento de quebradas, pasos de agua y zonas críticas.",
+    "que": "Son jornadas de limpieza preventiva, en los años 1 a 4. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Son mingas y limpieza, trabajo que la junta puede organizar con los vecinos.",
+    "cita": "Ejecutar al menos 20 jornadas de limpieza y mantenimiento preventivo de quebradas, pasos de agua y zonas críticas.",
+    "pag": 13
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar caminos vecinales con bacheo, empedrado y cuneteo, junto con la Prefectura y el Municipio.",
+    "que": "Meta: tocar al menos el 30% de los tramos rurales en los primeros 48 meses. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca a la Prefectura y al Municipio; la junta solo coordina. El plan no dice costos.",
+    "cita": "Plan integral de mantenimiento y mejoramiento de la vialidad rural de Aloasí, que contemple bacheo, empedrado, cuneteo y mantenimiento de caminos vecinales,",
+    "pag": 13
+   }
+  ],
+  "economia": [
+   {
+    "t": "Registrar al menos 150 productores y emprendedores rurales de la parroquia.",
+    "que": "Además, 10 procesos de capacitación o asesoría técnica para la producción. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Registros y cursos son trabajo que la junta puede organizar, con apoyo técnico.",
+    "cita": "Registrar y caracterizar al menos 150 productores y emprendedores rurales",
+    "pag": 13
+   },
+   {
+    "t": "Capacitar a 50 productores en producción sostenible, manejo de suelos y diversificación.",
+    "que": "Se haría en los años 1 a 3. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Cursos para productores: la junta puede organizarlos. El plan no dice el costo.",
+    "cita": "Capacitar al menos a 50 productores en producción sostenible, manejo de suelos, diversificación y fortalecimiento productivo.",
+    "pag": 13
+   },
+   {
+    "t": "Dar a las ferias locales comités con al menos 50% de mujeres jefas de hogar.",
+    "que": "Dice que se darán apoyos no reembolsables de fondos de fomento productivo. El plan no dice cuánto ni cuándo.",
+    "v": "media",
+    "n": "Depende de fondos que el plan no nombra; puede requerir acuerdos con otras instituciones.",
+    "cita": "los comités de comercialización de las ferias locales cuenten con una participación mínima del 50% de mujeres jefas de hogar",
+    "pag": 17
+   }
+  ],
+  "social": [
+   {
+    "t": "Destinar el 10% del presupuesto de la junta a atención a domicilio y fisioterapia para adultos mayores.",
+    "que": "El plan no dice el monto en dólares ni desde cuándo.",
+    "v": "baja",
+    "n": "Atención a domicilio y fisioterapia son de salud, no de la junta.",
+    "cita": "mediante la asignación estricta del 10% del presupuesto operativo del GAD a programas de atención domiciliaria, fisioterapia y proyectos ocupacionales tradicionales.",
+    "pag": 17
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar cada semana en carteleras copias de las actas y resoluciones de la junta.",
+    "que": "También habrá una sección de libre acceso en la página web de la junta. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Publicar actas es trabajo propio de la junta.",
+    "cita": "carteleras fisicas semanales con las copias de las Actas de Sesión de la Junta",
+    "pag": 15
+   },
+   {
+    "t": "Hacer audiencias públicas cada seis meses en distintos sectores para rendir cuentas.",
+    "que": "En ellas se informará el avance físico y financiero de los proyectos. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Rendir cuentas en los barrios es tarea propia de la junta.",
+    "cita": "los vocales de la junta realizarán audiencias públicas semestrales itinerantes en los diferentes sectores de la parroquia",
+    "pag": 15
+   }
+  ],
+  "otros": [
+   {
+    "t": "Hacer 5 actividades culturales y comunitarias en la parroquia durante el periodo.",
+    "que": "También 3 campañas para promover la identidad cultural de Aloasí. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Actividades y campañas las puede organizar la junta con los vecinos.",
+    "cita": "Ejecutar al menos 5 actividades culturales y comunitarias durante el periodo.",
+    "pag": 13
+   }
+  ]
+ },
+ "metas": [
+  "Intervenir 5 quebradas prioritarias entre 2027 y 2031.",
+  "Hacer al menos 20 jornadas de limpieza de quebradas y pasos de agua.",
+  "Registrar al menos 150 productores y emprendedores rurales.",
+  "Capacitar al menos a 50 productores.",
+  "Intervenir al menos el 30% de los tramos viales rurales en los primeros 48 meses."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará casi ninguna propuesta ni de dónde saldrá el dinero.",
+  "Incluye gastos de atención a domicilio y fisioterapia, que son de salud y no le tocan a la junta."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20
+ ],
+ "paginas": 20
+}

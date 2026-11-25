@@ -1,0 +1,136 @@
+{
+ "enfoque": "Arreglar vías rurales con la Prefectura, reciclaje y siembra de árboles, cuatro espacios para vender productos agrícolas, aceras y rampas. Sin costos ni plazos claros.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Hacer reciclaje, separar la basura, dar campañas y sembrar árboles nativos.",
+    "que": "Se hará con las comunidades cerca de las cuencas de agua. El plan no dice cuántos árboles, cuántas campañas ni cuánto costará.",
+    "v": "alta",
+    "n": "La basura es del Municipio; el plan no dice cuánto costará.",
+    "cita": "Reciclaje y separación de la basura. Campañas de concienciación ambiental. Siembra de árboles nativos",
+    "pag": 25
+   }
+  ],
+  "economia": [
+   {
+    "t": "Abrir cuatro espacios para vender productos agrícolas en las parroquias.",
+    "que": "Serán en ferias, plazas y recintos, con los productores de cada comunidad. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio (mercados y plazas). El plan no dice cuánto costará.",
+    "cita": "Apertura de cuatro espacios de comercialización en las parroquias.",
+    "pag": 25
+   },
+   {
+    "t": "Crear un atractivo turístico comunitario en cada parroquia, con senderos y señalización.",
+    "que": "Con capacitación y señalización, junto al Ministerio de Turismo y universidades. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de otros niveles; el turismo no está en la lista del Municipio.",
+    "cita": "Desarrollo de un atractivo turístico comunitario en cada parroquia",
+    "pag": 25
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Transmitir en vivo cada año la rendición de cuentas por redes y página web.",
+    "que": "Se hará también con la página web de la institución para mostrar la gestión. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio; es una práctica, no una obra.",
+    "cita": "Evento anual de rendición de cuentas transmitido en vivo a través de las multiplataformas del GAD Municipal",
+    "pag": 26
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar vías rurales con lastrado, adoquinado, asfalto y cunetas.",
+    "que": "Obras en vías rurales, con la Prefectura y el Ministerio de Transporte. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de la Prefectura y del Ministerio; el plan no dice qué pondrá el Municipio.",
+    "cita": "Lastrado de vías, adoquinado, pavimentación y mejoramiento de cunetas y pasos de agua.",
+    "pag": 25
+   }
+  ],
+  "otros": [
+   {
+    "t": "Instalar cuatro puntos de internet gratis, por wifi, en parques y plazas.",
+    "que": "Se hará con la empresa que da el servicio de internet. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de la empresa de internet, no solo del Municipio.",
+    "cita": "Instalación de cuatro puntos de internet gratuito, mediante wifi, en parques y plazas",
+    "pag": 25
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Aplicar proyectos para manejar bien los desechos y cuidar el medio ambiente y el agua.",
+    "que": "El plan no dice qué proyectos serán, dónde ni cuánto costarán. Solo dice 'durante el periodo', sin años.",
+    "v": "alta",
+    "n": "Le toca al Municipio (basura y agua), pero el plan no da detalles.",
+    "cita": "Aplicar proyectos para el manejo responsable de los desechos, garantizando el cuidado del medio ambiente y el acceso a los recursos hídricos.",
+    "pag": 23
+   }
+  ],
+  "social": [
+   {
+    "t": "Poner rampas en los principales espacios públicos urbanos para personas con discapacidad.",
+    "que": "Facilitará el paso de personas con discapacidad en espacios públicos urbanos. El plan no dice cuántas rampas ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio en espacios públicos; el plan no dice el costo.",
+    "cita": "Implementación de rampas en los principales espacios públicos de las zonas urbanas",
+    "pag": 25
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir y arreglar aceras, bordillos, graderíos y jardineras para la regeneración urbana.",
+    "que": "La meta es regeneración urbana al 50%. Se hará con dirigentes barriales. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará.",
+    "cita": "Mejoramiento y construcción de aceras y bordillos, graderíos y jardineras.",
+    "pag": 25
+   }
+  ]
+ },
+ "metas": [
+  "Mantenimiento vial del 60%.",
+  "Asfaltado del 5% y adoquinado del 5%.",
+  "Regeneración urbana al 50%.",
+  "Cuatro espacios para vender productos agrícolas en las parroquias.",
+  "Cuatro puntos de internet gratis en parques y plazas."
+ ],
+ "notas": [
+  "El plan dice 'durante el periodo' casi siempre: no dice años, costos ni de dónde saldrá el dinero.",
+  "No propone proyectos concretos de agua potable ni alcantarillado, aunque son competencia del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28
+ ],
+ "paginas": 28
+}

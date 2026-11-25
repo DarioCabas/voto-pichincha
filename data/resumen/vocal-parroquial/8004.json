@@ -1,0 +1,134 @@
+{
+ "enfoque": "Plan general de Pifo para los vocales: vías rurales, parques, ambiente, ferias y ayuda social. Gran parte le toca al Municipio, la Prefectura o el Gobierno.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a las vías rurales de Pifo, junto con la Prefectura.",
+    "que": "Se hará con un plan vial que liste calles, drenajes y daños. El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "media",
+    "n": "Es competencia de la junta, pero necesita coordinar con la Prefectura.",
+    "cita": "Priorizar el mantenimiento preventivo y correctivo de la vialidad parroquial rural dentro de la competencia del GAD, en coordinación con la Prefectura de Pichincha",
+    "pag": 7
+   },
+   {
+    "t": "Gestionar pasos peatonales en los puntos que pida la gente, incluidos cerca de la E-35.",
+    "que": "Se harán según estudios técnicos y permisos. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "baja",
+    "n": "Le toca al Municipio de Quito, no a la junta.",
+    "cita": "Gestionar pasos peatonales seguros en puntos priorizados por la ciudadania, incluidos los sectores",
+    "pag": 8
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Gestionar con la empresa de agua y el Municipio ampliar el alcantarillado en sectores que lo piden.",
+    "que": "Se hará en los sectores que los vecinos señalaron. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Le toca a la empresa de agua (EPMAPS) y al Municipio, no a la junta.",
+    "cita": "Gestionar ante EPMAPS y Municipio la ampliación o mejoramiento de alcantarillado y",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar y mantener parques, canchas y casas comunales de los barrios.",
+    "que": "Antes se revisa que el terreno sea de la parroquia y el estado del lugar. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta: parques y espacios de la parroquia.",
+    "cita": "Recuperar y mantener parques, canchas, casas comunales, graderíos, cubiertas y equipamientos comunitarios, previa verificación de propiedad, competencia, estado técnico y presupuesto",
+    "pag": 7
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Crear un programa para proteger páramos, quebradas y fuentes de agua.",
+    "que": "Incluye educación ambiental, siembra de árboles y vigilancia de los vecinos. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta cuidar el ambiente. Las denuncias van a las autoridades.",
+    "cita": "Implementar un programa parroquial de protección de páramos, quebradas, humedales, fuentes hídricas y áreas de conservación, con educación ambiental, reforestación con especies apropiadas",
+    "pag": 10
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Poner alarmas comunitarias y cámaras en sectores priorizados.",
+    "que": "Se hará con reglas de protección de datos y convenios. El plan no dice cuánto costará ni qué sectores son.",
+    "v": "baja",
+    "n": "Le toca a la Policía y al Municipio. La junta solo gestiona.",
+    "cita": "Impulsar un plan de alarmas comunitarias y videovigilancia en sectores priorizados, con estándares",
+    "pag": 10
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear un banco de alimentos para hogares con pocos recursos.",
+    "que": "Se basará en donaciones y alianzas. Elegirá hogares con criterios socioeconómicos objetivos. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita coordinar con el MIES, la entidad de ayuda social del Gobierno.",
+    "cita": "basado en donaciones, alianzas y recuperación segura de alimentos aptos para consumo",
+    "pag": 9
+   }
+  ],
+  "economia": [
+   {
+    "t": "Organizar ferias rotativas de emprendimientos en la cabecera, barrios y comuna.",
+    "que": "Incluirán gastronomía, artesanía, agricultura y cultura. El plan no dice cuánto costará ni cuándo empiezan.",
+    "v": "alta",
+    "n": "Le toca a la junta: organizar ferias y apoyar a productores.",
+    "cita": "Organizar ferias de emprendimiento y producción de manera rotativa en la cabecera, barrios y comuna",
+    "pag": 12
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar en línea los ingresos, gastos y obras de la junta.",
+    "que": "Incluye contratos, convenios, donaciones y avance de cada proyecto. El plan no dice en qué plazo.",
+    "v": "alta",
+    "n": "Le toca a la junta: rendir cuentas y publicar sus datos.",
+    "cita": "Publicar un tablero de seguimiento ciudadano con ingresos, egresos, contratación pública, convenios, donaciones",
+    "pag": 6
+   }
+  ],
+  "otros": [
+   {
+    "t": "Estudiar un proyecto turístico en el acceso de La Paz hacia las 700 Gradas.",
+    "que": "Evaluaría un mirador, adoquinado y áreas de descanso, con estudios técnicos. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "Es una obra grande que le toca al Municipio. El plan no la asegura.",
+    "cita": "Gestionar un proyecto turístico y paisajístico en el acceso de La Paz hacia las 700 Gradas",
+    "pag": 12
+   }
+  ]
+ },
+ "metas": [
+  "Acciones continuas durante todo el periodo 2027-2031. El plan no fija cifras ni fechas para cada acción."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero. Depende de presupuestos y convenios.",
+  "Incluye temas que no son de la junta: agua, alcantarillado, salud, policía y semáforos. Revise qué toca a cada nivel."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20
+ ],
+ "paginas": 20
+}

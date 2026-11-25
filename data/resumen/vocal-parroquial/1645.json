@@ -1,0 +1,126 @@
+{
+ "enfoque": "Plan de Lloa para caminos, canchas, ferias y turismo. Varias obras, como agua, luz y mercado, son del Municipio. El plan no dice cuánto costará.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Organizar mingas para limpiar cauces, quitar escombros y sembrar árboles nativos en las riberas.",
+    "que": "El plan dice que habrá mingas coordinadas para limpiar cauces, retirar escombros y reforestar riberas con vegetación nativa. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Mingas son trabajo de la junta con los vecinos. El plan no dice cuánto costará.",
+    "cita": "Organización de mingas comunitarias coordinadas para la limpieza de cauces, retiro de escombros y reforestación de riberas con vegetación nativa.",
+    "pag": 6
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Gestionar un plan para tapar baches y adoquinar caminos internos y vecinales.",
+    "que": "El plan habla de un plan de emergencia para bacheo, adoquinado y mantenimiento de caminos internos y vecinales. No dice cuánto costará ni en qué año se hará.",
+    "v": "media",
+    "n": "Caminos internos: la junta puede cuidarlos junto con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Gestionar la ejecución de un plan emergente de bacheo, adoquinado y mantenimiento preventivo de la vialidad rural interna y caminos vecinales.",
+    "pag": 6
+   },
+   {
+    "t": "Gestionar la construcción y reconstrucción de las vías principales que unen Lloa con Quito.",
+    "que": "El plan pide gestionar la obra de las vías que conectan la parroquia con la capital. No dice cuánto costará ni cuándo se hará.",
+    "v": "media",
+    "n": "Le toca a la Prefectura o al Municipio. La junta solo puede pedirlo. El plan no dice cuánto costará.",
+    "cita": "Gestión urgente que permita alcanzar la atención de la construcción y reconstrucción de las principales vías que conectan a la parroquia",
+    "pag": 6
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Hacer mesas de trabajo con el Municipio y la empresa de luz para llevar agua y luz a los barrios.",
+    "que": "El plan habla de mesas de trabajo con el Municipio y la empresa de luz para ampliar redes de agua potable y de luz. No dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Agua potable y luz le tocan al Municipio y a la empresa, no a la junta.",
+    "cita": "Instalación de mesas de co-planificación técnica y fiscalización con la EPMAPS y la Secretaría de Movilidad del DMQ y Empresa de Luz Eléctrica Quito para expandir redes de agua potable",
+    "pag": 6
+   }
+  ],
+  "social": [
+   {
+    "t": "Abrir el primer centro parroquial de cuidados para niños y adultos mayores, con refuerzo escolar.",
+    "que": "El plan dice que en el año 2 se abrirá el primer Centro Parroquial de Cuidados, Salud Comunitaria y Refuerzo Escolar. No dice cuánto costará ni dónde estará.",
+    "v": "media",
+    "n": "La parte de salud le toca al Ministerio de Salud. El plan no dice cuánto costará.",
+    "cita": "Apertura y puesta en marcha del primer Centro Parroquial de Cuidados, Salud Comunitaria y Refuerzo Escolar.",
+    "pag": 7
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias y eventos para vender los productos y servicios de los emprendedores de los barrios.",
+    "que": "El plan habla de capacitar y promover a emprendedores de los barrios con ferias, eventos y plataformas de promoción. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Ferias y promoción las puede hacer la junta. El plan no dice cuánto costará.",
+    "cita": "promover la difusión y visibilización de los productos y servicios que ofrecen los emprendedores del barrio mediante ferias, eventos y plataformas de promoción.",
+    "pag": 7
+   },
+   {
+    "t": "Crear una red de turismo de la parroquia.",
+    "que": "El plan dice que se creará una Red de Turismo a cargo de la junta parroquial. No dice cuánto costará ni cómo funcionará.",
+    "v": "alta",
+    "n": "Organizar una red de turismo es tarea de la junta. El plan no dice cuánto costará.",
+    "cita": "Creación de la Red de Turismo bajo la responsabilidad del GAD Parroquial Lloa.",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar y poner luz y equipos en las canchas y parques de todos los barrios de la parroquia.",
+    "que": "El plan habla de arreglar, poner iluminación y equipar todas las canchas y parques de la parroquia en el año 3. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Parques y canchas son de la junta. El plan no dice cuánto costará.",
+    "cita": "Intervención, iluminación técnica y equipamiento de la totalidad de las ligas barriales y parques de la parroquia.",
+    "pag": 8
+   },
+   {
+    "t": "Hacer estudios técnicos para construir un mercado municipal en Lloa.",
+    "que": "El plan solo habla de hacer estudios técnicos para el Mercado Municipal en el año 1. No dice cuánto costará ni cuándo se construirá.",
+    "v": "media",
+    "n": "El mercado es del Municipio. El plan solo habla de estudios.",
+    "cita": "Levantamiento y estudio técnico para la construcción del Mercado Municipal de la parroquia de Lloa.",
+    "pag": 6
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas en los barrios cada tres meses para revisar las obras y el dinero.",
+    "que": "El plan dice que habrá asambleas itinerantes cada trimestre en los barrios y comunas rurales. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Reuniones en los barrios: la junta puede hacerlas. El plan no dice cuánto costará.",
+    "cita": "Se institucionalizará la convocatoria trimestral a Asambleas de carácter itinerante en los diferentes barrios",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Año 2: abrir el primer Centro Parroquial de Cuidados.",
+  "Año 2: una quinta parte de comercios y viviendas de la cabecera separan residuos orgánicos.",
+  "Año 3: vincular a cincuenta microproductores, artesanos y agricultores de la zona.",
+  "Asambleas en los barrios cada tres meses.",
+  "Año 4: rendición de cuentas pública del plan de cuatro años."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Muchas obras (agua, luz, transporte, mercado, salud) son del Municipio, la Prefectura o el Ministerio. La junta solo puede pedirlas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "paginas": 12
+}

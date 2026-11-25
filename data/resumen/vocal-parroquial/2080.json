@@ -1,0 +1,102 @@
+{
+ "enfoque": "Propone asambleas en los barrios cada tres meses y que los vecinos decidan el dinero de inversión de la junta. Varias obras de agua y alcantarillado no son de la junta.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Reducir focos de contaminación en sectores de alta densidad.",
+    "que": "El plan habla de reciclaje, economía circular y educación ambiental. No dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Cuidar el ambiente sí le toca a la junta. El plan no da fechas ni costos.",
+    "cita": "acciones de protección ambiental y reducción de focos de contaminación",
+    "pag": 2
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas en los barrios y comunas cada tres meses.",
+    "que": "Las asambleas se harían en los barrios y comunas, no solo en la sede. El plan no dice cuánto costarán ni quién pagará.",
+    "v": "alta",
+    "n": "Reunir a la comunidad sí le toca a la junta. El plan no dice el costo.",
+    "cita": "convocatoria trimestral a Asambleas de carácter itinerante en los diferentes barrios y",
+    "pag": 7
+   },
+   {
+    "t": "Decidir en público, con delegados de barrios, el dinero de inversión de la junta.",
+    "que": "Delegados de barrios y comunidades votarían en reuniones públicas. El plan no dice cuánto dinero es ni cuándo se decidirá.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta. El plan no dice el monto.",
+    "cita": "El 100% de los fondos asignados legalmente a la Junta Parroquial para proyectos de inversión será",
+    "pag": 7
+   },
+   {
+    "t": "Ayudar a vecinos a formar grupos que vigilen las obras (veedurías).",
+    "que": "La junta promoverá y dará facilidades para que el Consejo de Participación Ciudadana (CPCCS) forme estos grupos. El plan no dice cuántos.",
+    "v": "alta",
+    "n": "Es organizar a vecinos, algo que sí le toca. Depende del CPCCS, otra institución.",
+    "cita": "promoverá y dará facilidades ante el Consejo de Participación Ciudadana y Control Social (CPCCS)",
+    "pag": 8
+   },
+   {
+    "t": "Crear una página web de libre acceso para publicar las sesiones y el avance del plan.",
+    "que": "Cada tres meses se publicaría lo que se haga en las sesiones de la junta. El plan no dice cuánto costará ni quién la mantendrá.",
+    "v": "media",
+    "n": "Necesita dinero o apoyo que el plan no explica. El presupuesto de la junta es poco.",
+    "cita": "implementará un sitio web de libre acceso que fungirá como repositorio oficial de",
+    "pag": 8
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Usar el dinero de la junta en obras viales, ambientales y sociales.",
+    "que": "El plan no dice qué obras, cuánto costarán ni cuándo se harán.",
+    "v": "media",
+    "n": "Las calles se hacen con la Prefectura. El plan no dice cómo ni cuánto.",
+    "cita": "se asegura el direccionamiento estricto de los recursos a las obras viales, ambientales y sociales",
+    "pag": 8
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Mejorar agua potable, alcantarillado y alumbrado en los sectores más poblados.",
+    "que": "El plan habla de mejoramiento progresivo, pero no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Le toca a otros niveles de gobierno. La junta no maneja agua ni alcantarillado.",
+    "cita": "alcantarillado, alumbrado público y condiciones de salubridad en los sectores de mayor",
+    "pag": 2
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar y mejorar espacios públicos y comunitarios.",
+    "que": "El plan no dice cuáles espacios, dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Parques y espacios de la parroquia sí le tocan a la junta. Faltan lugares y costos.",
+    "cita": "espacios públicos y comunitarios, fortalecimiento de centros de atención integral, cultura",
+    "pag": 2
+   }
+  ]
+ },
+ "metas": [
+  "Asambleas en barrios y comunas cada tres meses.",
+  "Información de sesiones y avances publicada cada tres meses en la web.",
+  "Usar el 100% de los fondos de inversión de la junta, decididos por delegados de barrios."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Varias propuestas (agua, alcantarillado, alumbrado) no le tocan a la junta. La página 5 está volteada y no se pudo leer."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "paginas": 10
+}

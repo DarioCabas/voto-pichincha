@@ -1,0 +1,122 @@
+{
+ "enfoque": "Reuniones con barrios, cursos, ferias y ayuda a productores; también agua y salud, que no son de la junta. Casi todo el texto se repite igual cada año.",
+ "tabla": {
+  "economia": [
+   {
+    "t": "Dar cursos y talleres para armar emprendimientos locales.",
+    "que": "Se harían en cada año del plan, de 2027 a 2031, para crear empleo joven, adulto y adulto mayor. El plan no dice cuánto costará ni dónde se harán.",
+    "v": "alta",
+    "n": "Cursos y talleres: sí le toca a la junta.",
+    "cita": "Viabilizar la realización de seminarios, talleres de capacitación con el objetivo de manejar emprendimientos locales",
+    "pag": 6
+   },
+   {
+    "t": "Organizar ferias comunitarias para vender productos de la parroquia.",
+    "que": "El plan dice que las ferias revalorizarán tradiciones y productos locales. No dice dónde, cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar ferias sí le toca a la junta.",
+    "cita": "fomentando circuitos de economía popular y ferias comunitarias que revaloricen las tradiciones locales y los productos de nuestra parroquia",
+    "pag": 5
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Apoyar a pequeños agricultores con prácticas que cuiden los recursos naturales.",
+    "que": "Busca que la comida se produzca en la parroquia. El plan no dice qué apoyo darán ni cuánto costará.",
+    "v": "alta",
+    "n": "Apoyar productores sí le toca a la junta.",
+    "cita": "impulsando prácticas de uso sustentable de los recursos naturales que fortalezcan la soberanía alimentaria",
+    "pag": 5
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Decidir con los vecinos en qué gastar el presupuesto de la junta.",
+    "que": "Dice que la gente decidirá en qué se usa el dinero. No dice qué proyectos ni cuánto dinero habrá.",
+    "v": "alta",
+    "n": "La junta tiene poco dinero; el plan no dice cuánto.",
+    "cita": "Robustecer la democracia directa mediante la gestión de presupuestos participativos y la articulación social",
+    "pag": 5
+   },
+   {
+    "t": "Dar cuentas de la gestión cada año en eventos públicos.",
+    "que": "Se haría cada año con la presencia de los votantes. Cada centavo se justificará ante la asamblea parroquial.",
+    "v": "alta",
+    "n": "Le toca a la junta; depende de los propios candidatos.",
+    "cita": "presentaremos de manera anual la rendición de cuentas de nuestra gestión en eventos públicos",
+    "pag": 9
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Conseguir agua sana para la parroquia, sobre todo para Rumicucho y Tanlahua.",
+    "que": "El plan no dice cómo, cuánto costará ni cuándo. Dice que esas dos comunidades son de las últimas en tener agua.",
+    "v": "baja",
+    "n": "El agua potable le toca a otro nivel, no a la junta.",
+    "cita": "Viabilizar agua sana en San Antonio de Pichincha, este será un plan que",
+    "pag": 6
+   },
+   {
+    "t": "Poner puntos de hidratación en el centro de la parroquia.",
+    "que": "El plan no dice cuántos puntos, dónde exactamente ni cuánto costarán.",
+    "v": "baja",
+    "n": "La salud no le toca a la junta.",
+    "cita": "Brindar salud a la parroquia desde el centro de la misma con puntos de hidratación",
+    "pag": 6
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer reuniones en los barrios para listar las necesidades urgentes.",
+    "que": "El plan no dice qué obras se harán ni cuánto costarán. Habla de una estructura importante para la parroquia.",
+    "v": "media",
+    "n": "Las reuniones sí; las obras necesitan acuerdo con el Municipio o la Prefectura.",
+    "cita": "Impulsar a través de reuniones con los barrios el plan de necesidades urgentes para contar con una estructura importante en favor de la parroquia",
+    "pag": 6
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Dar prioridad a obras que mejoren las vías rurales.",
+    "que": "El plan no dice qué vías ni cuánto costará. Tampoco dice de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Caminos: la junta los cuida junto con la Prefectura.",
+    "cita": "priorizando inversiones que mejoren la conectividad rural y la seguridad ciudadana",
+    "pag": 5
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Organizar la vigilancia de los vecinos junto con las autoridades.",
+    "que": "El plan no dice cómo se organizará ni cuánto costará. Tampoco dice cuándo empezará.",
+    "v": "media",
+    "n": "Organizar vecinos sí; la policía no le toca a la junta.",
+    "cita": "Promoveremos la organización social para fortalecer la vigilancia comunitaria y la articulación con las autoridades competentes",
+    "pag": 4
+   }
+  ]
+ },
+ "metas": [
+  "Plan de cuatro años, de 2027 a 2031.",
+  "Rendir cuentas una vez al año en eventos públicos."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Los años 1 a 4 repiten casi el mismo texto. Menciona al Partido Socialista Ecuatoriano, no a Unidad Ciudadana."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "paginas": 11
+}

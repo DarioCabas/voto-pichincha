@@ -1,0 +1,182 @@
+{
+ "enfoque": "Es el plan de desarrollo de la ciudad, no un plan propio de la Alcaldía: agua, basura, aceras, parques y cuidado infantil. Casi no fija costos ni plazos.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Seguir y acelerar el programa de agua y alcantarillado en zonas rurales.",
+    "que": "Costará 93 millones de dólares: 70 del Banco Interamericano de Desarrollo (BID) y 23 de contraparte nacional. Los proyectos van de 2027 a 2031.",
+    "v": "alta",
+    "n": "Le toca al Municipio y ya está en marcha con dinero del BID.",
+    "cita": "Continuidad y aceleración del Programa de Agua y Saneamiento para el Cantón Cuenca financiado por el BID y contraparte nacional.",
+    "pag": 36
+   },
+   {
+    "t": "Evaluar e instalar filtros de agua en comunidades y hogares prioritarios mientras llega la obra.",
+    "que": "Se harán si son técnica y sanitariamente viables. Prioridad: hogares vulnerables, escuelas y centros infantiles. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio; el plan no dice cuánto costará.",
+    "cita": "Evaluación e implementación de sistemas de filtración y tratamiento de agua de rápida implementación para comunidades y hogares prioritarios.",
+    "pag": 36
+   },
+   {
+    "t": "Poner más basureros públicos en calles y lugares con mucha gente.",
+    "que": "El plan no dice cuántos basureros ni en qué calles, ni cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "La basura es competencia directa del Municipio.",
+    "cita": "Incrementar la disponibilidad de basureros públicos en calles y espacios de alta circulación.",
+    "pag": 20
+   }
+  ],
+  "social": [
+   {
+    "t": "Ampliar los centros de desarrollo infantil (CDI) donde falten cupos.",
+    "que": "El plan no dice cuántos cupos ni cuánto costará. Primero evaluará los CDI municipales existentes y ampliará donde la demanda no esté cubierta.",
+    "v": "media",
+    "n": "Depende también de entidades nacionales; el plan no dice costos.",
+    "cita": "Fortalecimiento y ampliación de CDI donde exista demanda insatisfecha.",
+    "pag": 38
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Mejorar la luz y la seguridad en los caminos peatonales.",
+    "que": "El plan no dice qué calles ni cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Alumbrado y calles son competencia del Municipio.",
+    "cita": "Mejoramiento de iluminación y seguridad en recorridos peatonales.",
+    "pag": 42
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar aceras y cruces peatonales y hacerlos accesibles.",
+    "que": "El plan no dice qué calles ni cuánto costará. Las obras nuevas deberán cumplir criterios de accesibilidad universal.",
+    "v": "alta",
+    "n": "Aceras y calles le tocan al Municipio.",
+    "cita": "Mejorar aceras, cruces peatonales, accesibilidad universal y mantenimiento del espacio público.",
+    "pag": 19
+   },
+   {
+    "t": "Crear rutas seguras para que niños y jóvenes vayan a la escuela.",
+    "que": "El plan no dice qué rutas ni cuánto costará. Lo hará junto con la autoridad educativa.",
+    "v": "alta",
+    "n": "Las calles son del Municipio; las escuelas no.",
+    "cita": "Desarrollar rutas seguras para niños y jóvenes hacia escuelas y colegios.",
+    "pag": 19
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar y crear parques y áreas verdes cerca de los barrios.",
+    "que": "El plan no dice cuántos parques ni dónde, ni cuánto costará. Incluye baños públicos y sombra donde exista demanda y factibilidad.",
+    "v": "alta",
+    "n": "Parques y espacio público son competencia municipal.",
+    "cita": "Recuperar y ampliar una red de espacios públicos de proximidad, accesibles, verdes, seguros y adecuados",
+    "pag": 42
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger las fuentes de agua y las zonas que recargan agua.",
+    "que": "El plan no dice qué zonas ni cuánto costará. El Parque Nacional Cajas depende del Gobierno nacional.",
+    "v": "alta",
+    "n": "Competencia municipal; parte del trabajo depende del Gobierno nacional.",
+    "cita": "Protección de fuentes y zonas de recarga hídrica.",
+    "pag": 20
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Abrir oficinas municipales cerca de barrios y parroquias con poca atención.",
+    "que": "El plan no dice cuántas oficinas, dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Organiza servicios del propio Municipio.",
+    "cita": "Oficinas municipales de proximidad donde exista una brecha de atención.",
+    "pag": 22
+   }
+  ]
+ },
+ "metas": [
+  "Obras de agua y saneamiento: 40% de avance en el año 2, 70% en el año 3 y 90% en el año 4.",
+  "Trámites y servicios municipales con proceso digital: 40%, 70% y 90% en los años 2, 3 y 4.",
+  "Niños atendidos en primera infancia: 10%, 20% y 30% en los años 2, 3 y 4 (el plan no aclara la base).",
+  "Parroquias y sectores con planes de riesgo actualizados: 40%, 70% y 90% en los años 2, 3 y 4."
+ ],
+ "notas": [
+  "Gran parte (policía, salud, escuelas, empleo) no es del Municipio. El plan solo los menciona como coordinación o apoyo.",
+  "Solo el programa de agua trae un costo total. Casi ninguna obra tiene cuánto cuesta ni fecha exacta.",
+  "Plan muy largo (80 págs.): se resumieron las 68 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  5,
+  6,
+  7,
+  12,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61,
+  62,
+  63,
+  64,
+  65,
+  66,
+  67,
+  68,
+  71,
+  72,
+  73,
+  74,
+  76,
+  77,
+  78,
+  79,
+  80
+ ],
+ "paginas": 80
+}

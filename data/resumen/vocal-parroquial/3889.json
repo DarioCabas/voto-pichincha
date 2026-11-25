@@ -1,0 +1,130 @@
+{
+ "enfoque": "Plan general del Gobierno Parroquial de Tumbaco: parques, caminos, reforestación, cerro Ilaló, ferias y cursos. No dice cuánto costará.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Hacer jornadas permanentes para sembrar árboles y recuperar zonas dañadas.",
+    "que": "Se usarán plantas apropiadas para cada ecosistema. El plan no dice cuántos árboles ni en qué zonas.",
+    "v": "alta",
+    "n": "Mingas de siembra: la junta puede organizarlas. El plan no dice cuánto costarán.",
+    "cita": "Impulsar jornadas permanentes de reforestación y recuperación de áreas",
+    "pag": 13
+   },
+   {
+    "t": "Hacer campañas para separar la basura y producir menos residuos.",
+    "que": "Las campañas serán para barrios, instituciones educativas y organizaciones. El plan no dice cuándo ni cuánto costarán.",
+    "v": "alta",
+    "n": "Campañas de educación: la junta puede hacerlas. El plan no dice cuánto costarán.",
+    "cita": "Promover la reducción, separación y adecuado manejo de residuos sólidos",
+    "pag": 13
+   },
+   {
+    "t": "Cuidar y recuperar el cerro Ilaló junto con el Municipio y la Prefectura.",
+    "que": "Se harán acciones coordinadas con el Municipio, la Prefectura, comunidades y organizaciones ambientales. El plan no dice cuándo ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio y la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Promover la protección y recuperación ambiental del cerro Ilaló mediante acciones coordinadas con el Municipio",
+    "pag": 13
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias en la parroquia para vender productos locales.",
+    "que": "El plan no dice cada cuánto ni dónde serán las ferias, ni cuánto costarán.",
+    "v": "alta",
+    "n": "Ferias en la parroquia: la junta puede organizarlas. El plan no dice cuándo.",
+    "cita": "Promover ferias parroquiales y espacios permanentes de comercialización",
+    "pag": 11
+   },
+   {
+    "t": "Dar cursos a emprendedores de administración, manejo de dinero, ventas y publicidad por internet.",
+    "que": "Los cursos se harán con universidades e institutos. El plan no dice cuántos cursos habrá ni cuánto costarán.",
+    "v": "alta",
+    "n": "Cursos entran en lo que puede hacer la junta. El plan no dice cuánto costarán.",
+    "cita": "Desarrollar programas de capacitación en administración, educación financiera, comercialización, marketing digital y transformación de productos",
+    "pag": 11
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una asamblea cada año para decidir prioridades con los barrios.",
+    "que": "Participan presidentes de barrios y organizaciones sociales. El plan no dice dónde se hará ni cuánto costará.",
+    "v": "alta",
+    "n": "Reunión anual de barrios: la junta puede organizarla. El plan no dice cuánto costará.",
+    "cita": "Realizar anualmente una Asamblea Parroquial de Priorización, con participación de los presidentes y representantes de los barrios",
+    "pag": 15
+   },
+   {
+    "t": "Hacer cada año la rendición de cuentas a la ciudadanía.",
+    "que": "El plan dice que se informará sobre proyectos, dinero usado y resultados. No dice cómo ni cuándo se hará.",
+    "v": "alta",
+    "n": "Es un deber de la junta según la ley. El plan no dice cómo se hará.",
+    "cita": "Cumplir anualmente con los procesos de rendición de cuentas establecidos",
+    "pag": 16
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Pedir a la Prefectura que incluya en sus planes las vías rurales priorizadas.",
+    "que": "La decisión la toma la Prefectura. El plan no dice cuándo ni cuánto costará la obra.",
+    "v": "media",
+    "n": "Necesita que la Prefectura acepte. El plan no dice cuándo.",
+    "cita": "Gestionar ante la Prefectura de Pichincha la incorporación de las vías",
+    "pag": 10
+   },
+   {
+    "t": "Hacer un listado de caminos, puntos malos y necesidades de la parroquia.",
+    "que": "El plan dice que se actualizará el diagnóstico e identificarán puntos críticos. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Revisar y listar caminos es tarea de la junta. El plan no dice cuánto costará.",
+    "cita": "Elaborar y mantener actualizado un diagnóstico de la vialidad parroquial",
+    "pag": 10
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar poco a poco las canchas y áreas deportivas para que sean seguras y accesibles.",
+    "que": "El plan no dice qué parques ni cuánto costará. Se hará de a poco, sin fecha.",
+    "v": "alta",
+    "n": "Le toca a la junta. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Mejorar progresivamente las áreas deportivas y recreativas, promoviendo espacios seguros, accesibles e inclusivos",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Informar cada año sobre el avance del plan, entre 2027 y 2031.",
+  "Hacer una asamblea de priorización cada año.",
+  "Hacer una asamblea pública de rendición de cuentas cada año."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Es un plan general de la parroquia. Varias propuestas dependen del Municipio o la Prefectura, no de la junta."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22
+ ],
+ "paginas": 22
+}

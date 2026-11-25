@@ -1,0 +1,134 @@
+{
+ "enfoque": "Caminos con mingas, cuidado del ambiente, parques y ferias para la parroquia. Gran parte del texto repite el plan de desarrollo de la parroquia y depende de otros niveles.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Hacer campañas para separar y reducir la basura en las comunidades.",
+    "que": "El plan no dice cuánto costará ni en qué sectores se hará. Dice que se coordinarán campañas de reducción y separación.",
+    "v": "alta",
+    "n": "Es trabajo comunitario y de campañas; la junta puede organizarlo.",
+    "cita": "Coordinar campañas de reducción, separación y manejo responsable de residuos",
+    "pag": 12
+   },
+   {
+    "t": "Organizar jornadas para recuperar zonas dañadas, con plantas apropiadas y cuidado después.",
+    "que": "El plan no dice dónde ni cuánto costará. Dice que habrá mantenimiento de las plantas después de sembrarlas.",
+    "v": "alta",
+    "n": "Es trabajo de la junta con la comunidad; el plan no dice cuánto cuesta.",
+    "cita": "Gestionar jornadas de restauración con especies apropiadas y mantenimiento posterior.",
+    "pag": 11
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer un registro voluntario de productores, artesanos y emprendimientos.",
+    "que": "El plan no dice cuántas personas se inscribirán ni cuánto costará. La inscripción es voluntaria.",
+    "v": "alta",
+    "n": "Apoyar a productores es tarea de la junta y cuesta poco.",
+    "cita": "Elaborar un registro voluntario de productores, artesanos, prestadores turisticos y emprendimientos.",
+    "pag": 10
+   },
+   {
+    "t": "Organizar ferias, mercados y ventas directas de productos de Nono.",
+    "que": "El plan no dice dónde ni cuándo se harán, ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar ferias es trabajo de la junta y cuesta poco.",
+    "cita": "Organizar ferias, mercados y canales de venta directa.",
+    "pag": 10
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar cada tres meses el presupuesto, contratos, convenios y obras.",
+    "que": "El plan no dice cuánto costará. Dice que la publicación será trimestral, es decir cada tres meses.",
+    "v": "alta",
+    "n": "Publicar información es tarea propia de la junta.",
+    "cita": "Publicar trimestralmente presupuesto, contratación, convenios, obras, metas e indicadores.",
+    "pag": 14
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer mingas y trabajos comunitarios en caminos, si son legales y seguros.",
+    "que": "El plan dice que se harán si son legales, técnicamente pertinentes y tienen medidas de seguridad. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "La junta puede organizar mingas, siempre que cumplan la ley y la seguridad.",
+    "cita": "Ejecutar mingas y acciones comunitarias cuando sean legales, técnicamente pertinentes y cuenten con medidas de seguridad",
+    "pag": 9
+   },
+   {
+    "t": "Pedir mejoras en frecuencias, recorridos y paradas del transporte público.",
+    "que": "El plan dice que se gestionará ante las autoridades competentes. No dice cuánto costará ni cuándo habrá cambios.",
+    "v": "baja",
+    "n": "Le toca a la autoridad de transporte, no a la junta.",
+    "cita": "paradas de transporte público ante las autoridades competentes",
+    "pag": 9
+   }
+  ],
+  "otros": [
+   {
+    "t": "Diseñar rutas de naturaleza, gastronomía, producción y cultura para turistas.",
+    "que": "El plan no dice cuánto costará ni cuándo estarán listas. La señalización depende de las autoridades competentes.",
+    "v": "media",
+    "n": "Las señales y acuerdos dependen de otros niveles de gobierno.",
+    "cita": "Diseñar circuitos de naturaleza, gastronomia, producción y cultura",
+    "pag": 11
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear una ruta para orientar casos de violencia hacia los servicios que los atienden.",
+    "que": "El plan no dice cuánto costará ni cuándo estará lista. Dice que no sustituirá a las entidades competentes.",
+    "v": "media",
+    "n": "Puede informar y derivar casos, pero no atenderlos; eso le toca a otras entidades.",
+    "cita": "Crear una ruta informativa y de derivación para casos de violencia y vulneración de derechos.",
+    "pag": 13
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Dar mantenimiento, accesibilidad e iluminación a parques y espacios comunitarios.",
+    "que": "El plan dice que se hará según competencias y presupuesto. No dice cuánto costará ni qué espacios se atenderán primero.",
+    "v": "alta",
+    "n": "Parques y espacios comunitarios son de la junta, pero el presupuesto es bajo.",
+    "cita": "Ejecutar un programa de mantenimiento, accesibilidad e iluminación, según competencias y presupuesto.",
+    "pag": 12
+   }
+  ]
+ },
+ "metas": [
+  "Inventario de caminos actualizado y mantenimiento anual durante cuatro años.",
+  "Una estrategia de turismo y al menos dos circuitos o rutas.",
+  "Cuatro informes trimestrales y una rendición pública anual.",
+  "Intervenir al menos cuatro áreas prioritarias de restauración o protección.",
+  "Validar las líneas de base en los primeros 90 días de gestión."
+ ],
+ "notas": [
+  "Gran parte repite el plan de desarrollo de la parroquia. Muchas acciones son del Municipio o la Prefectura. No dice cuánto cuestan.",
+  "La introducción dice periodo 2026-2029; el resto dice 2027-2031. Algunas páginas están borrosas y no se leen bien."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20
+ ],
+ "paginas": 20
+}

@@ -1,0 +1,131 @@
+{
+ "enfoque": "Plan de toda la junta de Calderón, no solo del vocal: parques, calles, ferias, seguridad vecinal y ambiente. El agua y la salud dependen de otros niveles.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Hacer un inventario de parques, casas comunales y canchas, con su estado.",
+    "que": "Anotar cada parque, casa comunal, cancha y espacio de cuidado, y qué arreglos necesita. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Es trabajo de la junta y no depende de otro nivel.",
+    "cita": "Realizar inventario de parques, casas comunales, canchas, espacios culturales y espacios de cuidado, con estado, ubicación y necesidades de mantenimiento.",
+    "pag": 8
+   },
+   {
+    "t": "Recuperar, construir o arreglar al menos 12 espacios públicos prioritarios.",
+    "que": "Son 12 espacios en el período 2027-2031, con papeles que se puedan revisar. El plan no dice cuánto costará ni cuándo se harán.",
+    "v": "media",
+    "n": "Depende de permisos, convenios y dinero del Municipio.",
+    "cita": "Gestionar recuperación, construcción o mantenimiento de al menos 12 espacios públicos prioritarios y revisar accesibilidad y mantenimiento en los nuevos proyectos.",
+    "pag": 8
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer cada año una lista de calles con baches, drenaje, falta de luz y cruces peligrosos.",
+    "que": "La lista se actualiza cada año para saber qué arreglar. El plan no dice cuánto costará ni quién lo pagará.",
+    "v": "alta",
+    "n": "La junta puede hacer la lista; los arreglos son de otros niveles.",
+    "cita": "Levantar y actualizar anualmente un catastro de puntos críticos: baches, drenaje, cunetas, iluminación, señalización, cruces peligrosos y barreras de accesibilidad.",
+    "pag": 8
+   },
+   {
+    "t": "Pedir el arreglo de las vías rurales de la parroquia y seguir las obras de otros niveles.",
+    "que": "Se gestiona ante quien corresponde. El plan no dice cuánto costará ni en qué plazo se hará.",
+    "v": "media",
+    "n": "La Prefectura tiene la vialidad rural; la junta solo gestiona.",
+    "cita": "Gestionar mantenimiento de vías parroquiales rurales y dar seguimiento a intervenciones que correspondan a otros niveles de gobierno.",
+    "pag": 8
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Crear una mesa de agua con el Municipio y la empresa de agua (EPMAPS).",
+    "que": "Reúne a juntas de agua, comunas y barrios, y las actas se publican. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "El agua le toca a la empresa y al Municipio, no a la junta.",
+    "cita": "Instalar una Mesa Parroquial de Agua con GAD, EPMAPS, Municipio, juntas de agua, comunas y representantes barriales; publicar actas y compromisos.",
+    "pag": 7
+   },
+   {
+    "t": "Hacer mesas de salud con las entidades de salud para revisar centros y pedir mejoras.",
+    "que": "Se piden mejoras de infraestructura, agua, limpieza y equipos, y se sigue la atención. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "La salud le toca al Ministerio de Salud Pública; la junta solo pide y vigila.",
+    "cita": "Realizar mesas de salud con las entidades competentes para revisar necesidades de establecimientos y gestionar mejoras de infraestructura, accesibilidad, agua, limpieza, mantenimiento y equipamiento.",
+    "pag": 10
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Organizar y capacitar comités de seguridad en los barrios: prevención, primeros auxilios y alertas.",
+    "que": "Meta de al menos 150 comités activos o fortalecidos en el período. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Es organización vecinal. La policía no le toca a la junta.",
+    "cita": "Fortalecer comités barriales de seguridad y capacitación en prevención, primeros auxilios, resolución de conflictos y herramientas de alerta.",
+    "pag": 8
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Plantar árboles cada año y recuperar áreas verdes con especies del lugar.",
+    "que": "Hay un programa anual con registro de lo hecho. El plan no dice cuántos árboles ni cuánto costará.",
+    "v": "alta",
+    "n": "Es trabajo comunitario y de parques; le toca a la junta.",
+    "cita": "Implementar un programa anual de arborización y recuperación de áreas verdes con especies adecuadas al territorio.",
+    "pag": 10
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias de productores, artesanos y negocios de la parroquia.",
+    "que": "Meta: 16 ferias en el período, como mínimo. El plan no dice cuánto costará ni dónde se harán.",
+    "v": "alta",
+    "n": "Organizar ferias es trabajo de la junta, no de otro nivel.",
+    "cita": "Realizar ferias productivas y de emprendimiento, priorizando productores, artesanos y negocios de la parroquia.",
+    "pag": 9
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas parroquiales y cabildos por sector para elegir prioridades y revisar avances.",
+    "que": "Meta de mínimo ocho asambleas por año. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Reunir a la gente es trabajo de la junta. El plan dice dos y ocho al año.",
+    "cita": "Realizar asambleas parroquiales territoriales y cabildos sectoriales para priorizar necesidades y revisar avances.",
+    "pag": 11
+   }
+  ]
+ },
+ "metas": [
+  "16 ferias acumuladas como mínimo en el período.",
+  "12 espacios públicos prioritarios intervenidos o gestionados con expediente verificable.",
+  "Mínimo ocho asambleas territoriales por año.",
+  "Al menos 150 comités barriales activos o fortalecidos.",
+  "Catastro hídrico completo durante el primer año."
+ ],
+ "notas": [
+  "Muchas propuestas son de agua, salud, policía o Municipio. El plan no pone cuánto cuesta ninguna propuesta.",
+  "El plan dice dos asambleas al año en un punto y ocho en otro."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17
+ ],
+ "paginas": 17
+}

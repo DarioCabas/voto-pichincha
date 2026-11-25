@@ -1,0 +1,147 @@
+{
+ "enfoque": "Plan basado en el plan de desarrollo del cantón (PDOT): agua, alcantarillado, basura, calles y control del suelo. No da costos por obra.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar y arreglar las redes de agua potable del cantón.",
+    "que": "Solo 38,59 % de comunidades y barrios tienen red municipal de agua. Plazo 2027–2030, con recursos propios, transferencias y cooperación. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Rehabilitación de infraestructura crítica. Ampliación progresiva de cobertura.",
+    "pag": 18
+   },
+   {
+    "t": "Ampliar y arreglar el alcantarillado y el tratamiento de aguas sucias.",
+    "que": "Solo 29,82 % de comunidades y barrios están conectados al alcantarillado municipal. Plazo 2027–2030. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará.",
+    "cita": "Ampliación y rehabilitación de alcantarillado y tratamiento de aguas residuales.",
+    "pag": 15
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer un manejo completo de la basura: aprovechar lo que sirve, disponerla bien y educar.",
+    "que": "Hoy 93 % de viviendas tienen recolección de basura. Plazo 2027–2030. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará.",
+    "cita": "La meta será avanzar hacia gestión integral de residuos, aprovechamiento, disposición adecuada, educación ambiental y manejo responsable de fauna urbana.",
+    "pag": 9
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer un plan de calles: revisar, arreglar y dar mantenimiento a las vías municipales.",
+    "que": "Cerca del 45 % de los 266,74 km de vías está en mal estado. Plazo 2027–2031. El plan no dice cuánto costará ni qué calles se arreglan primero.",
+    "v": "alta",
+    "n": "Le toca al Municipio en calles urbanas. Las vías provinciales solo se gestionan.",
+    "cita": "La respuesta será un Plan Municipal de Vialidad basado en inventario, clasificación, mantenimiento preventivo, drenaje y priorización.",
+    "pag": 11
+   },
+   {
+    "t": "Poner señalización de tránsito y seguridad vial en el cantón.",
+    "que": "Está en el banco de ideas, con plazo 2027–2030. El plan no dice en qué calles ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: tránsito es competencia municipal.",
+    "cita": "Movilidad Segura Señalización, tránsito y seguridad vial Alta 2027–2030",
+    "pag": 23
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar parques, canchas, plazas y espacios públicos.",
+    "que": "Plazo 2027–2030. El plan no dice cuántos espacios se arreglarán ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuántos ni cuánto costará.",
+    "cita": "Recuperación de parques, canchas, plazas y espacios públicos.",
+    "pag": 17
+   },
+   {
+    "t": "Controlar dónde y cómo se construye, con el plan de uso del suelo.",
+    "que": "Incluye actualizar el catastro (registro de propiedades) y controlar la ocupación del suelo. Plazo 2027–2028. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: el uso del suelo es competencia municipal.",
+    "cita": "Aplicación y seguimiento del PUGS. Fortalecimiento catastral. Control de uso y ocupación del suelo.",
+    "pag": 17
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar asistencia técnica y ayuda para vender a productores agropecuarios.",
+    "que": "Incluye ferias y formación de proyectos. Plazo 2027–2030. El plan no dice cuántos productores se beneficiarán ni cuánto costará.",
+    "v": "media",
+    "n": "Depende de convenios con otras instituciones. No crea empleo directo.",
+    "cita": "Se priorizarán asistencia técnica, asociatividad, huertos, granjas, comercialización y proyectos que agreguen valor",
+    "pag": 10
+   }
+  ],
+  "social": [
+   {
+    "t": "Dar servicios y proyectos a grupos prioritarios: adultos mayores, discapacidad y mujeres.",
+    "que": "El plan no describe qué servicios se darán ni cuánto costarán. Plazo 2027–2030.",
+    "v": "media",
+    "n": "Depende de convenios. Salud y educación no le tocan al Municipio.",
+    "cita": "Ponce Cuida Servicios y proyectos para grupos prioritarios Alta 2027–2030",
+    "pag": 23
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar informes cada tres meses sobre el avance del plan.",
+    "que": "Incluye semáforo de cumplimiento y rendición pública. El plan no dice cuánto costará; es gestión interna.",
+    "v": "alta",
+    "n": "Depende del propio Municipio, no de otras instituciones.",
+    "cita": "Se implementarán informes trimestrales, semáforo de cumplimiento, evaluación de servicios, acciones correctivas y rendición pública.",
+    "pag": 12
+   }
+  ]
+ },
+ "metas": [
+  "Presentar a los 100 días una agenda pública con metas y responsables.",
+  "Cumplir al menos 90 % de las metas anuales comprometidas.",
+  "Tener 100 % de las fuentes de agua priorizadas con monitoreo.",
+  "Ordenar el territorio (PUGS y catastro) en 2027–2028.",
+  "Publicar informes trimestrales de resultados."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra. Los montos se fijarán después, con estudios técnicos.",
+  "Muchas metas no tienen cifra: dicen \"incremento anual\" y se definirán en 2027."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33
+ ],
+ "paginas": 33
+}

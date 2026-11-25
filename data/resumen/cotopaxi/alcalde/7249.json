@@ -1,0 +1,132 @@
+{
+ "enfoque": "Obras de calles, agua, basura, cementerio, parque, mercado y terminal. También pone temas de Policía, salud y empleo, que no son del Municipio.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Construir plantas para tratar aguas residuales en Guasaganda y La Josefina.",
+    "que": "El plan no dice cuánto costará ni cuándo. Es parte de la meta de 5 plantas de tratamiento de aguas residuales al 2031.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que maneja el alcantarillado. El plan no dice cuánto costará.",
+    "cita": "Implementación de plantas de tratamiento de aguas residuales en Guasaganda y La Josefina",
+    "pag": 12
+   },
+   {
+    "t": "Mejorar la recolección de basura con contenedores llamados ecotachos en la ciudad.",
+    "que": "El plan no dice cuánto costará ni cuándo. Es un sistema integral de recolección para la ciudad La Maná.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que maneja la basura. Faltan costo y plazo.",
+    "cita": "Mejoramiento del sistema de recolección de residuos sólidos a través de un sistema integral de ecotachos en la ciudad La Maná",
+    "pag": 10
+   },
+   {
+    "t": "Construir un nuevo cementerio con sala de velaciones, crematorio, morgue y capilla.",
+    "que": "El plan no dice dónde ni cuánto costará. Tampoco dice en qué plazo se hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que maneja los cementerios. Falta lugar y costo.",
+    "cita": "Construcción de un nuevo Campo Santo digno para nuestros seres queridos, dotado de sala de velaciones",
+    "pag": 13
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Asfaltar el 100% de las calles urbanas en zonas ya consolidadas, al 2031.",
+    "que": "El plan no dice cuánto costará. Dice que se financiará con el BDE (banco público) y convenios con la Prefectura y cantones vecinos.",
+    "v": "media",
+    "n": "Es del Municipio, pero depende de un préstamo del BDE. Falta costo.",
+    "cita": "Al 2031 se incrementará al 100% el porcentaje de vías urbanas asfaltadas en zonas consolidadas",
+    "pag": 13
+   },
+   {
+    "t": "Asfaltar el 50% de las calles rurales, al 2031.",
+    "que": "El plan no dice cuánto costará ni en qué sectores rurales se hará. Menciona financiamiento del BDE y convenios.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de préstamo y convenios. Falta costo.",
+    "cita": "Al 2031 se incrementará al 50% el porcentaje de vías rurales asfaltadas",
+    "pag": 13
+   },
+   {
+    "t": "Hacer aceras y bordillos en todas las calles asfaltadas, al 2031.",
+    "que": "El plan no dice cuánto costará. La meta es llegar al 100% de calles asfaltadas con aceras al 2031.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que maneja las calles. El plan no dice cuánto costará.",
+    "cita": "Al 2031 incrementar al 100% las aceras y bordillos en las calles asfaltadas",
+    "pag": 16
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Construir un gran parque verde para las familias de La Maná.",
+    "que": "El plan no dice dónde, cuánto costará ni en qué plazo se construirá.",
+    "v": "alta",
+    "n": "Le toca al Municipio (parques). Faltan lugar, costo y plazo.",
+    "cita": "Construcción de un gran parque verde para la familia lamanense",
+    "pag": 13
+   }
+  ],
+  "economia": [
+   {
+    "t": "Construir mercados modernos que cumplan normas de seguridad alimentaria.",
+    "que": "El plan dice que El Triunfo y El Carmen tendrán mercado al 2031. Se financiaría con el BDE; no dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio (mercados). Depende de un préstamo del BDE.",
+    "cita": "Construcción de modernos mercados, que cumplan con las normas y reglamentos que garanticen la seguridad alimentaria",
+    "pag": 16
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Construir la terminal terrestre y dejarla funcionando al 2031.",
+    "que": "El plan no dice dónde ni cuánto costará. Es parte de las propuestas de tránsito y transporte del cantón.",
+    "v": "alta",
+    "n": "Le toca al Municipio (transporte). Faltan lugar y costo.",
+    "cita": "Al 2031 se contará con un Terminal Terrestre funcional",
+    "pag": 13
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Comprar vehículos y equipos para la Policía Nacional.",
+    "que": "El plan no dice cuánto costará. Dice que lo harán las instituciones competentes, no el Municipio.",
+    "v": "baja",
+    "n": "No le toca al Municipio: la Policía es del Gobierno nacional.",
+    "cita": "Impulsar la adquisición de nuevos vehículos, motocicletas e implementos para la Policía Nacional",
+    "pag": 17
+   }
+  ]
+ },
+ "metas": [
+  "Al 2031, 5 plantas de tratamiento de aguas residuales.",
+  "Al 2031, 100% de calles urbanas asfaltadas en zonas consolidadas.",
+  "Al 2031, 50% de vías rurales asfaltadas.",
+  "Al 2031, 100% de aceras y bordillos en las calles asfaltadas.",
+  "Al 2031, un Terminal Terrestre funcional."
+ ],
+ "notas": [
+  "Muchas obras no dicen cuánto cuestan ni de dónde sale el dinero. Varias dependen de un préstamo del BDE (banco público).",
+  "Incluye temas de Policía, salud y empleo que no son del Municipio. Varias obras no dicen dónde ni cuándo."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20
+ ],
+ "paginas": 20
+}

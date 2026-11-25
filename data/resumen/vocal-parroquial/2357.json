@@ -1,0 +1,132 @@
+{
+ "enfoque": "Plan del GAD parroquial de Guayllabamba: parques, caminos, ferias y ambiente. Muchas obras dependen de la Prefectura o del Municipio, y varias temas no son de la junta.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Hacer campañas de reforestación y recuperación de áreas verdes con entidades competentes.",
+    "que": "El plan dice que se harán campañas de reforestación y recuperación de áreas verdes. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta. El plan no dice con qué recursos.",
+    "cita": "Ejecutar campañas de reforestación y recuperación de áreas verdes en coordinación con entidades competentes.",
+    "pag": 8
+   },
+   {
+    "t": "Pedir nuevos puntos de recolección de basura y reducir botaderos clandestinos.",
+    "que": "El plan dice que se gestionarán nuevos puntos de recolección y acciones contra los botaderos clandestinos. No dice cuánto costará.",
+    "v": "media",
+    "n": "La junta solo puede gestionarlo. El plan no dice quién pone los recursos.",
+    "cita": "Gestionar la implementación de nuevos puntos de recolección y acciones para reducir los botaderos clandestinos.",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Mantener parques, canchas y casas comunales de forma permanente.",
+    "que": "El plan dice que se hará el mantenimiento de parques, canchas, casas comunales y espacios públicos. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Los parques sí le tocan a la junta. El plan no dice con qué dinero se pagará.",
+    "cita": "Gestionar el mantenimiento permanente de parques, canchas, casas comunales y demás espacios públicos.",
+    "pag": 5
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Mejorar caminos vecinales y vías estratégicas.",
+    "que": "El plan dice que se impulsará el mejoramiento de caminos vecinales y vías estratégicas. No dice qué caminos ni cuánto costará.",
+    "v": "media",
+    "n": "Los caminos se hacen junto con la Prefectura, no solo con la junta.",
+    "cita": "Impulsar el mejoramiento de caminos vecinales y vías estratégicas.",
+    "pag": 6
+   },
+   {
+    "t": "Hacer un sistema comunitario para revisar el estado de las vías.",
+    "que": "El plan dice que habrá un sistema comunitario para seguir el estado de las vías. No dice cuánto costará ni cuándo empieza.",
+    "v": "alta",
+    "n": "Es organizar a la comunidad, algo que sí le toca a la junta.",
+    "cita": "Implementar un sistema comunitario de seguimiento al estado de las vías.",
+    "pag": 6
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias permanentes para vender lo que producen emprendedores y productores.",
+    "que": "El plan dice que se fortalecerán las ferias permanentes de emprendimientos y productores locales. No dice dónde ni cuándo.",
+    "v": "alta",
+    "n": "Apoyar a productores sí le toca a la junta. El plan no dice dónde serán las ferias.",
+    "cita": "Fortalecer las ferias permanentes de emprendimientos y productores locales.",
+    "pag": 7
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas y mesas de trabajo con vecinos para decidir proyectos.",
+    "que": "El plan dice que habrá asambleas, mesas de trabajo y socialización de proyectos. No dice cuántas veces ni cuándo.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta.",
+    "cita": "Fortalecer los espacios de participación ciudadana mediante asambleas, mesas de trabajo y socialización de proyectos.",
+    "pag": 10
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Pedir alarmas y cámaras de vigilancia en sectores priorizados.",
+    "que": "El plan dice que se gestionarán sistemas de alarmas y videovigilancia. No dice en qué sectores ni cuánto costará.",
+    "v": "baja",
+    "n": "La seguridad no es competencia de la junta. La Policía no depende de ella.",
+    "cita": "Gestionar sistemas de alarmas y videovigilancia en sectores priorizados.",
+    "pag": 7
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Coordinar el fortalecimiento de los sistemas comunitarios de agua potable.",
+    "que": "El plan dice que la junta coordinará acciones con otras instituciones. No dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "baja",
+    "n": "El agua potable no le toca a la junta. Solo puede coordinar.",
+    "cita": "Coordinar el fortalecimiento de los sistemas comunitarios de agua potable.",
+    "pag": 6
+   }
+  ],
+  "social": [
+   {
+    "t": "Pedir brigadas médicas periódicas en barrios y comunidades.",
+    "que": "El plan dice que se gestionarán brigadas médicas en barrios y comunidades. No dice cuántas ni cuándo.",
+    "v": "baja",
+    "n": "La salud no es competencia de la junta. Solo puede pedir apoyo a quien sí le toca.",
+    "cita": "Gestionar brigadas médicas periódicas en barrios y comunidades.",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan promete agua potable, salud y seguridad, que no son competencia de la junta parroquial.",
+  "El plan no dice cuánto costará ninguna propuesta ni en qué plazo se hará. Casi todo es 'gestionar', es decir, pedir a otros."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22
+ ],
+ "paginas": 22
+}

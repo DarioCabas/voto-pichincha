@@ -1,0 +1,105 @@
+{
+ "enfoque": "Plan general para Pifo: cuidar el agua y el bosque, animales de la calle, apoyo a productores y cultura. Mucho está copiado del plan de desarrollo parroquial.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Crear una política parroquial para cuidar el agua, el suelo y los residuos",
+    "que": "El plan no dice qué acciones tendrá ni cuánto costará. Menciona contaminación de ríos y quebradas y manejo inadecuado de residuos.",
+    "v": "alta",
+    "n": "Cuidar el ambiente sí le toca a la junta. Falta saber qué acciones concretas tendrá.",
+    "cita": "desarrollar una política parroquial de protección del agua, conservación del suelo, restauración ecológica, manejo de residuos",
+    "pag": 9
+   },
+   {
+    "t": "Hacer programas de reforestación, porque el área de bosque es mínima",
+    "que": "El plan no dice dónde, cuántos árboles ni cuánto costará. Dice que el área con bosques es muy pequeña en la parroquia.",
+    "v": "alta",
+    "n": "Cuidar el ambiente sí le toca a la junta. El plan no dice dónde se plantará.",
+    "cita": "por lo que resulta prioritario fortalecer los programas de reforestación",
+    "pag": 16
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar a productores con sistemas de riego y cultivos bajo cubierta",
+    "que": "El plan no dice cuánto costará ni quién pagará. Dice que hay problemas con el agua para riego y el acceso a mercados.",
+    "v": "media",
+    "n": "Obras de riego grandes necesitan acuerdo con el Municipio o la Prefectura.",
+    "cita": "mediante sistemas de riego eficientes, producción bajo cubierta, agricultura",
+    "pag": 7
+   }
+  ],
+  "otros": [
+   {
+    "t": "Hacer campañas de esterilización y de tenencia responsable de perros y gatos",
+    "que": "El plan no dice cuántos animales se esterilizarán ni cuánto costará. Dice que los programas del Municipio ya hicieron esterilizaciones en Quito.",
+    "v": "media",
+    "n": "Las campañas dependen de programas del Municipio. Necesita acuerdo con ellos.",
+    "cita": "requiere acciones coordinadas de prevención, educación, esterilización, atención veterinaria y adopción responsable",
+    "pag": 18
+   },
+   {
+    "t": "Hacer programas permanentes de cultura, arte y promoción del turismo",
+    "que": "El plan no dice cuánto costará, quién los dará ni dónde se harán.",
+    "v": "alta",
+    "n": "Organizar actividades y cursos sí le toca a la junta. El plan no dice cuánto costará.",
+    "cita": "Existe la necesidad de impulsar programas permanentes de promoción cultural, formación artística y difusión turística",
+    "pag": 15
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Usar espacios de control social, como veedurías y mesas de trabajo",
+    "que": "El plan no dice cuándo ni cómo se harán. Lo presenta como forma de rendir cuentas a la ciudadanía.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta. El plan no dice con qué frecuencia.",
+    "cita": "Espacios de control social (observatorios, veedurías, mesas de trabajo, etc.)",
+    "pag": 20
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Coordinar planes de seguridad con la Policía y el Municipio",
+    "que": "El plan no dice qué hará la junta ni cuándo. Menciona a la Policía Nacional y al Gobierno Central.",
+    "v": "baja",
+    "n": "La policía no le toca a la junta, es de otro nivel.",
+    "cita": "Coordinar planes de seguridad ciudadana acordes con la realidad parroquial",
+    "pag": 20
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "Gran parte del texto es diagnóstico y copia de planes de otros niveles. Casi no dice cuánto costará ni cuándo se hará.",
+  "Varias propuestas (salud, educación, agua potable, policía) son de otros niveles de gobierno, no de la junta."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25
+ ],
+ "paginas": 25
+}

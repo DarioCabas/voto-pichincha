@@ -1,0 +1,127 @@
+{
+ "enfoque": "Plan de la parroquia: cuidar nacientes y ríos, arreglar caminos, apoyar a productores y turismo, rendir cuentas. Mucho es agua potable, que no le toca a la junta.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Poner límites y sembrar árboles nativos en nacientes, zonas de recarga y orillas de ríos y quebradas.",
+    "que": "El plan dice que se hará en nacientes, zonas de recarga, riberas del Río Pisque y quebradas principales. El plan no dice cuánto costará ni cuándo empieza.",
+    "v": "alta",
+    "n": "Le toca a la junta cuidar el ambiente. El plan no dice cuánto costará.",
+    "cita": "Delimitar y reforestar con especies nativas las fajas protectoras de nacientes, zonas de recarga y riberas del Río Pisque y quebradas principales.",
+    "pag": 9
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Cambiar tramos viejos de la red de agua para bajar las pérdidas al 15%.",
+    "que": "Se hará en los años 2 y 3. Meta: pérdidas al 15%. El plan no dice cuánto costará ni quién paga.",
+    "v": "baja",
+    "n": "El agua potable le toca a otro nivel de gobierno, no a la junta.",
+    "cita": "Renovar tramos críticos de redes de distribución para reducir las pérdidas de agua al 15%.",
+    "pag": 9
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer una lista de los atractivos turísticos naturales, culturales y paisajísticos de la parroquia.",
+    "que": "Se hará en el año 1. El plan no dice cuánto costará ni quién pagará el trabajo.",
+    "v": "alta",
+    "n": "Es un inventario que la junta puede hacer. El plan no dice el costo.",
+    "cita": "Inventariar y catastrar los atractivos turísticos naturales, culturales y paisajísticos de la parroquia.",
+    "pag": 10
+   },
+   {
+    "t": "Dar talleres a productores y ayudar a vender directo en ferias parroquiales.",
+    "que": "Se hará en los años 2 y 3: talleres de buenas prácticas agrícolas, ganaderas y poscosecha. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Ferias y talleres son trabajo que la junta puede organizar. El plan no dice el costo.",
+    "cita": "implementar talleres de buenas prácticas agrícolas, ganaderas y de poscosecha; apoyar la comercialización directa mediante ferias parroquiales",
+    "pag": 10
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer arreglos periódicos a las vías, con drenajes y alcantarillas en puntos críticos.",
+    "que": "Se hará en los años 2 y 3. El plan no dice cuánto costará. Para asfaltar vías de mayor jerarquía pide ayuda al Gobierno Provincial de Pichincha.",
+    "v": "media",
+    "n": "La vialidad es de la junta, pero el plan pide ayuda a la Prefectura. El plan no dice el costo.",
+    "cita": "Ejecutar mantenimiento periódico de vías; construir obras de drenaje, alcantarillas y mejoramiento de puntos críticos;",
+    "pag": 11
+   },
+   {
+    "t": "Formar un equipo parroquial de mantenimiento de caminos y organizar mingas comunitarias.",
+    "que": "Se hará en el año 1, con prioridad a los tramos que se elijan. El plan no dice cuánto costará ni cuántas personas tendrá el equipo.",
+    "v": "alta",
+    "n": "Mingas y equipo de caminos: trabajo comunitario que le toca a la junta.",
+    "cita": "conformar la cuadrilla parroquial de mantenimiento vial y coordinar mingas comunitarias.",
+    "pag": 11
+   },
+   {
+    "t": "Construir y arreglar paradas de bus con techo y señales.",
+    "que": "Se haría en los años 2 y 3. El plan no dice cuánto costará ni quién pagará.",
+    "v": "media",
+    "n": "Puede necesitar acuerdo con otro nivel de gobierno. El plan no dice el costo.",
+    "cita": "Construir y rehabilitar paradas de transporte con techado y señalización",
+    "pag": 11
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Elegir cada año, entre las comunidades, las obras que se harán.",
+    "que": "Se hace cada año durante todo el plan. El plan no dice cuánto dinero se repartirá.",
+    "v": "alta",
+    "n": "Le toca a la junta organizar a la comunidad. El plan no dice el monto.",
+    "cita": "Implementar el presupuesto participativo anual donde las comunidades definan las prioridades de inversión",
+    "pag": 11
+   },
+   {
+    "t": "Hacer cada año una audiencia pública para explicar el trabajo y el dinero gastado.",
+    "que": "Las preguntas se responden en el mismo acto o por escrito en no más de quince días. El plan no dice la fecha.",
+    "v": "alta",
+    "n": "Reunión pública anual que la junta puede organizar. El plan no dice el costo.",
+    "cita": "Se convocará y realizará de manera obligatoria una audiencia pública cada año,",
+    "pag": 12
+   }
+  ],
+  "otros": [
+   {
+    "t": "Hacer campañas anuales de esterilización y vacunación de animales.",
+    "que": "Se haría en los años 2, 3 y 4, con registro de mascotas y animales de producción. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "No está claro quién pagará las campañas. El plan no dice el costo.",
+    "cita": "Ejecutar campañas anuales de esterilización y vacunación masiva",
+    "pag": 10
+   }
+  ]
+ },
+ "metas": [
+  "Reducir las pérdidas de agua al 15% (años 2 y 3).",
+  "Dar asistencia técnica al menos al 70% de las familias productoras (años 2 y 3).",
+  "Hacer una audiencia pública de rendición de cuentas cada año.",
+  "Publicar un informe escrito de avance cada seis meses.",
+  "Hacer un presupuesto participativo cada año."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni cómo se pagará, salvo las fuentes generales de dinero.",
+  "Gran parte del plan es agua potable, que no le toca a la junta. La vocalía no puede cumplir esa parte."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15
+ ],
+ "paginas": 15
+}

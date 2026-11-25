@@ -1,0 +1,123 @@
+{
+ "enfoque": "Caminos, mingas, parques, apoyo a productores y asambleas en La Merced. También pide agua, salud y acuerdos con el Municipio, que no son de la junta. Casi no dice costos.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Planificar y mantener los caminos rurales de la parroquia.",
+    "que": "Planificar y mantener la vialidad parroquial y coordinar con el Municipio de Quito y la EPMAPS. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Caminos le tocan a la junta junto con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Planificar y mantener la vialidad parroquial, articulando con el Municipio de Quito y la EPMAPS",
+    "pag": 3
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar las redes de agua potable y alcantarillado en La Cocha, Santa Ana y Praderas del Llaló.",
+    "que": "El plan dice que se hará con el Municipio y la EPMAPS, dando prioridad a esos sectores. No dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Agua y alcantarillado no le tocan a la junta: le toca a la EPMAPS y al Municipio.",
+    "cita": "la expansión de las redes de agua potable y alcantarillatio",
+    "pag": 3
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Organizar mingas para limpiar cauces, quitar escombros y sembrar plantas nativas en riberas y el Llaló.",
+    "que": "Mingas comunitarias para limpiar cauces, sacar escombros y sembrar plantas nativas. Está en el año 1 del plan. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar mingas con la comunidad sí le toca a la junta.",
+    "cita": "reforestación de riberas y del llaló con vegetación nativa.",
+    "pag": 4
+   },
+   {
+    "t": "Dar composteras comunitarias y cursos de reciclaje para separar residuos orgánicos.",
+    "que": "Compra de composteras comunitarias y cursos permanentes sobre reciclaje en la fuente. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Comprar composteras cuesta dinero y el plan no dice de dónde sale.",
+    "cita": "Adquisición y dotación de composteras comunitarias junto con jornadas permanentes de capacitación",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Reparar canchas y poner mobiliario infantil en parques y espacios públicos y deportivos.",
+    "que": "Mantenimiento de canchas, luces LED y juegos infantiles en espacios públicos y deportivos. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Parques y espacios de la parroquia sí le tocan a la junta.",
+    "cita": "reparación de canchas y mobiliario infontil en espacios",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Mejorar el Centro de Salud parroquial y los equipamientos de casas barriales.",
+    "que": "El plan pide a la junta gestionar y mejorar el Centro de Salud y las casas barriales. No dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "La salud no le toca a la junta. Es competencia de otro nivel.",
+    "cita": "Gestionar y mejorar el Centro de Salud parroquial y los",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar a productores con producción agroecológica y turismo comunitario en la parroquia.",
+    "que": "Alianzas con universidades para talleres, una marca parroquial y rutas de turismo rural. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Apoyar productores sí le toca a la junta. Las alianzas con universidades habría que armarlas.",
+    "cita": "Fomentar el agroturismo comunitario y la producción agroecológica mediante",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas en los barrios cada seis meses para revisar el trabajo de la junta.",
+    "que": "Las asambleas se harán en barrios y comunas para que la gente no tenga que viajar. El plan no dice cuánto cuestan.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta.",
+    "cita": "Asambleas Ciudadanas Parroquiales itinerantes: Se institucionalizará la convocatoria semestral",
+    "pag": 6
+   },
+   {
+    "t": "Decidir en asambleas públicas el uso de todo el dinero de inversión de la junta.",
+    "que": "El 100% de los fondos legales de la junta para inversión se decide en deliberaciones públicas. El plan no dice cuánto suma.",
+    "v": "alta",
+    "n": "Le toca a la junta, pero según la ley del cargo es poco dinero.",
+    "cita": "los fondos asignados legalmente a la Junta Parroquial para proyectos de Inversión",
+    "pag": 6
+   },
+   {
+    "t": "Crear una página web para publicar cada tres meses lo que hace la junta.",
+    "que": "Libre acceso con sesiones de la junta y avance del plan publicados cada trimestre. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Publicar cuentas sí le toca a la junta. El plan no dice quién paga la página.",
+    "cita": "Se implementará un sitio web de libre acceso",
+    "pag": 6
+   }
+  ]
+ },
+ "metas": [
+  "Cumplir el plan en los próximos 4 años.",
+  "Hacer asambleas en los barrios cada seis meses (semestral).",
+  "Publicar en internet cada tres meses (trimestral) lo que hace la junta.",
+  "Que el 20% de los hogares separe residuos orgánicos.",
+  "Decidir el 100% de los fondos de inversión de la junta en asambleas públicas."
+ ],
+ "notas": [
+  "Muchas propuestas son de agua, salud o del Municipio, que no le tocan a la junta. Casi no dice cuánto cuesta cada obra.",
+  "Parte del texto no se lee bien, así que algunas metas o fechas podrían no estar bien leídas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "paginas": 9
+}

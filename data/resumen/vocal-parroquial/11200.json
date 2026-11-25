@@ -1,0 +1,127 @@
+{
+ "enfoque": "Plan general de la parroquia: vías con la Prefectura, apoyo a productores, cuidado del ambiente, espacios públicos y reuniones con vecinos. Gran parte es copia de planes de desarrollo.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Hacer gestiones con el Municipio para cuidar quebradas y áreas naturales.",
+    "que": "El plan dice que se harán gestiones con el Municipio para proteger y manejar quebradas y áreas naturales. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio. El plan no dice cuánto costará.",
+    "cita": "Realizar gestiones con el municipio para la protección y manejo de quebradas y áreas naturales.",
+    "pag": 9
+   },
+   {
+    "t": "Incluir cuidado ambiental en los emprendimientos productivos de la parroquia.",
+    "que": "El plan dice que se promoverán estrategias ambientales en las iniciativas productivas de la parroquia. No dice cómo ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta y cuesta poco. El plan no dice cómo lo hará.",
+    "cita": "Promoción de estrategias ambientales en las iniciativas productivas de la parroquia.",
+    "pag": 9
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer talleres cada año con vecinos para escoger las obras de vías.",
+    "que": "Talleres cada año con la ciudadanía y las organizaciones sociales para elegir las obras viales. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta: organizar talleres cuesta poco.",
+    "cita": "Talleres con la ciudadanía y las organizaciones sociales para la priorización anual de las obras viales",
+    "pag": 8
+   },
+   {
+    "t": "Reunirse cada tres meses con la Prefectura para acordar arreglos de vías.",
+    "que": "Reuniones trimestrales con la Prefectura para acordar cronogramas de mantenimiento vial y qué vías recibirán mantenimiento periódico. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca a la Prefectura. La junta solo puede pedir y acordar.",
+    "cita": "Reuniones trimestrales con la Prefectura de Pichincha para acordar los cronogramas de mantenimiento vial",
+    "pag": 8
+   },
+   {
+    "t": "Gestionar en la Prefectura los estudios de las vías priorizadas por la parroquia.",
+    "que": "El plan dice que se harán gestiones en la Prefectura para incluir los estudios y la obra de las vías priorizadas. No dice plazos ni costos.",
+    "v": "media",
+    "n": "Le toca a la Prefectura. La junta solo gestiona.",
+    "cita": "Gestiones en la Prefectura de Pichincha para incluir los estudios",
+    "pag": 8
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Organizar actividades deportivas y culturales en el espacio público.",
+    "que": "Se organizarán actividades deportivas y culturales para usar el espacio público de la parroquia. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Parques y espacios son de la junta; organizar actividades cuesta poco.",
+    "cita": "Promoción del uso del espacio público parroquial mediante la organización de",
+    "pag": 8
+   },
+   {
+    "t": "Construir y mantener la infraestructura que vecinos prioricen.",
+    "que": "El plan dice que se construirá y mantendrá la infraestructura física que la ciudadanía priorice en el plan de desarrollo. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio. El plan no dice cuánto costará ni cómo se pagará.",
+    "cita": "Construcción y mantenimiento de la infraestructura física priorizada por la ciudadanía",
+    "pag": 8
+   }
+  ],
+  "economia": [
+   {
+    "t": "Asesorar a productores para llevar sus productos a ferias.",
+    "que": "Se asesorará a los productores para participar en ferias a nivel local, nacional e internacional. El plan no dice cuántas ferias ni cuánto costará.",
+    "v": "alta",
+    "n": "Asesorar a productores le toca a la junta. El plan no dice quién paga las ferias.",
+    "cita": "Asesoramiento a los productores de la parroquia para participar en ferias productivas",
+    "pag": 9
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una rendición de cuentas al año, en asamblea y en la página web.",
+    "que": "Cada año se consultará a la ciudadanía, habrá una asamblea y el informe final se pondrá en la página web de la Junta. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta. Es una asamblea al año.",
+    "cita": "la Junta Parroquial realizará su rendición de cuentas",
+    "pag": 8
+   },
+   {
+    "t": "Escoger obras según cinco reglas y solo si el dinero ya está asegurado.",
+    "que": "Las obras se escogen por prioridad, número de beneficiarios, participación de vecinos, impacto ambiental y dinero asegurado antes de empezar.",
+    "v": "media",
+    "n": "Depende del presupuesto del Municipio. El plan no dice cuánto costará las obras.",
+    "cita": "exigirá la viabilidad técnica y financiera, lo que significa que los proyectos preseleccionados deberán contar con estudios",
+    "pag": 11
+   }
+  ]
+ },
+ "metas": [
+  "Reuniones con la Prefectura cada tres meses para acordar el mantenimiento de vías.",
+  "Reuniones con organizaciones sociales cada seis meses para seguir el plan.",
+  "Asamblea de rendición de cuentas una vez al año.",
+  "Talleres cada año para elegir las obras viales.",
+  "Plan de trabajo para los años 2027 a 2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Gran parte es copia de planes de desarrollo y habla del Municipio y la Prefectura; varias propuestas no son de la junta."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17
+ ],
+ "paginas": 17
+}

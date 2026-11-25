@@ -1,0 +1,134 @@
+{
+ "enfoque": "Plan copiado del plan de la parroquia Alóag, dice ser para alcalde. Propone cuidar quebradas y bosques, fiestas, ordenar comercio y rendir cuentas.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Hacer planes de alcantarillado y agua potable para la parroquia.",
+    "que": "El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Agua potable y alcantarillado le tocan a otro nivel, no a la junta.",
+    "cita": "Necesidad de planes maestros de alcantarillado y agua potable.",
+    "pag": 20
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Retomar el proyecto para tratar los desechos de la parroquia.",
+    "que": "El plan no dice cuánto costará ni cuándo. La recolección de basura del cantón la hace la Municipalidad.",
+    "v": "media",
+    "n": "La basura la recoge la Municipalidad; la junta necesita acuerdo con ella.",
+    "cita": "Retomar el proyecto de tratamiento de los desechos.",
+    "pag": 19
+   },
+   {
+    "t": "Recuperar quebradas y riberas, y revisar descargas de alcantarillado.",
+    "que": "Meta: el 20% de las quebradas trabajadas hasta diciembre de 2031. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Pide acuerdos con otras entidades, como el Ministerio de Ambiente.",
+    "cita": "Recuperación de las quebradas y riberas. Analizar las descargas directas de alcantarillado.",
+    "pag": 19
+   },
+   {
+    "t": "Dar seguimiento a las jornadas de reforestación de la parroquia.",
+    "que": "Meta: 2 jornadas de reforestación al año. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Son mingas y siembras, algo que la junta puede organizar.",
+    "cita": "La reforestación debe tener seguimiento o apadrinamiento. La frontera agrícola debe tener un tratamiento especial.",
+    "pag": 19
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Pedir que el 911 no esté solo en Machachi.",
+    "que": "El plan dice que el tiempo de respuesta es alto. No dice cuánto costará.",
+    "v": "baja",
+    "n": "La seguridad y el 911 le tocan a otro nivel, no a la junta.",
+    "cita": "Descentralización del proyecto de seguridad 911. que no solo sea en machachi porque el tiempo de respuesta es alto.",
+    "pag": 18
+   }
+  ],
+  "social": [
+   {
+    "t": "Fomentar las fiestas tradicionales de la parroquia.",
+    "que": "El plan dice que las fiestas mueven la economía. No dice cuánto costará ni quién las organiza.",
+    "v": "alta",
+    "n": "Organizar fiestas con la comunidad sí le toca a la junta.",
+    "cita": "Fomentar las fiestas tradicionales ya que se dinamiza la economía",
+    "pag": 18
+   }
+  ],
+  "economia": [
+   {
+    "t": "Ordenar el comercio local, porque hay vendedores informales desde la pandemia.",
+    "que": "El plan no dice cuánto costará ni cómo se hará.",
+    "v": "media",
+    "n": "Los permisos municipales son del Municipio, no de la junta.",
+    "cita": "Fomentar el orden del comercio local ya que desde la pandemia existe comercio informal.",
+    "pag": 18
+   },
+   {
+    "t": "Hacer un proyecto de aguas termales frente al Fuerte Atahualpa.",
+    "que": "El plan no dice cuánto costará, quién lo paga ni cuándo.",
+    "v": "baja",
+    "n": "Es una obra grande, sin costo ni plazo en el plan.",
+    "cita": "Generara el proyecto de aguas termales, frente al Fuerte Atahualpa.",
+    "pag": 18
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Explicar a la comunidad los compromisos del plan, en reuniones.",
+    "que": "El plan no dice cuánto costará. Dice que se hará con participación ciudadana.",
+    "v": "alta",
+    "n": "Reunir a la gente y explicar lo que se hace es tarea de la junta.",
+    "cita": "Socializar con los actores sociales a través de procesos de participación ciudadana, los compromisos asumidos con la comunidad.",
+    "pag": 21
+   },
+   {
+    "t": "Dar un informe anual de cuentas y una audiencia pública cada año.",
+    "que": "El plan fija una audiencia pública al año, la primera en marzo. Son 5 audiencias en total.",
+    "v": "alta",
+    "n": "Rendir cuentas de la gestión sí le toca a la junta.",
+    "cita": "Informes anuales de rendición de cuentas sobre la gestión municipal.",
+    "pag": 22
+   }
+  ]
+ },
+ "metas": [
+  "20% de las quebradas de la parroquia, recuperadas o protegidas hasta diciembre de 2031.",
+  "2 jornadas de reforestación al año.",
+  "4 ferias de comercialización al año.",
+  "Audiencia pública de rendición de cuentas: 1 al año, y 1 final en marzo de 2031.",
+  "1 centro de capacitación parroquial."
+ ],
+ "notas": [
+  "Texto copiado del plan de la parroquia Alóag; dice ser para alcalde. Casi no da costos ni fechas.",
+  "Varias propuestas (agua, alcantarillado, seguridad, 911) le tocan a otro nivel, no a la junta.",
+  "Plan muy largo (37 págs.): se resumieron las 21 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  3,
+  4,
+  5,
+  7,
+  8,
+  10,
+  11,
+  14,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  28,
+  34,
+  35
+ ],
+ "paginas": 37
+}

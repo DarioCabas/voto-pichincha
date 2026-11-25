@@ -1,0 +1,114 @@
+{
+ "enfoque": "Plan de la lista ADN: cuidar agua, bosques y miradores, apoyar productores y turismo, y obras viales que dependen del Municipio.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Proteger y conservar fuentes de agua, bosques y ecosistemas con control y participación de la comunidad.",
+    "que": "El plan no dice qué zonas, cuánto costará ni cuándo. Habla de acciones coordinadas, sin decir con quién.",
+    "v": "media",
+    "n": "Cuidar el ambiente sí le toca a la junta, pero el control necesita coordinar con otras entidades.",
+    "cita": "Proteger y conservar las fuentes de agua, bosques y ecosistemas estratégicos, mediante acciones coordinadas de control, manejo sostenible y participación comunitaria.",
+    "pag": 2
+   },
+   {
+    "t": "Plantar especies nativas en zonas degradadas, en un programa de reforestación masiva.",
+    "que": "El plan no dice en qué zonas, cuántos árboles, cuánto costará ni cuándo se hará.",
+    "v": "alta",
+    "n": "Sembrar árboles y organizar a la gente sí le toca a la junta.",
+    "cita": "Programa de reforestación masiva con especies nativas en zonas degradadas.",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Acondicionar miradores turísticos y senderos de trekking.",
+    "que": "El plan no dice qué miradores ni senderos, cuánto costará ni cuándo se hará.",
+    "v": "alta",
+    "n": "Espacios turísticos de la parroquia sí le tocan a la junta, con poco presupuesto.",
+    "cita": "Acondicionamiento técnico de miradores turísticos y senderos de trekking.",
+    "pag": 5
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Pavimentar y poner adoquín en vías de acceso al casco central de la parroquia.",
+    "que": "Obra en las vías de acceso al centro de Uyumbicho. El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "media",
+    "n": "Obra grande. La junta cuida caminos con la Prefectura; el plan no dice quién la paga.",
+    "cita": "Pavimentación y adoquín en vías de acceso al casco central de la parroquia.",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer programas de inclusión social para mujeres, jóvenes y adultos mayores.",
+    "que": "El plan no dice qué programas, cuántas personas, cuánto costará ni cuándo empiezan.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta.",
+    "cita": "Implementar programas de inclusión social y participación, orientados a mujeres, jóvenes y personas adultas mayores",
+    "pag": 2
+   },
+   {
+    "t": "Adecuar un centro comunitario para adultos mayores.",
+    "que": "El plan no dice dónde ni cuánto costará. No dice quién pondrá el dinero ni cuándo estará listo.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Alcaldía; el plan no dice cómo se pagará.",
+    "cita": "Adecuación de un centro comunitario desconcentrado para el adulto mayor.",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar emprendimientos comunitarios y asociativos con ayuda de instituciones del Estado.",
+    "que": "Da prioridad a negocios en grupo de la comunidad. El plan no dice cuánto costará, cuándo ni qué ayuda concreta.",
+    "v": "media",
+    "n": "Apoyar productores sí le toca, pero la ayuda financiera la dan instituciones del Estado.",
+    "cita": "Impulsar emprendimientos comunitarios y asociativos, priorizando iniciativas de economía popular y solidaria",
+    "pag": 2
+   },
+   {
+    "t": "Promover el turismo comunitario sostenible basado en la cultura y la naturaleza de Uyumbicho.",
+    "que": "El plan no dice qué lugares ni cuánto costará. Dice que daría ingresos y empleo local.",
+    "v": "alta",
+    "n": "Organizar a la comunidad para el turismo sí le toca a la junta.",
+    "cita": "Promover el turismo comunitario sostenible, basado en la identidad cultural de Uyumbicho",
+    "pag": 2
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Gestionar con el Municipio y la Prefectura obras de escuelas, salud y agua potable.",
+    "que": "El plan no dice cuánto costarán, cuándo se harán ni quién las pagará.",
+    "v": "baja",
+    "n": "Escuelas, salud y agua no le tocan a la junta. Le toca a otro nivel.",
+    "cita": "Promover y gestionar proyectos con las Instituciones como la el GAD Municipal y GAD Provincial",
+    "pag": 2
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Explicar a la comunidad el presupuesto de la junta: qué se asigna, invierte y gasta.",
+    "que": "Dice que se hará con asambleas y que la gente decidirá en qué gastar. El plan no dice cada cuánto ni cuándo.",
+    "v": "alta",
+    "n": "Informar a la gente sobre el dinero sí le toca a la junta.",
+    "cita": "Socializar de manera clara y detallada el presupuesto parroquial, explicando las asignaciones, inversiones y gastos ejecutados.",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "Plan único para los cinco precandidatos. No dice quién de ellos hará cada cosa.",
+  "No dice cuánto cuesta ninguna obra ni cuándo se hará. Varias obras son de salud, escuelas y agua, que no le tocan a la junta."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "paginas": 6
+}

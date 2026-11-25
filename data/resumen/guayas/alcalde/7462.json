@@ -1,0 +1,146 @@
+{
+ "enfoque": "Propone agua, basura, alcantarillado, caminos rurales, tránsito, parques, mercados y prevención de riesgos. Muchas metas dependen de ministerios o préstamos y casi no dicen cuánto cuestan.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Gestionar la construcción del sistema de agua potable del cantón",
+    "que": "Busca que más personas tengan agua segura al 2031 y que el sistema funcione al 100% al tercer año. Dinero: recursos propios, Banco de Desarrollo del Ecuador y ayuda externa. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende del Ministerio del Ambiente y de préstamos. El plan no dice cuánto costará.",
+    "cita": "Gestionar la construcción del Sistema Integral de Agua Potable en el cantón, en coordinación con el Ministerio del Ambiente, Agua y Transición Ecológica (MAATE),",
+    "pag": 18
+   },
+   {
+    "t": "Mejorar el manejo de la basura del cantón",
+    "que": "Quiere subir del 70,3% al 80% la basura no peligrosa que se desecha bien, al 2031. Dinero: recursos propios, con apoyo del Banco de Desarrollo del Ecuador. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "La basura sí es del Municipio. El plan no dice cuánto costará.",
+    "cita": "para incrementar del 70,3% al 80% la disposición final adecuada de los residuos sólidos no peligrosos al 2031",
+    "pag": 20
+   },
+   {
+    "t": "Mejorar el alcantarillado y el saneamiento de la ciudad y el campo",
+    "que": "Busca que el sistema funcione al 60% en el centro del cantón y al 20% en el campo al cuarto año. Dinero: recursos propios y Banco de Desarrollo del Ecuador. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "El alcantarillado es del Municipio, pero depende de préstamos. El plan no dice cuánto costará.",
+    "cita": "alcanzando un funcionamiento del 60% en la cabecera cantonal y del 20% en el sector rural al finalizar el cuarto año de administración",
+    "pag": 20
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar y mantener caminos rurales de recintos y parroquias",
+    "que": "Busca sumar 25 km de caminos con buenas condiciones al 2031 y mantenerlos. Se hace con convenios con el Gobierno Provincial del Guayas. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Los caminos rurales dependen de la Prefectura. El Municipio solo los puede pedir y coordinar.",
+    "cita": "Gestionar con el titular de la competencia la reconstrucción y mantenimiento de la vialidad rural en los recintos y parroquias del cantón,",
+    "pag": 19
+   },
+   {
+    "t": "Hacer programas de educación vial para evitar accidentes de tránsito",
+    "que": "Se haría con colegios y organizaciones sociales. Las normas de tránsito las revisa la Comisión de Tránsito del Ecuador. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "El tránsito sí es del Municipio. El plan no dice cuánto costará.",
+    "cita": "Implementar programas de educación vial y prevención de accidentes de tránsito en coordinación con instituciones educativas y organizaciones sociales,",
+    "pag": 24
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir o arreglar parques y plazas para adultos mayores",
+    "que": "Incluye parques, plazas y áreas recreativas para adultos mayores. Se haría con convenios con el Ministerio de Desarrollo Urbano y Vivienda. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Parques y plazas son del Municipio. El plan no dice dónde ni cuánto costará.",
+    "cita": "Construir, rehabilitar y adecuar centros de atención, parques, plazas, áreas recreativas y espacios comunitarios destinados a las personas adultas mayores.",
+    "pag": 25
+   },
+   {
+    "t": "Actualizar las reglas para controlar construcciones y urbanizaciones",
+    "que": "Busca controlar construcciones, urbanizaciones y divisiones de terrenos, y reducir los barrios sin permiso. El plan no dice cuándo se hará ni cuánto costará.",
+    "v": "alta",
+    "n": "El control de construcciones y del uso del suelo es del Municipio.",
+    "cita": "Actualizar ordenanzas y procedimientos municipales relacionados con control urbano, fraccionamiento, urbanizaciones y ocupación del territorio.",
+    "pag": 31
+   }
+  ],
+  "economia": [
+   {
+    "t": "Construir o arreglar mercados y ferias del cantón",
+    "que": "El plan primero pide identificar sitios para mercados, ferias y centros de venta. El plan no dice dónde ni cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Los mercados sí son del Municipio. Falta saber dónde y cuánto.",
+    "cita": "Identificar y priorizar espacios estratégicos para la construcción, rehabilitación o repotenciación de centros de comercialización, mercados, ferias y plataformas",
+    "pag": 26
+   }
+  ],
+  "otros": [
+   {
+    "t": "Hacer obras de protección y canales de desagüe en zonas de alto riesgo",
+    "que": "Incluye obras contra inundaciones y derrumbes, y estudios de zonas peligrosas. El plan no dice dónde ni cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Prevenir desastres sí es del Municipio. El plan no dice cuánto costará.",
+    "cita": "Implementar medidas de mitigación en zonas de alto riesgo mediante la construcción o mejoramiento de obras de protección, drenajes, encauzamientos y estabilización de taludes.",
+    "pag": 24
+   }
+  ]
+ },
+ "metas": [
+  "Agua segura: más población con acceso al 2031, y sistema funcionando al 100% al tercer año de gestión.",
+  "Basura: subir del 70,3% al 80% la disposición final adecuada de residuos no peligrosos al 2031.",
+  "Alcantarillado: funcionando al 60% en el centro del cantón y al 20% en el campo al cuarto año.",
+  "Caminos rurales: 25 km más con buenas condiciones al 2031.",
+  "Riesgos: avance del 20% al cuarto año de gestión."
+ ],
+ "notas": [
+  "Muchas propuestas dependen de ministerios, la Prefectura o préstamos. Casi ninguna dice cuánto costará.",
+  "Parte del texto repite el plan de desarrollo del cantón y propone salud, educación y empleo, que no son del Municipio.",
+  "Plan muy largo (63 págs.): se resumieron las 43 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  16,
+  18,
+  19,
+  20,
+  21,
+  22,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  45,
+  46,
+  47,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  61,
+  62
+ ],
+ "paginas": 63
+}

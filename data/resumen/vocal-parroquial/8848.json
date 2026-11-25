@@ -1,0 +1,123 @@
+{
+ "enfoque": "Plan de la parroquia El Chaupi: caminos, alumbrado, parques, productores y turismo. Casi todo es pedir a otras instituciones y no dice costos. Parece copiado del plan de desarrollo parroquial.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Gestionar el mantenimiento periódico de las vías rurales.",
+    "que": "Pedir el arreglo de caminos rurales a la Prefectura o al Municipio. El plan no dice qué caminos ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura (gobierno de la provincia) o el Municipio.",
+    "cita": "Gestionar el mantenimiento periódico de las vías rurales.",
+    "pag": 7
+   },
+   {
+    "t": "Pedir obras de cunetas, alcantarillas y drenajes para la época de lluvia.",
+    "que": "El plan no dice qué tramos, cuánto costará ni cuándo se hará.",
+    "v": "media",
+    "n": "Obra grande: necesita acuerdo con la Prefectura o el Municipio.",
+    "cita": "Gestionar la construcción y mantenimiento de cunetas, alcantarillas y sistemas de drenaje.",
+    "pag": 8
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Pedir instalar y ampliar el alumbrado público en barrios sin luz.",
+    "que": "El plan no dice qué barrios, cuánto costará ni cuándo se hará.",
+    "v": "media",
+    "n": "Le toca al Municipio y a la empresa eléctrica; la junta solo gestiona.",
+    "cita": "Gestionar la instalación y ampliación del alumbrado público en barrios que aún no cuentan con iluminación.",
+    "pag": 7
+   },
+   {
+    "t": "Recuperar parques, áreas recreativas y deportivas de la parroquia.",
+    "que": "El plan no dice cuáles ni cuánto costará. Busca que la gente conviva más en ellos.",
+    "v": "alta",
+    "n": "Parques y espacios de la parroquia sí son trabajo de la junta.",
+    "cita": "Recuperar y fortalecer los espacios públicos, parques, áreas recreativas y deportivas",
+    "pag": 7
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Pedir cámaras de vigilancia y alarmas comunitarias.",
+    "que": "El plan no dice dónde ni cuánto costará. Lo haría junto con otras entidades.",
+    "v": "baja",
+    "n": "La policía y la seguridad no le tocan a la junta; solo puede pedirlo.",
+    "cita": "Gestionar la implementación de cámaras de video vigilancia y alarmas comunitarias",
+    "pag": 7
+   }
+  ],
+  "economia": [
+   {
+    "t": "Pedir proyectos para mejorar y ampliar los sistemas de riego.",
+    "que": "El plan no dice dónde ni cuánto costará. Lo haría con la Prefectura y el Ministerio de Agricultura (MAG).",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura, el Municipio o ministerios.",
+    "cita": "Gestionar proyectos de mejoramiento y ampliación de sistemas de riego.",
+    "pag": 9
+   }
+  ],
+  "otros": [
+   {
+    "t": "Organizar festivales y encuentros para rescatar las tradiciones de la parroquia.",
+    "que": "El plan no dice cuántos ni cuánto costará ni cuándo se harán.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es trabajo de la junta y cuesta poco.",
+    "cita": "Organizar festivales, encuentros culturales y actividades que rescaten las tradiciones de la parroquia.",
+    "pag": 10
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una lista de proyectos para pedir recursos a otras instituciones.",
+    "que": "El plan no dice cuándo estará lista ni cuánto costará. Sirve para buscar dinero afuera.",
+    "v": "alta",
+    "n": "Trabajo de escritorio de la junta; cuesta poco.",
+    "cita": "Elaborar un banco de proyectos para la gestión de recursos.",
+    "pag": 12
+   },
+   {
+    "t": "Hacer reuniones con la comunidad para decidir qué obras son prioridad.",
+    "que": "El plan no dice cuántas reuniones habrá ni cuándo.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es trabajo de la junta.",
+    "cita": "Promover asambleas comunitarias para la priorización de obras y proyectos.",
+    "pag": 12
+   },
+   {
+    "t": "Vigilar las obras que se hacen en la parroquia.",
+    "que": "El plan no dice cada cuánto se revisarán. Incluye obras de cualquier nivel de gobierno.",
+    "v": "alta",
+    "n": "Vigilar es función de la junta; no ejecuta las obras.",
+    "cita": "Dar seguimiento a las obras que se ejecutan en la parroquia.",
+    "pag": 2
+   }
+  ]
+ },
+ "metas": [
+  "Plan para los años 2027 a 2030.",
+  "Informe anual de rendición de cuentas ante la ciudadanía, en audiencia pública."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero. Casi todo depende de pedir a otras instituciones.",
+  "No da plazos por propuesta. Solo indica el período 2027–2030 y un informe anual de cuentas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14
+ ],
+ "paginas": 14
+}

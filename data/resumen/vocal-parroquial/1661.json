@@ -1,0 +1,120 @@
+{
+ "enfoque": "Plan copiado en gran parte del plan de la ciudad. Propone arreglar caminos, mingas, basura, parques y decidir el dinero en asambleas. Casi no dice cuánto costará.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar caminos vecinales y vías rurales internas con bacheo, adoquinado y mantenimiento.",
+    "que": "Plan de arreglo de caminos en el año 1, junto con el Municipio y la Prefectura. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Caminos: la junta puede cuidarlos con la Prefectura. El plan no dice cuánto cuesta.",
+    "cita": "Ejecución de un plan emergente de bacheo, adoquinado y mantenimiento preventivo de la",
+    "pag": 6
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer mingas para limpiar quebradas, quitar escombros y sembrar árboles nativos en las orillas.",
+    "que": "Trabajo comunitario en el año 1. El plan no dice cuántas mingas hará ni cuánto costará.",
+    "v": "alta",
+    "n": "Mingas y limpieza de quebradas: trabajo que le toca a la junta.",
+    "cita": "Organización de mingas comunitarias coordinadas para la limpieza de cauces, retiro",
+    "pag": 6
+   },
+   {
+    "t": "Dar composteras comunitarias y cursos sobre separar y reciclar basura.",
+    "que": "Se haría en el año 2. El plan no dice dónde se instalarán ni cuánto costarán las composteras.",
+    "v": "media",
+    "n": "Comprar composteras cuesta dinero. El plan no dice de dónde saldrá.",
+    "cita": "Adquisición y dotación de composteras comunitarias junto con jornadas permanentes de capacitación",
+    "pag": 7
+   }
+  ],
+  "social": [
+   {
+    "t": "Abrir un centro cultural y dar atención de salud y refuerzo escolar.",
+    "que": "Se abriría el primer centro en el año 2. El plan no dice dónde ni cuánto costará.",
+    "v": "baja",
+    "n": "Salud y escuelas le tocan a otro nivel, no a la junta.",
+    "cita": "Apertura y puesta en marcha del primer Centro Parroquial Cultural, Atención de Salud Comunitaria y Refuerzo Escolar.",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar y equipar casas barriales y sedes comunales, y ayudar a legalizarlas.",
+    "que": "Se haría en el año 2. Son locales propiedad de la junta. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Son sedes de la junta, pero el plan no dice cuánto cuesta.",
+    "cita": "Adecuación física, equipamiento integral y readecuación de casas barriales o",
+    "pag": 7
+   },
+   {
+    "t": "Arreglar canchas y juegos infantiles, y poner luces LED en parques.",
+    "que": "Se haría en el año 3, en parques y centros deportivos. El plan no dice cuánto costará ni quién pone las luces.",
+    "v": "media",
+    "n": "Parques y canchas sí son de la junta. Las luces pueden necesitar acuerdo con el Municipio.",
+    "cita": "Obras de mantenimiento, instalación de luminarias LED, reparación de canchas y mobiliario infantil",
+    "pag": 7
+   },
+   {
+    "t": "Ordenar el comercio informal y poner parqueaderos en la calle.",
+    "que": "El plan lo propone, pero no dice dónde ni cuándo. Tampoco dice cuánto costará.",
+    "v": "baja",
+    "n": "Le toca al Municipio, no a la junta.",
+    "cita": "reorganización del comercio informal y la implementación de parqueaderos en la vía pública",
+    "pag": 5
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Decidir el dinero de obras con votación en asambleas de barrios y comunas.",
+    "que": "Todo el dinero de inversión de la junta se decide en asambleas con delegados. El plan no dice cuánto es.",
+    "v": "alta",
+    "n": "Le toca a la junta. Depende de cuánto dinero reciba.",
+    "cita": "100% de los fondos asignados legalmente a la Junta Parroquial de El Quinche para proyectos de inversión será discutido, priorizado y",
+    "pag": 9
+   },
+   {
+    "t": "Hacer asambleas cada tres meses en barrios y comunas para informar gastos.",
+    "que": "Reuniones trimestrales itinerantes para informar sobre obras y dinero, sin que la gente viaje al centro.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es tarea de la junta.",
+    "cita": "convocatoria trimestral a Asambleas de carácter itinerante en los",
+    "pag": 9
+   },
+   {
+    "t": "Crear una página web de libre acceso con las sesiones de la junta y el avance de las obras.",
+    "que": "Se publicarán cada trimestre las sesiones de la junta y el cumplimiento del plan. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "La junta puede publicarlo. El plan no dice quién paga la página.",
+    "cita": "Se implementará un sitio web de libre acceso que fungirá como repositorio",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Asambleas de rendición de cuentas cada tres meses.",
+  "Año 2: que una quinta parte de comercios y viviendas de la cabecera separen sus residuos orgánicos.",
+  "Año 4: evaluación final y rendición de cuentas del plan."
+ ],
+ "notas": [
+  "Gran parte del texto es copia del plan de la ciudad de Quito. Muchas propuestas le tocan al Municipio, no a la junta.",
+  "El plan casi no dice cuánto costará cada propuesta ni de dónde saldrá el dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "paginas": 12
+}

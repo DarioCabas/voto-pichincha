@@ -1,0 +1,129 @@
+{
+ "enfoque": "Sigue los programas de la administración actual: parques, caminos, apoyo a productores, reforestación y reuniones con los barrios.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer reuniones cada seis meses con barrios y organizaciones para decidir necesidades de caminos.",
+    "que": "El plan dice que habrá reuniones semestrales, es decir cada seis meses, para ver necesidades y seguir los proyectos de arreglo de vías. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Reunirse con los vecinos sí le toca a la junta.",
+    "cita": "Realizar espacios semestrales de socialización y priorización con los barrios Y organizaciones",
+    "pag": 6
+   },
+   {
+    "t": "Pedir al Municipio y a la Prefectura que incluyan los arreglos de caminos en sus planes.",
+    "que": "El plan dice que trabajará junto con la Prefectura de Pichincha y el Municipio de Mejía para incluir arreglos de vías en sus planes. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Las vías las arreglan el Municipio y la Prefectura, no la junta.",
+    "cita": "Trabajar articuladamente con el Gobierno Provincial de Pichincha y el GAD Municipal de Mejía para",
+    "pag": 6
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Dar campañas de educación sobre temas ambientales y el cuidado de los recursos naturales.",
+    "que": "El plan dice que hará campañas para enseñar sobre temas ambientales y cómo cuidar bien los recursos naturales. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Campañas y charlas son trabajo de la junta.",
+    "cita": "Desarrollar campañas de educación y sensibilización sobre temáticas ambientales y gestión",
+    "pag": 7
+   },
+   {
+    "t": "Hacer reforestación y recuperar zonas dañadas, sobre todo en las quebradas.",
+    "que": "El plan dice que la reforestación será en quebradas y zonas priorizadas. No dice qué zonas son ni cuánto costará.",
+    "v": "alta",
+    "n": "Sembrar árboles y recuperar zonas sí le toca a la junta.",
+    "cita": "Promover acciones de reforestación y recuperación de áreas intervenidas, especialmente",
+    "pag": 7
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar a productores y emprendedores para ir a ferias a nivel local, provincial y nacional.",
+    "que": "El plan dice que orientará y apoyará a productores para que participen en ferias y en otros mercados cuando haya oportunidades. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Apoyar a productores sí le toca a la junta.",
+    "cita": "Orientar y apoyar a productores y emprendedores para su participación en ferias y espacios de",
+    "pag": 6
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir y mantener espacios públicos de la parroquia, junto con otras instituciones.",
+    "que": "El plan dice que se planificarán, construirán y mantendrán la infraestructura y los espacios públicos de la parroquia, con otras instituciones. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Los parques sí son de la junta, pero el plan no dice con qué dinero.",
+    "cita": "Planificar, gestionar, construir y mantener, dentro del ámbito de las competencias parroquiales y",
+    "pag": 5
+   },
+   {
+    "t": "Pedir recolectores de basura en espacios públicos priorizados.",
+    "que": "El plan dice que se gestionarán recolectores de residuos sólidos en espacios públicos priorizados. No dice cuáles son ni cuánto costará.",
+    "v": "media",
+    "n": "La basura le toca al Municipio, no a la junta.",
+    "cita": "Gestionar e implementar recolectores de residuos sólidos en espacios públicos priorizados",
+    "pag": 9
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer asambleas periódicas en los barrios para decidir necesidades y prioridades.",
+    "que": "El plan dice que habrá asambleas en los barrios para ver necesidades, analizar riesgos y fortalecer la respuesta comunitaria. No dice cada cuánto ni cuánto costará.",
+    "v": "alta",
+    "n": "Reunir a los barrios es trabajo propio de la junta.",
+    "cita": "Realizar asambleas barriales periódicas lideradas por el GAD parroquial para identificar y priorizar",
+    "pag": 7
+   },
+   {
+    "t": "Organizar actividades físicas, recreativas y comunitarias para el bienestar de los vecinos.",
+    "que": "El plan dice que promoverá actividades físicas, recreativas y comunitarias para el bienestar, la convivencia y la prevención. No dice cuántas ni cuánto costará.",
+    "v": "alta",
+    "n": "Actividades comunitarias sí le tocan a la junta.",
+    "cita": "Promover actividades físicas, recreativas y comunitarias como parte de las acciones de",
+    "pag": 7
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Rendir cuentas cada año en un acto público, con aportes de la ciudadanía.",
+    "que": "El plan dice que la junta rendirá cuentas cada año, recibirá aportes de la ciudadanía y publicará informes. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Rendir cuentas cada año es trabajo propio de la junta.",
+    "cita": "el GAD Parroquial realizará anualmente el proceso público de rendición de cuentas",
+    "pag": 2
+   }
+  ]
+ },
+ "metas": [
+  "Reuniones con los barrios cada seis meses (semestrales).",
+  "Rendición de cuentas una vez al año.",
+  "Plan de trabajo para los años 2027 a 2031."
+ ],
+ "notas": [
+  "Copia en gran parte el plan de desarrollo de la parroquia. Muchas acciones son del Municipio o de la Prefectura.",
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19
+ ],
+ "paginas": 19
+}

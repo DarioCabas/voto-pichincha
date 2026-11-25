@@ -1,0 +1,119 @@
+{
+ "enfoque": "Calles y aceras, luces y alarmas, parques, ferias, reforestación del Ilaló y programas para adultos mayores y jóvenes. No dice cuánto cuesta.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Gestionar la construcción de aceras y bordillos, y el mejoramiento de vías.",
+    "que": "El plan no dice cuánto costará ni cuándo. Usaría convenios con el Municipio de Quito y gestión ante la Prefectura.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio o la Prefectura; la junta solo gestiona.",
+    "cita": "Gestión para construcción de aceras y bordillos. Mejoramiento vial.",
+    "pag": 5
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Gestionar obras de alcantarillado y agua potable.",
+    "que": "El plan no dice cuánto costará ni cuándo. Las obras se elegirían en asambleas comunitarias.",
+    "v": "baja",
+    "n": "El agua potable no le toca a la junta.",
+    "cita": "Alcantarillado. Agua potable. Alumbrado público. Mantenimiento de parques.",
+    "pag": 5
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Ampliar el sistema de alarmas comunitarias e instalar cámaras.",
+    "que": "El plan no dice cuánto costará ni cuándo ni dónde se pondrían las cámaras.",
+    "v": "media",
+    "n": "Necesita fondos y acuerdos. El plan no dice de dónde saldrá el dinero.",
+    "cita": "Ampliación del sistema de alarmas comunitarias. Instalación de cámaras.",
+    "pag": 5
+   },
+   {
+    "t": "Poner luces en sectores inseguros.",
+    "que": "El plan no dice qué sectores ni cuánto costará. Coordinaría con la Policía Nacional y con el servicio de emergencias ECU-911.",
+    "v": "media",
+    "n": "Las luces necesitan acuerdo con el Municipio. La policía no le toca a la junta.",
+    "cita": "Iluminación de sectores inseguros. Coordinación permanente con Policía Nacional y ECU-911.",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Dar mantenimiento a los parques y recuperar espacios públicos.",
+    "que": "El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Sí le toca a la junta. El plan no dice con qué dinero.",
+    "cita": "Alumbrado público. Mantenimiento de parques. Recuperación de espacios públicos.",
+    "pag": 5
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Reforestar el Ilaló y recuperar quebradas con jornadas comunitarias.",
+    "que": "El plan no dice cuánto costará ni cuándo. Se haría con jornadas comunitarias y convenios ambientales.",
+    "v": "alta",
+    "n": "Son trabajos con vecinos que sí le tocan a la junta.",
+    "cita": "Reforestación del Ilaló. Recuperación de quebradas. Educación ambiental.",
+    "pag": 7
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias productivas y cursos para emprendedores.",
+    "que": "El plan no dice cuánto costará ni cuándo. Incluye capacitación en emprendimientos y economía popular y solidaria.",
+    "v": "alta",
+    "n": "Ferias y cursos los puede organizar la junta.",
+    "cita": "Capacitación en emprendimientos. Ferias productivas. Economía popular y solidaria.",
+    "pag": 8
+   }
+  ],
+  "otros": [
+   {
+    "t": "Rescatar el tejido del cedazo y organizar festivales culturales.",
+    "que": "El plan no dice cuánto costará ni cuándo. Sería con participación de la comunidad.",
+    "v": "alta",
+    "n": "Trabajo con la comunidad; cuesta poco, pero el plan no dice cómo.",
+    "cita": "Rescate del tejido del cedazo. Museos comunitarios. Festivales culturales.",
+    "pag": 6
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear programas para adultos mayores, jóvenes y personas con discapacidad.",
+    "que": "El plan no dice qué programas harán ni cuánto costarán. Hay coordinación prevista con el Ministerio de Salud.",
+    "v": "media",
+    "n": "La salud no le toca a la junta. Programas comunitarios sí podrían.",
+    "cita": "Atención al adulto mayor. Programas juveniles. Atención a personas con discapacidad.",
+    "pag": 7
+   }
+  ]
+ },
+ "metas": [
+  "Informes de cumplimiento cada seis meses (semestrales).",
+  "Rendición de cuentas pública cada año.",
+  "2028: infraestructura, turismo, agricultura, cultura y medio ambiente.",
+  "2029: desarrollo económico, emprendimientos, programas sociales y deportivos.",
+  "2031: evaluación y cierre de proyectos."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ni de dónde saldrá el dinero. Tampoco fija fechas para la mayoría de las obras.",
+  "Usa el 'Plan Ciudad Imparables' y datos del plan de Quito. Parece copiado del cantón, no de un plan propio de la parroquia."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "paginas": 11
+}

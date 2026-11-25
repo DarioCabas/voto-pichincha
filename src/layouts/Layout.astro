@@ -1,8 +1,11 @@
 ---
-import { DIGNIDADES } from '../data/dignidades.js';
-interface Props { title: string; activo?: string }
-const { title, activo } = Astro.props;
+import { PROVINCIAS, provPath } from '../data/dignidades.js';
+import { dignidadesDe } from '../lib/datos.js';
+interface Props { title: string; activo?: string; prov?: string }
+const { title, activo, prov = 'pichincha' } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+const pbase = base + provPath(prov);
+const nombreProv = PROVINCIAS.find((p) => p.slug === prov)?.nombre ?? 'Pichincha';
 ---
 
 <html lang="es">
@@ -10,15 +13,20 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
-    <title>{title} · Voto Informado Pichincha</title>
+    <title>{title} · Voto Informado {nombreProv}</title>
   </head>
   <body>
     <header class="site">
       <div class="wrap row">
-        <a class="brand" href={`${base}/`}>Voto Informado <span>Pichincha 2027</span></a>
+        <a class="brand" href={`${pbase}/`}>Voto Informado <span>{nombreProv} 2027</span></a>
+        <nav class="prov" aria-label="Provincia">
+          {PROVINCIAS.map((p) => (
+            <a href={`${base}${provPath(p.slug)}/`} class:list={{ on: p.slug === prov }} aria-current={p.slug === prov ? 'true' : undefined}>{p.nombre}</a>
+          ))}
+        </nav>
         <nav class="dign" aria-label="Dignidades">
-          {DIGNIDADES.map((d) => (
-            <a href={`${base}/${d.slug}/`} class:list={{ on: activo === d.slug }} aria-current={activo === d.slug ? 'page' : undefined}>{d.nombre}</a>
+          {dignidadesDe(prov).map((d) => (
+            <a href={`${pbase}/${d.slug}/`} class:list={{ on: activo === d.slug }} aria-current={activo === d.slug ? 'page' : undefined}>{d.nombre}</a>
           ))}
         </nav>
       </div>
@@ -61,6 +69,10 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
   .dign a { white-space: nowrap; text-decoration: none; color: var(--muted); padding: 6px 10px; border-radius: 8px; font-size: 14px; }
   .dign a:hover { background: var(--head); color: var(--ink); }
   .dign a.on { background: var(--ink); color: var(--bg); }
+  .prov { display: flex; gap: 2px; font-size: 12.5px; overflow-x: auto; scrollbar-width: none; max-width: 100%; }
+  .prov a { white-space: nowrap; text-decoration: none; color: var(--muted); padding: 3px 8px; border-radius: 999px; border: 1px solid transparent; }
+  .prov a:hover { color: var(--ink); border-color: var(--line); }
+  .prov a.on { color: var(--ink); border-color: var(--ink); }
 
   .pills { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0 16px; }
   .pills a, .pill { font-size: 13.5px; text-decoration: none; color: var(--ink); border: 1px solid var(--line); background: var(--surface); padding: 5px 11px; border-radius: 999px; }

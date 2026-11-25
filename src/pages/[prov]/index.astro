@@ -1,0 +1,8 @@
+---
+import Inicio from '../../components/Inicio.astro';
+import { PROVINCIAS } from '../../data/dignidades.js';
+
+export const getStaticPaths = () => PROVINCIAS.filter((p) => p.slug !== 'pichincha').map((p) => ({ params: { prov: p.slug } }));
+---
+
+<Inicio prov={Astro.params.prov} />

@@ -1,0 +1,126 @@
+{
+ "enfoque": "Prioriza agua, alcantarillado y basura, sobre todo en los recintos rurales. Muchas metas repiten las del plan de desarrollo del cantón.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Construir la primera planta que trate el agua sucia antes de que llegue al río.",
+    "que": "El plan no dice cuánto costará ni cuándo estará lista. Pedirá el dinero al Banco de Desarrollo del Ecuador y a cooperación internacional.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de préstamos y cooperación. El plan no dice cuánto cuesta.",
+    "cita": "Construir la primera planta de tratamiento de aguas residuales del cantón. Hoy no existe ninguna",
+    "pag": 6
+   },
+   {
+    "t": "Llevar agua segura al 12 % de hogares que hoy toman agua de ríos y esteros.",
+    "que": "Con red donde sea posible y sistemas comunitarios donde no. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto cuesta.",
+    "cita": "Llevar agua segura al 12 % de hogares que hoy se abastece de ríos, esteros y fuentes no tratadas,",
+    "pag": 6
+   },
+   {
+    "t": "Terminar la obra de basura y cerrar el botadero a cielo abierto.",
+    "que": "La obra está al 10 % de avance, según el plan. El plan no dice cuánto costará ni cuándo se terminará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto cuesta ni en cuánto tiempo.",
+    "cita": "Completar la obra de disposición final de residuos y avanzar hacia el cierre técnico del botadero a",
+    "pag": 7
+   },
+   {
+    "t": "Llevar recolección de basura a San Jacinto y a los recintos, con rutas publicadas.",
+    "que": "Las rutas y frecuencias se publicarán. El plan no dice cuándo empieza ni cuánto cuesta.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuándo empieza.",
+    "cita": "Extender la recolección a la parroquia San Jacinto y a los recintos, con rutas y frecuencias",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Renovar el 50 % del área urbana de la cabecera y de la parroquia.",
+    "que": "Es la meta del plan de desarrollo del cantón, con fecha 2026. El plan no dice cuánto costará ni cómo se hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto cuesta.",
+    "cita": "Regenerar el 50 % del área urbana de la cabecera cantonal y de la parroquia, conforme a la meta",
+    "pag": 10
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer mantenimiento de al menos 1.000 km de vías cada año.",
+    "que": "Incluye vías rurales y urbanas, y dará prioridad a tramos que quedan cortados en lluvias. El plan no dice cuánto cuesta.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el plan no dice con qué dinero se paga.",
+    "cita": "Ejecutar el mantenimiento vial que el PDOT vigente fija como meta de al menos 1.000 Km anuales",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Pedir al Ministerio de Salud que mejore el hospital básico y los tres subcentros.",
+    "que": "El plan no dice cuánto costará ni cuándo. También pide brigadas médicas periódicas para los recintos sin atención regular.",
+    "v": "baja",
+    "n": "No le toca al Municipio. La salud es del Ministerio; el alcalde solo puede pedirlo.",
+    "cita": "Gestionar ante el Ministerio de Salud Pública el fortalecimiento del hospital básico y de los tres",
+    "pag": 6
+   }
+  ],
+  "otros": [
+   {
+    "t": "Poner en marcha un sistema de alerta temprana contra inundaciones.",
+    "que": "Sirve para avisar antes de las inundaciones, que dañan cultivos de arroz y recintos ribereños. El plan no dice cuánto cuesta.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que maneja prevención de desastres. El plan no dice cuánto cuesta.",
+    "cita": "Implantar un sistema de alerta temprana ante inundaciones, que afectan de forma recurrente a",
+    "pag": 10
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger 10 fuentes de agua y sembrar árboles en 500 hectáreas hasta 2027.",
+    "que": "Son metas del plan de desarrollo del cantón. El plan no dice cuánto cuesta ni qué fuentes son.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el plan no dice con qué dinero se hace.",
+    "cita": "Proteger 10 fuentes hídricas y reforestar 500 hectáreas hasta 2027, conforme a las metas oficiales",
+    "pag": 9
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear centros de acopio y ferias permanentes para vender sin intermediario.",
+    "que": "Así los productores venden directo al mercado. El plan no dice cuánto cuesta ni dónde se instalarían.",
+    "v": "media",
+    "n": "Lo puede impulsar el Municipio, pero el plan no dice cuánto cuesta ni dónde.",
+    "cita": "Fortalecer la comercialización asociativa para reducir la dependencia del intermediario, con centros de acopio y ferias permanentes.",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Acceso a servicios básicos de calidad: del 30 % al 80 % en 2027 (meta del plan de desarrollo del cantón).",
+  "Ejecución del presupuesto municipal: más del 90 % cada año.",
+  "Mantenimiento de al menos 1.000 km de vías al año hasta 2026.",
+  "10 fuentes de agua protegidas y 500 hectáreas reforestadas hasta 2027.",
+  "50 % del área urbana de la cabecera y de la parroquia renovada al 2026."
+ ],
+ "notas": [
+  "Muchas metas copian el plan de desarrollo del cantón y tienen fechas de 2026. Casi ninguna obra dice cuánto cuesta.",
+  "El plan no dice de dónde sale el dinero de la mayoría de obras; lo pedirá a bancos y cooperación internacional."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12
+ ],
+ "paginas": 12
+}

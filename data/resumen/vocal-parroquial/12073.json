@@ -1,0 +1,137 @@
+{
+ "enfoque": "Plan general de la parroquia: producción, turismo, caminos, ambiente y cultura. Casi todo son pedidos a otras entidades. No dice costos.",
+ "tabla": {
+  "economia": [
+   {
+    "t": "Ayudar a productores a participar en ferias y espacios de venta.",
+    "que": "Dice que la junta facilitará que productores vayan a ferias y espacios de comercialización. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Ayudar a productores le toca a la junta. El plan no dice cuánto costará.",
+    "cita": "Facilitar la participación de productores en ferias y espacios de comercialización",
+    "pag": 7
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Organizar a la comunidad para cuidar el ambiente.",
+    "que": "Dice que se promoverá la participación de la comunidad en la protección ambiental. El plan no dice qué actividades ni cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es trabajo de la junta. El plan no dice cuánto costará.",
+    "cita": "Promover la participación comunitaria en la protección ambiental",
+    "pag": 9
+   },
+   {
+    "t": "Cuidar las fuentes de agua de la parroquia.",
+    "que": "Dice que se gestionará recuperar y proteger fuentes de agua. El plan no dice qué fuentes, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "La junta gestiona el pedido; el plan no dice quién hará el trabajo.",
+    "cita": "Gestionar acciones de recuperación y protección de fuentes de agua",
+    "pag": 9
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Pedir el arreglo de caminos rurales a quien le toca.",
+    "que": "Dice que se gestionará el mantenimiento y mejoramiento de caminos y vías rurales. El plan no dice qué caminos, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio o la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Gestionar el mantenimiento y mejoramiento de caminos y vías rurales",
+    "pag": 8
+   },
+   {
+    "t": "Hacer obras de drenaje para el agua de lluvia donde haga falta.",
+    "que": "Dice que se gestionarán obras de drenaje y manejo de aguas lluvias donde sean necesarias. El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio o la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Gestionar obras de drenaje y manejo de aguas lluvias donde sean necesarias",
+    "pag": 8
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar y cuidar parques y espacios públicos de la parroquia.",
+    "que": "Dice que se hará mantenimiento y recuperación de espacios públicos. El plan no dice cuáles ni cuánto costará.",
+    "v": "alta",
+    "n": "Parques y espacios de la parroquia sí son de la junta. El plan no dice cuánto costará.",
+    "cita": "Promover el mantenimiento y recuperación de espacios públicos",
+    "pag": 11
+   }
+  ],
+  "social": [
+   {
+    "t": "Dar cursos y apoyo para emprender a mujeres.",
+    "que": "Dice que se promoverán programas de capacitación y emprendimiento para mujeres. El plan no dice cuánto costará ni quién los paga.",
+    "v": "media",
+    "n": "Cursos sí puede dar la junta, pero el plan no dice con quién ni cuánto costará.",
+    "cita": "Promover programas de capacitación y emprendimiento para mujeres",
+    "pag": 9
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Decidir prioridades de la parroquia con la gente en reuniones.",
+    "que": "Dice que se promoverá la participación ciudadana en la definición de prioridades territoriales. El plan no dice cuántas reuniones ni cuándo.",
+    "v": "alta",
+    "n": "Reunir a la gente es trabajo de la junta. El plan no dice cuándo serán las reuniones.",
+    "cita": "Promover la participación ciudadana en la definición de",
+    "pag": 9
+   },
+   {
+    "t": "Rendir cuentas cada año en eventos públicos.",
+    "que": "Dice que la rendición de cuentas será anual, en eventos públicos del territorio, y que se hará conforme a la norma. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Rendir cuentas le toca a la junta. El plan no dice cuánto costará.",
+    "cita": "Realizar el proceso de rendición de cuentas conforme a la",
+    "pag": 23
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Coordinar acciones de saneamiento y aguas residuales.",
+    "que": "Dice que se coordinarán acciones de saneamiento y manejo de aguas residuales. El plan no dice dónde ni cuánto costará.",
+    "v": "baja",
+    "n": "Le toca a otro nivel, no a la junta. El plan no dice cuánto costará.",
+    "cita": "Coordinar acciones relacionadas con saneamiento y manejo de aguas",
+    "pag": 11
+   }
+  ]
+ },
+ "metas": [
+  "Rendir cuentas cada año en eventos públicos.",
+  "Gestión del periodo 2027-2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Muchas propuestas solo dicen 'gestionar' o 'promover' ante otras entidades, sin decir qué obra se hará ni dónde."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26
+ ],
+ "paginas": 26
+}

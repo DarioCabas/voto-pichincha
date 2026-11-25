@@ -1,0 +1,123 @@
+{
+ "enfoque": "Plan único para los cinco candidatos: arreglar caminos con la Prefectura y el Municipio, cuidar parques y bosques, ferias de productores y mesas de seguridad con la Policía.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Revisar qué vías rurales están en mal estado y ponerlas en orden de prioridad.",
+    "que": "Revisar las vías rurales e interbarriales en mal estado y decidir cuáles van primero. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "La junta puede hacer este diagnóstico. El plan no dice cuánto cuesta.",
+    "cita": "Diagnóstico técnico y priorización de vías rurales e interbarriales en mal o estado.",
+    "pag": 6
+   },
+   {
+    "t": "Lastrar, tapar baches y dar mantenimiento a vías con la Prefectura y el Municipio.",
+    "que": "Mantener y mejorar vías con convenios con la Prefectura de Pichincha y el Municipio de Mejía. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura y el Municipio. El plan no dice cuánto cuesta.",
+    "cita": "Gestionar, en coordinación con el GAD Provincial de Pichincha y el GAD Municipal de Mejía, el mantenimiento y mejoramiento de vías",
+    "pag": 6
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir a las empresas de telefonía más internet y señal de celular en el campo.",
+    "que": "Pedir a las operadoras más cobertura de internet y telefonía móvil en sectores rurales. El plan no dice qué sectores ni cuándo.",
+    "v": "baja",
+    "n": "Le toca a las empresas de telefonía; la junta solo puede pedirlo.",
+    "cita": "cobertura de internet y telefonía móvil en sectores rurales.",
+    "pag": 7
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Reforestar y cuidar quebradas y fuentes de agua con los vecinos.",
+    "que": "Reforestar y proteger quebradas y fuentes de agua con participación de la comunidad. El plan no dice cuántos árboles ni cuánto costará.",
+    "v": "alta",
+    "n": "Es trabajo comunitario que la junta puede organizar. El plan no dice cuánto cuesta.",
+    "cita": "Reforestación y protección de quebradas y fuentes hídricas",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir y arreglar parques, canchas y áreas verdes en barrios y comunidades.",
+    "que": "Construir y mantener parques, canchas y áreas verdes en barrios y comunidades. El plan no dice cuántos ni cuánto costarán.",
+    "v": "alta",
+    "n": "Los parques son parte de lo que puede hacer la junta. El plan no dice cuánto cuesta.",
+    "cita": "Construcción y mantenimiento de parques, canchas y áreas verdes",
+    "pag": 7
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias donde los productores locales vendan directo al público.",
+    "que": "Hacer ferias periódicas para vender directo lo que producen los agricultores locales. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Las ferias están dentro de lo que puede hacer la junta. El plan no dice cuánto cuesta.",
+    "cita": "Ferias agroproductivas periódicas para la comercialización directa de productores locales.",
+    "pag": 7
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Crear mesas de seguridad con la Policía y los dirigentes de los barrios.",
+    "que": "Hacer reuniones de seguridad con la Policía Nacional, las juntas barriales y el GAD parroquial. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "La junta puede convocar; la Policía decide los patrullajes. El plan no dice cuánto cuesta.",
+    "cita": "Mesas de seguridad ciudadana con la Policía Nacional, juntas barriales",
+    "pag": 8
+   },
+   {
+    "t": "Pedir más patrullaje policial en los sectores con más delitos.",
+    "que": "Pedir a la Policía reforzar patrullaje y presencia en sectores con más delitos. El plan no dice cuáles sectores ni cuándo.",
+    "v": "baja",
+    "n": "Le toca a la Policía Nacional, no a la junta. El plan no dice cuánto cuesta.",
+    "cita": "Gestión para reforzar patrullaje y presencia policial en sectores de",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar actividades recreativas y de atención para adultos mayores.",
+    "que": "Hacer programas recreativos y de atención para adultos mayores. El plan no dice cuántos ni cuánto costarán.",
+    "v": "alta",
+    "n": "Organizar actividades es tarea de la junta. El plan no dice cuánto cuesta.",
+    "cita": "Programas recreativos y de atención para adultos mayores.",
+    "pag": 9
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Dar un informe anual de cuentas en audiencia pública abierta.",
+    "que": "Presentar un informe anual de rendición de cuentas en audiencia pública convocada abiertamente. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Es algo que la junta puede hacer. El plan no dice cuánto cuesta.",
+    "cita": "Informe anual de rendición de cuentas ante la ciudadanía, mediante audiencia pública convocada abiertamente.",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Informe de rendición de cuentas cada año, en audiencia pública.",
+  "Plan de trabajo para los años 2027 a 2031."
+ ],
+ "notas": [
+  "Es una propuesta única para los cinco candidatos de la lista. No dice qué hará cada persona por separado.",
+  "El plan no dice cuánto costará ninguna propuesta ni cómo se pagará. Varias dependen de la Policía, operadoras o el Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "paginas": 10
+}

@@ -1,0 +1,121 @@
+{
+ "enfoque": "Plan de Puembo que sigue el plan de desarrollo de la parroquia. Incluye muchas obras de agua, salud, escuelas y policía, que no son de la junta.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Sembrar especies nativas y proteger las orillas de ríos y quebradas.",
+    "que": "Parte del Corredor Azul-Verde Chiche-Guambi. El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio y otras entidades ambientales.",
+    "cita": "promover la siembra de especies nativas para la restauración de ecosistemas y la protección de los márgenes",
+    "pag": 7
+   },
+   {
+    "t": "Establecer 4 acuerdos de custodia comunitaria y puntos de monitoreo en ríos y quebradas.",
+    "que": "Meta de gestión del plan para el periodo 2027-2031. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "La junta puede organizar a la comunidad. El plan no dice cuánto costará.",
+    "cita": "establecer 4 acuerdos de custodia comunitaria y 6 puntos de monitorear",
+    "pag": 7
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a los caminos rurales de la parroquia.",
+    "que": "El plan lo pone como trabajo directo de la junta. No dice cuánto costará ni en qué plazo.",
+    "v": "media",
+    "n": "Caminos: le toca a la junta junto con la Prefectura.",
+    "cita": "Gestión directa: mantenimiento vial rural, espacios y equipamientos parroquiales, programas",
+    "pag": 21
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer una agenda anual de fiestas, arte, gastronomía y patrimonio de Puembo.",
+    "que": "Se hará con artistas, gestores culturales y barrios. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad en fiestas y eventos le toca a la junta.",
+    "cita": "Consolidar la Agenda Cultural Anual de Puembo, fortaleciendo la transmisión de tradiciones",
+    "pag": 3
+   },
+   {
+    "t": "Consolidar espacios comunitarios para refuerzo escolar, biblioteca y acceso digital.",
+    "que": "Se hará con el Ministerio de Educación y otras entidades. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "La educación es del Ministerio; la junta solo articula.",
+    "cita": "espacios comunitarios para refuerzo escolar, biblioteca, acceso digital,",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar el mercado agroecológico y los huertos comunitarios con asistencia técnica y ventas.",
+    "que": "Incluye asistencia técnica, comercialización y educación alimentaria. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Apoyar a productores le toca a la junta. El plan no dice cuánto costará.",
+    "cita": "Fortalecer el Mercado Agroecológico y los huertas comunitarios mediante asistencia técnica, comercialización,",
+    "pag": 3
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Coordinar con la Policía y los barrios para la seguridad comunitaria.",
+    "que": "El plan dice que la junta coordina; no dice que sustituya a la Policía. No dice cuánto costará.",
+    "v": "baja",
+    "n": "La seguridad le toca a la Policía, no a la junta.",
+    "cita": "y organizaciónes barriales para fortalecer la seguridad comunitaria",
+    "pag": 4
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas cada trimestre, rotando entre la cabecera parroquial y los barrios.",
+    "que": "En las asambleas se presentan avances, problemas y decisiones pendientes. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta; el plan no dice cuánto costará.",
+    "cita": "Una cada trimestre, rotando entre cabecera y barrios,",
+    "pag": 22
+   }
+  ]
+ },
+ "metas": [
+  "Intervenir al menos 6 km de riberas y senderos priorizados en el periodo 2027-2031.",
+  "Establecer 4 acuerdos de custodia comunitaria y 6 puntos de monitoreo.",
+  "Atender 150 emprendimientos.",
+  "Alcanzar al menos 300 usuarios directos por año al final del periodo.",
+  "Publicar el 100% de los proyectos de inversión con presupuesto, contratista, plazo y avance."
+ ],
+ "notas": [
+  "Incluye agua, salud, escuelas y policía, que no son competencia de la junta parroquial.",
+  "El plan no fija costos ni plazos; el presupuesto se define cada año con presupuesto participativo."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25
+ ],
+ "paginas": 25
+}

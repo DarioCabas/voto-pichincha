@@ -1,0 +1,138 @@
+{
+ "enfoque": "Propone cámaras y un centro de monitoreo, más basura, agua, alcantarillado y calles. Varias acciones de seguridad dependen de la Policía y del Gobierno Nacional.",
+ "tabla": {
+  "seguridad": [
+   {
+    "t": "Instalar cámaras de vigilancia y un Centro de Monitoreo Municipal.",
+    "que": "Cámaras de forma progresiva en accesos y sectores priorizados, con coordinación con emergencias y Policía. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Cámaras y centro son municipales; la respuesta depende de la Policía. Sin costo.",
+    "cita": "Centro de Monitoreo Municipal con operación continua y protocolos de coordinación con los servicios de",
+    "pag": 10
+   },
+   {
+    "t": "Pedir al Gobierno Nacional más Policía Nacional y Fuerzas Armadas.",
+    "que": "Gestión ante el Gobierno Nacional para más presencia y coordinación policial. El plan no dice cuántos policías ni cuándo.",
+    "v": "baja",
+    "n": "No le toca al alcalde: la Policía es del Gobierno Nacional.",
+    "cita": "Gestión permanente ante el Gobierno Nacional para fortalecer la presencia y coordinación de la Policia",
+    "pag": 10
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Comprar camiones recolectores y ajustar rutas de recolección de basura.",
+    "que": "Sumar camiones y ajustar rutas y frecuencias de recolección. El plan no dice cuántos camiones ni cuánto costará.",
+    "v": "alta",
+    "n": "La basura es competencia municipal. El plan no dice cuánto cuesta.",
+    "cita": "Fortalecimiento de la capacidad operativa de recolección mediante la incorporación de camiones",
+    "pag": 11
+   },
+   {
+    "t": "Limpiar y cerrar botaderos clandestinos y puntos críticos de basura.",
+    "que": "Recuperar sitios donde se bota basura ilegal, con campañas de limpieza. El plan no dice cuántos sitios ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuántos sitios ni cuándo.",
+    "cita": "Erradicación progresiva de puntos críticos y botaderos clandestinos, con campañas sostenidas de limpieza",
+    "pag": 11
+   },
+   {
+    "t": "Estudiar, ampliar y mejorar las redes de agua potable del cantón.",
+    "que": "Hacer estudios y luego ampliar y mejorar redes y sistemas de agua. El plan no dice cuánto costará ni en qué barrios.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto cuesta.",
+    "cita": "Plan integral de Agua Potable y Conectividad Hidrica: estudios, optimización, ampliación y mejoramiento",
+    "pag": 14
+   },
+   {
+    "t": "Hacer estudios y construir redes de alcantarillado, con tratamiento y mantenimiento.",
+    "que": "Obra de varios años para cubrir el alcantarillado y tratar las aguas. El plan no dice cuánto costará ni en qué sectores.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto cuesta.",
+    "cita": "Plan Integral de Saneamiento y Alcantarillado Sanitario: estudios y ejecución plurianual de redes",
+    "pag": 14
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Asfaltar, pavimentar y reparar baches, veredas y señalización de calles.",
+    "que": "Asfaltado, pavimentación, bacheo, veredas, bordillos y señalización, con mantenimiento. El plan no dice cuántas calles ni cuánto costará.",
+    "v": "alta",
+    "n": "Calles y vías son del Municipio. El plan no dice costo ni calles.",
+    "cita": "Plan de Conectividad Vial, Pavimentación y Regeneración Urbana: asfaltado, pavimentación, bacheo,",
+    "pag": 14
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Crear un programa para regularizar tierras y escriturar predios.",
+    "que": "Ordenar la tierra y dar escrituras a predios sin papeles. Menciona Playas 2, Brisas de Playas, La Quebradita y Barrio Guayaquil. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Uso del suelo es del Municipio. El plan no dice cuándo ni cuánto.",
+    "cita": "Programa de regularización de tierras, escrituración y actualización de la normativa de uso y gestión de",
+    "pag": 14
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer estudios y construir una plaza de mariscos para pescadores.",
+    "que": "Primero estudios de viabilidad y luego la obra, para pescadores artesanales. El banco de ideas la ubica a mediano plazo. No dice cuánto costará.",
+    "v": "media",
+    "n": "El mercado es del Municipio, pero el plan no dice cómo lo pagará.",
+    "cita": "Estudios y ejecución de infraestructura comercial: plaza de mariscos",
+    "pag": 13
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar en internet el avance de obras, compras y metas del Municipio.",
+    "que": "Portal para seguir obras, contratos e indicadores, según la ley. El plan no dice cuándo estará listo ni cuánto costará.",
+    "v": "alta",
+    "n": "Es tarea directa del Municipio. El plan no dice la fecha de inicio.",
+    "cita": "Portal de seguimiento ciudadano de proyectos, obras, contratación pública e indicadores, conforme a la",
+    "pag": 18
+   }
+  ]
+ },
+ "metas": [
+  "Actualizar la línea base de cada problema al inicio de la administración.",
+  "Plan operativo anual vinculado a los ocho objetivos, cada año.",
+  "Informe semanal de gestión de la Alcaldía.",
+  "Rendición de cuentas formal una vez al año y al final de la gestión."
+ ],
+ "notas": [
+  "El plan no da montos de dinero ni fechas para las obras. Sus metas son indicadores sin cifra.",
+  "Varias propuestas (Policía, especialidades médicas, vialidad rural) son de otros niveles. El plan lo reconoce."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27
+ ],
+ "paginas": 27
+}

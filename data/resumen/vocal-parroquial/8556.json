@@ -1,0 +1,145 @@
+{
+ "enfoque": "Cuidar áreas verdes, hacer ferias de productores y arreglar calles con convenios. Copia metas del plan de desarrollo de la parroquia; el alcantarillado es del Municipio.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Plantar árboles nativos y recuperar áreas verdes en la parroquia.",
+    "que": "El plan fija metas: 1 área recuperada en 2027, 2 en 2028, 3 en 2029, 4 en 2030 y 5 en 2031. No dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Es trabajo comunitario y de parques, que sí le toca a la junta.",
+    "cita": "Implementar acciones de reforestación con especies nativas, recuperación y mantenimiento de áreas verdes, educación ambiental",
+    "pag": 18
+   },
+   {
+    "t": "Prevenir la contaminación de quebradas y ríos junto con otros niveles de gobierno.",
+    "que": "El plan no dice qué quebradas ni en qué plazo. Dice que coordinará con otros niveles de gobierno para reducir la contaminación de quebradas y fuentes de agua.",
+    "v": "media",
+    "n": "Limpiar y tratar el agua le toca al Municipio; la junta solo puede coordinar.",
+    "cita": "coordinación con los diferentes niveles de gobierno para prevenir y reducir la contaminación de quebradas y recursos hídricos",
+    "pag": 16
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir al Municipio ampliar el alcantarillado en sectores que no tienen.",
+    "que": "Propone identificar sectores, hacer estudios y gestionar recursos con el Municipio. El plan no dice cuánto costará ni cuándo se hará; solo habla de gestionar hasta 2031.",
+    "v": "media",
+    "n": "El alcantarillado es del Municipio; la junta solo puede gestionarlo.",
+    "cita": "Coordinar con el GAD Metropolitano de Quito y las entidades competentes la identificación de sectores prioritarios",
+    "pag": 13
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento y rehabilitar calles priorizadas de la parroquia.",
+    "que": "Meta: 1 calle en 2027, 2 en 2028, 3 en 2029, 4 en 2030 y 5 en 2031. Se hará con convenios con la Prefectura y el Municipio. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita convenio con la Prefectura y el Municipio; la junta tiene poco presupuesto.",
+    "cita": "Ejecutar acciones de mantenimiento y rehabilitación de vías priorizadas",
+    "pag": 20
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Dar mantenimiento o equipar espacios públicos e infraestructura de la parroquia.",
+    "que": "Meta: trabajar en el 50% de la infraestructura priorizada hasta 2031, empezando con 10% en 2027. Se hará con recursos y convenios de otros niveles. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Las obras grandes necesitan Municipio o Prefectura; la junta solo gestiona.",
+    "cita": "Priorizar infraestructura y espacios públicos que requieran mantenimiento, mejoramiento o equipamiento",
+    "pag": 22
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer programas y actividades para grupos vulnerables, como adultos mayores y niños.",
+    "que": "Creará espacios de convivencia e integración y convenios con instituciones para ampliar la atención social. Meta: 100% de cobertura cada año; el plan no explica cómo se mide.",
+    "v": "alta",
+    "n": "Actividades comunitarias sí le tocan; salud y educación no.",
+    "cita": "Ejecutar programas y actividades dirigidas a grupos vulnerables, promover espacios de convivencia e integración",
+    "pag": 23
+   }
+  ],
+  "economia": [
+   {
+    "t": "Organizar ferias productivas y gastronómicas: 2 al año.",
+    "que": "Meta: 2 ferias productivas cada año de 2027 a 2031, con emprendedores, productores y organizaciones. El plan no dice dónde se harán ni cuánto costarán.",
+    "v": "alta",
+    "n": "Ferias y apoyo a productores sí le tocan a la junta.",
+    "cita": "Fortalecer las capacidades de emprendedores y productores, promover ferias productivas y gastronómicas",
+    "pag": 17
+   },
+   {
+    "t": "Crear espacios para vender los productos de la parroquia.",
+    "que": "El plan no dice dónde, cuándo ni cuánto costará este espacio de venta. Lo incluye en las actividades de comercio y turismo.",
+    "v": "media",
+    "n": "Un espacio de venta cuesta dinero y necesita apoyo del Municipio o la Prefectura.",
+    "cita": "ferias productivas, actividades gastronómicas, culturales y turísticas y la generación de espacios de comercialización",
+    "pag": 21
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Dar 1 capacitación al año al personal de la junta y actualizar sus herramientas tecnológicas.",
+    "que": "Meta: 1 capacitación cada año hasta 2031. También dice que se actualizarán herramientas tecnológicas y la gestión de documentos. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Cursos al año sí le tocan; el plan no dice cuánto cuesta lo tecnológico.",
+    "cita": "Implementar procesos de capacitación, actualización de herramientas tecnológicas",
+    "pag": 20
+   },
+   {
+    "t": "Publicar cada seis meses y cada año los principales datos de la gestión.",
+    "que": "Publicará resúmenes semestrales y anuales en prensa, redes sociales y boletines en espacios públicos. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Informar y rendir cuentas sí le toca a la junta.",
+    "cita": "Publicación periódica (semestral y anual) resumiendo los principales indicadores de la gestión de la institución",
+    "pag": 24
+   }
+  ]
+ },
+ "metas": [
+  "Recuperar 5 áreas verdes con mantenimiento hasta 2031: 1 en 2027, 2 en 2028, 3 en 2029, 4 en 2030.",
+  "Rehabilitar 5 calles hasta 2031: 1 en 2027, y 1 más cada año.",
+  "2 ferias productivas al año, de 2027 a 2031.",
+  "Gestionar el 50% de la infraestructura priorizada hasta 2031: 10% en 2027 y 10% más cada año.",
+  "1 capacitación al año para el personal de la junta, hasta 2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Muchas metas dependen del Municipio o la Prefectura. Parte del texto copia el plan de desarrollo de la parroquia."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31
+ ],
+ "paginas": 31
+}

@@ -1,0 +1,116 @@
+{
+ "enfoque": "Plan único de la junta de Nayón: cuidar vías con otras entidades, arreglar espacios públicos, apoyar productores, cuidar quebradas y organizar encuentros. Costos sin definir.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Planificar y dar mantenimiento a vías, caminos y accesos de Nayón, junto con otras entidades.",
+    "que": "El plan dice que se hará con el Municipio, la Prefectura y convenios. No dice qué vías, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Los caminos se cuidan junto con la Prefectura; hace falta acuerdo con ella.",
+    "cita": "Planificar, gestionar y dar seguimiento al mantenimiento de vias, caminos, accesos y acciones de movilidad",
+    "pag": 3
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar y mantener espacios públicos e infraestructura comunitaria de la parroquia.",
+    "que": "Se hará con mingas, participación de vecinos y cofinanciamiento. El plan no dice qué espacios ni cuánto costará.",
+    "v": "alta",
+    "n": "Parques y espacios de la parroquia sí son de la junta. El plan no dice el costo.",
+    "cita": "Impulsar la recuperación, mantenimiento y mejoramiento de espacios públicos e infraestructura comunitaria",
+    "pag": 3
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger quebradas, áreas verdes y recursos naturales, con educación ambiental y simulacros.",
+    "que": "Meta: mantener al menos 4 espacios verdes por año y hacer 2 simulacros parroquiales por año. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Cuidar el ambiente y organizar a vecinos sí le toca a la junta. El plan no dice el costo.",
+    "cita": "Promover la protección de quebradas, áreas verdes y recursos naturales, fortaleciendo la educación ambiental",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias y dar capacitación a productores, viveros y emprendedores.",
+    "que": "Meta: fortalecer al menos 400 emprendedores y productores en el periodo. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Apoyar a productores y hacer ferias sí le toca a la junta. El costo no está definido.",
+    "cita": "Fortalecer la producción local, los emprendimientos, las ferias, los viveros, la gastronomía",
+    "pag": 3
+   }
+  ],
+  "social": [
+   {
+    "t": "Dar acompañamiento y prevención a niños, jóvenes, adultos mayores y personas con discapacidad.",
+    "que": "Meta: cobertura de al menos 200 personas por año. El plan no dice qué programas ni cuánto costará.",
+    "v": "media",
+    "n": "Salud y educación no son de la junta; hace falta acuerdo con las instituciones que sí las tienen.",
+    "cita": "Fortalecer la inclusión social y la atención a grupos prioritarios mediante acciones de prevención, acompañamiento",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer encuentros en barrios, casas comunales y canchas, y rendir cuentas.",
+    "que": "Meta: al menos 4 encuentros territoriales por año. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta. El plan no dice el costo.",
+    "cita": "Impulsar mecanismos permanentes de participación ciudadana, presupuesto participativo, seguimiento de obras",
+    "pag": 3
+   },
+   {
+    "t": "Crear un sistema para ordenar, digitalizar y guardar los documentos de la junta.",
+    "que": "Meta: inventario del 100 % de documentos en la primera etapa y un archivo consultable. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Ordenar los papeles de la propia junta sí le toca. El costo de las herramientas no está dicho.",
+    "cita": "Implementar un Sistema de Gestión Documental y Archivo que permita",
+    "pag": 2
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Organizar mesas de seguridad y campañas de prevención con la Policía y el Municipio.",
+    "que": "Meta: al menos 4 acciones de prevención, capacitación o coordinación por año. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "La junta solo coordina; la seguridad la hacen la Policía y el Municipio.",
+    "cita": "Promover la prevención y la cultura ciudadana en materia de seguridad, convivencia, fortaleciendo la coordinación",
+    "pag": 3
+   }
+  ],
+  "otros": [
+   {
+    "t": "Hacer una agenda cultural al año con tradiciones, arte, música, danza y deporte.",
+    "que": "Meta: al menos 7 actividades culturales, artísticas, sociales, deportivas o audiovisuales por año. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar actividades culturales con la comunidad sí le toca a la junta. El plan no dice el costo.",
+    "cita": "Fortalecer la identi dad cultural de Nayón mediante la recuperación, promoción y transmisión de sus tradiciones",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [
+  "Gestionar intervenciones en al menos 8 barrios o sectores entre 2027 y 2031, con mínimo 2 por año.",
+  "Hacer al menos 8 intervenciones de recuperación o mejoramiento entre 2027 y 2031.",
+  "Llegar a al menos 400 emprendedores y productores en el periodo 2027-2031.",
+  "Recuperar o mantener al menos 4 espacios verdes y hacer 2 simulacros parroquiales por año.",
+  "Hacer al menos 4 encuentros territoriales o sectoriales por año."
+ ],
+ "notas": [
+  "Es el plan único para todas las vocalías de la junta, no uno solo para este cargo. Muchos costos dicen \"por determinar\".",
+  "Muchas acciones dependen de convenios con el Municipio, la Prefectura o la Policía. Salud, educación y agua no son de la junta."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "paginas": 8
+}

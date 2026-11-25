@@ -1,0 +1,127 @@
+{
+ "enfoque": "Plan de la lista 79 para Zámbiza: ambiente, deporte, cultura, adultos mayores, ferias y transparencia. Varias cosas son de salud, alcantarillado y otras instituciones.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Hacer jornadas para sembrar plantas nativas y recuperar áreas verdes.",
+    "que": "El plan dice que habrá mingas ambientales con barrios e instituciones educativas. No dice dónde, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Son mingas y siembras que la junta puede organizar.",
+    "cita": "Jornada de reforestación con especies nativas. Recuperación de áreas verdes.",
+    "pag": 9
+   },
+   {
+    "t": "Pedir que una quebrada de Zámbiza entre al programa Quebradas Vivas.",
+    "que": "Luego se limpiarían y recuperarían quebradas, con reforestación en zonas estratégicas. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de otra institución; la junta solo puede gestionarlo.",
+    "cita": "Gestionar la incorporación de al menos una quebrada de Zámbiza al Plan Quebradas Vivas.",
+    "pag": 9
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Identificar sectores con problemas de alcantarillado y pedir su ampliación y mantenimiento.",
+    "que": "El plan no dice qué sectores, cuánto costará ni cuándo. Dice que se trabajará con otras instituciones.",
+    "v": "media",
+    "n": "Lo hace otra institución; la junta solo puede pedirlo.",
+    "cita": "Identificación de sectores con problemas de alcantarillado. Gestión interinstitucional para ampliación y mantenimiento.",
+    "pag": 9
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear espacios de encuentro, actividad física y talleres para adultos mayores.",
+    "que": "El plan no dice dónde ni cuánto costará. Incluye actividades recreativas y talleres culturales.",
+    "v": "alta",
+    "n": "Son reuniones y actividades que la junta puede organizar.",
+    "cita": "Espacios de encuentro. Actividades recreativas, Actividad física. Talleres culturales.",
+    "pag": 6
+   },
+   {
+    "t": "Hacer jornadas de prevención junto al Ministerio de Salud Pública.",
+    "que": "Incluye control de factores de riesgo y educación nutricional. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "La salud no le toca a la junta; le toca al Ministerio de Salud.",
+    "cita": "Coordinación con el Ministerio de Salud Pública, Jornadas de prevención.",
+    "pag": 13
+   }
+  ],
+  "otros": [
+   {
+    "t": "Crear escuelas de fútbol y otras disciplinas para niños y adolescentes.",
+    "que": "Las llevarían entrenadores y organizaciones deportivas locales. El plan no dice dónde, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Organizar escuelas deportivas es tarea de la junta.",
+    "cita": "Formación deportiva para niños y adolescentes. Escuelas de fútbol y otras disciplinas.",
+    "pag": 11
+   },
+   {
+    "t": "Dar talleres de música, danza, artes y saberes tradicionales.",
+    "que": "El plan no dice dónde ni cuánto costará. También menciona festivales y ferias de identidad y patrimonio.",
+    "v": "alta",
+    "n": "Talleres y festivales son tareas de la junta; el costo no está.",
+    "cita": "Talleres de música, danza, artes y saberes tradicionales.",
+    "pag": 10
+   }
+  ],
+  "economia": [
+   {
+    "t": "Organizar ferias de productos dentro y fuera de la parroquia.",
+    "que": "El plan no dice dónde, cuándo ni cuánto costará. Va junto con censo de productores y capacitaciones.",
+    "v": "alta",
+    "n": "Ferias y capacitaciones las puede organizar la junta.",
+    "cita": "Ferias productivas dentro y fuera de la parroquia",
+    "pag": 15
+   },
+   {
+    "t": "Identificar atractivos naturales y culturales y crear rutas culturales.",
+    "que": "Incluye senderos ecológicos, gastronomía local y artesanías. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Mapear atractivos y organizar rutas es tarea de la junta.",
+    "cita": "Identificación de atractivos naturales y culturales. Rutas culturales.",
+    "pag": 16
+   }
+  ]
+ },
+ "metas": [
+  "Informes de avance cada tres meses.",
+  "Reuniones de evaluación cada medio año.",
+  "Rendición de cuentas una vez al año.",
+  "Gestionar al menos una quebrada en el Plan Quebradas Vivas.",
+  "Plan de cuatro años: 2027-2031."
+ ],
+ "notas": [
+  "Casi ninguna propuesta dice cuánto cuesta ni cuándo se hace. Varias (salud, alcantarillado, quebradas) no son de la junta.",
+  "Gran parte del texto repite el plan de desarrollo de la parroquia 2024-2027 y pide convenios con otros niveles de gobierno."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25
+ ],
+ "paginas": 25
+}

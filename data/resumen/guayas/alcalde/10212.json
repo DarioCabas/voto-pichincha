@@ -1,0 +1,149 @@
+{
+ "enfoque": "Propone agua, alcantarillado, basura, calles, tránsito, parques y mercados. Incluye también salud y escuelas, que no son del Municipio. El diagnóstico se basa en el PDOT del cantón.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Dar servicio de basura de calidad con cobertura de 75% del cantón",
+    "que": "Se hará con el Ministerio del Ambiente, el Ministerio de Salud, el Banco de Desarrollo y fondos propios, hasta el cuarto año. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Depende en parte de fondos del Banco de Desarrollo.",
+    "cita": "dotando un servicio de gestión de residuos sólidos de calidad alcanzando una cobertura cantonal del 75% al cuarto año de gestión.",
+    "pag": 14
+   },
+   {
+    "t": "Subir la cobertura de agua potable de calidad a 70% del cantón",
+    "que": "Se hará con EMAPAS EP, la Secretaría del Agua, el Banco de Desarrollo y cooperación internacional, hasta el cuarto año. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de otras entidades y de fondos de cooperación.",
+    "cita": "para dotar a la población de agua potable de calidad incrementando la cobertura a un 70% al cuarto año de gestión.",
+    "pag": 14
+   },
+   {
+    "t": "Gestionar el alcantarillado de lluvias y de aguas servidas del cantón",
+    "que": "Meta: que 100% de hogares de la cabecera y 50% de los recintos tengan servicios básicos al final de cuatro años. El plan no dice cuánto costará ni cómo se pagará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende del Banco de Desarrollo y de ministerios.",
+    "cita": "Gestionar el sistema de alcantarillado pluvial y sanitario, así como las unidades básicas de saneamiento en el cantón",
+    "pag": 13
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Reconstruir y mantener calles y caminos urbanos y rurales: 1000 km",
+    "que": "Se hará con acciones propias y con la Prefectura del Guayas. Beneficia a 3000 familias. Plazo: cuatro años. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Parte de la obra se hará junto con la Prefectura.",
+    "cita": "Gestionar la reconstrucción y mantenimiento de la vialidad urbana",
+    "pag": 14
+   },
+   {
+    "t": "Aplicar las normas de tránsito y transporte terrestre en todo el cantón",
+    "que": "Se hará con la Comisión de Tránsito (CTE), la Agencia Nacional de Tránsito (ANT) y transportistas, hasta el cuarto año. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: tránsito y buses son competencia municipal.",
+    "cita": "Implementar las normas de tránsito y transporte terrestre en el territorio cantonal",
+    "pag": 14
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir espacios públicos para recreación y encuentro en el cantón",
+    "que": "Espacios de recreación y deporte, al 100% al cuarto año, con el Ministerio del Deporte y la Prefectura. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: parques son competencia municipal.",
+    "cita": "Construir espacios para la recreación y encuentro común en el",
+    "pag": 13
+   },
+   {
+    "t": "Gestionar la construcción de plazas de víveres y mercados",
+    "que": "El plan menciona plazas de víveres, mercados, centros comerciales, un matadero (faenamiento) y una terminal terrestre. No dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: mercados son competencia municipal. El plan no dice plazos por obra.",
+    "cita": "Gestionar la construcción de espacios para el aprovisionamiento y la gestión financiera",
+    "pag": 13
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Cuidar las orillas de ríos y playas para bajar la contaminación",
+    "que": "Con el Ministerio del Ambiente, hasta el cuarto año. El plan también prevé una ordenanza para playas y riberas. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, con apoyo del Ministerio del Ambiente.",
+    "cita": "Gestionar las riberas de rios, playas y demás recursos naturales en el cantón",
+    "pag": 12
+   }
+  ],
+  "otros": [
+   {
+    "t": "Mejorar en 30% el tiempo de respuesta a emergencias y prevenir riesgos",
+    "que": "Se hará con la Secretaría de Gestión de Riesgos, otras entidades del Gobierno, ONG y actores locales, hasta el cuarto año. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: prevenir desastres es competencia municipal.",
+    "cita": "Gestionar la prevención de riesgos en el territorio cantonal",
+    "pag": 12
+   },
+   {
+    "t": "Gestionar obras de salud con el Ministerio de Salud",
+    "que": "El plan pide subir 10% la percepción de atención en salud. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "No le toca al Municipio. La salud es del Ministerio de Salud.",
+    "cita": "Gestionar la construcción de Infraestructura para el desarrollo social en salud en el territorio cantonal",
+    "pag": 13
+   }
+  ]
+ },
+ "metas": [
+  "Basura: cobertura de 75% del cantón al cuarto año de gestión.",
+  "Agua potable: cobertura de 70% al cuarto año de gestión.",
+  "Alcantarillado: 100% de hogares en la cabecera y 50% en los recintos al final de cuatro años.",
+  "Calles y caminos: intervenir 1000 km en los cuatro años de administración.",
+  "Emergencias: mejorar en 30% el tiempo de respuesta al cuarto año de gestión."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará cada obra ni de dónde saldrá el dinero. Solo menciona fuentes en general.",
+  "Salud, escuelas y luz no son competencia del Municipio, aunque el plan las incluye como metas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39
+ ],
+ "paginas": 39
+}

@@ -1,0 +1,892 @@
+{
+  "canton": "GUAYAQUIL",
+  "candidatos": [
+    {
+      "codFormulario": 10898,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Propone agua potable en la periferia, humedales para limpiar el Estero Salado, parques con actividades, casas en el centro y cultura de paz. Varias metas dependen de otros.",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Unir las ciclovías con corredores verdes de sombra.",
+            "que": "El plan fija 120 km de ciclovías al 2031 y 32 millones de dólares para ciclovías segregadas. No dice cómo se pagarán.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice de dónde sale el dinero.",
+            "cita": "integración obligatoria de las ciclovías con los Corredores Verdes de Sombra, porque",
+            "pag": 92
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Extender la red de agua potable en Monte Sinaí, Nueva Prosperina y Sergio Toral.",
+            "que": "Para esto se renegociaría el contrato con la concesionaria. En la cartera ambiental pone 180 millones de dólares para agua y saneamiento.",
+            "v": "alta",
+            "n": "Le toca al Municipio, pero depende de cambiar el contrato con la concesionaria.",
+            "cita": "la extensión de la red física principal en Monte Sinaí, Nueva Prosperina y Sergio Toral",
+            "pag": 72
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Construir 25 humedales con plantas para limpiar el Estero Salado.",
+            "que": "Serían en ramales críticos (Trinitaria, Suburbio, Mucho Lote). Cartera: 145 millones de dólares para Macro-PTAR y humedales. El plan no dice cuándo terminan.",
+            "v": "alta",
+            "n": "Le toca al Municipio, que maneja el saneamiento. El plan no dice plazos.",
+            "cita": "se construirá una red de 25 humedales artificiales de fitodepuración con manglar y macrófitas",
+            "pag": 72
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Dar programas culturales permanentes en los parques recuperados.",
+            "que": "Ludotecas, bailoterapia y talleres, hechos con organizaciones sociales, iglesias y colectivos. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. Los parques son competencia municipal.",
+            "cita": "los parques recuperados por regeneración urbana deberán contar con",
+            "pag": 88
+          },
+          {
+            "t": "Repoblar el centro con casas colectivas en edificios vacíos.",
+            "que": "Recuperar edificios abandonados o en venta. El plan no dice cuántas casas se harán ni cuánto costará.",
+            "v": "media",
+            "n": "Depende de cooperativas y compradores. El plan no dice cuántos ni cuándo.",
+            "cita": "La estrategia propuesta es repoblar el casco central recuperando edificaciones abandonadas o en venta mediante modelos colectivos",
+            "pag": 90
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Abrir una red de centros de cultura de paz en barrios con más delitos.",
+            "que": "Empezarían en Durán, Pascuales, Portete, el distrito Sur y Esteros. El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "La prevención sí es del Municipio. No incluye policía. El plan no dice costo.",
+            "cita": "Se implementará una Red de Centros de Cultura de Paz y Bibliotecas Comunitarias",
+            "pag": 87
+          },
+          {
+            "t": "Crear un sistema de cámaras y drones organizado por cuadrantes de riesgo.",
+            "que": "Lo definen con la comunidad y la Policía Metropolitana. SEGURA EP ya administra cerca de 34 000 cámaras. El plan no dice costo.",
+            "v": "media",
+            "n": "SEGURA EP lo maneja, pero depende de la Policía. El plan no dice costo.",
+            "cita": "despliegue de un Sistema de Monitoreo Tecnológico y Disuasión organizado por cuadrantes de riesgo",
+            "pag": 88
+          }
+        ],
+        "otros": [
+          {
+            "t": "Crear 10 pares de unidades educativas municipales.",
+            "que": "Se haría con una delegación que aún debe aprobar el Consejo Nacional de Competencias. El plan no dice cuánto costará.",
+            "v": "baja",
+            "n": "Educación es del Gobierno central. Depende de un permiso que el plan no asegura.",
+            "cita": "Se proyecta la creación de 10 pares de unidades educativas bajo este esquema durante",
+            "pag": 93
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Crear Administraciones Zonales por ordenanza municipal.",
+            "que": "Tendrían Consejos de participación ciudadana y Fondo Zonal de Desarrollo. El plan dice que no requiere reforma legal.",
+            "v": "alta",
+            "n": "Le toca al Municipio por ordenanza. El plan dice que no necesita reforma legal.",
+            "cita": "Primero, la creación por ordenanza municipal de las Administraciones Zonales",
+            "pag": 97
+          }
+        ],
+        "economia": [
+          {
+            "t": "Hacer ferias libres piso-techo en barrios que no tienen mercado municipal.",
+            "que": "El plan pide al menos 3 ferias para 2031. No dice cuánto costará ni en qué barrios se harán.",
+            "v": "alta",
+            "n": "Le toca al Municipio, que maneja mercados y espacios públicos.",
+            "cita": "En los barrios donde no existen mercados municipales se implementarán Ferias Libres bajo modalidad piso-techo",
+            "pag": 81
+          }
+        ]
+      },
+      "metas": [
+        "Área verde urbana de 3,2 a 6,0 m² por habitante al 2031",
+        "98 % de aguas residuales tratadas al 2031",
+        "120 km de ciclovías al 2031",
+        "5.000 viviendas sociales (VIS) construidas al 2031",
+        "Al menos 3 ferias libres piso-techo en barrios sin mercado"
+      ],
+      "notas": [
+        "Incluye educación y seguridad policial, que no son del Municipio. Algunas propuestas dependen del Gobierno central.",
+        "La mayoría de propuestas no dice cuánto cuestan ni cuándo se harán. Solo la cartera ambiental trae montos.",
+        "Plan muy largo (117 págs.): se resumieron las 76 páginas con propuestas."
+      ]
+    },
+    {
+      "codFormulario": 1530,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan para Guayaquil 2027-2031: calles, agua, basura, parques y comercio, más prevención con luces, limpieza y cámaras. Varias metas dependen de otras entidades.",
+      "tabla": {
+        "seguridad": [
+          {
+            "t": "Modernizar o ampliar hasta 1.500 puntos de videovigilancia (cámaras).",
+            "que": "El plan dice que será de acuerdo con estudios técnicos. No dice cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "Depende de estudios y de coordinar con la Policía, que no es del Municipio.",
+            "cita": "Modernizar o ampliar hasta 1.500 puntos de videovigilancia, de acuerdo con estudios técnicos.",
+            "pag": 7
+          },
+          {
+            "t": "Intervenir al menos 60 corredores seguros con luces, limpieza y señales.",
+            "que": "Los corredores son alrededor de escuelas, mercados y paradas. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio: luces, calles y limpieza. El plan no dice el costo.",
+            "cita": "Intervenir al menos 60 corredores prioritarios durante el período.",
+            "pag": 7
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Recuperar al menos 100 parques y espacios públicos de proximidad.",
+            "que": "El plan no dice cuánto costará ni en qué fechas se hará cada parque.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+            "cita": "Recuperar al menos 100 parques y espacios públicos de proximidad.",
+            "pag": 7
+          },
+          {
+            "t": "Facilitar al menos 5.000 soluciones de vivienda, entre casas nuevas y mejoras.",
+            "que": "El plan dice que se hará con bancos, empresas y otras entidades. No dice cuánto costará.",
+            "v": "media",
+            "n": "Depende de otras entidades y de dinero. El plan no dice el costo.",
+            "cita": "Facilitar al menos 5.000 soluciones habitacionales durante el período 2027-2031, combinando",
+            "pag": 11
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Llegar al 65 % de cobertura de agua potable y saneamiento urbano, si es viable.",
+            "que": "El plan dice que depende de la viabilidad técnica y del presupuesto. No dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio, pero el plan no dice cuánto costará ni cuándo.",
+            "cita": "Alcanzar o superar 65 % de cobertura de agua potable y saneamiento urbano cuando la viabilidad técnica y presupuestaria lo permita.",
+            "pag": 12
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Desviar al menos 10 % de la basura que va al relleno, con reciclaje y compostaje.",
+            "que": "El plan no dice cuánto costará ni cuándo. Pide permisos ambientales antes de empezar.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+            "cita": "Desviar de la disposición final al menos 10 % del flujo anual de residuos sólidos no peligrosos mediante reciclaje, compostaje",
+            "pag": 14
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Intervenir al menos 400 km de calles (construir, arreglar o mantener).",
+            "que": "El plan dice que dependerá del presupuesto disponible. No dice cuánto costará ni en qué calles.",
+            "v": "alta",
+            "n": "Le toca al Municipio, pero depende de presupuesto y estudios técnicos.",
+            "cita": "Intervenir al menos 400 km de vías mediante construcción, rehabilitación y mantenimiento",
+            "pag": 7
+          }
+        ],
+        "economia": [
+          {
+            "t": "Acompañar al menos a 10.000 comerciantes en trámites para regularizarse.",
+            "que": "El plan dice que dependerá de quién cumpla los requisitos. No dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio: mercados y espacio público. El plan no dice el costo.",
+            "cita": "Acompañar al menos a 10.000 comerciantes en procesos de regularización",
+            "pag": 10
+          },
+          {
+            "t": "Capacitar al menos a 25.000 personas en oficios y habilidades.",
+            "que": "El plan no dice cuánto costará. Dice que se hará con convenios con empresas y escuelas.",
+            "v": "media",
+            "n": "El Municipio da cursos, pero no crea empleo directo. El plan no dice costo.",
+            "cita": "Capacitar al menos a 25.000 personas durante el período.",
+            "pag": 8
+          }
+        ],
+        "social": [
+          {
+            "t": "Dar al menos 50.000 atenciones de prevención y recuperación por adicciones.",
+            "que": "El plan dice que la atención médica se hará por unidades de salud habilitadas. No dice costo.",
+            "v": "baja",
+            "n": "La atención de salud no es del Municipio. Solo puede prevenir.",
+            "cita": "Alcanzar al menos 50.000 atenciones acumuladas durante el período en prevención, atención, recuperación y reinserción",
+            "pag": 8
+          }
+        ]
+      },
+      "metas": [
+        "Modernizar o ampliar hasta 1.500 puntos de videovigilancia, según estudios técnicos.",
+        "Intervenir al menos 60 corredores prioritarios en 2027-2031.",
+        "Recuperar al menos 100 parques y espacios públicos de proximidad.",
+        "Llegar a 65 % de cobertura de agua potable y saneamiento urbano, si es viable.",
+        "Intervenir al menos 400 km de vías en el período."
+      ],
+      "notas": [
+        "Muchas metas dependen de presupuesto, estudios y otras entidades. El plan no dice cuánto costará ninguna obra ni cuándo empieza.",
+        "Varias propuestas son de Policía, salud o educación, que no le tocan al alcalde. El plan lo reconoce, pero las incluye."
+      ]
+    },
+    {
+      "codFormulario": 12104,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan de Pedro Medina para Guayaquil: agua, alcantarillado, basura, aceras, parques y catastro, con temas de Prefectura, policía y salud que no le tocan al alcalde.",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Hacer el transporte público más seguro, eficiente y accesible.",
+            "que": "Es una meta general de movilidad. El plan no dice qué cambios hará en buses ni tránsito, ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio, pero el plan no dice qué medidas toma.",
+            "cita": "promoviendo un transporte más seguro, eficiente y accesible.",
+            "pag": 10
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Mejorar el agua potable, el alcantarillado y el drenaje de lluvias.",
+            "que": "Es una meta general del plan, sin obras concretas en esta frase. El plan no dice cuánto costará ni en qué plazo.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto cuesta.",
+            "cita": "Mejorar la cobertura y calidad de los servicios básicos, especialmente agua potable, alcantarillado sanitario y drenaje de aguas lluvias.",
+            "pag": 9
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Arreglar aceras y bordillos para que sean accesibles, poco a poco.",
+            "que": "Se hará por etapas, también en parques y espacios públicos. El plan no dice cuántos kilómetros ni cuánto costará.",
+            "v": "alta",
+            "n": "Las aceras son competencia del Municipio. Sin cifras ni plazo.",
+            "cita": "Adecuación progresiva de aceras, bordillos, parques y espacios públicos para garantizar accesibilidad.",
+            "pag": 19
+          },
+          {
+            "t": "Arreglar parques y canchas para que sean seguros para los niños.",
+            "que": "Forma parte de recuperar espacios públicos. El plan no dice cuántos parques se arreglan ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuántos ni cuándo.",
+            "cita": "Espacios públicos, parques y canchas seguros y adecuados para niños.",
+            "pag": 18
+          },
+          {
+            "t": "Actualizar el catastro, la lista oficial de terrenos y casas, y regularizar barrios informales.",
+            "que": "El catastro es el registro de terrenos y casas del cantón. El plan no dice cuánto costará ni en qué plazo.",
+            "v": "alta",
+            "n": "Catastro y uso del suelo son del Municipio. Sin plazos.",
+            "cita": "fortaleciendo el catastro, la regularización de asentamientos y el acceso a vivienda adecuada.",
+            "pag": 9
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Mejorar la luz en espacios públicos para más seguridad.",
+            "que": "El plan no dice cuántas luces ni cuánto costará. El alumbrado depende también de la empresa eléctrica.",
+            "v": "media",
+            "n": "Depende de la empresa de luz. El plan no dice cuánto cuesta.",
+            "cita": "Mejorar la iluminación, accesibilidad y seguridad de espacios públicos.",
+            "pag": 18
+          }
+        ],
+        "social": [
+          {
+            "t": "Hacer acciones de prevención y promoción de la salud para niños.",
+            "que": "El plan no dice qué acciones ni cuánto costará. La salud es competencia del Ministerio, no del Municipio.",
+            "v": "baja",
+            "n": "La salud le toca al Ministerio de Salud, no al alcalde.",
+            "cita": "Acciones de prevención y promoción de la salud.",
+            "pag": 18
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Hacer una auditoría de servicios, contratos y obras en curso en 2027.",
+            "que": "Se publicará el resultado. El plan no dice cuánto costará ni quién la hace.",
+            "v": "alta",
+            "n": "Le toca al Municipio. Es una tarea del primer año.",
+            "cita": "Auditoría de servicios, contratos y estado real de las obras en ejecución",
+            "pag": 14
+          },
+          {
+            "t": "Publicar costo, avance y plazo de cada obra municipal.",
+            "que": "Será un sistema público con esa información por cada proyecto. El plan no dice desde qué año empieza.",
+            "v": "alta",
+            "n": "Lo decide el Municipio. El plan no dice cuánto cuesta.",
+            "cita": "Sistema de seguimiento de obras; información pública sobre costo, avance, plazo y estado de cada proyecto municipal.",
+            "pag": 20
+          }
+        ]
+      },
+      "metas": [
+        "Auditoría de servicios, contratos y obras publicada en 2027.",
+        "Portal de transparencia funcionando desde el primer año.",
+        "Informe por zonas sobre el avance cada tres meses.",
+        "Rendición de cuentas formal cada año.",
+        "Metas 2031 verificadas y publicadas."
+      ],
+      "notas": [
+        "El plan no pone costos en ninguna propuesta. Dice que el presupuesto real se verificará al asumir el cargo.",
+        "Varias ideas son de la Prefectura, la Policía o el Ministerio de Salud. El alcalde solo puede empujarlas."
+      ]
+    },
+    {
+      "codFormulario": 8306,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Propone obras de agua, alcantarillado, buses, mercados y vivienda, pero casi no dice cuánto costará. Salud, seguridad y escuelas no son del Municipio.",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Actualizar el plan de movilidad a 10, 20 y 30 años y hacer las obras por etapas.",
+            "que": "Dejará protegidas las calles futuras y hará las obras por etapas. El plan lo pone a 2 o 3 años. No dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio, por medio de la agencia de tránsito. Falta el costo.",
+            "cita": "se actualizará el Plan Maestro con horizonte de 10, 20 y 30 años",
+            "pag": 41
+          },
+          {
+            "t": "Promover el cambio de 200 buses a eléctricos, con inversión privada.",
+            "que": "Lo pondría la empresa de buses privada. El plan dice que depende de estudios de factibilidad. No dice cuánto costará.",
+            "v": "media",
+            "n": "La empresa privada pone los buses. El Municipio solo promueve el cambio.",
+            "cita": "Promoción del cambio de unidades a flota eléctrica (200 unidades eléctricas)",
+            "pag": 16
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Poner en funcionamiento pleno la planta de tratamiento de aguas Mi Lote.",
+            "que": "Conectaría a cooperativas del noroeste, unas 150.000 personas (estimado). El plan no dice cuánto costará. Plazo: 4 años.",
+            "v": "alta",
+            "n": "Le toca al Municipio, por medio de la empresa de agua. Falta el costo.",
+            "cita": "Poner en funcionamiento pleno la Planta de Tratamiento Mi Lote",
+            "pag": 14
+          },
+          {
+            "t": "Terminar la planta de tratamiento de aguas residuales Los Merinos.",
+            "que": "El plan dice que la obra va al 65% de avance. No dice cuánto costará terminarla. Plazo: 4 años.",
+            "v": "alta",
+            "n": "Obra del Municipio, por medio de la empresa de agua. Falta el costo final.",
+            "cita": "Concluir las obras de la Planta de tratamiento Los Merinos",
+            "pag": 14
+          }
+        ],
+        "economia": [
+          {
+            "t": "Construir y modernizar los mercados municipales de la ciudad.",
+            "que": "Beneficiaría a unos 15.000 comerciantes (estimado). El plan busca bajar precios de la canasta de forma indirecta. No dice cuánto costará.",
+            "v": "alta",
+            "n": "Los mercados son del Municipio. El plan no dice el costo.",
+            "cita": "Construcción y modernización de mercados como infraestructura de servicios",
+            "pag": 24
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Reactivar el plan de bacheo y terminar las obras que están paradas.",
+            "que": "Beneficia a unas 500.000 personas (estimado). El plan dice que es a menos de 1 año. No dice cuánto costará.",
+            "v": "alta",
+            "n": "Calles y obras son del Municipio. Costo sin definir.",
+            "cita": "Reactivar el Plan de Bacheo de la ciudad y reanudar las obras inconclusas",
+            "pag": 44
+          },
+          {
+            "t": "Ofrecer terrenos con servicios básicos para vivienda social, con cuota mensual.",
+            "que": "Unas 5.000 familias (estimado). El Municipio pone terrenos y exoneraciones; una empresa privada construye. No dice cuánto costará.",
+            "v": "media",
+            "n": "Depende de una empresa privada y de un subsidio nacional. Falta el costo.",
+            "cita": "terrenos con servicios básicos y urbanización completa, cuota inicial mínima",
+            "pag": 22
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Instalar cámaras inteligentes y alarmas comunitarias en sectores de la ciudad.",
+            "que": "Puntos estratégicos del cantón, en coordinación con la Policía. El plan dice que está sujeto a estudio. No dice cuánto costará.",
+            "v": "baja",
+            "n": "La seguridad le toca a la Policía, no al Municipio. Solo puede apoyar con cámaras.",
+            "cita": "Implementar puntos de videovigilancia inteligente con analítica de IA y alarmas comunitarias inteligentes",
+            "pag": 13
+          }
+        ],
+        "social": [
+          {
+            "t": "Entregar los hospitales municipales a empresas privadas para que los operen.",
+            "que": "Las empresas asumirían el personal y su pago laboral. El plan dice que mantendrá al menos un millón de atenciones al año.",
+            "v": "baja",
+            "n": "Los hospitales no son del Municipio; la atención de salud la lleva el Ministerio de Salud.",
+            "cita": "El Municipio entrega en uso su infraestructura de salud a prestadores privados",
+            "pag": 27
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Hacer una revisión de todas las cuentas municipales en los primeros 100 días.",
+            "que": "Revisión financiera integral de las cuentas al inicio de gestión. Lo paga el presupuesto del Municipio. El plan no dice cuánto cuesta.",
+            "v": "alta",
+            "n": "Las finanzas del Municipio son su responsabilidad directa. Falta el costo.",
+            "cita": "Proceso de revisión financiera integral y validación de cuentas al cumplimiento de los primeros 100 días de gestión",
+            "pag": 32
+          }
+        ]
+      },
+      "metas": [
+        "Cobertura de alcantarillado al 90% y de agua potable al 95%.",
+        "Revisión de las cuentas municipales en los primeros 100 días de gestión.",
+        "Regla 85/15: 85% en inversión y 15% en gasto corriente, con publicación semestral.",
+        "200 buses urbanos a eléctricos, con inversión privada.",
+        "Plan Maestro de Movilidad a 10, 20 y 30 años."
+      ],
+      "notas": [
+        "Casi todos los proyectos dicen \"estimación presupuestaria en desarrollo\". El plan no tiene costos cerrados.",
+        "Varias propuestas (policía, hospitales, escuelas) no son del Municipio; el plan las incluye igual.",
+        "Plan muy largo (70 págs.): se resumieron las 63 páginas con propuestas."
+      ]
+    },
+    {
+      "codFormulario": 7189,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan copiado en gran parte del plan de desarrollo de la ciudad. Propone agua, basura, calles, vivienda y riesgos; casi no dice costos.",
+      "tabla": {
+        "servicios": [
+          {
+            "t": "Llevar agua potable y alcantarillado al noroeste de la ciudad.",
+            "que": "Llegar al 100% de agua potable y 90% de alcantarillado en el noroeste hasta 2031. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+            "cita": "dotar de servicios a este sector esperando llegar al 100% de cobertura de agua potable",
+            "pag": 9
+          },
+          {
+            "t": "Recoger la basura doméstica de toda la ciudad y mantener cobertura del 100%.",
+            "que": "Se optimizará el servicio de recolección y gestión de la basura doméstica en todo el cantón. El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+            "cita": "Se optimizará el servicio de recolección y gestión de los desechos sólidos domésticos de todo el Cantón",
+            "pag": 9
+          },
+          {
+            "t": "Mantener funcionando las plantas de aguas residuales con control técnico.",
+            "que": "Busca 95% de eficiencia anual al depurar aguas residuales, cuando esté todo el programa de plantas nuevas. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará ni cómo se paga.",
+            "cita": "Mantener operativas las plantas de tratamiento de aguas residuales mediante el seguimiento y control técnico",
+            "pag": 9
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Intervenir 2.000 km de calles y vías hasta 2031, con obras nuevas y mantenimiento.",
+            "que": "Incluye mantenimiento en toda la red urbana actual y obras nuevas en sectores recién legalizados. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+            "cita": "esperando llegar a intervenir 2.000 Km de vías hasta el año 2031",
+            "pag": 9
+          },
+          {
+            "t": "Seguir legalizando terrenos en los sectores que la ley lo permita.",
+            "que": "Favorece a miles de familias que no tienen título de propiedad. El plan no dice cuántas familias ni cuándo.",
+            "v": "alta",
+            "n": "Le toca al Municipio, que maneja el uso del suelo. El plan no dice metas ni costos.",
+            "cita": "se mantendrá el programa de legalizaciones de predios en los sectores que el marco legal lo permita",
+            "pag": 11
+          },
+          {
+            "t": "Impulsar al menos 5 proyectos de vivienda de interés social hasta 2031.",
+            "que": "Se hará con el sector público y privado para familias de bajos recursos. El plan no dice cuánto costará ni quién pone el dinero.",
+            "v": "media",
+            "n": "La ciudad la impulsa, pero depende del sector privado y de dinero que el plan no dice.",
+            "cita": "Se proyecta impulsar al menos 5 proyectos urbanísticos de estas características hasta el 2031",
+            "pag": 12
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Analizar si se amplía la cobertura de la Metrovía.",
+            "que": "El plan solo dice que se analizará la posibilidad. Podría permitir pagar un solo pasaje para llegar a más destinos. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio, pero el plan solo dice que lo analizará.",
+            "cita": "se analizará de forma técnica la posibilidad de ampliar la cobertura del sistema METROVIA",
+            "pag": 11
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Impulsar o terminar 80 proyectos de gestión de riesgos hasta 2031.",
+            "que": "Busca proteger la vida y los medios de vida ante desastres y cambio climático. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio (prevención de desastres). El plan no dice cuánto costará.",
+            "cita": "Hasta el 2031 se habrán impulsado o consolidado 80 proyectos que aporten en la gestión de riesgos",
+            "pag": 12
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Coordinar con el Gobierno Central temas de seguridad ciudadana.",
+            "que": "El plan habla de coordinar con el Gobierno y de priorizar la seguridad. No dice cómo ni con qué recursos.",
+            "v": "baja",
+            "n": "No le toca al Municipio: la policía y la seguridad son del Gobierno Central.",
+            "cita": "Mantendremos una coordinación permanente con el Gobierno Central, los ministerios competentes",
+            "pag": 14
+          }
+        ],
+        "social": [
+          {
+            "t": "Ampliar servicios especializados del Hospital Bicentenario.",
+            "que": "El plan dice que ampliará la oferta del hospital. No dice cuánto ni cuándo.",
+            "v": "baja",
+            "n": "No le toca al Municipio: los hospitales no son competencia municipal.",
+            "cita": "ampliaremos la oferta de servicios especializados del Hospital Bicentenario",
+            "pag": 13
+          }
+        ]
+      },
+      "metas": [
+        "Llegar al 100% de cobertura de agua potable en el noroeste hasta 2031.",
+        "Llegar al 90% de cobertura de alcantarillado en el noroeste hasta 2031.",
+        "Intervenir 2.000 km de vías hasta 2031.",
+        "Impulsar al menos 5 proyectos de vivienda de interés social hasta 2031.",
+        "Impulsar o consolidar 80 proyectos de gestión de riesgos hasta 2031."
+      ],
+      "notas": [
+        "Gran parte del texto copia el plan de desarrollo de la ciudad. Costos, dinero y metas dicen 'Ver anexo' y el anexo no trae cifras.",
+        "Casi ninguna propuesta dice cuánto costará ni de dónde saldrá el dinero."
+      ]
+    },
+    {
+      "codFormulario": 2954,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Obras viales y Parque Lineal del Estero Salado, casas, basura, aguas y árboles. Varias propuestas de policía, salud y escuelas no son del Municipio.",
+      "tabla": {
+        "urbano": [
+          {
+            "t": "Construir obras viales y la primera etapa del Gran Parque Lineal del Estero Salado.",
+            "que": "Unos 225 millones de dólares al año: 25% del Municipio y el resto de convenios con el Gobierno y préstamos. El plan no dice qué calles ni cuándo termina el parque.",
+            "v": "media",
+            "n": "Obra vial sí es del Municipio, pero depende de dinero del Gobierno y de préstamos.",
+            "cita": "Vamos a invertir cerca de 225 Millones de dólares por año en obra de infraestructura urbano vial",
+            "pag": 20
+          },
+          {
+            "t": "Estudiar cada dos años los asentamientos irregulares y aprobar nuevos límites urbanos.",
+            "que": "Un estudio técnico cada dos años. Con ordenanza se llevarían servicios básicos y se legalizarían terrenos en zonas irregulares. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Uso del suelo y ordenanzas son del Municipio. Falta costo.",
+            "cita": "aprobar la extensi��n del área urbana de la ciudad, lo cual va a permitir la provisión de servicios básicos y legalización de terrenos",
+            "pag": 23
+          }
+        ],
+        "social": [
+          {
+            "t": "Construir casas de interés social y remodelar casas en sectores populares.",
+            "que": "Meta de bajar 10% el déficit de casas, unas 20.000 soluciones. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+            "v": "media",
+            "n": "Vivienda sí es del Municipio, pero el plan no dice cómo la pagará.",
+            "cita": "alcanzar a reducir en un 10% el déficit habitacional de Guayaquil, mediante programas de construcción de viviendas de interés social",
+            "pag": 24
+          },
+          {
+            "t": "Construir centros para tratar adicciones a drogas en niños y adolescentes de 10 a 18 años.",
+            "que": "18 millones de dólares al año para centros de tratamiento. El plan no dice cuántos centros ni dónde.",
+            "v": "baja",
+            "n": "La salud no es del Municipio. Solo podría aportar dinero con convenio.",
+            "cita": "destinaremos el equivalente del 2% del Presupuesto municipal, es decir cerca de 18 Millones de dólares por año",
+            "pag": 21
+          },
+          {
+            "t": "Construir y equipar escuelas municipales en barrios populares del norte y sur.",
+            "que": "18 millones de dólares al año para escuelas. El plan no dice cuántas escuelas ni en qué plazo.",
+            "v": "baja",
+            "n": "Las escuelas no son del Municipio. Solo podría aportar con convenio.",
+            "cita": "destinar 18 Millones de dólares por año, es decir el equivalente al 2% del Presupuesto Municipal",
+            "pag": 22
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Comprar una planta procesadora de basura para tratar al menos la mitad de los desechos.",
+            "que": "Procesaría al menos el 50% de la basura recogida en la ciudad. El plan no dice cuánto costará ni cuándo estará lista.",
+            "v": "alta",
+            "n": "El manejo de basura es del Municipio. Faltan costo y plazo.",
+            "cita": "mediante la adquisición de una Planta Procesadora de Basura, que sea capaz de procesar al menos el 50% de los desechos sólidos",
+            "pag": 23
+          },
+          {
+            "t": "Repotenciar todas las plantas de aguas residuales, sobre todo las cerca de casas.",
+            "que": "Las plantas más cercanas a zonas habitadas serían prioridad. El plan no dice cuánto costará ni en qué plazo.",
+            "v": "alta",
+            "n": "Agua y alcantarillado son del Municipio. Faltan costo y plazo.",
+            "cita": "Repotenciar todas las plantas de tratamiento y depuración de las aguas residuales, especialmente aquellas que se encuentra cerca de las zonas habitadas",
+            "pag": 23
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Plantar árboles nativos en cada zona de la ciudad.",
+            "que": "Campaña de siembra de árboles nativos en todas las zonas. El plan no dice cuántos árboles ni cuánto costará.",
+            "v": "alta",
+            "n": "Parques y áreas verdes sí son del Municipio.",
+            "cita": "Realizar una Campaña agresiva de arborización, con árboles nativos de cada zona de la ciudad",
+            "pag": 23
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Cambiar poco a poco los buses de la Metrovía por buses eléctricos.",
+            "que": "Reemplazo gradual de las unidades de la Metrovía por unidades de motor eléctrico. El plan no dice cuántos buses ni en qué año.",
+            "v": "alta",
+            "n": "Buses y tránsito son del Municipio. Falta plazo y costo.",
+            "cita": "la programación del remplazo paulatino de las unidades de transporte del sistema Metrovía, por unidades de motor eléctrico",
+            "pag": 23
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Destinar 45 millones de dólares al año a seguridad, incluido equipo para la Policía.",
+            "que": "Dinero del Municipio para equipos de la Policía Nacional y cuatro centros de cámaras. El plan no dice cómo ni cuándo.",
+            "v": "baja",
+            "n": "La policía no es del Municipio. Solo puede aportar dinero.",
+            "cita": "invertir el equivalente del 5% del Presupuesto, es decir, cerca de 45 Millones de dólares por año, al servicio de la Seguridad Ciudadana",
+            "pag": 21
+          }
+        ]
+      },
+      "metas": [
+        "Invertir cerca de 225 millones de dólares al año en obra vial y el parque del Estero Salado.",
+        "Reducir en 10% el déficit de vivienda de Guayaquil.",
+        "Alcanzar 20.000 soluciones habitacionales.",
+        "Procesar al menos el 50% de la basura sólida con la nueva planta.",
+        "Hacer un estudio técnico de asentamientos irregulares cada dos años."
+      ],
+      "notas": [
+        "Muchas páginas copian leyes. Varias propuestas son de policía, salud o escuelas, que no son del Municipio.",
+        "El mismo 2% (18 millones al año) aparece para centros de salud y para escuelas. El plan no aclara cuál es."
+      ]
+    },
+    {
+      "codFormulario": 5658,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Sigue el plan de la ciudad 2023-2027. Propone agua, drenaje contra inundaciones, parques, buses y vías, pero no dice cuánto costará.",
+      "tabla": {
+        "ambiente": [
+          {
+            "t": "Reducir las inundaciones urbanas con el programa Plan Choque.",
+            "que": "Es parte del plan de la gestión 2023-2027 y se haría en los años 1 a 4. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio (lluvias y drenaje). El plan no dice el costo.",
+            "cita": "Programa “Plan Choque” para la reducción de inundaciones urbanas",
+            "pag": 40
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Ampliar las redes de agua potable por tubería.",
+            "que": "El plan no dice en qué barrios ni cuánto costará. Se pagaría con dinero propio, créditos y convenios.",
+            "v": "alta",
+            "n": "Le toca al Municipio. Faltan barrios y costo.",
+            "cita": "Ampliación de redes de Agua Potable por tubería.",
+            "pag": 40
+          },
+          {
+            "t": "Ampliar la capacidad de las plantas que tratan el agua servida.",
+            "que": "Serviría para tratar más aguas de desagüe antes de soltarlas. El plan no dice cuánto costará ni en qué año.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice costo ni fecha.",
+            "cita": "Ampliación de la capacidad de plantas de tratamiento de agua servidas en Guayaquil",
+            "pag": 34
+          },
+          {
+            "t": "Crear un programa de reciclaje con separación de basura por barrio.",
+            "que": "La basura se separaría desde la casa, barrio por barrio. El plan no dice cuánto costará ni cuándo empieza.",
+            "v": "alta",
+            "n": "La basura le toca al Municipio. Faltan costo y fecha.",
+            "cita": "Programa de reciclaje y separación en la fuente por barrio.",
+            "pag": 39
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Arreglar parques, plazas, malecones y calles en zonas ya construidas.",
+            "que": "Se haría en áreas ya consolidadas (ya urbanizadas). El plan no dice cuáles zonas ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. Faltan zonas y costo.",
+            "cita": "Programa de mejoramiento urbano del espacio público en áreas consolidadas – parques, plazas, malecones, y vías",
+            "pag": 40
+          },
+          {
+            "t": "Construir parques urbanos nuevos con el programa Calle por Parques.",
+            "que": "El plan no dice cuántos parques ni en qué barrios. Tampoco dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio, pero el plan no da cifras.",
+            "cita": "Programa de construcción de nuevos parques urbanos – Calle por Parques.",
+            "pag": 40
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Ampliar la red de troncales de la Metrovía.",
+            "que": "El plan no dice cuántas troncales ni cuánto costará. Se pagaría con crédito, convenios y operadores.",
+            "v": "media",
+            "n": "Depende de créditos y convenios, no solo del Municipio.",
+            "cita": "Programa de ampliación y mejoramiento de la red de troncales de la metro vía",
+            "pag": 40
+          },
+          {
+            "t": "Mejorar los buses del transporte público masivo.",
+            "que": "El plan no dice cuántos buses ni cuánto costará. Se pagaría con dinero municipal, crédito y operadores.",
+            "v": "media",
+            "n": "Depende de los operadores de buses y de créditos.",
+            "cita": "Programa de mejoramiento de buses de transporte público masivo",
+            "pag": 40
+          },
+          {
+            "t": "Crear una red de ciclovías que conecte universidades y espacios públicos.",
+            "que": "El plan no dice cuántos kilómetros ni cuánto costará. Tampoco dice en qué años se haría.",
+            "v": "alta",
+            "n": "Le toca al Municipio (calles y movilidad). Falta el costo.",
+            "cita": "Programa de la red urbana de ciclovías en la zona urbana de Guayaquil que",
+            "pag": 40
+          },
+          {
+            "t": "Construir pasos a desnivel, túnel y ensanchar vías en la Vía a la Costa.",
+            "que": "El plan no dice cuánto costará ni en qué años. Pide también al Gobierno central y a gobiernos locales vecinos.",
+            "v": "media",
+            "n": "Depende también del Gobierno central y de otros gobiernos locales.",
+            "cita": "Construcción de pasos a desnivel, ensanchamiento de vías, construcción de túnel",
+            "pag": 40
+          }
+        ]
+      },
+      "metas": [
+        "Lograr la recuperación de los espacios naturales de la ciudad en 4 años.",
+        "Beneficiar a 10.000 deportistas de los sectores más vulnerables en 12 meses.",
+        "Incrementar la cobertura de servicios municipales en 12 meses.",
+        "Ejecutar proyectos de agua, alcantarillado y tratamiento en los años 1 a 4."
+      ],
+      "notas": [
+        "Casi todo viene del plan de la ciudad 2023-2027 y de la gestión anterior. Los costos de los proyectos están \"por determinar\".",
+        "Incluye salud, seguridad y empleo, que no son competencia del Municipio. Aquí solo se evalúan las propuestas municipales.",
+        "Plan muy largo (69 págs.): se resumieron las 52 páginas con propuestas."
+      ]
+    },
+    {
+      "codFormulario": 10698,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Propone drenaje, regularizar barrios, semáforos, caminos rurales, basura y prevención de riesgos; mucho texto es copiado del plan de desarrollo de la ciudad.",
+      "tabla": {
+        "servicios": [
+          {
+            "t": "Ampliar redes de agua potable y alcantarillado en barrios periféricos y parroquias rurales.",
+            "que": "El plan no dice cuánto costará ni en qué año. Dice que la empresa privada concesionaria paga la mayor parte de estas redes.",
+            "v": "media",
+            "n": "Le toca al Municipio, pero la empresa privada pone la mayor parte del dinero.",
+            "cita": "Ampliar las redes de agua potable y alcantarillado sanitario en los sectores urbanos periféricos",
+            "pag": 18
+          },
+          {
+            "t": "Dar mantenimiento permanente a canales y sumideros para el agua de lluvia, urbano y rural.",
+            "que": "Prioriza el sur y suroeste, donde hay inundaciones. El plan no dice cuánto costará ni en qué año.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto cuesta.",
+            "cita": "Ejecutar el programa municipal de drenaje pluvial urbano y rural, con mantenimiento permanente de canales, esteros, sumideros",
+            "pag": 18
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Regularizar barrios ya construidos y acelerar la entrega de títulos de propiedad.",
+            "que": "La cartera le asigna 60 millones de USD para 2027-2031. El plan no dice cuántos barrios ni títulos.",
+            "v": "alta",
+            "n": "Le toca al Municipio, que regula el uso del suelo.",
+            "cita": "Regularizar los asentamientos humanos consolidados y acelerar la legalización de la tenencia del suelo",
+            "pag": 20
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Poner semáforos inteligentes y un centro de control del tránsito.",
+            "que": "El plan de movilidad cuesta 3 millones de USD (2027-2028). El plan no dice cuántos semáforos ni en qué calles.",
+            "v": "alta",
+            "n": "Le toca al Municipio: el tránsito es su competencia.",
+            "cita": "Ejecutar el Plan Integral de Movilidad Urbana y Metropolitana 2031, con semaforización inteligente",
+            "pag": 21
+          },
+          {
+            "t": "Arreglar caminos vecinales, puentes y muelles en Posorja, Puná, Tenguel, El Morro y Progreso.",
+            "que": "Conectividad rural: 50 millones de USD, 2027-2031. Lo harían el Municipio, la Prefectura (Gobierno Provincial) y el Gobierno nacional, según competencia.",
+            "v": "media",
+            "n": "Le toca al Municipio en parte; la Prefectura y el Gobierno también.",
+            "cita": "Mejorar la conectividad vial hacia Posorja, Puná, Tenguel, El Morro y Progreso, con rehabilitación de caminos vecinales",
+            "pag": 21
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Instalar cámaras inteligentes para prevenir delitos, conectadas a sistemas municipales.",
+            "que": "30 millones de USD, 2027-2031, con coordinación del Gobierno Nacional. El plan no dice cuántas cámaras ni dónde.",
+            "v": "media",
+            "n": "La policía sigue siendo del Gobierno Nacional; el Municipio pone cámaras.",
+            "cita": "Implementar un sistema inteligente de videovigilancia con analítica predictiva para la prevención del delito",
+            "pag": 26
+          },
+          {
+            "t": "Fortalecer el sistema de prevención de riesgos, con alertas para inundaciones y El Niño.",
+            "que": "El plan no dice cuánto costará. Su meta: mapas de amenaza y planes de contingencia por sector, publicados.",
+            "v": "alta",
+            "n": "Le toca al Municipio: prevenir desastres es su competencia.",
+            "cita": "Fortalecer el Sistema Cantonal de Prevención y Reducción de Riesgos, con monitoreo, preparación, respuesta",
+            "pag": 25
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Recuperar el Estero Salado: saneamiento, espacios públicos y monitoreo.",
+            "que": "80 millones de USD, 2027-2031, junto con el Ministerio del Ambiente, Agua y Transición Ecológica (MAATE). El plan no dice qué parte paga el Municipio.",
+            "v": "media",
+            "n": "Le toca al Municipio, pero lo comparte con el Ministerio del Ambiente.",
+            "cita": "Ejecutar el Programa de Recuperación Integral del Estero Salado, con saneamiento ambiental, recuperación de espacios públicos",
+            "pag": 18
+          },
+          {
+            "t": "Cambiar la basura a un sistema de reciclaje y aprovechamiento de materiales.",
+            "que": "Economía circular: 5 millones de USD, 2027-2031. Biogás desde residuos: 45 millones, 2028-2031. El plan no dice cuántas toneladas.",
+            "v": "alta",
+            "n": "Le toca al Municipio: la basura es su competencia.",
+            "cita": "Transitar de un sistema convencional de recolección hacia un modelo de economía circular, con separación en la fuente",
+            "pag": 22
+          }
+        ],
+        "social": [
+          {
+            "t": "Dar salud preventiva, brigadas médicas y una maternidad municipal.",
+            "que": "Centro de Maternidad: 50 millones de USD, 2027-2031. El plan no dice dónde se construirá.",
+            "v": "baja",
+            "n": "La salud le toca al Ministerio de Salud, no al Municipio.",
+            "cita": "Implementar programas de salud preventiva, brigadas médicas y campañas de promoción de la salud",
+            "pag": 24
+          }
+        ]
+      },
+      "metas": [
+        "Comisión técnica para decidir el agua después de 2031, creada en el primer año de gestión.",
+        "Metas anuales de cobertura de agua y alcantarillado por sector, con línea base en el primer año.",
+        "Centros municipales desconcentrados en funcionamiento en las cinco parroquias rurales.",
+        "Ejecutar 90 % de las intervenciones viales y de accesibilidad programadas.",
+        "Estudios del sistema de transporte metropolitano concluidos dentro del período 2027-2031."
+      ],
+      "notas": [
+        "Gran parte es copiado del plan de desarrollo municipal de la ciudad. Hasta 2031 el agua la maneja una empresa privada.",
+        "Casi 68 % de los 898,5 millones de USD depende de préstamos y otros gobiernos. Salud, escuelas y policía no son del Municipio.",
+        "Plan muy largo (49 págs.): se resumieron las 40 páginas con propuestas."
+      ]
+    }
+  ]
+}

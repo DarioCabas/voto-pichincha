@@ -1,0 +1,164 @@
+{
+ "enfoque": "Gran parte del texto copia leyes y el plan de desarrollo del cantón. Propone vías a comunidades, un mercado y kits para agricultores. No dice costos.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Poner asfalto en las vías hasta la cabecera de cada comunidad.",
+    "que": "El plan no dice cuánto costará ni cuándo. Se priorizarían los tramos con mayor impacto social y productivo.",
+    "v": "media",
+    "n": "Las vías rurales se coordinan con la Prefectura. El plan no dice cómo se pagará.",
+    "cita": "Proyectos de vialidad hacia las comunidades contar con asfalto hasta las cabeceras de cada comunidad.",
+    "pag": 43
+   },
+   {
+    "t": "Abrir vías nuevas hacia comunidades y recintos que no tienen acceso para sacar sus productos.",
+    "que": "El plan no dice cuánto costará ni cuándo. Se haría en coordinación con otros niveles de gobierno.",
+    "v": "media",
+    "n": "Depende de convenios con otros niveles de gobierno. El plan no dice cómo se pagará.",
+    "cita": "Estudios y construcción para apertura viales hacia las comunidades y recintos que no tienen acceso de una vía",
+    "pag": 43
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer un plan de reforestación en zonas donde se corta árboles sin control.",
+    "que": "El plan no dice cuántos árboles ni cuánto costará. Busca proteger el agua de vertientes y cuencas.",
+    "v": "media",
+    "n": "Depende de coordinar con la Prefectura. El plan no dice costo ni plazo.",
+    "cita": "implementación de un plan integral de reforestación en las áreas donde existe tala indiscriminada",
+    "pag": 17
+   },
+   {
+    "t": "Implementar acciones de gestión de riesgos y adaptación al cambio climático.",
+    "que": "El plan no dice qué obras ni cuánto costará. Busca prevenir riesgos y reducir lo que hace vulnerable a la comunidad.",
+    "v": "alta",
+    "n": "Prevenir desastres sí le toca al Municipio. El plan no dice costo.",
+    "cita": "Implementar acciones de gestión de riesgos y adaptación al cambio climático,",
+    "pag": 42
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Gestionar una nueva ciudad con vivienda digna para quienes no tienen casa propia.",
+    "que": "El plan dice que habrá intervención del Estado y autogestión desde el lote. No dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "La vivienda no es competencia del Municipio. Depende del Estado.",
+    "cita": "La nueva ciudad de Guachapala, vivienda digna a todas las personas que no poseen un lugar donde vivir",
+    "pag": 43
+   }
+  ],
+  "social": [
+   {
+    "t": "Entregar kits de alimentos cada mes a madres con hijos menores de 18 años.",
+    "que": "El plan no dice cuánto costará ni de dónde saldrá el dinero. Prioriza hogares en situación de vulnerabilidad.",
+    "v": "baja",
+    "n": "Repartir comida no es competencia municipal. El plan no dice cómo se pagará.",
+    "cita": "para todas las madres del cantón que tengan hijos menores a 18 años se les entregará kits alimenticios mensuales",
+    "pag": 40
+   },
+   {
+    "t": "Gestionar la construcción de un espacio deportivo, de arte y de música.",
+    "que": "El plan no dice dónde ni cuánto costará. Se trata de gestionar la obra, es decir, buscar recursos.",
+    "v": "media",
+    "n": "Parques y espacios públicos sí son del Municipio, pero depende de otros fondos.",
+    "cita": "Gestionar la construcción de un espacio para el área deportiva, de arte, de música",
+    "pag": 40
+   },
+   {
+    "t": "Crear una red de apoyo para la salud mental en las comunidades.",
+    "que": "El plan no dice cuántos talleres ni cuánto costará. Se haría con un equipo multidisciplinario.",
+    "v": "baja",
+    "n": "La salud no le toca al Municipio, sino al sector de salud.",
+    "cita": "Crear una red de apoyo para garantizar la salud mental comunitaria donde se ejecuten",
+    "pag": 40
+   }
+  ],
+  "economia": [
+   {
+    "t": "Entregar kits de fungicidas, semillas, fertilizantes y herramientas a agricultores y artesanos.",
+    "que": "El plan no dice cuánto costará ni cuántos kits se entregarán. Lo harían junto con entidades del Estado.",
+    "v": "media",
+    "n": "Depende de entidades del Estado. El plan no dice cómo se pagará.",
+    "cita": "se entregarán kits de productos (fungicidas, semillas, fertilizantes, herramientas)",
+    "pag": 41
+   },
+   {
+    "t": "Construir un mercado para los productores de Guachapala.",
+    "que": "El plan no dice cuánto costará ni dónde estará. Sería un espacio para agricultores y productores locales.",
+    "v": "alta",
+    "n": "Los mercados sí le tocan al Municipio. El plan no dice costo ni fecha.",
+    "cita": "Construcción del mercado para los productores de Guachapala un espacio digno",
+    "pag": 41
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Transmitir por medios las sesiones del concejo a la población.",
+    "que": "Las sesiones del concejo se transmitirían a la población por medios de comunicación.",
+    "v": "alta",
+    "n": "Es decisión propia del Municipio. El plan no dice costo.",
+    "cita": "sesiones de concejo serán transmitidas hacia la población",
+    "pag": 44
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "Gran parte del texto copia leyes y el plan de desarrollo del cantón. Casi no tiene propuestas con costo ni fecha.",
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50
+ ],
+ "paginas": 50
+}

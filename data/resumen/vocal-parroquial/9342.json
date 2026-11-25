@@ -1,0 +1,122 @@
+{
+ "enfoque": "Mismo plan para los cinco candidatos: parques, casas comunales, ferias, reforestación y caminos con la Prefectura. Pide agua y alcantarillado, que no le tocan.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Construir o arreglar parques, espacios públicos o canchas deportivas.",
+    "que": "El plan no dice cuánto costará ni cuándo se hará. No dice en qué parques ni canchas.",
+    "v": "media",
+    "n": "Le toca a la junta, pero necesita dinero que el plan no explica.",
+    "cita": "Construir y/o rehabilitar espacios públicos, parques o canchas deportivas.",
+    "pag": 8
+   },
+   {
+    "t": "Mejorar casas comunales y equipamiento de uso colectivo.",
+    "que": "El plan no dice cuánto costará ni qué casas comunales se mejorarán. Tampoco dice cuándo.",
+    "v": "media",
+    "n": "Le toca a la junta, pero el plan no dice de dónde saldrá el dinero.",
+    "cita": "Mejorar casas comunales y equipamiento de uso colectivo.",
+    "pag": 8
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer programas para sembrar árboles y cuidar fuentes de agua.",
+    "que": "El plan no dice cuántos árboles ni en qué lugares, ni cuánto costará. Tampoco dice cuándo.",
+    "v": "alta",
+    "n": "Le toca a la junta: son temas de ambiente y de cuidar fuentes de agua.",
+    "cita": "Ejecutar programas de reforestación y protección de fuentes de agua.",
+    "pag": 9
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Pedir a la Prefectura el arreglo de caminos vecinales y de acceso.",
+    "que": "El plan no dice qué caminos ni cuándo. La junta solo coordina la maquinaria y los recursos con la Prefectura.",
+    "v": "media",
+    "n": "Le toca a la Prefectura. La junta solo coordina.",
+    "cita": "Coordinar con la Prefectura el mantenimiento y mejoramiento de los caminos vecinales y de acceso.",
+    "pag": 8
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar emprendimientos y ferias de productos de la parroquia.",
+    "que": "El plan no dice cuántas ferias habrá, ni dónde, ni cuándo. No dice cuánto apoyo en dinero.",
+    "v": "alta",
+    "n": "Le toca a la junta: ferias y apoyo a productores.",
+    "cita": "Apoyar emprendimientos y ferias productivas de la parroquia.",
+    "pag": 9
+   },
+   {
+    "t": "Dar cursos para cultivar mejor y crear proyectos agrícolas.",
+    "que": "El plan no dice cuántos cursos habrá, ni para quién, ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta: cursos para cultivar y emprender.",
+    "cita": "Capacitaciones y tecnificación de sembrios Fomentar la creación de proyectos",
+    "pag": 9
+   }
+  ],
+  "social": [
+   {
+    "t": "Mejorar centros infantiles, con acuerdos con las autoridades competentes.",
+    "que": "El plan no dice cuántos centros ni cuándo. Solo habla de hacer convenios o acuerdos.",
+    "v": "baja",
+    "n": "Es tema de niños y educación, no de la junta. Solo puede hacer acuerdos.",
+    "cita": "Mejorar y mantener los centros infantiles, mediante convenios o acuerdos con las autoridades competentes",
+    "pag": 8
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Dar cuentas cada año en una audiencia pública abierta.",
+    "que": "El plan no dice la fecha ni el lugar de la audiencia. Tampoco dice cómo se avisará.",
+    "v": "alta",
+    "n": "Le toca a la junta. Es una obligación de rendir cuentas.",
+    "cita": "Informe anual de rendición de cuentas ante la ciudadanía, mediante audiencia pública convocada abiertamente.",
+    "pag": 10
+   },
+   {
+    "t": "Dar seguimiento a las obras que se hacen en la parroquia.",
+    "que": "El plan no dice cómo se hará el seguimiento ni con qué informes. Tampoco dice cuándo.",
+    "v": "alta",
+    "n": "Le toca a la junta vigilar obras, aunque no las pague.",
+    "cita": "Dar seguimiento a las obras que se ejecutan en la parroquia.",
+    "pag": 2
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir a otras instituciones agua, luz y alcantarillado.",
+    "que": "El plan no dice para qué sectores ni cuándo. Solo dice que se gestionará con otras entidades.",
+    "v": "baja",
+    "n": "Agua, luz y alcantarillado no le tocan a la junta.",
+    "cita": "Gestionar con las instituciones competentes para solventar necesidades básicas de agua, luz y alcantarillado",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [
+  "Informe anual de rendición de cuentas ante la ciudadanía.",
+  "Plan de trabajo para el período 2027-2031."
+ ],
+ "notas": [
+  "Los cinco candidatos presentan el mismo plan. El texto no dice cuánto costará ninguna obra ni de dónde saldrá el dinero.",
+  "Parte del texto viene de planes generales de la parroquia y del cantón. Varias propuestas son de la Prefectura o de otras entidades."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "paginas": 11
+}

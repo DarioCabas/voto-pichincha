@@ -1,0 +1,114 @@
+{
+ "enfoque": "Plan copiado del plan de desarrollo de Quito y Pichincha. Propone cuidar áreas verdes, cursos para emprendedores y programas sociales; varias cosas no son de la junta.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Proteger y conservar áreas verdes, quebradas, fuentes de agua y espacios naturales.",
+    "que": "El plan dice que lo hará con recuperación, educación ambiental y participación ciudadana. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca a la junta. El plan no dice cuánto costará.",
+    "cita": "Proteger y conservar las áreas verdes. quebradas, fuentes de agua y espacios naturales de la parroquia",
+    "pag": 3
+   },
+   {
+    "t": "Dar charlas sobre reciclaje, manejo de basura y siembra de árboles.",
+    "que": "El plan dice que lo hará con educación ambiental en la comunidad. No dice cuántas charlas ni cuándo.",
+    "v": "alta",
+    "n": "Charlas y siembras son trabajo de la junta. No cuestan mucho.",
+    "cita": "promoviendo prácticas sostenibles de reciclaje, manejo adecuado de residuos, reforestación y cuidado del entorno",
+    "pag": 3
+   },
+   {
+    "t": "Hacer campañas de esterilización, vacunación y adopción de animales de compañía.",
+    "que": "El plan dice que incluirá educación sobre tenencia responsable de animales. No dice cuánto costará ni quién pondrá los veterinarios.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio. El plan no dice cuánto costará.",
+    "cita": "mediante campañas de esterilización. vacunación, adopción responsable y educación sobre tenencia responsable de animales de compañia",
+    "pag": 3
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar cámaras de videovigilancia y crear una Sala Comunitaria de Monitoreo.",
+    "que": "Se instalarán poco a poco, con acceso restringido y coordinación con la Policía. El plan no dice cuánto costará ni cuántas cámaras.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio y la Policía. El plan no dice costos.",
+    "cita": "mediante la instalación progresiva de cámaras de videovigilancia y la creación de una Sala Comunitaria de Monitoreo",
+    "pag": 3
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Gestionar obras en espacios públicos, escenarios deportivos y áreas recreativas.",
+    "que": "El plan dice que se hará en coordinación con las instituciones competentes. No dice cuánto costará ni en qué lugares.",
+    "v": "media",
+    "n": "Las obras grandes dependen de fondos del Municipio o la Prefectura.",
+    "cita": "Gestionar proyectos de infraestructura comunitaria relacionados con espacios públicos, escenarios deportivos, áreas recreativas",
+    "pag": 3
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Gestionar obras de agua potable y alcantarillado.",
+    "que": "El plan lo incluye en la lista de obras, pero no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "El agua potable no le toca a la junta.",
+    "cita": "áreas recreativas. agua potable, alcantarillado, vialidad y equipamiento comunitario",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar cursos y asesoría a emprendedores, comerciantes, artesanos y agricultores.",
+    "que": "El plan dice que lo hará con instituciones competentes. No dice cuántos cursos ni cuánto costará.",
+    "v": "alta",
+    "n": "Cursos y asesoría son trabajo de la junta.",
+    "cita": "Facilitar procesos de capacitación, asistencia técnica y fortalecimiento de capacidades para emprendedores, comerciantes, agricultores urbanos, artesanos",
+    "pag": 3
+   }
+  ],
+  "social": [
+   {
+    "t": "Gestionar campañas de salud preventiva, atención médica y odontología.",
+    "que": "El plan dice que lo hará con el Seguro Social Campesino y el Sistema Nacional de Salud. No dice cuánto costará.",
+    "v": "baja",
+    "n": "La salud no le toca a la junta.",
+    "cita": "Gestionar campañas permanentes de salud preventiva, atención médica, salud mental, odontología",
+    "pag": 2
+   },
+   {
+    "t": "Hacer programas para mujeres, jóvenes, niños, adultos mayores y personas con discapacidad.",
+    "que": "El plan no dice qué programas ni cuántos beneficiarios tendrán. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Programas y participación comunitaria son trabajo de la junta.",
+    "cita": "Implementar programas de inclusión social y participación orientados a mujeres, jóvenes, niños",
+    "pag": 2
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Explicar a la comunidad en qué se gasta el presupuesto de la parroquia.",
+    "que": "El plan dice que habrá reuniones y boletines, y que la gente ayudará a decidir qué proyectos van primero. No dice cada cuánto.",
+    "v": "alta",
+    "n": "Informar y decidir proyectos con la gente es trabajo de la junta.",
+    "cita": "Socializar de manera clara y detallada el presupuesto parroquial, explicando las asignaciones, inversiones y gastos ejecutados",
+    "pag": 4
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "Plan copiado del plan de desarrollo de Quito y Pichincha. Varias propuestas (salud, agua, Policía) no son de la junta.",
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "paginas": 6
+}

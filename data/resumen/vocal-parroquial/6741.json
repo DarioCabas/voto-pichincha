@@ -1,0 +1,110 @@
+{
+ "enfoque": "Propone arreglar caminos con mingas, cuidar el ambiente con talleres, apoyar productores, arreglar espacios públicos y buscar dinero de cooperantes. Parte del texto viene del plan de desarrollo de la parroquia.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Construir y mantener caminos parroquiales y vecinales, con la comunidad y convenios.",
+    "que": "Se hará con trabajo directo de la junta y de la comunidad, en 32 comunidades. El plan no dice cuánto costará ni cuándo se pagará. Meta: 5 proyectos entre 2027 y 2031.",
+    "v": "media",
+    "n": "Obras grandes o maquinaria necesitan acuerdo con la Prefectura (gobierno provincial).",
+    "cita": "Planificar, gestionar, construir y mantener lo violidad parroquial y vecinal,",
+    "pag": 12
+   },
+   {
+    "t": "Hacer mingas con los equipos de la junta para arreglar caminos.",
+    "que": "El plan dice que serán 5 proyectos de arreglo de caminos en 32 comunidades, entre 2027 y 2031. No dice cuánto costará ni con qué dinero.",
+    "v": "alta",
+    "n": "Le toca a la junta: son mingas con equipos de la propia junta.",
+    "cita": "Impulsar ta minga con equipos comineros de la Junte parroquical.",
+    "pag": 16
+   }
+  ],
+  "economia": [
+   {
+    "t": "Buscar convenios con organizaciones cooperantes para conseguir recursos.",
+    "que": "El plan propone armar un banco de cooperantes. Meta: 4 convenios, uno por año, de 2028 a 2031. El plan no dice cuánto dinero se conseguirá.",
+    "v": "media",
+    "n": "Depende de que otras organizaciones firmen. El plan no dice cuánto dinero llegará.",
+    "cita": "Por la folto de recursos estatales y los constantes recortes, es necesario solicitar el respoldo de",
+    "pag": 14
+   },
+   {
+    "t": "Apoyar a los productores con tecnología y ayuda para vender sus productos.",
+    "que": "El plan no dice cuánto costará ni cuándo. Dice que se hará con estrategias participativas, respetando saberes ancestrales.",
+    "v": "media",
+    "n": "Apoyar productores sí le toca, pero el plan no dice con qué dinero ni técnicos.",
+    "cita": "Impulsar el desarrollo de las actividades productivas y agropecuarias",
+    "pag": 12
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer 10 talleres de conservación de ecosistemas y biodiversidad.",
+    "que": "El plan fija 10 talleres entre 2028 y 2031, para la gente de la parroquia. No dice dónde se harán ni cuánto costarán.",
+    "v": "alta",
+    "n": "Talleres y cuidado del ambiente sí le tocan a la junta. El plan no dice el costo.",
+    "cita": "Promover la conservación, protección y uso sostenible de los recursos",
+    "pag": 13
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Construir y mantener espacios públicos y equipamientos comunitarios de la parroquia.",
+    "que": "El plan no dice qué obras, en qué comunidad ni cuánto costarán. Es para el beneficio de la comunidad.",
+    "v": "media",
+    "n": "Parques y espacios sí le tocan. Obras grandes necesitan acuerdo con el Municipio.",
+    "cita": "Planificar, gestionar, construir, mantener y mejorar la infraestructura física, las",
+    "pag": 12
+   }
+  ],
+  "otros": [
+   {
+    "t": "Hacer acciones de prevención de riesgos junto con las entidades competentes.",
+    "que": "El plan no dice qué acciones, dónde ni cuánto costarán. No fija metas ni plazos para esto.",
+    "v": "media",
+    "n": "Requiere coordinar con entidades competentes. El plan no dice cómo ni con qué dinero.",
+    "cita": "Fortalecer la gestión integral de riesgos mediante acciones de prevención,",
+    "pag": 13
+   }
+  ]
+ },
+ "metas": [
+  "4 convenios con organizaciones cooperantes, uno por año, entre 2028 y 2031.",
+  "4 proyectos de desarrollo productivo y turístico hasta 2031.",
+  "5 proyectos de mantenimiento de caminos, entre 2027 y 2031.",
+  "10 talleres de conservación, entre 2028 y 2031.",
+  "3 nodos de producción, entre 2028 y 2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Algunos plazos y datos del texto registrado están incompletos; conviene revisar el plan original."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24
+ ],
+ "paginas": 24
+}

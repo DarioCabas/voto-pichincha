@@ -1,0 +1,127 @@
+{
+ "enfoque": "Plan 2027-2031: mantenimiento de caminos rurales, ferias y cursos para productores, reforestación, deporte y cultura, y asambleas comunitarias. No dice cuánto costará.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Hacer un inventario de los caminos rurales junto con la comunidad.",
+    "que": "El plan dice que se identificarán necesidades de mantenimiento, mejoramiento, señalización y drenaje. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Es trabajo de la junta con la gente y no requiere obra grande.",
+    "cita": "La propuesta plantea realizar un inventario participativo de la red vial parroquial, identificando necesidades de mantenimiento, mejoramiento,",
+    "pag": 5
+   },
+   {
+    "t": "Dar mantenimiento a los caminos rurales, junto con la Prefectura.",
+    "que": "El plan dice priorizar el mantenimiento de vías rurales. No dice cuánto costará ni qué caminos se arreglarán primero.",
+    "v": "media",
+    "n": "Se hace junto con la Prefectura, según el plan. El plan no dice cuánto costará.",
+    "cita": "Actualizar el diagnóstico vial parroquial, priorizar el mantenimiento de vías rurales y mejorar progresivamente espacios e infraestructura comunitaria.",
+    "pag": 9
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Sembrar árboles, dar educación ambiental y hacer campañas de residuos.",
+    "que": "El plan habla de reforestar zonas priorizadas, pero no dice cuáles, cuántos árboles ni cuánto costará.",
+    "v": "alta",
+    "n": "Son acciones que la junta puede hacer con la comunidad.",
+    "cita": "Reforestación; educación ambiental; identificación de zonas vulnerables; campañas de residuos; coordinación con entidades competentes.",
+    "pag": 10
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar capacitación y organizar ferias para productores y emprendedores.",
+    "que": "El plan incluye capacitación, ferias y apoyo para vender en mercados. No dice cuántas ferias habrá ni cuánto costará.",
+    "v": "alta",
+    "n": "Cursos y ferias están entre las cosas que la junta puede organizar.",
+    "cita": "Capacitación; asistencia técnica gestionada; ferias; fortalecimiento asociativo; articulación con mercados e instituciones de fomento productivo.",
+    "pag": 9
+   },
+   {
+    "t": "Hacer un inventario de atractivos y rutas de turismo comunitario.",
+    "que": "El plan incluye inventario, rutas comunitarias, difusión digital y promoción de gastronomía. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "El inventario lo puede hacer la junta. Las rutas pueden requerir otros niveles.",
+    "cita": "Inventario de atractivos; rutas comunitarias; promoción de gastronomía y tradiciones; capacitación a emprendimientos; difusión digital.",
+    "pag": 10
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer actividades sociales y recreativas para grupos prioritarios.",
+    "que": "El plan nombra adultos mayores, personas con discapacidad, niñez, mujeres y familias vulnerables. No dice cuántas personas llegará.",
+    "v": "alta",
+    "n": "Actividades comunitarias le tocan a la junta. La salud no.",
+    "cita": "Levantamiento de necesidades; actividades sociales, recreativas y formativas; gestión interinstitucional; seguimiento de cobertura y participación.",
+    "pag": 10
+   },
+   {
+    "t": "Crear escuelas deportivas y talleres culturales para niños y jóvenes.",
+    "que": "El plan incluye festivales, talleres digitales, liderazgo juvenil y recuperar juegos y tradiciones. No dice cuánto costará ni dónde.",
+    "v": "alta",
+    "n": "Deporte y cultura son actividades que la junta puede organizar.",
+    "cita": "Escuelas y actividades deportivas; talleres culturales y digitales; festivales; liderazgo juvenil; recuperación de juegos y tradiciones.",
+    "pag": 10
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas y reuniones comunitarias para decidir prioridades.",
+    "que": "El plan incluye mesas de trabajo, presupuesto participativo y acceso público a información. No dice cuántas reuniones habrá.",
+    "v": "alta",
+    "n": "Organizar a la comunidad es competencia de la junta.",
+    "cita": "Asambleas; reuniones comunitarias; mesas de trabajo; presupuesto participativo; acceso público a información; seguimiento ciudadano.",
+    "pag": 11
+   },
+   {
+    "t": "Informar al público sobre el avance de metas, cada año y cada seis meses.",
+    "que": "El plan dice que habrá informes semestrales y anuales, con metas cumplidas y pendientes. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Informar y reunirse con la gente es tarea de la junta.",
+    "cita": "En cada proceso de rendición se informará, según corresponda: porcentaje de metas cumplidas, en ejecución y pendientes;",
+    "pag": 12
+   }
+  ],
+  "otros": [
+   {
+    "t": "Pedir a otras entidades obras de agua potable y otros servicios básicos.",
+    "que": "El plan dice que la junta debe gestionar ante las entidades responsables las obras de otros niveles. No dice cuándo ni cuánto.",
+    "v": "baja",
+    "n": "El agua potable le toca a otro nivel, no a la junta.",
+    "cita": "gestionar ante las entidades responsables aquellas obras que correspondan a otros niveles de gobierno.",
+    "pag": 5
+   }
+  ]
+ },
+ "metas": [
+  "Inventario vial y primera fase de priorización en 2027.",
+  "Seguimiento técnico del plan cada tres meses.",
+  "Informe público de avance cada seis meses.",
+  "Rendición pública de cuentas cada año.",
+  "Evaluación final del periodo 2027-2031 en 2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ni de dónde saldrá el dinero. Casi todo depende de acuerdos con otros niveles de gobierno.",
+  "El plan usa cifras del censo de 2001 y dice que faltan datos actuales de la población."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15
+ ],
+ "paginas": 15
+}

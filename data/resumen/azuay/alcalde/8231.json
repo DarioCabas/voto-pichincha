@@ -1,0 +1,180 @@
+{
+ "enfoque": "Plan general: cuidar el agua y los ríos, ordenar el crecimiento, mejorar parques, mercados y trámites, y dar voz a barrios y parroquias. Varias metas dependen de otras instituciones.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Integrar el Tranvía con los buses urbanos y rurales.",
+    "que": "El plan dice que el tranvía y los buses funcionarán juntos. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Transporte es del Municipio, pero el plan no dice cómo lo pagará.",
+    "cita": "Integración operativa del Tranvía con buses urbanos y rurales.",
+    "pag": 26
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Cambiar las luces de calles y parques por LED, con control de ahorro.",
+    "que": "El plan dice que el cambio será progresivo, pero no dice cuántas luces ni cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Alumbrado y calles son del Municipio. El plan no dice cómo se paga.",
+    "cita": "Promoveremos Un programa Integral de modernización del alumbrado público con criterios de eficiencia energética.",
+    "pag": 28
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Sembrar más árboles y plantas en la ciudad, con corredores ecológicos y parques.",
+    "que": "El plan dice que habrá arborización masiva de barrios y avenidas. No dice cuántos árboles ni cuánto costará.",
+    "v": "alta",
+    "n": "Parques y árboles son del Municipio. El plan no dice plazo.",
+    "cita": "Incrementaremos la cobertura vegetal urbana mediante corredores ecológicos,",
+    "pag": 21
+   },
+   {
+    "t": "Recuperar las riberas de los cuatro ríos con parques lineales y limpieza.",
+    "que": "El plan habla de limpiar y recuperar riberas y quebradas, con ETAPA y la Prefectura. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de ETAPA y la Prefectura; el plan no dice cuánto cuesta.",
+    "cita": "Promoveremos la recuperación ecológica, paisajística y social de las riberas mediante",
+    "pag": 21
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Aumentar el reciclaje con separación de basura en casa y nuevos centros.",
+    "que": "El plan dice que trabajará con EMAC EP para separar residuos en la fuente. No dice costo ni plazo.",
+    "v": "alta",
+    "n": "La basura es competencia municipal, con la empresa EMAC EP.",
+    "cita": "Trabajaremos conjuntamente con EMAC EP para incrementar el reciclaje, fortalecer la",
+    "pag": 23
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Recuperar parques, canchas y plazas para uso de vecinos.",
+    "que": "El plan habla de recuperar 100 parques y espacios públicos dentro de Barrio Seguro. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Parques y plazas son del Municipio. El plan no dice el costo.",
+    "cita": "Recuperaremos parques, canchas, plazas, áreas verdes y espacios recreativos para",
+    "pag": 47
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Dejar que los barrios elijan parte de la inversión municipal.",
+    "que": "Barrios y parroquias definirán una parte de la inversión municipal. El plan no dice qué porcentaje ni cuándo empieza.",
+    "v": "alta",
+    "n": "Decidir el presupuesto es tarea del Municipio; el plan no dice qué parte.",
+    "cita": "Implementaremos un modelo moderno de presupuesto participativo mediante el cual",
+    "pag": 35
+   },
+   {
+    "t": "Abrir Centros Municipales de Atención en las 21 parroquias rurales.",
+    "que": "Servirán para trámites, información catastral y asistencia técnica. El plan no dice cuánto costará ni en qué fecha.",
+    "v": "alta",
+    "n": "Atender trámites es del Municipio; el plan no da fechas.",
+    "cita": "Crearemos una red de Centros Municipales de Atención Parroquial, que funcionarán",
+    "pag": 41
+   },
+   {
+    "t": "Publicar en internet el presupuesto, compras y obras del Municipio.",
+    "que": "El portal se pondrá en marcha en los primeros 100 días de gobierno. El plan no dice con qué dinero ni qué tan completo será.",
+    "v": "alta",
+    "n": "Es tarea propia del Municipio y tiene plazo.",
+    "cita": "Poner en funcionamiento una plataforma con información abierta sobre presupuesto,",
+    "pag": 81
+   }
+  ],
+  "economia": [
+   {
+    "t": "Modernizar la infraestructura de los mercados municipales.",
+    "que": "El plan dice que se hará respetando la historia de cada mercado. No dice cuánto costará ni en cuántos años.",
+    "v": "alta",
+    "n": "Los mercados son del Municipio, pero el plan no dice el costo.",
+    "cita": "Impulsaremos un plan de modernización progresiva de la infraestructura física",
+    "pag": 62
+   }
+  ]
+ },
+ "metas": [
+  "Digitalizar el 100 % de los trámites municipales que legalmente puedan hacerse en línea, al 2031.",
+  "Reducir en al menos 70 % los tiempos de atención de los principales servicios municipales, al 2031.",
+  "Red de Centros Municipales de Atención Parroquial en las 21 parroquias rurales, al 2031.",
+  "Publicar el Portal de Transparencia Municipal en los primeros 100 días de gobierno.",
+  "Recuperar 100 parques y espacios públicos dentro del programa Barrio Seguro."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará casi ninguna propuesta ni de dónde saldrá el dinero.",
+  "Varias propuestas son de policía, ECU 911 o del Gobierno Nacional; el alcalde solo puede coordinarlas.",
+  "Plan muy largo (93 págs.): se resumieron las 65 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  6,
+  7,
+  9,
+  15,
+  16,
+  18,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  35,
+  37,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  52,
+  54,
+  56,
+  58,
+  59,
+  60,
+  61,
+  62,
+  63,
+  64,
+  65,
+  66,
+  67,
+  68,
+  69,
+  71,
+  72,
+  73,
+  74,
+  76,
+  77,
+  78,
+  79,
+  80,
+  81,
+  82,
+  83,
+  84,
+  85,
+  86,
+  88
+ ],
+ "paginas": 93
+}

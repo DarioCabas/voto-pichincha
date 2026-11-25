@@ -33,6 +33,18 @@ Códigos de dignidad: Prefecto 2 (P), Alcalde 4 (C), Concejales urbanos 5 (C), C
 - Alcaldías: las 53 candidaturas de los 8 cantones tienen tabla con viabilidad (`src/data/alcalde/*.json`). Falta el contexto público (presupuesto municipal) de Cayambe, Pedro Moncayo, Pedro Vicente Maldonado, Puerto Quito y San Miguel de los Bancos.
 - Concejales: las 117 listas (31 urbanas, 39 rurales, 47 por circunscripción) tienen resumen revisado en `src/data/concejal/<raw>-<cantón>.json`, superpuesto a la lista base del CNE en `src/lib/datos.js`. Si falta un resumen, la lista cae al análisis automático (`src/data/gen`) y la página muestra la etiqueta "Clasificación automática".
 
+## Otras provincias
+
+Pichincha usa las URL sin prefijo (`/alcaldia/quito/`); Azuay, Cotopaxi y Guayas van en `/<provincia>/alcaldia/<cantón>/`. La lista está en `PROVINCIAS` (`src/data/dignidades.js`); cada provincia muestra las dignidades que tengan `data/raw/<prov>/<dignidad>.json`, con los resúmenes de `src/data/provincias/<prov>/`.
+
+```sh
+scripts/pipeline.sh azuay/alcalde   # texto → OCR → resumen con claude -p → build
+```
+
+## PDF en producción
+
+`public/planes/` (~1,2 GB) no está en git, así que Vercel no lo publica. Los enlaces a los PDF ("PDF", "Plan, pág. N") usan `PUBLIC_PLANES_URL` como base: sube la carpeta `public/planes/` a un almacenamiento público conservando la ruta `planes/...` y define esa variable en Vercel (por ejemplo `https://<bucket>.r2.dev`). Sin la variable, los enlaces apuntan al mismo sitio, como en local.
+
 ## Licencia
 
 MIT — ver [LICENSE](LICENSE).

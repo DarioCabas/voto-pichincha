@@ -1,0 +1,126 @@
+{
+ "enfoque": "Plan de la junta parroquial de Nanegalito, con temas del Municipio de Quito. Propone arreglar caminos, parques y casas barriales, separar residuos y hacer ferias.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Tapar huecos y dar mantenimiento a caminos rurales internos.",
+    "que": "Es un plan permanente que empieza con un diagnóstico del año 1. El plan no dice cuánto costará ni qué caminos irán primero.",
+    "v": "media",
+    "n": "Caminos: la junta cuida junto con la Prefectura. El plan no dice cuánto costará.",
+    "cita": "actividades de bacheo emergente, mantenimiento preventivo y correctivo de las vías rurales internas",
+    "pag": 7
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Gestionar un proyecto de agua potable para que cada barrio tenga agua.",
+    "que": "El plan no dice cuánto costará ni cuándo estará listo. La junta solo puede pedir y gestionar.",
+    "v": "baja",
+    "n": "Le toca a la empresa de agua y al Municipio, no a la junta.",
+    "cita": "para que cad uno de los barrios de Nanegalito cuente con el líquido vital",
+    "pag": 2
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Lograr que el 20 % de comercios y casas del centro separen la basura orgánica.",
+    "que": "Con charlas y acompañamiento técnico, para usar la basura orgánica como abono. El plan no dice cuánto costará ni cómo se medirá.",
+    "v": "alta",
+    "n": "Le toca a la junta organizar a la comunidad. El plan no dice cuánto costará.",
+    "cita": "de los comercios y viviendas ubicados en la cabecera parroquial adopten de manera permanente la práctica de separar los residuos orgánicos",
+    "pag": 8
+   },
+   {
+    "t": "Reforestar con plantas nativas y proteger quebradas y fuentes de agua.",
+    "que": "Protege microcuencas y fuentes de captación. El plan no dice dónde, cuántos árboles ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta cuidar el ambiente. El plan no dice dónde ni cuándo.",
+    "cita": "Proteger microcuencas, quebradas y fuentes de captación de agua; impulsar la reforestación nativa",
+    "pag": 3
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar canchas deportivas y juegos infantiles de los parques.",
+    "que": "Incluye luces LED en espacios públicos y escenarios deportivos, en el año 3. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Parques y canchas le tocan a la junta. El plan no dice cuánto costará.",
+    "cita": "reparación y adecuación de canchas deportivas y del mobiliario destinado a las áreas recreativas infantiles",
+    "pag": 9
+   }
+  ],
+  "social": [
+   {
+    "t": "Arreglar casas barriales y centros comunitarios que están sin uso.",
+    "que": "Para usarlos en actividades sociales, culturales, deportivas y de participación. El plan no dice cuánto costará ni cuáles locales son.",
+    "v": "alta",
+    "n": "Son locales de la junta parroquial, así que puede arreglarlos.",
+    "cita": "adecuación física, mejoramiento, rehabilitación, mantenimiento y equipamiento integral de casas barriales",
+    "pag": 8
+   },
+   {
+    "t": "Enviar brigadas que recorran sectores para temas de drogas y salud mental.",
+    "que": "Atención a adultos mayores, personas con discapacidad y familias rurales de difícil acceso. El plan no dice cuánto costará ni quién la pagará.",
+    "v": "baja",
+    "n": "Salud y drogas le tocan a otros niveles, no a la junta.",
+    "cita": "Desplegar brigadas comunitarias móviles e itinerantes que recorran de manera permanente los sectores",
+    "pag": 8
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias de venta directa para productores de la parroquia.",
+    "que": "Ferias para vender directo al público. El plan no dice cuándo, dónde ni cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca a la junta apoyar a productores. El plan no dice cuándo ni dónde.",
+    "cita": "facilitación de ferias de venta directa y encadenamientos comerciales productivos",
+    "pag": 4
+   },
+   {
+    "t": "Poner en marcha una plataforma en internet para vender productos locales.",
+    "que": "Se pondría en marcha en el año 4. El plan no dice cuánto costará ni quién la manejará.",
+    "v": "media",
+    "n": "Requiere ayuda técnica y acuerdos. El plan no dice cuánto costará.",
+    "cita": "Puesta en marcha oficial de la plataforma digital comercial del GAD como herramienta",
+    "pag": 10
+   },
+   {
+    "t": "Crear una marca de la parroquia y diseñar rutas turísticas.",
+    "que": "Busca mostrar la naturaleza y la comida de la parroquia a visitantes. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio o la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Creación y promoción de la marca parroquial, diseño de rutas eco-turísticas",
+    "pag": 4
+   }
+  ]
+ },
+ "metas": [
+  "Año 2: al menos 20 % de comercios y viviendas del centro separan la basura orgánica.",
+  "Año 3: al menos 50 microproductores, artesanos y agricultores incorporados a redes productivas.",
+  "Asambleas abiertas cada trimestre, rotando por recintos y barrios.",
+  "Usar el 100 % de los fondos de inversión según lo que decidan los delegados de los barrios."
+ ],
+ "notas": [
+  "Varias propuestas (agua, salud y drogas) son de otros niveles. La junta solo puede pedir o gestionar.",
+  "El plan casi no dice cuánto costará ni cómo se pagará. Parte del texto habla del Municipio de Quito."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15
+ ],
+ "paginas": 15
+}

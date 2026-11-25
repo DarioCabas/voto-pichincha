@@ -1,0 +1,116 @@
+{
+ "enfoque": "Plan general de La Merced: pide agua y basura a otros niveles de gobierno. La junta haría asambleas, parques, ambiente, apoyo a productores y turismo.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Pedir a las entidades competentes una solución definitiva para el agua potable de toda la parroquia.",
+    "que": "El plan no dice cuánto costará ni en qué plazo. Dice que las gestiones serán firmes y permanentes.",
+    "v": "baja",
+    "n": "El agua potable le toca a otro nivel, no a la junta.",
+    "cita": "Realizar las gestiones necesarias con firmeza y de manera permanente ante las instituciones competentes",
+    "pag": 4
+   },
+   {
+    "t": "Pedir que el servicio de recolección de basura vuelva a la entidad que le corresponde.",
+    "que": "El plan no dice cuánto costará ni cuándo. Quiere un servicio con vehículos adecuados.",
+    "v": "media",
+    "n": "Le toca al Municipio; la junta solo puede pedirlo y coordinar.",
+    "cita": "Impulsaremos el retorno de la prestación del servicio de recolección de residuos sólidos a la entidad competente",
+    "pag": 4
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer proyectos de recuperación ambiental, reforestación y educación ambiental con la comunidad.",
+    "que": "El plan no dice dónde ni cuánto costará. Lo hará con las instituciones competentes y la comunidad.",
+    "v": "alta",
+    "n": "Son acciones de cuidado ambiental que la junta puede organizar.",
+    "cita": "Gestionar proyectos de recuperación ambiental, reforestación, manejo adecuado de residuos y educación ambiental",
+    "pag": 4
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer el mantenimiento de parques, espacios públicos y equipamientos de la parroquia.",
+    "que": "El plan no dice qué espacios ni cuánto costará. Lo hará junto con otras instituciones.",
+    "v": "alta",
+    "n": "Sí le toca a la junta, pero el presupuesto es poco.",
+    "cita": "Gestionar la ejecución y el mantenimiento de infraestructura comunitaria, espacios públicos, equipamientos parroquiales",
+    "pag": 5
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Coordinar proyectos de vías y movilidad con las entidades que tienen esa competencia.",
+    "que": "El plan no dice qué caminos, cuánto costará ni cuándo se harán.",
+    "v": "media",
+    "n": "Puede hacerlo junto con la Prefectura, pero el plan no dice cómo.",
+    "cita": "Coordinar con las entidades competentes la gestión de proyectos de vialidad, movilidad",
+    "pag": 5
+   }
+  ],
+  "economia": [
+   {
+    "t": "Conseguir asistencia técnica y cursos para productores agropecuarios.",
+    "que": "El plan no dice cuánto costará ni a cuántos productores atenderá. Lo hará con programas públicos y privados.",
+    "v": "alta",
+    "n": "Apoyar a productores sí le toca a la junta.",
+    "cita": "mediante la gestión de asistencia técnica, capacitación y vinculación con programas públicos y privados",
+    "pag": 4
+   },
+   {
+    "t": "Hacer campañas de promoción turística de La Merced con videos y material de calidad.",
+    "que": "El plan no dice cuánto costará ni cuándo. Quiere destacar atractivos naturales, culturales y gastronómicos.",
+    "v": "alta",
+    "n": "Difundir la parroquia sí es trabajo de la junta.",
+    "cita": "mediante campañas de marketing turistico, difusión de material audio visual atractivo de calidad",
+    "pag": 4
+   },
+   {
+    "t": "Dar espacios de capacitación, promoción y venta para emprendedores de la parroquia.",
+    "que": "El plan no dice dónde ni cuánto costará. Es para productos y servicios locales.",
+    "v": "alta",
+    "n": "Cursos y espacios de venta sí puede organizarlos la junta.",
+    "cita": "facilitando espacios de capacitación, promoción y comercialización de productos y servicios locales",
+    "pag": 4
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Convocar asambleas y reuniones periódicas con barrios, comunas y organizaciones.",
+    "que": "El plan no dice cada cuánto. Sirve para informar, recibir propuestas y priorizar necesidades.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta.",
+    "cita": "Convocar periódicamente a asambleas parroquiales, reuniones comunitarias y mesas de diálogo",
+    "pag": 6
+   },
+   {
+    "t": "Presentar informes periódicos sobre el plan, el presupuesto y los proyectos.",
+    "que": "El plan no dice en qué fechas. Los informes serán accesibles para la ciudadanía.",
+    "v": "alta",
+    "n": "Rendir cuentas es parte de la gestión de la junta.",
+    "cita": "Presentar de forma periódica y accesible informes sobre el cumplimiento del Plan de Trabajo",
+    "pag": 6
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta, de dónde saldrá el dinero ni en qué plazo. No tiene metas con cifras.",
+  "Agua, basura y caminos son competencia de otros niveles. La junta solo puede pedirlos y coordinarlos."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "paginas": 10
+}

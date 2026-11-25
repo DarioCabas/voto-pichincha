@@ -1,0 +1,111 @@
+{
+ "enfoque": "Ferias, vivero, huertos, cuidado del agua y el ambiente, espacios públicos y caminos. Lo que es de otras entidades, solo se gestiona.",
+ "tabla": {
+  "gobierno": [
+   {
+    "t": "Decidir prioridades con asambleas de barrios y comunidades y presupuesto participativo.",
+    "que": "El plan dice que se priorizará con participación territorial y presupuesto participativo. No dice cuánto dinero se destinará ni cuándo.",
+    "v": "alta",
+    "n": "Es trabajo de la junta. El plan no dice cuánto presupuesto tendrá.",
+    "cita": "Priorizar necesidades mediante participación territorial y presupuesto participativo.",
+    "pag": 8
+   },
+   {
+    "t": "Levantar y publicar en 90 días los datos de partida de cada barrio y comunidad.",
+    "que": "Se hará en cuatro fases: días 1 a 15, 16 a 60, 61 a 75 y 76 a 90, con validación pública. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Es un trabajo de la junta, con plazos claros. El plan no dice el costo.",
+    "cita": "Durante los primeros 90 días se levantará y publicará una línea base territorial por barrio y comunidad.",
+    "pag": 6
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar mingas para limpiar, recuperar espacios y reforestar.",
+    "que": "Las mingas son trabajo voluntario de la comunidad y no reemplazan obras técnicas. El plan no dice cuántas mingas se harán.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta.",
+    "cita": "Se promoverá la minga como forma voluntaria, organizada y segura de participación comunitaria en limpieza, recuperación de espacios, reforestación, cultura y acciones solidarias.",
+    "pag": 9
+   },
+   {
+    "t": "Dar cursos a jóvenes de alfabetización digital, diseño, ventas por internet e idiomas.",
+    "que": "Meta: 20 o más cursos hasta 2031. El plan no dice cuánto costarán ni dónde se darán.",
+    "v": "alta",
+    "n": "Formar a jóvenes y ciudadanos sí le toca a la junta.",
+    "cita": "plantea oportunidades para jóvenes y ciudadanía mediante alfabetización digital, ofimática, diseño, comercio electrónico, idiomas y orientación.",
+    "pag": 6
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias periódicas para vender productos locales.",
+    "que": "Meta: 16 o más ferias hasta 2031. El plan no dice cuánto costarán ni dónde se harán.",
+    "v": "alta",
+    "n": "Ferias y apoyo a productores sí le tocan a la junta.",
+    "cita": "Promover comercialización local y espacios periódicos de feria.",
+    "pag": 9
+   },
+   {
+    "t": "Instalar un vivero parroquial y apoyar huertos y recuperación de semillas.",
+    "que": "Meta: 1 vivero en funcionamiento y 80 o más huertos o iniciativas hasta 2031. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Apoyar productores y cuidar el ambiente sí le toca. El plan no dice el costo.",
+    "cita": "Impulsar vivero, huertos y recuperación de semillas con enfoque sostenible.",
+    "pag": 9
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Cuidar fuentes de agua y quebradas con educación y campañas ambientales.",
+    "que": "Meta: 10 o más campañas hasta 2031. Incluye educación, reforestación y monitoreo. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Cuidar el ambiente sí le toca. El agua potable para las casas no.",
+    "cita": "Vincular producción y educación ambiental con acciones de protección de fuentes de agua y quebradas.",
+    "pag": 9
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer inventario de espacios públicos y elegir cuáles recuperar primero.",
+    "que": "Meta: 6 o más intervenciones hasta 2031. Se hará con inventario, evaluación del estado y prioridades. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Parques y espacios públicos sí son de la junta. El plan no dice cuánto costará.",
+    "cita": "La respuesta propuesta parte de inventarios, evaluación de estado, priorización territorial y expedientes de gestión cuando intervengan otras instituciones.",
+    "pag": 5
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Pedir por escrito al Municipio y a la Prefectura (gobierno de la provincia) las obras de caminos y darles seguimiento.",
+    "que": "Meta: 12 o más expedientes de gestión vial hasta 2031. El plan no dice cuánto costará ni cuándo se harán las obras.",
+    "v": "media",
+    "n": "Los caminos los hace el Municipio o la Prefectura. La junta gestiona y da seguimiento.",
+    "cita": "la gestión y seguimiento documentado ante el GAD Municipal, GAD Provincial y demás entidades competentes",
+    "pag": 7
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Llevar un registro de problemas del territorio y pasar cada caso a quien le toca.",
+    "que": "El registro tendrá la entidad responsable de cada caso y mesas de seguimiento. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "media",
+    "n": "El agua potable no le toca a la junta. Registrar y pasar cada caso sí.",
+    "cita": "Se propone un registro territorial de incidencias, identificación de la entidad responsable y mesas técnicas de seguimiento.",
+    "pag": 6
+   }
+  ]
+ },
+ "metas": [
+  "Al 2031: 16 o más ferias.",
+  "En 90 días: línea base publicada por barrio y comunidad.",
+  "Al 2031: 1 vivero en funcionamiento.",
+  "Al 2031: 6 o más intervenciones en espacios públicos.",
+  "Al 2031: 20 o más asambleas territoriales."
+ ],
+ "notas": [
+  "El plan no dice cuánto cuesta ninguna propuesta. Dice que buscará cooperación y cofinanciamiento.",
+  "Varias propuestas son del Municipio o la Prefectura: la junta solo las gestiona y da seguimiento."
+ ],
+ "modelo": "haiku"
+}

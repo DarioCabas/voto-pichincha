@@ -1,0 +1,139 @@
+{
+ "enfoque": "Plan de Daule: arreglar calles y el redondel de La Joya, llevar agua y alcantarillado al campo, relleno sanitario, parques, mercados y cámaras. Mucho depende de otros.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Pavimentar 100 km de vías urbanas y rurales y mantener 250 km de la red vial.",
+    "que": "El plan pone USD 3.000.000 al año: 20 km pavimentados y 50 km mantenidos cada año, de 2027 a 2031. Solo el 38 % de la inversión total sale del Municipio.",
+    "v": "media",
+    "n": "Las calles son del Municipio, pero el plan depende de otras fuentes de dinero.",
+    "cita": "Pavimentación de 100 km de vías urbanas y rurales; mantenimiento de la red vial existente.",
+    "pag": 13
+   },
+   {
+    "t": "Arreglar el redondel de La Joya y otros puntos de congestión en La Aurora.",
+    "que": "Incluye ampliar carriles, poner semáforos inteligentes y pasos elevados. Costo: USD 1.000.000. Plazo: de 2027 a 2031.",
+    "v": "alta",
+    "n": "Calles y tránsito son competencia del Municipio.",
+    "cita": "Intervención en el redondel de La Joya y otros puntos de congestión: ampliación de carriles, semaforización inteligente y pasos elevados.",
+    "pag": 13
+   },
+   {
+    "t": "Terminar, equipar y poner en funcionamiento el Terminal Terrestre de Daule.",
+    "que": "Presupuesto de USD 500.000 al año. Según el plan, el terminal empieza a operar en 2028. El plan no dice en qué lugar queda.",
+    "v": "alta",
+    "n": "Terminales y buses son competencia del Municipio.",
+    "cita": "Finalización, equipamiento y puesta en operación del Terminal Terrestre del cantón Daule.",
+    "pag": 13
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar agua potable y alcantarillado en zonas urbanas y rurales.",
+    "que": "Agua rural: de 30 % a 60 % en 2031. Alcantarillado rural: de 20 % a 45 %. Presupuesto de USD 4.000.000 al año, con EMAPA-EP Daule.",
+    "v": "alta",
+    "n": "Es competencia municipal. El plan la asigna a EMAPA-EP Daule.",
+    "cita": "Ampliación de la cobertura de agua potable y alcantarillado en áreas urbanas y rurales.",
+    "pag": 13
+   },
+   {
+    "t": "Construir un relleno sanitario y reciclar más basura, con camiones nuevos.",
+    "que": "En 2027 compra 2 camiones recolectores y diseña el relleno. En 2028 lo pone en marcha. Presupuesto de USD 4.000.000 al año. No dice dónde irá.",
+    "v": "alta",
+    "n": "La basura es competencia del Municipio. El plan no dice dónde irá el relleno.",
+    "cita": "Implementación del relleno sanitario cantonal, programa de reciclaje y fortalecimiento de la recolección de basura.",
+    "pag": 13
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Rehabilitar 5 parques y construir 2 parques por año, en todo el cantón.",
+    "que": "Entre 2027 y 2030 se rehabilitan 5 parques y se construyen 2 cada año. Presupuesto de USD 500.000 al año. El plan no dice en qué barrios.",
+    "v": "alta",
+    "n": "Parques y áreas verdes son competencia del Municipio.",
+    "cita": "Construcción, rehabilitación y mantenimiento de parques, plazas y áreas verdes en todo el cantón.",
+    "pag": 13
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar 200 cámaras de videovigilancia en la ciudad y parroquias rurales.",
+    "que": "Plan: 50 cámaras por año hasta 2030. Presupuesto de USD 500.000. El plan dice que la competencia principal es de la Policía y el Gobierno.",
+    "v": "baja",
+    "n": "Seguridad y policía no son competencia del alcalde.",
+    "cita": "Instalación de 200 cámaras de videovigilancia en puntos estratégicos de la cabecera cantonal, La Aurora y parroquias rurales.",
+    "pag": 10
+   }
+  ],
+  "social": [
+   {
+    "t": "Construir 3 centros de salud y dar equipamiento y mantenimiento a la red de salud.",
+    "que": "Uno en La Aurora, uno en el área rural y uno en la cabecera. El plan no dice el costo por centro. Presupuesto de USD 1.500.000 al año.",
+    "v": "baja",
+    "n": "La salud es del Ministerio de Salud, no del Municipio.",
+    "cita": "Construcción de 3 centros de salud; equipamiento y mantenimiento de la red de salud.",
+    "pag": 15
+   }
+  ],
+  "economia": [
+   {
+    "t": "Remodelar los mercados Central, Santa Clara, Los Daulis y La Aurora.",
+    "que": "Uno por año, de 2027 a 2030. Presupuesto de USD 400.000 al año. El plan no dice cuánto costará cada mercado.",
+    "v": "alta",
+    "n": "Los mercados son competencia del Municipio.",
+    "cita": "Remodelación, equipamiento y modernización de los mercados municipales.",
+    "pag": 12
+   }
+  ],
+  "otros": [
+   {
+    "t": "Actualizar el plan de riesgos y reducir riesgos en sectores vulnerables.",
+    "que": "Medidas de protección en 10 sectores por año entre 2028 y 2030. Presupuesto de USD 250.000 al año. Hay 4.252 viviendas en riesgo por inundación.",
+    "v": "alta",
+    "n": "Prevenir desastres es competencia del Municipio.",
+    "cita": "Actualización e implementación del Plan Cantonal de Gestión de Riesgos, con énfasis en inundaciones y sequías.",
+    "pag": 10
+   }
+  ]
+ },
+ "metas": [
+  "Pavimentar 100 km de vías y mantener 250 km de la red vial, de 2027 a 2031.",
+  "Agua potable en el área rural: de 30 % a 60 % en 2031.",
+  "Alcantarillado en el área rural: de 20 % a 45 % en 2031.",
+  "200 cámaras de videovigilancia instaladas para 2030.",
+  "100 % de los trámites municipales digitalizados en 2031."
+ ],
+ "notas": [
+  "Solo el 38 % del dinero sale del Municipio. El resto depende de Gobierno, Prefectura, bancos y alianzas, según el plan.",
+  "Incluye seguridad, salud y escuelas, que no son del alcalde. Varias metas vienen del plan de desarrollo del cantón."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25
+ ],
+ "paginas": 25
+}

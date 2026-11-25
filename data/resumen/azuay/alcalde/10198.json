@@ -1,0 +1,106 @@
+{
+ "enfoque": "Propone agua potable, alcantarillado en Chumblín, basura, calles, parques y catastro. Incluye temas que no son del alcalde (seguridad, salud, empleo).",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Hacer estudios para aumentar la capacidad de la planta de agua potable del centro del cantón.",
+    "que": "El plan ubica estos estudios en 2027-2028. No dice cuánto costará ni cuándo se harán las obras.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Solo son estudios; las obras no tienen fecha ni costo.",
+    "cita": "Realizar los estudios necesarios para la repotenciación de la Planta de Agua",
+    "pag": 10
+   },
+   {
+    "t": "Gestionar la construcción de alcantarillado y una planta de tratamiento en Chumblín.",
+    "que": "Es para sectores rurales de Chumblín, previsto para 2028-2029. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Es del Municipio, pero el plan dice 'gestionar', es decir, pedir ayuda para pagarla.",
+    "cita": "Gestionar la construcción y ampliación del sistema de alcantarillado sanitario y planta de tratamiento en sectores rurales de Chumblín",
+    "pag": 11
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar baches y dar mantenimiento a las vías de acceso de Cuenca a San Fernando y Busa.",
+    "que": "El plan no dice cuánto costará ni quién la paga. Está previsto para 2027-2028.",
+    "v": "media",
+    "n": "Es una ruta entre cantones; suele ser de la Prefectura. El plan no dice quién paga.",
+    "cita": "Ejecutar el Plan de Bacheo y Mantenimiento Vial en los accesos de la ruta Cuenca - San Fernando - Busa",
+    "pag": 10
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Separar la basura por tipos y hacer abono con restos orgánicos de ganado y de la ciudad.",
+    "que": "Previsto para 2028-2029. El plan no dice cuánto costará ni cuándo empieza.",
+    "v": "alta",
+    "n": "Basura y compostaje son competencia del Municipio. Falta el costo.",
+    "cita": "Implementar el sistema de recolección diferenciada y compostaje municipal a partir de desechos orgánicos",
+    "pag": 11
+   },
+   {
+    "t": "Declarar zonas de protección del agua en todo el cantón, junto con la entidad ambiental nacional.",
+    "que": "El plan no dice qué zonas se declaran ni en qué fecha. Se haría en 2028-2029, en coordinación con el Gobierno nacional.",
+    "v": "media",
+    "n": "El Municipio puede declararlas, pero necesita coordinar con el Gobierno nacional.",
+    "cita": "Declarar áreas de protección hídrica cantonal en coordinación con la autoridad nacional ambiental",
+    "pag": 11
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar parques infantiles y plazas en los barrios alejados del centro.",
+    "que": "El plan no dice cuántos parques ni cuánto costará. Está previsto para 2028-2029.",
+    "v": "alta",
+    "n": "Parques y plazas son competencia del Municipio. Falta cuántos y cuánto costará.",
+    "cita": "Intervención y rehabilitación de parques infantiles y plazas públicas en barrios periféricos",
+    "pag": 11
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Actualizar el catastro, el registro de terrenos y casas urbanas y rurales del cantón.",
+    "que": "El plan no dice cuánto costará ni cuándo termina. Está previsto para 2028-2029.",
+    "v": "alta",
+    "n": "Es función del Municipio. El plan no dice cuándo termina.",
+    "cita": "Trabajar en la actualización del Catastro Urbano y Rural Multifinalitario del Cantón",
+    "pag": 10
+   },
+   {
+    "t": "Hacer trámites de catastro, patentes y permisos en línea, por internet.",
+    "que": "El plan ubica esta tarea en 2027-2028, pero no dice cuánto costará ni cuándo estará lista.",
+    "v": "alta",
+    "n": "Trámites municipales son competencia del Municipio. Falta costo y fecha exacta.",
+    "cita": "Gestionar una plataforma web municipal para tramitología en línea (catastros, patentes, permisos)",
+    "pag": 10
+   }
+  ]
+ },
+ "metas": [
+  "Estudios de la planta de agua potable de la cabecera cantonal: 2027-2028.",
+  "Obras de alcantarillado, compostaje y calles, con actividades previstas para 2028-2029.",
+  "Rendición de cuentas en eventos públicos una vez al año.",
+  "Plan de trabajo para el periodo 2027-2031."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero. El propio diagnóstico reconoce capacidad limitada.",
+  "Muchas tareas dicen 'gestionar' o 'trabajar en': pedir o coordinar, no asegurar. Gran parte del diagnóstico usa datos nacionales."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ],
+ "paginas": 13
+}

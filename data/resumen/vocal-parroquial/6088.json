@@ -1,0 +1,101 @@
+{
+ "enfoque": "Vigilar los convenios y obras de vías, pedir alcantarillado y riego a otros niveles y apoyar a los grupos de barrio. Parte del texto copia el plan de desarrollo parroquial.",
+ "tabla": {
+  "gobierno": [
+   {
+    "t": "Pedir informes periódicos sobre el dinero de obras y vías del Fondo Rural y del Fondo de Inversión.",
+    "que": "Pedido periódico de informes sobre la ejecución de los convenios del Fondo Rural y del Fondo de Inversión para obras y vialidad. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Vigilar los convenios es tarea de la junta. El plan no dice plazos.",
+    "cita": "Pedido periódico de informes sobre la ejecución del convenio del Fondo Rural DMA y del Fondo de Inversión destinado a obras de infraestructura y vialidad.",
+    "pag": 3
+   },
+   {
+    "t": "Publicar un informe de lo presupuestado y lo gastado por la junta parroquial.",
+    "que": "Incluye el estado de los convenios con el Municipio de Quito y el MIES. El plan no dice con qué frecuencia se publicará.",
+    "v": "alta",
+    "n": "Publicar sus cuentas le toca a la junta. El plan no dice costos.",
+    "cita": "Publicación periódica de un informe comparado de lo presupuestado frente a lo efectivamente ejecutado",
+    "pag": 4
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir al Municipio de Quito ampliar el alcantarillado, primero donde falta más.",
+    "que": "La cobertura está en 60,5%. Se priorizarán los sectores con mayor déficit sanitario. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio de Quito, no a la junta. La junta solo presenta el pedido.",
+    "cita": "Iniciativa de acuerdo para gestionar ante el Municipio de Quito la ampliación de la cobertura de alcantarillado, priorizando los sectores con mayor déficit sanitario.",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Gestionar sistemas de riego con el Gobierno Provincial de Pichincha contra la sequía.",
+    "que": "Para cultivos de ciclo corto y frutales. Cerca del 80% de la población no tiene agua de riego. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita acuerdo con la Prefectura. La junta solo gestiona el pedido.",
+    "cita": "Gestión de sistemas de riego, en coordinación con el Gobierno Provincial de Pichincha, para mitigar el riesgo de sequía",
+    "pag": 3
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Dar seguimiento al cuidado de las vías que salen a San José de Minas, Atahualpa y Perucho.",
+    "que": "Meta: al menos dos vías al año hasta 2027. El plan no dice quién paga ni cuánto costará.",
+    "v": "media",
+    "n": "Los caminos se cuidan junto con la Prefectura. El plan no dice quién paga.",
+    "cita": "Seguimiento al mantenimiento de las vías arteriales (Chavezpamba-San José de Minas, Chavezpamba-Atahualpa, Chavezpamba—Perucho)",
+    "pag": 3
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Apoyar grupos de barrio y brigadas de vecinos frente a deslizamientos e incendios forestales.",
+    "que": "Para el riesgo de deslizamientos (74% del territorio en amenaza alta) y los incendios en el bosque de entrada. El plan no dice costos.",
+    "v": "alta",
+    "n": "Organizar a la comunidad sí le toca a la junta. El plan no dice costos.",
+    "cita": "Fortalecimiento de la organización barrial y de brigadas comunitarias frente al riesgo de deslizamiento de masas",
+    "pag": 3
+   }
+  ],
+  "social": [
+   {
+    "t": "Dar seguimiento al programa de atención a adultos mayores y a la Promotora Social.",
+    "que": "Meta del plan: al menos 50 beneficiarios por año. Es un convenio con el MIES. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "El programa es del MIES. La junta solo hace seguimiento.",
+    "cita": "Seguimiento al programa de atención a adultos mayores (meta PDOT: al menos 50 beneficiarios por año)",
+    "pag": 3
+   }
+  ],
+  "otros": [
+   {
+    "t": "Organizar la agenda cultural de la parroquia y el turismo del territorio.",
+    "que": "Incluye el Encuentro de las Culturas del DMQ en Chavezpamba. El plan no dice fechas ni presupuesto.",
+    "v": "alta",
+    "n": "Organizar eventos le toca a la junta. El plan no dice costos.",
+    "cita": "Impulso a la agenda cultural parroquial (Encuentro de las Culturas del DMQ — Chavezpamba)",
+    "pag": 3
+   }
+  ]
+ },
+ "metas": [
+  "Mantenimiento de al menos dos vías al año hasta 2027.",
+  "Al menos 50 beneficiarios por año en el programa de adultos mayores.",
+  "Rendición de cuentas anual ante la ciudadanía de la parroquia."
+ ],
+ "notas": [
+  "Casi todo son pedidos o vigilancia a otros niveles. El plan no dice cuánto costará ni cuándo se hará.",
+  "Parte del texto repite el plan de desarrollo de la parroquia. La hoja de firmas está en parte ilegible."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "paginas": 5
+}

@@ -1,0 +1,122 @@
+{
+ "enfoque": "Plan muy general: agua, calles, basura, parques y un centro para niños con necesidades educativas especiales. No dice dónde ni cuánto costará.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a las calles urbanas y rurales del cantón.",
+    "que": "El plan no dice qué calles, ni cuánto costará, ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta el detalle de las obras.",
+    "cita": "Fortalecer el mantenimiento y mejoramiento de la vialidad urbana y rural, de acuerdo con las competencias municipales.",
+    "pag": 5
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar el agua potable y el alcantarillado del cantón.",
+    "que": "El plan no dice en qué sectores ni cuánto costará. Solo habla de proyectos para ampliar la cobertura.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta saber dónde y con qué dinero.",
+    "cita": "Ejecutar proyectos para ampliar y mejorar la cobertura de agua potable y alcantarillado.",
+    "pag": 5
+   },
+   {
+    "t": "Manejar la basura (residuos sólidos) y el alumbrado público.",
+    "que": "El plan no dice cómo ni cuánto costará. Habla de la gestión integral de residuos sólidos.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta saber cómo lo hará.",
+    "cita": "Fortalecer la gestión integral de residuos sólidos, el alumbrado público y demás servicios municipales.",
+    "pag": 3
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar parques, espacios públicos y áreas recreativas.",
+    "que": "El plan no dice qué parques ni cuánto costará. Habla de programas de regeneración urbana.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero falta el detalle de los lugares.",
+    "cita": "Impulsar programas de regeneración urbana, recuperación de espacios públicos, parques y áreas recreativas.",
+    "pag": 5
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer programas de protección ambiental, reforestación y educación ambiental.",
+    "que": "El plan no dice dónde ni cuánto costará. Incluye conservar espacios naturales.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta plazo y presupuesto.",
+    "cita": "Desarrollar programas de protección ambiental, reforestación. conservación de espacios naturales y educación ambiental.",
+    "pag": 6
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear un centro municipal para niños con necesidades educativas especiales.",
+    "que": "El plan no dice dónde ni cuánto costará. Usaría convenios con el Ministerio de Educación y universidades.",
+    "v": "media",
+    "n": "La educación es del Gobierno. El Municipio solo abriría el servicio.",
+    "cita": "destinado a brindar atención pedagógica, psicológica y terapéutica a niños, niñas y adolescentes con Necesidades Educativas",
+    "pag": 6
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Coordinar acciones de prevención de seguridad con otras instituciones.",
+    "que": "El plan no dice qué acciones ni cuánto costará.",
+    "v": "baja",
+    "n": "La policía no le toca al Municipio.",
+    "cita": "Fortalecer las acciones de prevención y coordinación interinstitucional para contribuir a la seguridad ciudadana.",
+    "pag": 6
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar al sector agrícola, ganadero y productivo con programas.",
+    "que": "El plan no dice qué programas, para quién ni cuánto costará.",
+    "v": "media",
+    "n": "Puede apoyar, pero crear empleo no le toca directamente.",
+    "cita": "Promover el fortalecimiento del sector agrícola, ganadero y productivo mediante programas de apoyo y articulación institucional.",
+    "pag": 5
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas públicas para informar sobre la gestión municipal.",
+    "que": "El plan no dice cada cuánto ni en qué lugares. Convocaría a barrios y sectores productivos.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Convocar periódicamente a la ciudadanía, organizaciones sociales, sectores productivos, barrios y demás actores del cantón para informar sobre la gestión municipal",
+    "pag": 7
+   },
+   {
+    "t": "Informar a la gente sobre el presupuesto y las obras del Municipio.",
+    "que": "El plan no dice cada cuánto ni cómo lo hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta saber cómo y cuándo.",
+    "cita": "Socializar de manera clara y oportuna la información relacionada con la planificación institucional, el presupuesto municipal, la ejecución de obras",
+    "pag": 7
+   }
+  ]
+ },
+ "metas": [
+  "El plan cubre el periodo 2027-2031. No fija metas con cifras."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero.",
+  "Gran parte del texto es general y repite el plan de desarrollo del cantón. Casi no dice dónde ni cuándo se hará cada cosa."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "paginas": 10
+}

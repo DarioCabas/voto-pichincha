@@ -1,0 +1,89 @@
+{
+ "enfoque": "Plan copiado de una junta parroquial, no de la alcaldía: cuidar agua y bosques, prevenir riesgos y pedir servicios al Estado. No dice costos.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Gestionar proyectos de agua potable, escuelas y centros de salud con instituciones del Estado.",
+    "que": "El plan no dice dónde, cuánto costará ni cuándo se hará.",
+    "v": "media",
+    "n": "Agua potable sí le toca al Municipio; escuelas y salud no. Depende de otras instituciones.",
+    "cita": "Promover y gestionar proyectos con las Instituciones como la SCTEA infracstructura de educativa,",
+    "pag": 2
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger las fuentes de agua y los bosques con control y participación de la comunidad.",
+    "que": "El plan no dice qué zonas, qué control ni cuánto costará. Habla de acciones coordinadas con otras entidades.",
+    "v": "media",
+    "n": "Cuidar el ambiente sí puede hacerlo el Municipio, pero el plan no dice qué acciones tomará.",
+    "cita": "Proteger y conservar las fuentes de agua, bosques y ecosistemas estratégicos, mediante acciones coordinadas de control",
+    "pag": 1
+   }
+  ],
+  "otros": [
+   {
+    "t": "Hacer acciones para prevenir riesgos y adaptarse al cambio climático.",
+    "que": "El plan no dice qué obras harán, dónde ni cuánto costarán.",
+    "v": "media",
+    "n": "Prevenir desastres sí le toca al Municipio, pero el plan no dice con qué obras ni cuánto costará.",
+    "cita": "Implementar acciones de gestión de riesgos y adaptación al cambio climático, orientadas a la",
+    "pag": 2
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Convocar asambleas públicas periódicas para informar y recibir propuestas de la comunidad.",
+    "que": "Serían para informar sobre la gestión y atender inquietudes. El plan no dice cada cuánto ni en qué lugares.",
+    "v": "alta",
+    "n": "Reunir a la comunidad sí puede hacerlo el alcalde. El plan no dice cuántas veces ni dónde.",
+    "cita": "Convocar periódicamente a las comunidades, organizaciones sociales, juntas vecinales y",
+    "pag": 3
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar emprendimientos comunitarios con ayuda técnica y financiera de instituciones del Estado.",
+    "que": "El plan no dice cuántos emprendimientos apoyará ni con cuánto dinero.",
+    "v": "baja",
+    "n": "Dar ayuda a emprendedores no está entre las tareas del alcalde. Depende de otras instituciones.",
+    "cita": "Impulsar emprendimientos comunitarios y asociativos, priorizando iniciativas de economía popular y solidaria, mediante",
+    "pag": 2
+   },
+   {
+    "t": "Promover turismo comunitario basado en la cultura y el cuidado de la naturaleza.",
+    "que": "El plan no dice dónde ni con qué recursos se hará. Dice que generaría ingresos y empleo local.",
+    "v": "baja",
+    "n": "El turismo no aparece entre las tareas del alcalde en la lista de competencias.",
+    "cita": "Promover el turismo comunitario sostenible, basado en la identidad cultural y la conservación del",
+    "pag": 2
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear programas de inclusión para mujeres, jóvenes y personas adultas mayores.",
+    "que": "El plan no dice qué programas serán ni cuánta gente atenderá.",
+    "v": "baja",
+    "n": "Programas sociales no son tarea municipal según la lista de competencias.",
+    "cita": "Implementar programas de inclusión social y participación, orientados a mujeres, jóvenes y",
+    "pag": 2
+   }
+  ]
+ },
+ "metas": [
+  "El plan cubre el periodo 2027 - 2031."
+ ],
+ "notas": [
+  "El texto habla de la junta parroquial, no de la alcaldía. Parece copiado de otro plan.",
+  "Casi ninguna propuesta dice cuánto costará, cuándo se hará ni de dónde saldrá el dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "paginas": 5
+}

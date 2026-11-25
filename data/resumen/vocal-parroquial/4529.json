@@ -1,0 +1,137 @@
+{
+ "enfoque": "Propone reforestar quebradas, ferias de productores, censo agrícola, talleres, arreglar caminos con la Prefectura y asambleas por barrios. Gran parte repite el plan de desarrollo parroquial.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Hacer una campaña para sembrar árboles nativos en taludes y quebradas de zonas vulnerables.",
+    "que": "Se haría en 2027, con especies como algarrobos y guarangos. El plan no dice cuánto costará ni quién pone el dinero.",
+    "v": "alta",
+    "n": "Cuidar el ambiente le toca a la junta. El plan no dice el costo.",
+    "cita": "Diseñar la campaña parroquial de reforestación de taludes y quebradas con especies nativas",
+    "pag": 21
+   },
+   {
+    "t": "Conformar una mesa técnica ambiental para vigilar las descargas de aguas sucias en los ríos.",
+    "que": "Se haría en 2027 en las cuencas de los ríos Guayllabamba, Coyago y Chitayaco. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Municipio y el Ministerio del Ambiente.",
+    "cita": "Conformar la Mesa Técnica Ambiental en coordinación con el GAD DMOQ y el Ministerio del Ambiente para la fiscalización de descargas",
+    "pag": 21
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Pedir a la Red de Salud más horarios y medicinas en el Subcentro de salud.",
+    "que": "Se haría en 2027. El plan no dice cuánto costará ni cuántos horarios o medicinas se agregarían.",
+    "v": "baja",
+    "n": "La salud le toca al Ministerio de Salud, no a la junta.",
+    "cita": "la ampliación de horarios y medicamentos en el Subcentro de Salud",
+    "pag": 22
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Abrir una mesa con el Municipio para regularizar los barrios informales.",
+    "que": "Empezaría en 2027. El plan no dice cómo se hará ni cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio decidir; la junta solo abre la mesa.",
+    "cita": "Iniciar la mesa de trabajo con el Municipio para la regularización de barrios informales",
+    "pag": 22
+   },
+   {
+    "t": "Arreglar y dar mantenimiento a parques, plazas y espacios comunitarios.",
+    "que": "Se haría en 2028. El plan no dice cuáles espacios se arreglarían ni cuánto costará.",
+    "v": "alta",
+    "n": "Cuidar parques y espacios públicos le toca a la junta.",
+    "cita": "Remodelación y mantenimiento de parques, plazas y espacios comunitarios prioritarios",
+    "pag": 22
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar caminos rurales con adoquín, bacheo y balastado, junto con la Prefectura.",
+    "que": "Se haría en 2028 en caminos secundarios, en convenio con la Prefectura. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de un convenio con la Prefectura.",
+    "cita": "Ejecución de obras de adoquínado, bacheo y balastado en la red vial parroquial rural secundaria en convenio con la Prefectura",
+    "pag": 4
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Poner la silla vacía en las sesiones de la junta y hacer asambleas en los barrios.",
+    "que": "Sería en 2027, en los barrios. El plan no explica qué es la silla vacía ni dice cuánto costará.",
+    "v": "alta",
+    "n": "Organizar a la comunidad le toca a la junta.",
+    "cita": "Implementación de la Silla Vacía en el GAD Parroquial y conformación de las Asambleas Populares en los barrios",
+    "pag": 22
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer un censo de productores de frutas y de negocios de turismo y comida.",
+    "que": "Se haría en 2027. Sirve para identificar productores de aguacate, chirimoya y cítricos. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Levantar censos le toca a la junta.",
+    "cita": "Levantar el censo agrícola y comercial de la parroquia para identificar productores de frutales",
+    "pag": 21
+   },
+   {
+    "t": "Hacer ferias para vender directo del productor al consumidor.",
+    "que": "Se haría en 2028 para vender frutas, verduras y plantas. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Apoyar a productores le toca a la junta. El plan no dice el costo.",
+    "cita": "para la comercialización de frutales, hortalizas y plantas florícolas",
+    "pag": 18
+   },
+   {
+    "t": "Dar talleres de capacitación y de valor agregado a pequeños agricultores y artesanos.",
+    "que": "Se haría en 2028. El plan no dice quién dará los talleres ni cuánto costará.",
+    "v": "alta",
+    "n": "Capacitar a productores le toca a la junta. Falta quién los dicta.",
+    "cita": "Talleres de capacitación técnica y valor agregado para pequeños agricultores y productores artesanales",
+    "pag": 22
+   }
+  ]
+ },
+ "metas": [
+  "Reuniones cada tres meses en los 52 barrios.",
+  "Rendición de cuentas al final de cada año fiscal.",
+  "Plan de trabajo para el periodo 2027-2031.",
+  "Informe final del plan al terminar 2027-2031."
+ ],
+ "notas": [
+  "Ninguna propuesta dice cuánto cuesta ni cómo se paga. Varias dependen del Municipio, la Prefectura o el Ministerio.",
+  "Es un plan de la lista 2 para los cinco candidatos. Gran parte del texto copia leyes y el plan de desarrollo parroquial."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26
+ ],
+ "paginas": 26
+}

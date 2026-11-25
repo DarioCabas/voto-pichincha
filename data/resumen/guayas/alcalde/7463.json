@@ -1,0 +1,124 @@
+{
+ "enfoque": "Propone calles, agua, basura, parques y mercados, pero sin costos ni lugares. Mezcla salud y educación, que no son del alcalde, y parte del texto es copiado de otros planes.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar y mejorar las calles urbanas y rurales del cantón.",
+    "que": "El plan no dice qué calles, cuánto costará ni cuándo. Busca facilitar la conexión y el movimiento dentro del cantón.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice dónde ni cuándo.",
+    "cita": "mantenimiento, rehabilitación y mejoramiento de la infraestructura vial urbana y rural, facilitando la conectividad",
+    "pag": 14
+   },
+   {
+    "t": "Reconstruir caminos vecinales en el área rural, junto con la Prefectura del Guayas.",
+    "que": "El plan dice que se hará con convenios con la Prefectura del Guayas, el gobierno de la provincia. No dice cuántos caminos ni cuánto costará.",
+    "v": "media",
+    "n": "Depende de la Prefectura. El plan no dice cuándo ni cuánto.",
+    "cita": "reconstrucción de caminos vecinales en el área rural, que permitan que el tránsito seguro de los agricultores",
+    "pag": 14
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Comprar un recolector de basura y mejorar sus rutas y frecuencias.",
+    "que": "El plan no dice cuánto costará ni cuándo se hará. También menciona reciclaje y educación ambiental, sin cifras.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que maneja la basura. Falta costo y plazo.",
+    "cita": "a través de la adquisición de un recolector de basura, mejora de rutas y frecuencias",
+    "pag": 8
+   },
+   {
+    "t": "Ampliar y arreglar el agua potable y el alcantarillado en los sectores más necesitados.",
+    "que": "El plan no dice qué sectores ni cuánto costará. Dice que dará prioridad a los sectores con más necesidades.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Faltan sectores, costo y plazo.",
+    "cita": "Ejecutar proyectos para ampliar, rehabilitar y mejorar la cobertura y calidad de los sistemas de agua potable",
+    "pag": 14
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar parques, áreas verdes, espacios públicos y zonas recreativas.",
+    "que": "El plan no dice qué parques ni cuánto costará. Habla de programas de recuperación y mantenimiento.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Faltan lugares y costos.",
+    "cita": "programas de regeneración urbana, recuperación y mantenimiento de parques, áreas verdes, espacios públicos",
+    "pag": 14
+   },
+   {
+    "t": "Ordenar el crecimiento urbano y rural y el uso del suelo.",
+    "que": "Es una idea general. El plan no dice qué normas ni obras habrá, ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, aunque es una idea general.",
+    "cita": "Promover un ordenamiento territorial responsable que oriente el crecimiento urbano y rural",
+    "pag": 14
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar espacios adecuados para el comercio local y ferias productivas.",
+    "que": "El plan no dice dónde ni cuánto costará. Tampoco dice cuándo se harán los espacios ni las ferias.",
+    "v": "alta",
+    "n": "Los mercados sí son del Municipio, pero falta dónde y costo.",
+    "cita": "Impulsar acciones que dinamicen el comercio local, fomentando espacios adecuados para la actividad comercial",
+    "pag": 14
+   }
+  ],
+  "otros": [
+   {
+    "t": "Hacer acciones de prevención de riesgos y de adaptación al cambio climático.",
+    "que": "El plan menciona inundaciones, sequías y sismos como amenazas. No dice qué acciones ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (prevención de desastres). Falta detalle.",
+    "cita": "Implementar acciones de gestión de riesgos y adaptación al cambio climático, orientadas a la prevención",
+    "pag": 12
+   },
+   {
+    "t": "Gestionar con el Ministerio de Salud arreglos y equipos para los centros de salud.",
+    "que": "El plan no dice qué centros ni cuánto costará. Es un pedido al Ministerio, no una obra del Municipio.",
+    "v": "baja",
+    "n": "La salud le toca al Ministerio de Salud, no al alcalde.",
+    "cita": "Impulsar las gestiones necesarias ante el Ministerio de Salud Pública para la adecuación, equipamiento y fortalecimiento de los establecimientos de salud",
+    "pag": 13
+   },
+   {
+    "t": "Comprar una ambulancia mediante convenios con otras instituciones.",
+    "que": "El plan no dice cuánto costará ni cuándo llegará. Tampoco dice dónde ni quién la usará.",
+    "v": "baja",
+    "n": "La ambulancia es de salud, no del Municipio. Falta costo.",
+    "cita": "para la adquisición de herramientas entre ellos la ambulancia",
+    "pag": 12
+   }
+  ]
+ },
+ "metas": [
+  "El plan de trabajo va del año 2027 al 2031."
+ ],
+ "notas": [
+  "Gran parte del texto es un diagnóstico copiado de planes del cantón y la provincia; el objetivo general habla de 'gestión parroquial'.",
+  "El plan no dice cuánto costará ninguna obra ni de dónde saldrá el dinero. Varias propuestas son de salud, educación o policía."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "paginas": 18
+}

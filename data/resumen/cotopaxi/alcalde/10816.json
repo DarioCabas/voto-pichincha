@@ -1,0 +1,107 @@
+{
+ "enfoque": "Plan general: arreglar caminos rurales, ampliar agua y alcantarillado, cuidar el ambiente y hacer reuniones en parroquias. No dice cuánto costará ni cuándo.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Arreglar y mantener las carreteras rurales que unen parroquias y comunidades.",
+    "que": "El plan no dice qué carreteras primero, cuánto costará ni cuándo. Hoy muchas son de tierra y están en mal estado.",
+    "v": "media",
+    "n": "Puede gestionarla, pero el plan la reparte con la Prefectura y el MTOP.",
+    "cita": "gestionar y coordinar el mantenimiento de las carreteras rurales, fortalecer la conexión entre parroquias y comunidades",
+    "pag": 10
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar los servicios de agua potable y alcantarillado en el cantón.",
+    "que": "El plan no dice en qué parroquias ni cuánto costará. Tampoco dice cuándo se haría.",
+    "v": "alta",
+    "n": "Agua y alcantarillado son del Municipio. El plan no dice cómo se pagará.",
+    "cita": "ampliar los servicios de agua potable y alcantarillado, tratar aguas residuales y residuos sólidos",
+    "pag": 10
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar los espacios públicos del cantón.",
+    "que": "El plan no dice qué espacios, dónde ni cuánto costará. Tampoco dice en qué plazo.",
+    "v": "alta",
+    "n": "Es competencia del Municipio. Falta saber qué lugares se arreglarán.",
+    "cita": "el alumbrado público y la recuperación de los espacios públicos",
+    "pag": 11
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Reforestar con especies nativas y recuperar microcuencas del cantón.",
+    "que": "El plan no dice dónde ni cuántos árboles. Tampoco dice cuánto costará ni quién lo pagará.",
+    "v": "media",
+    "n": "Depende en parte del Ministerio del Ambiente, que el plan también menciona.",
+    "cita": "recuperar microcuencas, reforestar con especies nativas, educar en temas ambientales y gestionar bien los residuos",
+    "pag": 10
+   },
+   {
+    "t": "Hacer un plan para enfrentar el cambio climático en el cantón.",
+    "que": "El plan no dice cuándo estará listo ni cuánto costará. Habla de proteger fuentes de agua y educar.",
+    "v": "alta",
+    "n": "Hacer planes es del Municipio. El plan no dice con qué recursos.",
+    "cita": "protección de fuentes hídricas, educación ambiental y acciones de adaptación frente al cambio climático",
+    "pag": 11
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear una plataforma digital para ver el presupuesto, las obras y las compras.",
+    "que": "El plan no dice cuánto costará ni cuándo estará lista. Mostraría presupuesto, obras y contratos públicos.",
+    "v": "alta",
+    "n": "Es del Municipio. El plan no dice cuánto costará.",
+    "cita": "Se habilitará una plataforma digital de transparencia donde la ciudadanía podrá consultar información relacionada con el presupuesto municipal",
+    "pag": 11
+   },
+   {
+    "t": "Hacer sesiones de trabajo en parroquias y comunidades con el alcalde y concejales.",
+    "que": "El plan dice que serán periódicas, pero no cada cuánto. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Es una decisión de la propia administración municipal.",
+    "cita": "realizarán periódicamente sesiones de trabajo en las diferentes parroquias y comunidades",
+    "pag": 11
+   },
+   {
+    "t": "Hacer asambleas, mesas de diálogo y un presupuesto participativo con la ciudadanía.",
+    "que": "El plan no dice cuándo se harán ni cuánto costará. Participarían barrios, comunidades y productores.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cómo funcionará el presupuesto participativo.",
+    "cita": "mediante asambleas cantonales, mesas de diálogo, presupuesto participativo y procesos de consulta",
+    "pag": 12
+   }
+  ]
+ },
+ "metas": [
+  "Plan de trabajo para los años 2027 a 2031.",
+  "Rendición Pública de Cuentas cada año."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Gran parte del diagnóstico copia el plan de desarrollo del cantón. Tiene pocas medidas concretas y no propone nada de seguridad."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16
+ ],
+ "paginas": 16
+}

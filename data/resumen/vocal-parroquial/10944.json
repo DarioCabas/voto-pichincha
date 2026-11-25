@@ -1,0 +1,124 @@
+{
+ "enfoque": "Plan copiado del plan de desarrollo de la parroquia: arreglar calles y parques, cuidar el ambiente, ayudar a productores y a grupos prioritarios. Muchas obras son de otros niveles.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Planificar, construir y mantener la red vial de la parroquia.",
+    "que": "El plan no dice qué calles ni cuánto costará. Dice que se pagaría con presupuesto propio, convenios y transferencias del Estado.",
+    "v": "media",
+    "n": "Las calles grandes necesitan acuerdo con la Prefectura o el Municipio.",
+    "cita": "Planificar, construir y mantener la red vial (asfaltados, adoquinados y bordillos).",
+    "pag": 4
+   },
+   {
+    "t": "Gestionar la señalización de calles, pintada en el piso y con señales.",
+    "que": "El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Necesita acuerdo con el Ministerio de Transporte o el Municipio.",
+    "cita": "Gestión para la implementación de señalización vial horizontal y vertical.",
+    "pag": 4
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Gestionar mejoras de los servicios básicos, como agua y alcantarillado.",
+    "que": "El plan no dice cuánto costará ni cuándo. Quien hace el agua es la empresa pública de Mejía.",
+    "v": "baja",
+    "n": "Agua potable no le toca a la junta. Le toca a la empresa pública de agua.",
+    "cita": "Gestionar la ampliación, mejoramiento y mantenimiento de los servicios",
+    "pag": 3
+   },
+   {
+    "t": "Pedir a la Empresa Eléctrica más alumbrado público y electricidad.",
+    "que": "El plan no dice cuántas luces ni cuánto costará.",
+    "v": "baja",
+    "n": "Le toca a la Empresa Eléctrica, no a la junta.",
+    "cita": "Gestión para electrificación y expansión del alumbrado público, ante la Empresa Eléctrica",
+    "pag": 4
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar parques, áreas verdes y casas comunales.",
+    "que": "El plan no dice qué parques ni cuánto costará. Las obras irían de 2027 a 2031.",
+    "v": "alta",
+    "n": "Le toca a la junta: parques y espacios de la parroquia.",
+    "cita": "Mantenimiento y mejoramiento de parques, áreas verdes y casas comunales.",
+    "pag": 4
+   },
+   {
+    "t": "Construir un parque integral en Cutuglagua.",
+    "que": "El plan no dice dónde ni cuánto costará. Se haría con convenios con otras instituciones.",
+    "v": "media",
+    "n": "Obra grande: necesita acuerdo con otras instituciones.",
+    "cita": "Gestión y articulación para la construcción del parque integral de Cutuglagua.",
+    "pag": 4
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer campañas para sembrar árboles y recuperar quebradas.",
+    "que": "El plan no dice dónde ni cuántos árboles ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la junta: cuidar el ambiente y organizar a la comunidad.",
+    "cita": "Campañas de reforestación y recuperación ambiental de quebradas y fuentes hídricas.",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer programas para niños, jóvenes, adultos mayores y personas con discapacidad.",
+    "que": "El plan no dice qué programas ni cuánto costarán. Incluye brigadas médicas y ayudas técnicas.",
+    "v": "media",
+    "n": "Salud no le toca a la junta; haría falta trabajar con el Ministerio de Salud.",
+    "cita": "Fortalecer la atención a los grupos de atención prioritaria.",
+    "pag": 2
+   }
+  ],
+  "economia": [
+   {
+    "t": "Organizar ferias y talleres para productores y emprendedores.",
+    "que": "El plan no dice cuántas ferias ni cuándo, ni cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca a la junta y cuesta poco: ferias y talleres.",
+    "cita": "Fortalecer los emprendimientos y actividades productivas locales mediante capacitación, promoción y organización de ferias.",
+    "pag": 5
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer una rendición de cuentas cada año, con reuniones públicas.",
+    "que": "El plan no dice cuánto costará. Se hace dentro de los plazos que fija la ley.",
+    "v": "alta",
+    "n": "Le toca a la junta. Cuesta poco: es reunir a la comunidad.",
+    "cita": "Proceso anual obligatorio de rendición de cuentas, se ejecutará anualmente dentro",
+    "pag": 10
+   }
+  ]
+ },
+ "metas": [
+  "Ejecutar el plan de trabajo entre 2027 y 2031.",
+  "Rendir cuentas cada año, dentro de los plazos de la ley."
+ ],
+ "notas": [
+  "Plan copiado del plan de desarrollo de la parroquia. No dice cuánto costará ninguna obra ni en qué año se hará cada una.",
+  "Muchas obras son de otros niveles: agua, luz, salud y escuelas. El plan solo lista de dónde podría venir el dinero, sin montos."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ],
+ "paginas": 13
+}

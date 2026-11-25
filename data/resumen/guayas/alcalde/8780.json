@@ -1,0 +1,121 @@
+{
+ "enfoque": "Plan general: obras municipales (agua, calles, mercados, parques) sin costo ni fechas. Muchas metas son de salud, educación o policía, que no son del alcalde.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Mejorar el agua potable, el alcantarillado y la basura en el cantón.",
+    "que": "Dice que dará prioridad al agua potable, saneamiento, alcantarillado y basura. El plan no dice dónde, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice dónde ni cuánto costará.",
+    "cita": "Mejorar progresivamente la cobertura y calidad de los servicios básicos, priorizando agua potable, saneamiento, alcantarillado, manejo de residuos y mantenimiento de espacios públicos",
+    "pag": 6
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer obras de vías en barrios, parroquias, recintos y zonas rurales.",
+    "que": "Dice que dará prioridad a barrios, parroquias, recintos y zonas rurales. El plan no dice qué calles, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Las vías rurales pueden depender de la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Fortalecer la infraestructura vial y la conectividad territorial, priorizando las necesidades de barrios, parroquias, recintos y comunidades rurales",
+    "pag": 6
+   },
+   {
+    "t": "Recuperar canchas, parques y áreas deportivas.",
+    "que": "Dice que recuperará canchas, parques y áreas deportivas. El plan no dice cuáles, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuáles ni cuándo.",
+    "cita": "Recuperar y adecuar canchas, parques, espacios recreativos y áreas deportivas",
+    "pag": 7
+   }
+  ],
+  "economia": [
+   {
+    "t": "Ordenar a los comerciantes y mejorar la infraestructura de los mercados.",
+    "que": "Dice que ordenará a los comerciantes y mejorará la infraestructura de los mercados. El plan no dice cuáles mercados ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué mercados ni cuánto costará.",
+    "cita": "Mejorar las condiciones de los comerciantes mediante ordenamiento, capacitación e infraestructura",
+    "pag": 7
+   },
+   {
+    "t": "Crear ferias de productos agrícolas y comerciales en Pedro Carbo.",
+    "que": "Dice que creará ferias agroproductivas y comerciales en el cantón. El plan no dice dónde, cuándo ni cuánto costará.",
+    "v": "media",
+    "n": "Puede organizarla, pero el plan no dice dónde ni cuándo.",
+    "cita": "Crear ferias agroproductivas y comerciales de Pedro Carbo",
+    "pag": 7
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger las fuentes de agua y los bosques del cantón.",
+    "que": "Dice que protegerá fuentes de agua, bosques y ecosistemas con control y participación comunitaria. El plan no dice cómo ni con qué dinero.",
+    "v": "media",
+    "n": "Es en parte municipal. El plan no dice con qué dinero ni con quién.",
+    "cita": "Proteger y conservar las fuentes de agua, bosques y ecosistemas estratégicos, mediante acciones coordinadas de control, manejo sostenible y participación comunitaria",
+    "pag": 8
+   }
+  ],
+  "otros": [
+   {
+    "t": "Hacer acciones para prevenir riesgos y adaptarse al cambio climático.",
+    "que": "Dice que hará acciones para prevenir riesgos y adaptarse al cambio climático. El plan no dice qué acciones ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué acciones ni cuánto costará.",
+    "cita": "Implementar acciones de gestión de riesgos y adaptación al cambio climático, orientadas a la prevención",
+    "pag": 7
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear programas para prevenir la desnutrición infantil.",
+    "que": "Dice que creará programas de prevención de la desnutrición infantil con otras instituciones. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "No le toca al Municipio; es tema de salud. El plan no dice cómo.",
+    "cita": "Crear programas de prevención de la desnutrición infantil, articulados con las instituciones",
+    "pag": 7
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Recuperar espacios públicos e iluminarlos para prevenir la inseguridad.",
+    "que": "Dice que recuperará espacios públicos, pondrá iluminación y hará prevención comunitaria. El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "La policía no es del alcalde. El plan no dice dónde ni cuánto costará.",
+    "cita": "mediante recuperación de espacios públicos, iluminación, prevención comunitaria y coordinación interinstitucional",
+    "pag": 6
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar en qué gasta el Municipio: presupuesto, gastos y obras.",
+    "que": "Dice que publicará periódicamente el presupuesto, los gastos y el avance de obras. El plan no dice cada cuánto ni en qué medio.",
+    "v": "alta",
+    "n": "Le toca al alcalde. El plan no dice cada cuánto se publicará.",
+    "cita": "Publicar periódicamente información sobre el presupuesto municipal, ejecución presupuestaria, ingresos, gastos e inversión pública",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni cuándo se hará.",
+  "Muchas metas son de salud, educación o policía, que no le tocan al alcalde. Parte del texto viene de planes de desarrollo de Guayas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11
+ ],
+ "paginas": 11
+}

@@ -1,0 +1,117 @@
+{
+ "enfoque": "Copiado del plan de desarrollo de la parroquia. Propone cuidar el bosque, caminos y parques, apoyar productores y pedir ayuda al Municipio y la Prefectura.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Conservar el bosque seco, el suelo y el agua, con monitoreo de la comunidad.",
+    "que": "Dice ampliar la conservación, la reforestación y el monitoreo comunitario del bosque seco, suelo y fuentes de agua. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Cuidar el ambiente es tarea de la junta; el plan no dice dónde se hará.",
+    "cita": "Ampliar la conservación, retorestación y monitoreo comunitario del bosque seco, suelo y fuentes de agua.",
+    "pag": 13
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Programar mingas y arreglos en parques y espacios públicos de la parroquia.",
+    "que": "El plan dice programar intervenciones, mingas y gestionar nuevos espacios. No dice cuánto costará ni cuándo, ni qué espacios se arreglarán.",
+    "v": "alta",
+    "n": "Las mingas y el cuidado de parques son tareas que la junta sí puede hacer.",
+    "cita": "Programar intervenciones, mingas y gestión de nuevos espacios.",
+    "pag": 14
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Organizar brigadas, alertas, puntos seguros y simulacros para incendios y emergencias.",
+    "que": "El plan dice organizar brigadas, alertas, puntos seguros, capacitación y simulacros. No dice cuánto costará. Pide coordinar con Bomberos, Policía y el Municipio.",
+    "v": "alta",
+    "n": "Organizar a la gente es tarea de la junta; la Policía no le toca a la junta.",
+    "cita": "Organizar brigadas, alertas, puntos seguros, capacitación y simulacros.",
+    "pag": 14
+   }
+  ],
+  "social": [
+   {
+    "t": "Coordinar servicios para niñez, mujeres, discapacidad y personas adultas mayores.",
+    "que": "El plan dice articular servicios para estos grupos mediante convenios. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Necesita convenio con el Gobierno central o el Municipio; la junta solo coordina.",
+    "cita": "Articular servicios para niñez, mujeres, discapacidad y personas adultas mayores.",
+    "pag": 14
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar en carteleras y canales digitales los avances, servicios y rendición de cuentas.",
+    "que": "El plan dice que los reportes se difundirán en la sede del GAD, canales digitales, carteleras y medios comunitarios. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Publicar información cuesta poco y la junta lo puede hacer.",
+    "cita": "Publicar avances, servicios, convocatorias, alertas y rendición de cuentas.",
+    "pag": 14
+   },
+   {
+    "t": "Hacer asambleas por sectores y un presupuesto participativo cada año.",
+    "que": "El plan dice asambleas parroquiales y por sectores, presupuesto participativo anual e informes trimestrales. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Reuniones con la gente son tareas de la junta y cuestan poco.",
+    "cita": "Se realizarán asambleas parroquiales y por sectores; presupuesto participativo anual; informes",
+    "pag": 27
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Mantener los caminos de la parroquia, junto con la Prefectura.",
+    "que": "El plan dice mejorar el mantenimiento vial y la cooperación para maquinaria. No dice cuánto costará ni qué caminos se arreglarán.",
+    "v": "media",
+    "n": "Los caminos son de la parroquia, pero hace falta maquinaria y acuerdo con la Prefectura.",
+    "cita": "Mejorar el mantenimiento vial, la respuesta invernal y la cooperación para maquinaria.",
+    "pag": 13
+   }
+  ]
+ },
+ "metas": [
+  "Dar continuidad a los 13 proyectos priorizados del plan de desarrollo de la parroquia.",
+  "Sostener la atención de 72 niñas y niños.",
+  "Informes trimestrales de proyectos y presupuesto.",
+  "Audiencia pública de rendición de cuentas una vez al año.",
+  "Presupuesto participativo cada año."
+ ],
+ "notas": [
+  "El plan es del gobierno parroquial completo y está copiado del plan de desarrollo de la parroquia; muchas tareas son del Municipio o la Prefectura.",
+  "El plan no dice cuánto costará ni de dónde saldrá el dinero para casi ninguna propuesta. Partes del texto están ilegibles."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29
+ ],
+ "paginas": 29
+}

@@ -1,0 +1,136 @@
+{
+ "enfoque": "Sigue las obras de la gestión actual: calles, agua, alcantarillado, basura, parques y mercados. Gran parte del texto copia el plan de desarrollo del cantón.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Construir y mejorar 40 km de vías urbanas y rurales en cuatro años.",
+    "que": "Son 10 km por año: construir vías nuevas y mantener y mejorar las existentes. El plan no dice cuánto costará ni cómo se pagará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (vialidad urbana). Falta dato de costo.",
+    "cita": "Ampliación y mejoramiento de la red vial urbana y rural Kilómetros de red vías construidos y ampliados",
+    "pag": 10
+   },
+   {
+    "t": "Implementar un plan de movilidad con carriles de bus, parqueo inteligente y ciclorutas.",
+    "que": "Incluye carriles exclusivos para buses, peatonizar espacios, aceras accesibles y ciclorutas. Avance: 5%, 10%, 35% y 50%. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Tránsito y buses son del Municipio; el plan también necesita entidades nacionales.",
+    "cita": "Implementar un Plan de Movilidad Sostenible en el cantón Latacunga, orientado a mejorar",
+    "pag": 46
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Avanzar en el plan maestro de agua potable hasta llegar al 100%.",
+    "que": "Avance previsto: 10%, 10%, 20% y 40%. El plan no dice cuánto costará. Lista como aliados a un banco de desarrollo y a organismos internacionales.",
+    "v": "media",
+    "n": "Es del Municipio, pero depende de un banco y de ayuda externa.",
+    "cita": "cobertura del servicio de agua potable y alcantarillado en el área urbana y rural",
+    "pag": 45
+   },
+   {
+    "t": "Ampliar y mejorar 24 km de redes de alcantarillado en cuatro años.",
+    "que": "Son 6 km por año, dentro del Plan Maestro de Alcantarillado. El plan no dice cuánto costará ni cómo se pagará.",
+    "v": "media",
+    "n": "Es del Municipio, pero depende de un banco y de ayuda externa.",
+    "cita": "El Plan Maestro contempla la ampliación y modernización de las redes de alcantarillado",
+    "pag": 11
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Completar la segunda etapa del relleno sanitario, donde se entierra la basura.",
+    "que": "Metas de avance por año hasta 100% en cuatro años. El plan no dice cuánto costará ni cómo se pagará.",
+    "v": "alta",
+    "n": "La basura es competencia del Municipio. Falta dato de costo.",
+    "cita": "Fortalecer la recolección, aprovechamiento y disposición final de los residuos.",
+    "pag": 50
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar y construir parques y espacios públicos en cuatro años.",
+    "que": "Avance por año: 21%, 25%, 26% y 28%, hasta 100%. El plan no dice en qué barrios ni cuánto costará.",
+    "v": "alta",
+    "n": "Parques y espacios públicos son competencia del Municipio.",
+    "cita": "Implementación del Plan de Construcción y Repotenciación de Espacios Públicos, Parques y Jardines",
+    "pag": 18
+   }
+  ],
+  "economia": [
+   {
+    "t": "Construir el Mercado Pichincha y el Mercado del Sur.",
+    "que": "Metas de avance para cada mercado hasta 100%. El plan no dice cuánto costará ni cuándo estarán listos.",
+    "v": "alta",
+    "n": "Los mercados son competencia del Municipio. Falta dato de costo.",
+    "cita": "Construcción del mercado Pichincha Porcentaje de avance físico del proyecto",
+    "pag": 48
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Mantener y ampliar las alarmas comunitarias, comités barriales y corredores seguros.",
+    "que": "Son mecanismos de prevención ya existentes. Avance del plan de seguridad: 10%, 10%, 80% y 100%. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Parte es del Municipio; la Policía Nacional no le toca al alcalde.",
+    "cita": "Porcentaje de implementación del Plan de Seguridad Ciudadana",
+    "pag": 47
+   }
+  ],
+  "social": [
+   {
+    "t": "Poner en funcionamiento el Hospital Municipal del Día.",
+    "que": "Avance por año hasta 100% en cuatro años. El plan no dice cuánto costará ni cómo se pagará.",
+    "v": "baja",
+    "n": "Los hospitales no son competencia del Municipio, según la ley.",
+    "cita": "el Hospital Municipal del Día, ampliando la capacidad de atención ambulatoria",
+    "pag": 18
+   }
+  ]
+ },
+ "metas": [
+  "Hasta 40 km de vías urbanas y rurales construidos o ampliados en cuatro años (10 km por año).",
+  "20 km de vías con recapeo y 20 km adoquinadas en cuatro años.",
+  "24 km de redes de alcantarillado ampliadas o mejoradas en cuatro años.",
+  "Segunda etapa del relleno sanitario: avance hasta 100% en cuatro años.",
+  "Actualización y valoración del catastro: hasta 50% al cuarto año."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará casi ninguna propuesta ni de dónde saldrá el dinero.",
+  "Gran parte del texto repite el plan de desarrollo del cantón y la gestión actual; varias metas dependen de otras entidades.",
+  "Plan muy largo (52 págs.): se resumieron las 29 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  18,
+  31,
+  32,
+  34,
+  36,
+  37,
+  39,
+  40,
+  41,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51
+ ],
+ "paginas": 52
+}

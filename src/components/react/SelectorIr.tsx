@@ -10,7 +10,7 @@ export function SelectorIr({ opciones, valor, etiqueta, id, className }: { opcio
       <SelectTrigger id={id} aria-label={etiqueta} className={cn("min-h-10 text-[0.95rem]", className)}>
         <SelectValue />
       </SelectTrigger>
-      <SelectContent position="popper" className="max-h-[60vh]">
+      <SelectContent position="item-aligned">
         {opciones.map((o) => <SelectItem key={o.valor} value={o.valor} className="py-2 text-[0.95rem]">{o.texto}</SelectItem>)}
       </SelectContent>
     </Select>

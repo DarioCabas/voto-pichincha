@@ -31,12 +31,12 @@ const unidad = (n) => `${n} ${n === 1 ? 'candidatura' : 'candidaturas'}`;
 
 <Layout title={nombreTerr ? `${d.nombre} · ${nombreTerr}` : d.nombre} activo={d.slug} prov={prov}>
   <nav aria-label="Estás en" class="pt-5 text-sm text-muted-foreground">
-    <a href={`${base}/`} class="text-muted-foreground">{nombreProv}</a>
+    <a href={`${base}/`} class="tap text-muted-foreground">{nombreProv}</a>
     <span aria-hidden="true"> / </span>
-    {nombreTerr ? <a href={`${base}/${d.slug}/`} class="text-muted-foreground">{d.nombre}</a> : <span>{d.nombre}</span>}
-    {t?.sub && <><span aria-hidden="true"> / </span><a href={`${base}/${d.slug}/${t.path.split('/')[0]}/`} class="text-muted-foreground">{titulo(t.canton)}</a></>}
+    {nombreTerr ? <a href={`${base}/${d.slug}/`} class="tap text-muted-foreground">{d.nombre}</a> : <span>{d.nombre}</span>}
+    {t?.sub && <><span aria-hidden="true"> / </span><a href={`${base}/${d.slug}/${t.path.split('/')[0]}/`} class="tap text-muted-foreground">{titulo(t.canton)}</a></>}
   </nav>
-  <h1>{d.nombre}{nombreTerr && <span class="text-muted-foreground"> · {nombreTerr}</span>}</h1>
+  <h1>{d.nombre}{nombreTerr && <span class="tap text-muted-foreground"> · {nombreTerr}</span>}</h1>
 
   <QuePuede dign={d.slug} />
 

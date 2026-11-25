@@ -28,7 +28,7 @@ export function ListaVerificaciones({ items, id }: { items: Verif[]; id: string 
                 <Badge variant="outline">{v.fuente}</Badge>
                 <span>{v.evento} · {new Date(v.fecha + "T12:00:00").toLocaleDateString("es-EC", { day: "numeric", month: "long", year: "numeric" })}</span>
               </p>
-              <a className="font-medium" href={v.url} target="_blank" rel="noopener">Leer la verificación completa en {v.fuente} ↗</a>
+              <a className="tap font-medium" href={v.url} target="_blank" rel="noopener">Leer la verificación completa en {v.fuente} ↗</a>
             </AccordionContent>
           </AccordionItem>
         ))}

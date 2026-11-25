@@ -30,7 +30,7 @@ export function ListaPropuestas({ items, pdf, id }: { items: Item[]; pdf?: strin
                 <figcaption className="mb-0.5 text-xs font-semibold uppercase tracking-wide text-muted-foreground">Lo que dice el plan</figcaption>
                 <blockquote className="m-0 italic">«{i.cita}»</blockquote>
                 {pdf && (
-                  <a className="mt-1 inline-block font-medium" href={planUrl(pdf, i.pag)}>
+                  <a className="tap mt-1 font-medium" href={planUrl(pdf, i.pag)}>
                     {i.pag ? `Verlo en el plan, página ${i.pag}` : "Verlo en el plan"} →
                   </a>
                 )}

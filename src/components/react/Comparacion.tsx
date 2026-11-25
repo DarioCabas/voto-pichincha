@@ -24,9 +24,9 @@ function Enlaces({ c }: { c: Cand }) {
   const pdf = pdfUrl(c.pdf)
   return (
     <>
-      {c.pdf ? <a href={planUrl(c.pdf)}>Leer el plan</a> : <span className="text-muted-foreground">No entregó plan</span>}
-      {pdf && <a href={pdf} target="_blank" rel="noopener">PDF</a>}
-      {c.cne && <a href={c.cne} target="_blank" rel="noopener">Ver en el CNE ↗</a>}
+      {c.pdf ? <a className="tap" href={planUrl(c.pdf)}>Leer el plan</a> : <span className="text-muted-foreground">No entregó plan</span>}
+      {pdf && <a className="tap" href={pdf} target="_blank" rel="noopener">PDF</a>}
+      {c.cne && <a className="tap" href={c.cne} target="_blank" rel="noopener">Ver en el CNE ↗</a>}
     </>
   )
 }
@@ -41,7 +41,7 @@ function ResumenVerif({ c }: { c: Cand }) {
       <ul className="grid list-none gap-1 p-0">
         {porCal.map(([cal, n]) => <li key={cal} className="flex items-center gap-1.5"><MarcaCalificacion c={cal} /> <span className="text-muted-foreground">{n === 1 ? "1 frase" : `${n} frases`}</span></li>)}
       </ul>
-      <a className="mt-1.5 inline-block font-medium" href={`#f-${c.id}`}>Ver qué dijo y qué encontraron</a>
+      <a className="tap mt-1 font-medium" href={`#f-${c.id}`}>Ver qué dijo y qué encontraron</a>
     </>
   )
 }
@@ -81,7 +81,7 @@ function Tarjeta({ c, temas }: { c: Cand; temas: Tema[] }) {
       </CardContent>
       <CardFooter className="flex flex-wrap gap-x-4 gap-y-1 border-t py-3 text-sm">
         <Enlaces c={c} />
-        <a href={`#f-${c.id}`}>Quiénes son y notas</a>
+        <a className="tap" href={`#f-${c.id}`}>Quiénes son y notas</a>
       </CardFooter>
     </Card>
   )

@@ -180,6 +180,8 @@
 
 /* Utilidades que usan prefectura.astro y la página de cada plan */
 @layer components {
+  /* Zona táctil mínima de 28 px para enlaces sueltos (WCAG 2.2, 2.5.8 pide 24 px) */
+  .tap { display: inline-flex; align-items: center; min-height: 1.75rem; }
   .muted { color: var(--muted-foreground); }
   .small { font-size: 0.85rem; }
   .sub { color: var(--muted-foreground); margin: 0 0 1rem; max-width: 70ch; }

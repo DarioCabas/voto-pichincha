@@ -22,7 +22,7 @@ const lista = candidatos.map((c) => ({
 ---
 
 <Layout title="Prefectura" activo="prefectura">
-  <nav aria-label="Estás en" class="pt-5 text-sm text-muted-foreground"><a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/`} class="text-muted-foreground">Pichincha</a> / Prefectura</nav>
+  <nav aria-label="Estás en" class="pt-5 text-sm text-muted-foreground"><a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/`} class="tap text-muted-foreground">Pichincha</a> / Prefectura</nav>
   <h1>Prefectura de Pichincha</h1>
   <p class="mt-1 text-muted-foreground">{lista.length} candidaturas. Cada una lleva un prefecto o prefecta y su viceprefecto o viceprefecta.</p>
   <QuePuede dign="prefectura" />

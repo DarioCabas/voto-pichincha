@@ -1,0 +1,29 @@
+---
+// Una propuesta: se toca para ver qué promete, si le toca cumplirla y la frase exacta del plan.
+import { planUrl } from '../lib/planes.js';
+interface Props { i: any; pdf?: string | null }
+const { i, pdf } = Astro.props;
+const etiqueta = { alta: 'Sí, está en sus manos', media: 'Depende de otros', baja: 'Difícil o no le corresponde' }[i.v];
+---
+
+<details class="group/p rounded-md">
+  <summary class="-mx-1.5 grid list-none grid-cols-[10px_1fr_auto] gap-2 rounded-md px-1.5 py-1 hover:bg-muted [&::-webkit-details-marker]:hidden">
+    <i class={`dot ${i.v} mt-[0.45em]`} title={etiqueta}></i>
+    <span>{i.t}<span class="sr-only"> ({etiqueta})</span></span>
+    <span aria-hidden="true" class="mt-0.5 text-xs text-muted-foreground transition-transform group-open/p:rotate-90">▸</span>
+  </summary>
+  <div class="mt-1 mb-2 ml-[18px] grid gap-2 border-l-2 pl-3 text-[13px]">
+    {i.que && <p><span class="font-medium">Qué promete: </span>{i.que}</p>}
+    <p><span class="font-medium">¿Se puede cumplir? </span><span class="text-muted-foreground">{etiqueta}. {i.n}</span></p>
+    {i.cita && (
+      <figure class="m-0">
+        <blockquote class="m-0 italic text-muted-foreground">«{i.cita}»</blockquote>
+        {pdf && (
+          <figcaption class="mt-1">
+            <a href={planUrl(pdf, i.pag)}>{i.pag ? `Verlo en el plan, página ${i.pag}` : 'Verlo en el plan'} →</a>
+          </figcaption>
+        )}
+      </figure>
+    )}
+  </div>
+</details>

@@ -21,7 +21,7 @@ const lista = candidatos.map((c) => ({
 
 <Layout title="Prefectura" activo="prefectura">
   <h1>Prefectura de Pichincha</h1>
-  <p class="sub">{lista.length} binomios. {COMPETENCIAS.prefectura}</p>
+  <p class="sub">{lista.length} candidaturas (cada una con prefecto o prefecta y su vice). {COMPETENCIAS.prefectura}</p>
 
   <div class="kpis">
     {datos.map((d) => (
@@ -38,10 +38,10 @@ const lista = candidatos.map((c) => ({
 
 <style>
   .kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; margin: 0 0 20px; align-items: start; }
-  .kpi { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; }
+  .kpi { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 10px 12px; }
   .kpi summary { cursor: pointer; list-style: none; display: flex; flex-direction: column; }
   .kpi summary::-webkit-details-marker { display: none; }
-  .kpi .k { font-size: 12px; color: var(--muted); }
+  .kpi .k { font-size: 12px; color: var(--muted-foreground); }
   .kpi .v { font-size: 14.5px; font-weight: 650; }
-  .kpi p { margin: 8px 0 0; font-size: 13px; color: var(--muted); }
+  .kpi p { margin: 8px 0 0; font-size: 13px; color: var(--muted-foreground); }
 </style>

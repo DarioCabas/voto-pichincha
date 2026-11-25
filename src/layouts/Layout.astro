@@ -1,4 +1,8 @@
 ---
+import '@/styles/global.css';
+import { SelectorIr } from '@/components/SelectorIr';
+import { buttonVariants } from '@/components/ui/button';
+import { cn } from '@/lib/utils';
 import { PROVINCIAS, provPath } from '../data/dignidades.js';
 import { dignidadesDe } from '../lib/datos.js';
 interface Props { title: string; activo?: string; prov?: string }
@@ -14,76 +18,56 @@ const nombreProv = PROVINCIAS.find((p) => p.slug === prov)?.nombre ?? 'Pichincha
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <link rel="icon" type="image/svg+xml" href={`${base}/favicon.svg`} />
     <title>{title} · Voto Informado {nombreProv}</title>
+    <!-- Tema oscuro según el sistema, antes de pintar para evitar parpadeo -->
+    <script is:inline>
+      (() => {
+        const m = matchMedia('(prefers-color-scheme: dark)');
+        const set = () => document.documentElement.classList.toggle('dark', m.matches);
+        set();
+        m.addEventListener('change', set);
+      })();
+    </script>
   </head>
-  <body>
-    <header class="site">
-      <div class="wrap row">
-        <a class="brand" href={`${pbase}/`}>Voto Informado <span>Seccionales 2027</span></a>
-        <label class="prov">
-          <span>Provincia</span>
-          <select onchange="location.href = this.value">
-            {PROVINCIAS.map((p) => <option value={`${base}${provPath(p.slug)}/`} selected={p.slug === prov}>{p.nombre}</option>)}
-          </select>
+  <body class="min-h-screen bg-background text-foreground antialiased">
+    <a href="#contenido" class="sr-only focus:not-sr-only focus:absolute focus:left-4 focus:top-2 focus:z-50 focus:rounded-md focus:bg-background focus:px-3 focus:py-2">Saltar al contenido</a>
+    <header class="border-b bg-background/95 backdrop-blur md:sticky md:top-0 md:z-30">
+      <div class="mx-auto flex max-w-[1320px] flex-wrap items-center gap-x-4 gap-y-2 px-4 py-3">
+        <a href={`${pbase}/`} class="mr-auto font-semibold text-foreground no-underline">
+          Voto Informado <span class="font-normal text-muted-foreground">· Seccionales 2027</span>
+        </a>
+        <label class="flex items-center gap-2 text-sm text-muted-foreground">
+          Provincia
+          <SelectorIr etiqueta="Cambiar de provincia" valor={`${base}${provPath(prov)}/`} opciones={PROVINCIAS.map((p) => ({ valor: `${base}${provPath(p.slug)}/`, texto: p.nombre }))} className="text-foreground" />
         </label>
-        <nav class="dign" aria-label="Dignidades">
-          {dignidadesDe(prov).map((d) => (
-            <a href={`${pbase}/${d.slug}/`} class:list={{ on: activo === d.slug }} aria-current={activo === d.slug ? 'page' : undefined}>{d.nombre}</a>
-          ))}
-        </nav>
       </div>
+      <nav aria-label={`Cargos en ${nombreProv}`} class="mx-auto max-w-[1320px] px-4 pb-2">
+        <ul class="-mx-1 flex list-none gap-1 overflow-x-auto p-0 px-1 pb-1 [scrollbar-width:none]">
+          {dignidadesDe(prov).map((d) => (
+            <li>
+              <a
+                href={`${pbase}/${d.slug}/`}
+                aria-current={activo === d.slug ? 'page' : undefined}
+                class={cn(buttonVariants({ variant: activo === d.slug ? 'default' : 'ghost', size: 'sm' }), 'no-underline', activo !== d.slug && 'text-muted-foreground')}
+              >
+                {d.nombre}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </nav>
     </header>
-    <main class="wrap"><slot /></main>
-    <footer class="wrap foot">
-      Los planes son los que cada candidatura entregó al CNE (elecciones seccionales 2027), descargados sin cambios. El color de cada propuesta es una guía para entender quién puede cumplirla, no una opinión legal.
-      <a href={`${base}/metodologia/`}>Metodología</a>
+    <main id="contenido" class="mx-auto max-w-[1320px] px-4 pb-10">
+      <slot />
+    </main>
+    <footer class="mx-auto max-w-[1320px] border-t px-4 py-8 text-sm text-muted-foreground">
+      <p class="max-w-[70ch]">
+        Los planes son los que cada candidatura entregó al CNE para las elecciones seccionales 2027, sin cambios. El color de cada propuesta es una guía para entender quién puede cumplirla, no una opinión legal.
+      </p>
+      <p class="mt-2"><a href={`${base}/metodologia/`}>Cómo hicimos este sitio</a></p>
     </footer>
+    <script>
+      // Selectores que llevan a otra página (provincia, cantón, parroquia)
+      document.querySelectorAll<HTMLSelectElement>('select[data-ir]').forEach((s) => s.addEventListener('change', () => (location.href = s.value)));
+    </script>
   </body>
 </html>
-
-<style is:global>
-  :root {
-    --bg: #f6f5f1; --surface: #fff; --ink: #1c1c1a; --muted: #6b6a63; --line: #e2e0d8; --head: #efede6;
-    --accent: #1f4e8c; --alta: #2e7d4f; --media: #c08510; --baja: #b3402e;
-  }
-  @media (prefers-color-scheme: dark) {
-    :root:not([data-theme='light']) {
-      --bg: #131312; --surface: #1c1c1a; --ink: #ecebe5; --muted: #a2a198; --line: #33322e; --head: #23221f;
-      --accent: #8db4ea; --alta: #5cbf86; --media: #e3ae3e; --baja: #e2715e;
-    }
-  }
-  * { box-sizing: border-box; }
-  html { scroll-behavior: smooth; }
-  body { margin: 0; background: var(--bg); color: var(--ink); font: 15px/1.5 ui-sans-serif, system-ui, -apple-system, 'Segoe UI', sans-serif; }
-  a { color: var(--accent); text-decoration-thickness: 1px; text-underline-offset: 2px; }
-  .wrap { max-width: 1320px; margin: 0 auto; padding: 0 16px; }
-  .muted { color: var(--muted); }
-  .small { font-size: 13px; }
-  h1 { font-size: clamp(24px, 3.4vw, 34px); margin: 24px 0 4px; letter-spacing: -.01em; }
-  h2 { font-size: 18px; margin: 32px 0 12px; }
-  .sub { color: var(--muted); margin: 0 0 16px; max-width: 70ch; }
-
-  header.site { position: sticky; top: 0; z-index: 20; background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(8px); border-bottom: 1px solid var(--line); }
-  header.site .row { display: flex; align-items: center; gap: 16px; min-height: 56px; flex-wrap: wrap; padding-top: 6px; padding-bottom: 6px; }
-  .brand { font-weight: 700; color: var(--ink); text-decoration: none; white-space: nowrap; }
-  .brand span { font-weight: 400; color: var(--muted); margin-left: 4px; }
-  .dign { display: flex; gap: 4px; overflow-x: auto; scrollbar-width: none; max-width: 100%; }
-  .dign a { white-space: nowrap; text-decoration: none; color: var(--muted); padding: 6px 10px; border-radius: 8px; font-size: 14px; }
-  .dign a:hover { background: var(--head); color: var(--ink); }
-  .dign a.on { background: var(--ink); color: var(--bg); }
-  .prov { display: flex; align-items: center; gap: 6px; font-size: 13px; color: var(--muted); }
-  .prov select { font: inherit; font-size: 14px; font-weight: 600; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 4px 8px; cursor: pointer; }
-  .prov select:hover { border-color: var(--ink); }
-
-  .pills { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0 16px; }
-  .pills a, .pill { font-size: 13.5px; text-decoration: none; color: var(--ink); border: 1px solid var(--line); background: var(--surface); padding: 5px 11px; border-radius: 999px; }
-  .pills a:hover { border-color: var(--ink); }
-  .pills a.on { background: var(--ink); color: var(--bg); border-color: var(--ink); }
-  .pills .n { color: var(--muted); margin-left: 4px; font-size: 12px; }
-  .pills a.on .n { color: inherit; opacity: .7; }
-
-  .dot { display: inline-block; width: 9px; height: 9px; border-radius: 50%; flex: none; }
-  .dot.alta { background: var(--alta); } .dot.media { background: var(--media); } .dot.baja { background: var(--baja); }
-  .foot { color: var(--muted); font-size: 13px; padding: 32px 16px 48px; }
-  .foot a { margin-left: 6px; }
-  code { font-size: 12.5px; }
-</style>

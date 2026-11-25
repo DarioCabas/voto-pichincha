@@ -7,7 +7,8 @@ const base = import.meta.env.BASE_URL.replace(/\/$/, '');
 const nombreTema = Object.fromEntries(temas.map((t) => [t.id, t.nombre]));
 ---
 
-<h2>Cada candidatura en detalle <span class="muted small">· quiénes son y todo lo que trae su plan</span></h2>
+<h2 class="mb-1">Quiénes son y todo lo que trae cada plan</h2>
+<p class="mb-3 text-sm text-muted-foreground">Toca una candidatura para ver la lista completa de candidatos, sus metas y notas sobre el plan.</p>
 <div class="fichas">
   {candidatos.map((c) => (
     <details class="ficha" id={`f-${c.id}`}>
@@ -15,6 +16,7 @@ const nombreTema = Object.fromEntries(temas.map((t) => [t.id, t.nombre]));
         <span class="num">Lista {c.lista}</span>
         <span class="who">{c.titulo}</span>
         <span class="muted small">{c.partido}</span>
+        <span class="chev" aria-hidden="true">⌄</span>
       </summary>
       <div class="body">
         {c.personas?.length > 0 && (
@@ -64,13 +66,18 @@ const nombreTema = Object.fromEntries(temas.map((t) => [t.id, t.nombre]));
 
 <style>
   .fichas { display: grid; gap: 8px; }
-  .ficha { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; scroll-margin-top: 150px; }
-  .ficha[open] { border-color: color-mix(in srgb, var(--ink) 30%, var(--line)); }
+  .ficha { background: var(--card); border: 1px solid var(--border); border-radius: 12px; scroll-margin-top: 16px; }
+  @media (min-width: 768px) { .ficha { scroll-margin-top: 130px; } }
+  .ficha summary { list-style: none; }
+  .ficha summary::-webkit-details-marker { display: none; }
+  .chev { margin-left: auto; color: var(--muted-foreground); transition: transform .15s; }
+  .ficha[open] .chev { transform: rotate(180deg); }
+  .ficha[open] { border-color: color-mix(in srgb, var(--foreground) 30%, var(--border)); }
   .ficha summary { cursor: pointer; padding: 12px 16px; display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; }
-  .num { font-size: 12px; color: var(--accent); font-weight: 700; }
+  .num { font-size: 12px; color: var(--link); font-weight: 700; }
   .who { font-weight: 650; }
-  .body { padding: 4px 16px 16px; border-top: 1px solid var(--line); font-size: 14px; }
-  h4 { margin: 16px 0 6px; font-size: 13px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); }
+  .body { padding: 4px 16px 16px; border-top: 1px solid var(--border); font-size: 14px; }
+  h4 { margin: 16px 0 6px; font-size: 13px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted-foreground); }
   ul, ol { margin: 0; padding-left: 18px; }
   li { margin-bottom: 3px; break-inside: avoid; }
   .cols { columns: 2 300px; column-gap: 28px; }

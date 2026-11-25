@@ -1,8 +1,11 @@
 ---
-// Página de una dignidad en una provincia: selector de cantón/subterritorio, tabla comparativa y fichas.
+// Página de un cargo en una provincia: qué hace el cargo, elegir territorio, comparación y fichas.
 import Layout from '../layouts/Layout.astro';
 import CompareTable from './CompareTable.astro';
 import Fichas from './Fichas.astro';
+import { SelectorIr } from '@/components/SelectorIr';
+import { buttonVariants } from '@/components/ui/button';
+import { cn } from '@/lib/utils';
 import { TEMAS_LOCALES, COMPETENCIAS, PROVINCIAS, provPath } from '../data/dignidades.js';
 import { titulo, contextoCanton } from '../lib/datos.js';
 
@@ -10,74 +13,108 @@ const { d, ts, t, canton, prov = 'pichincha' } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '') + provPath(prov);
 const nombreProv = PROVINCIAS.find((p) => p.slug === prov)?.nombre;
 const comp = d.slug === 'alcaldia' ? COMPETENCIAS.alcaldia : d.slug === 'junta-parroquial' ? COMPETENCIAS.junta : COMPETENCIAS.concejo;
+// "Sí puede: ... No le toca: ... (Ley ...)" → partes para mostrarlas por separado
+const partes = {
+  intro: comp.split('Sí puede:')[0].trim(),
+  si: comp.match(/Sí puede: (.*?)\.(?: |$)/)?.[1],
+  no: comp.match(/No le toca: (.*?)\.(?: |$)/)?.[1],
+  extra: comp.match(/\. (Si promete[^.]*\.)/)?.[1],
+  ley: comp.match(/\((Ley[^)]*)\)/)?.[1],
+};
+const cargoCorto = { alcaldia: 'un alcalde o alcaldesa', 'junta-parroquial': 'una junta parroquial' }[d.slug] ?? 'un concejal o concejala';
+
 const cantones = [...new Map(ts.map((x) => [x.canton, x.path.split('/')[0]])).entries()];
 const cantonActual = t?.canton ?? canton ?? null;
 const subs = cantonActual && d.territorio === 'sub' ? ts.filter((x) => x.canton === cantonActual) : [];
 const etiquetaSub = d.slug === 'junta-parroquial' ? 'Parroquia' : 'Circunscripción';
-const nombreTerr = t ? (t.sub ? `${titulo(t.sub)} · ${titulo(t.canton)}` : titulo(t.canton)) : cantonActual ? titulo(cantonActual) : null;
+const nombreTerr = t ? (t.sub ? `${titulo(t.sub)}, ${titulo(t.canton)}` : titulo(t.canton)) : cantonActual ? titulo(cantonActual) : null;
 const totalListas = ts.reduce((a, x) => a + x.n, 0);
 const ctx = t && d.slug === 'alcaldia' && prov === 'pichincha' ? contextoCanton(t.canton) : [];
+const nCanton = (c) => ts.filter((x) => x.canton === c).reduce((a, x) => a + x.n, 0);
+// Qué elegir ahora: cantón, luego (si hay) parroquia/circunscripción
+const eligiendo = !cantonActual ? 'canton' : d.territorio === 'sub' && !t ? 'sub' : null;
+const opciones = eligiendo === 'canton'
+  ? cantones.map(([c, p]) => ({ nombre: titulo(c), href: `${base}/${d.slug}/${p}/`, n: nCanton(c) }))
+  : eligiendo === 'sub' ? subs.map((x) => ({ nombre: titulo(x.sub), href: `${base}/${d.slug}/${x.path}/`, n: x.n })) : [];
+const unidad = (n) => `${n} ${n === 1 ? 'candidatura' : 'candidaturas'}`;
 ---
+
 <Layout title={nombreTerr ? `${d.nombre} · ${nombreTerr}` : d.nombre} activo={d.slug} prov={prov}>
-  <h1>{d.nombre}{prov !== 'pichincha' && !nombreTerr && <span class="muted"> · {nombreProv}</span>}{nombreTerr && <span class="muted"> · {nombreTerr}</span>}</h1>
-  <p class="sub">{comp}</p>
+  <nav aria-label="Estás en" class="pt-5 text-sm text-muted-foreground">
+    <a href={`${base}/`} class="text-muted-foreground">{nombreProv}</a>
+    <span aria-hidden="true"> / </span>
+    {nombreTerr ? <a href={`${base}/${d.slug}/`} class="text-muted-foreground">{d.nombre}</a> : <span>{d.nombre}</span>}
+    {t?.sub && <><span aria-hidden="true"> / </span><a href={`${base}/${d.slug}/${t.path.split('/')[0]}/`} class="text-muted-foreground">{titulo(t.canton)}</a></>}
+  </nav>
+  <h1>{d.nombre}{nombreTerr && <span class="text-muted-foreground"> · {nombreTerr}</span>}</h1>
+
+  <details class="group mt-4 max-w-3xl rounded-xl border bg-card" open={!t}>
+    <summary class="flex list-none items-center justify-between gap-3 px-4 py-3 font-medium [&::-webkit-details-marker]:hidden">
+      ¿Qué puede hacer {cargoCorto}?
+      <span aria-hidden="true" class="text-muted-foreground transition-transform group-open:rotate-180">⌄</span>
+    </summary>
+    <div class="grid gap-3 border-t px-4 py-3 text-sm sm:grid-cols-2">
+      {partes.intro && <p class="sm:col-span-2">{partes.intro}</p>}
+      {partes.si && <div><p class="font-medium text-alta">✓ Sí le toca</p><p class="mt-1 text-muted-foreground">{partes.si[0].toUpperCase() + partes.si.slice(1)}.</p></div>}
+      {partes.no && <div><p class="font-medium text-baja">✕ No le toca</p><p class="mt-1 text-muted-foreground">{partes.no[0].toUpperCase() + partes.no.slice(1)}.</p></div>}
+      {partes.extra && <p class="sm:col-span-2 text-muted-foreground">{partes.extra}</p>}
+      {partes.ley && <p class="sm:col-span-2 text-xs text-muted-foreground">Según la {partes.ley}.</p>}
+    </div>
+  </details>
 
   {ts.length === 0 ? (
-    <p class="muted">Datos en preparación.</p>
+    <p class="mt-8 text-muted-foreground">Todavía no tenemos datos de este cargo.</p>
+  ) : eligiendo ? (
+    <section class="mt-8" aria-labelledby="elige">
+      <h2 id="elige" class="mt-0">{eligiendo === 'canton' ? 'Elige tu cantón' : `Elige tu ${etiquetaSub.toLowerCase()} en ${titulo(cantonActual)}`}</h2>
+      <p class="-mt-1 mb-4 text-sm text-muted-foreground">
+        {eligiendo === 'canton'
+          ? `Hay ${totalListas} candidaturas en ${cantones.length} cantones. Elige el tuyo para compararlas.`
+          : 'Cada una elige a sus propios representantes. Elige la tuya.'}
+      </p>
+      <ul class="grid list-none grid-cols-1 gap-2 p-0 sm:grid-cols-2 lg:grid-cols-4">
+        {opciones.map((o) => (
+          <li>
+            <a href={o.href} class={cn(buttonVariants({ variant: 'outline', size: 'lg' }), 'h-auto w-full justify-between py-3 text-base no-underline text-foreground')}>
+              <span class="whitespace-normal text-left">{o.nombre}</span>
+              <span class="text-sm font-normal text-muted-foreground">{unidad(o.n)}</span>
+            </a>
+          </li>
+        ))}
+      </ul>
+    </section>
   ) : (
     <>
-      <nav class="pills" aria-label="Cantón">
-        {cantones.map(([c, p]) => (
-          <a href={`${base}/${d.slug}/${p}/`} class:list={{ on: c === cantonActual }}>
-            {titulo(c)}<span class="n">{ts.filter((x) => x.canton === c).reduce((a, x) => a + x.n, 0)}</span>
-          </a>
-        ))}
-      </nav>
+      <div class="mt-6 flex flex-wrap items-end gap-x-4 gap-y-3">
+        <label class="grid gap-1.5 text-sm font-medium">
+          Cantón
+          <SelectorIr valor={`${base}/${d.slug}/${t.path.split('/')[0]}/`} opciones={cantones.map(([c, p]) => ({ valor: `${base}/${d.slug}/${p}/`, texto: `${titulo(c)} (${nCanton(c)})` }))} className="min-w-56" />
+        </label>
+        {t.sub && (
+          <label class="grid gap-1.5 text-sm font-medium">
+            {etiquetaSub}
+            <SelectorIr valor={`${base}/${d.slug}/${t.path}/`} opciones={subs.map((x) => ({ valor: `${base}/${d.slug}/${x.path}/`, texto: `${titulo(x.sub)} (${x.n})` }))} className="min-w-56" />
+          </label>
+        )}
+        <p class="pb-1.5 text-sm text-muted-foreground">{unidad(t.n)}</p>
+      </div>
 
-      {subs.length > 0 && (
-        <nav class="pills subs" aria-label={etiquetaSub}>
-          <span class="muted small lbl">{etiquetaSub}:</span>
-          {subs.map((x) => (
-            <a href={`${base}/${d.slug}/${x.path}/`} class:list={{ on: t?.sub === x.sub }}>{titulo(x.sub)}<span class="n">{x.n}</span></a>
+      {ctx.length > 0 && (
+        <div class="mt-5 grid gap-2 sm:grid-cols-2 lg:grid-cols-4">
+          {ctx.map((k) => (
+            <details class="rounded-xl border bg-card px-4 py-3">
+              <summary class="list-none [&::-webkit-details-marker]:hidden">
+                <span class="block text-xs text-muted-foreground">{k.titulo}</span>
+                <span class="block font-semibold">{k.valor}</span>
+              </summary>
+              <p class="mt-2 text-sm text-muted-foreground">{k.detalle} <a href={k.url} target="_blank" rel="noopener">{k.fuente} ↗</a></p>
+            </details>
           ))}
-        </nav>
+        </div>
       )}
 
-      {t ? (
-        <>
-          {ctx.length > 0 && (
-            <div class="kpis">
-              {ctx.map((k) => (
-                <details class="kpi">
-                  <summary><span class="k">{k.titulo}</span><span class="v">{k.valor}</span></summary>
-                  <p>{k.detalle} <a href={k.url} target="_blank" rel="noopener">{k.fuente} ↗</a></p>
-                </details>
-              ))}
-            </div>
-          )}
-          <CompareTable candidatos={t.cands} temas={TEMAS_LOCALES} auto={d.modo === 'auto' || t.cands.some((c) => c.auto)} />
-          <Fichas candidatos={t.cands} temas={TEMAS_LOCALES} />
-        </>
-      ) : (
-        <p class="pick">
-          {cantonActual
-            ? `Elige una ${etiquetaSub.toLowerCase()} de ${titulo(cantonActual)} para comparar sus listas.`
-            : `Elige un cantón. ${totalListas} listas en ${ts.length} ${d.territorio === 'sub' ? 'territorios' : 'cantones'}.`}
-        </p>
-      )}
+      <CompareTable candidatos={t.cands} temas={TEMAS_LOCALES} auto={d.modo === 'auto' || t.cands.some((c) => c.auto)} />
+      <Fichas candidatos={t.cands} temas={TEMAS_LOCALES} />
     </>
   )}
 </Layout>
-
-<style>
-  .subs { margin-top: -6px; align-items: center; }
-  .lbl { margin-right: 2px; }
-  .pick { padding: 40px 0; color: var(--muted); font-size: 16px; }
-  .kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; margin: 0 0 16px; align-items: start; }
-  .kpi { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 10px 12px; }
-  .kpi summary { cursor: pointer; list-style: none; display: flex; flex-direction: column; }
-  .kpi summary::-webkit-details-marker { display: none; }
-  .kpi .k { font-size: 12px; color: var(--muted); }
-  .kpi .v { font-size: 14.5px; font-weight: 650; }
-  .kpi p { margin: 8px 0 0; font-size: 13px; color: var(--muted); }
-</style>

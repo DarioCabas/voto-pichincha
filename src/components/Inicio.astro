@@ -1,55 +1,101 @@
 ---
-// Inicio de una provincia: buscador y tarjetas de las dignidades publicadas.
+// Inicio de una provincia: cómo usar el sitio, buscador y cargos publicados.
 import Layout from '../layouts/Layout.astro';
+import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/components/ui/card';
+import { Badge } from '@/components/ui/badge';
+import { Input } from '@/components/ui/input';
 import { PROVINCIAS, provPath } from '../data/dignidades.js';
 import { candidatos as prefectos } from '../data/prefecto.js';
 import { dignidadesDe, territorios, titulo } from '../lib/datos.js';
 
 const { prov = 'pichincha' } = Astro.props;
-const base = import.meta.env.BASE_URL.replace(/\/$/, '') + provPath(prov);
+const raiz = import.meta.env.BASE_URL.replace(/\/$/, '');
+const base = raiz + provPath(prov);
 const nombreProv = PROVINCIAS.find((p) => p.slug === prov)?.nombre;
 const dignidades = dignidadesDe(prov);
 const indice = [];
 const resumen = {};
 if (prov === 'pichincha') {
   for (const c of prefectos) indice.push({ n: `${c.prefecto} / ${c.vice}`, p: c.partido, l: c.lista, d: 'Prefectura', u: `/prefectura/#f-l${c.lista.replace(/\W/g, '')}` });
-  resumen.prefectura = { listas: prefectos.length, terr: 'Provincia' };
+  resumen.prefectura = { listas: prefectos.length, terr: 'toda la provincia', ia: false };
 }
 for (const d of dignidades.filter((x) => x.slug !== 'prefectura')) {
   const ts = territorios(d, prov);
-  resumen[d.slug] = { listas: ts.reduce((a, t) => a + t.n, 0), terr: `${ts.length} ${d.territorio === 'sub' ? (d.slug === 'junta-parroquial' ? 'parroquias' : 'circunscripciones') : 'cantones'}` };
+  const unidad = d.territorio === 'sub' ? (d.slug === 'junta-parroquial' ? 'parroquias' : 'circunscripciones') : 'cantones';
+  resumen[d.slug] = { listas: ts.reduce((a, t) => a + t.n, 0), terr: `${ts.length} ${unidad}`, ia: ts.some((t) => t.cands.some((c) => c.auto)) };
   for (const t of ts) for (const c of t.cands)
     indice.push({ n: (c.personas ?? []).map((p) => p.nombre).join(', ') || c.titulo, p: c.partido, l: c.lista, d: `${d.nombre} · ${titulo(t.sub ?? t.canton)}`, u: `/${d.slug}/${t.path}/#${'f-' + c.id}` });
 }
-// Etiqueta de cada tarjeta según quién hizo los resúmenes
-const conIA = {};
-for (const d of dignidades.filter((x) => x.slug !== 'prefectura')) conIA[d.slug] = territorios(d, prov).some((t) => t.cands.some((c) => c.auto));
-const etiqueta = (d) => (conIA[d.slug] ? ['auto', 'Resumen hecho con IA'] : ['', 'Revisado por personas']);
+const pasos = [
+  ['Elige qué cargo quieres ver', 'Alcaldía, concejo, junta parroquial... Abajo te contamos qué hace cada uno.'],
+  ['Elige tu cantón o parroquia', 'Verás a todas las candidaturas lado a lado, ordenadas por tema.'],
+  ['Toca una propuesta', 'Te explicamos qué promete, si de verdad le toca cumplirla y en qué página del plan lo dice.'],
+];
 ---
+
 <Layout title="Inicio" prov={prov}>
-  <section class="hero">
-    <h1>¿Qué proponen tus candidatos?</h1>
-    <p class="sub">Lee qué promete cada candidatura según el plan que entregó al CNE, compárala con las demás y mira si de verdad le toca hacerlo.</p>
-    <p class="provs">
-      Estás viendo <b>{nombreProv}</b>{prov !== 'pichincha' && ' (por ahora, solo alcaldías)'}.
-      {' '}Otras provincias:{' '}
-      {PROVINCIAS.filter((p) => p.slug !== prov).map((p, i, a) => <><a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}${provPath(p.slug)}/`}>{p.nombre}</a>{i < a.length - 1 ? ', ' : '.'}</>)}
+  <section class="pt-6 md:pt-10">
+    <h1 class="max-w-[20ch]">¿Qué proponen tus candidatos en {nombreProv}?</h1>
+    <p class="mt-3 max-w-[62ch] text-base text-muted-foreground">
+      Aquí puedes leer, en palabras simples, lo que cada candidatura prometió en el plan de trabajo que entregó al CNE, y saber si es algo que de verdad puede cumplir.
     </p>
-    <div class="search">
-      <input id="q" type="search" placeholder={prov === "pichincha" ? "Busca un candidato, partido o parroquia…" : "Busca un candidato, partido o cantón…"} autocomplete="off" aria-label="Buscar" />
-      <ul id="res" role="listbox"></ul>
+    {prov !== 'pichincha' && (
+      <p class="mt-2 text-sm text-muted-foreground">En {nombreProv}, por ahora solo están las alcaldías.</p>
+    )}
+
+    <div class="relative mt-6 max-w-xl">
+      <label for="q" class="mb-1.5 block text-sm font-medium">Busca por nombre, partido o lugar</label>
+      <Input id="q" type="search" placeholder={prov === 'pichincha' ? 'Ej.: Pabel Muñoz, Revolución Ciudadana, Cumbayá' : 'Ej.: nombre del candidato o del cantón'} autoComplete="off" className="h-11 text-base" />
+      <ul id="res" class="mt-2 list-none overflow-hidden rounded-lg border bg-card p-0 empty:hidden"></ul>
     </div>
   </section>
 
-  <div class="grid">
-    {dignidades.map((d) => (
-      <a class="card" href={`${base}/${d.slug}/`}>
-        <span class="t">{d.nombre}</span>
-        <span class="m">{resumen[d.slug]?.listas ?? 0} listas · {resumen[d.slug]?.terr}</span>
-        <span class="tag" class:list={{ auto: etiqueta(d)[0] }}>{etiqueta(d)[1]}</span>
-      </a>
-    ))}
-  </div>
+  <section aria-labelledby="como" class="mt-10">
+    <h2 id="como" class="mt-0">Cómo usar esta página</h2>
+    <ol class="grid list-none gap-3 p-0 md:grid-cols-3">
+      {pasos.map(([t, d], i) => (
+        <li class="flex gap-3 rounded-xl border bg-card p-4">
+          <span class="flex size-7 shrink-0 items-center justify-center rounded-full bg-primary text-sm font-semibold text-primary-foreground">{i + 1}</span>
+          <div>
+            <p class="font-medium">{t}</p>
+            <p class="mt-0.5 text-sm text-muted-foreground">{d}</p>
+          </div>
+        </li>
+      ))}
+    </ol>
+  </section>
+
+  <section aria-labelledby="cargos" class="mt-10">
+    <h2 id="cargos" class="mt-0">Elige un cargo</h2>
+    <div class="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
+      {dignidades.map((d) => (
+        <a href={`${base}/${d.slug}/`} class="group rounded-xl text-foreground no-underline focus-visible:outline-2 focus-visible:outline-ring">
+          <Card className="h-full transition-colors group-hover:border-foreground/40">
+            <CardHeader>
+              <CardTitle className="text-lg">{d.nombre} <span aria-hidden="true" class="ml-1 inline-block text-muted-foreground transition-transform group-hover:translate-x-0.5">→</span></CardTitle>
+              <CardDescription>{d.que}</CardDescription>
+            </CardHeader>
+            <CardContent className="flex flex-wrap items-center gap-2 text-sm text-muted-foreground">
+              <span>{resumen[d.slug]?.listas ?? 0} candidaturas · {resumen[d.slug]?.terr}</span>
+              <Badge variant="outline" className={resumen[d.slug]?.ia ? 'border-media/50' : 'border-alta/50'}>
+                {resumen[d.slug]?.ia ? 'Resumen hecho con IA' : 'Resumen revisado'}
+              </Badge>
+            </CardContent>
+          </Card>
+        </a>
+      ))}
+    </div>
+    <p class="mt-4 text-sm text-muted-foreground">
+      <b class="font-medium text-foreground">¿Qué significan las etiquetas?</b> «Resumen revisado»: cada plan se leyó completo y se resumió por tema. «Resumen hecho con IA»: lo resumió una inteligencia artificial y cada propuesta trae la frase exacta del plan para que la compruebes. <a href={`${raiz}/metodologia/`}>Más detalles</a>
+    </p>
+  </section>
+
+  <section class="mt-10 text-sm">
+    <p class="text-muted-foreground">
+      ¿Votas en otra provincia?{' '}
+      {PROVINCIAS.filter((p) => p.slug !== prov).map((p, i, a) => <><a href={`${raiz}${provPath(p.slug)}/`}>{p.nombre}</a>{i < a.length - 1 ? ', ' : '.'}</>)}
+    </p>
+  </section>
 
   <script type="application/json" id="idx" set:html={JSON.stringify(indice)} />
   <script define:vars={{ base }}>
@@ -64,35 +110,14 @@ const etiqueta = (d) => (conIA[d.slug] ? ['auto', 'Resumen hecho con IA'] : ['',
       const hits = idx.filter((_, i) => terms.every((t) => hay[i].includes(t))).slice(0, 12);
       for (const h of hits) {
         const li = document.createElement('li');
-        li.innerHTML = `<a href="${base}${h.u}"><b></b><span></span></a>`;
+        li.className = 'border-b last:border-b-0';
+        li.innerHTML = '<a class="block px-4 py-2.5 text-foreground no-underline hover:bg-muted"><b class="block text-sm font-medium"></b><span class="text-xs text-muted-foreground"></span></a>';
+        li.querySelector('a').href = base + h.u;
         li.querySelector('b').textContent = h.n;
         li.querySelector('span').textContent = `${h.d} · Lista ${h.l} · ${h.p}`;
         res.append(li);
       }
-      if (!hits.length) res.innerHTML = '<li class="none">Sin resultados</li>';
+      if (!hits.length) res.innerHTML = '<li class="px-4 py-2.5 text-sm text-muted-foreground">No encontramos nada con esa búsqueda. Prueba con un apellido o el nombre del cantón.</li>';
     });
   </script>
 </Layout>
-
-<style>
-  .hero { padding: 32px 0 8px; }
-  .provs { margin: -6px 0 18px; font-size: 14.5px; }
-  .hero h1 { font-size: clamp(28px, 4.4vw, 44px); }
-  .search { position: relative; max-width: 640px; }
-  #q { width: 100%; font: inherit; font-size: 16px; padding: 12px 14px; border-radius: 12px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }
-  #q:focus { outline: 2px solid var(--accent); outline-offset: 1px; }
-  #res { list-style: none; margin: 6px 0 0; padding: 0; background: var(--surface); border-radius: 12px; overflow: hidden; }
-  #res:not(:empty) { border: 1px solid var(--line); }
-  #res :global(a) { display: block; padding: 9px 14px; text-decoration: none; color: var(--ink); border-bottom: 1px solid var(--line); }
-  #res :global(a:hover) { background: var(--head); }
-  #res :global(b) { display: block; font-weight: 600; font-size: 14px; }
-  #res :global(span) { font-size: 12.5px; color: var(--muted); }
-  #res :global(.none) { padding: 10px 14px; color: var(--muted); }
-  .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; margin-top: 28px; }
-  .card { display: flex; flex-direction: column; gap: 4px; padding: 16px; background: var(--surface); border: 1px solid var(--line); border-radius: 14px; text-decoration: none; color: var(--ink); }
-  .card:hover { border-color: var(--ink); }
-  .card .t { font-size: 17px; font-weight: 650; }
-  .card .m { color: var(--muted); font-size: 13.5px; }
-  .tag { align-self: flex-start; margin-top: 8px; font-size: 11.5px; padding: 2px 8px; border-radius: 999px; background: color-mix(in srgb, var(--alta) 16%, transparent); }
-  .tag.auto { background: color-mix(in srgb, var(--media) 18%, transparent); }
-</style>

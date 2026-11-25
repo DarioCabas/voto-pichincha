@@ -1,60 +1,81 @@
 ---
 import Layout from '../layouts/Layout.astro';
-import { escala, datos } from '../data/contexto.js';
+import { datos } from '../data/contexto.js';
 import { COMPETENCIAS } from '../data/dignidades.js';
+
+// Criterios de color por cargo (los mismos que usa scripts/resumir.mjs)
+const criterios = [
+  ['Prefectura', 'Vías rurales, riego, ambiente y producción, dentro de su presupuesto.', 'Necesita convenios, préstamos o una meta muy ambiciosa para su presupuesto.', 'Le toca a otro nivel de gobierno, o cuesta mucho más de lo que la Prefectura puede pagar.'],
+  ['Alcaldía', 'Le toca al Municipio y es realista.', 'La puede impulsar, pero depende del Gobierno, la Prefectura o un préstamo.', 'No le toca al Municipio (policía, salud, educación) o es poco realista.'],
+  ['Concejo', 'Una ordenanza, una resolución o vigilar al alcalde: eso hace un concejal.', 'Pedir o impulsar algo que ejecuta el alcalde.', 'Promete construir obras o dar servicios por su cuenta, o es tema de otro nivel de gobierno.'],
+  ['Junta parroquial', 'Le toca a la junta y cuesta poco: mingas, ferias, parques, cursos, organizar a la comunidad.', 'Necesita un acuerdo con el Municipio o la Prefectura.', 'Le toca a otro nivel (agua potable, salud, escuelas, policía) o es una obra grande poco realista.'],
+];
 ---
 
-<Layout title="Metodología">
-  <h1>Metodología</h1>
-  <p class="sub">Cómo se obtuvieron los planes, cómo se resumieron y qué significa cada nivel de viabilidad.</p>
+<Layout title="Cómo hicimos este sitio">
+  <div class="max-w-3xl">
+    <h1 class="pt-4">Cómo hicimos este sitio</h1>
+    <p class="mt-2 text-base text-muted-foreground">De dónde salen los planes, cómo los resumimos y qué significa el color de cada propuesta.</p>
 
-  <h2>Viabilidad</h2>
-  <ul class="esc">
-    {Object.entries(escala).map(([k, e]) => <li><i class={`dot ${k}`}></i><b>{e.label}.</b> {e.desc}</li>)}
-  </ul>
+    <h2>1. De dónde salen los planes</h2>
+    <p>Cada candidatura entrega al CNE un plan de trabajo. Los descargamos todos del portal Voto Informado del CNE y comprobamos que cada archivo sea idéntico al que publica el CNE. Si una candidatura no entregó plan, o el CNE no lo tiene disponible, lo decimos en su ficha.</p>
+    <p class="mt-2">Algunos planes son fotos o escaneos. En esos casos, un programa lee el texto de la imagen, y puede equivocarse en algunas letras. Puedes leer el texto de cada plan, página por página, desde el enlace «Leer el plan».</p>
 
-  <h2>Qué puede hacer cada cargo (COOTAD)</h2>
-  <dl>
-    <dt>Prefectura</dt><dd>{COMPETENCIAS.prefectura}</dd>
-    <dt>Alcaldía</dt><dd>{COMPETENCIAS.alcaldia}</dd>
-    <dt>Concejales</dt><dd>{COMPETENCIAS.concejo}</dd>
-    <dt>Juntas parroquiales</dt><dd>{COMPETENCIAS.junta}</dd>
-  </dl>
+    <h2>2. Cómo se resumen</h2>
+    <p>Hay dos tipos de resumen, y cada página dice cuál estás viendo:</p>
+    <ul class="mt-2 grid gap-2">
+      <li><b>Resumen revisado</b> (Prefectura, alcaldías y concejos de Pichincha): cada plan se leyó completo y se resumió por tema, con el porqué de cada color.</li>
+      <li><b>Resumen hecho con IA</b> (juntas parroquiales de Pichincha y alcaldías de Azuay, Cotopaxi y Guayas): una inteligencia artificial lee el plan y anota sus propuestas principales. Para cada una debe copiar una frase exacta del plan. Un programa busca esa frase en el texto y, si no la encuentra, la propuesta se descarta. Así no se publica nada que el plan no diga. Aun así, puede haber errores: revisa la frase y la página que acompañan a cada propuesta.</li>
+    </ul>
+    <p class="mt-2 text-sm text-muted-foreground">Si un plan es muy largo, solo se leen las páginas que traen propuestas. Si dos planes son casi idénticos, lo indicamos en sus notas.</p>
 
-  <h2>Contexto público</h2>
-  <div class="ctx">
+    <h2>3. Qué significa cada color</h2>
+    <p>El color no dice si una propuesta es buena o mala. Dice si quien la promete <b>puede cumplirla</b> con lo que la ley le permite hacer a su cargo.</p>
+    <div class="mt-3 overflow-x-auto rounded-xl border">
+      <table class="w-full min-w-[560px] border-collapse text-sm">
+        <thead class="bg-secondary text-left">
+          <tr>
+            <th class="p-3 font-medium">Cargo</th>
+            <th class="p-3 font-medium"><i class="dot alta mr-1.5"></i>Sí, está en sus manos</th>
+            <th class="p-3 font-medium"><i class="dot media mr-1.5"></i>Depende de otros</th>
+            <th class="p-3 font-medium"><i class="dot baja mr-1.5"></i>Difícil o no le corresponde</th>
+          </tr>
+        </thead>
+        <tbody>
+          {criterios.map(([c, a, m, b]) => (
+            <tr class="border-t align-top">
+              <th class="p-3 text-left font-medium">{c}</th>
+              <td class="p-3 text-muted-foreground">{a}</td>
+              <td class="p-3 text-muted-foreground">{m}</td>
+              <td class="p-3 text-muted-foreground">{b}</td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    </div>
+    <p class="mt-2 text-sm text-muted-foreground">Es una guía para entender, no una opinión legal.</p>
+
+    <h2>4. Qué puede hacer cada cargo</h2>
+    <dl class="grid gap-3">
+      {[['Prefectura', COMPETENCIAS.prefectura], ['Alcaldía', COMPETENCIAS.alcaldia], ['Concejales', COMPETENCIAS.concejo], ['Juntas parroquiales', COMPETENCIAS.junta]].map(([t, d]) => (
+        <div class="rounded-xl border bg-card p-4">
+          <dt class="font-medium">{t}</dt>
+          <dd class="mt-1 text-sm text-muted-foreground">{d}</dd>
+        </div>
+      ))}
+    </dl>
+
+    <h2>5. Datos públicos que usamos en Pichincha</h2>
+    <p class="mb-3 text-sm text-muted-foreground">Para saber si una promesa cabe en el presupuesto, usamos estos datos. Cada uno tiene su fuente.</p>
+  </div>
+  <div class="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">
     {datos.map((d) => (
-      <article>
-        <p class="k">{d.titulo}</p>
-        <p class="v">{d.valor}</p>
-        <p class="d">{d.detalle}</p>
-        <a href={d.url} target="_blank" rel="noopener">{d.fuente} ↗</a>
+      <article class="rounded-xl border bg-card p-4">
+        <p class="text-xs text-muted-foreground">{d.titulo}</p>
+        <p class="mt-0.5 font-semibold">{d.valor}</p>
+        <p class="mt-1.5 text-sm text-muted-foreground">{d.detalle}</p>
+        <a class="mt-2 inline-block text-sm" href={d.url} target="_blank" rel="noopener">{d.fuente} ↗</a>
       </article>
     ))}
   </div>
-
-  <h2>Proceso</h2>
-  <ol class="proc">
-    <li><b>Descarga.</b> Todos los planes salen del portal Voto Informado del CNE (proceso 140), descargados desde un navegador verificado por una persona. Cada PDF coincide con el hash MD5 que publica el CNE.</li>
-    <li><b>Texto.</b> Si el PDF tiene texto, se extrae directo; si es un escaneo, se lee con OCR (Tesseract en español). El texto completo de cada plan se puede consultar en su ficha.</li>
-    <li><b>Prefectura y alcaldías: resumen revisado.</b> Cada plan se leyó completo y se resumió por tema con su viabilidad justificada. Las cifras dudosas del OCR se verificaron contra la imagen.</li>
-    <li><b>Concejales: resumen revisado.</b> Se partió de las propuestas extraídas del texto de cada plan, se revisaron contra el documento y se dejaron solo los puntos clave de acción. La viabilidad se juzga según la función del concejal (COOTAD art. 57 y 58): presentar una ordenanza o fiscalizar es viabilidad alta; impulsar algo que ejecuta el alcalde, media; prometer construir una obra o un servicio, o algo de otro nivel de gobierno, baja. Cuando un plan copia el de otra lista o el de alcaldía, se indica en sus notas.</li>
-    <li><b>Juntas parroquiales: clasificación automática.</b> Se extraen las frases de propuesta del plan, se asignan a un tema por palabras clave y se califica la viabilidad con reglas según la función del cargo. Puede tener errores: ante la duda, abre el PDF.</li>
-  </ol>
 </Layout>
-
-<style>
-  .esc { list-style: none; padding: 0; display: grid; gap: 6px; }
-  .esc .dot { margin-right: 8px; }
-  dl { display: grid; grid-template-columns: max-content 1fr; gap: 8px 20px; max-width: 900px; }
-  dt { font-weight: 650; }
-  dd { margin: 0; color: var(--muted); }
-  .ctx { display: grid; grid-template-columns: repeat(auto-fit, minmax(240px, 1fr)); gap: 12px; }
-  .ctx article { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; padding: 14px; }
-  .ctx p { margin: 0; }
-  .ctx .k { font-size: 12.5px; color: var(--muted); }
-  .ctx .v { font-weight: 650; margin: 2px 0 6px; }
-  .ctx .d { font-size: 13.5px; color: var(--muted); margin-bottom: 8px; }
-  .proc { max-width: 900px; display: grid; gap: 8px; padding-left: 20px; }
-  @media (max-width: 600px) { dl { grid-template-columns: 1fr; } dd { margin-bottom: 8px; } }
-</style>

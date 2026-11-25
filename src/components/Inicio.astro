@@ -21,16 +21,22 @@ for (const d of dignidades.filter((x) => x.slug !== 'prefectura')) {
   for (const t of ts) for (const c of t.cands)
     indice.push({ n: (c.personas ?? []).map((p) => p.nombre).join(', ') || c.titulo, p: c.partido, l: c.lista, d: `${d.nombre} · ${titulo(t.sub ?? t.canton)}`, u: `/${d.slug}/${t.path}/#${'f-' + c.id}` });
 }
-// Etiqueta de cada tarjeta: fuera de Pichincha todos los resúmenes son con IA
-const etiqueta = (d) => (prov !== 'pichincha' ? ['auto', 'Resumen con IA'] : d.modo === 'auto' ? ['auto', 'Clasificación automática'] : ['', 'Resumen revisado']);
+// Etiqueta de cada tarjeta según quién hizo los resúmenes
+const conIA = {};
+for (const d of dignidades.filter((x) => x.slug !== 'prefectura')) conIA[d.slug] = territorios(d, prov).some((t) => t.cands.some((c) => c.auto));
+const etiqueta = (d) => (conIA[d.slug] ? ['auto', 'Resumen hecho con IA'] : ['', 'Revisado por personas']);
 ---
 <Layout title="Inicio" prov={prov}>
   <section class="hero">
     <h1>¿Qué proponen tus candidatos?</h1>
-    <p class="sub">Los planes de trabajo entregados al CNE, comparados lado a lado y con una señal de viabilidad.</p>
-    {prov !== 'pichincha' && <p class="sub">En {nombreProv}, por ahora solo están las alcaldías.</p>}
+    <p class="sub">Lee qué promete cada candidatura según el plan que entregó al CNE, compárala con las demás y mira si de verdad le toca hacerlo.</p>
+    <p class="provs">
+      Estás viendo <b>{nombreProv}</b>{prov !== 'pichincha' && ' (por ahora, solo alcaldías)'}.
+      {' '}Otras provincias:{' '}
+      {PROVINCIAS.filter((p) => p.slug !== prov).map((p, i, a) => <><a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}${provPath(p.slug)}/`}>{p.nombre}</a>{i < a.length - 1 ? ', ' : '.'}</>)}
+    </p>
     <div class="search">
-      <input id="q" type="search" placeholder="Busca un candidato, partido o parroquia…" autocomplete="off" aria-label="Buscar" />
+      <input id="q" type="search" placeholder={prov === "pichincha" ? "Busca un candidato, partido o parroquia…" : "Busca un candidato, partido o cantón…"} autocomplete="off" aria-label="Buscar" />
       <ul id="res" role="listbox"></ul>
     </div>
   </section>
@@ -70,6 +76,7 @@ const etiqueta = (d) => (prov !== 'pichincha' ? ['auto', 'Resumen con IA'] : d.m
 
 <style>
   .hero { padding: 32px 0 8px; }
+  .provs { margin: -6px 0 18px; font-size: 14.5px; }
   .hero h1 { font-size: clamp(28px, 4.4vw, 44px); }
   .search { position: relative; max-width: 640px; }
   #q { width: 100%; font: inherit; font-size: 16px; padding: 12px 14px; border-radius: 12px; border: 1px solid var(--line); background: var(--surface); color: var(--ink); }

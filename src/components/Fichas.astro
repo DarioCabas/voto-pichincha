@@ -1,14 +1,13 @@
 ---
+import { planUrl, pdfUrl } from '../lib/planes.js';
 // Ficha completa por candidatura: personas, propuestas completas, metas, inversión, 100 días, detalle y notas.
 interface Props { candidatos: any[]; temas: { id: string; nombre: string }[] }
 const { candidatos, temas } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-// Los PDF (public/planes, ~1,2 GB) no van en git: en producción se sirven desde PUBLIC_PLANES_URL (ver README)
-const planes = (import.meta.env.PUBLIC_PLANES_URL ?? '').replace(/\/$/, '') || base;
 const nombreTema = Object.fromEntries(temas.map((t) => [t.id, t.nombre]));
 ---
 
-<h2>Fichas completas <span class="muted small">· todo lo que trae cada plan</span></h2>
+<h2>Cada candidatura en detalle <span class="muted small">· quiénes son y todo lo que trae su plan</span></h2>
 <div class="fichas">
   {candidatos.map((c) => (
     <details class="ficha" id={`f-${c.id}`}>
@@ -44,18 +43,28 @@ const nombreTema = Object.fromEntries(temas.map((t) => [t.id, t.nombre]));
         {c.objetivos?.length > 0 && (<section><h4>Objetivos declarados</h4><ul>{c.objetivos.map((m) => <li>{m}</li>)}</ul></section>)}
         {c.notas?.length > 0 && (<section><h4>Notas</h4><ul class="muted">{c.notas.map((m) => <li>{m}</li>)}</ul></section>)}
         <p class="links">
-          {c.pdf && <a href={planes + c.pdf} target="_blank">PDF original{c.paginas ? ` (${c.paginas} p.)` : ''}</a>}
-          {c.txt && <> · <a href={base + c.txt} target="_blank">Texto completo extraído</a></>}
-          {' · '}<a href={c.cne} target="_blank" rel="noopener">Ficha CNE</a>
+          {c.pdf && <><a href={planUrl(c.pdf)}>Leer el plan completo</a> · </>}
+          {pdfUrl(c.pdf) && <><a href={pdfUrl(c.pdf)} target="_blank" rel="noopener">PDF original</a> · </>}
+          <a href={c.cne} target="_blank" rel="noopener">Ficha en el CNE ↗</a>
         </p>
       </div>
     </details>
   ))}
 </div>
 
+<script>
+  // Al llegar con #f-<id> (desde el buscador o desde "Volver a la comparación"), abre esa ficha
+  const abrir = () => {
+    const el = location.hash && document.getElementById(decodeURIComponent(location.hash.slice(1)));
+    if (el instanceof HTMLDetailsElement) el.open = true;
+  };
+  abrir();
+  addEventListener('hashchange', abrir);
+</script>
+
 <style>
   .fichas { display: grid; gap: 8px; }
-  .ficha { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; scroll-margin-top: 80px; }
+  .ficha { background: var(--surface); border: 1px solid var(--line); border-radius: 12px; scroll-margin-top: 150px; }
   .ficha[open] { border-color: color-mix(in srgb, var(--ink) 30%, var(--line)); }
   .ficha summary { cursor: pointer; padding: 12px 16px; display: flex; gap: 10px; align-items: baseline; flex-wrap: wrap; }
   .num { font-size: 12px; color: var(--accent); font-weight: 700; }

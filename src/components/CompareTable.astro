@@ -1,11 +1,10 @@
 ---
+import { planUrl, pdfUrl } from '../lib/planes.js';
 // Tabla comparativa reutilizable para cualquier dignidad.
 // candidatos: [{ id, lista, partido, titulo, subtitulo, enfoque?, tabla: {tema: [{t, v, n}]}, metas?, inversion?, pdf, txt?, cne, extraccion }]
 interface Props { candidatos: any[]; temas: { id: string; nombre: string }[]; auto?: boolean }
 const { candidatos, temas, auto = false } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-// Los PDF (public/planes, ~1,2 GB) no van en git: en producción se sirven desde PUBLIC_PLANES_URL (ver README)
-const planes = (import.meta.env.PUBLIC_PLANES_URL ?? '').replace(/\/$/, '') || base;
 const conteo = (c) => {
   const o = { alta: 0, media: 0, baja: 0 };
   for (const items of Object.values(c.tabla ?? {})) for (const i of items as any[]) o[i.v]++;
@@ -24,8 +23,8 @@ const uid = 'cmp' + Math.random().toString(36).slice(2, 7);
     <span><i class="dot alta"></i>Sí, está en sus manos</span>
     <span><i class="dot media"></i>Depende de otros</span>
     <span><i class="dot baja"></i>Difícil o no le corresponde</span>
-    <span class="muted hint">Toca cualquier propuesta <span class="chev" aria-hidden="true">▸</span> para leer por qué tiene ese color · <a href={`${base}/metodologia`}>cómo se calcula</a></span>
-    {auto && <span class="badge" title="Propuestas extraídas y clasificadas automáticamente del texto del plan. Revisa el PDF ante cualquier duda.">Clasificación automática</span>}
+    <span class="muted hint">Toca una propuesta <span class="chev" aria-hidden="true">▸</span> para ver qué dice el plan y por qué tiene ese color · <a href={`${base}/metodologia/`}>cómo lo calculamos</a></span>
+    {auto && <span class="badge" title="Lo resumió una IA a partir del plan y no lo revisó una persona. Cada propuesta trae la frase exacta del plan y su página para que lo compruebes.">Resumen hecho con IA</span>}
   </div>
   {candidatos.length > 2 && (
     <div class="chips" data-for={uid} role="group" aria-label="Mostrar u ocultar candidatos">
@@ -80,7 +79,7 @@ const uid = 'cmp' + Math.random().toString(36).slice(2, 7);
                         {i.cita && (
                           <blockquote class="cita">
                             «{i.cita}»
-                            {c.pdf && <a href={`${planes}${c.pdf}#page=${i.pag ?? 1}`} target="_blank" rel="noopener">Plan, pág. {i.pag ?? '?'}</a>}
+                            {c.pdf && <a href={planUrl(c.pdf, i.pag)}>{i.pag ? `Plan, pág. ${i.pag}` : 'Ver en el plan'}</a>}
                           </blockquote>
                         )}
                       </details>
@@ -107,13 +106,12 @@ const uid = 'cmp' + Math.random().toString(36).slice(2, 7);
         </tr>
       )}
       <tr class="meta">
-        <th class="stick">Fuente</th>
+        <th class="stick">El plan</th>
         {candidatos.map((c) => (
           <td data-col={c.id} class="small">
-            {c.pdf ? <a href={planes + c.pdf} target="_blank">PDF</a> : <span class="muted">Sin PDF</span>}
-            {c.txt && <> · <a href={base + c.txt} target="_blank">Texto</a></>}
-            {' · '}<a href={c.cne} target="_blank" rel="noopener">CNE</a>
-            {c.extraccion === 'ocr' && <span class="muted"> · OCR</span>}
+            {c.pdf ? <a href={planUrl(c.pdf)}>Leer el plan</a> : <span class="muted">Sin plan</span>}
+            {pdfUrl(c.pdf) && <> · <a href={pdfUrl(c.pdf)} target="_blank" rel="noopener">PDF</a></>}
+            {' · '}<a href={c.cne} target="_blank" rel="noopener">CNE ↗</a>
           </td>
         ))}
       </tr>

@@ -18,12 +18,13 @@ const nombreProv = PROVINCIAS.find((p) => p.slug === prov)?.nombre ?? 'Pichincha
   <body>
     <header class="site">
       <div class="wrap row">
-        <a class="brand" href={`${pbase}/`}>Voto Informado <span>{nombreProv} 2027</span></a>
-        <nav class="prov" aria-label="Provincia">
-          {PROVINCIAS.map((p) => (
-            <a href={`${base}${provPath(p.slug)}/`} class:list={{ on: p.slug === prov }} aria-current={p.slug === prov ? 'true' : undefined}>{p.nombre}</a>
-          ))}
-        </nav>
+        <a class="brand" href={`${pbase}/`}>Voto Informado <span>Seccionales 2027</span></a>
+        <label class="prov">
+          <span>Provincia</span>
+          <select onchange="location.href = this.value">
+            {PROVINCIAS.map((p) => <option value={`${base}${provPath(p.slug)}/`} selected={p.slug === prov}>{p.nombre}</option>)}
+          </select>
+        </label>
         <nav class="dign" aria-label="Dignidades">
           {dignidadesDe(prov).map((d) => (
             <a href={`${pbase}/${d.slug}/`} class:list={{ on: activo === d.slug }} aria-current={activo === d.slug ? 'page' : undefined}>{d.nombre}</a>
@@ -33,7 +34,7 @@ const nombreProv = PROVINCIAS.find((p) => p.slug === prov)?.nombre ?? 'Pichincha
     </header>
     <main class="wrap"><slot /></main>
     <footer class="wrap foot">
-      Datos: planes de trabajo publicados por el CNE (proceso 140), con hash verificado. Viabilidad: señal orientativa, no dictamen jurídico.
+      Los planes son los que cada candidatura entregó al CNE (elecciones seccionales 2027), descargados sin cambios. El color de cada propuesta es una guía para entender quién puede cumplirla, no una opinión legal.
       <a href={`${base}/metodologia/`}>Metodología</a>
     </footer>
   </body>
@@ -69,10 +70,9 @@ const nombreProv = PROVINCIAS.find((p) => p.slug === prov)?.nombre ?? 'Pichincha
   .dign a { white-space: nowrap; text-decoration: none; color: var(--muted); padding: 6px 10px; border-radius: 8px; font-size: 14px; }
   .dign a:hover { background: var(--head); color: var(--ink); }
   .dign a.on { background: var(--ink); color: var(--bg); }
-  .prov { display: flex; gap: 2px; font-size: 12.5px; overflow-x: auto; scrollbar-width: none; max-width: 100%; }
-  .prov a { white-space: nowrap; text-decoration: none; color: var(--muted); padding: 3px 8px; border-radius: 999px; border: 1px solid transparent; }
-  .prov a:hover { color: var(--ink); border-color: var(--line); }
-  .prov a.on { color: var(--ink); border-color: var(--ink); }
+  .prov { display: flex; align-items: center; gap: 6px; font-size: 13px; color: var(--muted); }
+  .prov select { font: inherit; font-size: 14px; font-weight: 600; color: var(--ink); background: var(--surface); border: 1px solid var(--line); border-radius: 8px; padding: 4px 8px; cursor: pointer; }
+  .prov select:hover { border-color: var(--ink); }
 
   .pills { display: flex; flex-wrap: wrap; gap: 6px; margin: 8px 0 16px; }
   .pills a, .pill { font-size: 13.5px; text-decoration: none; color: var(--ink); border: 1px solid var(--line); background: var(--surface); padding: 5px 11px; border-radius: 999px; }

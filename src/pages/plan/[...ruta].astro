@@ -1,0 +1,100 @@
+---
+// Texto de un plan de trabajo, página por página, para comprobar cada cita ("Plan, pág. N" enlaza a #pN).
+import fs from 'node:fs';
+import path from 'node:path';
+import Layout from '../../layouts/Layout.astro';
+import { PROVINCIAS } from '../../data/dignidades.js';
+import { fichaPlan } from '../../lib/datos.js';
+import { pdfUrl } from '../../lib/planes.js';
+
+export function getStaticPaths() {
+  const raiz = path.resolve('public/textos');
+  const rutas = [];
+  const recorrer = (dir) => {
+    for (const f of fs.readdirSync(dir, { withFileTypes: true })) {
+      const p = path.join(dir, f.name);
+      if (f.isDirectory()) recorrer(p);
+      else if (f.name.endsWith('.txt')) rutas.push(path.relative(raiz, p).replace(/\.txt$/, ''));
+    }
+  };
+  recorrer(raiz);
+  return rutas.map((ruta) => ({ params: { ruta }, props: { archivo: path.join(raiz, ruta + '.txt') } }));
+}
+
+const { ruta } = Astro.params;
+const { archivo } = Astro.props;
+const base = import.meta.env.BASE_URL.replace(/\/$/, '');
+
+// Mismo arreglo de texto que scripts/resumir.mjs (PDF con tildes mal codificadas)
+const MOJIBAKE = { '·': 'á', 'È': 'é', 'Ì': 'í', 'Û': 'ó', '˙': 'ú', 'Ò': 'ñ', '¡': 'Á', '…': 'É', 'Õ': 'Í', '”': 'Ó', '⁄': 'Ú', '—': 'Ñ', '¸': 'ü' };
+let txt = fs.readFileSync(archivo, 'utf8');
+const ocr = txt.startsWith('[OCR]');
+txt = txt.replace(/^\[OCR\]/, '');
+// Viñetas de fuentes de símbolos (Wingdings/Symbol) llegan como caracteres privados: se muestran como "•"
+txt = txt.replace(/[\u0000-\u0008\u000B\u000C\u000E-\u001F]/g, '').replace(/\uF020/g, ' ').replace(/[\uE000-\uF8FF]/g, '•').replace(/\uFFFD/g, '');
+if ((txt.match(/[ÈÌÛ˙Ò]/g) || []).length >= 5) txt = txt.replace(/[·ÈÌÛ˙Ò¡…Õ”⁄—¸]/g, (c) => MOJIBAKE[c] ?? c);
+const paginas = txt
+  .split(/--- página (\d+) ---/)
+  .slice(1)
+  .reduce((a, x, i, arr) => (i % 2 === 0 ? [...a, { n: Number(x), texto: arr[i + 1].replace(/[ \t]+\n/g, '\n').replace(/\n{3,}/g, '\n\n').trim() }] : a), []);
+
+const pdf = `/planes/${ruta}.pdf`;
+const f = fichaPlan(pdf);
+const prov = f?.prov ?? 'pichincha';
+const nombreProv = PROVINCIAS.find((p) => p.slug === prov)?.nombre;
+const quien = f ? f.nombres.slice(0, 1).join('') + (f.nombres.length > 1 ? ` y ${f.nombres.length - 1} más` : '') : 'Plan de trabajo';
+const original = pdfUrl(pdf);
+const a = (dign) =>
+  ({ prefectura: 'a la Prefectura de', alcaldia: 'a la Alcaldía de', 'junta-parroquial': 'a la Junta Parroquial de' })[dign] ??
+  (dign === 'circunscripcion' ? 'al Concejo Municipal por' : 'al Concejo Municipal de');
+---
+
+<Layout title={`Plan de ${quien}`} prov={prov}>
+  {f && <p class="volver"><a href={base + f.volver}>← Volver a la comparación</a></p>}
+  <h1>Plan de trabajo de {quien}</h1>
+  {f && (
+    <p class="sub">
+      Lista {f.r.lista} · {f.r.partido}<br />
+      Candidatura {a(f.d.slug)} {f.lugar}{prov !== 'pichincha' && `, ${nombreProv}`}
+    </p>
+  )}
+
+  <div class="aviso">
+    <p>
+      Este es el texto del plan que la candidatura entregó al CNE, copiado sin cambios y separado por páginas.
+      {ocr && ' El documento era una imagen escaneada: el texto se leyó de forma automática y puede tener errores de lectura.'}
+    </p>
+    <p>
+      {f?.r.fuente && <a href={f.r.fuente} target="_blank" rel="noopener">Ver el documento oficial en el CNE ↗</a>}
+      {original && <> · <a href={original} target="_blank" rel="noopener">Descargar PDF</a></>}
+    </p>
+  </div>
+
+  {paginas.length > 1 && (
+    <nav class="indice" aria-label="Páginas">
+      <span class="muted">Ir a la página:</span>
+      {paginas.map((p) => <a href={`#p${p.n}`}>{p.n}</a>)}
+    </nav>
+  )}
+
+  {paginas.map((p) => (
+    <section class="pag" id={`p${p.n}`}>
+      <h2>Página {p.n}</h2>
+      {p.texto ? <div class="texto">{p.texto}</div> : <p class="muted">Esta página no tiene texto (puede ser una imagen o estar en blanco).</p>}
+    </section>
+  ))}
+</Layout>
+
+<style>
+  .volver { margin: 20px 0 0; font-size: 14px; }
+  .volver a { text-decoration: none; }
+  .aviso { background: var(--surface); border: 1px solid var(--line); border-radius: 10px; padding: 12px 16px; max-width: 72ch; font-size: 14px; }
+  .aviso p { margin: 0 0 6px; }
+  .aviso p:last-child { margin: 0; }
+  .indice { display: flex; flex-wrap: wrap; gap: 4px 10px; margin: 20px 0 8px; font-size: 13.5px; }
+  .pag { max-width: 72ch; scroll-margin-top: 110px; border-top: 1px solid var(--line); padding: 4px 0 12px; }
+  .pag h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .04em; color: var(--muted); margin: 16px 0 10px; }
+  .pag:target { background: color-mix(in srgb, var(--media) 10%, transparent); box-shadow: -12px 0 0 color-mix(in srgb, var(--media) 10%, transparent), 12px 0 0 color-mix(in srgb, var(--media) 10%, transparent); }
+  .pag:target h2 { color: var(--ink); }
+  .texto { white-space: pre-line; font-size: 15px; line-height: 1.6; overflow-wrap: anywhere; }
+</style>

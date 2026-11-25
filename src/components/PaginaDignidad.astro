@@ -36,7 +36,7 @@ const unidad = (n) => `${n} ${n === 1 ? 'candidatura' : 'candidaturas'}`;
     {nombreTerr ? <a href={`${base}/${d.slug}/`} class="tap text-muted-foreground">{d.nombre}</a> : <span>{d.nombre}</span>}
     {t?.sub && <><span aria-hidden="true"> / </span><a href={`${base}/${d.slug}/${t.path.split('/')[0]}/`} class="tap text-muted-foreground">{titulo(t.canton)}</a></>}
   </nav>
-  <h1>{d.nombre}{nombreTerr && <span class="tap text-muted-foreground"> · {nombreTerr}</span>}</h1>
+  <h1>{d.nombre}{nombreTerr && <span class="text-muted-foreground">{' · '}{nombreTerr}</span>}</h1>
 
   <QuePuede dign={d.slug} />
 

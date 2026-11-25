@@ -74,7 +74,7 @@ export function Fichas({ candidatos, temas }: { candidatos: Ficha[]; temas: { id
               )}
               {!!c.objetivos?.length && (<><H>Objetivos del plan</H><ul className="grid gap-1">{c.objetivos.map((m, k) => <li key={k}>{m}</li>)}</ul></>)}
               {!!c.notas?.length && (<><H>Notas sobre el plan</H><ul className="grid gap-1">{c.notas.map((m, k) => <li key={k}>{m}</li>)}</ul></>)}
-              {!!c.verif?.length && (<><H>Lo que dicen los verificadores</H><ListaVerificaciones items={c.verif} id={`f-${c.id}`} /></>)}
+              {!!c.verif?.length && (<><H>¿Era cierto lo que dijo?</H><ListaVerificaciones items={c.verif} id={`f-${c.id}`} /></>)}
               <p className="mt-4 flex flex-wrap gap-x-4 gap-y-1 text-sm">
                 {c.pdf && <a className="tap" href={planUrl(c.pdf)}>Leer el plan completo</a>}
                 {pdfUrl(c.pdf) && <a className="tap" href={pdfUrl(c.pdf)!} target="_blank" rel="noopener">PDF original</a>}

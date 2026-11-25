@@ -14,7 +14,7 @@ const colores = [
   ['baja', 'Le toca a otro nivel de gobierno, o es poco realista.'],
 ] as const;
 // Solo lo que la comparación necesita (lo demás va en las fichas)
-const datos = candidatos.map(({ id, lista, partido, titulo, subtitulo, enfoque, tabla, metas, pdf, cne, notas, verif }) => ({ id, lista, partido, titulo, subtitulo, enfoque, tabla, metas, pdf, cne, notas: notas?.slice(0, 1), verif: verif?.map((v) => ({ calificacion: v.calificacion, fuente: v.fuente })) }));
+const datos = candidatos.map(({ id, lista, partido, titulo, subtitulo, enfoque, tabla, metas, pdf, cne, notas, verif }) => ({ id, lista, partido, titulo, subtitulo, enfoque, tabla, metas, pdf, cne, notas: notas?.slice(0, 1), verif: verif?.map((v) => ({ calificacion: v.calificacion, fuente: v.fuente, evento: v.evento })) }));
 ---
 
 <div class="mt-8 grid gap-3 lg:grid-cols-[1fr_minmax(0,22rem)]">

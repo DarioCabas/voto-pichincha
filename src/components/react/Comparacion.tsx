@@ -5,8 +5,8 @@ import { Card, CardHeader, CardTitle, CardDescription, CardContent, CardFooter }
 import { Table, TableHeader, TableBody, TableRow, TableHead, TableCell } from "@/components/ui/table"
 import { ToggleGroup, ToggleGroupItem } from "@/components/ui/toggle-group"
 import { ListaPropuestas, BarraConteo, type Item } from "./Propuestas"
-import type { Verif } from "./Verificaciones"
-import { MarcaCalificacion } from "./Marcas"
+import { introVerif, type Verif } from "./Verificaciones"
+import { ResumenVerdad } from "./Marcas"
 import { planUrl, pdfUrl } from "@/lib/planes.js"
 
 export type Cand = {
@@ -33,14 +33,10 @@ function Enlaces({ c }: { c: Cand }) {
 
 // Cuántas frases de cada calificación; el detalle de cada una está en la ficha
 function ResumenVerif({ c }: { c: Cand }) {
-  const porCal = Object.entries((c.verif ?? []).reduce((a: Record<string, number>, v) => ((a[v.calificacion] = (a[v.calificacion] ?? 0) + 1), a), {}))
-  const fuentes = [...new Set((c.verif ?? []).map((v) => v.fuente))].join(" y ")
   return (
     <>
-      <p className="mb-1 text-sm text-muted-foreground">{fuentes} revisaron {c.verif!.length} {c.verif!.length === 1 ? "frase" : "frases"} que dijo en debates:</p>
-      <ul className="grid list-none gap-1 p-0">
-        {porCal.map(([cal, n]) => <li key={cal} className="flex items-center gap-1.5"><MarcaCalificacion c={cal} /> <span className="text-muted-foreground">{n === 1 ? "1 frase" : `${n} frases`}</span></li>)}
-      </ul>
+      <p className="mb-2 text-sm text-muted-foreground">{introVerif(c.verif ?? [])}</p>
+      <ResumenVerdad cals={(c.verif ?? []).map((v) => v.calificacion)} />
       <a className="tap mt-1 font-medium" href={`#f-${c.id}`}>Ver qué dijo y qué encontraron</a>
     </>
   )
@@ -74,7 +70,7 @@ function Tarjeta({ c, temas }: { c: Cand; temas: Tema[] }) {
         )}
         {!!c.verif?.length && (
           <section>
-            <Etiqueta>Lo que dicen los verificadores</Etiqueta>
+            <Etiqueta>¿Era cierto lo que dijo?</Etiqueta>
             <ResumenVerif c={c} />
           </section>
         )}
@@ -173,7 +169,7 @@ export function Comparacion({ candidatos, temas }: { candidatos: Cand[]; temas: 
               )}
               {hayVerif && (
                 <TableRow className="meta">
-                  <TableHead scope="row" className="stick whitespace-normal">Lo que dicen los verificadores</TableHead>
+                  <TableHead scope="row" className="stick whitespace-normal">¿Era cierto lo que dijo?</TableHead>
                   {cols.map((c) => (
                     <TableCell key={c.id} className="whitespace-normal align-top">
                       {c.verif?.length ? <ResumenVerif c={c} /> : <span className="text-muted-foreground">Sin verificaciones</span>}

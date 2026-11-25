@@ -28,6 +28,41 @@ export function tipoCalificacion(c: string) {
   return { Icon: CircleAlert, cls: "text-media" } // impreciso, parcialmente cierto, engañoso
 }
 
+// Cuatro grupos para resumir "qué tanto de verdad": siempre se muestra también la etiqueta exacta del medio.
+export const GRUPOS = [
+  { id: "cierto", label: "Ciertas", uno: "cierta", detalle: "Cierto o mayormente cierto", Icon: CircleCheck, cls: "text-alta", bg: "bg-alta" },
+  { id: "mixto", label: "Imprecisas o engañosas", uno: "imprecisa o engañosa", detalle: "Impreciso, parcialmente cierto o engañoso", Icon: CircleAlert, cls: "text-media", bg: "bg-media" },
+  { id: "falso", label: "Falsas", uno: "falsa", detalle: "Falso, mayormente falso o completamente falso", Icon: CircleX, cls: "text-baja", bg: "bg-baja" },
+  { id: "nd", label: "No se pudieron comprobar", uno: "no se pudo comprobar", detalle: "Inverificable o sin evidencia", Icon: CircleHelp, cls: "text-muted-foreground", bg: "bg-muted-foreground" },
+] as const
+export function grupoDe(c: string) {
+  const s = c.toLowerCase()
+  if (/inverificable|sin evidencia/.test(s)) return "nd"
+  if (/falso/.test(s)) return "falso"
+  if (/^cierto|mayormente cierto/.test(s)) return "cierto"
+  return "mixto"
+}
+
+export function ResumenVerdad({ cals }: { cals: string[] }) {
+  const n: Record<string, number> = { cierto: 0, mixto: 0, falso: 0, nd: 0 }
+  for (const c of cals) n[grupoDe(c)]++
+  return (
+    <div>
+      <div className="flex h-2.5 gap-0.5 overflow-hidden rounded-full" aria-hidden="true">
+        {GRUPOS.map((g) => n[g.id] > 0 && <span key={g.id} className={g.bg} style={{ flex: n[g.id] }} />)}
+      </div>
+      <ul className="mt-2 grid list-none gap-1 p-0 text-sm">
+        {GRUPOS.filter((g) => n[g.id] > 0).map((g) => (
+          <li key={g.id} className="flex items-center gap-1.5">
+            <g.Icon aria-hidden="true" className={cn("size-[1.1em] shrink-0", g.cls)} strokeWidth={2.4} />
+            <span><b className="font-semibold">{n[g.id]}</b> {n[g.id] === 1 ? g.uno : g.label.toLowerCase()}</span>
+          </li>
+        ))}
+      </ul>
+    </div>
+  )
+}
+
 export function MarcaCalificacion({ c }: { c: string }) {
   const t = tipoCalificacion(c)
   return (

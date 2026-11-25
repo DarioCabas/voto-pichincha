@@ -3,26 +3,16 @@
 import Layout from '../layouts/Layout.astro';
 import CompareTable from './CompareTable.astro';
 import Fichas from './Fichas.astro';
-import { SelectorIr } from '@/components/SelectorIr';
+import { SelectorIr } from './react/SelectorIr';
+import QuePuede from './QuePuede.astro';
 import { buttonVariants } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
-import { TEMAS_LOCALES, COMPETENCIAS, PROVINCIAS, provPath } from '../data/dignidades.js';
+import { TEMAS_LOCALES, PROVINCIAS, provPath } from '../data/dignidades.js';
 import { titulo, contextoCanton } from '../lib/datos.js';
 
 const { d, ts, t, canton, prov = 'pichincha' } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '') + provPath(prov);
 const nombreProv = PROVINCIAS.find((p) => p.slug === prov)?.nombre;
-const comp = d.slug === 'alcaldia' ? COMPETENCIAS.alcaldia : d.slug === 'junta-parroquial' ? COMPETENCIAS.junta : COMPETENCIAS.concejo;
-// "Sí puede: ... No le toca: ... (Ley ...)" → partes para mostrarlas por separado
-const partes = {
-  intro: comp.split('Sí puede:')[0].trim(),
-  si: comp.match(/Sí puede: (.*?)\.(?: |$)/)?.[1],
-  no: comp.match(/No le toca: (.*?)\.(?: |$)/)?.[1],
-  extra: comp.match(/\. (Si promete[^.]*\.)/)?.[1],
-  ley: comp.match(/\((Ley[^)]*)\)/)?.[1],
-};
-const cargoCorto = { alcaldia: 'un alcalde o alcaldesa', 'junta-parroquial': 'una junta parroquial' }[d.slug] ?? 'un concejal o concejala';
-
 const cantones = [...new Map(ts.map((x) => [x.canton, x.path.split('/')[0]])).entries()];
 const cantonActual = t?.canton ?? canton ?? null;
 const subs = cantonActual && d.territorio === 'sub' ? ts.filter((x) => x.canton === cantonActual) : [];
@@ -48,19 +38,7 @@ const unidad = (n) => `${n} ${n === 1 ? 'candidatura' : 'candidaturas'}`;
   </nav>
   <h1>{d.nombre}{nombreTerr && <span class="text-muted-foreground"> · {nombreTerr}</span>}</h1>
 
-  <details class="group mt-4 max-w-3xl rounded-xl border bg-card" open={!t}>
-    <summary class="flex list-none items-center justify-between gap-3 px-4 py-3 font-medium [&::-webkit-details-marker]:hidden">
-      ¿Qué puede hacer {cargoCorto}?
-      <span aria-hidden="true" class="text-muted-foreground transition-transform group-open:rotate-180">⌄</span>
-    </summary>
-    <div class="grid gap-3 border-t px-4 py-3 text-sm sm:grid-cols-2">
-      {partes.intro && <p class="sm:col-span-2">{partes.intro}</p>}
-      {partes.si && <div><p class="font-medium text-alta">✓ Sí le toca</p><p class="mt-1 text-muted-foreground">{partes.si[0].toUpperCase() + partes.si.slice(1)}.</p></div>}
-      {partes.no && <div><p class="font-medium text-baja">✕ No le toca</p><p class="mt-1 text-muted-foreground">{partes.no[0].toUpperCase() + partes.no.slice(1)}.</p></div>}
-      {partes.extra && <p class="sm:col-span-2 text-muted-foreground">{partes.extra}</p>}
-      {partes.ley && <p class="sm:col-span-2 text-xs text-muted-foreground">Según la {partes.ley}.</p>}
-    </div>
-  </details>
+  <QuePuede dign={d.slug} />
 
   {ts.length === 0 ? (
     <p class="mt-8 text-muted-foreground">Todavía no tenemos datos de este cargo.</p>
@@ -86,15 +64,15 @@ const unidad = (n) => `${n} ${n === 1 ? 'candidatura' : 'candidaturas'}`;
   ) : (
     <>
       <div class="mt-6 flex flex-wrap items-end gap-x-4 gap-y-3">
-        <label class="grid gap-1.5 text-sm font-medium">
-          Cantón
-          <SelectorIr valor={`${base}/${d.slug}/${t.path.split('/')[0]}/`} opciones={cantones.map(([c, p]) => ({ valor: `${base}/${d.slug}/${p}/`, texto: `${titulo(c)} (${nCanton(c)})` }))} className="min-w-56" />
-        </label>
+        <div class="grid gap-1.5 text-sm font-medium">
+          <span aria-hidden="true">Cantón</span>
+          <SelectorIr client:load etiqueta="Cantón" valor={`${base}/${d.slug}/${t.path.split('/')[0]}/`} opciones={cantones.map(([c, p]) => ({ valor: `${base}/${d.slug}/${p}/`, texto: `${titulo(c)} (${nCanton(c)})` }))} className="min-w-56" />
+        </div>
         {t.sub && (
-          <label class="grid gap-1.5 text-sm font-medium">
-            {etiquetaSub}
-            <SelectorIr valor={`${base}/${d.slug}/${t.path}/`} opciones={subs.map((x) => ({ valor: `${base}/${d.slug}/${x.path}/`, texto: `${titulo(x.sub)} (${x.n})` }))} className="min-w-56" />
-          </label>
+          <div class="grid gap-1.5 text-sm font-medium">
+            <span aria-hidden="true">{etiquetaSub}</span>
+            <SelectorIr client:load etiqueta={etiquetaSub} valor={`${base}/${d.slug}/${t.path}/`} opciones={subs.map((x) => ({ valor: `${base}/${d.slug}/${x.path}/`, texto: `${titulo(x.sub)} (${x.n})` }))} className="min-w-56" />
+          </div>
         )}
         <p class="pb-1.5 text-sm text-muted-foreground">{unidad(t.n)}</p>
       </div>

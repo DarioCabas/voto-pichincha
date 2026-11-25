@@ -1,0 +1,56 @@
+---
+// Qué puede y qué no puede hacer un cargo, con el artículo de la ley de cada punto (src/data/cargos.js).
+import { Card, CardHeader, CardDescription, CardContent } from '@/components/ui/card';
+import { Alert, AlertTitle, AlertDescription } from '@/components/ui/alert';
+import { CircleCheck, CircleX, TriangleAlert } from 'lucide-react';
+import { cargoDe, cootad, CONSTITUCION_URL, COOTAD_URL } from '../data/cargos.js';
+interface Props { dign: string }
+const c = cargoDe(Astro.props.dign);
+---
+
+<Card className="mt-4 gap-4">
+  <CardHeader>
+    <h2 class="m-0 text-lg font-semibold">¿Qué puede hacer {c.quien}?</h2>
+    <CardDescription className="text-[0.95rem]">{c.resumen}</CardDescription>
+  </CardHeader>
+  <CardContent className="grid gap-6 md:grid-cols-2">
+    <section aria-labelledby="si-puede">
+      <h3 id="si-puede" class="flex items-center gap-2 text-[0.95rem] font-semibold">
+        <CircleCheck aria-hidden="true" className="size-5 text-alta" strokeWidth={2.4} /> Sí puede
+      </h3>
+      <ul class="mt-2 grid list-none gap-2 p-0 text-[0.9rem]">
+        {c.puede.map((p) => (
+          <li class="flex gap-2">
+            <span aria-hidden="true" class="mt-[0.55em] size-1.5 shrink-0 rounded-full bg-alta"></span>
+            <span>{p.t} <a href={cootad(p.pag)} target="_blank" rel="noopener" class="text-xs whitespace-nowrap" aria-label={`${p.art} del COOTAD (abre la ley)`}>{p.art}</a></span>
+          </li>
+        ))}
+      </ul>
+    </section>
+    <section aria-labelledby="no-puede">
+      <h3 id="no-puede" class="flex items-center gap-2 text-[0.95rem] font-semibold">
+        <CircleX aria-hidden="true" className="size-5 text-baja" strokeWidth={2.4} /> No puede (le toca a otro)
+      </h3>
+      <ul class="mt-2 grid list-none gap-2 p-0 text-[0.9rem]">
+        {c.noPuede.map((p) => (
+          <li class="flex gap-2">
+            <span aria-hidden="true" class="mt-[0.55em] size-1.5 shrink-0 rounded-full bg-baja"></span>
+            <span>
+              <b class="font-medium">{p.t}</b>{' '}
+              <span class="text-muted-foreground">{p.quien}</span>{' '}
+              <a href={p.pag ? cootad(p.pag) : CONSTITUCION_URL} target="_blank" rel="noopener" class="text-xs whitespace-nowrap">ver la ley</a>
+            </span>
+          </li>
+        ))}
+      </ul>
+    </section>
+    <Alert className="md:col-span-2">
+      <TriangleAlert aria-hidden="true" />
+      <AlertTitle>Ojo con las promesas</AlertTitle>
+      <AlertDescription>{c.ojo}</AlertDescription>
+    </Alert>
+    <p class="text-xs text-muted-foreground md:col-span-2">
+      Fuente: <a href={COOTAD_URL} target="_blank" rel="noopener">COOTAD</a> (ley de gobiernos locales, última reforma de junio de 2024) y <a href={CONSTITUCION_URL} target="_blank" rel="noopener">Constitución, art. 261</a>. Cada enlace abre la página exacta de la ley.
+    </p>
+  </CardContent>
+</Card>

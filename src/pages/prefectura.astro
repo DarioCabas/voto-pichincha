@@ -4,8 +4,9 @@ import CompareTable from '../components/CompareTable.astro';
 import Fichas from '../components/Fichas.astro';
 import { candidatos } from '../data/prefecto.js';
 import { temas, datos } from '../data/contexto.js';
-import { COMPETENCIAS } from '../data/dignidades.js';
+import QuePuede from '../components/QuePuede.astro';
 import raw from '../../data/raw/prefecto.json';
+import { verificacionesDe } from '../lib/datos.js';
 
 const fuente = Object.fromEntries(raw.map((r) => [r.lista, r.fuente]));
 const lista = candidatos.map((c) => ({
@@ -16,18 +17,26 @@ const lista = candidatos.map((c) => ({
   personas: [{ nombre: `${c.prefecto} (Prefecto/a)` }, { nombre: `${c.vice} (Viceprefecto/a)` }],
   txt: `/textos/prefecto/${c.pdf.split('/').pop().replace('.pdf', '.txt')}`,
   cne: fuente[c.lista] ?? c.cne,
+  verif: verificacionesDe(`prefecto:${c.lista}`),
 }));
 ---
 
 <Layout title="Prefectura" activo="prefectura">
+  <nav aria-label="Estás en" class="pt-5 text-sm text-muted-foreground"><a href={`${import.meta.env.BASE_URL.replace(/\/$/, '')}/`} class="text-muted-foreground">Pichincha</a> / Prefectura</nav>
   <h1>Prefectura de Pichincha</h1>
-  <p class="sub">{lista.length} candidaturas (cada una con prefecto o prefecta y su vice). {COMPETENCIAS.prefectura}</p>
+  <p class="mt-1 text-muted-foreground">{lista.length} candidaturas. Cada una lleva un prefecto o prefecta y su viceprefecto o viceprefecta.</p>
+  <QuePuede dign="prefectura" />
 
-  <div class="kpis">
+  <h2>Datos públicos de la Prefectura</h2>
+  <p class="-mt-2 mb-3 text-sm text-muted-foreground">Sirven para saber si una promesa cabe en el presupuesto. Toca uno para ver su fuente.</p>
+  <div class="grid gap-2 sm:grid-cols-2 lg:grid-cols-3">
     {datos.map((d) => (
-      <details class="kpi">
-        <summary><span class="k">{d.titulo}</span><span class="v">{d.valor}</span></summary>
-        <p>{d.detalle} <a href={d.url} target="_blank" rel="noopener">{d.fuente} ↗</a></p>
+      <details class="rounded-xl border bg-card px-4 py-3">
+        <summary class="list-none [&::-webkit-details-marker]:hidden">
+          <span class="block text-xs text-muted-foreground">{d.titulo}</span>
+          <span class="block font-semibold">{d.valor}</span>
+        </summary>
+        <p class="mt-2 text-sm text-muted-foreground">{d.detalle} <a href={d.url} target="_blank" rel="noopener">{d.fuente} ↗</a></p>
       </details>
     ))}
   </div>
@@ -36,12 +45,3 @@ const lista = candidatos.map((c) => ({
   <Fichas candidatos={lista} temas={temas} />
 </Layout>
 
-<style>
-  .kpis { display: grid; grid-template-columns: repeat(auto-fit, minmax(150px, 1fr)); gap: 8px; margin: 0 0 20px; align-items: start; }
-  .kpi { background: var(--card); border: 1px solid var(--border); border-radius: 10px; padding: 10px 12px; }
-  .kpi summary { cursor: pointer; list-style: none; display: flex; flex-direction: column; }
-  .kpi summary::-webkit-details-marker { display: none; }
-  .kpi .k { font-size: 12px; color: var(--muted-foreground); }
-  .kpi .v { font-size: 14.5px; font-weight: 650; }
-  .kpi p { margin: 8px 0 0; font-size: 13px; color: var(--muted-foreground); }
-</style>

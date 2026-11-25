@@ -1,7 +1,7 @@
 ---
 import Layout from '../layouts/Layout.astro';
 import { datos } from '../data/contexto.js';
-import { COMPETENCIAS } from '../data/dignidades.js';
+import { CARGOS, COOTAD_URL, CONSTITUCION_URL } from '../data/cargos.js';
 
 // Criterios de color por cargo (los mismos que usa scripts/resumir.mjs)
 const criterios = [
@@ -29,9 +29,9 @@ const criterios = [
     </ul>
     <p class="mt-2 text-sm text-muted-foreground">Si un plan es muy largo, solo se leen las páginas que traen propuestas. Si dos planes son casi idénticos, lo indicamos en sus notas.</p>
 
-    <h2>3. Qué significa cada color</h2>
-    <p>El color no dice si una propuesta es buena o mala. Dice si quien la promete <b>puede cumplirla</b> con lo que la ley le permite hacer a su cargo.</p>
-    <div class="mt-3 overflow-x-auto rounded-xl border">
+    <h2>3. Qué significa cada símbolo</h2>
+    <p>Cada propuesta lleva un símbolo con forma y color distintos (✓, ! y ✕), para que se entienda aunque no se distingan los colores. El símbolo no dice si una propuesta es buena o mala. Dice si quien la promete <b>puede cumplirla</b> con lo que la ley le permite hacer a su cargo.</p>
+    <div class="mt-3 overflow-x-auto rounded-xl border" tabindex="0" role="region" aria-label="Tabla: qué significa cada símbolo según el cargo">
       <table class="w-full min-w-[560px] border-collapse text-sm">
         <thead class="bg-secondary text-left">
           <tr>
@@ -55,17 +55,26 @@ const criterios = [
     </div>
     <p class="mt-2 text-sm text-muted-foreground">Es una guía para entender, no una opinión legal.</p>
 
-    <h2>4. Qué puede hacer cada cargo</h2>
-    <dl class="grid gap-3">
-      {[['Prefectura', COMPETENCIAS.prefectura], ['Alcaldía', COMPETENCIAS.alcaldia], ['Concejales', COMPETENCIAS.concejo], ['Juntas parroquiales', COMPETENCIAS.junta]].map(([t, d]) => (
+    <h2>4. Lo que dicen los verificadores</h2>
+    <p>Además del plan, mostramos lo que <a href="https://ecuadorchequea.com/" target="_blank" rel="noopener">Ecuador Chequea</a> y <a href="https://lupa.com.ec/" target="_blank" rel="noopener">Lupa Media</a>, dos medios dedicados a verificar datos, encontraron al revisar frases que dijeron las candidaturas en los debates de noviembre de 2026: alcaldías de Quito y Guayaquil, y Prefectura de Pichincha.</p>
+    <ul class="mt-2 grid gap-2">
+      <li>Mostramos la calificación tal como la publica cada medio («Cierto», «Impreciso», «Engañoso», «Sin evidencia»…) y un enlace a su verificación completa.</li>
+      <li>Solo publicamos las verificaciones que pudimos leer completas en la página del medio. Las que no pudimos confirmar, o donde la calificación no estaba clara, se dejaron fuera.</li>
+      <li>Si una candidatura no tiene verificaciones, no significa que todo lo que dijo sea cierto ni falso: simplemente no fue revisada.</li>
+    </ul>
+
+    <h2>5. Qué puede hacer cada cargo</h2>
+    <p>Cada página de cargo explica qué puede y qué no puede hacer, con el artículo exacto del <a href={COOTAD_URL} target="_blank" rel="noopener">COOTAD</a> (la ley de gobiernos locales, última reforma de junio de 2024) y de la <a href={CONSTITUCION_URL} target="_blank" rel="noopener">Constitución, art. 261</a> (lo que le toca solo al Gobierno nacional: seguridad, salud y educación, entre otros).</p>
+    <dl class="mt-3 grid gap-3">
+      {Object.values(CARGOS).map((c) => (
         <div class="rounded-xl border bg-card p-4">
-          <dt class="font-medium">{t}</dt>
-          <dd class="mt-1 text-sm text-muted-foreground">{d}</dd>
+          <dt class="font-medium">{c.quien[0].toUpperCase() + c.quien.slice(1)}</dt>
+          <dd class="mt-1 text-sm text-muted-foreground">{c.resumen}</dd>
         </div>
       ))}
     </dl>
 
-    <h2>5. Datos públicos que usamos en Pichincha</h2>
+    <h2>6. Datos públicos que usamos en Pichincha</h2>
     <p class="mb-3 text-sm text-muted-foreground">Para saber si una promesa cabe en el presupuesto, usamos estos datos. Cada uno tiene su fuente.</p>
   </div>
   <div class="grid gap-3 sm:grid-cols-2 lg:grid-cols-3">

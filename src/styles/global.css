@@ -132,19 +132,30 @@
     }
 }
 /* ---------- Voto Informado ---------- */
-/* Colores de "¿Se puede cumplir?" y de los enlaces, con contraste suficiente en claro y oscuro */
+/* Colores de "¿Se puede cumplir?" y de enlaces. Contraste mínimo 4.5:1 (texto) sobre el fondo, en claro y oscuro. */
 :root {
-  --alta: oklch(0.56 0.13 150);
-  --media: oklch(0.72 0.15 75);
-  --baja: oklch(0.58 0.19 28);
-  --link: oklch(0.47 0.13 255);
+  --muted-foreground: oklch(0.47 0 0); /* más oscuro que el de shadcn: 4.5:1 también sobre fondos grises */
+  --alta: oklch(0.48 0.12 150);
+  --media: oklch(0.55 0.13 65);
+  --baja: oklch(0.52 0.19 28);
+  --link: oklch(0.45 0.14 258);
 }
 .dark {
-  --alta: oklch(0.72 0.14 150);
-  --media: oklch(0.8 0.14 80);
-  --baja: oklch(0.7 0.16 28);
-  --link: oklch(0.76 0.1 250);
+  --muted-foreground: oklch(0.74 0 0);
+  --alta: oklch(0.78 0.14 150);
+  --media: oklch(0.82 0.13 80);
+  --baja: oklch(0.74 0.15 28);
+  --link: oklch(0.8 0.1 250);
 }
+/* Alto contraste: texto secundario igual al principal, bordes y enlaces más marcados */
+.contraste {
+  --muted-foreground: var(--foreground);
+  --border: color-mix(in oklch, var(--foreground) 65%, transparent);
+  --input: var(--border);
+  --link: oklch(0.38 0.18 262);
+}
+.dark.contraste { --link: oklch(0.88 0.09 240); --background: oklch(0 0 0); --card: oklch(0.12 0 0); }
+.contraste a { text-decoration-thickness: 2px; }
 @theme inline {
   --color-alta: var(--alta);
   --color-media: var(--media);
@@ -154,24 +165,35 @@
 
 @layer base {
   html { scroll-behavior: smooth; -webkit-text-size-adjust: 100%; }
-  body { font-size: 15px; line-height: 1.55; }
+  body { font-size: 1rem; line-height: 1.6; }
   a { color: var(--link); text-underline-offset: 3px; text-decoration-thickness: 1px; }
+  a:hover { text-decoration-thickness: 2px; }
+  :focus-visible { outline: 3px solid var(--ring); outline-offset: 2px; }
   h1 { font-size: clamp(1.6rem, 4vw, 2.2rem); line-height: 1.15; font-weight: 700; letter-spacing: -0.01em; margin: 1.25rem 0 0.25rem; }
-  h2 { font-size: 1.15rem; font-weight: 650; margin: 2rem 0 0.75rem; }
+  h2 { font-size: 1.2rem; font-weight: 650; margin: 2rem 0 0.75rem; }
   ul, ol { padding-left: 1.2rem; }
   ul { list-style: disc; }
   ol { list-style: decimal; }
   summary { cursor: pointer; }
+  @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } *, *::before, *::after { transition: none !important; animation: none !important; } }
 }
 
-/* Utilidades que usan prefectura.astro y metodologia.astro */
+/* Utilidades que usan prefectura.astro y la página de cada plan */
 @layer components {
-  .wrap { max-width: 1320px; margin: 0 auto; padding: 0 16px; }
   .muted { color: var(--muted-foreground); }
-  .small { font-size: 13px; }
-  .sub { color: var(--muted-foreground); margin: 0 0 16px; max-width: 70ch; }
-  .dot { display: inline-block; width: 10px; height: 10px; border-radius: 9999px; flex: none; }
+  .small { font-size: 0.85rem; }
+  .sub { color: var(--muted-foreground); margin: 0 0 1rem; max-width: 70ch; }
+  .dot { display: inline-block; width: 0.65rem; height: 0.65rem; border-radius: 9999px; flex: none; }
   .dot.alta { background: var(--alta); }
   .dot.media { background: var(--media); }
   .dot.baja { background: var(--baja); }
+
+  /* Tabla comparativa: primera columna y encabezado fijos al desplazarse */
+  .cmp th, .cmp td { vertical-align: top; border-bottom: 1px solid var(--border); border-right: 1px solid var(--border); padding: 0.7rem 0.8rem; }
+  .cmp td, .cmp thead th { min-width: 16rem; max-width: 18rem; }
+  .cmp thead th { position: sticky; top: 0; z-index: 2; background: var(--secondary); color: var(--foreground); }
+  .cmp .stick { position: sticky; left: 0; z-index: 1; background: var(--secondary); min-width: 8.5rem; max-width: 9.5rem; font-weight: 600; font-size: 0.85rem; color: var(--foreground); text-align: left; }
+  .cmp thead .corner { z-index: 3; }
+  .cmp .meta td { background: color-mix(in oklch, var(--secondary) 45%, var(--card)); }
+  .cmp tr:hover td { background: inherit; }
 }

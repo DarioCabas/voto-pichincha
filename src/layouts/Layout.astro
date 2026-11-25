@@ -1,6 +1,7 @@
 ---
 import '@/styles/global.css';
-import { SelectorIr } from '@/components/SelectorIr';
+import { SelectorIr } from '@/components/react/SelectorIr';
+import { Accesibilidad } from '@/components/react/Accesibilidad';
 import { buttonVariants } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
 import { PROVINCIAS, provPath } from '../data/dignidades.js';
@@ -25,6 +26,11 @@ const nombreProv = PROVINCIAS.find((p) => p.slug === prov)?.nombre ?? 'Pichincha
         const set = () => document.documentElement.classList.toggle('dark', m.matches);
         set();
         m.addEventListener('change', set);
+        try {
+          const t = { grande: '115%', muy: '130%' }[localStorage.getItem('vi-tam')];
+          if (t) document.documentElement.style.fontSize = t;
+          if (localStorage.getItem('vi-contraste') === '1') document.documentElement.classList.add('contraste');
+        } catch {}
       })();
     </script>
   </head>
@@ -33,12 +39,13 @@ const nombreProv = PROVINCIAS.find((p) => p.slug === prov)?.nombre ?? 'Pichincha
     <header class="border-b bg-background/95 backdrop-blur md:sticky md:top-0 md:z-30">
       <div class="mx-auto flex max-w-[1320px] flex-wrap items-center gap-x-4 gap-y-2 px-4 py-3">
         <a href={`${pbase}/`} class="mr-auto font-semibold text-foreground no-underline">
-          Voto Informado <span class="font-normal text-muted-foreground">· Seccionales 2027</span>
+          Voto Informado <span class="hidden font-normal text-muted-foreground sm:inline">· Seccionales 2027</span>
         </a>
-        <label class="flex items-center gap-2 text-sm text-muted-foreground">
-          Provincia
-          <SelectorIr etiqueta="Cambiar de provincia" valor={`${base}${provPath(prov)}/`} opciones={PROVINCIAS.map((p) => ({ valor: `${base}${provPath(p.slug)}/`, texto: p.nombre }))} className="text-foreground" />
-        </label>
+        <div class="flex items-center gap-2 text-sm text-muted-foreground">
+          <span aria-hidden="true">Provincia</span>
+          <SelectorIr client:load etiqueta="Provincia" valor={`${base}${provPath(prov)}/`} opciones={PROVINCIAS.map((p) => ({ valor: `${base}${provPath(p.slug)}/`, texto: p.nombre }))} className="text-foreground" />
+        </div>
+        <Accesibilidad client:load />
       </div>
       <nav aria-label={`Cargos en ${nombreProv}`} class="mx-auto max-w-[1320px] px-4 pb-2">
         <ul class="-mx-1 flex list-none gap-1 overflow-x-auto p-0 px-1 pb-1 [scrollbar-width:none]">
@@ -65,9 +72,9 @@ const nombreProv = PROVINCIAS.find((p) => p.slug === prov)?.nombre ?? 'Pichincha
       </p>
       <p class="mt-2"><a href={`${base}/metodologia/`}>Cómo hicimos este sitio</a></p>
     </footer>
-    <script>
-      // Selectores que llevan a otra página (provincia, cantón, parroquia)
-      document.querySelectorAll<HTMLSelectElement>('select[data-ir]').forEach((s) => s.addEventListener('change', () => (location.href = s.value)));
+    <script is:inline>
+      // En el celular, deja a la vista el cargo activo del menú
+      document.querySelector('nav [aria-current="page"]')?.scrollIntoView({ block: 'nearest', inline: 'center' });
     </script>
   </body>
 </html>

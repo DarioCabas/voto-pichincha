@@ -1,203 +1,46 @@
 ---
-// Comparación de candidaturas por tema.
-// Pantallas grandes: tabla con una columna por candidatura. Celular: una tarjeta por candidatura.
-// candidatos: [{ id, lista, partido, titulo, subtitulo, enfoque?, tabla: {tema: [{t, que, v, n, cita, pag}]}, metas?, inversion?, pdf, cne }]
-import Propuesta from './Propuesta.astro';
+// Cómo leer la comparación + la comparación interactiva (React + shadcn).
+import { Card, CardHeader, CardTitle, CardDescription, CardContent } from '@/components/ui/card';
 import { Alert, AlertTitle, AlertDescription } from '@/components/ui/alert';
-import { planUrl, pdfUrl } from '../lib/planes.js';
+import { Bot } from 'lucide-react';
+import { Comparacion } from './react/Comparacion';
+import { MarcaViab } from './react/Marcas';
 interface Props { candidatos: any[]; temas: { id: string; nombre: string }[]; auto?: boolean }
 const { candidatos, temas, auto = false } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '');
-const conteo = (c) => {
-  const o = { alta: 0, media: 0, baja: 0 };
-  for (const items of Object.values(c.tabla ?? {})) for (const i of items as any[]) o[i.v]++;
-  return o;
-};
-const resumenConteo = (n) => `${n.alta} en sus manos · ${n.media} dependen de otros · ${n.baja} difíciles`;
-const filas = temas.filter((t) => candidatos.some((c) => c.tabla?.[t.id]?.length));
-const hayMetas = candidatos.some((c) => c.metas?.length);
-const hayInv = candidatos.some((c) => c.inversion);
-const hayEnfoque = candidatos.some((c) => c.enfoque);
-const uid = 'cmp' + Math.random().toString(36).slice(2, 7);
 const colores = [
-  ['alta', 'Sí, está en sus manos', 'Es algo que este cargo puede hacer por sí mismo.'],
-  ['media', 'Depende de otros', 'Necesita el apoyo de otra autoridad o de dinero que no controla.'],
-  ['baja', 'Difícil o no le corresponde', 'Le toca a otro nivel de gobierno o es poco realista.'],
-];
+  ['alta', 'Es algo que este cargo puede hacer por sí mismo.'],
+  ['media', 'Necesita el apoyo de otra autoridad, o dinero que no controla.'],
+  ['baja', 'Le toca a otro nivel de gobierno, o es poco realista.'],
+] as const;
+// Solo lo que la comparación necesita (lo demás va en las fichas)
+const datos = candidatos.map(({ id, lista, partido, titulo, subtitulo, enfoque, tabla, metas, pdf, cne, notas, verif }) => ({ id, lista, partido, titulo, subtitulo, enfoque, tabla, metas, pdf, cne, notas: notas?.slice(0, 1), verif: verif?.map((v) => ({ calificacion: v.calificacion, fuente: v.fuente })) }));
 ---
 
-<section aria-labelledby={`${uid}-leer`} class="mt-6 grid gap-3 lg:grid-cols-[1fr_auto]">
-  <div class="rounded-xl border bg-card p-4">
-    <h2 id={`${uid}-leer`} class="m-0 text-base">Cómo leer esta comparación</h2>
-    <p class="mt-1 text-sm text-muted-foreground">Cada punto de color es una propuesta. El color dice si quien la promete puede cumplirla. <b class="font-medium text-foreground">Toca una propuesta</b> para ver qué promete exactamente y en qué página del plan lo dice.</p>
-    <ul class="mt-3 grid list-none gap-2 p-0 text-sm sm:grid-cols-3">
-      {colores.map(([v, t, d]) => (
-        <li class="flex gap-2"><i class={`dot ${v} mt-[0.35em]`}></i><span><b class="font-medium">{t}.</b> <span class="text-muted-foreground">{d}</span></span></li>
-      ))}
-    </ul>
-    <p class="mt-2 text-xs text-muted-foreground"><a href={`${base}/metodologia/`}>Cómo decidimos cada color</a></p>
-  </div>
+<div class="mt-8 grid gap-3 lg:grid-cols-[1fr_minmax(0,22rem)]">
+  <Card className="gap-3">
+    <CardHeader>
+      <CardTitle className="text-base">Cómo leer esta comparación</CardTitle>
+      <CardDescription className="text-[0.9rem]">
+        Cada línea es una propuesta del plan. El símbolo dice si quien la promete puede cumplirla. <b class="font-semibold text-foreground">Toca una propuesta</b> para ver qué promete, por qué tiene ese símbolo y en qué página del plan lo dice.
+      </CardDescription>
+    </CardHeader>
+    <CardContent>
+      <ul class="grid list-none gap-2 p-0 text-[0.9rem] sm:grid-cols-3">
+        {colores.map(([v, d]) => (
+          <li><MarcaViab v={v} texto className="font-semibold" /><span class="mt-0.5 block text-muted-foreground">{d}</span></li>
+        ))}
+      </ul>
+      <p class="mt-3 text-xs text-muted-foreground"><a href={`${base}/metodologia/`}>Cómo decidimos cada símbolo</a></p>
+    </CardContent>
+  </Card>
   {auto && (
-    <Alert className="h-fit border-media/50 lg:max-w-sm">
+    <Alert className="h-fit">
+      <Bot aria-hidden="true" />
       <AlertTitle>Resumen hecho con IA</AlertTitle>
       <AlertDescription>Una inteligencia artificial resumió estos planes y ninguna persona los revisó aún. Por eso cada propuesta trae la frase exacta del plan y su página: compruébala ahí.</AlertDescription>
     </Alert>
   )}
-</section>
-
-<!-- Celular: una tarjeta por candidatura -->
-<div class="mt-6 md:hidden">
-  <h2 class="mt-0 mb-1">Las candidaturas</h2>
-  <p class="mb-3 text-sm text-muted-foreground">{candidatos.length} en total. Desliza hacia abajo para verlas todas.</p>
-  {candidatos.length > 2 && (
-    <nav aria-label="Ir a una candidatura" class="mb-4 flex gap-2 overflow-x-auto pb-1 [scrollbar-width:none]">
-      {candidatos.map((c) => <a href={`#m-${c.id}`} class="shrink-0 rounded-full border bg-card px-3 py-1.5 text-sm text-foreground no-underline">{c.titulo}</a>)}
-    </nav>
-  )}
-  <div class="grid gap-4">
-    {candidatos.map((c) => {
-      const n = conteo(c);
-      const total = n.alta + n.media + n.baja;
-      return (
-        <article id={`m-${c.id}`} class="scroll-mt-4 rounded-xl border bg-card">
-          <header class="border-b p-4">
-            <p class="text-xs font-semibold text-link">Lista {c.lista}</p>
-            <h3 class="text-lg font-semibold leading-snug">{c.titulo}</h3>
-            {c.subtitulo && <p class="text-sm text-muted-foreground">{c.subtitulo}</p>}
-            <p class="text-xs uppercase tracking-wide text-muted-foreground">{c.partido}</p>
-            {total > 0 && (
-              <>
-                <span class="mt-3 flex h-1.5 gap-0.5 overflow-hidden rounded-full" aria-hidden="true">
-                  <span class="bg-alta" style={`flex:${n.alta}`}></span><span class="bg-media" style={`flex:${n.media}`}></span><span class="bg-baja" style={`flex:${n.baja}`}></span>
-                </span>
-                <p class="mt-1.5 text-xs text-muted-foreground">{total} propuestas: {resumenConteo(n)}</p>
-              </>
-            )}
-          </header>
-          <div class="grid gap-4 p-4 text-sm">
-            {c.enfoque && <p><span class="font-medium">En resumen: </span>{c.enfoque}</p>}
-            {filas.filter((t) => c.tabla?.[t.id]?.length).map((t) => (
-              <section>
-                <h4 class="mb-1 text-xs font-semibold uppercase tracking-wide text-muted-foreground">{t.nombre}</h4>
-                <div class="grid gap-0.5">{c.tabla[t.id].map((i) => <Propuesta i={i} pdf={c.pdf} />)}</div>
-              </section>
-            ))}
-            {total === 0 && <p class="text-muted-foreground">{c.notas?.[0] ?? 'No hay propuestas que mostrar para esta candidatura.'}</p>}
-            {c.metas?.length > 0 && (
-              <section>
-                <h4 class="mb-1 text-xs font-semibold uppercase tracking-wide text-muted-foreground">Metas con cifras</h4>
-                <ul class="grid gap-1">{c.metas.map((m) => <li>{m}</li>)}</ul>
-              </section>
-            )}
-          </div>
-          <footer class="flex flex-wrap gap-x-4 gap-y-1 border-t px-4 py-3 text-sm">
-            {c.pdf && <a href={planUrl(c.pdf)}>Leer el plan</a>}
-            <a href={`#f-${c.id}`}>Quiénes son y más detalles</a>
-            <a href={c.cne} target="_blank" rel="noopener">Ver en el CNE ↗</a>
-          </footer>
-        </article>
-      );
-    })}
-  </div>
 </div>
 
-<!-- Pantallas grandes: tabla comparativa -->
-<div class="mt-6 hidden md:block">
-  {candidatos.length > 2 && (
-    <div class="mb-3 flex flex-wrap items-center gap-2" data-for={uid} role="group" aria-label="Mostrar u ocultar candidaturas">
-      <span class="text-sm text-muted-foreground">Mostrar en la tabla (toca para quitar o volver a poner):</span>
-      {candidatos.map((c) => (
-        <button type="button" class="chip rounded-full border px-3 py-1 text-sm aria-pressed:border-foreground aria-pressed:bg-card aria-[pressed=false]:text-muted-foreground aria-[pressed=false]:line-through" data-col={c.id} aria-pressed="true">{c.titulo}</button>
-      ))}
-    </div>
-  )}
-  <div class="max-h-[calc(100vh-150px)] overflow-auto rounded-xl border bg-card">
-    <table class="cmp border-separate border-spacing-0 text-[13.5px]" id={uid}>
-      <thead>
-        <tr>
-          <th class="stick corner"><span class="sr-only">Tema</span></th>
-          {candidatos.map((c) => {
-            const n = conteo(c);
-            return (
-              <th data-col={c.id} scope="col">
-                <span class="block text-xs font-semibold text-link">Lista {c.lista}</span>
-                <a class="block text-[15px] font-semibold text-foreground no-underline hover:underline" href={`#f-${c.id}`}>{c.titulo}</a>
-                {c.subtitulo && <span class="block text-xs font-normal text-muted-foreground">{c.subtitulo}</span>}
-                <span class="block text-xs font-normal uppercase tracking-wide text-muted-foreground">{c.partido}</span>
-                <span class="mt-2 flex h-1.5 gap-0.5 overflow-hidden rounded-full" title={resumenConteo(n)}>
-                  <span class="bg-alta" style={`flex:${n.alta}`}></span><span class="bg-media" style={`flex:${n.media}`}></span><span class="bg-baja" style={`flex:${n.baja}`}></span>
-                </span>
-              </th>
-            );
-          })}
-        </tr>
-      </thead>
-      <tbody>
-        {hayEnfoque && (
-          <tr class="meta">
-            <th class="stick" scope="row">En resumen</th>
-            {candidatos.map((c) => <td data-col={c.id}>{c.enfoque}</td>)}
-          </tr>
-        )}
-        {filas.map((t) => (
-          <tr>
-            <th class="stick" scope="row">{t.nombre}</th>
-            {candidatos.map((c) => (
-              <td data-col={c.id}>
-                {c.tabla?.[t.id]?.length ? (
-                  <div class="grid gap-1">{c.tabla[t.id].map((i) => <Propuesta i={i} pdf={c.pdf} />)}</div>
-                ) : <span class="text-muted-foreground" title="El plan no trae propuestas de este tema">—</span>}
-              </td>
-            ))}
-          </tr>
-        ))}
-        {hayMetas && (
-          <tr class="meta">
-            <th class="stick" scope="row">Metas con cifras</th>
-            {candidatos.map((c) => (
-              <td data-col={c.id}>{c.metas?.length ? <ul class="grid gap-1">{c.metas.map((m) => <li>{m}</li>)}</ul> : <span class="text-muted-foreground">—</span>}</td>
-            ))}
-          </tr>
-        )}
-        {hayInv && (
-          <tr class="meta">
-            <th class="stick" scope="row">Inversión</th>
-            {candidatos.map((c) => <td data-col={c.id}>{c.inversion ?? '—'}</td>)}
-          </tr>
-        )}
-        <tr class="meta">
-          <th class="stick" scope="row">El plan</th>
-          {candidatos.map((c) => (
-            <td data-col={c.id}>
-              {c.pdf ? <a href={planUrl(c.pdf)}>Leer el plan</a> : <span class="text-muted-foreground">No entregó plan</span>}
-              {pdfUrl(c.pdf) && <> · <a href={pdfUrl(c.pdf)} target="_blank" rel="noopener">PDF</a></>}
-              {' · '}<a href={c.cne} target="_blank" rel="noopener">CNE ↗</a>
-            </td>
-          ))}
-        </tr>
-      </tbody>
-    </table>
-  </div>
-</div>
-
-<script>
-  document.querySelectorAll<HTMLElement>('[data-for]').forEach((group) => {
-    const table = document.getElementById(group.dataset.for!)!;
-    group.querySelectorAll<HTMLButtonElement>('.chip').forEach((chip) => {
-      chip.addEventListener('click', () => {
-        const on = chip.getAttribute('aria-pressed') !== 'true';
-        chip.setAttribute('aria-pressed', String(on));
-        table.querySelectorAll<HTMLElement>(`[data-col="${chip.dataset.col}"]`).forEach((el) => (el.hidden = !on));
-      });
-    });
-  });
-</script>
-
-<style>
-  .cmp th, .cmp td { vertical-align: top; text-align: left; padding: 10px 12px; border-bottom: 1px solid var(--border); border-right: 1px solid var(--border); }
-  .cmp td, .cmp thead th { min-width: 250px; max-width: 280px; }
-  .cmp thead th { position: sticky; top: 0; z-index: 2; background: var(--secondary); }
-  .cmp .stick { position: sticky; left: 0; z-index: 1; background: var(--secondary); min-width: 130px; max-width: 150px; font-weight: 600; font-size: 13px; }
-  .cmp thead .corner { z-index: 3; }
-  .cmp .meta td { background: color-mix(in oklch, var(--secondary) 45%, var(--card)); }
-</style>
+<Comparacion client:load candidatos={datos} temas={temas} />

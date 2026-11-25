@@ -1,5 +1,6 @@
 // Carga y normaliza los datos de todas las dignidades locales.
 import { DIGNIDADES, provPath } from '../data/dignidades.js';
+import VERIFICACIONES from '../data/verificaciones.json';
 
 const rawFiles = import.meta.glob(['../../data/raw/*.json', '../../data/raw/*/*.json'], { eager: true, import: 'default' });
 const genFiles = import.meta.glob('../data/gen/*.json', { eager: true, import: 'default' });
@@ -28,6 +29,10 @@ const raw = (slug) => rawFiles[`../../data/raw/${slug}.json`] ?? [];
 // Resúmenes de otras provincias (scripts/resumir.mjs <prov>/<raw>): src/data/provincias/<prov>/<raw>-<canton>.json
 const provFiles = import.meta.glob('../data/provincias/*/*.json', { eager: true, import: 'default' });
 const nombreSuplente = (r, p) => { const s = r.suplentes?.find((x) => x.de === p.cod)?.nombre; return s ? titulo(s) : undefined; };
+// Verificaciones de Ecuador Chequea y Lupa Media (src/data/verificaciones.json), por "<raw>:<codFormulario>" o "prefecto:<lista>"
+const VERIF = {};
+for (const v of VERIFICACIONES) (VERIF[v.clave] ??= []).push(v);
+export const verificacionesDe = (clave) => VERIF[clave] ?? [];
 const notaIA = 'Resumen hecho con IA a partir del plan, sin revisión humana. Revisa el PDF ante cualquier duda.';
 const notaSinPlan = (r) => (r.planArchivo ? 'El plan está publicado en el CNE pero su servidor no lo entregó; ábrelo desde el enlace del CNE.' : 'El CNE no publicó plan de trabajo para esta lista.');
 
@@ -55,6 +60,7 @@ function deProvincia(d, prov) {
       notas: [...(c?.notas ?? []), ...(c?.ia ? [notaIA] : []), ...(!r.pdf ? [notaSinPlan(r)] : !c ? ['Resumen en preparación.'] : [])],
       pdf: r.pdf,
       txt: r.pdf ? `/textos/${prov}/${d.raw}/${r.codFormulario}.txt` : null,
+      verif: verificacionesDe(`${prov}/${d.raw}:${r.codFormulario}`),
       cne: r.fuente,
       canton: r.canton,
       sub: r.sub,
@@ -80,6 +86,7 @@ function alcaldes() {
       tabla: c.tabla ?? {},
       notas: [...(c.notas ?? []), ...(!r.pdf ? [notaSinPlan(r)] : !c.tabla ? ['Resumen en preparación.'] : [])],
       pdf: r.pdf,
+      verif: verificacionesDe(`alcalde:${r.codFormulario}`),
       txt: r.pdf ? `/textos/alcalde/${r.codFormulario}.txt` : null,
       cne: r.fuente,
       canton: r.canton,
@@ -111,6 +118,7 @@ function concejales(d) {
       titulo: personas[0]?.nombre ?? r.partido,
       subtitulo: r.principales.length > 1 ? `y ${r.principales.length - 1} candidatos más` : null,
       personas, pdf: r.pdf, txt: r.pdf ? `/textos/${d.raw}/${r.codFormulario}.txt` : null, cne: r.fuente,
+      verif: verificacionesDe(`${d.raw}:${r.codFormulario}`),
       canton: r.canton, sub: r.sub,
     };
     const fila = c

@@ -1,0 +1,598 @@
+{
+  "canton": "URCUQUI",
+  "candidatos": [
+    {
+      "codFormulario": 9924,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Propone obras de calles, agua, alcantarillado, basura, ciclovías y orden del suelo. Varias metas no coinciden entre sí y muchas obras dependen de otras instituciones.",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Construir 15 km de ciclovías y senderos seguros entre 2029 y 2031.",
+            "que": "Costo referencial de 800.000 USD. Lo pagarían el Municipio y el Ministerio de Transporte y Obras Públicas, según el plan.",
+            "v": "alta",
+            "n": "Le toca al Municipio, pero el plan lo reparte con el Ministerio de Transporte.",
+            "cita": "Construir 15 km de ciclovías y senderos seguros, promoviendo la movilidad sostenible.",
+            "pag": 15
+          },
+          {
+            "t": "Planificar y coordinar la movilidad, el tránsito y el transporte terrestre del cantón.",
+            "que": "Crea una jefatura de tránsito dentro de Planificación. El plan no dice cuánto costará ni en qué plazo.",
+            "v": "media",
+            "n": "Tránsito es del Municipio, pero el plan dice que lo maneja MOVIDELNOR, empresa de la mancomunidad.",
+            "cita": "Planificar y coordinar la movilidad cantonal, el tránsito y el transporte terrestre, articulados con la planificación territorial.",
+            "pag": 23
+          },
+          {
+            "t": "Arreglar, mejorar o abrir 100 km de vías urbanas y rurales hasta 2031.",
+            "que": "Costo referencial de 2.000.000 USD. Participan la Prefectura, el Ministerio de Transporte y el Banco de Desarrollo.",
+            "v": "media",
+            "n": "Las calles urbanas son del Municipio. Las vías rurales, según el plan, son de la Prefectura.",
+            "cita": "Intervenir 100 km de vías urbanas y rurales mediante mantenimiento, mejoramiento y apertura de nuevas vías.",
+            "pag": 15
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Ampliar agua potable y alcantarillado en al menos 10 % de los sectores priorizados.",
+            "que": "Costo referencial de 2.000.000 USD, entre 2027 y 2031, en la cabecera y las parroquias.",
+            "v": "alta",
+            "n": "Agua y alcantarillado son del Municipio. El costo es referencial, no un monto fijo.",
+            "cita": "Incrementar la cobertura de agua potable y alcantarillado en al menos 10 % en sectores priorizados.",
+            "pag": 11
+          },
+          {
+            "t": "Poner un sistema de reciclaje que recupere al menos 25 % de los residuos reciclables.",
+            "que": "Incluye un centro integral de basura, costo referencial de 1.500.000 USD, entre 2028 y 2030. El plan no dice el lugar exacto.",
+            "v": "alta",
+            "n": "La basura le toca al Municipio. Parte del dinero vendría de créditos y del Ministerio del Ambiente.",
+            "cita": "Implementar un sistema de reciclaje que permita recuperar al menos 25 % de los residuos reciclables generados en el cantón.",
+            "pag": 4
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Reforestar 100 hectáreas y proteger las microcuencas que dan agua al cantón.",
+            "que": "Costo referencial de 200.000 USD, entre 2027 y 2031. El plan no dice qué microcuencas se protegen primero.",
+            "v": "media",
+            "n": "Se hace junto con ministerios y cooperación internacional, según el plan.",
+            "cita": "Reforestar 100 hectáreas y proteger las principales microcuencas abastecedoras de agua del cantón.",
+            "pag": 15
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Actualizar el plan de crecimiento de la ciudad, el uso del suelo y el catastro (registro de terrenos).",
+            "que": "Costo referencial de 400.000 USD, en 2027 (corto plazo). El trabajo lo hace el propio Municipio.",
+            "v": "alta",
+            "n": "Ordenar el suelo y el catastro son tareas del Municipio.",
+            "cita": "Garantizar un desarrollo urbano y rural ordenado mediante la actualización permanente del PDOT, el PUGS y el catastro municipal",
+            "pag": 7
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Instalar 50 cámaras de videovigilancia y mejorar el alumbrado en sectores críticos.",
+            "que": "Costo referencial de 500.000 USD, entre 2027 y 2029, con el Ministerio del Interior. El plan no dice qué sectores son.",
+            "v": "baja",
+            "n": "La policía y la seguridad no son del Municipio. El alumbrado público sí.",
+            "cita": "Instalar 50 cámaras de videovigilancia, mejorar el alumbrado público en sectores críticos y fortalecer las alarmas",
+            "pag": 15
+          }
+        ],
+        "otros": [
+          {
+            "t": "Actualizar todos los planes de emergencia y poner sistemas de prevención en las parroquias.",
+            "que": "Costo referencial de 500.000 USD, entre 2027 y 2031. Trabaja con la Secretaría de Gestión de Riesgos.",
+            "v": "media",
+            "n": "Prevenir desastres es del Municipio, pero comparte el trabajo con la Secretaría de Riesgos.",
+            "cita": "Actualizar el 100 % de los planes de emergencia e implementar sistemas de prevención y respuesta en todas las parroquias del cantón.",
+            "pag": 16
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Hacer digitales el 100 % de los principales trámites municipales.",
+            "que": "Busca reducir el tiempo de atención a la ciudadanía. Costo referencial de 500.000 USD, entre 2027 y 2029.",
+            "v": "alta",
+            "n": "Los trámites del Municipio sí le tocan. El plan no dice cuáles trámites se incluyen.",
+            "cita": "Digitalizar 100 % de los principales trámites municipales, reduciendo los tiempos de atención a la ciudadanía.",
+            "pag": 15
+          }
+        ]
+      },
+      "metas": [
+        "Intervenir 100 km de vías urbanas y rurales entre 2027 y 2031.",
+        "Subir la cobertura de agua potable y alcantarillado al menos 10 % en sectores priorizados.",
+        "Construir 15 km de ciclovías y senderos entre 2029 y 2031.",
+        "Reciclar al menos 25 % de los residuos reciclables del cantón.",
+        "Hacer digitales el 100 % de los principales trámites municipales."
+      ],
+      "notas": [
+        "Las metas no coinciden: el plan dice 100 km de vías en una parte y 30 km en otra, y 100 hectáreas y 200 hectáreas de reforestación.",
+        "Parte del texto copia diagnósticos generales. Los costos son referenciales y muchos proyectos dependen de otras instituciones.",
+        "Plan muy largo (46 págs.): se resumieron las 40 páginas con propuestas."
+      ]
+    },
+    {
+      "codFormulario": 10895,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Arreglar agua, basura, calles e iluminación, ordenar el catastro y simplificar trámites. Usa datos simulados y no detalla costos por obra.",
+      "tabla": {
+        "servicios": [
+          {
+            "t": "Reducir pérdidas de agua y modernizar la recolección de basura.",
+            "que": "Costo de $2 millones con empresas públicas, ingresos propios, crédito y ayuda internacional. El plan no dice qué barrios se atienden primero.",
+            "v": "media",
+            "n": "Le toca al Municipio, pero depende de crédito y ayuda externa.",
+            "cita": "Continuidad media de agua de 23 horas, pérdidas reducidas al 24 %, 18 % de residuos valorizados.",
+            "pag": 2
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Atender 100 km de vías en 2027, con bacheo e iluminación.",
+            "que": "Es parte de la primera etapa de 2027. La tabla pone $8 millones para ese año, pero no dice de dónde salen.",
+            "v": "alta",
+            "n": "Le toca al Municipio: calles e iluminación.",
+            "cita": "Ordenamiento y limpieza, bacheo e iluminación; 100 km de vías",
+            "pag": 2
+          },
+          {
+            "t": "Ordenar rutas de bus y mantener vías, con meta de 25 % menos choques graves.",
+            "que": "Incluye 85 km de corredores seguros para peatones y bicicletas. El plan no dice cuánto cuesta ni cuándo se construyen.",
+            "v": "alta",
+            "n": "Le toca al Municipio: tránsito, buses y calles. Falta el costo.",
+            "cita": "Viajes 15 % más cortos en corredores, 250km mantenidos, 25 %",
+            "pag": 2
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Crear una ventanilla única y un mapa de riesgos para trámites de suelo.",
+            "que": "Plan: 5.000 predios actualizados y 65 barrios con ruta de regularización hacia 2031. Costo de $1 millón con ingresos catastrales y cooperación.",
+            "v": "alta",
+            "n": "Le toca al Municipio (suelo y catastro). Parte del dinero es externo.",
+            "cita": "Ventanilla única, expediente digital, mapa de riesgos, control con trazabilidad",
+            "pag": 2
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Simplificar 10 trámites y auditar obras y servicios en 2027.",
+            "que": "Es el primer paso del año 2027. El plan no dice cuánto cuestan los trámites ni cómo se medirán.",
+            "v": "alta",
+            "n": "Le toca al Municipio; trámites y auditoría son internos.",
+            "cita": "Auditoría de servicios y obras; plan de 10 trámites simplificados;",
+            "pag": 2
+          },
+          {
+            "t": "Publicar en internet el estado de servicios, obras y contratos.",
+            "que": "Tablero mensual, informes zonales cada tres meses y rendición anual. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio; es información de su propia gestión.",
+            "cita": "La Alcaldia implementará un sistema de rendición de cuentas que permita conocer el estado de los servicios, las obras, las",
+            "pag": 3
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Iluminar zonas y crear 20 polígonos preventivos junto a la Policía.",
+            "que": "Plan operativo coordinado y 20 polígonos preventivos en los primeros 100 días. El plan no dice qué hará la Policía en cada zona.",
+            "v": "media",
+            "n": "La Policía es del Gobierno; el Municipio pone luces y coordina.",
+            "cita": "Las propuestas se estructuran conforme a competencias municipales En seguridad se priorizan prevención, iluminacion,",
+            "pag": 2
+          }
+        ]
+      },
+      "metas": [
+        "Para 2031: agua 23 horas en promedio, pérdidas al 24 %, 18 % de residuos aprovechados.",
+        "Para 2031: 250 km de vías mantenidos y 25 % menos choques graves.",
+        "En 2027: 10 trámites simplificados y 100 km de vías atendidos.",
+        "Para 2031: 5.000 predios actualizados y 65 barrios con ruta de regularización.",
+        "Para 2031: 30 espacios públicos recuperados."
+      ],
+      "notas": [
+        "El diagnóstico dice que usa datos simulados (20.000 habitantes). Las cifras no están comprobadas.",
+        "El plan da costos por bloques de años y ejes, no por obra. No dice cuánto cuesta cada proyecto."
+      ]
+    },
+    {
+      "codFormulario": 6472,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Propone mejorar calles y servicios, cuidar el agua y el ambiente, y rendir cuentas. Gran parte del texto está copiado del plan de desarrollo del cantón 2023-2027.",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Arreglar caminos rurales y calles urbanas del cantón.",
+            "que": "El plan habla de mejorar la vialidad urbana y rural, pero no dice qué calles ni caminos. No dice cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "Las calles urbanas sí son del Municipio; los caminos rurales suelen depender de la Prefectura.",
+            "cita": "la vialidad urbina y rural, los servicios públicos, el ordenamiento",
+            "pag": 8
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Ordenar el territorio y los espacios comunitarios del cantón.",
+            "que": "El plan dice que ordenará el territorio y los espacios comunitarios. No dice dónde ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio: uso del suelo y espacios públicos. El plan no dice cómo lo hará.",
+            "cita": "lerritorial y los espacios comunitarios para garantizar un desarrollo territorial planificado.",
+            "pag": 8
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Mejorar el manejo de la basura y otros residuos.",
+            "que": "El plan dice que mejorará la gestión de residuos. No dice qué cambios, cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "La basura le toca al Municipio, pero el plan no dice qué hará.",
+            "cita": "integral de residuos, la adaptación al cambio climático y el acceso a servicios sociales.",
+            "pag": 8
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Proteger las fuentes de agua y el patrimonio natural del cantón.",
+            "que": "El plan dice que cuidará las fuentes de agua y la naturaleza. No dice cómo ni cuánto costará.",
+            "v": "media",
+            "n": "El agua y el ambiente son del Municipio en parte; las fuentes de agua dependen también de otras entidades.",
+            "cita": "conservación del patrimonio natural, la protección de las fuentes de agua",
+            "pag": 8
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Recuperar espacios públicos para prevenir la violencia.",
+            "que": "El plan dice que recuperará espacios públicos y prevendrá la violencia. No dice dónde ni cuánto costará.",
+            "v": "media",
+            "n": "Los espacios públicos sí son del Municipio; la seguridad es de la Policía.",
+            "cita": "la prevención de la violencia, la recuperación de espacios públicos y la",
+            "pag": 7
+          }
+        ],
+        "social": [
+          {
+            "t": "Dar acceso a servicios culturales y deportivos en el cantón.",
+            "que": "El plan dice que dará acceso a servicios culturales y deportivos. No dice qué espacios ni cuánto costará.",
+            "v": "alta",
+            "n": "Los parques y espacios deportivos sí son del Municipio, pero el plan no dice cuáles.",
+            "cita": "culturales y deportivos que contribuyan al bienestar y a una mejor calidad de vida de la",
+            "pag": 8
+          }
+        ],
+        "economia": [
+          {
+            "t": "Apoyar la producción agrícola, el emprendimiento y el turismo.",
+            "que": "El plan dice que impulsará la producción, el emprendimiento y el turismo. No dice con qué ni cuánto costará.",
+            "v": "baja",
+            "n": "No está entre las competencias del Municipio; crear empleo directamente no le toca.",
+            "cita": "económico del cantón mediante el impulso a la producción",
+            "pag": 3
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Publicar actas, contratos e informes de dinero en redes sociales.",
+            "que": "El plan dice que difundirá actas, contratos e informes financieros. No dice cada cuánto ni con qué detalle.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cada cuánto publicará la información.",
+            "cita": "Transparencia Digital: Difusión de actas, contratos e informes financieros en redes",
+            "pag": 21
+          },
+          {
+            "t": "Priorizar obras junto con comunidades, barrios y recintos.",
+            "que": "El plan dice que las obras se elegirán con la población. No dice cuánto dinero habrá ni cuáles obras.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto dinero destinará.",
+            "cita": "Presupuestos Participativos: Priorización participativa de obras con comunidades,",
+            "pag": 21
+          },
+          {
+            "t": "Hacer asambleas públicas de rendición de cuentas en cada parroquia.",
+            "que": "El plan dice que habrá asambleas públicas presenciales con la población. No dice cuántas ni cuándo.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice con qué frecuencia se harán.",
+            "cita": "Asambleas Parroquiales de Rendición de Cuentas: Audiencias públicas presenciales",
+            "pag": 21
+          }
+        ]
+      },
+      "metas": [
+        "Periodo de gestión: 2027 a 2031."
+      ],
+      "notas": [
+        "Gran parte del texto es diagnóstico copiado del plan de desarrollo del cantón 2023-2027, no propuestas propias.",
+        "Las tablas de acciones y costos (p. 9 a 20) salen ilegibles; no se pueden leer cifras ni plazos."
+      ]
+    },
+    {
+      "codFormulario": 1220,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan de la Junta Parroquial de Natabuela (Antonio Ante), hecho para vocales. Está copiado de otro cargo y otro cantón; no es propuesta del alcalde de Urcuquí.",
+      "tabla": {
+        "ambiente": [
+          {
+            "t": "Proteger las fuentes de agua y promover la reforestación del cerro Imbabura.",
+            "que": "El plan no dice dónde, cuánto costará ni cuándo. Lo haría la junta parroquial de Natabuela con otras instituciones.",
+            "v": "baja",
+            "n": "Es de otro cantón y no es competencia del alcalde de Urcuquí.",
+            "cita": "Gestionar acciones para la protección de las fuentes de agua, promover la reforestación del taita Imbabura",
+            "pag": 37
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Garantizar agua potable, alcantarillado y manejo de basura de calidad en la parroquia.",
+            "que": "El plan no dice qué obras se harán, cuánto costarán ni en qué plazo. No dice quién pagará.",
+            "v": "baja",
+            "n": "Agua y basura son del Municipio, pero Natabuela está en otro cantón.",
+            "cita": "Garantizar servicios básicos de calidad en agua potable, alcantarillado y gestión de residuos.",
+            "pag": 29
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Mejorar la infraestructura comunitaria y vial de la parroquia.",
+            "que": "El plan no dice qué calles u obras se mejorarán, cuánto costará ni cuándo. No dice quién pagará.",
+            "v": "baja",
+            "n": "Vialidad de otra parroquia; no le toca al alcalde de Urcuquí.",
+            "cita": "Mejorar la infraestructura comunitaria y vial de la parroquia.",
+            "pag": 29
+          }
+        ],
+        "social": [
+          {
+            "t": "Promover programas sociales para jóvenes, mujeres y adultos mayores.",
+            "que": "El plan no dice qué programas serán, cuánto costarán ni cuándo empezarán. No dice a cuántas personas llegarían.",
+            "v": "baja",
+            "n": "Programas sociales no son del alcalde y el plan es de otro cantón.",
+            "cita": "Promover programas sociales para jóvenes, mujeres y adultos mayores.",
+            "pag": 29
+          }
+        ],
+        "economia": [
+          {
+            "t": "Gestionar capacitaciones para emprendedores, productores y artesanos.",
+            "que": "El plan no dice cuántas capacitaciones habrá, dónde, cuánto costarán ni quién las dará.",
+            "v": "baja",
+            "n": "Capacitar emprendedores no es del alcalde; el plan es de otro cantón.",
+            "cita": "Gestionar programas de capacitación dirigidos a emprendedores, productores y artesanos.",
+            "pag": 33
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Informar a la ciudadanía sobre la gestión y el avance de los proyectos.",
+            "que": "El plan dice que informará periódicamente, pero no dice con qué frecuencia exacta en el texto de esta propuesta ni qué costo tiene.",
+            "v": "baja",
+            "n": "Rendir cuentas de la junta parroquial; no es del alcalde de Urcuquí.",
+            "cita": "Informar periódicamente a la ciudadanía sobre la gestión realizada y el avance de los proyectos.",
+            "pag": 55
+          }
+        ]
+      },
+      "metas": [
+        "Informe anual a la comunidad sobre el cumplimiento del plan.",
+        "Asambleas comunitarias trimestrales en cada sector de la parroquia.",
+        "Boletines mensuales impresos y digitales con avances de gestión.",
+        "Transparencia digital semanal en redes sociales y página web parroquial."
+      ],
+      "notas": [
+        "Plan de la Junta Parroquial de Natabuela (Antonio Ante), para vocales. No aplica al alcalde de Urcuquí.",
+        "Casi no tiene cifras ni costos: el plan no dice cuánto costará ni cuándo se hará cada acción."
+      ]
+    },
+    {
+      "codFormulario": 11255,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Ideas generales para calles, agua, empleo y participación. Gran parte es diagnóstico copiado del plan de desarrollo del cantón; casi nada dice costos.",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Hacer proyectos de calles en la ciudad y en el campo.",
+            "que": "El plan dice que impulsará proyectos de calles urbanas y rurales. No dice qué calles, cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Las calles son del Municipio. El plan no dice qué calles ni cuándo.",
+            "cita": "Impulsar proyectos estratégicos de infraestructura vial urbana y rural",
+            "pag": 16
+          },
+          {
+            "t": "Exigir que los agentes de tránsito del cantón sean de Urcuquí.",
+            "que": "Se pediría a los cantones del grupo de movilidad del norte. El plan no dice cómo ni en qué plazo.",
+            "v": "media",
+            "n": "Depende de otros cantones. El tránsito sí es del Municipio.",
+            "cita": "exigir que los agentes civiles de transito que laboren en nuestro cantón sean urcuquireños.",
+            "pag": 19
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Crear una empresa municipal de agua potable y alcantarillado.",
+            "que": "El plan propone crearla para todo el cantón. No dice cuánto costará, cómo se pagará ni en qué plazo.",
+            "v": "alta",
+            "n": "Agua y alcantarillado son del Municipio. El plan no dice costo ni plazo.",
+            "cita": "Crear la municipal de agua potable y alcantarillado del Cantón Urcuquí",
+            "pag": 19
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Actualizar todas las ordenanzas del cantón.",
+            "que": "Cambiar reglas locales viejas, por ejemplo el pedido de línea de fábrica. El plan no dice cuánto costará ni en qué plazo.",
+            "v": "alta",
+            "n": "Las ordenanzas son del Municipio. El plan no dice en qué plazo.",
+            "cita": "Actualizar toda la normativa cantonal (ordenanzas). Ej. No puede ser que hasta",
+            "pag": 20
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Dejar de pedir copias de cédula y de papeles que ya están en registros.",
+            "que": "Usar una base de datos municipal para no pedir copias de documentos. El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Son trámites del Municipio. El plan no dice costo ni fecha.",
+            "cita": "tener una base de datos que nos permita no solicitar copias de documentos",
+            "pag": 20
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Crear reglas para prevenir desastres.",
+            "que": "Hacer políticas para prevenir desastres y afrontar el cambio climático. El plan no dice qué reglas ni cuándo.",
+            "v": "alta",
+            "n": "La prevención de desastres es del Municipio. Falta detalle.",
+            "cita": "superar desastres estableciendo políticas de gestión de riesgos",
+            "pag": 4
+          }
+        ],
+        "economia": [
+          {
+            "t": "Crear un centro municipal de capacitación con cursos técnicos.",
+            "que": "Daría certificados de curso y títulos de tercer nivel junto con institutos. El plan no dice costo ni fecha.",
+            "v": "media",
+            "n": "Cursos sí; títulos de tercer nivel son de educación. El plan no dice costo.",
+            "cita": "CREAR UN CENTRO DE CAPACITACION MUNICIPAL (CECMUR) que otorgue certificados de capacitación",
+            "pag": 18
+          }
+        ],
+        "social": [
+          {
+            "t": "Pedir fondos de Japón y del Banco de Desarrollo (BDE) para obras sociales.",
+            "que": "Pedir dinero que no se devuelve para obras e inversión social en comunidades vulnerables. El plan no dice montos ni fechas.",
+            "v": "media",
+            "n": "Depende de Japón y del BDE. El plan no dice cuánto ni cuándo.",
+            "cita": "Gestionar recursos financieros no reembolsables ante la Embajada del Japón, BDE y otros",
+            "pag": 21
+          },
+          {
+            "t": "Hacer permanente el presupuesto participativo y la Asamblea Cantonal.",
+            "que": "Que la gente decida parte del dinero del Municipio y se reúna en asambleas. El plan no dice cuánto ni cuándo.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+            "cita": "institucionalización del Presupuesto Participativo y la Asamblea Cantonal, garantizando la",
+            "pag": 16
+          }
+        ]
+      },
+      "metas": [
+        "Período de administración: 2027-2031."
+      ],
+      "notas": [
+        "Muchas propuestas no dicen cuánto costarán ni cuándo; varias dependen de otros niveles de gobierno o de fondos externos.",
+        "Gran parte es diagnóstico del plan de desarrollo del cantón. Hay temas de salud y educación que no son del Municipio."
+      ]
+    },
+    {
+      "codFormulario": 4687,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Propone agua, catastro, trámites en línea, basura y calles. Mezcla temas de salud, riego y jóvenes que no son de la alcaldía.",
+      "tabla": {
+        "ambiente": [
+          {
+            "t": "Construir y operar una planta de compostaje para residuos orgánicos.",
+            "que": "El plan no dice cuánto costará. Sus etapas van de 2027 a 2031, con operación entre 2029 y 2031.",
+            "v": "alta",
+            "n": "Le toca al Municipio, porque la basura es competencia municipal. Falta el costo.",
+            "cita": "Construcción y operación de una Planta de Compostaje Cantonal",
+            "pag": 6
+          },
+          {
+            "t": "Delimitar y cercar las zonas de recarga de agua en seis lugares.",
+            "que": "Incluye Buenos Aires, Cahuasquí, Pablo Arenas, San Blas, Tumbabiro y Urcuquí. El plan no dice cuánto costará. Se pagaría con fondo ambiental y cooperación internacional.",
+            "v": "media",
+            "n": "Puede hacerlo el Municipio, pero depende de dinero de cooperación internacional.",
+            "cita": "Delimitación y cercado del 100% de zonas de recarga hídrica críticas en Buenos Aires",
+            "pag": 5
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Construir y mejorar redes de agua y alcantarillado en la ciudad y parroquias.",
+            "que": "Incluye plantas para tratar aguas residuales. Se pagaría con un crédito del Banco de Desarrollo del Ecuador y fondos propios. No dice cuánto costará.",
+            "v": "media",
+            "n": "Le toca al Municipio, pero depende de un crédito del Banco de Desarrollo.",
+            "cita": "y optimización de redes de agua segura, alcantarillado y plantas de tratamiento de aguas residuales",
+            "pag": 10
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Actualizar al 100% el catastro de terrenos urbanos y rurales.",
+            "que": "Se haría en 2027 y 2028, con vuelos y sistemas de mapas. Se pagaría con el cobro del impuesto predial. No dice cuánto cuesta.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+            "cita": "al 100% de la base catastral geométrica y multifinalitaria del cantón",
+            "pag": 6
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Pasar a internet el 100% de los trámites municipales de permisos, patentes y uso de suelo.",
+            "que": "Se haría en 2027, con soporte después. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+            "cita": "del 100% de servicios municipales (permisos de construcción, patentes, Uso",
+            "pag": 5
+          },
+          {
+            "t": "Publicar cada cuatro meses el avance de los 15 proyectos en internet.",
+            "que": "La publicación sería en la plataforma de trámites en línea, con contrataciones y uso de fondos. No dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio, es un cambio interno de la alcaldía.",
+            "cita": "se publicará cuatrimestralmente el porcentaje de ejecución de cada uno de los 15 proyectos viables",
+            "pag": 14
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Arreglar con bacheo y asfalto las vías principales de conexión, incluida la vía a Ibarra.",
+            "que": "Incluye mantenimiento programado. Se haría con convenio con la Prefectura de Imbabura (GAD Provincial). No dice cuánto costará.",
+            "v": "media",
+            "n": "Las calles son del Municipio, pero las vías entre parroquias dependen de la Prefectura.",
+            "cita": "Bacheo, asfaltado y mantenimiento programado de las principales arterias de conexión",
+            "pag": 9
+          }
+        ],
+        "economia": [
+          {
+            "t": "Modernizar canales de riego secundarios de las comunidades.",
+            "que": "El plan dice que el riego lo maneja el Gobierno Provincial. No dice cuánto costará ni cuándo.",
+            "v": "baja",
+            "n": "No le toca al Municipio: el riego es competencia de la Prefectura y las juntas de agua.",
+            "cita": "Diseño y mejoramiento físico de la infraestructura hídrica de conducción secundaria de riego",
+            "pag": 7
+          }
+        ],
+        "social": [
+          {
+            "t": "Llevar brigadas médicas a comunidades rurales como Buenos Aires.",
+            "que": "El plan no dice cuánto costará. Lo haría con el Ministerio de Salud.",
+            "v": "baja",
+            "n": "No le toca al Municipio: la salud es del Ministerio de Salud.",
+            "cita": "Despliegue permanente de brigadas médicas en comunidades rurales",
+            "pag": 8
+          }
+        ]
+      },
+      "metas": [
+        "Delimitar y cercar el 100% de las zonas de recarga de agua críticas en seis lugares.",
+        "Actualizar al 100% la base catastral en 2027-2028.",
+        "Pasar al 100% de los servicios municipales a internet en 2027.",
+        "Reducir a cero la tasa de desnutrición crónica infantil."
+      ],
+      "notas": [
+        "El plan no dice cuánto costará ninguna obra. Varias partes dependen de crédito, cooperación o ministerios.",
+        "Varias propuestas (salud, nutrición, riego, jóvenes) no son de la alcaldía. Son del Gobierno o de la Prefectura."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+ "enfoque": "Pide que los vecinos decidan las obras de su sector, vigilar, concursos sin favoritismos y defender derechos. No dice cuánto, cómo ni cuándo.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Dejar que los vecinos decidan qué obras necesita su sector.",
+    "que": "El plan no dice qué obras, dónde ni cuánto costarán. Tampoco dice cuándo.",
+    "v": "media",
+    "n": "Las obras las decide el Municipio. El CPCCS solo puede promover la participación y vigilar.",
+    "cita": "Tienes derecho a decidir qué obras necesita tu sector",
+    "pag": 1
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer concursos con reglas claras y sin favoritismos.",
+    "que": "El plan no dice para qué cargos serán los concursos ni cuándo. Solo habla de reglas claras.",
+    "v": "media",
+    "n": "Los concursos para elegir autoridades sí son del CPCCS; el plan no dice cuáles.",
+    "cita": "Reglas claras y concursos sin favoritismos. Te acompañaré a defender",
+    "pag": 1
+   }
+  ],
+  "social": [
+   {
+    "t": "Acompañar a defender los derechos de tu familia.",
+    "que": "El plan no dice qué derechos ni cómo lo hará. No dice si habrá recursos para eso.",
+    "v": "baja",
+    "n": "Defender derechos le toca a la Defensoría del Pueblo, no al CPCCS.",
+    "cita": "Te acompañaré a defender los derechos de tú familia",
+    "pag": 1
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "Plan muy corto. Casi todo es trayectoria personal y frases generales, sin cifras ni plazos.",
+  "No dice qué obras, qué concursos ni cómo los haría. Es difícil saber qué hará desde el CPCCS."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1
+ ],
+ "paginas": 1
+}

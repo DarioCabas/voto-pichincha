@@ -1,0 +1,1183 @@
+{
+  "canton": "HOMBRES",
+  "candidatos": [
+    {
+      "codFormulario": 603564089,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "El plan solo habla de su trayectoria y de que el CPCCS \"vuelva al pueblo\". No dice qué hará en concreto.",
+      "tabla": {},
+      "metas": [],
+      "notas": [
+        "El plan no tiene propuestas concretas: solo trayectoria y frases generales.",
+        "El plan no dice qué hará el candidato, cómo ni cuándo lo hará."
+      ]
+    },
+    {
+      "codFormulario": 1718279910,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Vigilar la contratación pública y la gestión del Estado con participación ciudadana, y designar autoridades de forma transparente. Sin detalles ni plazos.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Garantizar que las designaciones de autoridades sean transparentes y por méritos",
+            "que": "El plan no dice qué autoridades designará ni con qué proceso.",
+            "v": "alta",
+            "n": "El CPCCS designa autoridades con comisiones ciudadanas.",
+            "cita": "garantizar una designación transparente y meritocrática de autoridades",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan es general: no dice qué contratos revisará, qué autoridades designará, ni plazos ni cifras.",
+        "La parte de trayectoria del candidato no es una propuesta, así que no se incluyó en la tabla."
+      ]
+    },
+    {
+      "codFormulario": 1600817835,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Propone frenar la corrupción y elegir autoridades honestas, con trayectoria limpia. No explica cómo lo haría.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Elegir autoridades honestas, con trayectoria limpia, para frenar la corrupción",
+            "que": "El plan no dice cómo revisará la trayectoria de las autoridades ni cuánto costará. No dice en qué plazo.",
+            "v": "alta",
+            "n": "El CPCCS sí designa autoridades con comisiones. El plan no dice cómo medirá que sean honestas.",
+            "cita": "con una trayectoria limpia, para que nuestro Ecuador avance",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan es muy corto: solo tiene una idea general y no dice cómo frenará la corrupción.",
+        "No tiene cifras, plazos ni costos. Tampoco dice qué cargos quiere elegir."
+      ]
+    },
+    {
+      "codFormulario": 702748153,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Propone más participación ciudadana, acabar con la corrupción y hacer concursos para elegir autoridades. No explica cómo lo hará.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Promover la participación ciudadana.",
+            "que": "El plan no explica qué hará para que la gente participe. El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Es función del CPCCS promover la participación. El plan no dice cómo lo hará.",
+            "cita": "Impulsaré la participación ciudadana, erradicación de la corrupción y",
+            "pag": 1
+          },
+          {
+            "t": "Acabar con la corrupción.",
+            "que": "El plan no explica qué medidas tomará contra la corrupción. El plan no dice cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "El CPCCS investiga la corrupción y pasa los casos a Fiscalía o Contraloría. No sanciona.",
+            "cita": "erradicación de la corrupción y realización de concursos de autoridades ágiles",
+            "pag": 1
+          },
+          {
+            "t": "Hacer concursos para elegir autoridades ágiles y transparentes.",
+            "que": "El plan no explica qué concursos hará ni para qué autoridades. El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "El CPCCS designa autoridades con comisiones. El plan no dice cuándo ni cómo habrá concursos.",
+            "cita": "Impulsaré la participación ciudadana, erradicación de la corrupción y realización de concursos de autoridades ágiles y",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan es de una sola página y no da medidas concretas, costos ni plazos.",
+        "Las frases son de intención general, como 'Mis decisiones en el CPCCS serán las tuyas'. No dicen qué se hará."
+      ]
+    },
+    {
+      "codFormulario": 926828781,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Más control ciudadano y transparencia, y elegir autoridades con mérito. El plan no dice cómo ni cuándo lo hará.",
+      "tabla": {},
+      "metas": [],
+      "notas": [
+        "El plan es muy general: no dice cómo ni cuándo hará lo que propone, ni menciona costos.",
+        "Gran parte del texto habla de su trayectoria personal, no de propuestas concretas."
+      ]
+    },
+    {
+      "codFormulario": 1715479919,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "El plan no tiene propuestas concretas. Solo dice que cuidará los recursos públicos y que actuará con justicia y verdad.",
+      "tabla": {},
+      "metas": [],
+      "notas": [
+        "El plan no tiene propuestas concretas: no dice qué hará, cómo ni dónde.",
+        "No dice cuánto costará ni cuándo. Casi todo el texto habla de su formación y sus valores."
+      ]
+    },
+    {
+      "codFormulario": 1753854114,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Propone convocar concursos de méritos y oposición para elegir autoridades, con transparencia. El plan no dice qué cargos ni cuándo.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Convocar de inmediato concursos de méritos y oposición con transparencia e imparcialidad.",
+            "que": "El plan no dice qué cargos se concursarán, cuántos concursos habrá ni cuánto costará.",
+            "v": "alta",
+            "n": "Elegir autoridades por concurso sí es función del CPCCS, pero el plan no dice cuáles.",
+            "cita": "cursos de méritos y oposición garantizando transparencia e imparcialidad",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan es muy corto: solo tiene una propuesta concreta. Casi todo es presentación personal.",
+        "No dice qué cargos concursará ni cuándo, ni cómo se elegirá a los jurados."
+      ]
+    },
+    {
+      "codFormulario": 1716387053,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Quiere que el CPCCS deje de nombrar autoridades y se enfoque en combatir la corrupción y formar jóvenes en ciudadanía.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Promover el debate de una enmienda para que el CPCCS deje de nombrar autoridades.",
+            "que": "El plan no dice cuándo ni cómo se haría. Una enmienda la aprueba la Asamblea, no el CPCCS.",
+            "v": "media",
+            "n": "Cambiar esa función necesita la Asamblea; el consejero solo promueve el debate.",
+            "cita": "Promoveré el debate de una enmienda que busque que el",
+            "pag": 1
+          },
+          {
+            "t": "Dedicar el CPCCS a combatir la corrupción.",
+            "que": "El plan no dice cómo ni con qué recursos. El CPCCS puede investigar denuncias y pasarlas a Fiscalía o Contraloría.",
+            "v": "alta",
+            "n": "Investigar y pasar denuncias sí es su función; castigar no.",
+            "cita": "la corrupción y a la formación ciudadana de los jóvenes del país.",
+            "pag": 1
+          }
+        ],
+        "social": [
+          {
+            "t": "Dar formación ciudadana a los jóvenes del país.",
+            "que": "El plan no dice cómo, dónde ni a cuántos jóvenes. Promover la participación ciudadana sí es función del CPCCS.",
+            "v": "media",
+            "n": "Es promover participación, no educación formal; el plan no da detalles.",
+            "cita": "a la formación ciudadana de los jóvenes del país",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan no dice cuánto costará ni en qué plazo. Es un solo párrafo, sin cifras ni pasos concretos.",
+        "Dejar de nombrar autoridades depende de una enmienda que aprueba la Asamblea, no del consejero."
+      ]
+    },
+    {
+      "codFormulario": 1719520882,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Pide veedurías con acceso a información, protección a quien denuncia corrupción y rendición de cuentas. No dice cómo lo hará.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Crear veedurías con acceso real a la información.",
+            "que": "El plan no dice a qué información tendrán acceso ni cómo se logrará. No dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Vigilar y pedir información sí es función del CPCCS, pero el plan no dice cómo.",
+            "cita": "Que tu voz no sea un trámite. Veedurías con acceso real a la",
+            "pag": 1
+          },
+          {
+            "t": "Proteger a quienes denuncian corrupción.",
+            "que": "El plan no dice qué protección dará ni quién la dará. No dice cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "Proteger denunciantes le toca a Fiscalía y jueces; el CPCCS solo puede investigar y pasar denuncias.",
+            "cita": "información, protección a quien denuncia corrupción y una",
+            "pag": 1
+          },
+          {
+            "t": "Exigir una rendición de cuentas que sí se cumpla.",
+            "que": "El plan no dice qué pasará si no se cumple ni cuándo. No dice cuánto costará.",
+            "v": "media",
+            "n": "Pedir cuentas sí es función del CPCCS; hacerlas cumplir con sanciones le toca a otras instituciones.",
+            "cita": "Veedurías con acceso real a la información, protección a quien denuncia corrupción y una rendición de cuentas que sí se cumpla.",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan es muy corto: no tiene cifras, plazos ni pasos concretos.",
+        "Las propuestas son generales. No dice cómo se hará ni cuánto costará."
+      ]
+    },
+    {
+      "codFormulario": 1715517148,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "El plan no tiene propuestas concretas. Solo dice que será un Consejo moderno, transparente y cercano, y cuenta su experiencia.",
+      "tabla": {},
+      "metas": [],
+      "notas": [
+        "El plan no dice qué hará en concreto como consejero. Solo tiene frases generales y datos de su experiencia.",
+        "Sin propuestas, no hay costos ni plazos. Revise otros planes o pregunte directamente al candidato."
+      ]
+    },
+    {
+      "codFormulario": 1703704286,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Pide cambiar o eliminar el Consejo de Participación, elegir a los mejores y perseguir la corrupción. No explica cómo.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Cambiar o hacer desaparecer el Consejo de Participación.",
+            "que": "El plan no dice qué cambio propone ni cuándo. Dice que el Consejo debe ser transparente, sin explicar cómo.",
+            "v": "media",
+            "n": "Cambiarlo requiere reformar la Constitución. Un consejero solo no puede hacerlo.",
+            "cita": "El Consejo de Participación cambia o desaparece. Debe ser",
+            "pag": 1
+          },
+          {
+            "t": "Elegir a \"los mejores\" para los cargos que designa el Consejo.",
+            "que": "El plan no dice cómo se medirá quién es el mejor ni en qué cargos.",
+            "v": "alta",
+            "n": "Designar con comisiones es función del Consejo. Falta el método.",
+            "cita": "transparente. Deben ser elegidos los mejores. Perseguir la",
+            "pag": 1
+          },
+          {
+            "t": "Perseguir la corrupción.",
+            "que": "El plan no dice cómo lo hará ni con qué recursos. Tampoco dice qué pasará con los casos.",
+            "v": "alta",
+            "n": "El Consejo puede investigar y pasar casos a Fiscalía o Contraloría. No castiga.",
+            "cita": "corrupción. Nada por debajo de la mesa. ¡NADA!",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "Casi no tiene propuestas concretas: son frases generales y datos de trayectoria del candidato.",
+        "No dice costos, plazos ni cómo cumplirá cada punto."
+      ]
+    },
+    {
+      "codFormulario": 918726480,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Propone control social con alertas ciudadanas digitales, vigilancia colaborativa y datos abiertos. No dice cómo funcionarán ni con qué recursos.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Crear alertas ciudadanas digitales para el control social.",
+            "que": "El plan no dice qué alertas serán, cómo funcionarán, cuánto costarán ni cuándo estarán listas.",
+            "v": "alta",
+            "n": "Recibir denuncias y vigilar es función del CPCCS.",
+            "cita": "Impulsare un control social innovador, con alertas ciudadanas digitales, vigilancia colaborativa y datos abiertos para transformar la participación en poder ciudadano.",
+            "pag": 1
+          },
+          {
+            "t": "Organizar vigilancia colaborativa entre ciudadanos.",
+            "que": "El plan no dice cómo se organizará la vigilancia, quiénes participarán, cuánto costará ni cuándo empezará.",
+            "v": "alta",
+            "n": "Las veedurías ciudadanas son función del CPCCS.",
+            "cita": "vigilancia colaborativa y datos abiertos para transformar la participación en poder ciudadano",
+            "pag": 1
+          },
+          {
+            "t": "Usar datos abiertos para el control social.",
+            "que": "El plan no dice qué datos se publicarán, quién los entregará ni cuándo.",
+            "v": "media",
+            "n": "Depende de que otras instituciones publiquen la información.",
+            "cita": "vigilancia colaborativa y datos abiertos para transformar la participación en poder ciudadano",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan es una sola frase con ideas generales. No dice cómo, dónde ni con qué dinero hará nada.",
+        "No tiene plazos, costos ni metas. Tampoco explica quién hace qué."
+      ]
+    },
+    {
+      "codFormulario": 1717151581,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Más control ciudadano: vigilar cómo se designan autoridades y promover veedurías y rendición de cuentas. El plan es muy breve y sin detalles.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Vigilar que la designación de autoridades sea transparente y honesta.",
+            "que": "El plan dice que buscará transparencia, prolijidad y probidad al designar autoridades. No dice qué cargos ni cómo lo hará.",
+            "v": "alta",
+            "n": "Es función del CPCCS, pero el plan no dice qué cargos ni con qué pasos.",
+            "cita": "Impulsaré transparencia, prolijidad y probidad en la desig-nación de autoridades",
+            "pag": 1
+          },
+          {
+            "t": "Promover veedurías y rendición de cuentas, con acceso a información pública.",
+            "que": "El plan dice que dará seguimiento y acceso a la información pública. No dice cuántas veedurías hará ni en qué plazo.",
+            "v": "alta",
+            "n": "Es función del CPCCS. El plan no dice cuántas veedurías ni en qué temas.",
+            "cita": "promoveré veedurías y rendición de cuentas con seguimiento y acceso a información pública",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan es muy corto: no dice qué cargos vigilará ni qué hará en concreto.",
+        "No dice costos, plazos ni metas. Tampoco dice cómo se harán las veedurías."
+      ]
+    },
+    {
+      "codFormulario": 1309562898,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Poner todo el CPCCS en línea, hacer participación ciudadana en 24 provincias y elegir autoridades por méritos. Sin detalles de cómo.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Poner todo el CPCCS en línea, con datos que cualquiera pueda revisar.",
+            "que": "El plan no dice qué datos publicará, cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Rendir cuentas es función del CPCCS; el plan no da detalles.",
+            "cita": "Gobierno de datos abiertos: todo el CPCCS en línea.",
+            "pag": 1
+          },
+          {
+            "t": "Elegir a las autoridades por méritos, con un sistema legal y tecnológico transparente.",
+            "que": "El plan no dice qué sistema usará, cómo medirá los méritos ni cuándo.",
+            "v": "alta",
+            "n": "El CPCCS designa autoridades con comisiones ciudadanas; el plan no explica cómo.",
+            "cita": "Autoridades elegidas por méritos con un sistema legal y tecnológico transparente.",
+            "pag": 1
+          }
+        ],
+        "social": [
+          {
+            "t": "Hacer participación ciudadana en las 24 provincias del país.",
+            "que": "El plan no dice qué actividades hará, cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Promover la participación es función del CPCCS; el plan no dice cómo.",
+            "cita": "Participación ciudadana en 24 provincias. Autoridades elegidas por méritos con un sistema legal y tecnológico transparente.",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [
+        "Participación ciudadana en 24 provincias."
+      ],
+      "notas": [
+        "El plan es muy corto: tres ideas generales. No dice costos, plazos ni cómo las hará.",
+        "Casi todo el texto es trayectoria personal, no propuestas concretas."
+      ]
+    },
+    {
+      "codFormulario": 201781978,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "El plan solo tiene frases generales: quiere concursos por méritos y control social y lucha contra la corrupción \"reales\". No dice qué hará ni cómo.",
+      "tabla": {},
+      "metas": [],
+      "notas": [
+        "El plan no tiene propuestas concretas: solo frases generales como \"Vamos Juntos\" o \"tu voz se escuche\".",
+        "No dice qué hará para los concursos por méritos ni para el control social, ni cuánto costará o en qué plazo."
+      ]
+    },
+    {
+      "codFormulario": 1720943768,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Más transparencia al elegir autoridades, más denuncias de corrupción y reserva para quienes denuncien.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Vigilar que los procesos para elegir autoridades sean transparentes.",
+            "que": "El plan no dice qué cambios hará ni en qué plazo.",
+            "v": "alta",
+            "n": "Es función del CPCCS: designar con comisiones y hacer veedurías.",
+            "cita": "Impulsaré la transparencia en los procesos de designación de autoridades y fomentaré las denuncias de corrupción",
+            "pag": 1
+          },
+          {
+            "t": "Promover que la gente haga denuncias de corrupción.",
+            "que": "El plan no dice cómo lo hará ni cuántas denuncias espera recibir.",
+            "v": "alta",
+            "n": "Es función del CPCCS: investigar denuncias y pasarlas a Fiscalía o Contraloría.",
+            "cita": "fomentaré las denuncias de corrupción, velando por la reserva y protección de los denunciantes",
+            "pag": 1
+          },
+          {
+            "t": "Guardar en secreto la identidad de quienes denuncien corrupción.",
+            "que": "El plan no dice cómo lo hará ni con qué medios. No dice cuánto costará.",
+            "v": "media",
+            "n": "Proteger a denunciantes le toca sobre todo a la Fiscalía; el CPCCS solo guarda reserva.",
+            "cita": "velando por la reserva y protección de los denunciantes",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan es muy corto: no dice cómo ni cuándo hará cada cosa, ni cuánto costará. No trae metas ni cifras."
+      ]
+    },
+    {
+      "codFormulario": 102664075,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Crear veedurías y observatorios en salud y educación, y vigilar presupuestos, rendición de cuentas y designación de autoridades.",
+      "tabla": {
+        "social": [
+          {
+            "t": "Crear observatorios y veedurías en salud y educación.",
+            "que": "El plan no dice qué revisarán, cuánto costará ni en qué plazo.",
+            "v": "alta",
+            "n": "Vigilar es tarea del Consejo. El plan no dice qué vigilarán ni cómo.",
+            "cita": "Juntos activaremos observatorios y veedurías en salud, educación",
+            "pag": 1
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Crear veedurías sobre presupuestos participativos.",
+            "que": "El plan no dice cómo funcionarán ni cuándo empezarán.",
+            "v": "alta",
+            "n": "Las veedurías son tarea del Consejo. El plan no da más detalles.",
+            "cita": "veedurías en salud, educación, presupuestos participativos, rendición de cuentas",
+            "pag": 1
+          },
+          {
+            "t": "Vigilar la rendición de cuentas de las autoridades.",
+            "que": "El plan no dice qué autoridades ni con qué medios.",
+            "v": "alta",
+            "n": "Rendición de cuentas y control son funciones del Consejo.",
+            "cita": "presupuestos participativos, rendición de cuentas y designación transparente de autoridades",
+            "pag": 1
+          },
+          {
+            "t": "Vigilar que la designación de autoridades anticorrupción sea transparente.",
+            "que": "El plan no dice qué cargos ni cómo se hará la designación.",
+            "v": "alta",
+            "n": "El Consejo sí participa en designaciones con comisiones ciudadanas.",
+            "cita": "rendición de cuentas y designación transparente de autoridades anticorrupción",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan es muy corto: una sola frase de propuesta, sin costos, plazos ni detalles de cómo se hará.",
+        "La parte de trayectoria no es una propuesta. El plan no dice qué cambios concretos propone para salud o educación."
+      ]
+    },
+    {
+      "codFormulario": 916676620,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Propone hacer fiscalización ciudadana con auditorías técnicas y herramientas digitales de transparencia. El plan no explica cómo ni dónde.",
+      "tabla": {
+        "otros": [
+          {
+            "t": "Hacer auditorías técnicas para la fiscalización ciudadana.",
+            "que": "El plan no dice qué entidades auditará, cuánto costará ni en qué plazo.",
+            "v": "alta",
+            "n": "Vigilar y auditar con la ciudadanía es función de las veedurías del CPCCS.",
+            "cita": "Optimizaré la fiscalización ciudadana mediante auditorías técnicas, promoviendo herramientas digitales",
+            "pag": 1
+          },
+          {
+            "t": "Promover herramientas digitales para la transparencia.",
+            "que": "El plan no dice qué herramientas serán ni cuánto costarán. Tampoco dice quién las creará.",
+            "v": "media",
+            "n": "Depende de otras instituciones para crearlas; el plan no lo detalla.",
+            "cita": "auditorías técnicas, promoviendo herramientas digitales que garanticen la transparencia",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "Plan muy corto: solo dos propuestas concretas. El resto son frases generales como \"lucha anticorrupción\".",
+        "El plan no dice costos, plazos ni qué entidades revisará."
+      ]
+    },
+    {
+      "codFormulario": 1719897090,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "El plan no tiene propuestas concretas. Solo dice que buscará designaciones transparentes y que las autoridades rindan cuentas.",
+      "tabla": {},
+      "metas": [],
+      "notas": [
+        "El plan no dice qué hará en concreto, ni cómo, ni en qué plazo.",
+        "Solo tiene frases generales. No dice cuánto costará ni de dónde saldría el dinero."
+      ]
+    },
+    {
+      "codFormulario": 1200225090,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Propone capacitar y organizar a la ciudadanía, hacer veedurías sociales sobre la gestión pública y designar autoridades con rapidez y transparencia.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Hacer veedurías sociales para vigilar la gestión pública.",
+            "que": "El plan no dice qué instituciones vigilará, cuánto costará ni en qué plazo.",
+            "v": "alta",
+            "n": "Vigilar y pedir cuentas es función del CPCCS.",
+            "cita": "Impulsaré la veeduría social para transparentar la gestión pública.",
+            "pag": 1
+          },
+          {
+            "t": "Designar autoridades con rapidez y transparencia.",
+            "que": "El plan no dice qué autoridades designará ni en qué plazo.",
+            "v": "alta",
+            "n": "Designar autoridades es función del CPCCS con comisiones ciudadanas.",
+            "cita": "transparentar la gestión pública. Designaré autoridades con celeridad y transparencia.",
+            "pag": 1
+          }
+        ],
+        "social": [
+          {
+            "t": "Capacitar y organizar a la gente para crear el Poder Ciudadano.",
+            "que": "El plan no dice a quién capacitará, cuántas personas participarán ni cuándo.",
+            "v": "alta",
+            "n": "Promover la participación ciudadana es función del CPCCS; el plan no dice cómo.",
+            "cita": "Construiremos el Poder Ciudadano capacitando y organizando. Impulsaré la veeduría social",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan es muy corto. No dice costos, plazos ni a quién beneficia cada propuesta.",
+        "Gran parte del texto es la trayectoria del candidato. Las propuestas son frases generales, sin cifras."
+      ]
+    },
+    {
+      "codFormulario": 1720147634,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Pide más veedurías ciudadanas para vigilar obras públicas, prevenir la corrupción y promover control social al elegir autoridades. No dice cómo lo hará.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Vigilar obras públicas con veedurías ciudadanas",
+            "que": "El plan no dice qué obras, en qué lugares ni con qué dinero. No dice cuánto costará ni en qué plazo.",
+            "v": "alta",
+            "n": "Las veedurías son una función del CPCCS, pero el plan no dice qué obras se vigilarán.",
+            "cita": "Fortalecer las veedurías para vigilar obras públicas, prevenir la corrupción y",
+            "pag": 1
+          },
+          {
+            "t": "Promover el control social para elegir autoridades",
+            "que": "El plan no dice cómo se hará ni en qué procesos de selección participará la gente.",
+            "v": "alta",
+            "n": "Promover la participación y el control social es una función del CPCCS.",
+            "cita": "promover el control social para la selección de autoridades",
+            "pag": 1
+          },
+          {
+            "t": "Prevenir la corrupción",
+            "que": "El plan no dice cómo prevendrá la corrupción ni qué acciones concretas tomará.",
+            "v": "media",
+            "n": "El CPCCS puede investigar denuncias y pasarlas a Fiscalía o Contraloría, pero no castiga.",
+            "cita": "vigilar obras públicas, prevenir la corrupción y promover el control social",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan es muy corto y general: no dice qué obras vigilará ni cómo.",
+        "No tiene costos, plazos ni metas medibles."
+      ]
+    },
+    {
+      "codFormulario": 1718813650,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Promete hacer cumplir la Constitución y los plazos, y designar autoridades independientes, probas e íntegras. No dice cómo.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Designar autoridades independientes, probas e íntegras.",
+            "que": "El plan dice que designará autoridades así, pero no dice cuáles ni en qué plazo. No dice cómo elegirá a las personas.",
+            "v": "alta",
+            "n": "Designar autoridades es tarea del Consejo, junto con comisiones ciudadanas.",
+            "cita": "haré cumplir la Constitución y los plazos, designaré autoridades independientes, probas e íntegras",
+            "pag": 1
+          },
+          {
+            "t": "Hacer cumplir la Constitución y los plazos.",
+            "que": "El plan no dice qué plazos ni qué autoridades. No dice cómo lo hará.",
+            "v": "media",
+            "n": "Depende de otras instituciones que deben cumplir los plazos.",
+            "cita": "Ecuador necesita autoridades legítimas: haré cumplir la Constitución y los plazos",
+            "pag": 1
+          },
+          {
+            "t": "Terminar con las prórrogas eternas de los plazos.",
+            "que": "El plan no dice qué prórrogas ni cómo se evitarían. No dice cuánto tiempo durarían los plazos.",
+            "v": "media",
+            "n": "Evitar prórrogas puede exigir cambios de reglas o de otras instituciones.",
+            "cita": "designaré autoridades independientes, probas e íntegras. ¡No más prórrogas eternas!",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan es muy corto: no dice cuánto costará, qué cargos designará ni en qué plazos.",
+        "Casi todo son frases generales; hay pocas propuestas concretas."
+      ]
+    },
+    {
+      "codFormulario": 1723793160,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "El plan solo dice que quiere renovar el Consejo y vigilar, sin explicar qué hará ni cómo.",
+      "tabla": {},
+      "metas": [],
+      "notas": [
+        "El plan no tiene propuestas concretas. Habla de renovación y de vigilar, pero no dice qué revisará ni cómo.",
+        "No trae costos, plazos ni metas. Tampoco dice qué temas o denuncias seguirá."
+      ]
+    },
+    {
+      "codFormulario": 1709982076,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan muy corto y sin acciones concretas. Dice que exigirá transparencia, control y justicia en el Estado, pero no explica cómo.",
+      "tabla": {},
+      "metas": [],
+      "notas": [
+        "El plan no tiene propuestas concretas. Solo tiene su trayectoria y frases generales de compromiso.",
+        "El plan no dice qué investigará, en qué instituciones ni en qué plazo. Tampoco dice cómo lo hará."
+      ]
+    },
+    {
+      "codFormulario": 1803655305,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Cambiar las normas del Consejo de Participación (CPCCS), combatir la corrupción y designar autoridades a tiempo. El plan no dice cómo lo hará.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Hacer una reforma general de las leyes que rigen el Consejo de Participación.",
+            "que": "El plan dice que hará una reforma normativa integral del Consejo. No dice qué leyes cambiaría, cuánto costará ni en qué plazo.",
+            "v": "media",
+            "n": "Las leyes las aprueba la Asamblea. El plan no dice qué cambiaría.",
+            "cita": "Reinstitucionalizar el CPCCS para defender la democracia mediante una reforma normativa integral",
+            "pag": 1
+          },
+          {
+            "t": "Investigar denuncias de corrupción y pasarlas a la Fiscalía o a la Contraloría.",
+            "que": "El plan habla de lucha contra la corrupción. No dice cómo lo hará, con qué equipo ni en qué plazo.",
+            "v": "alta",
+            "n": "Es una tarea del Consejo. El plan no dice cómo ni con qué recursos.",
+            "cita": "lucha contra la corrupción y designación oportuna y transparente de autoridades",
+            "pag": 1
+          },
+          {
+            "t": "Designar a las autoridades a tiempo y de forma transparente.",
+            "que": "El plan dice que las designaciones serán oportunas y transparentes. No dice qué cargos ni en qué fechas.",
+            "v": "alta",
+            "n": "Designar autoridades es una función del Consejo. El plan no dice qué cargos ni cuándo.",
+            "cita": "lucha contra la corrupción y designación oportuna y transparente de autoridades",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan es muy corto: no dice qué leyes cambiaría, cómo ni en qué plazo.",
+        "No trae costos, metas, cifras ni fechas. Solo tiene una frase de propuesta."
+      ]
+    },
+    {
+      "codFormulario": 250063864,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Formar a la gente en sus derechos de participación, pedir transparencia y vigilar la gestión pública. No dice cómo ni dónde.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Dar formación para que más personas conozcan sus derechos de participación.",
+            "que": "El plan dice que se hará formación para que más personas conozcan sus derechos. No dice cómo, dónde ni cuánto costará.",
+            "v": "alta",
+            "n": "Promover la participación es función del CPCCS. El plan no dice cómo ni cuándo.",
+            "cita": "Promover la formación y el empoderamiento ciudadano para que más personas conozcan y ejerzan sus derechos de participación",
+            "pag": 1
+          },
+          {
+            "t": "Promover que la gente pida transparencia en la gestión pública.",
+            "que": "El plan busca que la gente exija transparencia. No dice qué información pedirá ni a qué instituciones, ni en qué plazo.",
+            "v": "alta",
+            "n": "Pedir rendición de cuentas es función del CPCCS. El plan no dice cómo lo hará.",
+            "cita": "para que más personas conozcan y ejerzan sus derechos de participación, exijan transparencia y vigilen la gestión pública",
+            "pag": 1
+          },
+          {
+            "t": "Capacitar a la gente para vigilar la gestión pública.",
+            "que": "El plan busca que la gente vigile la gestión pública. No dice cómo lo hará ni qué plazo tiene.",
+            "v": "alta",
+            "n": "Las veedurías son función del CPCCS. El plan no dice cómo ni cuándo.",
+            "cita": "Promover la formación y el empoderamiento ciudadano para que más personas conozcan y ejerzan sus derechos de participación, exijan transparencia y vigilen la gestión pública",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan es una sola frase general: no dice cómo, dónde ni cuándo se hará la formación.",
+        "No tiene costos, metas ni plazos. Solo describe la intención."
+      ]
+    },
+    {
+      "codFormulario": 602315053,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Propone más participación ciudadana: una escuela ciudadana, observatorios por temas y control social en los territorios. No explica cómo lo hará.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Crear una escuela ciudadana para la participación.",
+            "que": "El plan no dice dónde funcionará, cuánto costará ni cuándo empieza.",
+            "v": "alta",
+            "n": "Formar personas en participación es parte del trabajo del CPCCS.",
+            "cita": "Democratizar la participación: escuela ciudadana, fortalecimiento organizacional, observatorios itinerantes temáticos, corresponsabilidad democrática, control social territorial.",
+            "pag": 1
+          },
+          {
+            "t": "Hacer observatorios itinerantes por temas.",
+            "que": "El plan no dice qué temas, en qué lugares ni cuánto costará.",
+            "v": "alta",
+            "n": "Seguir de cerca temas públicos es una función del CPCCS.",
+            "cita": "Democratizar la participación: escuela ciudadana, fortalecimiento organizacional, observatorios itinerantes temáticos, corresponsabilidad democrática, control social territorial.",
+            "pag": 1
+          },
+          {
+            "t": "Hacer control social en los territorios.",
+            "que": "El plan no dice en qué territorios ni cómo se hará.",
+            "v": "alta",
+            "n": "Las veedurías y el control social son funciones del CPCCS.",
+            "cita": "Democratizar la participación: escuela ciudadana, fortalecimiento organizacional, observatorios itinerantes temáticos, corresponsabilidad democrática, control social territorial.",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan es muy corto: una sola frase con propuestas, sin lugares, costos ni plazos.",
+        "La parte de trayectoria del candidato no es una propuesta y no se resume aquí."
+      ]
+    },
+    {
+      "codFormulario": 502283971,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Combatir la corrupción con designaciones, investigaciones, capacitación y veedurías ciudadanas. No dice cómo ni cuándo.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Participar en procesos de designación de autoridades",
+            "que": "El plan no dice qué cargos designará ni en qué plazo. Solo habla de \"procesos de designación\".",
+            "v": "alta",
+            "n": "Designar autoridades es función del CPCCS. Falta saber cuáles.",
+            "cita": "recuperar la institucionalidad mediante acciones y procesos de designación",
+            "pag": 1
+          },
+          {
+            "t": "Investigar denuncias de corrupción",
+            "que": "El plan no dice qué denuncias investigará, dónde ni en qué plazo.",
+            "v": "alta",
+            "n": "Investigar y pasar los informes a Fiscalía o Contraloría sí es función del CPCCS.",
+            "cita": "procesos de designación, investigación, capacitación y veedurías ciudadanas",
+            "pag": 1
+          }
+        ],
+        "social": [
+          {
+            "t": "Crear veedurías ciudadanas, grupos de vecinos que vigilan a las instituciones",
+            "que": "El plan no dice dónde ni cuántas veedurías se crearán, ni qué vigilarán.",
+            "v": "alta",
+            "n": "Promover veedurías es función del CPCCS. Falta el detalle.",
+            "cita": "mediante acciones y procesos de designación, investigación, capacitación y veedurías ciudadanas",
+            "pag": 1
+          },
+          {
+            "t": "Dar capacitación sobre corrupción",
+            "que": "El plan no dice a quién capacitará, sobre qué temas ni cuándo.",
+            "v": "media",
+            "n": "Podría caber en promover la participación, pero el plan no lo explica.",
+            "cita": "mediante acciones y procesos de designación, investigación, capacitación y veedurías ciudadanas",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan no tiene cifras, plazos ni costos.",
+        "Propuesta muy general: frases de campaña sin detalle de qué hará el candidato."
+      ]
+    },
+    {
+      "codFormulario": 923594378,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Propone una aplicación del CPCCS, designaciones transparentes, apoyo ciudadano ante el Estado y políticas contra la corrupción. No da detalles.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Hacer designaciones transparentes",
+            "que": "El plan no dice qué cargos ni cómo se harán las designaciones. No dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Designar autoridades es una función del CPCCS, con comisiones ciudadanas.",
+            "cita": "designaciones transparentes, apoyo ciudadano ante el Estado y",
+            "pag": 1
+          },
+          {
+            "t": "Crear políticas públicas contra la corrupción",
+            "que": "El plan no dice qué políticas ni cómo se harán. No dice cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "Las leyes y políticas las hacen la Asamblea o el Gobierno, no el CPCCS.",
+            "cita": "y políticas públicas firmes para prevenir y combatir la corrupción",
+            "pag": 1
+          }
+        ],
+        "otros": [
+          {
+            "t": "Crear una aplicación móvil del CPCCS",
+            "que": "El plan no dice qué hará la aplicación ni cuánto costará. No dice cuándo estará lista.",
+            "v": "media",
+            "n": "Podría ayudar a la participación, pero el plan no explica cómo se pagará.",
+            "cita": "Impulsaré una aplicación móvil del CPCCS, designaciones transparentes",
+            "pag": 1
+          },
+          {
+            "t": "Dar apoyo a los ciudadanos ante el Estado",
+            "que": "El plan no dice en qué casos ni cómo se dará el apoyo. No dice cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "Recibir denuncias y pasarlas a otras instituciones sí es función del CPCCS, pero el plan no lo aclara.",
+            "cita": "apoyo ciudadano ante el Estado y políticas públicas firmes",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan es muy corto y no tiene cifras, plazos ni costos.",
+        "Las propuestas son generales. Conviene pedir detalles al candidato antes de decidir."
+      ]
+    },
+    {
+      "codFormulario": 915521363,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Seguir con cursos de formación ciudadana y nuevas diplomaturas para jóvenes, gremios y organizaciones sociales.",
+      "tabla": {
+        "social": [
+          {
+            "t": "Dar nuevas diplomaturas de formación ciudadana para jóvenes, gremios y organizaciones sociales",
+            "que": "El plan no dice cuántas diplomaturas habrá, dónde se darán, cuánto costarán ni cuándo.",
+            "v": "alta",
+            "n": "Promover la participación ciudadana es función del CPCCS. Falta saber cuánto costará y cuándo.",
+            "cita": "Propongo continuar con los procesos de formación ciudadana, con nuevas diplomaturas para jóvenes, gremios y organizaciones sociales",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan es muy corto. Casi todo el texto habla de su trabajo pasado, no de propuestas nuevas.",
+        "El plan no dice cuántas personas se formarán, dónde ni cuánto costará."
+      ]
+    },
+    {
+      "codFormulario": 1501191116,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Concursos por méritos, en línea y sin política para elegir altas autoridades, y veedurías ciudadanas para vigilar procesos de fiscalización.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Hacer concursos por méritos, en línea, para elegir altas autoridades.",
+            "que": "El plan dice que los concursos serán 100% digitales, que se podrán revisar y que se harán a tiempo, para evitar la politización. El plan no dice qué cargos son ni cuándo empiezan.",
+            "v": "alta",
+            "n": "Elegir altas autoridades es función del CPCCS. El plan no dice cuáles cargos.",
+            "cita": "digitales, auditables y a tiempo, evitando la politización.",
+            "pag": 1
+          },
+          {
+            "t": "Hacer veedurías ciudadanas efectivas para vigilar los procesos de fiscalización.",
+            "que": "El plan no dice dónde ni cómo se harán las veedurías, ni cuánto costarán ni cuándo empiezan.",
+            "v": "alta",
+            "n": "Las veedurías son función del CPCCS. El plan no dice cómo las hará.",
+            "cita": "Veedurías ciudadanas efectivas para los procesos de fiscalización.",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan es muy corto: solo dos propuestas, sin detalles de cómo ni dónde se harán.",
+        "El plan no dice cuánto costará ni de dónde saldrá el dinero, ni plazos concretos."
+      ]
+    },
+    {
+      "codFormulario": 1802641595,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Frases generales: elegir autoridades por mérito, participación ciudadana y frenar interferencias. No dice qué hará en concreto.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Designar autoridades por mérito e integridad.",
+            "que": "El plan no dice qué autoridades ni cómo medirá el mérito. No dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Es función del CPCCS, pero el plan no dice qué cargos ni cómo.",
+            "cita": "Pasemos de la ineficiencia a la acción, autoridades",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan no tiene propuestas concretas: casi todo son frases generales, sin cifras ni plazos.",
+        "Sin costos ni plazos. Lo que aparece como trayectoria no es una propuesta."
+      ]
+    },
+    {
+      "codFormulario": 909518177,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan muy general: dice que luchará contra la corrupción y que promoverá la participación ciudadana con reformas, sin acciones concretas.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Luchar contra la corrupción, sin decir con qué acciones.",
+            "que": "El plan dice que lo hará \"gestionando los recursos\", pero no explica qué significa. No dice cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "Investigar denuncias sí le toca al CPCCS, pero el plan no dice qué hará.",
+            "cita": "Lucharé contra la corrupción gestionando los recursos para cumplir esta función.",
+            "pag": 1
+          },
+          {
+            "t": "Promover la participación ciudadana con reformas que no detalla.",
+            "que": "El plan no dice qué reformas propone ni cuándo. No dice cuánto costará.",
+            "v": "media",
+            "n": "Promover participación sí le toca; las reformas las aprueba la Asamblea.",
+            "cita": "Fortaleceré la participación ciudadana impulsando reformas que logren cumplir este objetivo.",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan no tiene acciones concretas, costos ni plazos. Solo dice qué quiere lograr.",
+        "Las reformas que menciona dependen de la Asamblea, no solo del CPCCS."
+      ]
+    },
+    {
+      "codFormulario": 1715579825,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan muy corto: hacer nuevas veedurías ciudadanas, revisar concursos públicos que considera fraudulentos y cambiar a autoridades electorales que ya cumplieron su tiempo.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Hacer nuevas veedurías ciudadanas.",
+            "que": "El plan no dice dónde ni cuántas veedurías hará, ni cuánto costarán ni cuándo.",
+            "v": "alta",
+            "n": "Vigilar es función del CPCCS. El plan no dice cuántas ni dónde.",
+            "cita": "Impulsaré nuevas veedurías ciudadanas. Revisaré los concursos públicos fraudulentos y renovaré a las",
+            "pag": 1
+          },
+          {
+            "t": "Revisar concursos públicos que considera fraudulentos.",
+            "que": "El plan no dice qué concursos revisará, ni cuándo, ni cómo lo hará.",
+            "v": "alta",
+            "n": "Investigar denuncias y pasar informes a Fiscalía o Contraloría sí es función del CPCCS.",
+            "cita": "Revisaré los concursos públicos fraudulentos y renovaré a las",
+            "pag": 1
+          },
+          {
+            "t": "Cambiar a las autoridades electorales que ya cumplieron su tiempo.",
+            "que": "El plan no dice qué cargos son, ni cuándo, ni cómo se elegirían los reemplazos.",
+            "v": "alta",
+            "n": "El CPCCS designa a miembros del CNE, pero el plan no dice cómo.",
+            "cita": "renovaré a las autoridades electorales que ya cumplieron su tiempo",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan no tiene cifras, plazos ni costos. Dice pocas cosas concretas.",
+        "Casi todo lo que propone depende de los procesos del CPCCS, no de obras ni de leyes."
+      ]
+    },
+    {
+      "codFormulario": 1720273745,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Propone concursos por méritos para elegir personal, control social con resultados y participación ciudadana. No dice cómo ni dónde lo hará.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Hacer concursos públicos por méritos, con procesos en línea y en los que se pueda seguir cada paso.",
+            "que": "El plan no dice para qué cargos ni en qué instituciones. No dice cuánto costará ni cuándo empezará.",
+            "v": "media",
+            "n": "Los concursos los hace cada institución. El CPCCS solo puede hacerlos para ciertos cargos.",
+            "cita": "Propongo concursos públicos meritocráticos, tecnológicos y trazables. Control social con resultados.",
+            "pag": 1
+          },
+          {
+            "t": "Revisar el trabajo de las instituciones y mostrar los resultados al público.",
+            "que": "El plan no dice qué instituciones revisará ni cómo mostrará los resultados. No dice plazos.",
+            "v": "alta",
+            "n": "Es una función del CPCCS, pero el plan no dice qué revisará ni cómo.",
+            "cita": "Control social con resultados. Participación ciudadana inclusiva. Reestructura Institucional proactiva.",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan son frases generales. No dice qué hará en concreto, ni cuánto costará, ni en qué plazo."
+      ]
+    },
+    {
+      "codFormulario": 501530455,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Responder cada denuncia de corrupción, hacer vigilancia ciudadana del dinero público y elegir a las máximas autoridades por méritos.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Hacer veedurías, es decir, vigilancia ciudadana, del uso del dinero público.",
+            "que": "El plan no dice dónde, cuánto costará ni en qué plazo se harán las veedurías.",
+            "v": "alta",
+            "n": "Es función del CPCCS. El plan no dice dónde ni cómo se harán.",
+            "cita": "impulsar veedurías al dinero público y elegir a las máximas autoridades por méritos",
+            "pag": 1
+          },
+          {
+            "t": "Elegir a las máximas autoridades por méritos.",
+            "que": "El plan no dice qué cargos ni qué méritos se usarán para elegirlos.",
+            "v": "alta",
+            "n": "Es función del CPCCS con comisiones ciudadanas. El plan no dice qué méritos.",
+            "cita": "elegir a las máximas autoridades por méritos, para que Ecuador confíe en el Consejo",
+            "pag": 1
+          }
+        ],
+        "otros": [
+          {
+            "t": "Responder cada denuncia de corrupción que llegue al Consejo.",
+            "que": "El plan no dice en cuánto tiempo responderá ni qué hará con cada denuncia.",
+            "v": "alta",
+            "n": "Puede investigar y pasar la denuncia a Fiscalía o Contraloría. El plan no dice plazos.",
+            "cita": "Combatir la corrupción respondiendo cada denuncia, impulsar veedurías al dinero público",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan es muy corto: no dice cuánto costará ni en qué plazo hará nada.",
+        "Tampoco dice qué cargos elegirá ni qué méritos usará para elegir a las máximas autoridades."
+      ]
+    },
+    {
+      "codFormulario": 605846880,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Designar autoridades “humanistas”, superintendentes para vigilar bancos y cooperativas, y crear una judicatura ciudadana. El plan no dice a qué cargos ni cómo.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Designar autoridades humanistas que respondan a la mayoría de ecuatorianos.",
+            "que": "El plan no dice a qué cargos se refiere ni qué significa “humanistas”. No dice cuándo ni cómo las elegirá.",
+            "v": "alta",
+            "n": "Designar autoridades sí es función del CPCCS, pero el plan no dice cuáles.",
+            "cita": "Designaré autoridades humanistas que respondan a la inmensa mayoría de ecuatorianos",
+            "pag": 1
+          },
+          {
+            "t": "Crear una judicatura ciudadana.",
+            "que": "El plan no explica qué sería una judicatura ciudadana ni cómo se organizaría. No dice cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "Cambiar cómo funcionan los jueces requiere cambios legales, no solo del consejo.",
+            "cita": "superintendentes que vigilen bancos y cooperativas y una judicatura ciudadana",
+            "pag": 1
+          }
+        ],
+        "economia": [
+          {
+            "t": "Designar superintendentes que vigilen bancos y cooperativas.",
+            "que": "El plan no dice qué superintendencias serían ni qué revisarían en bancos y cooperativas. No dice cuánto costará.",
+            "v": "alta",
+            "n": "Designar superintendentes sí es función del CPCCS, con comisiones ciudadanas.",
+            "cita": "Designaré autoridades humanistas que respondan a la inmensa mayoría de ecuatorianos, superintendentes que vigilen bancos y cooperativas",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan es muy corto: tres ideas en una sola frase, sin nombres de cargos, plazos ni costos.",
+        "No explica qué significa “humanistas” ni cómo medirá que responden a la mayoría de ecuatorianos."
+      ]
+    },
+    {
+      "codFormulario": 1313905315,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Quiere que los barrios participen en las decisiones y vigilen el gasto público. El plan no dice qué hará ni cuándo.",
+      "tabla": {
+        "gobierno": [
+          {
+            "t": "Organizar los barrios y abrir espacios de consulta para participar en decisiones.",
+            "que": "Dice que las comunidades podrán participar en las decisiones. El plan no dice qué espacios serán, dónde ni cuánto costará.",
+            "v": "alta",
+            "n": "Promover la participación es función del CPCCS. El plan no dice dónde ni cuándo.",
+            "cita": "fortaleceremos la organización barrial y espacios de consulta para que las comunidades participen en las decisiones",
+            "pag": 1
+          },
+          {
+            "t": "Vigilar cómo se gastan los recursos públicos junto con las comunidades.",
+            "que": "Dice que las comunidades vigilarán cómo se invierten los recursos públicos. El plan no dice cómo lo harán ni con qué herramientas.",
+            "v": "alta",
+            "n": "Las veedurías son función del CPCCS. El plan no dice qué revisará ni cuándo.",
+            "cita": "y vigilen cómo se invierten los recursos públicos",
+            "pag": 1
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "Plan muy corto: no dice qué espacios crear, dónde ni cuánto costará.",
+        "Solo hay dos propuestas claras, y no tiene cifras ni plazos."
+      ]
+    }
+  ]
+}

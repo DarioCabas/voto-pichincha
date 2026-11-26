@@ -1,0 +1,136 @@
+{
+ "enfoque": "Plan general: cuidar la naturaleza, mejorar agua, alcantarillado, basura, calles y vías, y promover turismo y cultura. Varias metas dependen de otras instituciones.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Invertir más en agua potable, sobre todo en el campo.",
+    "que": "La meta es más cobertura de agua potable. El plan prioriza las parroquias rurales. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Incrementar la inversión en acceso al agua potable.",
+    "pag": 12
+   },
+   {
+    "t": "Invertir más en alcantarillado y mejorar la recolección de basura.",
+    "que": "La meta es más cobertura de alcantarillado y mejor recolección de desechos. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Faltan costo y plazo.",
+    "cita": "Incrementar la inversión en sistemas de alcantarillado. Mejorar la recolección de desechos.",
+    "pag": 12
+   },
+   {
+    "t": "Crear un programa de tratamiento de residuos.",
+    "que": "El plan pide un programa de tratamiento de residuos con enfoque de economía circular (reutilizar lo que se desecha). No dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Un programa de tratamiento de residuos con enfoque de economía circular.",
+    "pag": 12
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Mejorar 40 kilómetros de vías.",
+    "que": "La meta es 40 kilómetros de mejoramiento vial. El plan no dice dónde ni cuánto costará. Pide un convenio con la Prefectura de Imbabura.",
+    "v": "media",
+    "n": "Las vías rurales dependen de la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Invertir en el mejoramiento vial. Promover acciones de apoyo a la movilidad sostenible.",
+    "pag": 12
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Ampliar la zona de regeneración urbana y embellecer el territorio.",
+    "que": "Busca atraer turistas. El plan pide 1 proyecto de embellecimiento. No dice dónde ni cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice dónde ni cuánto costará.",
+    "cita": "Ampliar el área de regeneración urbana y embellecimiento del territorio para mejorar la atracción turística.",
+    "pag": 12
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear un sistema de ferias de productores y circuitos de venta.",
+    "que": "Ferias para que los productores vendan. El plan no dice dónde, cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "Los mercados son del Municipio. El plan no dice dónde ni cuándo.",
+    "cita": "Sistema de ferias de productores, circuitos de comercialización.",
+    "pag": 13
+   },
+   {
+    "t": "Crear una marca Cotacachi para vender los productos del cantón.",
+    "que": "Busca dar a conocer los productos del cantón en el mundo. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "La promoción turística no está en la lista municipal. Depende de otros.",
+    "cita": "1 marca Cotacachi para posicionar los productos del territorio en el mundo.",
+    "pag": 13
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Gestionar proyectos para cuidar ríos, lagos, quebradas y cuencas.",
+    "que": "El plan no dice qué proyectos ni cuánto costará. Va junto con la meta de 5.000 hectáreas en restauración.",
+    "v": "media",
+    "n": "Depende de otras instituciones y fondos. El plan no dice costo.",
+    "cita": "Gestionar proyectos para manejo integral de cuencas, protección de lagos, ríos y quebradas.",
+    "pag": 11
+   }
+  ],
+  "otros": [
+   {
+    "t": "Tener un sistema de gestión de riesgos para desastres.",
+    "que": "El plan no dice qué hará, cuánto costará ni cuándo. Solo dice que lo va a fortalecer.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Falta detalle de qué hará.",
+    "cita": "Fortalecer el sistema de gestión de riesgos. Diseñar proyectos de impulso de la agricultura regenerativa.",
+    "pag": 11
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Aprobar una ordenanza para que los vecinos decidan parte del presupuesto.",
+    "que": "El plan pide una ordenanza de ciudadanía activa y presupuesto participativo. No dice qué parte del presupuesto ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué monto.",
+    "cita": "Activar el gobierno digital y abierto. Dinamizar el presupuesto participativo.",
+    "pag": 14
+   }
+  ]
+ },
+ "metas": [
+  "5.000 hectáreas en proceso de restauración.",
+  "40 kilómetros de mejoramiento vial.",
+  "1 proyecto de regeneración y embellecimiento del territorio.",
+  "1 programa de tratamiento de residuos.",
+  "Una ordenanza de ciudadanía activa y presupuesto participativo."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni en qué plazo se hará. Casi todas las metas son generales.",
+  "Parte del texto es diagnóstico y metas de salud, escuelas, energía y cultura, que no son del alcalde."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22
+ ],
+ "paginas": 22
+}

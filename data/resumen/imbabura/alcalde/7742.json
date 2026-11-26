@@ -1,0 +1,105 @@
+{
+ "enfoque": "Propone agua, cuidado de la laguna de San Pablo, árboles, bienestar animal, luz y espacios públicos, trámites digitales y turismo. No dice cuánto cuesta.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Gestionar el Plan Maestro del Agua: obras de agua y protección de fuentes de abastecimiento.",
+    "que": "Busca fortalecer la infraestructura de agua y proteger las fuentes de abastecimiento. El plan no dice dónde, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Agua sí le toca al Municipio, pero el plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "cita": "Gestionar el Plan Maestro del Agua, orientado al fortalecimiento de la infraestructura hídrica y la protección de las fuentes de abastecimiento.",
+    "pag": 3
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Recuperar y conservar la Laguna de San Pablo con un plan integral.",
+    "que": "Plan junto con juntas parroquiales, Gobierno Provincial, Ministerio del Ambiente, comunidades y universidades. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de otras instituciones. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Plan Integral de Recuperación y Conservación de la Laguna de San Pablo, en coordinación con los GAD parroquiales, el Gobierno Provincial,",
+    "pag": 3
+   },
+   {
+    "t": "Sembrar árboles y hacer programas permanentes de educación ecológica.",
+    "que": "Programas permanentes de reforestación, recuperación ambiental y educación ecológica. El plan no dice dónde ni cuántos árboles.",
+    "v": "media",
+    "n": "Puede hacerlo el Municipio, pero el plan no dice dónde ni cuánto costará.",
+    "cita": "Implementar programas permanentes de reforestación, recuperación ambiental y educación ecológica.",
+    "pag": 3
+   }
+  ],
+  "otros": [
+   {
+    "t": "Crear un sistema municipal de bienestar animal con esterilizaciones y atención veterinaria.",
+    "que": "Campañas para esterilizar animales, adopción responsable y atención veterinaria preventiva; después, un centro veterinario municipal de forma progresiva. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "No está en la lista de lo que le toca al alcalde. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Crear el Sistema Municipal de Bienestar Animal mediante campañas de esterilización, atención veterinaria preventiva, adopción responsable",
+    "pag": 3
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Recuperar espacios públicos y reforzar la iluminación, con acciones preventivas.",
+    "que": "Recuperar espacios públicos y reforzar la luz, y coordinar acciones con las instituciones competentes. El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Espacios y luz sí son municipales; coordinar a la policía no le toca al alcalde.",
+    "cita": "Recuperar espacios públicos, fortalecer la iluminación y coordinar acciones preventivas con las instituciones competentes para mejorar la seguridad ciudadana.",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Digitalizar los trámites municipales y hacer más sencillos los pasos administrativos.",
+    "que": "Pasar los trámites municipales a internet y simplificar la administración. El plan no dice cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuándo estará listo ni cuánto costará.",
+    "cita": "Modernizar los servicios municipales mediante la digitalización de trámites y la simplificación administrativa.",
+    "pag": 3
+   },
+   {
+    "t": "Hacer audiencias públicas, rendir cuentas cada año y publicar la información de la gestión.",
+    "que": "Audiencias públicas periódicas, presupuestos participativos, rendición anual de cuentas y publicación permanente de información. El plan no dice costo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "mediante audiencias públicas periódicas, presupuestos participativos, rendición anual de cuentas, publicación permanente de información sobre la gestión municipal",
+    "pag": 4
+   }
+  ],
+  "economia": [
+   {
+    "t": "Dar capacitación y apoyo para vender a artesanos, comerciantes y productores rurales.",
+    "que": "Programas de capacitación, innovación y comercialización. El plan no dice qué programas, cuántos beneficiarios ni cuánto costará.",
+    "v": "media",
+    "n": "Puede hacerlo el Municipio en parte, pero el plan no dice cuánto costará ni cuándo.",
+    "cita": "Impulsar programas de capacitación, innovación y comercialización para artesanos, comerciantes y productores rurales.",
+    "pag": 2
+   },
+   {
+    "t": "Crear rutas culturales, gastronómicas, artesanales y de naturaleza durante todo el año.",
+    "que": "Estrategia Otavalo 365 para atraer turismo todo el año con rutas. El plan no dice cuánto costará ni quién la pagará.",
+    "v": "media",
+    "n": "Promover turismo depende de otras instituciones. El plan no dice cuánto costará.",
+    "cita": "Implementar la estrategia “Otavalo 365”, fortaleciendo el turismo durante todo el año mediante rutas culturales, gastronómicas, artesanales y de naturaleza.",
+    "pag": 2
+   }
+  ]
+ },
+ "metas": [
+  "Ejecutar los proyectos de forma progresiva entre 2027 y 2031, según el presupuesto disponible."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Casi no habla de calles, tránsito, basura ni mercados. Varias propuestas (empleo, turismo, juventud) no son competencia del alcalde."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "paginas": 5
+}

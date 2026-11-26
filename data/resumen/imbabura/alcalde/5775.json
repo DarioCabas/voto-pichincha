@@ -1,0 +1,119 @@
+{
+ "enfoque": "Copiado en gran parte del plan de desarrollo del cantón. Propone informes, fauna urbana, residuos, uso del suelo y metas hasta 2031.",
+ "tabla": {
+  "gobierno": [
+   {
+    "t": "Presentar un informe anual al Concejo sobre cómo va el plan de gastos del año.",
+    "que": "En diciembre se presentará un informe sobre la ejecución del POA (plan anual de gastos). El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. Es un informe, no una obra.",
+    "cita": "En diciembre se presentará un informe detallado sobre la ejecución del POA",
+    "pag": 115
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer 1 proyecto de manejo de fauna urbana y de tenencia responsable de mascotas.",
+    "que": "El proyecto se hará hasta 2031. El plan no dice cuánto costará ni quién lo pagará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: cuidado de animales en la ciudad.",
+    "cita": "Promover 1 proyecto de manejo de fauna urbana y lenencia responsable de mascotas hasta el 2031.",
+    "pag": 51
+   },
+   {
+    "t": "Ejecutar 1 proyecto de manejo de residuos peligrosos cada año hasta 2027.",
+    "que": "El plan no dice cuánto costará ni de dónde saldrá el dinero. Es una meta anual hasta 2027.",
+    "v": "media",
+    "n": "Lo puede impulsar el Municipio, pero depende de otros niveles.",
+    "cita": "Ejecutar al menos 1 proyecto de manejo de residuos peligrosos anualmente hasta el 2027",
+    "pag": 50
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Regular el uso del suelo del cantón: dónde y cómo se puede construir.",
+    "que": "El plan no dice cuándo ni cuánto costará. Incluye actualizar el catastro, el registro de terrenos y propiedades del cantón.",
+    "v": "alta",
+    "n": "Le toca al Municipio; el uso del suelo es su competencia.",
+    "cita": "Regular el uso y ocupación del suelo cantonal",
+    "pag": 16
+   }
+  ]
+ },
+ "metas": [
+  "Obtener al menos 5 licencias o permisos ambientales cada año hasta 2031.",
+  "Hacer 1 proyecto de manejo de fauna urbana y tenencia de mascotas hasta 2031.",
+  "Ejecutar 1 proyecto de manejo de residuos peligrosos cada año hasta 2027.",
+  "Tener al menos 100 contenedores temporales de basura en el cantón hasta 2031.",
+  "Llegar al 90% de recolección de basura en áreas rurales hasta 2027."
+ ],
+ "notas": [
+  "Mucho del texto está copiado del plan de desarrollo del cantón. Parte del documento es difícil de leer; revise el original.",
+  "El plan no dice cuánto costará cada obra. Dice que usará fondos de inversión, ingresos propios y créditos del Banco de Desarrollo del Ecuador.",
+  "Plan muy largo (116 págs.): se resumieron las 60 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  3,
+  5,
+  13,
+  15,
+  16,
+  17,
+  18,
+  19,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61,
+  62,
+  63,
+  64,
+  65,
+  88,
+  89,
+  90,
+  91,
+  95,
+  96,
+  115,
+  116
+ ],
+ "paginas": 116
+}

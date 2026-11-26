@@ -1,0 +1,43 @@
+{
+ "enfoque": "Plan muy corto y general: un consejo cercano al territorio, con control social digital y lucha contra la corrupción. No dice cómo lo hará.",
+ "tabla": {
+  "gobierno": [
+   {
+    "t": "Hacer control social digital, es decir, vigilancia ciudadana usando medios digitales.",
+    "que": "El plan no dice cómo funcionará, en qué plazo ni cuánto costará.",
+    "v": "alta",
+    "n": "Vigilar a las autoridades y promover veedurías es función del CPCCS.",
+    "cita": "Impulsaré un consejo con liderazgo cercano y presente en el territorio, con control social digital",
+    "pag": 1
+   },
+   {
+    "t": "Luchar contra la corrupción.",
+    "que": "El plan no dice con qué medidas ni cómo se hará.",
+    "v": "alta",
+    "n": "El CPCCS puede investigar denuncias y pasarlas a Fiscalía o Contraloría.",
+    "cita": "con control social digital y que luche contra la corrupción",
+    "pag": 1
+   }
+  ],
+  "otros": [
+   {
+    "t": "Tener un liderazgo cercano y presente en el territorio.",
+    "que": "El plan no dice dónde, con qué frecuencia ni cómo se hará.",
+    "v": "alta",
+    "n": "Promover la participación ciudadana es función del CPCCS.",
+    "cita": "un consejo con liderazgo cercano y presente en el territorio",
+    "pag": 1
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan es muy corto. No dice cómo, cuándo ni cuánto costará cada propuesta.",
+  "La parte de trayectoria no es una propuesta; no se incluyó en la tabla."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1
+ ],
+ "paginas": 1
+}

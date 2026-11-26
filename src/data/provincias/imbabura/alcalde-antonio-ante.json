@@ -1,0 +1,622 @@
+{
+  "canton": "ANTONIO ANTE",
+  "candidatos": [
+    {
+      "codFormulario": 178,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Agua las 24 horas, alcantarillado, asfalto rural, cámaras y luces, y apoyo al textil y al campo. Muchas obras dependen de créditos u otras instituciones.",
+      "tabla": {
+        "seguridad": [
+          {
+            "t": "Construir un centro de emergencias y una central de cámaras con inteligencia artificial en Atuntaqui.",
+            "que": "Costará $212.000, entre 2027 y 2028. Se paga con presupuesto del Municipio y la tasa de seguridad. Un CADE es un centro para atender y evaluar emergencias.",
+            "v": "media",
+            "n": "Es del Municipio, pero la Policía es quien actúa ante los delitos.",
+            "cita": "Construcción de 1 CADE (Centros de Atención y Diagnóstico de Emergencias) y Central de Videovigilancia con IA en Atuntaqui.",
+            "pag": 6
+          },
+          {
+            "t": "Poner luces nuevas (LED) y cámaras en vías y zonas rurales de San Roque, Natabuela, Chaltura e Imbaya.",
+            "que": "Costará $420.000, entre 2027 y 2029. Se paga con la tasa de seguridad, el Municipio y la Prefectura (gobierno de la provincia). Participan la empresa de luz Emelnorte y la Policía.",
+            "v": "media",
+            "n": "Depende de la Prefectura y de la empresa de luz, no solo del Municipio.",
+            "cita": "Instalación de iluminación LED y cámaras en vías de acceso y zonas rurales de San Roque, Natabuela, Chaltura e Imbaya.",
+            "pag": 6
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Arreglar la red de agua para bajar las pérdidas y dar agua las 24 horas.",
+            "que": "Costará $2.800.000, entre 2027 y 2029. Se paga con presupuesto de la empresa de agua (EPAA-AA) y un crédito del Banco de Desarrollo (BDE). Las pérdidas hoy son de 47%.",
+            "v": "alta",
+            "n": "El agua es tarea del Municipio; el dinero depende de un crédito del banco.",
+            "cita": "Reducción de pérdidas en la red de la EPAA-AA, mantenimiento de tanques (Yanaloma/Pucará) y digitalización de sectores de presión.",
+            "pag": 7
+          },
+          {
+            "t": "Construir tuberías para aguas lluvias separadas en Atuntaqui y Andrade Marín, y ajustar la planta de Chaltura.",
+            "que": "Costará $3.500.000, entre 2028 y 2030, con un crédito del Banco de Desarrollo (BDE) y dinero del Municipio. El plan dice que la planta de Chaltura colapsa en época de lluvias.",
+            "v": "alta",
+            "n": "Es obra del Municipio; pagarla depende de un crédito del banco.",
+            "cita": "Construcción de colectores pluviales separados en Atuntaqui y Andrade Marín, y adecuación de capacidad de la PTAR Chaltura.",
+            "pag": 7
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Asfaltar y dar mantenimiento a vías rurales e interparroquiales de cuatro parroquias.",
+            "que": "Costará $2.200.000, entre 2027 y 2031. Se paga con dinero del Municipio y el fondo vial de la Prefectura. La meta es intervenir 40 km de vías rurales y urbanas.",
+            "v": "media",
+            "n": "El plan pone a la Prefectura en la vialidad rural; depende de su fondo vial.",
+            "cita": "Mejoramiento de la capa de rodadura de la red vial Inter parroquial y vías rurales de San Roque, Natabuela, Chaltura e Imbaya.",
+            "pag": 7
+          }
+        ],
+        "economia": [
+          {
+            "t": "Crear una tienda oficial en internet para textiles de Atuntaqui y modernizar el Mercado Central.",
+            "que": "Costará $650.000, entre 2027 y 2028, con dinero del Municipio y alianzas con empresas privadas. Incluye también una marca de ciudad de moda y confección.",
+            "v": "alta",
+            "n": "Mercados son competencia municipal; el dinero depende de alianzas privadas.",
+            "cita": "modernización del Mercado Central y marca ciudad de moda/confección.",
+            "pag": 8
+          },
+          {
+            "t": "Crear un centro de acopio cantonal y ferias semanales de productos del campo en parroquias rurales.",
+            "que": "Costará $480.000, entre 2027 y 2029. Se paga con el Fondo de Fomento Productivo y el Ministerio de Agricultura (MAG). La Prefectura también participa.",
+            "v": "media",
+            "n": "Los insumos para campesinos son del Ministerio de Agricultura; el Municipio pone el centro y ferias.",
+            "cita": "Creación del Centro de Acopio Cantonal, dotación de insumos y ferias semanales",
+            "pag": 8
+          }
+        ],
+        "social": [
+          {
+            "t": "Entregar agua segura, paquetes de alimentos y brigadas médicas en zonas rurales e indígenas.",
+            "que": "Costará $920.000, entre 2027 y 2031. Se paga con el 10% de ingresos no tributarios que la ley destina a grupos prioritarios. Participan el Ministerio de Salud y el Ministerio de Inclusión Social (MIES).",
+            "v": "baja",
+            "n": "Salud y alimentación son del Gobierno; el Municipio solo podría aportar el agua.",
+            "cita": "Suministro de agua segura, paquete nutricional y brigadas médicas itinerantes en zonas rurales e indígenas de mayor vulnerabilidad.",
+            "pag": 9
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Hacer en internet todos los trámites municipales y una sola ventanilla para permisos de construcción.",
+            "que": "Costará $300.000, entre 2027 y 2028, con presupuesto municipal y ayuda del Ministerio de Telecomunicaciones (MINTEL). Incluye actualizar el catastro, el registro de terrenos y casas.",
+            "v": "alta",
+            "n": "Los trámites son del propio Municipio; la tarea está en sus manos.",
+            "cita": "Digitalización del 100% de trámites municipales, ventanilla única de construcción y actualización del catastro urbano/rural.",
+            "pag": 10
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Regular el uso del suelo para frenar loteos ilegales y proteger terrenos agrícolas.",
+            "que": "Costará $120.000 en 2028, con presupuesto municipal. El plan de uso del suelo (PUGS, plan de uso y gestión del suelo) decide dónde se puede construir y qué terrenos siguen siendo para el campo.",
+            "v": "alta",
+            "n": "El uso del suelo es competencia directa del Municipio.",
+            "cita": "Regulación del uso de suelo para proteger la frontera agrícola frente a loteamientos ilegales y especulación.",
+            "pag": 10
+          }
+        ]
+      },
+      "metas": [
+        "Dar agua las 24 horas en el 98% del cantón.",
+        "Bajar las pérdidas de agua del 47% al 25%.",
+        "Bajar 8% la desnutrición infantil en parroquias rurales.",
+        "Intervenir 40 km de vías rurales y urbanas, en el periodo 2027–2031.",
+        "Tener el 100% de trámites municipales en internet."
+      ],
+      "notas": [
+        "Muchas obras dependen de créditos, la Prefectura o el Ministerio; el alcalde no las decide solo.",
+        "Salud, alimentación y seguridad con la Policía no son del Municipio; el plan las incluye con costos y plazos."
+      ]
+    },
+    {
+      "codFormulario": 8751,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Propone arreglar calles, agua, basura, parques y mercados, y hacer un plan de riesgos. Varias propuestas de seguridad no son del Municipio.",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Poner señales de tránsito inteligentes y facilitar estacionamientos municipales.",
+            "que": "También pide infraestructura para movilidad activa y alternativa. El plan no dice dónde, cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Le toca al Municipio (tránsito). El plan no dice dónde ni cuánto costará.",
+            "cita": "Implementar señalización vial inteligente y sistemas de información para la movilidad",
+            "pag": 61
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Hacer cada año un plan de calles, aceras, bordillos y alumbrado público.",
+            "que": "Incluye reparar espacios deteriorados y equipos rápidos para pequeñas reparaciones. El plan no dice qué calles ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice qué calles ni cuánto costará.",
+            "cita": "Implementar un plan anual eficiente de mantenimiento y construcción de calles, aceras, bordillos y alumbrado público",
+            "pag": 58
+          },
+          {
+            "t": "Recuperar parques, plazas y áreas verdes con espacios seguros y accesibles.",
+            "que": "Incluye un programa permanente de mantenimiento de parques y jardines. El plan no dice en qué parques ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice en qué parques ni cuánto costará.",
+            "cita": "Recuperar parques, plazas y áreas verdes con criterios de accesibilidad universal, espacios seguros",
+            "pag": 58
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Ampliar agua potable, alcantarillado y recolección de basura en sectores con déficit.",
+            "que": "Busca un servicio de calidad y continuo. El plan no dice qué sectores ni cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice qué sectores ni cuánto costará.",
+            "cita": "Ampliar la cobertura de agua potable, alcantarillado y recolección de basura en los sectores urbanos y rurales",
+            "pag": 58
+          },
+          {
+            "t": "Gestionar la construcción de sistemas para tratar las aguas residuales.",
+            "que": "El plan no dice dónde ni cuánto costará, ni de dónde saldrá el dinero. Depende de conseguir fondos.",
+            "v": "media",
+            "n": "Depende de conseguir fondos; el plan no dice cuánto costará ni cómo se pagará.",
+            "cita": "Gestionar la construcción y optimización de sistemas de tratamiento de aguas residuales.",
+            "pag": 58
+          },
+          {
+            "t": "Modernizar los camiones de basura y mejorar el relleno sanitario.",
+            "que": "También cambiar las rutas de recolección. El plan no dice cuánto costará ni cuándo se hará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+            "cita": "Repotenciar el relleno sanitario cantonal, modernizar la flota y optimizar las rutas de recolección de residuos.",
+            "pag": 58
+          }
+        ],
+        "economia": [
+          {
+            "t": "Modernizar los mercados municipales y crear una red de mercados en el cantón.",
+            "que": "Busca mejores condiciones para comerciantes y compradores. El plan no dice qué mercados ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice qué mercados ni cuánto costará.",
+            "cita": "Modernizar los mercados municipales existentes y fomentar una red de mercados municipales en el cantón para mejorar las condiciones de",
+            "pag": 58
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Hacer un plan de riesgos ante amenazas climáticas, con monitoreo continuo.",
+            "que": "Incluye un sistema para vigilar las amenazas de forma continua. El plan no dice cuánto costará ni cuándo estará listo.",
+            "v": "alta",
+            "n": "Le toca al Municipio (prevención de desastres). El plan no dice cuánto costará.",
+            "cita": "Elaborar un plan de gestión de riesgos y amenazas climáticas para el cantón con un sistema de monitoreo y seguimiento continuo",
+            "pag": 61
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Invertir, si hace falta, en la policía y poner alarmas y botones de pánico.",
+            "que": "Incluye Unidades de Policía Comunitaria y vigilancia comunitaria. El plan no dice cuánto costará.",
+            "v": "baja",
+            "n": "La policía no es competencia del Municipio; solo podría apoyar.",
+            "cita": "Articular e invertir si es necesario para asegurar la capacidad operativa de la policía que actúa en el cantón",
+            "pag": 60
+          }
+        ]
+      },
+      "metas": [
+        "Plan de trabajo para 2027-2031 (cuatro años).",
+        "Presupuesto municipal que el plan prevé: no menos de 30 millones de dólares."
+      ],
+      "notas": [
+        "El plan no dice cuánto costará cada obra ni de dónde saldrá el dinero; solo da un presupuesto general.",
+        "Muchas propuestas no dicen dónde ni cuándo. El plan no propone cambios concretos en buses ni rutas de transporte público.",
+        "Plan muy largo (79 págs.): se resumieron las 43 páginas con propuestas."
+      ]
+    },
+    {
+      "codFormulario": 6448,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan de ADN para Antonio Ante 2027-2031: agua, basura, calles, parques, mercados, ferias y asambleas ciudadanas. No dice cuánto costará.",
+      "tabla": {
+        "ambiente": [
+          {
+            "t": "Proteger y recuperar ojos de agua, quebradas y pozos profundos.",
+            "que": "Recuperar fuentes de agua y microcuencas con reforestación y trabajo con juntas de agua. El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Le toca al Municipio, pero el plan no dice cómo lo pagará.",
+            "cita": "Protección y recuperación de ojos de agua, microcuencas, quebradas, pozos profundos y",
+            "pag": 12
+          },
+          {
+            "t": "Mejorar el manejo de la basura con reciclaje y limpiezas.",
+            "que": "Campañas de reciclaje, limpiezas comunitarias y disposición adecuada de la basura. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "La basura es competencia municipal. El plan no dice cuánto costará.",
+            "cita": "de la gestión integral de residuos y bienestar animal",
+            "pag": 4
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Arreglar y mantener calles urbanas y caminos rurales.",
+            "que": "Mejorar y mantener la red vial urbana y rural, con señalización y accesibilidad. El plan no dice cuánto costará ni en qué plazo.",
+            "v": "alta",
+            "n": "Calles y caminos son del Municipio. Faltan costo y plazo.",
+            "cita": "Mejoramiento y mantenimiento de la infracstructura vial urbana y rural:",
+            "pag": 15
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Mejorar parques, plazas y mercados en las seis parroquias.",
+            "que": "Mejorar, arreglar o ampliar parques, plazas, mercados populares, polideportivos y cementerios. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice en qué orden ni cuándo.",
+            "cita": "scis parroquias del cantón (parques, plazolctas, mercados populares,",
+            "pag": 16
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Poner luces y recuperar espacios públicos para más seguridad.",
+            "que": "Iluminar y recuperar espacios públicos, junto con las instituciones competentes. El plan no dice cuánto costará.",
+            "v": "media",
+            "n": "La policía no es del Municipio. Solo aporta luces y espacios.",
+            "cita": "promover acciones preventivas que fortalezcan la seguridad, la convivencia ciudadana y el desarrollo sostenible del cantón.",
+            "pag": 17
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Hacer asambleas ciudadanas en las seis parroquias de forma periódica.",
+            "que": "Asambleas para informar sobre obras, recoger observaciones de la ciudadanía y fortalecer la participación. El plan no dice cada cuánto ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio convocarlas. El plan no dice el costo.",
+            "cita": "Asambleas ciudadanas cantonales y parroquiales, desarrolladas de manera periódica en las seis parroquias del",
+            "pag": 18
+          }
+        ],
+        "economia": [
+          {
+            "t": "Promover las marcas de Antonio Ante y sus ferias comerciales.",
+            "que": "Promover marcas anteñas y ferias comerciales para vender la producción local. El plan no dice cuánto costará.",
+            "v": "media",
+            "n": "Puede impulsarla el Municipio, pero depende de empresas y universidades.",
+            "cita": "Promoción y fortalecimiento de las marcas anteñas como parte de la estrategia de",
+            "pag": 14
+          },
+          {
+            "t": "Dar capacitación y asistencia técnica a emprendedores.",
+            "que": "Capacitación, asistencia técnica y acceso a espacios para vender a emprendedores. El plan no dice cuántos ni cuánto costará.",
+            "v": "media",
+            "n": "Depende de universidades y del sector privado. El plan no dice costos.",
+            "cita": "Fortalecimiento del emprendimiento mediante capacitación, asistencia técnica, o",
+            "pag": 14
+          }
+        ]
+      },
+      "metas": [
+        "Rendición de cuentas cada año, entre 2027 y 2031."
+      ],
+      "notas": [
+        "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+        "Muchas acciones dependen de la Policía, ministerios o la Prefectura; varias no son del Municipio."
+      ]
+    },
+    {
+      "codFormulario": 1218,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan general del cantón: más redes de agua y tratamiento de aguas residuales, ciclovías, arreglo de calles y parques. No dice cuánto costará. Parte copiada de Chaltura.",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Crear ciclovías y dar prioridad al peatón en las calles.",
+            "que": "El plan no dice dónde ni cuánto costará. Dice que habrá soluciones específicas para parroquias urbanas y rurales.",
+            "v": "alta",
+            "n": "Le toca al Municipio (tránsito y vías). El plan no dice dónde ni cuándo.",
+            "cita": "incorporando ciclovias y desarrollando soluciones especificas para las",
+            "pag": 17
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Arreglar y mantener la red de calles urbanas y rurales.",
+            "que": "Dice que habrá mantenimiento permanente y obras estratégicas. El plan no dice qué calles ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice qué vías ni cuándo.",
+            "cita": "Movilidad, Vialidad y Conectividad: Fortalecer la red vial urbana y rural",
+            "pag": 16
+          },
+          {
+            "t": "Intervenir parques, plazas y espacios públicos del cantón.",
+            "que": "Dice que se intervendrán parques, plazas y áreas de encuentro. El plan no dice cuáles ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio (parques y espacio público). El plan no dice cuáles ni cuándo.",
+            "cita": "espacios públicos, parques, plazas y áreas de encuentro ciudadano",
+            "pag": 18
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Ampliar redes de agua y tratar más aguas residuales.",
+            "que": "La planta actual atiende solo dos parroquias. El plan no dice dónde ni cuánto costará ni en qué plazo.",
+            "v": "alta",
+            "n": "Le toca al Municipio, pero el plan no dice cuánto costará ni cuándo.",
+            "cita": "ampliación de redes, tratamiento de aguas residuales, control de descargas",
+            "pag": 16
+          },
+          {
+            "t": "Renovar redes y controlar pérdidas para que el agua llegue sin cortes.",
+            "que": "Hoy el agua se corta unas cinco horas de noche. El plan no dice cuánto costará ni en qué plazo.",
+            "v": "alta",
+            "n": "Le toca al Municipio (agua potable). El plan no dice cuánto costará.",
+            "cita": "la renovación de redes, el mejoramiento de los sistemas de",
+            "pag": 16
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Modernizar el manejo de basura y promover el reciclaje.",
+            "que": "Dice que se modernizará la infraestructura para residuos y se promoverá el reciclaje. El plan no dice dónde ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio (basura). El plan no dice cuánto costará ni cuándo.",
+            "cita": "Gestión Integral de Residuos y Economía Circular: Fortalecer el sistema",
+            "pag": 15
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Reforzar la Comisaría Municipal para vigilar normas y espacio público.",
+            "que": "Dice que se fortalecerá la capacidad de la Comisaría Municipal y de los organismos de control. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. La Policía no es competencia del alcalde.",
+            "cita": "operativa de la Comisaría Municipal y de los organismos de control para",
+            "pag": 16
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Rendir cuentas al público cada año y dar seguimiento cada tres meses.",
+            "que": "Dice que habrá seguimiento trimestral del plan, socialización semestral y un informe público anual. No dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio; depende de la propia administración.",
+            "cita": "La rendición de cuentas constituirá un proceso permanente, periódico, público",
+            "pag": 25
+          }
+        ],
+        "economia": [
+          {
+            "t": "Promocionar el cantón como destino turístico y productivo.",
+            "que": "Dice que se promoverá Antonio Ante como destino turístico y productivo. No dice cómo ni cuánto costará.",
+            "v": "media",
+            "n": "Puede promover, pero crear empleo no le toca directamente al Municipio.",
+            "cita": "Turismo, Promoción e Identidad Productiva: Posicionar a Antonio Ante",
+            "pag": 34
+          }
+        ]
+      },
+      "metas": [
+        "Seguimiento del plan cada tres meses.",
+        "Informe público de gestión cada año.",
+        "Plan de trabajo para los años 2027 a 2031."
+      ],
+      "notas": [
+        "Varias partes son del plan de la parroquia Chaltura (pp. 20 y 45), no del cantón.",
+        "La mayoría de propuestas no dice cuánto costarán ni cuándo se harán.",
+        "Plan muy largo (80 págs.): se resumieron las 39 páginas con propuestas."
+      ]
+    },
+    {
+      "codFormulario": 11629,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Obras de alcantarillado, basura, parques y reglas de uso del suelo, y un parqueadero en Atuntaqui. También pide empleo y educación, que no son del Municipio.",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Construir un parqueadero subterráneo en la Plaza Libertad de Atuntaqui.",
+            "que": "Lo haría con el Ministerio de Transporte y Obras Públicas y la Prefectura (gobierno de la provincia). El plan no dice cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "Depende de otras instituciones. El plan no dice costo ni fecha.",
+            "cita": "Construir un parqueadero subterráneo en la Plaza Libertad de Atuntaqui.",
+            "pag": 16
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Hacer planes para el alcantarillado (tuberías de aguas servidas y de lluvia) del cantón.",
+            "que": "Incluye las parroquias rurales. El plan no dice dónde se harán, cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice costo ni plazo.",
+            "cita": "Implementación de planes maestros de alcantarillado sanitario y pluvial del cantón Antonio Ante",
+            "pag": 14
+          },
+          {
+            "t": "Manejar la basura de las zonas rurales, con reciclaje y menos desechos.",
+            "que": "El plan habla de reciclaje, separar la basura y reducir desechos, pero no dice cómo. No dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cómo ni cuánto costará.",
+            "cita": "Gestión de residuos sólidos en las zonas rurales",
+            "pag": 15
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Proteger las cuencas de los ríos y manejar el agua del cantón.",
+            "que": "Las cuencas son zonas que juntan el agua de los ríos. El plan no dice dónde ni cuánto costará; lo haría con el Ministerio del Ambiente.",
+            "v": "media",
+            "n": "Depende del Ministerio del Ambiente y Agua. El plan no dice costo ni plazo.",
+            "cita": "la protección de cuencas hidrográficas y la gestión sostenible del agua",
+            "pag": 5
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Actualizar las reglas de uso del suelo: dónde se puede construir y para qué.",
+            "que": "Es el plan de ordenamiento y las normas de uso de suelo del cantón. El plan no dice cuánto costará ni en qué plazo.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+            "cita": "Actualizar el Plan de Ordenamiento Territorial (PDOT), PUGS y normativa de uso de suelo",
+            "pag": 15
+          },
+          {
+            "t": "Recuperar y crear espacios públicos y áreas verdes en el cantón.",
+            "que": "Incluye construir y arreglar parques. El plan no dice en qué lugares ni cuánto costará.",
+            "v": "alta",
+            "n": "Parques y espacios públicos son del Municipio. El plan no dice dónde ni cuándo.",
+            "cita": "Recuperación y creación de espacios públicos y áreas verdes",
+            "pag": 15
+          }
+        ],
+        "economia": [
+          {
+            "t": "Apoyar al sector productivo para crear empleo digno.",
+            "que": "Incluye capacitación técnica y apoyo a emprendedores. El plan no dice cómo ni cuánto costará.",
+            "v": "baja",
+            "n": "El empleo no le toca al alcalde directamente. El plan no dice cómo lo hará.",
+            "cita": "Impulsar la generación de empleo digno a través del fortalecimiento del sector productivo",
+            "pag": 10
+          },
+          {
+            "t": "Crear espacios para ferias y eventos de comercio local.",
+            "que": "Incluye servicios financieros para mujeres, jóvenes y personas con discapacidad. El plan no dice dónde ni cuánto costará.",
+            "v": "media",
+            "n": "Las ferias sí son del Municipio; los servicios financieros dependen de otros.",
+            "cita": "Promover el desarrollo del comercio local mediante la generación de espacios para ferias, eventos",
+            "pag": 9
+          }
+        ],
+        "social": [
+          {
+            "t": "Fomentar la educación con tecnología e idiomas.",
+            "que": "Las escuelas y colegios no son del Municipio. El plan no dice dónde ni cuánto costará.",
+            "v": "baja",
+            "n": "Educación no le toca al Municipio, según la ley.",
+            "cita": "Fomentar la educación integral, priorizando el uso de tecnologías, el fortalecimiento de capacidades",
+            "pag": 9
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan casi no pone cifras, costos ni plazos. Gran parte del texto son explicaciones generales de leyes y planes, no propuestas.",
+        "Incluye temas que no son del Municipio: empleo, escuelas, salud y policía. Revise esas propuestas con cuidado."
+      ]
+    },
+    {
+      "codFormulario": 11493,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan muy parecido al de Juan Arias (Ibarra): centro textil en la Fábrica Imbabura, créditos baratos contra el chulco, agua potable, aceras y cámaras.",
+      "tabla": {
+        "servicios": [
+          {
+            "t": "Llevar agua potable al 95% y alcantarillado al 85% del cantón al 2031.",
+            "que": "Incluye redes en Natabuela, Chaltura, Imbaya y San Roque, y plantas de tratamiento. La tabla pone $9 millones. Parte saldría de un crédito del Banco de Desarrollo (BDE) de $5,7 millones.",
+            "v": "media",
+            "n": "Le toca al Municipio, pero depende de un crédito del banco de desarrollo.",
+            "cita": "Plan Maestro Agua Potable 95% cobertura cantonal y alcantarillado 85% al 2031, con redes Natabuela, Chaltura, Imbaya, San Roque",
+            "pag": 17
+          }
+        ],
+        "economia": [
+          {
+            "t": "Crear un fondo de crédito de $2 millones para comerciantes textiles, a 8% anual.",
+            "que": "Lo darían cooperativas de ahorro (COAC) y BanEcuador, con 8% anual en vez de 240% del chulco (préstamo informal de intereses muy altos). Busca sacar de la central de riesgos a 3.000 familias en 2 años.",
+            "v": "media",
+            "n": "Depende de cooperativas y BanEcuador, no solo del Municipio.",
+            "cita": "sacar de central riesgos a 3.000 familias en 2 años, enfoque mujeres 60%.",
+            "pag": 7
+          },
+          {
+            "t": "Convertir la Fábrica Imbabura en centro de innovación textil, con laboratorio de diseño y museo.",
+            "que": "Costaría $5 millones, con laboratorio de diseño, corte automatizado, museo y pasarela. El plan no dice en qué año empieza la obra.",
+            "v": "media",
+            "n": "Le toca al Municipio, pero el dinero viene en parte de un crédito del BDE.",
+            "cita": "Repotenciar Fábrica Imbabura con $5M como Centro de Innovación Textil, Museo Industrial, Laboratorio Diseño",
+            "pag": 25
+          },
+          {
+            "t": "Crear 1.500 empleos dignos en textiles y agro para 2031.",
+            "que": "El plan pone esta meta, pero no dice con qué programas se logra ni cuánto costará.",
+            "v": "baja",
+            "n": "Crear empleo no es competencia directa del alcalde, según la ley.",
+            "cita": "Meta: crear 1.500 empleos dignos textiles y agro al 2031, aumentar ventas textiles 40%.",
+            "pag": 25
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Hacer aceras accesibles en 80% de las calles y 30 km de ciclovía.",
+            "que": "Ciclovía de Atuntaqui a Andrade Marín y Natabuela. La tabla pone $3,5 millones para aceras, ciclovía, parques y terminal juntos. El plan no separa cuánto va a cada cosa.",
+            "v": "media",
+            "n": "Le toca al Municipio, pero la terminal depende del Ministerio de Transporte.",
+            "cita": "80% calles con aceras accesibles inclusivas, 30 km ciclovía Atuntaqui-Andrade Marín-Natabuela",
+            "pag": 27
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Crear 5 parques nuevos: 2 en Atuntaqui y 1 en cada parroquia rural.",
+            "que": "Parte del proyecto Verde y Movilidad Humana. El plan no dice cuánto cuesta cada parque ni cuándo se harían.",
+            "v": "alta",
+            "n": "Los parques le tocan al Municipio, según la ley.",
+            "cita": "5 parques nuevos (Atuntaqui 2, cada parroquia rural 1), alcanzar 8 m2 verde/hab",
+            "pag": 27
+          },
+          {
+            "t": "Regularizar 10 barrios informales y controlar el crecimiento desordenado al sur.",
+            "que": "Aplicaría el plan de uso y gestión del suelo (PUGS) y el plan de riesgos del río Ambi. Cuesta $0,2 millones según la tabla. El plan no dice en qué años.",
+            "v": "alta",
+            "n": "Uso del suelo y riesgos le tocan al Municipio, según la ley.",
+            "cita": "regularización 10 barrios informales, plan gestión riesgos río Ambi",
+            "pag": 27
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Actualizar el catastro en 2027 y subir la recaudación propia de 35% a 55%, sin subir impuestos.",
+            "que": "Costaría $0,6 millones según la tabla. El plan no dice en qué mes se terminaría el catastro.",
+            "v": "alta",
+            "n": "El catastro (registro de propiedades) es del Municipio.",
+            "cita": "Actualización catastral 2027 con enfoque social (no persecución), mejorar recaudación propia de 35% a 55% sin subir impuestos, cobro justo.",
+            "pag": 27
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Instalar 120 cámaras conectadas al sistema de emergencias ECU911.",
+            "que": "Con convenio con ECU911 y centro de monitoreo las 24 horas. La tabla pone $2,5 millones junto con iluminación y alarmas. El plan no dice cuántas cámaras van en cada barrio.",
+            "v": "media",
+            "n": "El Municipio puede pagarlas, pero ECU911 es del Gobierno.",
+            "cita": "120 cámaras PTZ, ANPR, lA integradas ECU911 con Convenio GADMAA-SIS ECU911 2025",
+            "pag": 27
+          },
+          {
+            "t": "Crear una Policía Municipal de proximidad con 20 efectivos.",
+            "que": "Los agentes tendrían formación en derechos humanos y harían control del espacio público y brigadas contra drogas. El plan no dice cuánto cuesta.",
+            "v": "baja",
+            "n": "La policía no le toca al alcalde, según la ley.",
+            "cita": "Policía Municipal proximidad 20 efectivos con formación DDHH",
+            "pag": 27
+          }
+        ]
+      },
+      "metas": [
+        "Agua potable al 95% y alcantarillado al 85% al 2031.",
+        "Sacar de la central de riesgos a 3.000 familias en 2 años.",
+        "Crear 1.500 empleos dignos en textiles y agro al 2031.",
+        "Aumentar la pernoctación de turistas de 0,2 a 1,5 noches.",
+        "Reducir robos a locales 30% y extorsión por chulco 50% al 2031."
+      ],
+      "notas": [
+        "El plan dice que sigue en gran parte el plan de Juan Arias (Ibarra). Varias propuestas son de otros niveles de gobierno o de la Policía.",
+        "Según la tabla, los proyectos suman unos $29,4 millones, pero el total del plan dice $28,5 millones."
+      ]
+    }
+  ]
+}

@@ -131,6 +131,7 @@ function concejales(d) {
 
 // Devuelve { clave: [candidatos] } donde clave = cantón o "cantón|sub"
 export function grupos(d, prov = 'pichincha') {
+  if (d.nacional) return deProvincia(d, 'nacional');
   if (prov !== 'pichincha') return deProvincia(d, prov);
   if (d.slug === 'alcaldia') return alcaldes();
   if (d.slug.startsWith('concejo') || d.slug === 'circunscripcion' || d.slug === 'junta-parroquial') return concejales(d);
@@ -156,7 +157,7 @@ export const dignidadesLocales = DIGNIDADES.filter((d) => d.slug !== 'prefectura
 
 // Dignidades publicadas en una provincia: Pichincha tiene todas; las demás, las que tengan data/raw/<prov>/<raw>.json
 export const dignidadesDe = (prov) =>
-  prov === 'pichincha' ? DIGNIDADES : DIGNIDADES.filter((d) => rawFiles[`../../data/raw/${prov}/${d.raw}.json`]);
+  prov === 'pichincha' ? DIGNIDADES : DIGNIDADES.filter((d) => d.nacional || rawFiles[`../../data/raw/${prov}/${d.raw}.json`]);
 
 // Rutas estáticas de las páginas de dignidad de una provincia (ver src/components/PaginaDignidad.astro)
 export function rutasDignidad(prov) {
@@ -183,11 +184,11 @@ export function fichaPlan(pdf) {
     // prefecto.json guarda solo el nombre del archivo; el resto, la ruta completa
     const r = lista.find?.((x) => x.pdf && (x.pdf === pdf || `/planes/${slug}/${x.pdf}` === pdf));
     if (!r) continue;
-    const prov = slug.includes('/') ? slug.split('/')[0] : 'pichincha';
+    const prov = slug.includes('/') && !slug.startsWith('nacional/') ? slug.split('/')[0] : 'pichincha';
     const d = DIGNIDADES.find((x) => x.raw === slug.split('/').pop());
     const terr = !r.canton ? '' : r.sub ? `${slugify(r.canton)}/${slugify(r.sub)}` : slugify(r.canton);
     const volver = d.slug === 'prefectura' ? `/prefectura/#f-l${r.lista.replace(/\W/g, '')}` : `${provPath(prov)}/${d.slug}/${terr}/#f-f${r.codFormulario}`;
-    const lugar = d.slug === 'prefectura' ? 'Pichincha' : r.sub ? `${titulo(r.sub)}, ${titulo(r.canton)}` : titulo(r.canton);
+    const lugar = d.slug === 'prefectura' ? 'Pichincha' : d.nacional ? `Lista de ${titulo(r.canton).toLowerCase()}` : r.sub ? `${titulo(r.sub)}, ${titulo(r.canton)}` : titulo(r.canton);
     // prefecto.json trae los nombres como texto; las demás dignidades, como objetos
     return { r, d, prov, volver, lugar, nombres: r.principales.map((p) => titulo(p.nombre ?? p)) };
   }

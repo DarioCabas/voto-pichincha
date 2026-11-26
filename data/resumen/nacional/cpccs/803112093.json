@@ -1,0 +1,43 @@
+{
+ "enfoque": "Quiere que el Consejo rinda cuentas, escuche a la gente y la ayude a vigilar el poder. El plan no dice cómo ni cuándo lo hará.",
+ "tabla": {
+  "gobierno": [
+   {
+    "t": "Hacer que el Consejo rinda cuentas a la ciudadanía.",
+    "que": "El plan no dice cómo rendirá cuentas, ni cada cuánto, ni qué información dará.",
+    "v": "alta",
+    "n": "Rendir cuentas es función del Consejo; el plan no dice cómo lo hará.",
+    "cita": "Trabajaré por una institución que te rinda cuentas",
+    "pag": 1
+   },
+   {
+    "t": "Fortalecer la voz de la ciudadanía para vigilar el poder.",
+    "que": "El plan no dice qué herramientas dará ni a quién beneficiarán en concreto.",
+    "v": "alta",
+    "n": "Vigilar el poder con veedurías es función del Consejo; el plan no dice cómo.",
+    "cita": "y fortalezca tu voz para vigilar el poder",
+    "pag": 1
+   }
+  ],
+  "social": [
+   {
+    "t": "Escuchar a la gente y dar respuestas.",
+    "que": "El plan no dice qué mecanismo usará para escuchar ni en qué plazo responderá.",
+    "v": "alta",
+    "n": "Escuchar y responder a la ciudadanía es parte del trabajo del Consejo; falta el cómo.",
+    "cita": "Mereces un Consejo que escuche y dé respuestas",
+    "pag": 1
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan no tiene propuestas concretas: no dice qué hará, dónde, cómo ni cuándo.",
+  "El texto solo habla de la trayectoria y de frases generales. No incluye costos ni plazos."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1
+ ],
+ "paginas": 1
+}

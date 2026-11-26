@@ -1,0 +1,51 @@
+{
+ "enfoque": "Combatir la corrupción con designaciones, investigaciones, capacitación y veedurías ciudadanas. No dice cómo ni cuándo.",
+ "tabla": {
+  "gobierno": [
+   {
+    "t": "Participar en procesos de designación de autoridades",
+    "que": "El plan no dice qué cargos designará ni en qué plazo. Solo habla de \"procesos de designación\".",
+    "v": "alta",
+    "n": "Designar autoridades es función del CPCCS. Falta saber cuáles.",
+    "cita": "recuperar la institucionalidad mediante acciones y procesos de designación",
+    "pag": 1
+   },
+   {
+    "t": "Investigar denuncias de corrupción",
+    "que": "El plan no dice qué denuncias investigará, dónde ni en qué plazo.",
+    "v": "alta",
+    "n": "Investigar y pasar los informes a Fiscalía o Contraloría sí es función del CPCCS.",
+    "cita": "procesos de designación, investigación, capacitación y veedurías ciudadanas",
+    "pag": 1
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear veedurías ciudadanas, grupos de vecinos que vigilan a las instituciones",
+    "que": "El plan no dice dónde ni cuántas veedurías se crearán, ni qué vigilarán.",
+    "v": "alta",
+    "n": "Promover veedurías es función del CPCCS. Falta el detalle.",
+    "cita": "mediante acciones y procesos de designación, investigación, capacitación y veedurías ciudadanas",
+    "pag": 1
+   },
+   {
+    "t": "Dar capacitación sobre corrupción",
+    "que": "El plan no dice a quién capacitará, sobre qué temas ni cuándo.",
+    "v": "media",
+    "n": "Podría caber en promover la participación, pero el plan no lo explica.",
+    "cita": "mediante acciones y procesos de designación, investigación, capacitación y veedurías ciudadanas",
+    "pag": 1
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan no tiene cifras, plazos ni costos.",
+  "Propuesta muy general: frases de campaña sin detalle de qué hará el candidato."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1
+ ],
+ "paginas": 1
+}

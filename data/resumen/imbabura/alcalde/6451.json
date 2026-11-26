@@ -1,0 +1,107 @@
+{
+ "enfoque": "Plan de todo el cantón, no solo de El Sagrario: agua, basura, luz, espacios públicos, turismo y emprendimiento. No dice cuánto cuesta.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Dar agua potable, alcantarillado y recogida de basura a zonas urbanas y rurales.",
+    "que": "El plan fija una meta de cobertura de agua superior al 95 %. No dice cuánto costará ni en qué plazo exacto.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "cita": "Mejorar la cobertura y calidad de los servicios de agua potable, alcantarillado, manejo de residuos sólidos,",
+    "pag": 1
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer programas de reforestación y cuidado de fuentes de agua y biodiversidad.",
+    "que": "El plan habla de reforestación, educación ambiental y cambio climático. No dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Depende de otros niveles de Gobierno. El plan no dice cuánto costará.",
+    "cita": "Conservar y proteger el patrimonio natural, las fuentes hídricas y la biodiversidad, mediante programas de",
+    "pag": 2
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar espacios públicos y arreglar la iluminación de calles.",
+    "que": "El plan tiene una tabla con inventario, recuperación y alumbrado en sectores prioritarios. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Parques, calles y espacios públicos son del Municipio. El plan no dice cuánto costará.",
+    "cita": "espacios públicos, mejoramiento de la iluminación, uso de tecnología y coordinación con las instituciones",
+    "pag": 2
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Poner cámaras de vigilancia y luz en sectores peligrosos.",
+    "que": "El plan habla de prevención, cámaras y coordinación con las instituciones competentes. No dice cuánto costará.",
+    "v": "baja",
+    "n": "La policía no le toca al alcalde. El plan no dice cómo ni cuánto cuesta.",
+    "cita": "Contribuir al fortalecimiento de la seguridad ciudadana mediante acciones de prevención, recuperación de",
+    "pag": 2
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer programas para niños, jóvenes, mujeres, adultos mayores y personas con discapacidad.",
+    "que": "El plan no dice qué programas, cuántos beneficiarios ni cuánto costarán.",
+    "v": "media",
+    "n": "Depende de otros niveles de Gobierno. El plan no dice cómo se pagan.",
+    "cita": "mediante programas dirigidos a niñas, niños, jóvenes, mujeres, adultos mayores, personas con discapacidad y grupos de atención prioritaria,",
+    "pag": 2
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar emprendimientos en el cantón.",
+    "que": "El plan tiene como meta 500 emprendimientos apoyados. No dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "media",
+    "n": "Apoyar emprendimientos sí puede hacerlo el Municipio. Crear empleo no le toca directamente.",
+    "cita": "Fortalecer la economía del cantón mediante el impulso al emprendimiento, la innovación, el turismo",
+    "pag": 1
+   },
+   {
+    "t": "Promocionar Cotacachi como destino turístico sostenible.",
+    "que": "El plan habla de promoción nacional e internacional y de infraestructura turística. No dice cuánto costará.",
+    "v": "media",
+    "n": "Puede impulsarlo, pero depende de otros. El plan no dice cuánto costará.",
+    "cita": "Posicionar a Cotacachi como un destino turístico sostenible de referencia nacional e internacional",
+    "pag": 2
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar presupuesto, contratos y avance de obras en medios del Municipio.",
+    "que": "La información se publicará de forma periódica en medios oficiales. El plan no dice con qué frecuencia exacta ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio y no depende de otros. El plan no dice cuánto costará.",
+    "cita": "Publicación periódica, en los medios oficiales del Municipio, de información sobre presupuesto,",
+    "pag": 6
+   }
+  ]
+ },
+ "metas": [
+  "Cobertura de agua potable superior al 95 %, según la tabla del plan.",
+  "500 emprendimientos apoyados, según la tabla de desarrollo económico.",
+  "Informes de avance de metas cada seis meses (semestrales).",
+  "Rendición pública de cuentas una vez al año (anual)."
+ ],
+ "notas": [
+  "Parece un plan general del cantón: habla de todo Cotacachi y cita el plan de desarrollo del cantón, aunque figura la parroquia El Sagrario.",
+  "El plan casi no dice cuánto costará ni de dónde saldrá el dinero. Varias tablas salen con letra borrosa y el plan no tiene propuestas de caminos con datos."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "paginas": 10
+}

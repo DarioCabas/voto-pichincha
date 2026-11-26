@@ -1,0 +1,41 @@
+{
+ "enfoque": "Pide más veedurías ciudadanas para vigilar obras públicas, prevenir la corrupción y promover control social al elegir autoridades. No dice cómo lo hará.",
+ "tabla": {
+  "gobierno": [
+   {
+    "t": "Vigilar obras públicas con veedurías ciudadanas",
+    "que": "El plan no dice qué obras, en qué lugares ni con qué dinero. No dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Las veedurías son una función del CPCCS, pero el plan no dice qué obras se vigilarán.",
+    "cita": "Fortalecer las veedurías para vigilar obras públicas, prevenir la corrupción y",
+    "pag": 1
+   },
+   {
+    "t": "Promover el control social para elegir autoridades",
+    "que": "El plan no dice cómo se hará ni en qué procesos de selección participará la gente.",
+    "v": "alta",
+    "n": "Promover la participación y el control social es una función del CPCCS.",
+    "cita": "promover el control social para la selección de autoridades",
+    "pag": 1
+   },
+   {
+    "t": "Prevenir la corrupción",
+    "que": "El plan no dice cómo prevendrá la corrupción ni qué acciones concretas tomará.",
+    "v": "media",
+    "n": "El CPCCS puede investigar denuncias y pasarlas a Fiscalía o Contraloría, pero no castiga.",
+    "cita": "vigilar obras públicas, prevenir la corrupción y promover el control social",
+    "pag": 1
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan es muy corto y general: no dice qué obras vigilará ni cómo.",
+  "No tiene costos, plazos ni metas medibles."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1
+ ],
+ "paginas": 1
+}

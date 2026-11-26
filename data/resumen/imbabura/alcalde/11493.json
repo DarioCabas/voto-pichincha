@@ -1,0 +1,166 @@
+{
+ "enfoque": "Plan muy parecido al de Juan Arias (Ibarra): centro textil en la Fábrica Imbabura, créditos baratos contra el chulco, agua potable, aceras y cámaras.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Llevar agua potable al 95% y alcantarillado al 85% del cantón al 2031.",
+    "que": "Incluye redes en Natabuela, Chaltura, Imbaya y San Roque, y plantas de tratamiento. La tabla pone $9 millones. Parte saldría de un crédito del Banco de Desarrollo (BDE) de $5,7 millones.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de un crédito del banco de desarrollo.",
+    "cita": "Plan Maestro Agua Potable 95% cobertura cantonal y alcantarillado 85% al 2031, con redes Natabuela, Chaltura, Imbaya, San Roque",
+    "pag": 17
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear un fondo de crédito de $2 millones para comerciantes textiles, a 8% anual.",
+    "que": "Lo darían cooperativas de ahorro (COAC) y BanEcuador, con 8% anual en vez de 240% del chulco (préstamo informal de intereses muy altos). Busca sacar de la central de riesgos a 3.000 familias en 2 años.",
+    "v": "media",
+    "n": "Depende de cooperativas y BanEcuador, no solo del Municipio.",
+    "cita": "sacar de central riesgos a 3.000 familias en 2 años, enfoque mujeres 60%.",
+    "pag": 7
+   },
+   {
+    "t": "Convertir la Fábrica Imbabura en centro de innovación textil, con laboratorio de diseño y museo.",
+    "que": "Costaría $5 millones, con laboratorio de diseño, corte automatizado, museo y pasarela. El plan no dice en qué año empieza la obra.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el dinero viene en parte de un crédito del BDE.",
+    "cita": "Repotenciar Fábrica Imbabura con $5M como Centro de Innovación Textil, Museo Industrial, Laboratorio Diseño",
+    "pag": 25
+   },
+   {
+    "t": "Crear 1.500 empleos dignos en textiles y agro para 2031.",
+    "que": "El plan pone esta meta, pero no dice con qué programas se logra ni cuánto costará.",
+    "v": "baja",
+    "n": "Crear empleo no es competencia directa del alcalde, según la ley.",
+    "cita": "Meta: crear 1.500 empleos dignos textiles y agro al 2031, aumentar ventas textiles 40%.",
+    "pag": 25
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer aceras accesibles en 80% de las calles y 30 km de ciclovía.",
+    "que": "Ciclovía de Atuntaqui a Andrade Marín y Natabuela. La tabla pone $3,5 millones para aceras, ciclovía, parques y terminal juntos. El plan no separa cuánto va a cada cosa.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero la terminal depende del Ministerio de Transporte.",
+    "cita": "80% calles con aceras accesibles inclusivas, 30 km ciclovía Atuntaqui-Andrade Marín-Natabuela",
+    "pag": 27
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Crear 5 parques nuevos: 2 en Atuntaqui y 1 en cada parroquia rural.",
+    "que": "Parte del proyecto Verde y Movilidad Humana. El plan no dice cuánto cuesta cada parque ni cuándo se harían.",
+    "v": "alta",
+    "n": "Los parques le tocan al Municipio, según la ley.",
+    "cita": "5 parques nuevos (Atuntaqui 2, cada parroquia rural 1), alcanzar 8 m2 verde/hab",
+    "pag": 27
+   },
+   {
+    "t": "Regularizar 10 barrios informales y controlar el crecimiento desordenado al sur.",
+    "que": "Aplicaría el plan de uso y gestión del suelo (PUGS) y el plan de riesgos del río Ambi. Cuesta $0,2 millones según la tabla. El plan no dice en qué años.",
+    "v": "alta",
+    "n": "Uso del suelo y riesgos le tocan al Municipio, según la ley.",
+    "cita": "regularización 10 barrios informales, plan gestión riesgos río Ambi",
+    "pag": 27
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Actualizar el catastro en 2027 y subir la recaudación propia de 35% a 55%, sin subir impuestos.",
+    "que": "Costaría $0,6 millones según la tabla. El plan no dice en qué mes se terminaría el catastro.",
+    "v": "alta",
+    "n": "El catastro (registro de propiedades) es del Municipio.",
+    "cita": "Actualización catastral 2027 con enfoque social (no persecución), mejorar recaudación propia de 35% a 55% sin subir impuestos, cobro justo.",
+    "pag": 27
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar 120 cámaras conectadas al sistema de emergencias ECU911.",
+    "que": "Con convenio con ECU911 y centro de monitoreo las 24 horas. La tabla pone $2,5 millones junto con iluminación y alarmas. El plan no dice cuántas cámaras van en cada barrio.",
+    "v": "media",
+    "n": "El Municipio puede pagarlas, pero ECU911 es del Gobierno.",
+    "cita": "120 cámaras PTZ, ANPR, lA integradas ECU911 con Convenio GADMAA-SIS ECU911 2025",
+    "pag": 27
+   },
+   {
+    "t": "Crear una Policía Municipal de proximidad con 20 efectivos.",
+    "que": "Los agentes tendrían formación en derechos humanos y harían control del espacio público y brigadas contra drogas. El plan no dice cuánto cuesta.",
+    "v": "baja",
+    "n": "La policía no le toca al alcalde, según la ley.",
+    "cita": "Policía Municipal proximidad 20 efectivos con formación DDHH",
+    "pag": 27
+   }
+  ]
+ },
+ "metas": [
+  "Agua potable al 95% y alcantarillado al 85% al 2031.",
+  "Sacar de la central de riesgos a 3.000 familias en 2 años.",
+  "Crear 1.500 empleos dignos en textiles y agro al 2031.",
+  "Aumentar la pernoctación de turistas de 0,2 a 1,5 noches.",
+  "Reducir robos a locales 30% y extorsión por chulco 50% al 2031."
+ ],
+ "notas": [
+  "El plan dice que sigue en gran parte el plan de Juan Arias (Ibarra). Varias propuestas son de otros niveles de gobierno o de la Policía.",
+  "Según la tabla, los proyectos suman unos $29,4 millones, pero el total del plan dice $28,5 millones."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54
+ ],
+ "paginas": 54
+}

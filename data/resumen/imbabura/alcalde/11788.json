@@ -1,0 +1,120 @@
+{
+ "enfoque": "Obras de agua, alcantarillado, vías y basura, más turismo, agricultura y convenios con ministerios. Casi no dice costos ni plazos.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Sembrar árboles en 150 hectáreas de zonas vulnerables.",
+    "que": "Meta de 150 hectáreas de reforestación y energías limpias en espacios públicos. El plan no dice dónde, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Puede hacerlo con otras instituciones. El plan no dice cómo lo pagará.",
+    "cita": "Reforestar 150 hectáreas en zonas vulnerables y promover energías renovables en espacios públicos",
+    "pag": 4
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear rutas turísticas rurales con miradores, cascadas, haciendas y comida local.",
+    "que": "Rutas que unen miradores, cascadas, haciendas agrícolas y gastronomía. El plan no dice dónde, cuánto costará ni quién la financia.",
+    "v": "media",
+    "n": "Puede impulsarla, pero depende de otras instituciones y fondos.",
+    "cita": "Establecer rutas turísticas rurales que integren miradores, cascadas, haciendas agrícolas y gastronomía local",
+    "pag": 4
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar en internet los contratos y presupuestos del Municipio.",
+    "que": "Sistema digital con acceso público a contratos y presupuestos. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuándo estará listo.",
+    "cita": "Implementar un sistema digital de transparencia municipal con acceso público a contratos y presupuestos",
+    "pag": 4
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Construir o arreglar al menos 40 km de vías rurales y urbanas.",
+    "que": "El plan fija 40 km para mejorar la conexión. No dice cuánto costará ni en qué plazo.",
+    "v": "media",
+    "n": "Las vías rurales suelen ser de la Prefectura; depende de convenios.",
+    "cita": "Construir y rehabilitar al menos 40 km de vías rurales y urbanas para mejorar la conectividad",
+    "pag": 4
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Hacer un plan de agua potable y alcantarillado para comunidades rurales y barrios periféricos.",
+    "que": "El plan no dice qué obras serán, cuánto costarán ni cuándo se harán.",
+    "v": "alta",
+    "n": "Es competencia del Municipio. Faltan costo y plazo.",
+    "cita": "Implementar un Plan Integral de Agua Potable y Alcantarillado en comunidades rurales y barrios periféricos",
+    "pag": 3
+   },
+   {
+    "t": "Separar la basura y hacer abono con la orgánica.",
+    "que": "El plan habla de recoger basura separada y hacer abono, y de recoger plásticos de invernadero. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "buenas prácticas de recolección de Basura clasificada para generar Humus, abonos con la basura orgánica",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Capacitar a jóvenes en agroindustria, turismo y emprendimiento digital.",
+    "que": "Meta: bajar 20% la migración juvenil. El plan no dice cómo lo medirá ni cuánto costará.",
+    "v": "baja",
+    "n": "Capacitar y bajar la migración no le toca solo al alcalde.",
+    "cita": "Reducir en un 20% la migración juvenil mediante programas de capacitación en agroindustria, turismo comunitario y emprendimiento digital",
+    "pag": 3
+   },
+   {
+    "t": "Crear un centro de innovación para productos agrícolas y turísticos.",
+    "que": "Busca dar valor a productos locales y abrir mercados. El plan no dice dónde, cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Puede crearlo, pero necesita dinero de otras fuentes. El plan no dice cuál.",
+    "cita": "Crear un Centro de Innovación Agroindustrial y Turística",
+    "pag": 4
+   },
+   {
+    "t": "Hacer campañas permanentes contra la violencia de género.",
+    "que": "También programas de inclusión social. El plan no dice cuánto costará, cuántas campañas ni en qué barrios.",
+    "v": "media",
+    "n": "Campañas sí puede hacerlas; la justicia no es del Municipio.",
+    "cita": "Desarrollar campañas permanentes contra la violencia de género y programas de Inclusión social",
+    "pag": 4
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Ordenar el uso del suelo y la vialidad urbana.",
+    "que": "El plan dice que se hará con mucha disciplina, pero no dice qué normas ni dónde. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero la propuesta es muy general.",
+    "cita": "Promover el Buen uso de Suelo y la vialidad Urbana con mucha disciplina",
+    "pag": 5
+   }
+  ]
+ },
+ "metas": [
+  "Reducir en un 20% la migración juvenil.",
+  "Reforestar 150 hectáreas en zonas vulnerables.",
+  "Construir o rehabilitar al menos 40 km de vías rurales y urbanas.",
+  "Asambleas comunitarias cada tres meses en cada parroquia y comunidad rural.",
+  "Informe anual a la ciudadanía sobre el cumplimiento del plan."
+ ],
+ "notas": [
+  "Varias propuestas dependen de convenios con ministerios (salud, educación, comedores). Esas no son del alcalde.",
+  "Casi ninguna propuesta dice cuánto costará ni cuándo. Pregunte a la candidata por costos y plazos."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "paginas": 6
+}

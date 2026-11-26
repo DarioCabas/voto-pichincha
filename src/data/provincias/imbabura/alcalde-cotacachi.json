@@ -1,0 +1,530 @@
+{
+  "canton": "COTACACHI",
+  "candidatos": [
+    {
+      "codFormulario": 6451,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan de todo el cantón, no solo de El Sagrario: agua, basura, luz, espacios públicos, turismo y emprendimiento. No dice cuánto cuesta.",
+      "tabla": {
+        "servicios": [
+          {
+            "t": "Dar agua potable, alcantarillado y recogida de basura a zonas urbanas y rurales.",
+            "que": "El plan fija una meta de cobertura de agua superior al 95 %. No dice cuánto costará ni en qué plazo exacto.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+            "cita": "Mejorar la cobertura y calidad de los servicios de agua potable, alcantarillado, manejo de residuos sólidos,",
+            "pag": 1
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Hacer programas de reforestación y cuidado de fuentes de agua y biodiversidad.",
+            "que": "El plan habla de reforestación, educación ambiental y cambio climático. No dice dónde ni cuánto costará.",
+            "v": "media",
+            "n": "Depende de otros niveles de Gobierno. El plan no dice cuánto costará.",
+            "cita": "Conservar y proteger el patrimonio natural, las fuentes hídricas y la biodiversidad, mediante programas de",
+            "pag": 2
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Recuperar espacios públicos y arreglar la iluminación de calles.",
+            "que": "El plan tiene una tabla con inventario, recuperación y alumbrado en sectores prioritarios. No dice cuánto costará.",
+            "v": "alta",
+            "n": "Parques, calles y espacios públicos son del Municipio. El plan no dice cuánto costará.",
+            "cita": "espacios públicos, mejoramiento de la iluminación, uso de tecnología y coordinación con las instituciones",
+            "pag": 2
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Poner cámaras de vigilancia y luz en sectores peligrosos.",
+            "que": "El plan habla de prevención, cámaras y coordinación con las instituciones competentes. No dice cuánto costará.",
+            "v": "baja",
+            "n": "La policía no le toca al alcalde. El plan no dice cómo ni cuánto cuesta.",
+            "cita": "Contribuir al fortalecimiento de la seguridad ciudadana mediante acciones de prevención, recuperación de",
+            "pag": 2
+          }
+        ],
+        "social": [
+          {
+            "t": "Hacer programas para niños, jóvenes, mujeres, adultos mayores y personas con discapacidad.",
+            "que": "El plan no dice qué programas, cuántos beneficiarios ni cuánto costarán.",
+            "v": "media",
+            "n": "Depende de otros niveles de Gobierno. El plan no dice cómo se pagan.",
+            "cita": "mediante programas dirigidos a niñas, niños, jóvenes, mujeres, adultos mayores, personas con discapacidad y grupos de atención prioritaria,",
+            "pag": 2
+          }
+        ],
+        "economia": [
+          {
+            "t": "Apoyar emprendimientos en el cantón.",
+            "que": "El plan tiene como meta 500 emprendimientos apoyados. No dice cuánto costará ni de dónde saldrá el dinero.",
+            "v": "media",
+            "n": "Apoyar emprendimientos sí puede hacerlo el Municipio. Crear empleo no le toca directamente.",
+            "cita": "Fortalecer la economía del cantón mediante el impulso al emprendimiento, la innovación, el turismo",
+            "pag": 1
+          },
+          {
+            "t": "Promocionar Cotacachi como destino turístico sostenible.",
+            "que": "El plan habla de promoción nacional e internacional y de infraestructura turística. No dice cuánto costará.",
+            "v": "media",
+            "n": "Puede impulsarlo, pero depende de otros. El plan no dice cuánto costará.",
+            "cita": "Posicionar a Cotacachi como un destino turístico sostenible de referencia nacional e internacional",
+            "pag": 2
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Publicar presupuesto, contratos y avance de obras en medios del Municipio.",
+            "que": "La información se publicará de forma periódica en medios oficiales. El plan no dice con qué frecuencia exacta ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio y no depende de otros. El plan no dice cuánto costará.",
+            "cita": "Publicación periódica, en los medios oficiales del Municipio, de información sobre presupuesto,",
+            "pag": 6
+          }
+        ]
+      },
+      "metas": [
+        "Cobertura de agua potable superior al 95 %, según la tabla del plan.",
+        "500 emprendimientos apoyados, según la tabla de desarrollo económico.",
+        "Informes de avance de metas cada seis meses (semestrales).",
+        "Rendición pública de cuentas una vez al año (anual)."
+      ],
+      "notas": [
+        "Parece un plan general del cantón: habla de todo Cotacachi y cita el plan de desarrollo del cantón, aunque figura la parroquia El Sagrario.",
+        "El plan casi no dice cuánto costará ni de dónde saldrá el dinero. Varias tablas salen con letra borrosa y el plan no tiene propuestas de caminos con datos."
+      ]
+    },
+    {
+      "codFormulario": 1219,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Propone obras y servicios de agua, basura, parques, calles y ambiente, con informes públicos. No dice montos ni fechas exactas; parte del texto es de otro plan.",
+      "tabla": {
+        "urbano": [
+          {
+            "t": "Actualizar los planes de uso del suelo y de ordenamiento del cantón",
+            "que": "El plan dice que actualizará los instrumentos de planificación del territorio. No dice cuánto costará ni en qué plazo.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto cuesta ni cuándo.",
+            "cita": "Actualización y fortalecimiento de los instrumentos de planificación territorial",
+            "pag": 19
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Proteger y recuperar las fuentes de agua del cantón",
+            "que": "El plan dice que habrá programas de protección de fuentes de agua. No dice en qué lugares ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto cuesta ni en qué plazo.",
+            "cita": "Fortalecimiento de programas de protección y recuperación de fuentes hídricas",
+            "pag": 15
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Mejorar la gestión de residuos sólidos (basura) del cantón",
+            "que": "El plan habla de mejorar la gestión de residuos sólidos, sin decir qué cambios ni dónde. No dice cuánto costará.",
+            "v": "alta",
+            "n": "La basura es competencia municipal. El plan no dice qué cambios ni cuánto cuesta.",
+            "cita": "Fortalecimiento de la gestión integral de residuos sólidos",
+            "pag": 11
+          },
+          {
+            "t": "Arreglar y cuidar parques y áreas recreativas",
+            "que": "El plan dice que recuperará y mantendrá parques y áreas recreativas. No dice cuáles ni cuánto costará.",
+            "v": "alta",
+            "n": "Los parques son del Municipio. El plan no dice cuáles ni cuándo.",
+            "cita": "Recuperación y mantenimiento de parques y áreas recreativas",
+            "pag": 19
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Gestionar proyectos de movilidad y seguridad vial",
+            "que": "El plan no dice qué proyectos, dónde ni cuánto costarán. Solo dice que se gestionarán con otros niveles de gobierno.",
+            "v": "media",
+            "n": "El tránsito sí es del Municipio, pero los proyectos dependen de financiamiento. El plan no dice cuánto.",
+            "cita": "Gestión de proyectos de movilidad y seguridad vial",
+            "pag": 19
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Mejorar iluminación de espacios públicos, junto con otras instituciones",
+            "que": "El plan no dice qué espacios, dónde ni cuánto costará. Para la seguridad pide coordinar con otras instituciones.",
+            "v": "media",
+            "n": "La luz sí es del Municipio; la policía no. El plan no dice cuánto cuesta.",
+            "cita": "Mejoramiento de iluminación y seguridad de espacios públicos mediante coordinación",
+            "pag": 19
+          }
+        ],
+        "social": [
+          {
+            "t": "Crear programas de atención para adultos mayores",
+            "que": "El plan dice que habrá programas para adultos mayores, con gestión directa y convenios. No dice cuántos atenderá ni cuánto costará.",
+            "v": "media",
+            "n": "Puede hacer programas, pero depende de convenios. El plan no dice montos ni fechas.",
+            "cita": "Programas de atención integral para personas adultas mayores",
+            "pag": 17
+          }
+        ],
+        "economia": [
+          {
+            "t": "Hacer ferias y espacios de venta para productores locales",
+            "que": "El plan no dice dónde ni cuándo habrá ferias, ni cuánto costará.",
+            "v": "alta",
+            "n": "Los mercados son del Municipio. El plan no dice dónde ni cuándo.",
+            "cita": "Promoción de ferias y espacios de comercialización para productores locales",
+            "pag": 17
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Crear controles para seguir obras y contratos municipales",
+            "que": "El plan dice que habrá mecanismos de seguimiento a obras y contratos. No dice cuándo empieza ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto cuesta ni cuándo empieza.",
+            "cita": "Implementación de mecanismos de seguimiento a obras y contratos",
+            "pag": 21
+          }
+        ]
+      },
+      "metas": [
+        "Informe anual de gestión y rendición de cuentas cada año.",
+        "Publicar avances y seguimiento de compromisos cada tres meses.",
+        "Evaluación de resultados y asamblea o audiencia pública cada seis meses.",
+        "Diagnóstico y planificación de proyectos en 2027; ejecución de proyectos prioritarios en 2028.",
+        "Evaluación final del plan en 2031."
+      ],
+      "notas": [
+        "El plan no pone montos ni fechas para casi ninguna obra. Dice que las metas y montos serán validados después.",
+        "Parte del texto es de otro plan: habla de 'Santa Ana de Cotacachi' y de un 'plan de referencia'."
+      ]
+    },
+    {
+      "codFormulario": 7111,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan de 4 años para agua, basura, calles, catastro y riesgos, basado en el plan de desarrollo y de uso del suelo de Cotacachi. Suma USD 24 millones.",
+      "tabla": {
+        "ambiente": [
+          {
+            "t": "Ajustar las rutas de recolección y hacer reciclaje y compostaje de basura.",
+            "que": "El plan pone USD 1.900.000. No dice en qué zonas ni en qué año. Incluye también residuos especiales.",
+            "v": "alta",
+            "n": "La basura es competencia del Municipio. El plan no dice en qué zonas se hará.",
+            "cita": "Optimización de rutas, reciclaje, compostaje y gestión de residuos especiales",
+            "pag": 10
+          },
+          {
+            "t": "Prevenir incendios y organizar a las comunidades frente a riesgos naturales.",
+            "que": "El plan pone USD 1.800.000 para zonas de riesgo. No dice qué zonas ni cuándo. Coordina con Bomberos, que es otra entidad.",
+            "v": "alta",
+            "n": "Prevenir desastres es del Municipio. Bomberos es otra entidad, con su propia tarea.",
+            "cita": "Prevención de incendios, gestión comunitaria de riesgos y fortalecimiento de respuesta",
+            "pag": 10
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Publicar un tablero digital con estado, monto y avance de cada proyecto.",
+            "que": "El plan dice que el tablero se actualizará cada tres meses. No dice cuánto costará hacerlo.",
+            "v": "alta",
+            "n": "Publicar información de obras es tarea del Municipio. El plan no dice el costo.",
+            "cita": "Tablero digital de proyectos con estado, monto, fuente de financiamiento, contratista",
+            "pag": 19
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Dar mantenimiento a vías del cantón y poner señales de tránsito.",
+            "que": "El plan pone USD 2.300.000. No dice qué calles serán ni en qué año. Las vías rurales dependen del Gobierno Provincial de Imbabura.",
+            "v": "alta",
+            "n": "Calles y señales son del Municipio. Las vías rurales dependen del Gobierno Provincial.",
+            "cita": "Mantenimiento vial, señalización, accesibilidad y gestión concurrente de vías",
+            "pag": 11
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Hacer estudios y ampliar agua y alcantarillado en parroquias con déficit.",
+            "que": "El plan pone USD 3.200.000 para esto. No dice qué parroquias ni en qué año se hará cada obra.",
+            "v": "alta",
+            "n": "Agua y alcantarillado son del Municipio. El plan no dice qué parroquias.",
+            "cita": "Estudios, ampliación y mejoramiento progresivo de sistemas priorizados",
+            "pag": 11
+          }
+        ],
+        "social": [
+          {
+            "t": "Dar prevención y atención comunitaria para proteger derechos de niños, jóvenes y familias.",
+            "que": "El plan pone USD 1.050.000. No dice en qué año. Se haría junto con otras entidades y redes comunitarias.",
+            "v": "media",
+            "n": "Protección de derechos depende de otras entidades. El Municipio coordina y apoya.",
+            "cita": "Fortalecimiento de protección de derechos, prevención y atención comunitaria",
+            "pag": 11
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Actualizar mapas, límites y catastro, y ajustar las reglas de uso del suelo.",
+            "que": "El plan pone USD 3.100.000. No dice en qué año se hará cada parte del trabajo.",
+            "v": "alta",
+            "n": "Mapas, catastro y uso del suelo son del Municipio. El plan no da plazos.",
+            "cita": "Actualización cartográfica, delimitaciones, catastro y aplicación/ajuste del PUGS",
+            "pag": 11
+          },
+          {
+            "t": "Recuperar espacios públicos para deporte y recreación en ciudad y campo.",
+            "que": "El plan pone USD 900.000. No dice qué espacios se recuperarán ni en qué año.",
+            "v": "alta",
+            "n": "Parques y espacios públicos son del Municipio. El plan no dice cuáles.",
+            "cita": "Deporte, recreación y recuperación de espacios públicos inclusivos",
+            "pag": 11
+          }
+        ]
+      },
+      "metas": [
+        "Hacer al menos 8 intervenciones ambientales y de prevención de riesgos en los 4 años.",
+        "Apoyar al menos 200 emprendimientos con asistencia, promoción o contactos comerciales.",
+        "Consolidar al menos 4 circuitos o acciones turísticas en el período.",
+        "Publicar cada 3 meses el tablero de avance físico y de dinero del plan.",
+        "Publicar cada 6 meses un informe público de avance del plan."
+      ],
+      "notas": [
+        "Los montos son cifras de planificación, no presupuesto aprobado. En total suman USD 24 millones en 4 años.",
+        "Varias metas son de otros niveles: empleo, salud, educación y seguridad no son tareas del Municipio."
+      ]
+    },
+    {
+      "codFormulario": 11183,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan general: cuidar la naturaleza, mejorar agua, alcantarillado, basura, calles y vías, y promover turismo y cultura. Varias metas dependen de otras instituciones.",
+      "tabla": {
+        "servicios": [
+          {
+            "t": "Invertir más en agua potable, sobre todo en el campo.",
+            "que": "La meta es más cobertura de agua potable. El plan prioriza las parroquias rurales. No dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+            "cita": "Incrementar la inversión en acceso al agua potable.",
+            "pag": 12
+          },
+          {
+            "t": "Invertir más en alcantarillado y mejorar la recolección de basura.",
+            "que": "La meta es más cobertura de alcantarillado y mejor recolección de desechos. El plan no dice cuánto costará ni en qué plazo.",
+            "v": "alta",
+            "n": "Le toca al Municipio. Faltan costo y plazo.",
+            "cita": "Incrementar la inversión en sistemas de alcantarillado. Mejorar la recolección de desechos.",
+            "pag": 12
+          },
+          {
+            "t": "Crear un programa de tratamiento de residuos.",
+            "que": "El plan pide un programa de tratamiento de residuos con enfoque de economía circular (reutilizar lo que se desecha). No dice dónde ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+            "cita": "Un programa de tratamiento de residuos con enfoque de economía circular.",
+            "pag": 12
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Mejorar 40 kilómetros de vías.",
+            "que": "La meta es 40 kilómetros de mejoramiento vial. El plan no dice dónde ni cuánto costará. Pide un convenio con la Prefectura de Imbabura.",
+            "v": "media",
+            "n": "Las vías rurales dependen de la Prefectura. El plan no dice cuánto costará.",
+            "cita": "Invertir en el mejoramiento vial. Promover acciones de apoyo a la movilidad sostenible.",
+            "pag": 12
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Ampliar la zona de regeneración urbana y embellecer el territorio.",
+            "que": "Busca atraer turistas. El plan pide 1 proyecto de embellecimiento. No dice dónde ni cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice dónde ni cuánto costará.",
+            "cita": "Ampliar el área de regeneración urbana y embellecimiento del territorio para mejorar la atracción turística.",
+            "pag": 12
+          }
+        ],
+        "economia": [
+          {
+            "t": "Crear un sistema de ferias de productores y circuitos de venta.",
+            "que": "Ferias para que los productores vendan. El plan no dice dónde, cuándo ni cuánto costará.",
+            "v": "alta",
+            "n": "Los mercados son del Municipio. El plan no dice dónde ni cuándo.",
+            "cita": "Sistema de ferias de productores, circuitos de comercialización.",
+            "pag": 13
+          },
+          {
+            "t": "Crear una marca Cotacachi para vender los productos del cantón.",
+            "que": "Busca dar a conocer los productos del cantón en el mundo. El plan no dice cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "La promoción turística no está en la lista municipal. Depende de otros.",
+            "cita": "1 marca Cotacachi para posicionar los productos del territorio en el mundo.",
+            "pag": 13
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Gestionar proyectos para cuidar ríos, lagos, quebradas y cuencas.",
+            "que": "El plan no dice qué proyectos ni cuánto costará. Va junto con la meta de 5.000 hectáreas en restauración.",
+            "v": "media",
+            "n": "Depende de otras instituciones y fondos. El plan no dice costo.",
+            "cita": "Gestionar proyectos para manejo integral de cuencas, protección de lagos, ríos y quebradas.",
+            "pag": 11
+          }
+        ],
+        "otros": [
+          {
+            "t": "Tener un sistema de gestión de riesgos para desastres.",
+            "que": "El plan no dice qué hará, cuánto costará ni cuándo. Solo dice que lo va a fortalecer.",
+            "v": "alta",
+            "n": "Le toca al Municipio. Falta detalle de qué hará.",
+            "cita": "Fortalecer el sistema de gestión de riesgos. Diseñar proyectos de impulso de la agricultura regenerativa.",
+            "pag": 11
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Aprobar una ordenanza para que los vecinos decidan parte del presupuesto.",
+            "que": "El plan pide una ordenanza de ciudadanía activa y presupuesto participativo. No dice qué parte del presupuesto ni cuándo.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice qué monto.",
+            "cita": "Activar el gobierno digital y abierto. Dinamizar el presupuesto participativo.",
+            "pag": 14
+          }
+        ]
+      },
+      "metas": [
+        "5.000 hectáreas en proceso de restauración.",
+        "40 kilómetros de mejoramiento vial.",
+        "1 proyecto de regeneración y embellecimiento del territorio.",
+        "1 programa de tratamiento de residuos.",
+        "Una ordenanza de ciudadanía activa y presupuesto participativo."
+      ],
+      "notas": [
+        "El plan no dice cuánto costará ninguna propuesta ni en qué plazo se hará. Casi todas las metas son generales.",
+        "Parte del texto es diagnóstico y metas de salud, escuelas, energía y cultura, que no son del alcalde."
+      ]
+    },
+    {
+      "codFormulario": 7357,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Obras de agua, alcantarillado, calles, basura y juegos infantiles. Gran parte del texto copia el plan de desarrollo del cantón (PDOT).",
+      "tabla": {
+        "servicios": [
+          {
+            "t": "Comprar un recolector de basura nuevo para Cotacachi.",
+            "que": "El plan pone 200.000 dólares para el manejo de basura, con crédito y recursos propios. No dice cuánto cuesta solo el recolector.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuándo se compra.",
+            "cita": "Adquisición de un recolector nuevo para brindar el servicio en cantón Cotacachi",
+            "pag": 5
+          },
+          {
+            "t": "Construir o mejorar 10 sistemas de agua y 5 de alcantarillado en zonas rurales.",
+            "que": "Pone 900.000 dólares para agua y 750.000 para alcantarillado, con banca pública y recursos propios. No dice en qué comunidades.",
+            "v": "alta",
+            "n": "Es competencia del Municipio. El plan sí pone dinero, pero no dice de dónde sale todo.",
+            "cita": "Construidos y/o mejorados 10 sistemas de agua y 5 sistemas de alcantarillado",
+            "pag": 6
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Hacer 10 nuevos adoquinados en calles de la zona andina, urbana, Intag y Golondrinas.",
+            "que": "Pone 1.600.000 dólares para mejorar vías, con recursos propios y banca pública. El plan no dice en qué calles ni en qué años.",
+            "v": "alta",
+            "n": "Calles urbanas y de la zona son del Municipio. Las vías provinciales no.",
+            "cita": "10 nuevos adoquinados de vías en la zona andina, urbana, Intag y golondrinas construidos",
+            "pag": 7
+          },
+          {
+            "t": "Ampliar calles para conectar el anillo periférico de la ciudad.",
+            "que": "El plan no dice cuánto costará ni cuándo. No dice qué calles se amplían.",
+            "v": "alta",
+            "n": "Son calles urbanas, le toca al Municipio. Falta costo y plazo.",
+            "cita": "Ampliación de calles que permita la conectividad en el anillo periférico",
+            "pag": 9
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Poner un sistema de alerta temprana para avisar de incendios en el bosque.",
+            "que": "Pone 30.000 dólares, con recursos propios y cooperación internacional. El plan no dice en qué zonas se instala.",
+            "v": "alta",
+            "n": "La prevención de desastres es del Municipio. Depende en parte de dinero de afuera.",
+            "cita": "Implementación de un sistema de alerta temprana frente a la ocurrencia de incendios forestales",
+            "pag": 5
+          }
+        ],
+        "social": [
+          {
+            "t": "Poner 5 juegos infantiles inclusivos en parques, uno en Cotacachi y cuatro en parroquias rurales.",
+            "que": "Pone 180.000 dólares con recursos propios. Las metas del plan dicen 16 juegos, no 5.",
+            "v": "alta",
+            "n": "Los parques son del Municipio. El plan no dice en qué parques.",
+            "cita": "Implementación de 5 juegos infantiles inclusivos en parques",
+            "pag": 6
+          },
+          {
+            "t": "Poner un centro de rehabilitación física en Cotacachi.",
+            "que": "Pone 100.000 dólares, con recursos propios y convenios. El plan no dice cuándo se abre ni quién lo atiende.",
+            "v": "baja",
+            "n": "Es un servicio de salud. Esa parte no le toca al Municipio.",
+            "cita": "Implementación y funcionamiento de un centro de rehabilitación física",
+            "pag": 9
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Regularizar asentamientos humanos de hecho en Intag y Golondrinas.",
+            "que": "El plan no dice cuánto costará ni cuándo. No dice cuántas familias se benefician.",
+            "v": "alta",
+            "n": "El uso del suelo es del Municipio. Falta costo y plazo.",
+            "cita": "Regularización de asentamientos humanos de hecho en Intag y Golondrinas",
+            "pag": 7
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Comprar cámaras de videovigilancia con equipo NVR.",
+            "que": "Pone 150.000 dólares, con recursos propios. Ejecución en un año. No dice dónde se instalarán.",
+            "v": "media",
+            "n": "El Municipio puede comprarlas. La policía que las mira no le toca.",
+            "cita": "Adquisición de cámaras de video seguridad con equipo NVR",
+            "pag": 12
+          }
+        ],
+        "economia": [
+          {
+            "t": "Crear una tienda virtual para vender productos artesanales y agrícolas de Cotacachi.",
+            "que": "Pone 15.000 dólares con recursos propios. El plan no dice cuántos productores entran ni cuándo.",
+            "v": "media",
+            "n": "Es promoción económica, no servicio municipal básico. Depende de productores.",
+            "cita": "Establecimiento de una tienda virtual para los productos artesanales y agrícolas que se producen en",
+            "pag": 31
+          }
+        ]
+      },
+      "metas": [
+        "10 sistemas de agua y 5 de alcantarillado construidos o mejorados.",
+        "10 nuevos adoquinados en la zona andina, urbana, Intag y Golondrinas.",
+        "1 recolector de basura nuevo.",
+        "16 juegos infantiles inclusivos instalados.",
+        "350 productoras agroecológicas beneficiadas."
+      ],
+      "notas": [
+        "Gran parte del plan copia el plan de desarrollo del cantón (PDOT). Muchas propuestas no dicen cuánto cuestan ni cuándo.",
+        "Hay datos que no coinciden: los juegos infantiles dicen 5 en la propuesta y 16 en las metas.",
+        "Plan muy largo (61 págs.): se resumieron las 55 páginas con propuestas."
+      ]
+    }
+  ]
+}

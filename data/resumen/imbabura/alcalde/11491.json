@@ -1,0 +1,124 @@
+{
+ "enfoque": "Propone agua y alcantarillado rurales, una empresa municipal de reciclaje, espacios deportivos y más control ciudadano. No dice cuánto cuesta ni en qué plazo.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Poner en marcha la ordenanza del Fondo de Agua para proteger páramos y fuentes de agua.",
+    "que": "El plan no explica qué hace el Fondo ni cuánto costará. Es para proteger páramos y fuentes de agua.",
+    "v": "alta",
+    "n": "Es una ordenanza del Municipio. El plan no dice cuánto dinero tendrá.",
+    "cita": "Implementar la ordenanza del Fondo de Agua para proteger pdramos y fuentes hidricas.",
+    "pag": 5
+   },
+   {
+    "t": "Crear una empresa municipal de economía circular para reciclar y reducir basura.",
+    "que": "Haría reciclaje, compostaje (abono de restos orgánicos) y manejo de basura, y reduciría el plástico. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Basura y reciclaje son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Crear la Empresa Ptiblica de Economia Circular para impulsar el reaprovechamiento, reciclaje, compostaje",
+    "pag": 5
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Llevar agua potable y alcantarillado a comunidades rurales y barrios de las afueras.",
+    "que": "Son las zonas con más falta de servicios. El plan no dice cuánto costará ni en qué plazo se hará.",
+    "v": "alta",
+    "n": "Agua y alcantarillado son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Implementar el Plan Integral de Agua Potable y Alcantarillado para comunidades rurales y barrios perifericos",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar y ampliar espacios deportivos, recreativos y comunitarios.",
+    "que": "Son canchas, parques y lugares de reunión del barrio. El plan no dice dónde ni cuántos se harán, ni cuánto costará.",
+    "v": "alta",
+    "n": "Parques y espacios públicos son del Municipio.",
+    "cita": "Ampliar y recuperar espacios deportivos, recreativos y comunitarios.",
+    "pag": 6
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Construir y arreglar vías para conectar mejor el cantón, junto con la Prefectura.",
+    "que": "Se hará con convenios con la Prefectura de Imbabura, el gobierno de la provincia. El plan no dice qué vías ni cuánto costará.",
+    "v": "media",
+    "n": "Depende de la Prefectura. El plan no dice qué calles ni cuándo.",
+    "cita": "Construir y rehabilitar infraestructura vial para fortalecer la conectividad del canton",
+    "pag": 6
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Poner cámaras y drones de vigilancia, con el ECU 911.",
+    "que": "El ECU 911 es el centro de emergencias. El plan no dice cuánto costará, cuántas cámaras habrá ni dónde.",
+    "v": "media",
+    "n": "Depende del ECU 911 y de la Policía, que no son del alcalde.",
+    "cita": "Implementar un sistema integral de videovigilancia y monitoreo mediante camaras y drones en coordinaci6n con el ECU 911",
+    "pag": 7
+   }
+  ],
+  "social": [
+   {
+    "t": "Poner en marcha el programa CRE-SER para la primera infancia.",
+    "que": "Da cuidado, nutrición, salud y desarrollo para niños pequeños. El plan no dice cuánto costará ni cuántos niños atenderá.",
+    "v": "media",
+    "n": "Salud y educación no son del Municipio. El plan no dice quién pagará.",
+    "cita": "Implementar el programa municipal para la primera infancia CRE-SER, enfocado en los servicios de cuidado, nutrici6n",
+    "pag": 6
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear un centro de acopio agrícola para guardar y vender productos del campo.",
+    "que": "Guardar, clasificar y vender productos del campo, y negociar directo con grandes cadenas. El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Mercados sí son del Municipio; negociar con cadenas depende de ellas.",
+    "cita": "Crear un centro de acopio agricola cantonal que garantice el pago",
+    "pag": 6
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer reuniones del Concejo Municipal en cada parroquia rural una vez al mes.",
+    "que": "Las reuniones se harán en las parroquias rurales, una vez por mes. El plan no dice cómo se avisará ni cuánto costará.",
+    "v": "alta",
+    "n": "Depende solo del Municipio y del Concejo.",
+    "cita": "Realizar concejos Municipales Itinerantes en todas las parroquias rurales",
+    "pag": 8
+   },
+   {
+    "t": "Poner en internet la información del Municipio: contratos y presupuesto.",
+    "que": "Cualquier persona podrá ver la información institucional, contratos y presupuesto. El plan no dice cuándo estará listo.",
+    "v": "alta",
+    "n": "La información del Municipio es de competencia del alcalde.",
+    "cita": "Implementar un sistema digital de transparencia con acceso phblico a informaci6n institucional, contratos y presupuesto.",
+    "pag": 7
+   }
+  ]
+ },
+ "metas": [
+  "Reuniones del Concejo en cada parroquia rural una vez por mes.",
+  "Publicar cada mes los avances de obras, proyectos e inversión pública.",
+  "Presentar un informe anual del cumplimiento del plan."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni en qué plazo se hará.",
+  "Varias propuestas dependen de la Policía, el ECU 911 o la Prefectura. El plan no aclara qué parte le toca al alcalde."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "paginas": 10
+}

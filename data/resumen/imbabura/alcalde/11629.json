@@ -1,0 +1,117 @@
+{
+ "enfoque": "Obras de alcantarillado, basura, parques y reglas de uso del suelo, y un parqueadero en Atuntaqui. También pide empleo y educación, que no son del Municipio.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Construir un parqueadero subterráneo en la Plaza Libertad de Atuntaqui.",
+    "que": "Lo haría con el Ministerio de Transporte y Obras Públicas y la Prefectura (gobierno de la provincia). El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Depende de otras instituciones. El plan no dice costo ni fecha.",
+    "cita": "Construir un parqueadero subterráneo en la Plaza Libertad de Atuntaqui.",
+    "pag": 16
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Hacer planes para el alcantarillado (tuberías de aguas servidas y de lluvia) del cantón.",
+    "que": "Incluye las parroquias rurales. El plan no dice dónde se harán, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice costo ni plazo.",
+    "cita": "Implementación de planes maestros de alcantarillado sanitario y pluvial del cantón Antonio Ante",
+    "pag": 14
+   },
+   {
+    "t": "Manejar la basura de las zonas rurales, con reciclaje y menos desechos.",
+    "que": "El plan habla de reciclaje, separar la basura y reducir desechos, pero no dice cómo. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cómo ni cuánto costará.",
+    "cita": "Gestión de residuos sólidos en las zonas rurales",
+    "pag": 15
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger las cuencas de los ríos y manejar el agua del cantón.",
+    "que": "Las cuencas son zonas que juntan el agua de los ríos. El plan no dice dónde ni cuánto costará; lo haría con el Ministerio del Ambiente.",
+    "v": "media",
+    "n": "Depende del Ministerio del Ambiente y Agua. El plan no dice costo ni plazo.",
+    "cita": "la protección de cuencas hidrográficas y la gestión sostenible del agua",
+    "pag": 5
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar las reglas de uso del suelo: dónde se puede construir y para qué.",
+    "que": "Es el plan de ordenamiento y las normas de uso de suelo del cantón. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Actualizar el Plan de Ordenamiento Territorial (PDOT), PUGS y normativa de uso de suelo",
+    "pag": 15
+   },
+   {
+    "t": "Recuperar y crear espacios públicos y áreas verdes en el cantón.",
+    "que": "Incluye construir y arreglar parques. El plan no dice en qué lugares ni cuánto costará.",
+    "v": "alta",
+    "n": "Parques y espacios públicos son del Municipio. El plan no dice dónde ni cuándo.",
+    "cita": "Recuperación y creación de espacios públicos y áreas verdes",
+    "pag": 15
+   }
+  ],
+  "economia": [
+   {
+    "t": "Apoyar al sector productivo para crear empleo digno.",
+    "que": "Incluye capacitación técnica y apoyo a emprendedores. El plan no dice cómo ni cuánto costará.",
+    "v": "baja",
+    "n": "El empleo no le toca al alcalde directamente. El plan no dice cómo lo hará.",
+    "cita": "Impulsar la generación de empleo digno a través del fortalecimiento del sector productivo",
+    "pag": 10
+   },
+   {
+    "t": "Crear espacios para ferias y eventos de comercio local.",
+    "que": "Incluye servicios financieros para mujeres, jóvenes y personas con discapacidad. El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Las ferias sí son del Municipio; los servicios financieros dependen de otros.",
+    "cita": "Promover el desarrollo del comercio local mediante la generación de espacios para ferias, eventos",
+    "pag": 9
+   }
+  ],
+  "social": [
+   {
+    "t": "Fomentar la educación con tecnología e idiomas.",
+    "que": "Las escuelas y colegios no son del Municipio. El plan no dice dónde ni cuánto costará.",
+    "v": "baja",
+    "n": "Educación no le toca al Municipio, según la ley.",
+    "cita": "Fomentar la educación integral, priorizando el uso de tecnologías, el fortalecimiento de capacidades",
+    "pag": 9
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan casi no pone cifras, costos ni plazos. Gran parte del texto son explicaciones generales de leyes y planes, no propuestas.",
+  "Incluye temas que no son del Municipio: empleo, escuelas, salud y policía. Revise esas propuestas con cuidado."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19
+ ],
+ "paginas": 19
+}

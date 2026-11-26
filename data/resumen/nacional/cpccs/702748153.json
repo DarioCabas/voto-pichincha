@@ -1,0 +1,41 @@
+{
+ "enfoque": "Propone más participación ciudadana, acabar con la corrupción y hacer concursos para elegir autoridades. No explica cómo lo hará.",
+ "tabla": {
+  "gobierno": [
+   {
+    "t": "Promover la participación ciudadana.",
+    "que": "El plan no explica qué hará para que la gente participe. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Es función del CPCCS promover la participación. El plan no dice cómo lo hará.",
+    "cita": "Impulsaré la participación ciudadana, erradicación de la corrupción y",
+    "pag": 1
+   },
+   {
+    "t": "Acabar con la corrupción.",
+    "que": "El plan no explica qué medidas tomará contra la corrupción. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "El CPCCS investiga la corrupción y pasa los casos a Fiscalía o Contraloría. No sanciona.",
+    "cita": "erradicación de la corrupción y realización de concursos de autoridades ágiles",
+    "pag": 1
+   },
+   {
+    "t": "Hacer concursos para elegir autoridades ágiles y transparentes.",
+    "que": "El plan no explica qué concursos hará ni para qué autoridades. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "El CPCCS designa autoridades con comisiones. El plan no dice cuándo ni cómo habrá concursos.",
+    "cita": "Impulsaré la participación ciudadana, erradicación de la corrupción y realización de concursos de autoridades ágiles y",
+    "pag": 1
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan es de una sola página y no da medidas concretas, costos ni plazos.",
+  "Las frases son de intención general, como 'Mis decisiones en el CPCCS serán las tuyas'. No dicen qué se hará."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1
+ ],
+ "paginas": 1
+}

@@ -1,0 +1,155 @@
+{
+ "enfoque": "Propone obras de calles, agua, alcantarillado, basura, ciclovías y orden del suelo. Varias metas no coinciden entre sí y muchas obras dependen de otras instituciones.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Construir 15 km de ciclovías y senderos seguros entre 2029 y 2031.",
+    "que": "Costo referencial de 800.000 USD. Lo pagarían el Municipio y el Ministerio de Transporte y Obras Públicas, según el plan.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan lo reparte con el Ministerio de Transporte.",
+    "cita": "Construir 15 km de ciclovías y senderos seguros, promoviendo la movilidad sostenible.",
+    "pag": 15
+   },
+   {
+    "t": "Planificar y coordinar la movilidad, el tránsito y el transporte terrestre del cantón.",
+    "que": "Crea una jefatura de tránsito dentro de Planificación. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "media",
+    "n": "Tránsito es del Municipio, pero el plan dice que lo maneja MOVIDELNOR, empresa de la mancomunidad.",
+    "cita": "Planificar y coordinar la movilidad cantonal, el tránsito y el transporte terrestre, articulados con la planificación territorial.",
+    "pag": 23
+   },
+   {
+    "t": "Arreglar, mejorar o abrir 100 km de vías urbanas y rurales hasta 2031.",
+    "que": "Costo referencial de 2.000.000 USD. Participan la Prefectura, el Ministerio de Transporte y el Banco de Desarrollo.",
+    "v": "media",
+    "n": "Las calles urbanas son del Municipio. Las vías rurales, según el plan, son de la Prefectura.",
+    "cita": "Intervenir 100 km de vías urbanas y rurales mediante mantenimiento, mejoramiento y apertura de nuevas vías.",
+    "pag": 15
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar agua potable y alcantarillado en al menos 10 % de los sectores priorizados.",
+    "que": "Costo referencial de 2.000.000 USD, entre 2027 y 2031, en la cabecera y las parroquias.",
+    "v": "alta",
+    "n": "Agua y alcantarillado son del Municipio. El costo es referencial, no un monto fijo.",
+    "cita": "Incrementar la cobertura de agua potable y alcantarillado en al menos 10 % en sectores priorizados.",
+    "pag": 11
+   },
+   {
+    "t": "Poner un sistema de reciclaje que recupere al menos 25 % de los residuos reciclables.",
+    "que": "Incluye un centro integral de basura, costo referencial de 1.500.000 USD, entre 2028 y 2030. El plan no dice el lugar exacto.",
+    "v": "alta",
+    "n": "La basura le toca al Municipio. Parte del dinero vendría de créditos y del Ministerio del Ambiente.",
+    "cita": "Implementar un sistema de reciclaje que permita recuperar al menos 25 % de los residuos reciclables generados en el cantón.",
+    "pag": 4
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Reforestar 100 hectáreas y proteger las microcuencas que dan agua al cantón.",
+    "que": "Costo referencial de 200.000 USD, entre 2027 y 2031. El plan no dice qué microcuencas se protegen primero.",
+    "v": "media",
+    "n": "Se hace junto con ministerios y cooperación internacional, según el plan.",
+    "cita": "Reforestar 100 hectáreas y proteger las principales microcuencas abastecedoras de agua del cantón.",
+    "pag": 15
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar el plan de crecimiento de la ciudad, el uso del suelo y el catastro (registro de terrenos).",
+    "que": "Costo referencial de 400.000 USD, en 2027 (corto plazo). El trabajo lo hace el propio Municipio.",
+    "v": "alta",
+    "n": "Ordenar el suelo y el catastro son tareas del Municipio.",
+    "cita": "Garantizar un desarrollo urbano y rural ordenado mediante la actualización permanente del PDOT, el PUGS y el catastro municipal",
+    "pag": 7
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar 50 cámaras de videovigilancia y mejorar el alumbrado en sectores críticos.",
+    "que": "Costo referencial de 500.000 USD, entre 2027 y 2029, con el Ministerio del Interior. El plan no dice qué sectores son.",
+    "v": "baja",
+    "n": "La policía y la seguridad no son del Municipio. El alumbrado público sí.",
+    "cita": "Instalar 50 cámaras de videovigilancia, mejorar el alumbrado público en sectores críticos y fortalecer las alarmas",
+    "pag": 15
+   }
+  ],
+  "otros": [
+   {
+    "t": "Actualizar todos los planes de emergencia y poner sistemas de prevención en las parroquias.",
+    "que": "Costo referencial de 500.000 USD, entre 2027 y 2031. Trabaja con la Secretaría de Gestión de Riesgos.",
+    "v": "media",
+    "n": "Prevenir desastres es del Municipio, pero comparte el trabajo con la Secretaría de Riesgos.",
+    "cita": "Actualizar el 100 % de los planes de emergencia e implementar sistemas de prevención y respuesta en todas las parroquias del cantón.",
+    "pag": 16
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer digitales el 100 % de los principales trámites municipales.",
+    "que": "Busca reducir el tiempo de atención a la ciudadanía. Costo referencial de 500.000 USD, entre 2027 y 2029.",
+    "v": "alta",
+    "n": "Los trámites del Municipio sí le tocan. El plan no dice cuáles trámites se incluyen.",
+    "cita": "Digitalizar 100 % de los principales trámites municipales, reduciendo los tiempos de atención a la ciudadanía.",
+    "pag": 15
+   }
+  ]
+ },
+ "metas": [
+  "Intervenir 100 km de vías urbanas y rurales entre 2027 y 2031.",
+  "Subir la cobertura de agua potable y alcantarillado al menos 10 % en sectores priorizados.",
+  "Construir 15 km de ciclovías y senderos entre 2029 y 2031.",
+  "Reciclar al menos 25 % de los residuos reciclables del cantón.",
+  "Hacer digitales el 100 % de los principales trámites municipales."
+ ],
+ "notas": [
+  "Las metas no coinciden: el plan dice 100 km de vías en una parte y 30 km en otra, y 100 hectáreas y 200 hectáreas de reforestación.",
+  "Parte del texto copia diagnósticos generales. Los costos son referenciales y muchos proyectos dependen de otras instituciones.",
+  "Plan muy largo (46 págs.): se resumieron las 40 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  2,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  33,
+  34,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45
+ ],
+ "paginas": 46
+}

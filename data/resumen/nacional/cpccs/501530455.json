@@ -1,0 +1,43 @@
+{
+ "enfoque": "Responder cada denuncia de corrupción, hacer vigilancia ciudadana del dinero público y elegir a las máximas autoridades por méritos.",
+ "tabla": {
+  "gobierno": [
+   {
+    "t": "Hacer veedurías, es decir, vigilancia ciudadana, del uso del dinero público.",
+    "que": "El plan no dice dónde, cuánto costará ni en qué plazo se harán las veedurías.",
+    "v": "alta",
+    "n": "Es función del CPCCS. El plan no dice dónde ni cómo se harán.",
+    "cita": "impulsar veedurías al dinero público y elegir a las máximas autoridades por méritos",
+    "pag": 1
+   },
+   {
+    "t": "Elegir a las máximas autoridades por méritos.",
+    "que": "El plan no dice qué cargos ni qué méritos se usarán para elegirlos.",
+    "v": "alta",
+    "n": "Es función del CPCCS con comisiones ciudadanas. El plan no dice qué méritos.",
+    "cita": "elegir a las máximas autoridades por méritos, para que Ecuador confíe en el Consejo",
+    "pag": 1
+   }
+  ],
+  "otros": [
+   {
+    "t": "Responder cada denuncia de corrupción que llegue al Consejo.",
+    "que": "El plan no dice en cuánto tiempo responderá ni qué hará con cada denuncia.",
+    "v": "alta",
+    "n": "Puede investigar y pasar la denuncia a Fiscalía o Contraloría. El plan no dice plazos.",
+    "cita": "Combatir la corrupción respondiendo cada denuncia, impulsar veedurías al dinero público",
+    "pag": 1
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan es muy corto: no dice cuánto costará ni en qué plazo hará nada.",
+  "Tampoco dice qué cargos elegirá ni qué méritos usará para elegir a las máximas autoridades."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1
+ ],
+ "paginas": 1
+}

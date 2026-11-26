@@ -21,7 +21,7 @@ if (prov === 'pichincha') {
 }
 for (const d of dignidades.filter((x) => x.slug !== 'prefectura')) {
   const ts = territorios(d, prov);
-  const unidad = d.territorio === 'sub' ? (d.slug === 'junta-parroquial' ? 'parroquias' : 'circunscripciones') : 'cantones';
+  const unidad = d.territorio === 'sub' ? (d.slug === 'junta-parroquial' ? 'parroquias' : 'circunscripciones') : d.territorio === 'grupo' ? 'listas nacionales' : 'cantones';
   resumen[d.slug] = { listas: ts.reduce((a, t) => a + t.n, 0), terr: `${ts.length} ${unidad}`, ia: ts.some((t) => t.cands.some((c) => c.auto)) };
   for (const t of ts) for (const c of t.cands)
     indice.push({ n: (c.personas ?? []).map((p) => p.nombre).join(', ') || c.titulo, p: c.partido, l: c.lista, d: `${d.nombre} · ${titulo(t.sub ?? t.canton)}`, u: `/${d.slug}/${t.path}/#${'f-' + c.id}` });

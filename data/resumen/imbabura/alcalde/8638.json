@@ -1,0 +1,176 @@
+{
+ "enfoque": "Plan general para Otavalo: agua, basura, calles, parques y mercados, con riesgos y ordenamiento del suelo. Se basa en el plan de desarrollo y ordenamiento del cantón.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Diseñar y aplicar el Plan de Uso y Gestión del Suelo hasta el 2030",
+    "que": "Plan para ordenar el uso y la ocupación del suelo del cantón, en la ciudad y en el campo. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (uso del suelo). El plan no dice cuánto costará.",
+    "cita": "Plan de Uso y Gestión del Suelo y Plan de Desarrollo y Ordenamiento Terriorial (1) hasta el 2030",
+    "pag": 41
+   },
+   {
+    "t": "Arreglar o construir al menos 40 parques y escenarios deportivos en barrios y parroquias",
+    "que": "Arreglar o hacer parques y canchas en barrios y parroquias, urbanos y rurales. El plan no dice cuánto costará ni en qué año.",
+    "v": "alta",
+    "n": "Le toca al Municipio (parques). El plan no dice cuánto costará ni cuándo.",
+    "cita": "parques y escenarios deportivos en los barrios y parroquias urbanas y rurales del cantón",
+    "pag": 54
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar la infraestructura de agua potable en sectores urbanos y rurales con más déficit",
+    "que": "Llevar o mejorar el agua potable donde hay menos cobertura, en la ciudad y en el campo. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará; solo nombra crédito y transferencias.",
+    "cita": "Ampliar y mejorar progresivamente la infraestructura de agua potable, priorizando sectores urbanos y rurales con mayores déficits de cobertura y calidad.",
+    "pag": 44
+   },
+   {
+    "t": "Ampliar los sistemas para tratar aguas residuales y reducir la contaminación de ríos y quebradas",
+    "que": "Tratar el agua usada antes de que llegue a ríos y quebradas. El plan no dice cuánto costará; pide convenios y crédito con otros niveles.",
+    "v": "media",
+    "n": "Es del Municipio, pero depende de convenios con el Gobierno Provincial y de crédito.",
+    "cita": "Fortalecer y ampliar los sistemas de tratamiento y disposición adecuada de aguas residuales",
+    "pag": 45
+   },
+   {
+    "t": "Optimizar las rutas de recolección de basura en sectores urbanos y rurales con poca cobertura",
+    "que": "Revisar las rutas y la forma de recoger la basura para llegar a más casas, en la ciudad y el campo. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Optimizar las rutas y mecanismos de recolección de residuos sólidos, priorizando sectores urbanos y rurales con deficiencias de cobertura.",
+    "pag": 49
+   }
+  ],
+  "otros": [
+   {
+    "t": "Construir al menos 2 obras para reducir riesgos de desastres naturales",
+    "que": "Obras para reducir el daño de deslizamientos, inundaciones u otros desastres. El plan no dice dónde ni cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca al Municipio (prevención de desastres). El plan no dice dónde ni cuánto costarán.",
+    "cita": "Construir al menos 2 obras orientadas a la mitigación de riesgos y desastres naturales",
+    "pag": 46
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer un plan vial para construir y mantener calles en la ciudad y en los centros de las parroquias rurales",
+    "que": "Plan de calles del cantón para la ciudad y los centros de las parroquias rurales. El plan no dice cuánto costará ni en qué calles.",
+    "v": "alta",
+    "n": "Le toca al Municipio (vialidad). El plan no dice cuánto costará ni cuándo.",
+    "cita": "Diseñar y ejecutar el plan vial cantonal en que se prevea la construcción y mantenimiento de la vialidad en el sector urbano",
+    "pag": 54
+   },
+   {
+    "t": "Dar mantenimiento y arreglar vías urbanas, con prioridad en los sectores con más necesidad",
+    "que": "Programas para arreglar y mantener calles de la ciudad, empezando por los sectores con más necesidad. El plan no dice cuántas calles ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuántas calles se arreglarán.",
+    "cita": "Ejecutar programas de mantenimiento, rehabilitación y mejoramiento de vías urbanas, priorizando sectores con mayores necesidades.",
+    "pag": 59
+   },
+   {
+    "t": "Evaluar si hace falta un nuevo terminal terrestre, solo si los estudios lo justifican",
+    "que": "Estudiar opciones para modernizar, ampliar o cambiar el terminal de buses. El plan no dice cuánto costará ni cuándo se decidirá.",
+    "v": "media",
+    "n": "Es tema del Municipio, pero depende de estudios y del Gobierno Central o Provincial.",
+    "cita": "Evaluar técnicamente las alternativas para la modernización, ampliación, reubicación o construcción de infraestructura estratégica de transporte",
+    "pag": 61
+   }
+  ],
+  "economia": [
+   {
+    "t": "Modernizar los mercados municipales en infraestructura, acceso, higiene y seguridad",
+    "que": "Arreglar y modernizar los mercados: edificio, acceso, higiene, seguridad y condiciones de trabajo. El plan no dice cuánto costará ni cuáles mercados.",
+    "v": "alta",
+    "n": "Le toca al Municipio (mercados). El plan no dice qué mercados ni cuánto costará.",
+    "cita": "Fortalecer y modernizar los mercados municipales y otros espacios de comercialización, mejorando infraestructura, accesibilidad, salubridad, seguridad y condiciones de trabajo",
+    "pag": 52
+   }
+  ]
+ },
+ "metas": [
+  "Aumentar en un 10% la cobertura de agua potable y alcantarillado, en el periodo 2027-2031.",
+  "Construir al menos 2 obras de mitigación de riesgos y desastres naturales.",
+  "Aumentar al menos 3% la cobertura del servicio de recolección de desechos.",
+  "Construir o mejorar al menos 40 parques y escenarios deportivos.",
+  "Realizar tres ferias productivas y de comercio cada año."
+ ],
+ "notas": [
+  "El plan dice que sus prioridades no son compromisos de obras. Casi no dice cuánto costará cada propuesta.",
+  "Propuestas de seguridad, salud y empleo son de la Policía, del Gobierno o de otras entidades, no del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61,
+  62,
+  63,
+  64,
+  65,
+  66
+ ],
+ "paginas": 66
+}

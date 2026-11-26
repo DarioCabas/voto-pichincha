@@ -1,0 +1,667 @@
+{
+  "canton": "OTAVALO",
+  "candidatos": [
+    {
+      "codFormulario": 11113,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Copia en gran parte el plan de desarrollo del cantón. Propone agua en 7 parroquias, plantas para el Lago San Pablo, terminal y calles.",
+      "tabla": {
+        "servicios": [
+          {
+            "t": "Hacer un plan maestro de agua potable y alcantarillado para 7 parroquias rurales.",
+            "que": "Llevaría agua y alcantarillado a Ilumán, Quichinche, Eugenio Espejo, San Pablo, Miguel Egas, San Rafael y González Suárez. El plan no dice cuánto costará ni en qué plazo.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cómo se paga esta parte.",
+            "cita": "3.1. Plan Maestro de Agua Potable y Alcantarillado Rural (7 parroquias).",
+            "pag": 7
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Construir 3 plantas de tratamiento de aguas servidas en la cuenca del Lago San Pablo.",
+            "que": "El plan pone 12.800.000 dólares para el lago y las plantas, con crédito del Banco de Desarrollo del Ecuador. No dice en qué plazo.",
+            "v": "media",
+            "n": "Le toca al Municipio, pero depende de un crédito y del permiso del Ministerio del Ambiente.",
+            "cita": "4.1. Construcción de 3 Plantas de Tratamiento (PTAR) en la Cuenca del Lago.",
+            "pag": 7
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Construir el Nuevo Terminal Terrestre Cantonal de Otavalo.",
+            "que": "El plan pone 8.500.000 dólares, con dinero de un socio privado mediante alianza o concesión. No dice en qué plazo se hará.",
+            "v": "media",
+            "n": "Le toca al Municipio, pero depende de un socio privado para pagarlo.",
+            "cita": "2.1. Construcción del Nuevo Terminal Terrestre Cantonal de Otavalo.",
+            "pag": 7
+          },
+          {
+            "t": "Dar mantenimiento y asfaltar las vías rurales entre parroquias.",
+            "que": "Costo de 6.200.000 dólares. Lo harían juntos el gobierno de la provincia (maquinaria y asfalto) y el Municipio (dinero). No dice el plazo.",
+            "v": "media",
+            "n": "Le toca al Municipio en parte. Depende del gobierno de la provincia.",
+            "cita": "2.3. Mantenimiento y Asfaltado de Vialidad Parroquial Rural.",
+            "pag": 7
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Asfaltar y adoquinar la red de calles de la ciudad de Otavalo.",
+            "que": "El plan no dice qué calles, cuánto costará ni cuándo se hará.",
+            "v": "alta",
+            "n": "Le toca al Municipio: las calles urbanas son su competencia.",
+            "cita": "2.2. Asfaltado y Adoquinado de la Red Vial Urbana.",
+            "pag": 7
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Instalar 100 cámaras con inteligencia artificial conectadas al ECU-911 (centro de emergencias).",
+            "que": "El plan no dice cuánto costarán las cámaras ni en qué plazo se instalarán.",
+            "v": "media",
+            "n": "Ayuda a la seguridad, pero la vigilancia depende del ECU-911 y de la Policía.",
+            "cita": "mediante tecnología de videovigilancia inteligente e IA conectada al ECU-911, y recuperación integral de espacios públicos.",
+            "pag": 6
+          },
+          {
+            "t": "Construir o arreglar 8 unidades de la Policía (UPC) en cabeceras rurales.",
+            "que": "El plan pone 3.500.000 dólares en total. El Municipio pone la obra y la Policía pone el personal. No dice cuándo.",
+            "v": "baja",
+            "n": "La Policía no es tarea del Municipio. Solo puede poner la obra.",
+            "cita": "1.2. Construcción/rehabilitación de 8 UPCs en cabeceras rurales.",
+            "pag": 7
+          }
+        ],
+        "economia": [
+          {
+            "t": "Modernizar la infraestructura de la Plaza de Ponchos.",
+            "que": "El plan no dice cuánto costará ni en qué plazo se hará. Busca recuperar el comercio y el turismo de la plaza.",
+            "v": "alta",
+            "n": "Los mercados son de competencia municipal. El plan no dice el costo.",
+            "cita": "7.1. Modernización e infraestructura de la Plaza de Ponchos.",
+            "pag": 8
+          }
+        ],
+        "otros": [
+          {
+            "t": "Crear un sistema de alerta temprana y brigadas comunitarias contra incendios.",
+            "que": "Busca avisar a tiempo y tener grupos de vecinos para combatir incendios. El plan no dice cuánto costará ni cuándo se hará.",
+            "v": "alta",
+            "n": "Prevenir desastres le toca al Municipio. El plan no dice cuánto cuesta.",
+            "cita": "5.1. Alerta Temprana y Brigadas Comunitarias contra Incendios.",
+            "pag": 7
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Hacer en línea el 100% de los trámites municipales y modernizar el catastro.",
+            "que": "Los trámites serían digitales y el catastro (registro de terrenos y casas) se actualizaría. El plan no dice cuánto costará ni el plazo.",
+            "v": "alta",
+            "n": "Los trámites y el catastro son del Municipio. El plan no dice el costo.",
+            "cita": "10.1. Digitalización del 100% de trámites y catastro moderno.",
+            "pag": 8
+          }
+        ]
+      },
+      "metas": [
+        "Llegar al 95% de cobertura de agua potable segura en las parroquias rurales y periferias.",
+        "Llegar al 85% de saneamiento y alcantarillado sanitario en esas mismas zonas.",
+        "Bajar la delincuencia e inseguridad en un 35%.",
+        "Construir 3 plantas de tratamiento de aguas residuales en la cuenca del Lago San Pablo.",
+        "Reforestar con 50.000 especies nativas."
+      ],
+      "notas": [
+        "Parte del texto viene del plan de desarrollo del cantón (PDOT). Varias obras dependen de la Policía, Salud o la provincia.",
+        "El plan no da costos ni plazos para la mayoría de las obras. Solo algunas tienen monto total."
+      ]
+    },
+    {
+      "codFormulario": 8638,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan general para Otavalo: agua, basura, calles, parques y mercados, con riesgos y ordenamiento del suelo. Se basa en el plan de desarrollo y ordenamiento del cantón.",
+      "tabla": {
+        "urbano": [
+          {
+            "t": "Diseñar y aplicar el Plan de Uso y Gestión del Suelo hasta el 2030",
+            "que": "Plan para ordenar el uso y la ocupación del suelo del cantón, en la ciudad y en el campo. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio (uso del suelo). El plan no dice cuánto costará.",
+            "cita": "Plan de Uso y Gestión del Suelo y Plan de Desarrollo y Ordenamiento Terriorial (1) hasta el 2030",
+            "pag": 41
+          },
+          {
+            "t": "Arreglar o construir al menos 40 parques y escenarios deportivos en barrios y parroquias",
+            "que": "Arreglar o hacer parques y canchas en barrios y parroquias, urbanos y rurales. El plan no dice cuánto costará ni en qué año.",
+            "v": "alta",
+            "n": "Le toca al Municipio (parques). El plan no dice cuánto costará ni cuándo.",
+            "cita": "parques y escenarios deportivos en los barrios y parroquias urbanas y rurales del cantón",
+            "pag": 54
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Ampliar la infraestructura de agua potable en sectores urbanos y rurales con más déficit",
+            "que": "Llevar o mejorar el agua potable donde hay menos cobertura, en la ciudad y en el campo. El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará; solo nombra crédito y transferencias.",
+            "cita": "Ampliar y mejorar progresivamente la infraestructura de agua potable, priorizando sectores urbanos y rurales con mayores déficits de cobertura y calidad.",
+            "pag": 44
+          },
+          {
+            "t": "Ampliar los sistemas para tratar aguas residuales y reducir la contaminación de ríos y quebradas",
+            "que": "Tratar el agua usada antes de que llegue a ríos y quebradas. El plan no dice cuánto costará; pide convenios y crédito con otros niveles.",
+            "v": "media",
+            "n": "Es del Municipio, pero depende de convenios con el Gobierno Provincial y de crédito.",
+            "cita": "Fortalecer y ampliar los sistemas de tratamiento y disposición adecuada de aguas residuales",
+            "pag": 45
+          },
+          {
+            "t": "Optimizar las rutas de recolección de basura en sectores urbanos y rurales con poca cobertura",
+            "que": "Revisar las rutas y la forma de recoger la basura para llegar a más casas, en la ciudad y el campo. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+            "cita": "Optimizar las rutas y mecanismos de recolección de residuos sólidos, priorizando sectores urbanos y rurales con deficiencias de cobertura.",
+            "pag": 49
+          }
+        ],
+        "otros": [
+          {
+            "t": "Construir al menos 2 obras para reducir riesgos de desastres naturales",
+            "que": "Obras para reducir el daño de deslizamientos, inundaciones u otros desastres. El plan no dice dónde ni cuánto costarán.",
+            "v": "alta",
+            "n": "Le toca al Municipio (prevención de desastres). El plan no dice dónde ni cuánto costarán.",
+            "cita": "Construir al menos 2 obras orientadas a la mitigación de riesgos y desastres naturales",
+            "pag": 46
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Hacer un plan vial para construir y mantener calles en la ciudad y en los centros de las parroquias rurales",
+            "que": "Plan de calles del cantón para la ciudad y los centros de las parroquias rurales. El plan no dice cuánto costará ni en qué calles.",
+            "v": "alta",
+            "n": "Le toca al Municipio (vialidad). El plan no dice cuánto costará ni cuándo.",
+            "cita": "Diseñar y ejecutar el plan vial cantonal en que se prevea la construcción y mantenimiento de la vialidad en el sector urbano",
+            "pag": 54
+          },
+          {
+            "t": "Dar mantenimiento y arreglar vías urbanas, con prioridad en los sectores con más necesidad",
+            "que": "Programas para arreglar y mantener calles de la ciudad, empezando por los sectores con más necesidad. El plan no dice cuántas calles ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuántas calles se arreglarán.",
+            "cita": "Ejecutar programas de mantenimiento, rehabilitación y mejoramiento de vías urbanas, priorizando sectores con mayores necesidades.",
+            "pag": 59
+          },
+          {
+            "t": "Evaluar si hace falta un nuevo terminal terrestre, solo si los estudios lo justifican",
+            "que": "Estudiar opciones para modernizar, ampliar o cambiar el terminal de buses. El plan no dice cuánto costará ni cuándo se decidirá.",
+            "v": "media",
+            "n": "Es tema del Municipio, pero depende de estudios y del Gobierno Central o Provincial.",
+            "cita": "Evaluar técnicamente las alternativas para la modernización, ampliación, reubicación o construcción de infraestructura estratégica de transporte",
+            "pag": 61
+          }
+        ],
+        "economia": [
+          {
+            "t": "Modernizar los mercados municipales en infraestructura, acceso, higiene y seguridad",
+            "que": "Arreglar y modernizar los mercados: edificio, acceso, higiene, seguridad y condiciones de trabajo. El plan no dice cuánto costará ni cuáles mercados.",
+            "v": "alta",
+            "n": "Le toca al Municipio (mercados). El plan no dice qué mercados ni cuánto costará.",
+            "cita": "Fortalecer y modernizar los mercados municipales y otros espacios de comercialización, mejorando infraestructura, accesibilidad, salubridad, seguridad y condiciones de trabajo",
+            "pag": 52
+          }
+        ]
+      },
+      "metas": [
+        "Aumentar en un 10% la cobertura de agua potable y alcantarillado, en el periodo 2027-2031.",
+        "Construir al menos 2 obras de mitigación de riesgos y desastres naturales.",
+        "Aumentar al menos 3% la cobertura del servicio de recolección de desechos.",
+        "Construir o mejorar al menos 40 parques y escenarios deportivos.",
+        "Realizar tres ferias productivas y de comercio cada año."
+      ],
+      "notas": [
+        "El plan dice que sus prioridades no son compromisos de obras. Casi no dice cuánto costará cada propuesta.",
+        "Propuestas de seguridad, salud y empleo son de la Policía, del Gobierno o de otras entidades, no del Municipio."
+      ]
+    },
+    {
+      "codFormulario": 7742,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Propone agua, cuidado de la laguna de San Pablo, árboles, bienestar animal, luz y espacios públicos, trámites digitales y turismo. No dice cuánto cuesta.",
+      "tabla": {
+        "servicios": [
+          {
+            "t": "Gestionar el Plan Maestro del Agua: obras de agua y protección de fuentes de abastecimiento.",
+            "que": "Busca fortalecer la infraestructura de agua y proteger las fuentes de abastecimiento. El plan no dice dónde, cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "Agua sí le toca al Municipio, pero el plan no dice cuánto costará ni de dónde saldrá el dinero.",
+            "cita": "Gestionar el Plan Maestro del Agua, orientado al fortalecimiento de la infraestructura hídrica y la protección de las fuentes de abastecimiento.",
+            "pag": 3
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Recuperar y conservar la Laguna de San Pablo con un plan integral.",
+            "que": "Plan junto con juntas parroquiales, Gobierno Provincial, Ministerio del Ambiente, comunidades y universidades. El plan no dice cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "Depende de otras instituciones. El plan no dice cuánto costará ni cuándo.",
+            "cita": "Plan Integral de Recuperación y Conservación de la Laguna de San Pablo, en coordinación con los GAD parroquiales, el Gobierno Provincial,",
+            "pag": 3
+          },
+          {
+            "t": "Sembrar árboles y hacer programas permanentes de educación ecológica.",
+            "que": "Programas permanentes de reforestación, recuperación ambiental y educación ecológica. El plan no dice dónde ni cuántos árboles.",
+            "v": "media",
+            "n": "Puede hacerlo el Municipio, pero el plan no dice dónde ni cuánto costará.",
+            "cita": "Implementar programas permanentes de reforestación, recuperación ambiental y educación ecológica.",
+            "pag": 3
+          }
+        ],
+        "otros": [
+          {
+            "t": "Crear un sistema municipal de bienestar animal con esterilizaciones y atención veterinaria.",
+            "que": "Campañas para esterilizar animales, adopción responsable y atención veterinaria preventiva; después, un centro veterinario municipal de forma progresiva. El plan no dice cuánto costará.",
+            "v": "media",
+            "n": "No está en la lista de lo que le toca al alcalde. El plan no dice cuánto costará ni cuándo.",
+            "cita": "Crear el Sistema Municipal de Bienestar Animal mediante campañas de esterilización, atención veterinaria preventiva, adopción responsable",
+            "pag": 3
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Recuperar espacios públicos y reforzar la iluminación, con acciones preventivas.",
+            "que": "Recuperar espacios públicos y reforzar la luz, y coordinar acciones con las instituciones competentes. El plan no dice dónde ni cuánto costará.",
+            "v": "media",
+            "n": "Espacios y luz sí son municipales; coordinar a la policía no le toca al alcalde.",
+            "cita": "Recuperar espacios públicos, fortalecer la iluminación y coordinar acciones preventivas con las instituciones competentes para mejorar la seguridad ciudadana.",
+            "pag": 3
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Digitalizar los trámites municipales y hacer más sencillos los pasos administrativos.",
+            "que": "Pasar los trámites municipales a internet y simplificar la administración. El plan no dice cuándo ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuándo estará listo ni cuánto costará.",
+            "cita": "Modernizar los servicios municipales mediante la digitalización de trámites y la simplificación administrativa.",
+            "pag": 3
+          },
+          {
+            "t": "Hacer audiencias públicas, rendir cuentas cada año y publicar la información de la gestión.",
+            "que": "Audiencias públicas periódicas, presupuestos participativos, rendición anual de cuentas y publicación permanente de información. El plan no dice costo.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+            "cita": "mediante audiencias públicas periódicas, presupuestos participativos, rendición anual de cuentas, publicación permanente de información sobre la gestión municipal",
+            "pag": 4
+          }
+        ],
+        "economia": [
+          {
+            "t": "Dar capacitación y apoyo para vender a artesanos, comerciantes y productores rurales.",
+            "que": "Programas de capacitación, innovación y comercialización. El plan no dice qué programas, cuántos beneficiarios ni cuánto costará.",
+            "v": "media",
+            "n": "Puede hacerlo el Municipio en parte, pero el plan no dice cuánto costará ni cuándo.",
+            "cita": "Impulsar programas de capacitación, innovación y comercialización para artesanos, comerciantes y productores rurales.",
+            "pag": 2
+          },
+          {
+            "t": "Crear rutas culturales, gastronómicas, artesanales y de naturaleza durante todo el año.",
+            "que": "Estrategia Otavalo 365 para atraer turismo todo el año con rutas. El plan no dice cuánto costará ni quién la pagará.",
+            "v": "media",
+            "n": "Promover turismo depende de otras instituciones. El plan no dice cuánto costará.",
+            "cita": "Implementar la estrategia “Otavalo 365”, fortaleciendo el turismo durante todo el año mediante rutas culturales, gastronómicas, artesanales y de naturaleza.",
+            "pag": 2
+          }
+        ]
+      },
+      "metas": [
+        "Ejecutar los proyectos de forma progresiva entre 2027 y 2031, según el presupuesto disponible."
+      ],
+      "notas": [
+        "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+        "Casi no habla de calles, tránsito, basura ni mercados. Varias propuestas (empleo, turismo, juventud) no son competencia del alcalde."
+      ]
+    },
+    {
+      "codFormulario": 8846,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Propone arreglar calles, dar agua, alcantarillado y basura en las parroquias rurales, reciclar el 50% de la basura y crear una Asamblea Cantonal. Faltan costos y fechas.",
+      "tabla": {
+        "movilidad": [
+          {
+            "t": "Construir un terminal terrestre como empresa de economía mixta.",
+            "que": "El plan propone construir el terminal como empresa de economía mixta. El plan no dice cuánto costará ni cuándo.",
+            "v": "media",
+            "n": "Le toca al Municipio, pero el transporte lo maneja la mancomunidad. Sin costo ni plazo.",
+            "cita": "construcción del terminal terrestre como empresa de economía mixta",
+            "pag": 47
+          },
+          {
+            "t": "Abrir el corredor vial oriental y construir 3 puentes en la ciudad.",
+            "que": "El plan pide abrir el corredor vial oriental de la ciudad y construir 3 puentes. No dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Le toca al Municipio: calles y puentes urbanos. El plan no dice cómo se pagará.",
+            "cita": "habilitar el corredor vial oriental de la ciudad y la construcción de 3 puentes",
+            "pag": 47
+          },
+          {
+            "t": "Pasar el transporte público a eléctrico y poner electrolineras municipales.",
+            "que": "El plan propone que el Municipio ponga las electrolineras y dé tasas más bajas a quien cambie a eléctrico, tras acordar con transportistas. No dice cuánto costará.",
+            "v": "media",
+            "n": "Depende de acuerdos con transportistas y de la mancomunidad. El plan no dice costos.",
+            "cita": "en donde la municipalidad sea el proveedor de electrolineras para este servicio",
+            "pag": 28
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Cubrir agua, alcantarillado y basura en las 9 parroquias rurales.",
+            "que": "El plan pide cubrir todo el cantón con agua, alcantarillado y basura, incluido el sector rural. El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Es competencia del Municipio. El plan no dice cómo se pagará.",
+            "cita": "La cobertura integral de los servicios básicos de: Agua Potable, Alcantarillado Sanitario",
+            "pag": 45
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Reciclar el 50% de la basura en 5 años.",
+            "que": "El plan fija como meta reciclar la mitad de los desechos en 5 años. No dice cuánto costará ni cómo se pagará.",
+            "v": "alta",
+            "n": "Le toca al Municipio: basura. El plan no dice cuánto costará.",
+            "cita": "nuestro objetivo es llegar a reciclar en 5 años el 50% de los desechos generados",
+            "pag": 45
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Poner en el presupuesto un dinero fijo cada año para arreglar vías.",
+            "que": "El plan pide que el presupuesto tenga un rubro anual para mantener las vías de todo el cantón. No dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio: vías urbanas y rurales. Falta el monto.",
+            "cita": "se defina de manera permanente un rubro específico de mantenimiento vial anual para todo el cantón",
+            "pag": 29
+          },
+          {
+            "t": "Recuperar parques y espacios públicos con el programa Mi Barrio Bonito.",
+            "que": "El programa junta a vecinos de cada barrio para arreglar y cuidar espacios públicos. El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Los espacios públicos son del Municipio. El plan no dice cuánto costará.",
+            "cita": "Se implementará el programa “Mi Barrio Bonito”, como acción directa para integrar a los miembros de los barrios",
+            "pag": 31
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Coordinar un patrullaje mixto permanente con las instituciones de seguridad.",
+            "que": "El plan dice que el Municipio coordinará el patrullaje 24 horas, 7 días, con otras instituciones. No dice cuánto costará.",
+            "v": "baja",
+            "n": "La policía no es del Municipio. Solo puede coordinar.",
+            "cita": "coordinadas desde la municipalidad quien brindará soporte y asistencia",
+            "pag": 32
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Crear la Asamblea Cantonal con unos 130 representantes.",
+            "que": "La asamblea tendría unos 130 representantes de la ciudad y el campo, y decidiría sobre políticas y control de la gestión municipal. El plan no dice cuándo se crea.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuándo se instala.",
+            "cita": "que permitirá que alrededor de 130 representantes de lo urbano y lo rural",
+            "pag": 50
+          }
+        ],
+        "economia": [
+          {
+            "t": "Crear un instituto técnico municipal de artes y oficios.",
+            "que": "El plan propone formar técnicos en al menos 20 carreras. No dice cuánto costará ni cuándo empezará.",
+            "v": "baja",
+            "n": "Educación no le toca al Municipio. El plan no dice cuánto costará.",
+            "cita": "creación del Instituto Técnico Superior Municipal de Artes y Oficios con la capacidad de",
+            "pag": 42
+          }
+        ]
+      },
+      "metas": [
+        "Reciclar el 50% de los desechos en 5 años.",
+        "Tener 9 m² de área verde por habitante; hoy el plan estima unos 3 m².",
+        "Asamblea Cantonal con unos 130 representantes.",
+        "Sesiones bicamerales: al menos 2 al mes en las parroquias rurales.",
+        "Patrullaje mixto 24 horas, 7 días, durante 4 años de gestión."
+      ],
+      "notas": [
+        "El plan casi no dice cuánto costará ni cuándo se hará cada cosa.",
+        "Mucho texto copia la ley y el plan anterior de la ciudad. Varias propuestas (policía, escuelas, hospital) no son del Municipio."
+      ]
+    },
+    {
+      "codFormulario": 11491,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Propone agua y alcantarillado rurales, una empresa municipal de reciclaje, espacios deportivos y más control ciudadano. No dice cuánto cuesta ni en qué plazo.",
+      "tabla": {
+        "ambiente": [
+          {
+            "t": "Poner en marcha la ordenanza del Fondo de Agua para proteger páramos y fuentes de agua.",
+            "que": "El plan no explica qué hace el Fondo ni cuánto costará. Es para proteger páramos y fuentes de agua.",
+            "v": "alta",
+            "n": "Es una ordenanza del Municipio. El plan no dice cuánto dinero tendrá.",
+            "cita": "Implementar la ordenanza del Fondo de Agua para proteger pdramos y fuentes hidricas.",
+            "pag": 5
+          },
+          {
+            "t": "Crear una empresa municipal de economía circular para reciclar y reducir basura.",
+            "que": "Haría reciclaje, compostaje (abono de restos orgánicos) y manejo de basura, y reduciría el plástico. El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Basura y reciclaje son del Municipio. El plan no dice cuánto costará.",
+            "cita": "Crear la Empresa Ptiblica de Economia Circular para impulsar el reaprovechamiento, reciclaje, compostaje",
+            "pag": 5
+          }
+        ],
+        "servicios": [
+          {
+            "t": "Llevar agua potable y alcantarillado a comunidades rurales y barrios de las afueras.",
+            "que": "Son las zonas con más falta de servicios. El plan no dice cuánto costará ni en qué plazo se hará.",
+            "v": "alta",
+            "n": "Agua y alcantarillado son del Municipio. El plan no dice cuánto costará.",
+            "cita": "Implementar el Plan Integral de Agua Potable y Alcantarillado para comunidades rurales y barrios perifericos",
+            "pag": 5
+          }
+        ],
+        "urbano": [
+          {
+            "t": "Arreglar y ampliar espacios deportivos, recreativos y comunitarios.",
+            "que": "Son canchas, parques y lugares de reunión del barrio. El plan no dice dónde ni cuántos se harán, ni cuánto costará.",
+            "v": "alta",
+            "n": "Parques y espacios públicos son del Municipio.",
+            "cita": "Ampliar y recuperar espacios deportivos, recreativos y comunitarios.",
+            "pag": 6
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Construir y arreglar vías para conectar mejor el cantón, junto con la Prefectura.",
+            "que": "Se hará con convenios con la Prefectura de Imbabura, el gobierno de la provincia. El plan no dice qué vías ni cuánto costará.",
+            "v": "media",
+            "n": "Depende de la Prefectura. El plan no dice qué calles ni cuándo.",
+            "cita": "Construir y rehabilitar infraestructura vial para fortalecer la conectividad del canton",
+            "pag": 6
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Poner cámaras y drones de vigilancia, con el ECU 911.",
+            "que": "El ECU 911 es el centro de emergencias. El plan no dice cuánto costará, cuántas cámaras habrá ni dónde.",
+            "v": "media",
+            "n": "Depende del ECU 911 y de la Policía, que no son del alcalde.",
+            "cita": "Implementar un sistema integral de videovigilancia y monitoreo mediante camaras y drones en coordinaci6n con el ECU 911",
+            "pag": 7
+          }
+        ],
+        "social": [
+          {
+            "t": "Poner en marcha el programa CRE-SER para la primera infancia.",
+            "que": "Da cuidado, nutrición, salud y desarrollo para niños pequeños. El plan no dice cuánto costará ni cuántos niños atenderá.",
+            "v": "media",
+            "n": "Salud y educación no son del Municipio. El plan no dice quién pagará.",
+            "cita": "Implementar el programa municipal para la primera infancia CRE-SER, enfocado en los servicios de cuidado, nutrici6n",
+            "pag": 6
+          }
+        ],
+        "economia": [
+          {
+            "t": "Crear un centro de acopio agrícola para guardar y vender productos del campo.",
+            "que": "Guardar, clasificar y vender productos del campo, y negociar directo con grandes cadenas. El plan no dice dónde ni cuánto costará.",
+            "v": "media",
+            "n": "Mercados sí son del Municipio; negociar con cadenas depende de ellas.",
+            "cita": "Crear un centro de acopio agricola cantonal que garantice el pago",
+            "pag": 6
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Hacer reuniones del Concejo Municipal en cada parroquia rural una vez al mes.",
+            "que": "Las reuniones se harán en las parroquias rurales, una vez por mes. El plan no dice cómo se avisará ni cuánto costará.",
+            "v": "alta",
+            "n": "Depende solo del Municipio y del Concejo.",
+            "cita": "Realizar concejos Municipales Itinerantes en todas las parroquias rurales",
+            "pag": 8
+          },
+          {
+            "t": "Poner en internet la información del Municipio: contratos y presupuesto.",
+            "que": "Cualquier persona podrá ver la información institucional, contratos y presupuesto. El plan no dice cuándo estará listo.",
+            "v": "alta",
+            "n": "La información del Municipio es de competencia del alcalde.",
+            "cita": "Implementar un sistema digital de transparencia con acceso phblico a informaci6n institucional, contratos y presupuesto.",
+            "pag": 7
+          }
+        ]
+      },
+      "metas": [
+        "Reuniones del Concejo en cada parroquia rural una vez por mes.",
+        "Publicar cada mes los avances de obras, proyectos e inversión pública.",
+        "Presentar un informe anual del cumplimiento del plan."
+      ],
+      "notas": [
+        "El plan no dice cuánto costará ninguna propuesta ni en qué plazo se hará.",
+        "Varias propuestas dependen de la Policía, el ECU 911 o la Prefectura. El plan no aclara qué parte le toca al alcalde."
+      ]
+    },
+    {
+      "codFormulario": 6473,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan del Municipio de Otavalo: agua y alcantarillado, Plaza de Ponchos, tránsito y rendición de cuentas. Gran parte está copiado del plan de desarrollo del cantón.",
+      "tabla": {
+        "servicios": [
+          {
+            "t": "Acelerar el alcantarillado y las plantas de tratamiento de aguas, con la empresa municipal de agua.",
+            "que": "Reestructurar la empresa municipal de agua (EMAPAO-EP) para acelerar la cobertura de alcantarillado. El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará ni en qué plazo.",
+            "cita": "para acelerar la cobertura de alcantarillado e instalación de plantas de tratamiento",
+            "pag": 42
+          },
+          {
+            "t": "Llevar agua potable tratada y saneamiento al 95% del área rural.",
+            "que": "Pasar de 62% (2026) a 95% de cobertura en las comunidades rurales. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+            "cita": "Alcanzar el 95% de cobertura de agua potable tratada y saneamiento en el área rural",
+            "pag": 41
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Instalar plantas de tratamiento de aguas y un sistema comunal para manejar la basura.",
+            "que": "La tabla de proyectos pone $12 millones para la cuenca del Lago San Pablo, 2027-2030. Parte sale de un fondo de agua y cooperación. El plan no dice cómo se reparte.",
+            "v": "media",
+            "n": "Depende de préstamos y fondos de cooperación, no solo del Municipio.",
+            "cita": "de aguas residuales (PTAR) y un sistema integral comunal de economía circular y gestión de",
+            "pag": 14
+          }
+        ],
+        "economia": [
+          {
+            "t": "Crear una empresa municipal (OTAVALO-EP) para manejar la Plaza de Ponchos y los mercados.",
+            "que": "Trabajaría con artesanos y comerciantes en manejo compartido. El plan no dice cuánto costará ni cuándo estará lista.",
+            "v": "alta",
+            "n": "Le toca al Municipio: mercados y espacios públicos.",
+            "cita": "espacios turísticos bajo esquemas de cogestión con artesanos y comerciantes.",
+            "pag": 42
+          }
+        ],
+        "movilidad": [
+          {
+            "t": "Coordinar con la Mancomunidad de Tránsito de Imbabura los semáforos y el control de tránsito.",
+            "que": "Lo haría junto con la Mancomunidad de Tránsito de Imbabura, otra entidad. El plan no dice cuánto costará ni en qué plazo.",
+            "v": "media",
+            "n": "Depende de otra entidad: la mancomunidad de tránsito.",
+            "cita": "Consolidar la articulación con la Mancomunidad de Tránsito de Imbabura para optimizar",
+            "pag": 42
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Hacer asambleas públicas cada seis meses y una al año para rendir cuentas.",
+            "que": "Las asambleas se harían en las parroquias y en el centro de Otavalo, en kichwa y español. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio.",
+            "cita": "presentadas en Asambleas Cantonales y Parroquiales itinerantes, alternando entre las cabeceras",
+            "pag": 55
+          },
+          {
+            "t": "Publicar en internet el gasto, contratos y compras del Municipio en tiempo real.",
+            "que": "El plan dice que mostrará el avance del presupuesto, contratos, licitaciones y compras públicas. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca al Municipio y es un portal digital.",
+            "cita": "presupuestaria del PIM, contratos públicos, licitaciones y compras públicas del GAD Municipal y",
+            "pag": 55
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Unir la seguridad ciudadana con las rondas comunitarias y la Policía Nacional.",
+            "que": "El plan no dice qué hará el Municipio ni cuánto costará.",
+            "v": "baja",
+            "n": "La Policía no le toca al Municipio.",
+            "cita": "articular la seguridad ciudadana con las Rondas Comunitarias y la Policía Nacional",
+            "pag": 41
+          }
+        ],
+        "social": [
+          {
+            "t": "Destinar el 10% de la inversión a grupos de atención prioritaria.",
+            "que": "El plan fija ese 10% del presupuesto para estos grupos, pero no dice en qué obras se gasta.",
+            "v": "alta",
+            "n": "Le toca al Municipio, que maneja su presupuesto.",
+            "cita": "de inversión presupuestaria para los Grupos de Atención Prioritaria (Art. 249 COOTAD)",
+            "pag": 41
+          },
+          {
+            "t": "Reducir la desnutrición infantil con una alianza cantonal para la primera infancia.",
+            "que": "La meta baja la desnutrición infantil en menores de 2 años de 32% a menos de 18%. El plan no dice con qué acciones.",
+            "v": "baja",
+            "n": "La salud no le toca al Municipio; necesita al Ministerio de Salud.",
+            "cita": "Crónica Infantil (DCI) mediante una alianza cantonal por la primera infancia",
+            "pag": 41
+          }
+        ]
+      },
+      "metas": [
+        "Cobertura de agua potable tratada en comunidades rurales: de 62% (2026) a 95% (2031).",
+        "Vías intercomunales e interparroquiales asfaltadas o adoquinadas: de 45 km a 120 km.",
+        "Hectáreas de páramos y fuentes de agua con conservación comunitaria: de 1.200 a 4.500 ha.",
+        "Desnutrición crónica infantil en menores de 2 años, parroquias rurales: de 32% a menos de 18%.",
+        "Trámites municipales digitalizados: de 10% (2026) a 80% (2031)."
+      ],
+      "notas": [
+        "Gran parte del texto está copiado del plan de desarrollo del cantón. Incluye temas de policía, salud y escuelas que no son del Municipio.",
+        "El plan dice 85% de trámites digitales en un lugar y 80% en la tabla de metas. Revise el plan completo."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,161 @@
+{
+ "enfoque": "Propone agua potable, alcantarillado, basura, calles, parques, presupuesto participativo y trámites en línea. El plan casi no dice cuánto costará. Gran parte copia el plan de desarrollo del cantón.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Ampliar y modernizar el agua potable y el alcantarillado.",
+    "que": "El plan pone una meta: aumentar el servicio de agua potable en 30%. No dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cómo lo pagará.",
+    "cita": "ampliando y mademizando los sistemas de agua potable, alcantarillado, vialidad urbana",
+    "pag": 39
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Organizar la basura: separarla en casa, reciclarla y crear un centro de residuos.",
+    "que": "El plan no dice cuánto costará ni cuándo. Habla de un centro integral de residuos sólidos en Pimampiro; hoy no hay un sitio definitivo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cómo lo pagará.",
+    "cita": "Asimismo, so tortalecerá la gestión integral de residuos sólidos, al sancamiento ambiental y la prevención de mesgos",
+    "pag": 41
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a las vías urbanas y rurales del cantón.",
+    "que": "El plan no dice cuántos kilómetros ni cuánto costará. Dice que las vías rurales necesitan trabajo junto con el nivel provincial.",
+    "v": "media",
+    "n": "Las calles urbanas son del Municipio; las rurales necesitan a la provincia.",
+    "cita": "el mantenimiento de la infraestructura wal urbana y rural",
+    "pag": 41
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Recuperar parques, plazas y espacios comunitarios del cantón.",
+    "que": "El plan no dice cuánto costará ni cuándo. Meta: regenerar el 15% de parques y plazas del cantón.",
+    "v": "alta",
+    "n": "Le toca al Municipio: parques y espacios públicos son su competencia.",
+    "cita": "el fortelacimiento de los espacios públicos y equiparrientos",
+    "pag": 41
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Implementar presupuestos participativos para decidir obras comunitarias.",
+    "que": "La ciudadanía decidirá directamente sobre la inversión en obras comunitarias. El plan no dice cuánto ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice de dónde saldrá el dinero.",
+    "cita": "Implementación de presupuestos participativos, donde la ciudadania decida directamente sobre la inversión en obras comunitarias.",
+    "pag": 49
+   },
+   {
+    "t": "Hacer trámites municipales en línea con una ventanilla única virtual.",
+    "que": "Meta: reducir el tiempo de atención en 60%. El plan no dice cuánto costará ni cuándo estará lista.",
+    "v": "alta",
+    "n": "Es trabajo del Municipio: trámites y atención a la gente.",
+    "cita": "Digitalización de trámites y servicios, mediante una ventanilla única virlual que permita realizar",
+    "pag": 47
+   },
+   {
+    "t": "Crear un observatorio que vigile obras, presupuestos y compras municipales.",
+    "que": "El plan no dice cuánto costará. El observatorio vigilará proyectos, presupuestos y contrataciones públicas.",
+    "v": "alta",
+    "n": "Le toca al Municipio; es un control interno de la gestión.",
+    "cita": "Creación de un Observatorio de Transparencia Municipal, encargado de monitorear proyecios,",
+    "pag": 47
+   }
+  ]
+ },
+ "metas": [
+  "Aumentar el servicio de agua potable en 30%.",
+  "Regenerar el 15% de parques y plazas del cantón.",
+  "Reducir el tiempo de atención en trámites en 60%.",
+  "Aprobar e implementar 1 ordenanza de gobierno abierto."
+ ],
+ "notas": [
+  "El plan casi no dice cuánto costará cada obra ni en qué plazo. Repite muchos textos del plan de desarrollo del cantón.",
+  "Seguridad: la policía no es del Municipio. El plan menciona consejos de seguridad, pero no propone policía."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61,
+  62,
+  63,
+  64,
+  65,
+  66,
+  67,
+  68,
+  69,
+  70,
+  71,
+  72,
+  73,
+  74,
+  75,
+  76
+ ],
+ "paginas": 76
+}

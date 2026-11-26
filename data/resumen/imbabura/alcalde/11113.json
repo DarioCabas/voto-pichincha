@@ -1,0 +1,129 @@
+{
+ "enfoque": "Copia en gran parte el plan de desarrollo del cantón. Propone agua en 7 parroquias, plantas para el Lago San Pablo, terminal y calles.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Hacer un plan maestro de agua potable y alcantarillado para 7 parroquias rurales.",
+    "que": "Llevaría agua y alcantarillado a Ilumán, Quichinche, Eugenio Espejo, San Pablo, Miguel Egas, San Rafael y González Suárez. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cómo se paga esta parte.",
+    "cita": "3.1. Plan Maestro de Agua Potable y Alcantarillado Rural (7 parroquias).",
+    "pag": 7
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Construir 3 plantas de tratamiento de aguas servidas en la cuenca del Lago San Pablo.",
+    "que": "El plan pone 12.800.000 dólares para el lago y las plantas, con crédito del Banco de Desarrollo del Ecuador. No dice en qué plazo.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de un crédito y del permiso del Ministerio del Ambiente.",
+    "cita": "4.1. Construcción de 3 Plantas de Tratamiento (PTAR) en la Cuenca del Lago.",
+    "pag": 7
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Construir el Nuevo Terminal Terrestre Cantonal de Otavalo.",
+    "que": "El plan pone 8.500.000 dólares, con dinero de un socio privado mediante alianza o concesión. No dice en qué plazo se hará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de un socio privado para pagarlo.",
+    "cita": "2.1. Construcción del Nuevo Terminal Terrestre Cantonal de Otavalo.",
+    "pag": 7
+   },
+   {
+    "t": "Dar mantenimiento y asfaltar las vías rurales entre parroquias.",
+    "que": "Costo de 6.200.000 dólares. Lo harían juntos el gobierno de la provincia (maquinaria y asfalto) y el Municipio (dinero). No dice el plazo.",
+    "v": "media",
+    "n": "Le toca al Municipio en parte. Depende del gobierno de la provincia.",
+    "cita": "2.3. Mantenimiento y Asfaltado de Vialidad Parroquial Rural.",
+    "pag": 7
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Asfaltar y adoquinar la red de calles de la ciudad de Otavalo.",
+    "que": "El plan no dice qué calles, cuánto costará ni cuándo se hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: las calles urbanas son su competencia.",
+    "cita": "2.2. Asfaltado y Adoquinado de la Red Vial Urbana.",
+    "pag": 7
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Instalar 100 cámaras con inteligencia artificial conectadas al ECU-911 (centro de emergencias).",
+    "que": "El plan no dice cuánto costarán las cámaras ni en qué plazo se instalarán.",
+    "v": "media",
+    "n": "Ayuda a la seguridad, pero la vigilancia depende del ECU-911 y de la Policía.",
+    "cita": "mediante tecnología de videovigilancia inteligente e IA conectada al ECU-911, y recuperación integral de espacios públicos.",
+    "pag": 6
+   },
+   {
+    "t": "Construir o arreglar 8 unidades de la Policía (UPC) en cabeceras rurales.",
+    "que": "El plan pone 3.500.000 dólares en total. El Municipio pone la obra y la Policía pone el personal. No dice cuándo.",
+    "v": "baja",
+    "n": "La Policía no es tarea del Municipio. Solo puede poner la obra.",
+    "cita": "1.2. Construcción/rehabilitación de 8 UPCs en cabeceras rurales.",
+    "pag": 7
+   }
+  ],
+  "economia": [
+   {
+    "t": "Modernizar la infraestructura de la Plaza de Ponchos.",
+    "que": "El plan no dice cuánto costará ni en qué plazo se hará. Busca recuperar el comercio y el turismo de la plaza.",
+    "v": "alta",
+    "n": "Los mercados son de competencia municipal. El plan no dice el costo.",
+    "cita": "7.1. Modernización e infraestructura de la Plaza de Ponchos.",
+    "pag": 8
+   }
+  ],
+  "otros": [
+   {
+    "t": "Crear un sistema de alerta temprana y brigadas comunitarias contra incendios.",
+    "que": "Busca avisar a tiempo y tener grupos de vecinos para combatir incendios. El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "alta",
+    "n": "Prevenir desastres le toca al Municipio. El plan no dice cuánto cuesta.",
+    "cita": "5.1. Alerta Temprana y Brigadas Comunitarias contra Incendios.",
+    "pag": 7
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer en línea el 100% de los trámites municipales y modernizar el catastro.",
+    "que": "Los trámites serían digitales y el catastro (registro de terrenos y casas) se actualizaría. El plan no dice cuánto costará ni el plazo.",
+    "v": "alta",
+    "n": "Los trámites y el catastro son del Municipio. El plan no dice el costo.",
+    "cita": "10.1. Digitalización del 100% de trámites y catastro moderno.",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "Llegar al 95% de cobertura de agua potable segura en las parroquias rurales y periferias.",
+  "Llegar al 85% de saneamiento y alcantarillado sanitario en esas mismas zonas.",
+  "Bajar la delincuencia e inseguridad en un 35%.",
+  "Construir 3 plantas de tratamiento de aguas residuales en la cuenca del Lago San Pablo.",
+  "Reforestar con 50.000 especies nativas."
+ ],
+ "notas": [
+  "Parte del texto viene del plan de desarrollo del cantón (PDOT). Varias obras dependen de la Policía, Salud o la provincia.",
+  "El plan no da costos ni plazos para la mayoría de las obras. Solo algunas tienen monto total."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13
+ ],
+ "paginas": 13
+}

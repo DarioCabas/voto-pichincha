@@ -1,0 +1,143 @@
+{
+ "enfoque": "Plan general de siete ejes. Propone arreglar calles, agua, parques, mercados y basura. Casi no dice cuánto costará ni en qué plazo.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Mejorar poco a poco el agua potable y el alcantarillado del cantón.",
+    "que": "El plan no dice qué obras ni en qué barrios, ni cuánto costará. Dice que será progresivo, sin fechas.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni en qué plazo.",
+    "cita": "Fortalecer progresivamente la infraestructura y gestión de los sistemas de agua potable y saneamiento.",
+    "pag": 28
+   },
+   {
+    "t": "Hacer programas de educación, reciclaje y manejo de basura.",
+    "que": "El plan no dice en qué barrios ni cuánto costará. Es una lista de programas, sin fechas. Incluye también el uso responsable del agua.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo empieza.",
+    "cita": "Promover programas de educación ambiental, reciclaje, uso responsable del agua y manejo adecuado de residuos sólidos.",
+    "pag": 28
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer sistemas de movilidad seguros, eficientes e inclusivos que conecten barrios y parroquias.",
+    "que": "El plan no dice qué rutas, calles ni buses, ni cuánto costará. Prioriza conectar barrios, parroquias y centros económicos.",
+    "v": "alta",
+    "n": "Le toca al Municipio (tránsito y buses). El plan no dice cuánto costará ni cuándo.",
+    "cita": "Promover sistemas de movilidad seguros, eficientes, inclusivos y sostenibles, priorizando la conectividad entre barrios, parroquias y centros de actividad económica.",
+    "pag": 32
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer mantenimiento y arreglos de calles, espacios públicos y obras comunitarias.",
+    "que": "El plan no dice qué calles ni cuánto costará. Dice que el arreglo será progresivo, sin fechas.",
+    "v": "alta",
+    "n": "Calles y espacios públicos son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Impulsar el mantenimiento, rehabilitación y mejoramiento progresivo de la infraestructura vial, espacios públicos, equipamientos municipales y obras comunitarias.",
+    "pag": 32
+   },
+   {
+    "t": "Recuperar parques, plazas y áreas verdes para encuentro y deporte.",
+    "que": "El plan no dice qué parques ni cuánto costará. Incluye espacios recreativos y deportivos.",
+    "v": "alta",
+    "n": "Parques y plazas son competencia municipal. El plan no dice plazos.",
+    "cita": "Recuperar y poner en valor parques, plazas, áreas verdes, espacios recreativos, deportivos y de encuentro ciudadano.",
+    "pag": 32
+   }
+  ],
+  "economia": [
+   {
+    "t": "Reactivar los mercados municipales con promoción y actividades para productores.",
+    "que": "El plan no dice qué mercados ni cuánto costará. Propone campañas, actividades culturales y espacios para productores locales.",
+    "v": "alta",
+    "n": "Los mercados son del Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Impulsar la reactivación de los mercados municipales mediante campañas de promoción, fortalecimiento de la oferta comercial, actividades culturales, gastronómicas y espacios para productores locales.",
+    "pag": 29
+   },
+   {
+    "t": "Dar capacitación y asistencia a emprendedores, con prioridad a mujeres y jóvenes.",
+    "que": "El plan no dice cuánto dinero habrá ni cuándo. El capital semilla depende de criterios técnicos y disponibilidad institucional.",
+    "v": "media",
+    "n": "Puede apoyar, pero no crea empleo directamente. El plan no dice montos.",
+    "cita": "Implementar programas municipales de fortalecimiento del emprendimiento con énfasis en mujeres, jóvenes y sectores rurales",
+    "pag": 30
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Mejorar la iluminación y el mantenimiento de los espacios públicos.",
+    "que": "El plan no dice qué espacios ni cuánto costará. La policía no es del Municipio; el plan solo habla de coordinar con ella.",
+    "v": "media",
+    "n": "La luz y los espacios públicos pueden ser del Municipio. La policía no. Sin costos.",
+    "cita": "Mejorar las condiciones de iluminación, mantenimiento y uso seguro de los espacios públicos.",
+    "pag": 25
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Plantar árboles y recuperar zonas ambientalmente dañadas.",
+    "que": "El plan no dice dónde ni cuántos árboles, ni cuánto costará. Pide apoyo de comunidades e instituciones.",
+    "v": "media",
+    "n": "Puede hacerlo, pero depende de otras instituciones y comunidades. Sin costos.",
+    "cita": "Promover procesos de reforestación, restauración ecológica y recuperación de espacios ambientalmente degradados.",
+    "pag": 28
+   },
+   {
+    "t": "Incluir el riesgo de desastres y el cambio climático en los proyectos municipales.",
+    "que": "El plan no dice qué estudios ni cuánto costará, ni cuándo. Habla de estudios técnicos, monitoreo y acciones preventivas.",
+    "v": "alta",
+    "n": "Prevenir desastres sí le toca al Municipio. El plan no dice plazos ni costos.",
+    "cita": "Incorporar criterios de adaptación al cambio climático y gestión integral del riesgo en la planificación y ejecución de proyectos municipales.",
+    "pag": 19
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan casi no da costos, plazos ni lugares concretos. Casi todas las frases dicen 'fortalecer' o 'impulsar' sin decir qué obra ni dónde.",
+  "La seguridad policial no es del Municipio. El plan solo propone coordinar con quienes sí la tienen."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37
+ ],
+ "paginas": 37
+}

@@ -1,0 +1,144 @@
+{
+ "enfoque": "Plan general del cantón: más redes de agua y tratamiento de aguas residuales, ciclovías, arreglo de calles y parques. No dice cuánto costará. Parte copiada de Chaltura.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Crear ciclovías y dar prioridad al peatón en las calles.",
+    "que": "El plan no dice dónde ni cuánto costará. Dice que habrá soluciones específicas para parroquias urbanas y rurales.",
+    "v": "alta",
+    "n": "Le toca al Municipio (tránsito y vías). El plan no dice dónde ni cuándo.",
+    "cita": "incorporando ciclovias y desarrollando soluciones especificas para las",
+    "pag": 17
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Arreglar y mantener la red de calles urbanas y rurales.",
+    "que": "Dice que habrá mantenimiento permanente y obras estratégicas. El plan no dice qué calles ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué vías ni cuándo.",
+    "cita": "Movilidad, Vialidad y Conectividad: Fortalecer la red vial urbana y rural",
+    "pag": 16
+   },
+   {
+    "t": "Intervenir parques, plazas y espacios públicos del cantón.",
+    "que": "Dice que se intervendrán parques, plazas y áreas de encuentro. El plan no dice cuáles ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (parques y espacio público). El plan no dice cuáles ni cuándo.",
+    "cita": "espacios públicos, parques, plazas y áreas de encuentro ciudadano",
+    "pag": 18
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar redes de agua y tratar más aguas residuales.",
+    "que": "La planta actual atiende solo dos parroquias. El plan no dice dónde ni cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, pero el plan no dice cuánto costará ni cuándo.",
+    "cita": "ampliación de redes, tratamiento de aguas residuales, control de descargas",
+    "pag": 16
+   },
+   {
+    "t": "Renovar redes y controlar pérdidas para que el agua llegue sin cortes.",
+    "que": "Hoy el agua se corta unas cinco horas de noche. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio (agua potable). El plan no dice cuánto costará.",
+    "cita": "la renovación de redes, el mejoramiento de los sistemas de",
+    "pag": 16
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Modernizar el manejo de basura y promover el reciclaje.",
+    "que": "Dice que se modernizará la infraestructura para residuos y se promoverá el reciclaje. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio (basura). El plan no dice cuánto costará ni cuándo.",
+    "cita": "Gestión Integral de Residuos y Economía Circular: Fortalecer el sistema",
+    "pag": 15
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Reforzar la Comisaría Municipal para vigilar normas y espacio público.",
+    "que": "Dice que se fortalecerá la capacidad de la Comisaría Municipal y de los organismos de control. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. La Policía no es competencia del alcalde.",
+    "cita": "operativa de la Comisaría Municipal y de los organismos de control para",
+    "pag": 16
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Rendir cuentas al público cada año y dar seguimiento cada tres meses.",
+    "que": "Dice que habrá seguimiento trimestral del plan, socialización semestral y un informe público anual. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio; depende de la propia administración.",
+    "cita": "La rendición de cuentas constituirá un proceso permanente, periódico, público",
+    "pag": 25
+   }
+  ],
+  "economia": [
+   {
+    "t": "Promocionar el cantón como destino turístico y productivo.",
+    "que": "Dice que se promoverá Antonio Ante como destino turístico y productivo. No dice cómo ni cuánto costará.",
+    "v": "media",
+    "n": "Puede promover, pero crear empleo no le toca directamente al Municipio.",
+    "cita": "Turismo, Promoción e Identidad Productiva: Posicionar a Antonio Ante",
+    "pag": 34
+   }
+  ]
+ },
+ "metas": [
+  "Seguimiento del plan cada tres meses.",
+  "Informe público de gestión cada año.",
+  "Plan de trabajo para los años 2027 a 2031."
+ ],
+ "notas": [
+  "Varias partes son del plan de la parroquia Chaltura (pp. 20 y 45), no del cantón.",
+  "La mayoría de propuestas no dice cuánto costarán ni cuándo se harán.",
+  "Plan muy largo (80 págs.): se resumieron las 39 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  7,
+  8,
+  9,
+  10,
+  11,
+  15,
+  16,
+  17,
+  18,
+  20,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  69,
+  70
+ ],
+ "paginas": 80
+}

@@ -1,0 +1,128 @@
+{
+ "enfoque": "Agua las 24 horas, alcantarillado, asfalto rural, cámaras y luces, y apoyo al textil y al campo. Muchas obras dependen de créditos u otras instituciones.",
+ "tabla": {
+  "seguridad": [
+   {
+    "t": "Construir un centro de emergencias y una central de cámaras con inteligencia artificial en Atuntaqui.",
+    "que": "Costará $212.000, entre 2027 y 2028. Se paga con presupuesto del Municipio y la tasa de seguridad. Un CADE es un centro para atender y evaluar emergencias.",
+    "v": "media",
+    "n": "Es del Municipio, pero la Policía es quien actúa ante los delitos.",
+    "cita": "Construcción de 1 CADE (Centros de Atención y Diagnóstico de Emergencias) y Central de Videovigilancia con IA en Atuntaqui.",
+    "pag": 6
+   },
+   {
+    "t": "Poner luces nuevas (LED) y cámaras en vías y zonas rurales de San Roque, Natabuela, Chaltura e Imbaya.",
+    "que": "Costará $420.000, entre 2027 y 2029. Se paga con la tasa de seguridad, el Municipio y la Prefectura (gobierno de la provincia). Participan la empresa de luz Emelnorte y la Policía.",
+    "v": "media",
+    "n": "Depende de la Prefectura y de la empresa de luz, no solo del Municipio.",
+    "cita": "Instalación de iluminación LED y cámaras en vías de acceso y zonas rurales de San Roque, Natabuela, Chaltura e Imbaya.",
+    "pag": 6
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Arreglar la red de agua para bajar las pérdidas y dar agua las 24 horas.",
+    "que": "Costará $2.800.000, entre 2027 y 2029. Se paga con presupuesto de la empresa de agua (EPAA-AA) y un crédito del Banco de Desarrollo (BDE). Las pérdidas hoy son de 47%.",
+    "v": "alta",
+    "n": "El agua es tarea del Municipio; el dinero depende de un crédito del banco.",
+    "cita": "Reducción de pérdidas en la red de la EPAA-AA, mantenimiento de tanques (Yanaloma/Pucará) y digitalización de sectores de presión.",
+    "pag": 7
+   },
+   {
+    "t": "Construir tuberías para aguas lluvias separadas en Atuntaqui y Andrade Marín, y ajustar la planta de Chaltura.",
+    "que": "Costará $3.500.000, entre 2028 y 2030, con un crédito del Banco de Desarrollo (BDE) y dinero del Municipio. El plan dice que la planta de Chaltura colapsa en época de lluvias.",
+    "v": "alta",
+    "n": "Es obra del Municipio; pagarla depende de un crédito del banco.",
+    "cita": "Construcción de colectores pluviales separados en Atuntaqui y Andrade Marín, y adecuación de capacidad de la PTAR Chaltura.",
+    "pag": 7
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Asfaltar y dar mantenimiento a vías rurales e interparroquiales de cuatro parroquias.",
+    "que": "Costará $2.200.000, entre 2027 y 2031. Se paga con dinero del Municipio y el fondo vial de la Prefectura. La meta es intervenir 40 km de vías rurales y urbanas.",
+    "v": "media",
+    "n": "El plan pone a la Prefectura en la vialidad rural; depende de su fondo vial.",
+    "cita": "Mejoramiento de la capa de rodadura de la red vial Inter parroquial y vías rurales de San Roque, Natabuela, Chaltura e Imbaya.",
+    "pag": 7
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear una tienda oficial en internet para textiles de Atuntaqui y modernizar el Mercado Central.",
+    "que": "Costará $650.000, entre 2027 y 2028, con dinero del Municipio y alianzas con empresas privadas. Incluye también una marca de ciudad de moda y confección.",
+    "v": "alta",
+    "n": "Mercados son competencia municipal; el dinero depende de alianzas privadas.",
+    "cita": "modernización del Mercado Central y marca ciudad de moda/confección.",
+    "pag": 8
+   },
+   {
+    "t": "Crear un centro de acopio cantonal y ferias semanales de productos del campo en parroquias rurales.",
+    "que": "Costará $480.000, entre 2027 y 2029. Se paga con el Fondo de Fomento Productivo y el Ministerio de Agricultura (MAG). La Prefectura también participa.",
+    "v": "media",
+    "n": "Los insumos para campesinos son del Ministerio de Agricultura; el Municipio pone el centro y ferias.",
+    "cita": "Creación del Centro de Acopio Cantonal, dotación de insumos y ferias semanales",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Entregar agua segura, paquetes de alimentos y brigadas médicas en zonas rurales e indígenas.",
+    "que": "Costará $920.000, entre 2027 y 2031. Se paga con el 10% de ingresos no tributarios que la ley destina a grupos prioritarios. Participan el Ministerio de Salud y el Ministerio de Inclusión Social (MIES).",
+    "v": "baja",
+    "n": "Salud y alimentación son del Gobierno; el Municipio solo podría aportar el agua.",
+    "cita": "Suministro de agua segura, paquete nutricional y brigadas médicas itinerantes en zonas rurales e indígenas de mayor vulnerabilidad.",
+    "pag": 9
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer en internet todos los trámites municipales y una sola ventanilla para permisos de construcción.",
+    "que": "Costará $300.000, entre 2027 y 2028, con presupuesto municipal y ayuda del Ministerio de Telecomunicaciones (MINTEL). Incluye actualizar el catastro, el registro de terrenos y casas.",
+    "v": "alta",
+    "n": "Los trámites son del propio Municipio; la tarea está en sus manos.",
+    "cita": "Digitalización del 100% de trámites municipales, ventanilla única de construcción y actualización del catastro urbano/rural.",
+    "pag": 10
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Regular el uso del suelo para frenar loteos ilegales y proteger terrenos agrícolas.",
+    "que": "Costará $120.000 en 2028, con presupuesto municipal. El plan de uso del suelo (PUGS, plan de uso y gestión del suelo) decide dónde se puede construir y qué terrenos siguen siendo para el campo.",
+    "v": "alta",
+    "n": "El uso del suelo es competencia directa del Municipio.",
+    "cita": "Regulación del uso de suelo para proteger la frontera agrícola frente a loteamientos ilegales y especulación.",
+    "pag": 10
+   }
+  ]
+ },
+ "metas": [
+  "Dar agua las 24 horas en el 98% del cantón.",
+  "Bajar las pérdidas de agua del 47% al 25%.",
+  "Bajar 8% la desnutrición infantil en parroquias rurales.",
+  "Intervenir 40 km de vías rurales y urbanas, en el periodo 2027–2031.",
+  "Tener el 100% de trámites municipales en internet."
+ ],
+ "notas": [
+  "Muchas obras dependen de créditos, la Prefectura o el Ministerio; el alcalde no las decide solo.",
+  "Salud, alimentación y seguridad con la Policía no son del Municipio; el plan las incluye con costos y plazos."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14
+ ],
+ "paginas": 14
+}

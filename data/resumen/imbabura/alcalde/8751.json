@@ -1,0 +1,145 @@
+{
+ "enfoque": "Propone arreglar calles, agua, basura, parques y mercados, y hacer un plan de riesgos. Varias propuestas de seguridad no son del Municipio.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Poner señales de tránsito inteligentes y facilitar estacionamientos municipales.",
+    "que": "También pide infraestructura para movilidad activa y alternativa. El plan no dice dónde, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio (tránsito). El plan no dice dónde ni cuánto costará.",
+    "cita": "Implementar señalización vial inteligente y sistemas de información para la movilidad",
+    "pag": 61
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Hacer cada año un plan de calles, aceras, bordillos y alumbrado público.",
+    "que": "Incluye reparar espacios deteriorados y equipos rápidos para pequeñas reparaciones. El plan no dice qué calles ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué calles ni cuánto costará.",
+    "cita": "Implementar un plan anual eficiente de mantenimiento y construcción de calles, aceras, bordillos y alumbrado público",
+    "pag": 58
+   },
+   {
+    "t": "Recuperar parques, plazas y áreas verdes con espacios seguros y accesibles.",
+    "que": "Incluye un programa permanente de mantenimiento de parques y jardines. El plan no dice en qué parques ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice en qué parques ni cuánto costará.",
+    "cita": "Recuperar parques, plazas y áreas verdes con criterios de accesibilidad universal, espacios seguros",
+    "pag": 58
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Ampliar agua potable, alcantarillado y recolección de basura en sectores con déficit.",
+    "que": "Busca un servicio de calidad y continuo. El plan no dice qué sectores ni cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué sectores ni cuánto costará.",
+    "cita": "Ampliar la cobertura de agua potable, alcantarillado y recolección de basura en los sectores urbanos y rurales",
+    "pag": 58
+   },
+   {
+    "t": "Gestionar la construcción de sistemas para tratar las aguas residuales.",
+    "que": "El plan no dice dónde ni cuánto costará, ni de dónde saldrá el dinero. Depende de conseguir fondos.",
+    "v": "media",
+    "n": "Depende de conseguir fondos; el plan no dice cuánto costará ni cómo se pagará.",
+    "cita": "Gestionar la construcción y optimización de sistemas de tratamiento de aguas residuales.",
+    "pag": 58
+   },
+   {
+    "t": "Modernizar los camiones de basura y mejorar el relleno sanitario.",
+    "que": "También cambiar las rutas de recolección. El plan no dice cuánto costará ni cuándo se hará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Repotenciar el relleno sanitario cantonal, modernizar la flota y optimizar las rutas de recolección de residuos.",
+    "pag": 58
+   }
+  ],
+  "economia": [
+   {
+    "t": "Modernizar los mercados municipales y crear una red de mercados en el cantón.",
+    "que": "Busca mejores condiciones para comerciantes y compradores. El plan no dice qué mercados ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice qué mercados ni cuánto costará.",
+    "cita": "Modernizar los mercados municipales existentes y fomentar una red de mercados municipales en el cantón para mejorar las condiciones de",
+    "pag": 58
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer un plan de riesgos ante amenazas climáticas, con monitoreo continuo.",
+    "que": "Incluye un sistema para vigilar las amenazas de forma continua. El plan no dice cuánto costará ni cuándo estará listo.",
+    "v": "alta",
+    "n": "Le toca al Municipio (prevención de desastres). El plan no dice cuánto costará.",
+    "cita": "Elaborar un plan de gestión de riesgos y amenazas climáticas para el cantón con un sistema de monitoreo y seguimiento continuo",
+    "pag": 61
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Invertir, si hace falta, en la policía y poner alarmas y botones de pánico.",
+    "que": "Incluye Unidades de Policía Comunitaria y vigilancia comunitaria. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "La policía no es competencia del Municipio; solo podría apoyar.",
+    "cita": "Articular e invertir si es necesario para asegurar la capacidad operativa de la policía que actúa en el cantón",
+    "pag": 60
+   }
+  ]
+ },
+ "metas": [
+  "Plan de trabajo para 2027-2031 (cuatro años).",
+  "Presupuesto municipal que el plan prevé: no menos de 30 millones de dólares."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará cada obra ni de dónde saldrá el dinero; solo da un presupuesto general.",
+  "Muchas propuestas no dicen dónde ni cuándo. El plan no propone cambios concretos en buses ni rutas de transporte público.",
+  "Plan muy largo (79 págs.): se resumieron las 43 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  17,
+  18,
+  20,
+  23,
+  26,
+  27,
+  38,
+  43,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61,
+  62,
+  63,
+  65,
+  66,
+  67,
+  69,
+  70,
+  71,
+  72,
+  73,
+  74,
+  75,
+  76,
+  77,
+  78,
+  79
+ ],
+ "paginas": 79
+}

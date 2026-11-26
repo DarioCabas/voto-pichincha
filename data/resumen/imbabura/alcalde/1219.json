@@ -1,0 +1,148 @@
+{
+ "enfoque": "Propone obras y servicios de agua, basura, parques, calles y ambiente, con informes públicos. No dice montos ni fechas exactas; parte del texto es de otro plan.",
+ "tabla": {
+  "urbano": [
+   {
+    "t": "Actualizar los planes de uso del suelo y de ordenamiento del cantón",
+    "que": "El plan dice que actualizará los instrumentos de planificación del territorio. No dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto cuesta ni cuándo.",
+    "cita": "Actualización y fortalecimiento de los instrumentos de planificación territorial",
+    "pag": 19
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger y recuperar las fuentes de agua del cantón",
+    "que": "El plan dice que habrá programas de protección de fuentes de agua. No dice en qué lugares ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto cuesta ni en qué plazo.",
+    "cita": "Fortalecimiento de programas de protección y recuperación de fuentes hídricas",
+    "pag": 15
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Mejorar la gestión de residuos sólidos (basura) del cantón",
+    "que": "El plan habla de mejorar la gestión de residuos sólidos, sin decir qué cambios ni dónde. No dice cuánto costará.",
+    "v": "alta",
+    "n": "La basura es competencia municipal. El plan no dice qué cambios ni cuánto cuesta.",
+    "cita": "Fortalecimiento de la gestión integral de residuos sólidos",
+    "pag": 11
+   },
+   {
+    "t": "Arreglar y cuidar parques y áreas recreativas",
+    "que": "El plan dice que recuperará y mantendrá parques y áreas recreativas. No dice cuáles ni cuánto costará.",
+    "v": "alta",
+    "n": "Los parques son del Municipio. El plan no dice cuáles ni cuándo.",
+    "cita": "Recuperación y mantenimiento de parques y áreas recreativas",
+    "pag": 19
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Gestionar proyectos de movilidad y seguridad vial",
+    "que": "El plan no dice qué proyectos, dónde ni cuánto costarán. Solo dice que se gestionarán con otros niveles de gobierno.",
+    "v": "media",
+    "n": "El tránsito sí es del Municipio, pero los proyectos dependen de financiamiento. El plan no dice cuánto.",
+    "cita": "Gestión de proyectos de movilidad y seguridad vial",
+    "pag": 19
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Mejorar iluminación de espacios públicos, junto con otras instituciones",
+    "que": "El plan no dice qué espacios, dónde ni cuánto costará. Para la seguridad pide coordinar con otras instituciones.",
+    "v": "media",
+    "n": "La luz sí es del Municipio; la policía no. El plan no dice cuánto cuesta.",
+    "cita": "Mejoramiento de iluminación y seguridad de espacios públicos mediante coordinación",
+    "pag": 19
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear programas de atención para adultos mayores",
+    "que": "El plan dice que habrá programas para adultos mayores, con gestión directa y convenios. No dice cuántos atenderá ni cuánto costará.",
+    "v": "media",
+    "n": "Puede hacer programas, pero depende de convenios. El plan no dice montos ni fechas.",
+    "cita": "Programas de atención integral para personas adultas mayores",
+    "pag": 17
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias y espacios de venta para productores locales",
+    "que": "El plan no dice dónde ni cuándo habrá ferias, ni cuánto costará.",
+    "v": "alta",
+    "n": "Los mercados son del Municipio. El plan no dice dónde ni cuándo.",
+    "cita": "Promoción de ferias y espacios de comercialización para productores locales",
+    "pag": 17
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear controles para seguir obras y contratos municipales",
+    "que": "El plan dice que habrá mecanismos de seguimiento a obras y contratos. No dice cuándo empieza ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto cuesta ni cuándo empieza.",
+    "cita": "Implementación de mecanismos de seguimiento a obras y contratos",
+    "pag": 21
+   }
+  ]
+ },
+ "metas": [
+  "Informe anual de gestión y rendición de cuentas cada año.",
+  "Publicar avances y seguimiento de compromisos cada tres meses.",
+  "Evaluación de resultados y asamblea o audiencia pública cada seis meses.",
+  "Diagnóstico y planificación de proyectos en 2027; ejecución de proyectos prioritarios en 2028.",
+  "Evaluación final del plan en 2031."
+ ],
+ "notas": [
+  "El plan no pone montos ni fechas para casi ninguna obra. Dice que las metas y montos serán validados después.",
+  "Parte del texto es de otro plan: habla de 'Santa Ana de Cotacachi' y de un 'plan de referencia'."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40
+ ],
+ "paginas": 40
+}

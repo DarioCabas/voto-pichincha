@@ -1,0 +1,121 @@
+{
+ "enfoque": "Propone agua, catastro, trámites en línea, basura y calles. Mezcla temas de salud, riego y jóvenes que no son de la alcaldía.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Construir y operar una planta de compostaje para residuos orgánicos.",
+    "que": "El plan no dice cuánto costará. Sus etapas van de 2027 a 2031, con operación entre 2029 y 2031.",
+    "v": "alta",
+    "n": "Le toca al Municipio, porque la basura es competencia municipal. Falta el costo.",
+    "cita": "Construcción y operación de una Planta de Compostaje Cantonal",
+    "pag": 6
+   },
+   {
+    "t": "Delimitar y cercar las zonas de recarga de agua en seis lugares.",
+    "que": "Incluye Buenos Aires, Cahuasquí, Pablo Arenas, San Blas, Tumbabiro y Urcuquí. El plan no dice cuánto costará. Se pagaría con fondo ambiental y cooperación internacional.",
+    "v": "media",
+    "n": "Puede hacerlo el Municipio, pero depende de dinero de cooperación internacional.",
+    "cita": "Delimitación y cercado del 100% de zonas de recarga hídrica críticas en Buenos Aires",
+    "pag": 5
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Construir y mejorar redes de agua y alcantarillado en la ciudad y parroquias.",
+    "que": "Incluye plantas para tratar aguas residuales. Se pagaría con un crédito del Banco de Desarrollo del Ecuador y fondos propios. No dice cuánto costará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de un crédito del Banco de Desarrollo.",
+    "cita": "y optimización de redes de agua segura, alcantarillado y plantas de tratamiento de aguas residuales",
+    "pag": 10
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar al 100% el catastro de terrenos urbanos y rurales.",
+    "que": "Se haría en 2027 y 2028, con vuelos y sistemas de mapas. Se pagaría con el cobro del impuesto predial. No dice cuánto cuesta.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "al 100% de la base catastral geométrica y multifinalitaria del cantón",
+    "pag": 6
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Pasar a internet el 100% de los trámites municipales de permisos, patentes y uso de suelo.",
+    "que": "Se haría en 2027, con soporte después. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "del 100% de servicios municipales (permisos de construcción, patentes, Uso",
+    "pag": 5
+   },
+   {
+    "t": "Publicar cada cuatro meses el avance de los 15 proyectos en internet.",
+    "que": "La publicación sería en la plataforma de trámites en línea, con contrataciones y uso de fondos. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio, es un cambio interno de la alcaldía.",
+    "cita": "se publicará cuatrimestralmente el porcentaje de ejecución de cada uno de los 15 proyectos viables",
+    "pag": 14
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Arreglar con bacheo y asfalto las vías principales de conexión, incluida la vía a Ibarra.",
+    "que": "Incluye mantenimiento programado. Se haría con convenio con la Prefectura de Imbabura (GAD Provincial). No dice cuánto costará.",
+    "v": "media",
+    "n": "Las calles son del Municipio, pero las vías entre parroquias dependen de la Prefectura.",
+    "cita": "Bacheo, asfaltado y mantenimiento programado de las principales arterias de conexión",
+    "pag": 9
+   }
+  ],
+  "economia": [
+   {
+    "t": "Modernizar canales de riego secundarios de las comunidades.",
+    "que": "El plan dice que el riego lo maneja el Gobierno Provincial. No dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "No le toca al Municipio: el riego es competencia de la Prefectura y las juntas de agua.",
+    "cita": "Diseño y mejoramiento físico de la infraestructura hídrica de conducción secundaria de riego",
+    "pag": 7
+   }
+  ],
+  "social": [
+   {
+    "t": "Llevar brigadas médicas a comunidades rurales como Buenos Aires.",
+    "que": "El plan no dice cuánto costará. Lo haría con el Ministerio de Salud.",
+    "v": "baja",
+    "n": "No le toca al Municipio: la salud es del Ministerio de Salud.",
+    "cita": "Despliegue permanente de brigadas médicas en comunidades rurales",
+    "pag": 8
+   }
+  ]
+ },
+ "metas": [
+  "Delimitar y cercar el 100% de las zonas de recarga de agua críticas en seis lugares.",
+  "Actualizar al 100% la base catastral en 2027-2028.",
+  "Pasar al 100% de los servicios municipales a internet en 2027.",
+  "Reducir a cero la tasa de desnutrición crónica infantil."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra. Varias partes dependen de crédito, cooperación o ministerios.",
+  "Varias propuestas (salud, nutrición, riego, jóvenes) no son de la alcaldía. Son del Gobierno o de la Prefectura."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16
+ ],
+ "paginas": 16
+}

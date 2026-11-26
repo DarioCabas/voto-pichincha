@@ -1,0 +1,118 @@
+{
+ "enfoque": "Plan de 4 años para agua, basura, calles, catastro y riesgos, basado en el plan de desarrollo y de uso del suelo de Cotacachi. Suma USD 24 millones.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Ajustar las rutas de recolección y hacer reciclaje y compostaje de basura.",
+    "que": "El plan pone USD 1.900.000. No dice en qué zonas ni en qué año. Incluye también residuos especiales.",
+    "v": "alta",
+    "n": "La basura es competencia del Municipio. El plan no dice en qué zonas se hará.",
+    "cita": "Optimización de rutas, reciclaje, compostaje y gestión de residuos especiales",
+    "pag": 10
+   },
+   {
+    "t": "Prevenir incendios y organizar a las comunidades frente a riesgos naturales.",
+    "que": "El plan pone USD 1.800.000 para zonas de riesgo. No dice qué zonas ni cuándo. Coordina con Bomberos, que es otra entidad.",
+    "v": "alta",
+    "n": "Prevenir desastres es del Municipio. Bomberos es otra entidad, con su propia tarea.",
+    "cita": "Prevención de incendios, gestión comunitaria de riesgos y fortalecimiento de respuesta",
+    "pag": 10
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar un tablero digital con estado, monto y avance de cada proyecto.",
+    "que": "El plan dice que el tablero se actualizará cada tres meses. No dice cuánto costará hacerlo.",
+    "v": "alta",
+    "n": "Publicar información de obras es tarea del Municipio. El plan no dice el costo.",
+    "cita": "Tablero digital de proyectos con estado, monto, fuente de financiamiento, contratista",
+    "pag": 19
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a vías del cantón y poner señales de tránsito.",
+    "que": "El plan pone USD 2.300.000. No dice qué calles serán ni en qué año. Las vías rurales dependen del Gobierno Provincial de Imbabura.",
+    "v": "alta",
+    "n": "Calles y señales son del Municipio. Las vías rurales dependen del Gobierno Provincial.",
+    "cita": "Mantenimiento vial, señalización, accesibilidad y gestión concurrente de vías",
+    "pag": 11
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Hacer estudios y ampliar agua y alcantarillado en parroquias con déficit.",
+    "que": "El plan pone USD 3.200.000 para esto. No dice qué parroquias ni en qué año se hará cada obra.",
+    "v": "alta",
+    "n": "Agua y alcantarillado son del Municipio. El plan no dice qué parroquias.",
+    "cita": "Estudios, ampliación y mejoramiento progresivo de sistemas priorizados",
+    "pag": 11
+   }
+  ],
+  "social": [
+   {
+    "t": "Dar prevención y atención comunitaria para proteger derechos de niños, jóvenes y familias.",
+    "que": "El plan pone USD 1.050.000. No dice en qué año. Se haría junto con otras entidades y redes comunitarias.",
+    "v": "media",
+    "n": "Protección de derechos depende de otras entidades. El Municipio coordina y apoya.",
+    "cita": "Fortalecimiento de protección de derechos, prevención y atención comunitaria",
+    "pag": 11
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar mapas, límites y catastro, y ajustar las reglas de uso del suelo.",
+    "que": "El plan pone USD 3.100.000. No dice en qué año se hará cada parte del trabajo.",
+    "v": "alta",
+    "n": "Mapas, catastro y uso del suelo son del Municipio. El plan no da plazos.",
+    "cita": "Actualización cartográfica, delimitaciones, catastro y aplicación/ajuste del PUGS",
+    "pag": 11
+   },
+   {
+    "t": "Recuperar espacios públicos para deporte y recreación en ciudad y campo.",
+    "que": "El plan pone USD 900.000. No dice qué espacios se recuperarán ni en qué año.",
+    "v": "alta",
+    "n": "Parques y espacios públicos son del Municipio. El plan no dice cuáles.",
+    "cita": "Deporte, recreación y recuperación de espacios públicos inclusivos",
+    "pag": 11
+   }
+  ]
+ },
+ "metas": [
+  "Hacer al menos 8 intervenciones ambientales y de prevención de riesgos en los 4 años.",
+  "Apoyar al menos 200 emprendimientos con asistencia, promoción o contactos comerciales.",
+  "Consolidar al menos 4 circuitos o acciones turísticas en el período.",
+  "Publicar cada 3 meses el tablero de avance físico y de dinero del plan.",
+  "Publicar cada 6 meses un informe público de avance del plan."
+ ],
+ "notas": [
+  "Los montos son cifras de planificación, no presupuesto aprobado. En total suman USD 24 millones en 4 años.",
+  "Varias metas son de otros niveles: empleo, salud, educación y seguridad no son tareas del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22
+ ],
+ "paginas": 22
+}

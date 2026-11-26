@@ -1,0 +1,43 @@
+{
+ "enfoque": "Formación ciudadana en cada provincia, investigar denuncias de corrupción y designar autoridades. El plan no da detalles de cómo ni cuándo.",
+ "tabla": {
+  "social": [
+   {
+    "t": "Dar formación ciudadana en cada provincia.",
+    "que": "El plan dice que habrá formación ciudadana en cada provincia. No dice cuánto costará, quién la dará ni cuándo.",
+    "v": "alta",
+    "n": "Enseñar a la gente sobre participación es función del Consejo. El plan no dice cuándo ni cómo.",
+    "cita": "Seguiré trabajando a tu lado: formación ciudadana en cada provincia",
+    "pag": 1
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Investigar las denuncias de corrupción que le lleguen.",
+    "que": "El plan dice que investigará las denuncias de corrupción. No dice cuántas ni en qué plazo se harán.",
+    "v": "alta",
+    "n": "Investigar denuncias y pasarlas a Fiscalía o Contraloría sí es función del Consejo.",
+    "cita": "en cada provincia, tus denuncias de corrupción investigadas",
+    "pag": 1
+   },
+   {
+    "t": "Designar autoridades con comisiones ciudadanas.",
+    "que": "El plan dice que habrá designaciones de autoridades al servicio del país. No dice cuáles ni cuándo.",
+    "v": "alta",
+    "n": "Designar con comisiones ciudadanas es función del Consejo. El plan no dice qué cargos.",
+    "cita": "investigadas y desig-naciones de autoridades al servicio del país",
+    "pag": 1
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "Plan muy corto: no dice costos, plazos ni lugares concretos, salvo 'cada provincia'.",
+  "La parte de trayectoria no propone nada, así que no se incluyó."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1
+ ],
+ "paginas": 1
+}

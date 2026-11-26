@@ -1,0 +1,170 @@
+{
+ "enfoque": "Obras de agua, alcantarillado, calles, basura y juegos infantiles. Gran parte del texto copia el plan de desarrollo del cantón (PDOT).",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Comprar un recolector de basura nuevo para Cotacachi.",
+    "que": "El plan pone 200.000 dólares para el manejo de basura, con crédito y recursos propios. No dice cuánto cuesta solo el recolector.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuándo se compra.",
+    "cita": "Adquisición de un recolector nuevo para brindar el servicio en cantón Cotacachi",
+    "pag": 5
+   },
+   {
+    "t": "Construir o mejorar 10 sistemas de agua y 5 de alcantarillado en zonas rurales.",
+    "que": "Pone 900.000 dólares para agua y 750.000 para alcantarillado, con banca pública y recursos propios. No dice en qué comunidades.",
+    "v": "alta",
+    "n": "Es competencia del Municipio. El plan sí pone dinero, pero no dice de dónde sale todo.",
+    "cita": "Construidos y/o mejorados 10 sistemas de agua y 5 sistemas de alcantarillado",
+    "pag": 6
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Hacer 10 nuevos adoquinados en calles de la zona andina, urbana, Intag y Golondrinas.",
+    "que": "Pone 1.600.000 dólares para mejorar vías, con recursos propios y banca pública. El plan no dice en qué calles ni en qué años.",
+    "v": "alta",
+    "n": "Calles urbanas y de la zona son del Municipio. Las vías provinciales no.",
+    "cita": "10 nuevos adoquinados de vías en la zona andina, urbana, Intag y golondrinas construidos",
+    "pag": 7
+   },
+   {
+    "t": "Ampliar calles para conectar el anillo periférico de la ciudad.",
+    "que": "El plan no dice cuánto costará ni cuándo. No dice qué calles se amplían.",
+    "v": "alta",
+    "n": "Son calles urbanas, le toca al Municipio. Falta costo y plazo.",
+    "cita": "Ampliación de calles que permita la conectividad en el anillo periférico",
+    "pag": 9
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Poner un sistema de alerta temprana para avisar de incendios en el bosque.",
+    "que": "Pone 30.000 dólares, con recursos propios y cooperación internacional. El plan no dice en qué zonas se instala.",
+    "v": "alta",
+    "n": "La prevención de desastres es del Municipio. Depende en parte de dinero de afuera.",
+    "cita": "Implementación de un sistema de alerta temprana frente a la ocurrencia de incendios forestales",
+    "pag": 5
+   }
+  ],
+  "social": [
+   {
+    "t": "Poner 5 juegos infantiles inclusivos en parques, uno en Cotacachi y cuatro en parroquias rurales.",
+    "que": "Pone 180.000 dólares con recursos propios. Las metas del plan dicen 16 juegos, no 5.",
+    "v": "alta",
+    "n": "Los parques son del Municipio. El plan no dice en qué parques.",
+    "cita": "Implementación de 5 juegos infantiles inclusivos en parques",
+    "pag": 6
+   },
+   {
+    "t": "Poner un centro de rehabilitación física en Cotacachi.",
+    "que": "Pone 100.000 dólares, con recursos propios y convenios. El plan no dice cuándo se abre ni quién lo atiende.",
+    "v": "baja",
+    "n": "Es un servicio de salud. Esa parte no le toca al Municipio.",
+    "cita": "Implementación y funcionamiento de un centro de rehabilitación física",
+    "pag": 9
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Regularizar asentamientos humanos de hecho en Intag y Golondrinas.",
+    "que": "El plan no dice cuánto costará ni cuándo. No dice cuántas familias se benefician.",
+    "v": "alta",
+    "n": "El uso del suelo es del Municipio. Falta costo y plazo.",
+    "cita": "Regularización de asentamientos humanos de hecho en Intag y Golondrinas",
+    "pag": 7
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Comprar cámaras de videovigilancia con equipo NVR.",
+    "que": "Pone 150.000 dólares, con recursos propios. Ejecución en un año. No dice dónde se instalarán.",
+    "v": "media",
+    "n": "El Municipio puede comprarlas. La policía que las mira no le toca.",
+    "cita": "Adquisición de cámaras de video seguridad con equipo NVR",
+    "pag": 12
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear una tienda virtual para vender productos artesanales y agrícolas de Cotacachi.",
+    "que": "Pone 15.000 dólares con recursos propios. El plan no dice cuántos productores entran ni cuándo.",
+    "v": "media",
+    "n": "Es promoción económica, no servicio municipal básico. Depende de productores.",
+    "cita": "Establecimiento de una tienda virtual para los productos artesanales y agrícolas que se producen en",
+    "pag": 31
+   }
+  ]
+ },
+ "metas": [
+  "10 sistemas de agua y 5 de alcantarillado construidos o mejorados.",
+  "10 nuevos adoquinados en la zona andina, urbana, Intag y Golondrinas.",
+  "1 recolector de basura nuevo.",
+  "16 juegos infantiles inclusivos instalados.",
+  "350 productoras agroecológicas beneficiadas."
+ ],
+ "notas": [
+  "Gran parte del plan copia el plan de desarrollo del cantón (PDOT). Muchas propuestas no dicen cuánto cuestan ni cuándo.",
+  "Hay datos que no coinciden: los juegos infantiles dicen 5 en la propuesta y 16 en las metas.",
+  "Plan muy largo (61 págs.): se resumieron las 55 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  2,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60
+ ],
+ "paginas": 61
+}

@@ -1,0 +1,106 @@
+{
+ "enfoque": "Pide mejorar vías, agua, desechos y seguridad, pero casi todo depende del Estado o la provincia. No dice costos ni plazos.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Gestionar el mejoramiento y asfaltado de vías hacia las parroquias",
+    "que": "El plan no dice qué vías, cuánto costará ni cuándo. Lo haría con el Estado o la provincia.",
+    "v": "media",
+    "n": "Las vías entre parroquias no son del Municipio; el alcalde solo puede gestionarlas.",
+    "cita": "Gestionar de manera prioritaria con el organismo periinente del Estado o la provincia, el mejoramiento y asfaltado de una vialidad digna",
+    "pag": 16
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Gestionar la mejora de las plantas de aguas residuales y de desechos sólidos",
+    "que": "El plan no dice cuánto costará ni cuándo. Dice que se haría con las entidades competentes del Estado.",
+    "v": "media",
+    "n": "Es tarea municipal, pero depende del Estado y el plan no da costos.",
+    "cita": "gestionar y repotenciar las plantas de Iratamianto de agues residuales y desechos",
+    "pag": 15
+   },
+   {
+    "t": "Garantizar acceso igual a los servicios básicos y sociales en el cantón",
+    "que": "El plan no dice qué obras ni cuánto costará. Habla de acceso equitativo y de calidad, sin metas.",
+    "v": "media",
+    "n": "Es tarea municipal en parte, pero el plan es general y no dice cómo.",
+    "cita": "Garanfizar el acceso equitativo a los servicios básicos y sociales de cahdad",
+    "pag": 15
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Gestionar e implementar un plan local de seguridad con centro de monitoreo",
+    "que": "Incluye tecnología y un centro de monitoreo en tiempo real. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Seguridad y policía no le tocan al Municipio; solo puede coordinar.",
+    "cita": "Gestienar e implementar un Plan Loca! de Seguridad Y Convivencia Ciudadana, (PLSCC)",
+    "pag": 16
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Cuidar el territorio, el agua y la biodiversidad del cantón",
+    "que": "El plan no dice qué acciones concretas ni cuánto costará. Pide una gestión ambiental responsable y participativa.",
+    "v": "media",
+    "n": "Parte municipal, pero el plan no dice qué hará ni con qué dinero.",
+    "cita": "Prolegar y conservar el territorio, sus reseñas ambientales, la biodiversidad y las fuentes hídricas",
+    "pag": 16
+   }
+  ],
+  "economia": [
+   {
+    "t": "Impulsar la producción agrícola y los emprendimientos agroindustriales",
+    "que": "El plan no dice cuánto costará. La asistencia técnica y la capacitación las darían instituciones del Estado.",
+    "v": "baja",
+    "n": "La agricultura no es competencia municipal; el plan la deja al Estado.",
+    "cita": "impulsar el desarrollo productivo, agricola. comunitario sostenible y fomentar los emprendimientos agroindustriales",
+    "pag": 15
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas públicas en las parroquias para informar sobre la gestión",
+    "que": "El plan no dice cada cuánto ni en qué fechas. Incluye invitar a mujeres, jóvenes y pueblos indígenas.",
+    "v": "alta",
+    "n": "Rendir cuentas sí le toca al alcalde; falta decir cada cuánto se hará.",
+    "cita": "Conocar periódicamente a las comunidades, organizaciones sociales, juntas",
+    "pag": 23
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra ni en qué plazo se hará.",
+  "Parte del texto viene de otro lugar: menciona la provincia de Pastaza y repite artículos de la ley."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24
+ ],
+ "paginas": 24
+}

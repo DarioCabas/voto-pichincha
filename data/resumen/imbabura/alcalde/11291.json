@@ -1,0 +1,150 @@
+{
+ "enfoque": "Plan con obras de buses, agua, alcantarillado, basura, mercados, parques y suelo para vivienda. También propone temas de cuidado infantil y seguridad que no son del Municipio.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Reordenar las 24 rutas de buses y pasar a un sistema inteligente con caja única.",
+    "que": "Fase 1 (2027-2028) rediseña las 24 rutas; fase 2 (2029-2030) pone caja única. Costo: 660.000 dólares.",
+    "v": "alta",
+    "n": "Le toca al Municipio (buses y tránsito). Se ejecuta junto con MOVIDELNOR EP.",
+    "cita": "Ejecutar la reingeniería integral de la red de 24 rutas de transporte público (593 km), transformándola en un sistema inteligente",
+    "pag": 30
+   },
+   {
+    "t": "Hacer 15 km de ciclovías seguras que conecten universidades, parques y paradas de bus.",
+    "que": "Una red continua de 15 km de ciclovías urbanas seguras. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio (calles y vías). El plan no da costo.",
+    "cita": "Consolidar una red continua e interconectada de 15 km de ciclovías urbanas seguras que conecte",
+    "pag": 30
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Conectar sistemas de agua rurales y bajar el agua que se pierde del 45% al 30%.",
+    "que": "Agua continua las 24 horas y menos agua perdida en tuberías. Costo total: 2.475.000 dólares. Parte sería crédito del Banco de Desarrollo.",
+    "v": "alta",
+    "n": "Agua potable es del Municipio. Parte del dinero depende de un crédito.",
+    "cita": "Interconexión de sistemas rurales, reducción del agua no contabilizada (del 45% al 30%).",
+    "pag": 34
+   },
+   {
+    "t": "Construir un colector y 15 km de tuberías para dejar de echar aguas servidas a Yahuarcocha.",
+    "que": "Fase 1 (2027-2028) colector occidental; fase 2 (2029-2030) 15 km de interceptores. Costo: 1.760.000 dólares.",
+    "v": "alta",
+    "n": "El alcantarillado es del Municipio. Parte del dinero sería crédito del BDE.",
+    "cita": "Construcción del colector marginal occidental y de 15 km de redes interceptoras en Priorato, Caranqui y Yahuarcocha para eliminar descargas",
+    "pag": 32
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Llevar la basura a una planta de separación con recicladores y reducir lo que va al relleno.",
+    "que": "Fase 1 (2027-2028) planta de separación; fase 2 (2029-2030) cierre técnico de Socapamba. Costo: 1.540.000 dólares.",
+    "v": "alta",
+    "n": "La basura es del Municipio. Cerrar Socapamba necesita licencia del MAATE.",
+    "cita": "Ibarra Circular: Planta de separación y aprovechamiento con recicladores de base, estación de transferencia de Socapamba optimizada",
+    "pag": 32
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Renovar los mercados Amazonas y La Playa: edificios, higiene y servicios digitales.",
+    "que": "Renovar edificios, mejorar higiene, añadir zonas de comida y digitalizar servicios. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Los mercados son del Municipio. El plan no da costo.",
+    "cita": "Mercado Amazonas y La Playa Moderno: Modernización integral de los mercados municipales para fortalecer el comercio local mediante la renovación de la infraestructura",
+    "pag": 32
+   },
+   {
+    "t": "Crear un banco de suelos con 50 lotes con servicios y 81 casas del MIDUVI.",
+    "que": "Urbanizar 50 lotes (2027-2028) y construir 81 casas (2029-2030). Costo del proyecto: 1.375.000 dólares.",
+    "v": "media",
+    "n": "El Municipio pone el suelo; las casas dependen del MIDUVI (Gobierno).",
+    "cita": "Creación del banco de suelos, 81 viviendas del MIDUVI y 50 lotes con servicios progresivos",
+    "pag": 13
+   },
+   {
+    "t": "Subir los parques y áreas verdes hasta 9 m² por habitante.",
+    "que": "El plan dice que hoy hay 2,88 m² por persona. El plan no dice cuánto costará ni en qué año llegará a 9.",
+    "v": "alta",
+    "n": "Parques y uso del suelo son del Municipio. El plan no da costo.",
+    "cita": "incrementando la superficie de parques y áreas verdes hasta alcanzar un mínimo de 9 m²/hab",
+    "pag": 14
+   }
+  ],
+  "social": [
+   {
+    "t": "Ampliar los centros de cuidado infantil (CDI) Sagrario y San Francisco.",
+    "que": "Atender a 1.000 niños menores de 3 años. El plan no dice cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "Cuidado infantil y nutrición son de MIES y Salud, no del Municipio.",
+    "cita": "Ampliación de los CDI Sagrario y San Francisco para 1.000 niños <3 años",
+    "pag": 33
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Convertir polideportivos de barrios en Unidades Barriales Seguras, con luz y servicios.",
+    "que": "Ponerles luz y servicios deportivos, culturales y comunitarios. El plan no dice cuánto costará ni cuándo. Vigilar es de la Policía.",
+    "v": "media",
+    "n": "Los polideportivos y la luz son del Municipio; la vigilancia no.",
+    "cita": "Transformación de polideportivos barriales en Unidades Barriales Seguras (UBS) con servicios deportivos, culturales y comunitarios e iluminación.",
+    "pag": 34
+   }
+  ]
+ },
+ "metas": [
+  "Bajar en 15% los accidentes de tránsito para el año 2031.",
+  "Bajar el agua que se pierde en tuberías del 45% al 30%.",
+  "Dejar de enviar 145 toneladas diarias de basura al relleno San Alfonso.",
+  "Construir 15 km de ciclovías urbanas seguras.",
+  "Bajar el déficit de vivienda del cantón al 30% para 2031."
+ ],
+ "notas": [
+  "Muchas obras dependen del Gobierno, la Prefectura o de créditos. Varias propuestas no tienen costo ni fecha en el plan.",
+  "Incluye temas de policía, salud y empleo que no son del Municipio. Aquí se marcan como baja o media.",
+  "Plan muy largo (64 págs.): se resumieron las 37 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  5,
+  7,
+  8,
+  10,
+  12,
+  13,
+  14,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  26,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  39,
+  42,
+  43,
+  45,
+  46,
+  48,
+  52,
+  55,
+  56
+ ],
+ "paginas": 64
+}

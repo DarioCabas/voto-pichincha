@@ -1,0 +1,141 @@
+{
+ "enfoque": "Copia en buena parte los diagnósticos del PDOT y PUGS del cantón. Se centra en alcantarillado rural, catastro, vías, trámites y participación ciudadana.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Gestionar redes de alcantarillado donde sea posible y otras soluciones en el campo.",
+    "que": "Usar biodigestores o sistemas comunitarios donde no haya redes. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de financiamiento que el plan no detalla.",
+    "cita": "Donde sea posible, se gestionarán redes de alcantarillado; donde la dispersión rural no permita redes convencionales",
+    "pag": 17
+   },
+   {
+    "t": "Ampliar las rutas de basura en zonas rurales y poner puntos limpios.",
+    "que": "También separar la basura desde la casa y controlar botaderos informales. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "La basura es tarea del Municipio. El plan no dice cuánto costará.",
+    "cita": "Ampliar rutas rurales, implementar puntos limpios, promover separación en fuente, reciclaje comunitario",
+    "pag": 8
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar el registro de terrenos (catastro) y ayudar a legalizar predios.",
+    "que": "Primero revisar el catastro y los conflictos de suelo en el cantón. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Es tarea municipal. El plan no dice cuánto costará.",
+    "cita": "Con esa información se priorizarán procesos de regularización predial y actualización catastral.",
+    "pag": 14
+   },
+   {
+    "t": "Poner más luz en puntos críticos y recuperar parques y plazas.",
+    "que": "Con mantenimiento, limpieza y actividades deportivas y culturales en esos espacios. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Parques y espacios públicos son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Se mejorará la iluminación en puntos críticos y se recuperarán espacios públicos mediante mantenimiento, limpieza,",
+    "pag": 18
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Dar mantenimiento a las vías que unen comunidades, producción y escuelas.",
+    "que": "Primero hacer un inventario de vías urbanas, rurales y turísticas. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Las vías rurales se hacen con el Gobierno Provincial. El plan no dice cuánto costará.",
+    "cita": "Con ese inventario se priorizará el mantenimiento de vías que conectan comunidades, producción, escuelas",
+    "pag": 17
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer un plan cantonal para prevenir emergencias como incendios e inundaciones.",
+    "que": "Incluye mapas de riesgo, limpieza de quebradas y drenajes, y brigadas rurales. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Prevenir desastres es tarea municipal. El plan no dice cuánto costará.",
+    "cita": "Implementar un plan cantonal de gestión de riesgos con enfoque comunitario,",
+    "pag": 8
+   }
+  ],
+  "social": [
+   {
+    "t": "Organizar brigadas sociales en barrios y comunidades para familias vulnerables.",
+    "que": "Serán espacios de orientación y derivación, no solo entrega de ayudas. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Salud y educación no son del Municipio; depende de esas instituciones.",
+    "cita": "Una vez identificados los casos, el Municipio organizará brigadas sociales territoriales.",
+    "pag": 15
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Crear comités de seguridad en barrios, junto con la Policía.",
+    "que": "Son para prevenir, no reemplazan a la Policía. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "La Policía no le toca al alcalde; el Municipio solo organiza.",
+    "cita": "Luego se conformarán comités barriales y comunitarios de seguridad.",
+    "pag": 18
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Abrir un solo lugar de atención (ventanilla única) para trámites municipales.",
+    "que": "Antes revisará trámites, requisitos y tiempos de demora. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Es administración municipal. El plan no dice cuánto costará.",
+    "cita": "Luego se implementará una ventanilla única municipal para facilitar la atención.",
+    "pag": 19
+   }
+  ],
+  "economia": [
+   {
+    "t": "Hacer ferias campesinas y puntos de venta directa para productores.",
+    "que": "Para vender sin depender de intermediarios. El plan no dice cuánto costará, cuándo ni dónde.",
+    "v": "alta",
+    "n": "Mercados y ferias son del Municipio. El plan no dice cuánto costará.",
+    "cita": "El Municipio impulsará ferias campesinas y espacios de venta directa para reducir la dependencia de intermediarios.",
+    "pag": 16
+   }
+  ]
+ },
+ "metas": [
+  "Implementar 1 programa cantonal permanente de protección ambiental y fuentes hídricas (2027-2031).",
+  "Implementar un sistema cantonal de atención y seguimiento social (2027-2031).",
+  "Según el PDOT citado en el plan: recolección de basura en zonas rurales al 90% en 2027, desde 82% en 2024."
+ ],
+ "notas": [
+  "Casi todo el texto copia diagnósticos del PDOT y PUGS del cantón. El plan no dice cuánto costará ninguna propuesta.",
+  "Varias ideas son de Policía, salud, educación o del Ministerio del Ambiente, que no le tocan al alcalde."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27
+ ],
+ "paginas": 27
+}

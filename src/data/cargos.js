@@ -86,5 +86,26 @@ export const CARGOS = {
   },
 };
 
+// CPCCS: Constitución 2008, art. 208 (deberes y atribuciones), en la misma copia de CEPAL, pág. 72-73
+const constitucion = (pag) => CONSTITUCION_URL.replace(/#page=\d+$/, `#page=${pag}`);
+CARGOS.cpccs = {
+  quien: 'un consejero o consejera del CPCCS',
+  ley: 'constitucion',
+  resumen: 'El Consejo de Participación Ciudadana y Control Social elige a las autoridades de control (Fiscal, Contralor, Defensor del Pueblo, CNE, entre otras) y recibe denuncias de corrupción. Son 7 consejeros para todo el país.',
+  puede: [
+    { t: 'Elegir al Fiscal General, al Contralor, al Defensor del Pueblo y al Defensor Público, mediante concursos.', art: 'Art. 208 num. 11', url: constitucion(73) },
+    { t: 'Elegir a los miembros del CNE, del Tribunal Contencioso Electoral y del Consejo de la Judicatura.', art: 'Art. 208 num. 12', url: constitucion(73) },
+    { t: 'Elegir al Procurador y a los superintendentes, de las ternas que envía el Presidente.', art: 'Art. 208 num. 10', url: constitucion(73) },
+    { t: 'Investigar denuncias de corrupción y emitir informes para que actúen la Fiscalía o la Contraloría.', art: 'Art. 208 num. 4, 5', url: constitucion(72) },
+    { t: 'Exigir que las instituciones públicas rindan cuentas y apoyar las veedurías ciudadanas.', art: 'Art. 208 num. 2', url: constitucion(72) },
+    { t: 'Proteger a quienes denuncian corrupción.', art: 'Art. 208 num. 7', url: constitucion(72) },
+  ],
+  noPuede: [
+    { t: 'Juzgar, sancionar o meter preso a nadie.', quien: 'Le toca a la Fiscalía y a los jueces; el CPCCS solo investiga e informa (Art. 208 num. 5).', url: constitucion(72) },
+    { t: 'Hacer leyes, obras, o manejar salud, educación, seguridad o empleo.', quien: 'Le toca a la Asamblea, al Gobierno y a los gobiernos locales.', url: constitucion(72) },
+  ],
+  ojo: 'Desconfía si promete encarcelar corruptos, crear empleo u obras: el CPCCS elige autoridades e investiga, pero no sanciona ni construye.',
+};
+
 export const cargoDe = (slug) =>
-  slug === 'prefectura' ? CARGOS.prefectura : slug === 'alcaldia' ? CARGOS.alcaldia : slug === 'junta-parroquial' ? CARGOS.junta : CARGOS.concejo;
+  slug === 'cpccs' ? CARGOS.cpccs : slug === 'prefectura' ? CARGOS.prefectura : slug === 'alcaldia' ? CARGOS.alcaldia : slug === 'junta-parroquial' ? CARGOS.junta : CARGOS.concejo;

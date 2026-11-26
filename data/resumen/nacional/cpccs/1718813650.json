@@ -1,0 +1,41 @@
+{
+ "enfoque": "Promete hacer cumplir la Constitución y los plazos, y designar autoridades independientes, probas e íntegras. No dice cómo.",
+ "tabla": {
+  "gobierno": [
+   {
+    "t": "Designar autoridades independientes, probas e íntegras.",
+    "que": "El plan dice que designará autoridades así, pero no dice cuáles ni en qué plazo. No dice cómo elegirá a las personas.",
+    "v": "alta",
+    "n": "Designar autoridades es tarea del Consejo, junto con comisiones ciudadanas.",
+    "cita": "haré cumplir la Constitución y los plazos, designaré autoridades independientes, probas e íntegras",
+    "pag": 1
+   },
+   {
+    "t": "Hacer cumplir la Constitución y los plazos.",
+    "que": "El plan no dice qué plazos ni qué autoridades. No dice cómo lo hará.",
+    "v": "media",
+    "n": "Depende de otras instituciones que deben cumplir los plazos.",
+    "cita": "Ecuador necesita autoridades legítimas: haré cumplir la Constitución y los plazos",
+    "pag": 1
+   },
+   {
+    "t": "Terminar con las prórrogas eternas de los plazos.",
+    "que": "El plan no dice qué prórrogas ni cómo se evitarían. No dice cuánto tiempo durarían los plazos.",
+    "v": "media",
+    "n": "Evitar prórrogas puede exigir cambios de reglas o de otras instituciones.",
+    "cita": "designaré autoridades independientes, probas e íntegras. ¡No más prórrogas eternas!",
+    "pag": 1
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan es muy corto: no dice cuánto costará, qué cargos designará ni en qué plazos.",
+  "Casi todo son frases generales; hay pocas propuestas concretas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1
+ ],
+ "paginas": 1
+}

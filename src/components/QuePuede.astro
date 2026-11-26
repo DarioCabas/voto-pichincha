@@ -22,7 +22,7 @@ const c = cargoDe(Astro.props.dign);
         {c.puede.map((p) => (
           <li class="flex gap-2">
             <span aria-hidden="true" class="mt-[0.55em] size-1.5 shrink-0 rounded-full bg-alta"></span>
-            <span>{p.t} <a href={cootad(p.pag)} target="_blank" rel="noopener" class="text-xs whitespace-nowrap" aria-label={`${p.art} del COOTAD (abre la ley)`}>{p.art}</a></span>
+            <span>{p.t} <a href={p.url ?? cootad(p.pag)} target="_blank" rel="noopener" class="text-xs whitespace-nowrap" aria-label={`${p.art} ${c.ley === 'constitucion' ? 'de la Constitución' : 'del COOTAD'} (abre la ley)`}>{p.art}</a></span>
           </li>
         ))}
       </ul>
@@ -38,7 +38,7 @@ const c = cargoDe(Astro.props.dign);
             <span>
               <b class="font-medium">{p.t}</b>{' '}
               <span class="text-muted-foreground">{p.quien}</span>{' '}
-              <a href={p.pag ? cootad(p.pag) : CONSTITUCION_URL} target="_blank" rel="noopener" class="text-xs whitespace-nowrap">ver la ley</a>
+              <a href={p.url ?? (p.pag ? cootad(p.pag) : CONSTITUCION_URL)} target="_blank" rel="noopener" class="text-xs whitespace-nowrap">ver la ley</a>
             </span>
           </li>
         ))}
@@ -50,7 +50,11 @@ const c = cargoDe(Astro.props.dign);
       <AlertDescription>{c.ojo}</AlertDescription>
     </Alert>
     <p class="text-xs text-muted-foreground md:col-span-2">
-      Fuente: <a href={COOTAD_URL} target="_blank" rel="noopener">COOTAD</a> (ley de gobiernos locales, última reforma de junio de 2024) y <a href={CONSTITUCION_URL} target="_blank" rel="noopener">Constitución, art. 261</a>. Cada enlace abre la página exacta de la ley.
+      {c.ley === 'constitucion' ? (
+        <>Fuente: <a href={CONSTITUCION_URL.replace(/#page=\d+$/, '#page=72')} target="_blank" rel="noopener">Constitución, art. 208</a> (deberes y atribuciones del CPCCS). Cada enlace abre la página exacta de la ley.</>
+      ) : (
+        <>Fuente: <a href={COOTAD_URL} target="_blank" rel="noopener">COOTAD</a> (ley de gobiernos locales, última reforma de junio de 2024) y <a href={CONSTITUCION_URL} target="_blank" rel="noopener">Constitución, art. 261</a>. Cada enlace abre la página exacta de la ley.</>
+      )}
     </p>
   </CardContent>
 </Card>

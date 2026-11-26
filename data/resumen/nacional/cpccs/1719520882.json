@@ -1,0 +1,41 @@
+{
+ "enfoque": "Pide veedurías con acceso a información, protección a quien denuncia corrupción y rendición de cuentas. No dice cómo lo hará.",
+ "tabla": {
+  "gobierno": [
+   {
+    "t": "Crear veedurías con acceso real a la información.",
+    "que": "El plan no dice a qué información tendrán acceso ni cómo se logrará. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Vigilar y pedir información sí es función del CPCCS, pero el plan no dice cómo.",
+    "cita": "Que tu voz no sea un trámite. Veedurías con acceso real a la",
+    "pag": 1
+   },
+   {
+    "t": "Proteger a quienes denuncian corrupción.",
+    "que": "El plan no dice qué protección dará ni quién la dará. No dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Proteger denunciantes le toca a Fiscalía y jueces; el CPCCS solo puede investigar y pasar denuncias.",
+    "cita": "información, protección a quien denuncia corrupción y una",
+    "pag": 1
+   },
+   {
+    "t": "Exigir una rendición de cuentas que sí se cumpla.",
+    "que": "El plan no dice qué pasará si no se cumple ni cuándo. No dice cuánto costará.",
+    "v": "media",
+    "n": "Pedir cuentas sí es función del CPCCS; hacerlas cumplir con sanciones le toca a otras instituciones.",
+    "cita": "Veedurías con acceso real a la información, protección a quien denuncia corrupción y una rendición de cuentas que sí se cumpla.",
+    "pag": 1
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan es muy corto: no tiene cifras, plazos ni pasos concretos.",
+  "Las propuestas son generales. No dice cómo se hará ni cuánto costará."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1
+ ],
+ "paginas": 1
+}

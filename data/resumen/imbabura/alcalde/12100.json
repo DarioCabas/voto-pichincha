@@ -1,0 +1,168 @@
+{
+ "enfoque": "Casi todo sale del plan de desarrollo del cantón: agua, buses, suelo, laguna de Yahuarcocha, mercados y cámaras de seguridad (que no le toca al Municipio).",
+ "tabla": {
+  "seguridad": [
+   {
+    "t": "Poner 400 cámaras con inteligencia artificial, una central de vigilancia y alarmas de barrio.",
+    "que": "Las alarmas se conectarían al servicio de emergencias 911. El plan no dice cuánto costará ni en qué plazo se hará.",
+    "v": "baja",
+    "n": "La seguridad y la policía no le tocan al Municipio.",
+    "cita": "Implementar el Sistema Cantonal de Seguridad con central C4 municipal, 400 cámaras de inteligencia artificial y alarmas comunitarias conectadas al ECU 911",
+    "pag": 29
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Quitar todas las descargas a la laguna de Yahuarcocha y construir una planta de tratamiento.",
+    "que": "También restaurar las orillas de la laguna. El plan no dice cuánto costará ni en qué plazo se hará.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el plan no dice cómo la pagará.",
+    "cita": "Ejecutar el Plan Integral Yahuarcocha 2031: supresión total de vertidos, planta de tratamiento de aguas residuales y restauración ecológica de orillas.",
+    "pag": 31
+   },
+   {
+    "t": "Montar un sistema de reciclaje y manejo de la basura en todo el cantón.",
+    "que": "El plan no dice qué parte de la basura se recicla, cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "La basura es competencia del Municipio.",
+    "cita": "Implementar el sistema cantonal de economía circular y gestión integral de residuos sólidos.",
+    "pag": 29
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear un fondo de dinero inicial para negocios y 5 centros de capacitación tecnológica.",
+    "que": "Los centros irían en las cabeceras parroquiales. El plan no dice cuánto dinero tendrá el fondo ni cuándo se abrirá.",
+    "v": "baja",
+    "n": "El Municipio no crea empleo directamente; no le toca.",
+    "cita": "Crear el Fondo Emprende Ibarra con capital semilla y 5 Centros de Innovación y Capacitación Tecnológica en cabeceras parroquiales.",
+    "pag": 33
+   },
+   {
+    "t": "Reorganizar y modernizar los mercados municipales y centros de abasto.",
+    "que": "El plan no dice qué mercados se arreglarán, cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Mercados y centros de abasto son competencia municipal.",
+    "cita": "modernizando y reestructurando los mercados municipales y centros de abasto",
+    "pag": 29
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Pasar todos los trámites municipales a sistema digital, sin papel.",
+    "que": "Incluye las aprobaciones urbanísticas (permisos de obras y terrenos). El plan no dice cuánto costará ni cuándo estará listo.",
+    "v": "alta",
+    "n": "Le toca al Municipio, que maneja sus propios trámites.",
+    "cita": "Modernizar y digitalizar el 100% de trámites municipales con interoperabilidad y cero papel para aprobaciones urbanísticas.",
+    "pag": 33
+   },
+   {
+    "t": "Publicar cada 3 meses en la web del Municipio el avance de los 18 proyectos.",
+    "que": "Incluye el dinero gastado, el estado de los contratos y la ubicación de cada proyecto en un mapa.",
+    "v": "alta",
+    "n": "Le toca al Municipio; publicar su propia información.",
+    "cita": "Publicación trimestral del avance físico, financiero, estado de contratos y georreferenciación de cada uno de los 18 proyectos estratégicos en la página web municipal",
+    "pag": 51
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar las reglas para usar el suelo y crear un banco de terrenos del Municipio.",
+    "que": "Incluye planes para zonas concretas. El plan no dice qué zonas, cuántos terrenos ni en qué plazo.",
+    "v": "alta",
+    "n": "Es competencia del Municipio: uso del suelo y terrenos.",
+    "cita": "Actualizar los instrumentos de gestión del suelo, implementar planes parciales y constituir el banco de suelo municipal.",
+    "pag": 31
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Rediseñar las rutas de buses y cada cuánto pasan, ajustar semáforos y hacer ciclovías seguras.",
+    "que": "Es parte del plan de movilidad urbana del cantón. El plan no dice cuánto costará, en qué calles ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: buses, tránsito y ciclovías.",
+    "cita": "Implementar la reingeniería de rutas y frecuencias, sincronización semafórica inteligente y red de ciclovías seguras.",
+    "pag": 31
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Llevar agua potable y alcantarillado a más zonas del cantón.",
+    "que": "El plan no dice a qué zonas llegará ni cuánto costará. Tampoco dice en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "Ampliar la cobertura de servicios hidrosanitarios básicos y saneamiento ambiental.",
+    "pag": 31
+   }
+  ]
+ },
+ "metas": [
+  "18 proyectos estratégicos entre 2027 y 2031.",
+  "100% de trámites municipales digitales (sin fecha).",
+  "400 cámaras con inteligencia artificial (sin fecha).",
+  "5 centros de innovación y capacitación tecnológica en cabeceras parroquiales.",
+  "Publicación de avances de proyectos cada 3 meses."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Muchas tablas están borrosas y varias páginas son papeles de inscripción, no propuestas. Se usó solo lo legible."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54
+ ],
+ "paginas": 54
+}

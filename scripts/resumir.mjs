@@ -48,6 +48,11 @@ const CRITERIOS = {
     viab: '    alta = le toca a la junta y cuesta poco (mingas, ferias, parques, cursos, organizar a la comunidad); media = necesita un acuerdo con el Municipio o la Prefectura; baja = le toca a otro nivel (agua potable, salud, escuelas, policía) o es una obra grande irreal.',
   },
 };
+CRITERIOS.cpccs = {
+  dignidad: 'Consejero/a del Consejo de Participación Ciudadana y Control Social (CPCCS)',
+  comp: 'Sí puede (Constitución art. 208): designar con comisiones ciudadanas al Fiscal, Contralor, Defensor del Pueblo, Defensor Público, Procurador, superintendentes y miembros del CNE, TCE y Consejo de la Judicatura; investigar denuncias de corrupción y pasar los informes a Fiscalía o Contraloría; promover la participación ciudadana, la rendición de cuentas y las veedurías. No puede: juzgar ni sancionar (eso lo hacen jueces, Fiscalía y Contraloría), hacer leyes, hacer obras ni manejar seguridad, salud, educación o empleo.',
+  viab: '    alta = es una función del CPCCS (designaciones, veedurías, rendición de cuentas, investigar y derivar denuncias); media = necesita a otra institución (Asamblea, Fiscalía, Contraloría) o un cambio de reglamento; baja = no le toca al CPCCS (sancionar, encarcelar, obras, leyes, temas sociales o económicos) o es irreal.',
+};
 const crit = CRITERIOS[BASE] ?? CRITERIOS[BASE.startsWith('concejal') ? 'concejal' : ''];
 const TEMAS = ['movilidad', 'servicios', 'ambiente', 'urbano', 'seguridad', 'social', 'economia', 'gobierno', 'otros'];
 const item = { type: 'object', properties: { t: { type: 'string' }, que: { type: 'string' }, v: { enum: ['alta', 'media', 'baja'] }, n: { type: 'string' }, cita: { type: 'string' } }, required: ['t', 'que', 'v', 'n', 'cita'] };
@@ -173,7 +178,7 @@ if (!SOLO_COMPILAR) {
       }
       hechos++;
       const sel = seleccionar(t, LIMITE);
-      const entrada = `Cantón: ${r.canton}${r.sub ? ` · ${r.sub}` : ''}\nOrganización: ${r.partido} (lista ${r.lista})\nCandidatos: ${r.principales.map((p) => p.nombre).join(', ')}\n\nTEXTO DEL PLAN${sel.recortado ? ` (plan de ${sel.total} páginas; solo van las páginas con propuestas)` : ''}:\n${sel.texto}`;
+      const entrada = `${BASE === 'cpccs' ? 'Lista' : 'Cantón'}: ${r.canton}${r.sub ? ` · ${r.sub}` : ''}\nOrganización: ${r.partido} (lista ${r.lista})\nCandidatos: ${r.principales.map((p) => p.nombre).join(', ')}\n\nTEXTO DEL PLAN${sel.recortado ? ` (plan de ${sel.total} páginas; solo van las páginas con propuestas)` : ''}:\n${sel.texto}`;
       const res = await claude(entrada);
       const usd = res.total_cost_usd ?? 0; gasto += usd;
       fs.appendFileSync(usoPath, JSON.stringify({ fecha: new Date().toISOString(), slug, cod: r.codFormulario, modelo: MODELO, usd, entrada: res.usage?.input_tokens, cache: res.usage?.cache_read_input_tokens, salida: res.usage?.output_tokens, error: !!res.is_error }) + '\n');

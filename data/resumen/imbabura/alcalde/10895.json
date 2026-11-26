@@ -1,0 +1,90 @@
+{
+ "enfoque": "Arreglar agua, basura, calles e iluminación, ordenar el catastro y simplificar trámites. Usa datos simulados y no detalla costos por obra.",
+ "tabla": {
+  "servicios": [
+   {
+    "t": "Reducir pérdidas de agua y modernizar la recolección de basura.",
+    "que": "Costo de $2 millones con empresas públicas, ingresos propios, crédito y ayuda internacional. El plan no dice qué barrios se atienden primero.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de crédito y ayuda externa.",
+    "cita": "Continuidad media de agua de 23 horas, pérdidas reducidas al 24 %, 18 % de residuos valorizados.",
+    "pag": 2
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Atender 100 km de vías en 2027, con bacheo e iluminación.",
+    "que": "Es parte de la primera etapa de 2027. La tabla pone $8 millones para ese año, pero no dice de dónde salen.",
+    "v": "alta",
+    "n": "Le toca al Municipio: calles e iluminación.",
+    "cita": "Ordenamiento y limpieza, bacheo e iluminación; 100 km de vías",
+    "pag": 2
+   },
+   {
+    "t": "Ordenar rutas de bus y mantener vías, con meta de 25 % menos choques graves.",
+    "que": "Incluye 85 km de corredores seguros para peatones y bicicletas. El plan no dice cuánto cuesta ni cuándo se construyen.",
+    "v": "alta",
+    "n": "Le toca al Municipio: tránsito, buses y calles. Falta el costo.",
+    "cita": "Viajes 15 % más cortos en corredores, 250km mantenidos, 25 %",
+    "pag": 2
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Crear una ventanilla única y un mapa de riesgos para trámites de suelo.",
+    "que": "Plan: 5.000 predios actualizados y 65 barrios con ruta de regularización hacia 2031. Costo de $1 millón con ingresos catastrales y cooperación.",
+    "v": "alta",
+    "n": "Le toca al Municipio (suelo y catastro). Parte del dinero es externo.",
+    "cita": "Ventanilla única, expediente digital, mapa de riesgos, control con trazabilidad",
+    "pag": 2
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Simplificar 10 trámites y auditar obras y servicios en 2027.",
+    "que": "Es el primer paso del año 2027. El plan no dice cuánto cuestan los trámites ni cómo se medirán.",
+    "v": "alta",
+    "n": "Le toca al Municipio; trámites y auditoría son internos.",
+    "cita": "Auditoría de servicios y obras; plan de 10 trámites simplificados;",
+    "pag": 2
+   },
+   {
+    "t": "Publicar en internet el estado de servicios, obras y contratos.",
+    "que": "Tablero mensual, informes zonales cada tres meses y rendición anual. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio; es información de su propia gestión.",
+    "cita": "La Alcaldia implementará un sistema de rendición de cuentas que permita conocer el estado de los servicios, las obras, las",
+    "pag": 3
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Iluminar zonas y crear 20 polígonos preventivos junto a la Policía.",
+    "que": "Plan operativo coordinado y 20 polígonos preventivos en los primeros 100 días. El plan no dice qué hará la Policía en cada zona.",
+    "v": "media",
+    "n": "La Policía es del Gobierno; el Municipio pone luces y coordina.",
+    "cita": "Las propuestas se estructuran conforme a competencias municipales En seguridad se priorizan prevención, iluminacion,",
+    "pag": 2
+   }
+  ]
+ },
+ "metas": [
+  "Para 2031: agua 23 horas en promedio, pérdidas al 24 %, 18 % de residuos aprovechados.",
+  "Para 2031: 250 km de vías mantenidos y 25 % menos choques graves.",
+  "En 2027: 10 trámites simplificados y 100 km de vías atendidos.",
+  "Para 2031: 5.000 predios actualizados y 65 barrios con ruta de regularización.",
+  "Para 2031: 30 espacios públicos recuperados."
+ ],
+ "notas": [
+  "El diagnóstico dice que usa datos simulados (20.000 habitantes). Las cifras no están comprobadas.",
+  "El plan da costos por bloques de años y ejes, no por obra. No dice cuánto cuesta cada proyecto."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "paginas": 4
+}

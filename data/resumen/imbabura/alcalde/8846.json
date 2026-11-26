@@ -1,0 +1,166 @@
+{
+ "enfoque": "Propone arreglar calles, dar agua, alcantarillado y basura en las parroquias rurales, reciclar el 50% de la basura y crear una Asamblea Cantonal. Faltan costos y fechas.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Construir un terminal terrestre como empresa de economía mixta.",
+    "que": "El plan propone construir el terminal como empresa de economía mixta. El plan no dice cuánto costará ni cuándo.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero el transporte lo maneja la mancomunidad. Sin costo ni plazo.",
+    "cita": "construcción del terminal terrestre como empresa de economía mixta",
+    "pag": 47
+   },
+   {
+    "t": "Abrir el corredor vial oriental y construir 3 puentes en la ciudad.",
+    "que": "El plan pide abrir el corredor vial oriental de la ciudad y construir 3 puentes. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: calles y puentes urbanos. El plan no dice cómo se pagará.",
+    "cita": "habilitar el corredor vial oriental de la ciudad y la construcción de 3 puentes",
+    "pag": 47
+   },
+   {
+    "t": "Pasar el transporte público a eléctrico y poner electrolineras municipales.",
+    "que": "El plan propone que el Municipio ponga las electrolineras y dé tasas más bajas a quien cambie a eléctrico, tras acordar con transportistas. No dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de acuerdos con transportistas y de la mancomunidad. El plan no dice costos.",
+    "cita": "en donde la municipalidad sea el proveedor de electrolineras para este servicio",
+    "pag": 28
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Cubrir agua, alcantarillado y basura en las 9 parroquias rurales.",
+    "que": "El plan pide cubrir todo el cantón con agua, alcantarillado y basura, incluido el sector rural. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Es competencia del Municipio. El plan no dice cómo se pagará.",
+    "cita": "La cobertura integral de los servicios básicos de: Agua Potable, Alcantarillado Sanitario",
+    "pag": 45
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Reciclar el 50% de la basura en 5 años.",
+    "que": "El plan fija como meta reciclar la mitad de los desechos en 5 años. No dice cuánto costará ni cómo se pagará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: basura. El plan no dice cuánto costará.",
+    "cita": "nuestro objetivo es llegar a reciclar en 5 años el 50% de los desechos generados",
+    "pag": 45
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Poner en el presupuesto un dinero fijo cada año para arreglar vías.",
+    "que": "El plan pide que el presupuesto tenga un rubro anual para mantener las vías de todo el cantón. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: vías urbanas y rurales. Falta el monto.",
+    "cita": "se defina de manera permanente un rubro específico de mantenimiento vial anual para todo el cantón",
+    "pag": 29
+   },
+   {
+    "t": "Recuperar parques y espacios públicos con el programa Mi Barrio Bonito.",
+    "que": "El programa junta a vecinos de cada barrio para arreglar y cuidar espacios públicos. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Los espacios públicos son del Municipio. El plan no dice cuánto costará.",
+    "cita": "Se implementará el programa “Mi Barrio Bonito”, como acción directa para integrar a los miembros de los barrios",
+    "pag": 31
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Coordinar un patrullaje mixto permanente con las instituciones de seguridad.",
+    "que": "El plan dice que el Municipio coordinará el patrullaje 24 horas, 7 días, con otras instituciones. No dice cuánto costará.",
+    "v": "baja",
+    "n": "La policía no es del Municipio. Solo puede coordinar.",
+    "cita": "coordinadas desde la municipalidad quien brindará soporte y asistencia",
+    "pag": 32
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear la Asamblea Cantonal con unos 130 representantes.",
+    "que": "La asamblea tendría unos 130 representantes de la ciudad y el campo, y decidiría sobre políticas y control de la gestión municipal. El plan no dice cuándo se crea.",
+    "v": "alta",
+    "n": "Le toca al Municipio. El plan no dice cuándo se instala.",
+    "cita": "que permitirá que alrededor de 130 representantes de lo urbano y lo rural",
+    "pag": 50
+   }
+  ],
+  "economia": [
+   {
+    "t": "Crear un instituto técnico municipal de artes y oficios.",
+    "que": "El plan propone formar técnicos en al menos 20 carreras. No dice cuánto costará ni cuándo empezará.",
+    "v": "baja",
+    "n": "Educación no le toca al Municipio. El plan no dice cuánto costará.",
+    "cita": "creación del Instituto Técnico Superior Municipal de Artes y Oficios con la capacidad de",
+    "pag": 42
+   }
+  ]
+ },
+ "metas": [
+  "Reciclar el 50% de los desechos en 5 años.",
+  "Tener 9 m² de área verde por habitante; hoy el plan estima unos 3 m².",
+  "Asamblea Cantonal con unos 130 representantes.",
+  "Sesiones bicamerales: al menos 2 al mes en las parroquias rurales.",
+  "Patrullaje mixto 24 horas, 7 días, durante 4 años de gestión."
+ ],
+ "notas": [
+  "El plan casi no dice cuánto costará ni cuándo se hará cada cosa.",
+  "Mucho texto copia la ley y el plan anterior de la ciudad. Varias propuestas (policía, escuelas, hospital) no son del Municipio."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52
+ ],
+ "paginas": 52
+}

@@ -1,0 +1,166 @@
+{
+ "enfoque": "Propone transporte, calles, agua, basura, parques, permisos y participación ciudadana. Gran parte del texto copia el diagnóstico del plan de desarrollo del cantón y de leyes. Casi no dice costos.",
+ "tabla": {
+  "movilidad": [
+   {
+    "t": "Crear una política de transporte público inclusivo, con enfoque de género y accesibilidad.",
+    "que": "El plan dice que el transporte será inclusivo, con perspectiva de género y accesibilidad universal. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: el transporte es su competencia. El plan no dice costo ni plazo.",
+    "cita": "Generar una política de transporte público inclusivo, con perspectiva de género y accesibilidad universal.",
+    "pag": 67
+   },
+   {
+    "t": "Establecer paradas provisionales para subir y bajar del transporte público.",
+    "que": "El plan no dice dónde ni cuántas paradas se harán, ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: controlar buses y tránsito. Falta dónde y cuándo.",
+    "cita": "Establecer zonas provisionales de parada para el embarque y desembarque del transporte público.",
+    "pag": 67
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Mejorar calles y vías con un enfoque amigable con el entorno humano y el ambiente.",
+    "que": "El plan no dice qué calles se arreglarán, cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: las calles son su competencia. Falta qué calles y costo.",
+    "cita": "Mejorar la infraestructura vial bajo un enfoque amigable con el entorno humano y ambiental,",
+    "pag": 68
+   },
+   {
+    "t": "Simplificar los trámites para regularizar barrios y viviendas.",
+    "que": "El plan no dice cuántos barrios se regularizarán ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: uso del suelo y predios. El plan no dice plazos.",
+    "cita": "Simplificar los procedimientos para la regularización de barrios y viviendas.",
+    "pag": 62
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Mejorar el acceso al agua potable y el manejo de la basura.",
+    "que": "El plan dice que busca prevenir enfermedades y reducir riesgos de salud. No dice en qué barrios ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: agua y basura. El plan no dice dónde ni cuánto costará.",
+    "cita": "Mejorar el acceso a agua potable y la gestión de desechos pura prevenir enfermedades y reducir riesgos de salud.",
+    "pag": 66
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Mejorar el tratamiento de la basura y arreglar los rellenos sanitarios.",
+    "que": "El plan no dice qué obras se harán, cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: basura y rellenos. El plan no dice costo ni plazo.",
+    "cita": "Ejecutar las acciones necesarias para optimizar el tratamiento de residuos sólidos y remediar ambientalmente los rellenos sanitarios,",
+    "pag": 11
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Invertir en equipos de seguridad y en puestos UPC de la Policía.",
+    "que": "El plan no dice cuánto costará ni dónde estarán. Menciona alarmas, cámaras y botones de pánico.",
+    "v": "baja",
+    "n": "No le toca al Municipio: la policía es del Gobierno. Solo podría pagar equipos.",
+    "cita": "Invertir en infraestructura y equipamiento de seguridad para complementar la gestión gubernamental, implementando UPCs y tecnología preventiva",
+    "pag": 61
+   }
+  ],
+  "otros": [
+   {
+    "t": "Invertir en herramientas para prevenir riesgos y amenazas.",
+    "que": "El plan no dice qué obras se harán, cuánto costará ni en qué zonas.",
+    "v": "alta",
+    "n": "Le toca al Municipio: prevenir desastres. El plan no dice costo ni zonas.",
+    "cita": "Invertir en infraestructura y herramientas para la prevención de riesgos y amenazas.",
+    "pag": 61
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear una red municipal de protección social para pobreza y personas que viven en la calle.",
+    "que": "El plan no dice cuánto costará ni quién la manejará. Busca prevenir la pobreza y la violación de derechos.",
+    "v": "media",
+    "n": "El Municipio puede impulsarla, pero depende de otros fondos. El plan no dice cómo se paga.",
+    "cita": "Crear la Red Municipal de Protección Social para prevenir y atender la pobreza,",
+    "pag": 66
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear una ventanilla única para que emprendedores saquen permisos más rápido.",
+    "que": "El plan dice que se podrá seguir cada trámite. No dice dónde se instalará ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: permisos y patentes. Falta dónde y cuándo.",
+    "cita": "ventanilla única para emprendedores que simplifique la obtención de permisos y garantice la trazabilidad de sus trámites.",
+    "pag": 63
+   }
+  ]
+ },
+ "metas": [
+  "Plan de trabajo para los años 2027 a 2031.",
+  "Rendición de cuentas anual, según el plan."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Gran parte del texto copia diagnósticos del plan de desarrollo del cantón y de leyes. Muchas propuestas son generales.",
+  "Plan muy largo (82 págs.): se resumieron las 52 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  17,
+  18,
+  19,
+  22,
+  23,
+  27,
+  31,
+  38,
+  43,
+  45,
+  46,
+  47,
+  50,
+  51,
+  52,
+  53,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61,
+  62,
+  63,
+  64,
+  65,
+  66,
+  67,
+  68,
+  69,
+  70,
+  72,
+  73,
+  74,
+  77,
+  78,
+  79,
+  80,
+  81
+ ],
+ "paginas": 82
+}

@@ -1,0 +1,150 @@
+{
+ "enfoque": "Propone agua, basura rural, vías, mercados y prevención de riesgos. Se basa en el plan de desarrollo del cantón. Muchas metas dependen de otros niveles de gobierno.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Subir la recolección de basura en zonas rurales del 33,33% a al menos 70%.",
+    "que": "Es una meta del plan para el periodo. El plan no dice cuánto costará ni en qué año se cumple.",
+    "v": "alta",
+    "n": "Le toca al Municipio: la basura es competencia municipal.",
+    "cita": "elevar la cobertura organizada de recolección rural desde la línea base institucional de 33,33% hasta al menos 70%",
+    "pag": 13
+   }
+  ],
+  "servicios": [
+   {
+    "t": "Intervenir sistemas de agua potable y saneamiento, con prioridad en zonas rurales.",
+    "que": "Se hará según estudios técnicos. El plan no dice cuánto costará ni en qué plazo se hará cada obra.",
+    "v": "media",
+    "n": "Le toca al Municipio, pero depende de crédito y ayuda de otros niveles.",
+    "cita": "Intervenir sistemas de agua y saneamiento según estudios; ejecutar una Agenda",
+    "pag": 15
+   }
+  ],
+  "movilidad": [
+   {
+    "t": "Intervenir al menos 25 km de red vial (calles y caminos) del cantón.",
+    "que": "Se hará con obra municipal y convenios. El plan no dice cuánto costará ni en qué año se hará cada tramo.",
+    "v": "media",
+    "n": "Parte le toca al Municipio; las vías rurales dependen de convenios con la Prefectura (gobierno provincial).",
+    "cita": "Intervenir al menos 25 km de red vial mediante obra municipal y convenios",
+    "pag": 15
+   }
+  ],
+  "urbano": [
+   {
+    "t": "Actualizar el catastro, que es el registro de terrenos y casas del cantón.",
+    "que": "Forma parte de la meta de ordenamiento del territorio. El plan no dice cuánto costará ni cuándo estará listo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: el catastro y el uso del suelo son municipales.",
+    "cita": "actualizar catastro y habilitar puntos de conectividad y espacios públicos accesibles.",
+    "pag": 15
+   },
+   {
+    "t": "Crear una unidad municipal para administrar el Mercado Central 10 de Agosto.",
+    "que": "La administración será directa, con presupuesto propio. El plan no dice cuánto costará la modernización ni cuándo termina.",
+    "v": "alta",
+    "n": "Le toca al Municipio: los mercados son competencia municipal.",
+    "cita": "Gestión municipal directa especializada a través de una Unidad de Mercados con presupuesto y",
+    "pag": 19
+   }
+  ],
+  "economia": [
+   {
+    "t": "Convertir el Mercado de Transferencias en plataforma logística y de información.",
+    "que": "Primer paso: una unidad municipal. En el año 2 se decidirá si se mantiene así o se cambia. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: el mercado es municipal. Su forma de gestión aún no se decide.",
+    "cita": "plataforma logística y de información, no solo en espacio de intercambio.",
+    "pag": 20
+   },
+   {
+    "t": "Crear una ordenanza para el consejo productivo, la secretaría técnica y las mesas de productos.",
+    "que": "Es un paso de reglas, con participación de productores y comerciantes. El plan no dice cuánto costará el consejo.",
+    "v": "media",
+    "n": "Puede hacer la ordenanza, pero el empleo y las ventas dependen de otros actores.",
+    "cita": "Institucionalizar el Consejo, la Secretaría Técnica, las mesas de cadena y el registro voluntario de actores productivos.",
+    "pag": 17
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Actualizar mapas de riesgos y hacer obras de mitigación (reducir daños) contra desastres.",
+    "que": "Incluye protección de zonas vulnerables y coordinación con organismos de socorro y comunidades. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca al Municipio: prevención de desastres es competencia municipal.",
+    "cita": "mediante la actualización de mapas de riesgos, la ejecución de obras de mitigación",
+    "pag": 8
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Digitalizar al menos 70% de los trámites priorizados y publicar un tablero trimestral.",
+    "que": "Incluye cartas de servicio y un tablero público cada tres meses. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca al Municipio: son sus propios trámites y su propia gestión.",
+    "cita": "mantener un tablero público trimestral y elevar la",
+    "pag": 16
+   }
+  ],
+  "social": [
+   {
+    "t": "Dar programas de protección de derechos, educación y salud preventiva.",
+    "que": "El plan no dice qué programas ni cuánto costarán. Educación y salud son de otros niveles de gobierno.",
+    "v": "baja",
+    "n": "No le toca al Municipio: escuelas y hospitales son de otros niveles.",
+    "cita": "Fortalecer la protección de derechos, educación, cultura, identidad, deporte, recreación, salud preventiva y",
+    "pag": 12
+   }
+  ]
+ },
+ "metas": [
+  "Recolección de basura en zonas rurales: de 33,33% a al menos 70%.",
+  "Intervenir al menos 25 km de red vial.",
+  "Digitalizar al menos 70% de los trámites priorizados.",
+  "Brigadas y protocolos de riesgo en todas las parroquias."
+ ],
+ "notas": [
+  "Muchas metas dependen de crédito, de la Prefectura o del Gobierno Central. Los montos del plan son referenciales y no fijan costos por obra.",
+  "Incluye empleo, educación y salud, que no le tocan al alcalde. Hay propuestas copiadas del plan de desarrollo del cantón."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35
+ ],
+ "paginas": 35
+}

@@ -1,14 +1,14 @@
 // Catálogo de dignidades, temas y reglas de competencia (COOTAD) usados en todo el sitio.
 
 export const DIGNIDADES = [
+  // Primero: es el cargo de mayor poder de esta elección. Nacional: los mismos candidatos en todas las provincias (data/raw/nacional/cpccs.json); los "cantones" son las tres listas
+  { slug: 'cpccs', raw: 'cpccs', nombre: 'CPCCS', que: 'Elige al Fiscal, al Contralor y otras autoridades de control, e investiga denuncias de corrupción. Se vota en todo el país.', cargo: 'Consejeros del CPCCS', territorio: 'grupo', nacional: true, modo: 'curado' },
   { slug: 'prefectura', raw: 'prefecto', nombre: 'Prefectura', que: 'Gobierna la provincia: vías rurales, riego y apoyo a la producción.', cargo: 'Prefecto/a', territorio: null, modo: 'curado' },
   { slug: 'alcaldia', raw: 'alcalde', nombre: 'Alcaldías', que: 'Gobierna el cantón: calles, agua, basura, tránsito y parques.', cargo: 'Alcalde/sa', territorio: 'canton', modo: 'curado' },
   { slug: 'concejo-urbano', raw: 'concejal-urbano', nombre: 'Concejo urbano', que: 'Hacen las leyes del cantón y vigilan al alcalde. Los elige la zona urbana.', cargo: 'Concejales urbanos', territorio: 'canton', modo: 'curado' },
   { slug: 'concejo-rural', raw: 'concejal-rural', nombre: 'Concejo rural', que: 'Hacen las leyes del cantón y vigilan al alcalde. Los eligen las parroquias rurales.', cargo: 'Concejales rurales', territorio: 'canton', modo: 'curado' },
   { slug: 'circunscripcion', raw: 'concejal-circ', nombre: 'Concejo por circunscripción', que: 'Concejales que elige cada zona de los cantones grandes (Quito y Rumiñahui).', cargo: 'Concejales por circunscripción', territorio: 'sub', modo: 'curado' },
   { slug: 'junta-parroquial', raw: 'vocal-parroquial', nombre: 'Juntas parroquiales', que: 'Gobiernan la parroquia rural: parques, caminos vecinales y ferias.', cargo: 'Vocales de junta parroquial', territorio: 'sub', modo: 'auto' },
-  // Nacional: los mismos candidatos en todas las provincias (data/raw/nacional/cpccs.json); los "cantones" son las tres listas
-  { slug: 'cpccs', raw: 'cpccs', nombre: 'CPCCS', que: 'Elige al Fiscal, al Contralor y otras autoridades de control, e investiga denuncias de corrupción. Se vota en todo el país.', cargo: 'Consejeros del CPCCS', territorio: 'grupo', nacional: true, modo: 'curado' },
 ];
 
 // Provincias publicadas. Pichincha usa las URL sin prefijo (/alcaldia/...); las demás, /<slug>/alcaldia/...

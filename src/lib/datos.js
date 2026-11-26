@@ -9,6 +9,8 @@ const alcaldeFiles = import.meta.glob('../data/alcalde/*.json', { eager: true, i
 export const slugify = (s) => s.toLowerCase().normalize('NFD').replace(/[̀-ͯ]/g, '').replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
 // El CNE publica los nombres en mayúsculas y sin tildes; estos son los nombres oficiales para mostrar.
 const NOMBRES = {
+  // CPCCS: así llama el CNE en su API a la lista de pueblos y nacionalidades indígenas, afroecuatorianos, montubios y ecuatorianos en el exterior
+  'ORGANIZACIONES SOCIALES': 'Pueblos, nacionalidades y exterior',
   'A.BAQUERIZO MORENO': 'Alfredo Baquerizo Moreno', ALANGASI: 'Alangasí', ALOAG: 'Alóag', ALOASI: 'Aloasí', ASCAZUBI: 'Ascázubi',
   'ATAHUALPA /HABASPAMBA': 'Atahualpa (Habaspamba)', CALACALI: 'Calacalí', CALDERON: 'Calderón', 'CAMILO PONCE ENRIQUEZ': 'Camilo Ponce Enríquez',
   CHAUPI: 'El Chaupi', 'CIRCUNSCRIPCION URBANA 1': 'Circunscripción urbana 1', 'CIRCUNSCRIPCION URBANA 2': 'Circunscripción urbana 2',

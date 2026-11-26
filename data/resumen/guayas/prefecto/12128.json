@@ -1,0 +1,104 @@
+{
+ "enfoque": "Plan de la Prefectura del Guayas para caminos rurales, canales de riego, ayuda a productores y cuencas. Se basa en el plan de desarrollo provincial 2024-2027.",
+ "tabla": {
+  "vial": [
+   {
+    "t": "Dar mantenimiento, rehabilitación y drenaje a corredores productivos y comunitarios de vías provinciales",
+    "que": "Se pagará con recursos provinciales, transferencias, crédito y convenios. El plan no dice cuánto costará ni cuántos km se arreglarán.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: son vías provinciales fuera de la ciudad.",
+    "cita": "Atender corredores productivos y comunitarios mediante mantenimiento, rehabilitación, drenaje, puentes y seguridad vial.",
+    "pag": 7
+   }
+  ],
+  "riego": [
+   {
+    "t": "Rehabilitar canales y sistemas de riego y fortalecer las juntas de riego",
+    "que": "Se pagará con presupuesto provincial, cooperación y convenios. El plan no dice cuántos sistemas ni hectáreas se beneficiarán ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Rehabilitar sistemas, canales y obras complementarias; impulsar eficiencia hídrica y fortalecer juntas de riego.",
+    "pag": 8
+   }
+  ],
+  "produccion": [
+   {
+    "t": "Dar asistencia técnica, ayuda para vender y trabajo en grupo a pequeños y medianos productores",
+    "que": "Usará unidades móviles, alianzas con la academia y ferias. El plan no dice cuántos productores atenderá ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: fomento productivo es su competencia.",
+    "cita": "Acercar asistencia técnica, asociatividad, innovación y comercialización a pequeños y medianos productores.",
+    "pag": 8
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger cuencas, humedales y manglares, y prevenir incendios e inundaciones",
+    "que": "Usará restauración, viveros, monitoreo y alertas tempranas, con fondos ambientales y cooperación. El plan no dice cuántas hectáreas ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: gestión ambiental y cuencas.",
+    "cita": "Proteger cuencas, humedales, manglares y zonas de recarga; prevenir incendios e inundaciones y fortalecer alerta temprana.",
+    "pag": 8
+   }
+  ],
+  "turismo": [
+   {
+    "t": "Promover rutas turísticas rurales, comunitarias y de naturaleza junto con los municipios",
+    "que": "Usará inventario de lugares, señalización coordinada, ferias y capacitación. El plan no dice cuántas rutas se crearán ni cuánto costará.",
+    "v": "media",
+    "n": "Depende de los municipios y de otros actores locales.",
+    "cita": "Fortalecer rutas rurales, comunitarias, gastronómicas y de naturaleza mediante promoción y articulación con municipios y actores.",
+    "pag": 7
+   }
+  ],
+  "social": [
+   {
+    "t": "Repartir la inversión entre cantones con reglas públicas según brechas, población rural, producción y riesgo",
+    "que": "Los criterios se harán públicos. El plan no dice qué cantones recibirán más inversión ni cuánto.",
+    "v": "alta",
+    "n": "Es una regla de la propia Prefectura para repartir su inversión.",
+    "cita": "Distribuir la atención provincial con criterios transparentes de brechas, población rural, producción y riesgo.",
+    "pag": 7
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar en un portal obras, contratos, presupuesto e inversión, con mapa y datos descargables",
+    "que": "Usará portal georreferenciado (con mapa), datos abiertos y tableros. El plan no dice cuándo estará listo ni cuánto costará.",
+    "v": "alta",
+    "n": "Es información que la propia Prefectura debe publicar.",
+    "cita": "Publicar información de obras, contratos, indicadores, presupuesto e inversión; fortalecer cooperación y control social.",
+    "pag": 7
+   }
+  ]
+ },
+ "metas": [
+  "Instalar mesas territoriales en los 25 cantones en los primeros 100 días.",
+  "Mantener el gasto de inversión prioritaria en 68 % en 2027 y en 70 % desde 2028.",
+  "Publicar el indicador de gasto cada trimestre.",
+  "Realizar mesas cantonales de priorización al menos una vez al año en cada cantón.",
+  "Hacer una audiencia de mitad de periodo en 2029."
+ ],
+ "notas": [
+  "El plan no pone costos. Tampoco dice cuántos km de vías, hectáreas de riego o productores se atenderán; sus metas son referencias.",
+  "Varias metas dicen solo \"al 2031\" sin número. Antes de votar, pregunte cuánto costará cada obra."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14
+ ],
+ "paginas": 14
+}

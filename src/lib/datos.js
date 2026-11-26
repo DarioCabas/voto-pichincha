@@ -1,5 +1,5 @@
 // Carga y normaliza los datos de todas las dignidades locales.
-import { DIGNIDADES, provPath } from '../data/dignidades.js';
+import { DIGNIDADES, PROVINCIAS, provPath } from '../data/dignidades.js';
 import VERIFICACIONES from '../data/verificaciones.json';
 
 const rawFiles = import.meta.glob(['../../data/raw/*.json', '../../data/raw/*/*.json'], { eager: true, import: 'default' });
@@ -46,14 +46,19 @@ function deProvincia(d, prov) {
   const grupos = {};
   for (const r of raw(`${prov}/${d.raw}`)) {
     const c = curado[r.codFormulario];
-    const personas = r.principales.map((p) => ({ nombre: titulo(p.nombre), suplente: nombreSuplente(r, p) }));
-    (grupos[r.sub ? `${r.canton}|${r.sub}` : r.canton] ??= []).push({
+    const pref = d.slug === 'prefectura';
+    const vice = pref ? titulo(r.suplentes?.[0]?.nombre ?? '') : null;
+    // Prefectura: el CNE trae al viceprefecto como "suplente"; se muestra como en la de Pichincha
+    const personas = pref
+      ? [{ nombre: `${titulo(r.principales[0]?.nombre ?? '')} (Prefecto/a)` }, ...(vice ? [{ nombre: `${vice} (Viceprefecto/a)` }] : [])]
+      : r.principales.map((p) => ({ nombre: titulo(p.nombre), suplente: nombreSuplente(r, p) }));
+    (grupos[r.sub ? `${r.canton}|${r.sub}` : r.canton ?? 'provincia'] ??= []).push({
       ...(c ?? {}),
       id: 'f' + r.codFormulario,
       lista: r.lista,
       partido: r.partido,
-      titulo: personas[0]?.nombre ?? r.partido,
-      subtitulo: r.principales.length > 1 ? `y ${r.principales.length - 1} candidatos más` : null,
+      titulo: pref ? titulo(r.principales[0]?.nombre ?? r.partido) : personas[0]?.nombre ?? r.partido,
+      subtitulo: pref ? (vice ? `Vice: ${vice}` : null) : r.principales.length > 1 ? `y ${r.principales.length - 1} candidatos más` : null,
       personas,
       tabla: c?.tabla ?? {},
       auto: !!c?.ia,
@@ -162,8 +167,11 @@ export const dignidadesDe = (prov) =>
 // Rutas estáticas de las páginas de dignidad de una provincia (ver src/components/PaginaDignidad.astro)
 export function rutasDignidad(prov) {
   const paths = [];
-  for (const d of dignidadesDe(prov).filter((x) => x.slug !== 'prefectura')) {
+  // La prefectura de Pichincha tiene su propia página (src/pages/prefectura.astro)
+  for (const d of dignidadesDe(prov).filter((x) => x.slug !== 'prefectura' || prov !== 'pichincha')) {
     const ts = territorios(d, prov);
+    // Cargos de toda la provincia (prefectura): una sola página con la comparación
+    if (!d.territorio) { paths.push({ params: { dign: d.slug, terr: undefined }, props: { d, ts, t: ts[0] ?? null, prov } }); continue; }
     paths.push({ params: { dign: d.slug, terr: undefined }, props: { d, ts, t: null, prov } });
     for (const t of ts) paths.push({ params: { dign: d.slug, terr: t.path }, props: { d, ts, t, prov } });
     // Página intermedia por cantón cuando hay subterritorios
@@ -187,8 +195,8 @@ export function fichaPlan(pdf) {
     const prov = slug.includes('/') && !slug.startsWith('nacional/') ? slug.split('/')[0] : 'pichincha';
     const d = DIGNIDADES.find((x) => x.raw === slug.split('/').pop());
     const terr = !r.canton ? '' : r.sub ? `${slugify(r.canton)}/${slugify(r.sub)}` : slugify(r.canton);
-    const volver = d.slug === 'prefectura' ? `/prefectura/#f-l${r.lista.replace(/\W/g, '')}` : `${provPath(prov)}/${d.slug}/${terr}/#f-f${r.codFormulario}`;
-    const lugar = d.slug === 'prefectura' ? 'Pichincha' : d.nacional ? `Lista de ${titulo(r.canton).toLowerCase()}` : r.sub ? `${titulo(r.sub)}, ${titulo(r.canton)}` : titulo(r.canton);
+    const volver = d.slug === 'prefectura' ? (prov === 'pichincha' ? `/prefectura/#f-l${r.lista.replace(/\W/g, '')}` : `${provPath(prov)}/prefectura/#f-f${r.codFormulario}`) : `${provPath(prov)}/${d.slug}/${terr}/#f-f${r.codFormulario}`;
+    const lugar = d.slug === 'prefectura' ? (PROVINCIAS.find((p) => p.slug === prov)?.nombre ?? 'Pichincha') : d.nacional ? `Lista de ${titulo(r.canton).toLowerCase()}` : r.sub ? `${titulo(r.sub)}, ${titulo(r.canton)}` : titulo(r.canton);
     // prefecto.json trae los nombres como texto; las demás dignidades, como objetos
     return { r, d, prov, volver, lugar, nombres: r.principales.map((p) => titulo(p.nombre ?? p)) };
   }

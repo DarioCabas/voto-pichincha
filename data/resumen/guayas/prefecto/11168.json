@@ -1,0 +1,110 @@
+{
+ "enfoque": "Caminos rurales, riego y apoyo a productores del Guayas, con presupuesto indicativo de USD 887 millones para 2027-2031. Seguridad solo por convenio con la Policía.",
+ "tabla": {
+  "vial": [
+   {
+    "t": "Arreglar la superficie y los desagües de caminos productivos: 1.200 km hasta 2031.",
+    "que": "Se hará en los caminos que sacan la producción del campo. El plan no dice cuánto costará cada kilómetro ni en qué orden se harán.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. Usará un índice de brecha para elegir los caminos.",
+    "cita": "Mejoramiento de la capa de rodadura y construcción de obras de arte y drenaje vial en los corredores producvos prioritarios de la provincia.",
+    "pag": 15
+   }
+  ],
+  "riego": [
+   {
+    "t": "Proteger los 16 sistemas de riego y embalses frente a las inundaciones.",
+    "que": "Todos los sistemas de riego y embalses de la provincia están en zona de inundación, según el plan. Meta: los 16 protegidos hasta 2031. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: el riego provincial es su competencia.",
+    "cita": "Programa de protección y rehabilitación de los 16 sistemas de riego y embalses de la provincia frente al riesgo de inundación y movimientos en masa idencado en el PDOT.",
+    "pag": 17
+   }
+  ],
+  "produccion": [
+   {
+    "t": "Construir centros de acopio, secado y almacenamiento para pequeños productores.",
+    "que": "Meta: 25 centros construidos o equipados hasta 2031. Se darán primero a las cadenas con más pequeños productores. El plan no dice dónde se ubicarán.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: fomentar la producción agropecuaria es su competencia.",
+    "cita": "Centros de acopio, infraestructura de poscosecha, secado, almacenamiento y frío, priorizados por cadena y por volumen de pequeños productores.",
+    "pag": 8
+   },
+   {
+    "t": "Dar asistencia técnica a productores, con técnicos que trabajen en el territorio.",
+    "que": "Meta: 30.000 productores con asistencia técnica sostenida hasta 2031. El eje de fomento productivo y turismo tiene USD 124 millones (indicativo).",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. Es apoyo técnico, no obra.",
+    "cita": "Programa provincial de asistencia técnica y transferencia tecnológica permanente, con técnicos en territorio y no solo eventos de capacitación.",
+    "pag": 15
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Reforestar y restaurar 5.000 hectáreas de riberas y zonas de recarga de agua.",
+    "que": "Prioridad: riberas, zonas de recarga y áreas que protegen caminos y riego. Meta: 5.000 hectáreas hasta 2031. El plan no dice cuánto costará; el eje ambiental tiene USD 62 millones (indicativo).",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: la gestión ambiental provincial es su competencia.",
+    "cita": "Programa provincial de reforestación y restauración de áreas degradadas, con prioridad en riberas, zonas de recarga y áreas de protección de infraestructura hídrica y vial.",
+    "pag": 15
+   }
+  ],
+  "turismo": [
+   {
+    "t": "Crear rutas provinciales de turismo rural con señalización y promoción digital.",
+    "que": "Meta: 10 rutas activas y operando hasta 2031. El plan dice que el turismo rural tendrá presupuesto propio. No dice cuánto costará cada ruta.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. Algunas partes dependen del Ministerio de Turismo y los municipios.",
+    "cita": "Turismo rural con presupuesto propio: rutas provinciales —agroturismo, ruta del arroz y del cacao, turismo uvial, cultura montuvia, gastronomía—, señalización, formación de prestadores y promoción digital",
+    "pag": 19
+   }
+  ]
+ },
+ "metas": [
+  "Red vial provincial inventariada y evaluada al 100% (6.419,75 km) en 2028.",
+  "1.200 km de corredores productivos prioritarios intervenidos hasta 2031.",
+  "40.000 hectáreas nuevas incorporadas a riego hasta 2031.",
+  "30.000 productores con asistencia técnica sostenida hasta 2031.",
+  "Ejecución presupuestaria de al menos 90% cada año."
+ ],
+ "notas": [
+  "La seguridad es competencia de la Policía. La Prefectura solo aporta caminos, energía y cámaras por convenio.",
+  "El presupuesto de USD 887 millones es indicativo: supone el mismo gasto de 2025 cada año. No es costo por obra."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32
+ ],
+ "paginas": 32
+}

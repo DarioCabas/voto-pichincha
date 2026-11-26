@@ -1,0 +1,135 @@
+{
+ "enfoque": "Propone cuidar caminos rurales, canales de riego y cuencas, y hacer un mapa de fincas. Varias ideas dependen de otros niveles de gobierno.",
+ "tabla": {
+  "vial": [
+   {
+    "t": "Crear un plan para cuidar las vías provinciales: inventario, puentes, drenaje y emergencias.",
+    "que": "Costo de 80.000 dólares, de 2027 a 2031. Se pagaría con ingresos propios, transferencias, contribución especial de mejoras y crédito del Banco de Desarrollo.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: vías rurales provinciales.",
+    "cita": "Plan de Gestión de la Infraestructura Vial Provincial: inventario de activos, gestión de puentes, drenaje, seguridad vial y protocolo de emergencias",
+    "pag": 22
+   },
+   {
+    "t": "Crear 14 microempresas comunitarias para mantener caminos de lastre.",
+    "que": "Costo de 3 millones de dólares, de 2027 a 2031, con transferencias, ingresos propios y cooperación internacional. Meta: 14 microempresas con contrato al 2031.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura, con apoyo de la comunidad.",
+    "cita": "Microempresas viales comunitarias para mantenimiento a nivel de lastre",
+    "pag": 23
+   },
+   {
+    "t": "Crear un plan de emergencias viales para El Niño, con mapa de puntos críticos y señales.",
+    "que": "Costo de 100.000 dólares. Zonas: Girón, Pucará, Santa Isabel (La Cría) y Nabón. El plan dice que solo hay 6 unidades de maquinaria pesada.",
+    "v": "media",
+    "n": "Le toca a la Prefectura en sus vías, pero depende del Gobierno Central y de municipios.",
+    "cita": "Plan de atención a emergencias viales y contingencia ante el fenómeno de El Niño (ENOS)",
+    "pag": 24
+   },
+   {
+    "t": "Cobrar una tasa a camiones de carga pesada para pagar el arreglo de caminos rurales.",
+    "que": "El plan no dice cuánto costará ni cuándo empieza. Sería en el eje Zhumiral - Carmen de Pijilí - San Gerardo y en ejes de alto tráfico.",
+    "v": "media",
+    "n": "La puede empujar, pero el control de camiones es del Gobierno Central.",
+    "cita": "Tasa provincial por tonelaje de carga pesada y contribución especial de mejoras",
+    "pag": 25
+   }
+  ],
+  "riego": [
+   {
+    "t": "Arreglar tuberías, canales y tomas de agua para riego, con prioridad en Jubones y Santiago.",
+    "que": "Costo no claro en el texto. El plan dice que la brecha de inversión en riego es de 400 millones de dólares. Plazo: 2027 a 2031.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura, pero la brecha es de 400 millones de dólares.",
+    "cita": "Rehabilitar, tecnificar y fortalecer socialmente los proyectos del sistema provincial de riego.",
+    "pag": 21
+   }
+  ],
+  "produccion": [
+   {
+    "t": "Hacer un mapa de cada finca y productor para decidir dónde invertir.",
+    "que": "Costo de 1 millón de dólares, de 2027 a 2029, con ingresos propios y cooperación técnica. Meta: catastro listo al 2030.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: fomento agropecuario y planificación.",
+    "cita": "En lo productivo, el catastro agroproductivo guiará cada decisión: riego, vialidad, acopio, crédito y compras públicas.",
+    "pag": 18
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Hacer un plan para cuidar las cuencas hidrográficas del Azuay.",
+    "que": "Costo de 100.000 dólares, de 2027 a 2031, con ingresos propios y cooperación no reembolsable (dinero que no se devuelve). Meta: un plan aprobado.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: cuencas y gestión ambiental.",
+    "cita": "Plan de Gestión Integrada de las cuencas hidrográficas del Azuay",
+    "pag": 22
+   },
+   {
+    "t": "Proteger 10.000 hectáreas de tierra con conservación o pagos por cuidarlas.",
+    "que": "Costo de 500.000 dólares, de 2028 a 2031, con cooperación internacional, fondos verdes e ingresos propios. El plan no dice cuánto recibiría cada dueño.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura, pero depende de dinero de cooperación.",
+    "cita": "Incorporar 10000 ha bajo conservación, restauración o pago por servicios ambientales al 2031",
+    "pag": 31
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Abrir oficinas de la Prefectura en las cuencas del Santiago y del Jubones.",
+    "que": "Costo de 2,5 millones de dólares, de 2027 a 2028, con ingresos propios. Las metas hablan de una sucursal al 2031, no de dos.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: es su propia organización.",
+    "cita": "Desconcentrar la gestión provincial poniendo en operación sucursales de la prefectura en la cuenca del Santiago y en la cuenca del Jubones.",
+    "pag": 21
+   }
+  ]
+ },
+ "metas": [
+  "Conformar 14 microempresas viales comunitarias al 2031.",
+  "Incorporar 10.000 ha a conservación, restauración o pago por servicios ambientales al 2031.",
+  "Operar 15 puntos de monitoreo al 2031.",
+  "Tener el catastro agroproductivo al 2030.",
+  "Digitalizar el 80 % de los trámites de mayor demanda al 2030."
+ ],
+ "notas": [
+  "Las metas dicen una sucursal al 2031, pero los objetivos hablan de dos (Santiago y Jubones). Revise cuántas se abrirán.",
+  "Muchas propuestas dependen del Gobierno Central, de municipios o de préstamos. Algunas no tienen costo ni fecha claros en el texto."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33
+ ],
+ "paginas": 33
+}

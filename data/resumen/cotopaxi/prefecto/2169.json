@@ -1,0 +1,147 @@
+{
+ "enfoque": "Arreglar vías rurales y sistemas de riego, dar asistencia a productores y cuidar páramos y ríos. Se basa en el plan de desarrollo provincial 2025-2029 (PDOT).",
+ "tabla": {
+  "vial": [
+   {
+    "t": "Arreglar y abrir vías rurales en las comunidades más alejadas.",
+    "que": "El plan pone 500 km hasta 2031 (80 km en 2027) y USD 10 millones para este plan de vías. No dice cuáles vías.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. El plan no dice de dónde sale el dinero.",
+    "cita": "Mantenimiento y apertura de vías rurales no solo para el comercio, sino para asegurar el acceso a la salud y educación de las comunidades más alejadas.",
+    "pag": 5
+   },
+   {
+    "t": "Construir y arreglar puentes de las vías provinciales.",
+    "que": "El plan pone 50 puentes u obras priorizadas hasta 2031. No dice cuánto cuesta cada puente ni en qué lugares.",
+    "v": "media",
+    "n": "Depende en parte del Ministerio de Transporte (MTOP), no solo de la Prefectura.",
+    "cita": "Construir, rehabilitar y dar mantenimiento a puentes e infraestructura complementaria de competencia",
+    "pag": 17
+   }
+  ],
+  "riego": [
+   {
+    "t": "Arreglar, ampliar y poner sistemas de riego modernos en zonas priorizadas.",
+    "que": "El plan asigna USD 5,2 millones a riego. No dice qué sistemas ni en qué cantones. Se haría con juntas de riego y el Ministerio de Agricultura (MAG).",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. Trabaja con las juntas de riego y el Ministerio de Agricultura.",
+    "cita": "Planificar, construir, rehabilitar, ampliar y tecnificar los sistemas de riego de competencia",
+    "pag": 19
+   }
+  ],
+  "produccion": [
+   {
+    "t": "Dar ayuda técnica y cursos a pequeños y medianos productores.",
+    "que": "El plan pone USD 3 millones y la meta de atender al 80% de productores. No dice qué cursos serán.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. Lo haría con universidades y el Ministerio de Agricultura (MAG).",
+    "cita": "Impulsar programas permanentes de asistencia técnica, capacitación y transferencia de tecnología para",
+    "pag": 14
+   },
+   {
+    "t": "Montar centros de acopio para guardar, procesar y vender productos.",
+    "que": "Cuesta USD 2,2 millones y empieza con estudios y selección. La primera fase de acopio está prevista para 2028. El plan no dice dónde.",
+    "v": "media",
+    "n": "Puede hacerlo, pero el plan depende de estudios y de otras entidades.",
+    "cita": "Impulsar procesos de agregación de valor, transformación, almacenamiento y comercialización de",
+    "pag": 14
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Restaurar y cuidar páramos, cuencas y fuentes de agua.",
+    "que": "El plan pone USD 2,4 millones y habla de más de 100 hectáreas conservadas. No dice qué zonas se cuidarán.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. Lo haría con el Ministerio del Ambiente (MAATE).",
+    "cita": "Implementar programas de conservación, restauración y recuperación de ecosistemas estratégicos,",
+    "pag": 17
+   },
+   {
+    "t": "Convertir residuos orgánicos y forestales en abono, biogás y energía.",
+    "que": "El plan no dice cuánto costará ni cuándo. No dice en qué lugares ni con qué dinero.",
+    "v": "baja",
+    "n": "La basura es del Municipio, no de la Prefectura.",
+    "cita": "de residuos orgánicos, forestales y agroindustriales en valores agregados, tales como biofertilizantes, biogás y energía",
+    "pag": 15
+   }
+  ],
+  "turismo": [
+   {
+    "t": "Armar rutas turísticas y hacer promoción de la provincia.",
+    "que": "El plan pone USD 1,2 millones para rutas, promoción, letreros y apoyo a quienes ofrecen turismo. No dice qué rutas.",
+    "v": "media",
+    "n": "Sí le toca, pero trabaja con el Ministerio de Turismo.",
+    "cita": "Fortalecer y diversificar la oferta turística provincial mediante el desarrollo de rutas turísticas,",
+    "pag": 23
+   }
+  ],
+  "social": [
+   {
+    "t": "Abrir Casas de Acogida (refugios) y dar apoyo legal y psicológico a víctimas de violencia de género.",
+    "que": "El plan no dice cuánto costará, cuántas casas habrá ni cuándo. Lo haría con los gobiernos cantonales y parroquiales.",
+    "v": "media",
+    "n": "Puede impulsarlo, pero depende de otras instituciones.",
+    "cita": "Implementación de las Casas de Acogida provinciales y redes de apoyo psicosocial y legal en articulación con los GAD cantonales y parroquiales.",
+    "pag": 5
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Publicar cuentas y presupuesto participativo, donde la gente decide parte del gasto.",
+    "que": "El plan pone USD 0,45 millones. Incluye un tablero público y reportes: 4 al año. No dice cómo se elegirán los proyectos.",
+    "v": "alta",
+    "n": "Es parte de su propia administración del gobierno provincial.",
+    "cita": "Consolidación de un gobierno provincial transparente, de puertas abiertas y con",
+    "pag": 4
+   }
+  ]
+ },
+ "metas": [
+  "500 km de vías rurales intervenidos hasta 2031 (80 km en 2027).",
+  "50 puentes u obras priorizadas hasta 2031.",
+  "80% de productores atendidos.",
+  "Más de 100 hectáreas conservadas.",
+  "80% de sistemas de riego intervenidos."
+ ],
+ "notas": [
+  "Muchos montos son estimaciones. El plan dice que no son certificados y no define de dónde sale el dinero para cada obra.",
+  "Incluye temas de basura, que son del Municipio, no de la Prefectura."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33
+ ],
+ "paginas": 33
+}

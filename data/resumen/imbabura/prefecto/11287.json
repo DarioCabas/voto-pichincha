@@ -1,0 +1,188 @@
+{
+ "enfoque": "Plan de la Prefectura: caminos rurales, riego, producción, turismo y apoyo a mujeres. Mezcla temas de salud y seguridad que no son de la Prefectura.",
+ "tabla": {
+  "vial": [
+   {
+    "t": "Arreglar y mejorar las vías rurales de la provincia, con prioridad en rutas productivas y turísticas.",
+    "que": "Mantenimiento, mejoramiento y rehabilitación de la vialidad rural. El plan no dice cuánto costará ni en qué plazo se hará cada vía.",
+    "v": "alta",
+    "n": "Las vías rurales sí son de la Prefectura. Falta saber cuánto costará.",
+    "cita": "mantenimiento, mejoramiento y rehabilitación progresiva de la vialidad rural, priorizando corredores productivos, turísticos y territorios con mayores necesidades de conectividad",
+    "pag": 46
+   }
+  ],
+  "riego": [
+   {
+    "t": "Cambiar poco a poco el riego por gravedad a riego por goteo y aspersión, y arreglar canales.",
+    "que": "Pasar a riego tecnificado y reducir pérdidas de agua, dando prioridad a zonas con más falta de agua. El plan no dice cuántas hectáreas ni cuánto costará.",
+    "v": "alta",
+    "n": "El riego es competencia de la Prefectura. Faltan cifras y costos.",
+    "cita": "tecnificación progresiva de los sistemas de riego, rehabilitación de infraestructura y reducción de pérdidas",
+    "pag": 44
+   }
+  ],
+  "produccion": [
+   {
+    "t": "Dar asistencia técnica y ayudar a agregar valor a productos agropecuarios y artesanales.",
+    "que": "Capacitación, innovación y transformación de productos del campo y artesanías. El plan no dice cuántos productores se beneficiarán ni cuánto costará.",
+    "v": "alta",
+    "n": "Fomentar la producción agropecuaria sí le toca a la Prefectura. Sin cifras.",
+    "cita": "asistencia técnica, innovación, transformación y agregación de valor para productores agropecuarios, artesanales",
+    "pag": 28
+   }
+  ],
+  "turismo": [
+   {
+    "t": "Desarrollar rutas turísticas comunitarias, rurales y culturales en los seis cantones.",
+    "que": "Rutas de turismo comunitario, rural, cultural, gastronómico y de aventura. El plan no dice cuántas rutas se harán ni cuándo.",
+    "v": "alta",
+    "n": "El turismo sí es competencia provincial. Falta saber cuántas rutas.",
+    "cita": "fortalecimiento de circuitos de turismo comunitario, rural, cultural, gastronómico y de aventura que integren los seis cantones",
+    "pag": 45
+   },
+   {
+    "t": "Arreglar accesos, letreros, miradores y senderos de los atractivos turísticos.",
+    "que": "Accesos, señalética, miradores y senderos a atractivos turísticos. El plan no dice dónde ni cuánto costará.",
+    "v": "media",
+    "n": "Accesos y miradores sí; agua y alcantarillado no son de la Prefectura.",
+    "cita": "mejoramiento progresivo de accesos, señalética, miradores, senderos y servicios básicos vinculados a los principales atractivos turísticos",
+    "pag": 45
+   }
+  ],
+  "social": [
+   {
+    "t": "Ampliar Warmi Imbabura, el programa contra la violencia hacia las mujeres, a más territorios.",
+    "que": "Prevención, atención y protección frente a la violencia, con enfoque de género e interculturalidad. El plan no dice cuántas mujeres atenderá ni cuánto costará.",
+    "v": "media",
+    "n": "Puede impulsarlo, pero depende de otras instituciones. Sin cifras.",
+    "cita": "ampliación territorial de la política pública de prevención, atención y protección frente a las violencias",
+    "pag": 35
+   },
+   {
+    "t": "Llevar brigadas móviles de medicina general, odontología y ginecología a comunidades.",
+    "que": "Brigadas que sumarían estos servicios poco a poco. El plan no dice cuántas brigadas habrá ni cuánto costará.",
+    "v": "baja",
+    "n": "La salud le toca al Gobierno nacional, no a la Prefectura.",
+    "cita": "Ampliar las brigadas y unidades móviles de atención preventiva, incorporando progresivamente medicina general, odontología, ginecología",
+    "pag": 35
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Aplicar medidas de prevención del delito en corredores productivos y espacios comunitarios.",
+    "que": "El plan no dice qué medidas concretas ni dónde se harán. La policía y el orden público son del Gobierno nacional.",
+    "v": "media",
+    "n": "La policía no es de la Prefectura. Solo puede aportar prevención.",
+    "cita": "Seguridad situacional en corredores productivos y espacios comunitarios.",
+    "pag": 37
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Cuidar zonas de recarga, microcuencas y fuentes de agua con acuerdos con comunidades.",
+    "que": "Conservación y recuperación de fuentes de agua junto a comunidades y productores. El plan no dice cuántas fuentes ni cuánto costará.",
+    "v": "alta",
+    "n": "Cuencas y agua son competencia provincial. Falta presupuesto.",
+    "cita": "conservación y recuperación de zonas de recarga, microcuencas y fuentes de agua mediante acuerdos con comunidades",
+    "pag": 46
+   }
+  ],
+  "otros": [
+   {
+    "t": "Pedir créditos al Banco de Desarrollo del Ecuador para vías, riego y equipamiento.",
+    "que": "Créditos para proyectos de vialidad, riego y equipamiento. El plan no dice cuánto se pedirá ni cuánto se pagará.",
+    "v": "media",
+    "n": "Depende del banco y de los límites de deuda del país. Sin montos.",
+    "cita": "Acceso a líneas de crédito de inversión e infraestructura con el Banco de Desarrollo del Ecuador",
+    "pag": 50
+   }
+  ]
+ },
+ "metas": [
+  "Período de gestión 2027-2031, es decir cuatro años.",
+  "Destinar al menos el 70% del gasto no financiero a inversión pública y programas sociales.",
+  "Ampliar dos programas de autonomía económica para mujeres en los cuatro años."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna obra. Las metas reales y el plan de inversión se definirán después.",
+  "La mayoría de metas dicen 'consolidar' o 'ampliar' sin número ni fecha. Muchas frases repiten el plan de desarrollo provincial 2023-2027."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54,
+  55,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61,
+  62,
+  63,
+  64,
+  65,
+  66,
+  67,
+  68,
+  69,
+  70,
+  71,
+  72,
+  73,
+  74
+ ],
+ "paginas": 74
+}

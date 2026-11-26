@@ -1,0 +1,164 @@
+{
+ "enfoque": "Plan para producir más en el campo: riego, vías rurales, ferias, transformación de productos y turismo. Muchas cifras vienen del plan de desarrollo provincial vigente.",
+ "tabla": {
+  "vial": [
+   {
+    "t": "Pavimentar corredores estratégicos y rehabilitar vías provinciales.",
+    "que": "El plan pone como meta 650 km de asfalto hasta 2027, con unos USD 43,73 millones. No dice qué vías ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. El plan no dice de dónde saldrá el dinero.",
+    "cita": "Vialidad Provincial (Rehabilitación vial, Pavimentación de corredores estratégicos, Mantenimiento periódico, Mantenimiento rutinario, Drenajes).",
+    "pag": 35
+   },
+   {
+    "t": "Dar prioridad a vías que unan productores, centros de acopio y mercados.",
+    "que": "El plan no dice qué vías, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Es vialidad provincial, competencia de la Prefectura.",
+    "cita": "Corredores Productivos (Priorizar vías que conecten: productor, centro de acopio y mercado).",
+    "pag": 36
+   }
+  ],
+  "riego": [
+   {
+    "t": "Arreglar conducciones y captaciones de los sistemas de riego.",
+    "que": "El plan dice que 38 % de las conducciones y 21,5 % de las captaciones están en mal estado. No dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Riego y cuidado de los suelos (Rehabilitación de sistemas, Tecnificación, Reservorios, Conducciones, Captaciones, Riego parcelario).",
+    "pag": 35
+   }
+  ],
+  "produccion": [
+   {
+    "t": "Crear centros de acopio y ferias para vender lo que producen agricultores.",
+    "que": "El plan no dice cuántos centros ni dónde. Pone como meta 10 ferias agroproductivas al año en circuitos cortos.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Azuay Comercializa (Centros de acopio, Ferias productivas, Comercialización directa, Marca provincial).",
+    "pag": 34
+   },
+   {
+    "t": "Dar asistencia técnica y mejorar la producción agrícola y pecuaria.",
+    "que": "El plan no dice a cuántos productores llegará ni cuánto costará. Incluye mecanización agrícola.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. El plan no dice a cuántos productores ni cuándo.",
+    "cita": "Azuay Produce (Asistencia técnica, Mejoramiento de producción agrícola y pecuaria, Mecanización agricola, Innovación tecnológica, Fortalecimiento de asociaciones).",
+    "pag": 34
+   },
+   {
+    "t": "Crear centros de transformación de lácteos, frutas y hortalizas.",
+    "que": "El plan no dice dónde se harán ni cuánto costarán. Menciona al Banco de Desarrollo del Ecuador y al Gobierno Nacional como posibles fuentes.",
+    "v": "media",
+    "n": "Depende de bancos y del Gobierno nacional. El plan no dice cuánto costará.",
+    "cita": "Azuay Transforma (Centros de transformación agroindustrial, Lácteos, Frutas y hortalizas, Productos procesados, Valor agregado).",
+    "pag": 34
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger fuentes de agua, páramos y microcuencas.",
+    "que": "El plan no dice qué zonas ni cuánto costará. Habla de protección de fuentes, páramos y zonas de recarga de agua.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura, por cuencas y gestión ambiental.",
+    "cita": "Provincia del Agua (Protección de fuentes, Páramos, Microcuencas, Zonas de recarga hídrica, Conservación comunitaria).",
+    "pag": 35
+   }
+  ],
+  "turismo": [
+   {
+    "t": "Hacer rutas turísticas, miradores y señalización en zonas rurales.",
+    "que": "El plan no dice qué rutas ni cuánto costará. Menciona la Ruta del Vado al Cajas como ejemplo.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. El plan no dice cuánto costará.",
+    "cita": "Turismo Rural y Comunitario (Rutas turísticas, Miradores, Señalización, Infraestructura turística, Turismo comunitario, Gastronomía y artesanía).",
+    "pag": 34
+   }
+  ],
+  "social": [
+   {
+    "t": "Dar servicios sociales a adultos mayores, personas con discapacidad y niños.",
+    "que": "Meta: 5.600 familias y 38.500 personas hasta 2027, mediante convenios con municipios y parroquias. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de convenios con municipios y parroquias. El plan no dice cuánto costará.",
+    "cita": "Desarrollo Social Rural (Atención a adultos mayores, Personas con discapacidad, Niñez y adolescencia, Mujeres en situación de vulnerabilidad).",
+    "pag": 34
+   }
+  ],
+  "otros": [
+   {
+    "t": "Llevar internet a comunidades rurales, escuelas y centros comunitarios.",
+    "que": "El plan no dice cuántas comunidades ni cuánto costará ni cuándo.",
+    "v": "baja",
+    "n": "No es competencia de la Prefectura. Le toca a otras instituciones.",
+    "cita": "Conectividad Digital Rural (Internet rural, Cobertura en comunidades, Conectividad de escuelas y centros comunitarios, Puntos digitales).",
+    "pag": 36
+   }
+  ]
+ },
+ "metas": [
+  "650 km de vías a nivel de asfalto hasta 2027 (meta de la planificación vigente).",
+  "Fortalecer o capacitar a 672 asociaciones productivas hasta 2027.",
+  "10 ferias agroproductivas al año en circuitos cortos de comercialización.",
+  "Servicios sociales a 5.600 familias y 38.500 personas hasta 2027 (meta acumulada).",
+  "246 asambleas ciudadanas hasta 2027."
+ ],
+ "notas": [
+  "Muchas cifras y metas vienen del PDOT 2024 y del Plan Estratégico vigentes, no son compromisos nuevos del candidato.",
+  "El plan no dice cuánto costará la mayoría de propuestas ni de dónde saldrá el dinero."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50
+ ],
+ "paginas": 50
+}

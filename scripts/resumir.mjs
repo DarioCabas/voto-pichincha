@@ -29,7 +29,7 @@ const MAX_CHARS = Number(opt('max-chars', 0)) || null; // por defecto: 120k alca
 if (!slug) { console.error('Falta el slug: alcalde | concejal-urbano | concejal-rural | concejal-circ | vocal-parroquial'); process.exit(1); }
 
 const BASE = slug.split('/').pop();
-const LIMITE = MAX_CHARS ?? (BASE === 'alcalde' ? 120000 : 60000);
+const LIMITE = MAX_CHARS ?? (BASE === 'alcalde' || BASE === 'prefecto' ? 120000 : 60000);
 const PROV = slug.includes('/') ? slug.split('/')[0] : null;
 const CRITERIOS = {
   alcalde: {
@@ -48,13 +48,21 @@ const CRITERIOS = {
     viab: '    alta = le toca a la junta y cuesta poco (mingas, ferias, parques, cursos, organizar a la comunidad); media = necesita un acuerdo con el Municipio o la Prefectura; baja = le toca a otro nivel (agua potable, salud, escuelas, policía) o es una obra grande irreal.',
   },
 };
+CRITERIOS.prefecto = {
+  dignidad: 'Prefecto/a y viceprefecto/a de la provincia',
+  comp: 'Sí puede (COOTAD art. 42): vías rurales que unen parroquias y cantones, riego, gestión ambiental y de cuencas, fomento de la producción agropecuaria, turismo y cooperación internacional. No le toca: calles de la ciudad, agua potable, alcantarillado o basura (Municipio), ni policía, salud o educación (Gobierno nacional).',
+  viab: '    alta = le toca a la Prefectura y es realista (vías rurales, riego, apoyo productivo, cuencas); media = la puede empujar pero depende de otros (MTOP, Ministerio, Municipio, préstamos o convenios); baja = no le toca a la Prefectura (calles urbanas, agua potable, policía, hospitales, escuelas) o es irreal.',
+};
 CRITERIOS.cpccs = {
   dignidad: 'Consejero/a del Consejo de Participación Ciudadana y Control Social (CPCCS)',
   comp: 'Sí puede (Constitución art. 208): designar con comisiones ciudadanas al Fiscal, Contralor, Defensor del Pueblo, Defensor Público, Procurador, superintendentes y miembros del CNE, TCE y Consejo de la Judicatura; investigar denuncias de corrupción y pasar los informes a Fiscalía o Contraloría; promover la participación ciudadana, la rendición de cuentas y las veedurías. No puede: juzgar ni sancionar (eso lo hacen jueces, Fiscalía y Contraloría), hacer leyes, hacer obras ni manejar seguridad, salud, educación o empleo.',
   viab: '    alta = es una función del CPCCS (designaciones, veedurías, rendición de cuentas, investigar y derivar denuncias); media = necesita a otra institución (Asamblea, Fiscalía, Contraloría) o un cambio de reglamento; baja = no le toca al CPCCS (sancionar, encarcelar, obras, leyes, temas sociales o económicos) o es irreal.',
 };
 const crit = CRITERIOS[BASE] ?? CRITERIOS[BASE.startsWith('concejal') ? 'concejal' : ''];
-const TEMAS = ['movilidad', 'servicios', 'ambiente', 'urbano', 'seguridad', 'social', 'economia', 'gobierno', 'otros'];
+// Prefectura: los mismos temas que la de Pichincha (src/data/contexto.js); el resto, los temas locales
+const TEMAS = BASE === 'prefecto'
+  ? ['vial', 'riego', 'produccion', 'ambiente', 'turismo', 'social', 'seguridad', 'gobierno', 'otros']
+  : ['movilidad', 'servicios', 'ambiente', 'urbano', 'seguridad', 'social', 'economia', 'gobierno', 'otros'];
 const item = { type: 'object', properties: { t: { type: 'string' }, que: { type: 'string' }, v: { enum: ['alta', 'media', 'baja'] }, n: { type: 'string' }, cita: { type: 'string' } }, required: ['t', 'que', 'v', 'n', 'cita'] };
 const SCHEMA = {
   type: 'object',
@@ -102,7 +110,7 @@ const parecido = (a, b) => { let n = 0; for (const x of a) if (b.has(x)) n++; re
 // ---------- Llamada a claude -p ----------
 const sysFile = path.join(os.tmpdir(), `resumir-${slug.replace("/", "-")}.md`);
 fs.writeFileSync(sysFile, fs.readFileSync(path.join(ROOT, 'scripts/prompts/resumir.md'), 'utf8')
-  .replace('{{DIGNIDAD}}', crit.dignidad).replace('{{COMPETENCIAS}}', crit.comp).replace('{{VIABILIDAD}}', crit.viab));
+  .replace('{{DIGNIDAD}}', crit.dignidad).replace('{{COMPETENCIAS}}', crit.comp).replace('{{VIABILIDAD}}', crit.viab).replace('{{TEMAS}}', TEMAS.join(', ')));
 const vacio = fs.mkdtempSync(path.join(os.tmpdir(), 'resumir-')); // sin CLAUDE.md ni AGENTS.md
 
 function claude(entrada) {
@@ -178,7 +186,7 @@ if (!SOLO_COMPILAR) {
       }
       hechos++;
       const sel = seleccionar(t, LIMITE);
-      const entrada = `${BASE === 'cpccs' ? 'Lista' : 'Cantón'}: ${r.canton}${r.sub ? ` · ${r.sub}` : ''}\nOrganización: ${r.partido} (lista ${r.lista})\nCandidatos: ${r.principales.map((p) => p.nombre).join(', ')}\n\nTEXTO DEL PLAN${sel.recortado ? ` (plan de ${sel.total} páginas; solo van las páginas con propuestas)` : ''}:\n${sel.texto}`;
+      const entrada = `${BASE === 'cpccs' ? 'Lista' : BASE === 'prefecto' ? 'Provincia' : 'Cantón'}: ${r.canton ?? r.provincia}${r.sub ? ` · ${r.sub}` : ''}\nOrganización: ${r.partido} (lista ${r.lista})\nCandidatos: ${r.principales.map((p) => p.nombre).join(', ')}\n\nTEXTO DEL PLAN${sel.recortado ? ` (plan de ${sel.total} páginas; solo van las páginas con propuestas)` : ''}:\n${sel.texto}`;
       const res = await claude(entrada);
       const usd = res.total_cost_usd ?? 0; gasto += usd;
       fs.appendFileSync(usoPath, JSON.stringify({ fecha: new Date().toISOString(), slug, cod: r.codFormulario, modelo: MODELO, usd, entrada: res.usage?.input_tokens, cache: res.usage?.cache_read_input_tokens, salida: res.usage?.output_tokens, error: !!res.is_error }) + '\n');
@@ -205,7 +213,7 @@ const porCanton = {};
 for (const r of raw) {
   if (revisados.has(r.codFormulario) || !fs.existsSync(cachePath(r.codFormulario))) continue;
   const c = JSON.parse(fs.readFileSync(cachePath(r.codFormulario), 'utf8'));
-  (porCanton[r.canton] ??= []).push({ codFormulario: r.codFormulario, ia: true, modelo: c.modelo, copiaDe: c.copiaDe, enfoque: c.enfoque, tabla: c.tabla, metas: c.metas, notas: c.notas });
+  (porCanton[r.canton ?? "provincia"] ??= []).push({ codFormulario: r.codFormulario, ia: true, modelo: c.modelo, copiaDe: c.copiaDe, enfoque: c.enfoque, tabla: c.tabla, metas: c.metas, notas: c.notas });
 }
 for (const [canton, candidatos] of Object.entries(porCanton)) {
   fs.writeFileSync(path.join(outDir, PROV ? `${BASE}-${slugify(canton)}.json` : `${slug}-${slugify(canton)}-ia.json`), JSON.stringify({ canton, candidatos }, null, 2) + '\n');

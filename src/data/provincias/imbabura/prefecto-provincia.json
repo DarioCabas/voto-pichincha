@@ -1,0 +1,422 @@
+{
+  "canton": "provincia",
+  "candidatos": [
+    {
+      "codFormulario": 6480,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Propone arreglar vías rurales, mejorar el riego, apoyar a productores, cuidar cuencas y promover turismo. No dice cuánto costará ni cuándo.",
+      "tabla": {
+        "vial": [
+          {
+            "t": "Hacer mantenimiento y arreglar las vías rurales que unen comunidades y zonas productivas.",
+            "que": "El plan no dice qué vías, cuánto costará ni cuándo. Da prioridad a las zonas productivas y al acceso a servicios.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. El plan no dice qué caminos.",
+            "cita": "Fortalecer la infraestructura vial provincial mediante programas permanentes de",
+            "pag": 2
+          }
+        ],
+        "riego": [
+          {
+            "t": "Construir, arreglar y modernizar la infraestructura de agua para riego en la provincia.",
+            "que": "El plan no dice cuántas obras, dónde ni cuánto costarán. Habla de planificar, construir, rehabilitar y modernizar.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. El plan no dice cuántas obras hará.",
+            "cita": "Incrementar la cobertura y eficiencia de los sistemas de riego provincial mediante la",
+            "pag": 3
+          }
+        ],
+        "produccion": [
+          {
+            "t": "Dar asistencia técnica y abrir nuevos espacios de venta para productores y emprendedores.",
+            "que": "El plan no dice cuánto costará ni cuándo ni a cuántos productores llegará. Incluye innovación y asociatividad.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura, en apoyo productivo. Falta el detalle.",
+            "cita": "Impulsar el desarrollo económico provincial mediante el fortalecimiento de las cadenas",
+            "pag": 2
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Proteger cuencas y microcuencas y restaurar ecosistemas en la provincia.",
+            "que": "El plan no dice cuánto costará ni cuándo ni en qué zonas. Incluye restauración ecológica y educación ambiental.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. El plan no dice dónde ni cuánto.",
+            "cita": "Proteger y conservar los recursos naturales de la provincia mediante acciones de restauración",
+            "pag": 3
+          }
+        ],
+        "turismo": [
+          {
+            "t": "Promover un turismo sostenible que use el patrimonio natural, cultural e histórico de Imbabura.",
+            "que": "El plan no dice qué lugares, cuánto costará ni cuándo. Menciona corredores turísticos y promoción de la provincia.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. El plan no nombra lugares ni dinero.",
+            "cita": "Promover un modelo de turismo sostenible que integre el patrimonio natural, cultural, histórico",
+            "pag": 3
+          }
+        ],
+        "otros": [
+          {
+            "t": "Hacer obras para prevenir deslizamientos e inundaciones y reducir daños.",
+            "que": "El plan no dice qué obras, dónde ni cuánto costarán. Depende de coordinar con otras instituciones.",
+            "v": "media",
+            "n": "Le toca en parte. Depende de otras instituciones.",
+            "cita": "Fortalecer la gestión integral del riesgo mediante acciones preventivas, obras de mitigación,",
+            "pag": 3
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Hacer asambleas públicas y explicar a la gente cómo se gasta el presupuesto.",
+            "que": "El plan no dice cada cuándo ni cuánto costará. Habla de juntas vecinales y del presupuesto parroquial, no provincial.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura, pero el texto parece de otro nivel.",
+            "cita": "Convocar periódicamente a las comunidades, organizaciones sociales, juntas vecinales y",
+            "pag": 5
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan no dice costos, plazos ni lugares. Casi todo son frases generales.",
+        "Partes hablan de juntas y presupuesto parroquial, que no son de la Prefectura. Parece copiado de otro plan."
+      ]
+    },
+    {
+      "codFormulario": 625,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Caminos rurales, riego, cuidado de páramos y agua, y apoyo a productores y turismo. Gran parte del texto copia el plan de desarrollo de la provincia (PDOT).",
+      "tabla": {
+        "vial": [
+          {
+            "t": "Hacer un plan de caminos rurales que conecte zonas agrícolas, turísticas, educativas y de salud.",
+            "que": "El plan incluye mantenimiento, mejora de caminos, drenaje, puentes y prevención de riesgos. No dice cuánto costará en esta parte. En el plan de inversión, caminos vecinales cuestan 14.335.652,20 dólares de 2027 a 2035.",
+            "v": "alta",
+            "n": "Caminos rurales entre parroquias y zonas productivas: le toca a la Prefectura.",
+            "cita": "Priorizar un plan vial rural productivo que conecte zonas agrícolas, turísticas, educativas y de salud",
+            "pag": 35
+          }
+        ],
+        "riego": [
+          {
+            "t": "Construir reservorios para guardar agua de riego y hacer riego por goteo.",
+            "que": "El plan no dice cuánto costará en esta frase. En el plan de inversión, los reservorios cuestan 3.266.663,92 dólares de 2027 a 2035.",
+            "v": "alta",
+            "n": "El riego es competencia de la Prefectura.",
+            "cita": "Implementación de riego por goteo y construcción de reservorios",
+            "pag": 34
+          },
+          {
+            "t": "Modernizar canales de riego y pasar a riego parcelario tecnificado.",
+            "que": "El plan no dice cuánto costará ni cuándo. Meta: 5.000 hectáreas tecnificadas hasta 2028, 15.000 hasta 2031 y 30.000 hasta 2035.",
+            "v": "alta",
+            "n": "El riego es competencia de la Prefectura.",
+            "cita": "Modernizar los sistemas de riego provincial mediante rehabilitación de canales, tecnificación parcelaria",
+            "pag": 34
+          }
+        ],
+        "produccion": [
+          {
+            "t": "Crear centros de acopio y de transformación para productos del campo.",
+            "que": "El plan no dice cuánto costará ni quién los administrará. Meta: 2 centros hasta 2028, 5 hasta 2031 y 8 hasta 2035.",
+            "v": "alta",
+            "n": "Apoyo a productores: sí es competencia de la Prefectura.",
+            "cita": "Fortalecer cadenas de valor agropecuarias, artesanales, turísticas y de economía popular y solidaria mediante centros de acopio",
+            "pag": 35
+          },
+          {
+            "t": "Poner en marcha IMBA, una aplicación para comprar y vender productos del campo sin intermediarios.",
+            "que": "El plan no dice cómo se mantendrá después. En el plan de inversión, IMBA cuesta 100.000 dólares de 2027 a 2035, con alianza público-privada.",
+            "v": "alta",
+            "n": "Apoyo a la venta de productores: sí es competencia de la Prefectura.",
+            "cita": "IMBA es una plataforma digital disponible como aplicación móvil y página web",
+            "pag": 40
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Proteger páramos y recuperar fuentes de agua con un programa provincial.",
+            "que": "El plan no dice cuánto costará. Meta: 10.000 hectáreas de páramo protegidas hasta 2028, 30.000 hasta 2031 y 50.000 hasta 2035.",
+            "v": "alta",
+            "n": "Cuencas y páramos: competencia de la Prefectura.",
+            "cita": "Implementar un programa provincial de seguridad hídrica que articule conservación de fuentes, protección de páramos, monitoreo de calidad de agua",
+            "pag": 34
+          },
+          {
+            "t": "Reforestar zonas degradadas y prevenir incendios forestales en toda la provincia.",
+            "que": "El plan no dice cuánto costará en esta frase. Meta: 5.000 hectáreas reforestadas hasta 2028, 12.000 hasta 2031 y 20.000 hasta 2035.",
+            "v": "alta",
+            "n": "Gestión ambiental provincial: competencia de la Prefectura.",
+            "cita": "Ejecutar un plan provincial de restauración ecológica, reforestación productiva y prevención de incendios forestales",
+            "pag": 34
+          }
+        ],
+        "turismo": [
+          {
+            "t": "Crear una estrategia de turismo sostenible y geoturismo en toda la provincia.",
+            "que": "El plan no dice cuánto costará ni cuándo. Meta: 3 corredores turísticos hasta 2028, 7 hasta 2031 y 12 hasta 2035.",
+            "v": "alta",
+            "n": "El turismo sí es competencia de la Prefectura.",
+            "cita": "Consolidar una estrategia de turismo sostenible y geoturismo provincial, articulando rutas, comunidades, infraestructura turística, promoción digital y capacitación de operadores locales",
+            "pag": 35
+          }
+        ],
+        "social": [
+          {
+            "t": "Hacer un programa para cuidar la cultura: saberes, fiestas, rituales y el idioma kichwa.",
+            "que": "El plan no dice cuánto costará con esta frase. En el plan de inversión, el programa del kichwa cuesta 178.033,28 dólares de 2027 a 2035.",
+            "v": "media",
+            "n": "Cultura: la Prefectura puede hacerlo junto al Ministerio de Cultura.",
+            "cita": "Ejecutar un programa de revitalización cultural provincial que fortalezca, saberes ancestrales, rituales, fiestas",
+            "pag": 35
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Crear una estrategia de convivencia y seguridad comunitaria.",
+            "que": "El plan no dice cuánto costará ni cuándo, ni cómo se hará.",
+            "v": "baja",
+            "n": "La policía y la seguridad no le tocan a la Prefectura.",
+            "cita": "Impulsar una estrategia provincial de convivencia y seguridad comunitaria",
+            "pag": 35
+          }
+        ]
+      },
+      "metas": [
+        "Caminos: 300 km (2027-2028), 800 km acumulados (2029-2031) y 1.500 km acumulados (2032-2035).",
+        "Reservorios para riego: 5 (2027-2028), 15 (2029-2031) y 25 (2032-2035).",
+        "Riego parcelario tecnificado: 5.000 ha, 15.000 ha y 30.000 ha en los mismos plazos.",
+        "Reforestación: 5.000 ha, 12.000 ha y 20.000 ha en los mismos plazos.",
+        "Centros de acopio y transformación: 2, 5 y 8 en los mismos plazos."
+      ],
+      "notas": [
+        "El plan repite fechas distintas (2030, 2035, 2040 y 2060) y copia partes del plan de desarrollo de la provincia (PDOT). Revise el plan completo.",
+        "Muchos proyectos no tienen costo propio. El mismo monto de 3.266.663,92 dólares aparece en cuatro proyectos de riego distintos."
+      ]
+    },
+    {
+      "codFormulario": 2975,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan copiado en gran parte del plan de desarrollo de la provincia: vías, riego, producción y turismo. No dice cuánto costará ni cuándo.",
+      "tabla": {
+        "vial": [
+          {
+            "t": "Construir, arreglar y mantener la red de vías provinciales.",
+            "que": "El plan habla de planificar, construir, mejorar y mantener la red de vías provinciales. No dice qué vías, cuánto costará ni en qué plazo.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. El plan no dice qué vías ni cuánto costará.",
+            "cita": "Planificar, construir, mejorar y mantener lared vial provincial para el desarrollo social, económico y turistico de la provincia.",
+            "pag": 85
+          }
+        ],
+        "riego": [
+          {
+            "t": "Arreglar y construir obras de riego y drenaje en la provincia.",
+            "que": "El plan crea una dirección de Riego y Drenaje para dirigir estas obras. No dice en qué zonas ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. El plan no dice dónde ni cuánto costará.",
+            "cita": "la rehabilitación y construcción de infraestructura de riego y drenaje",
+            "pag": 87
+          }
+        ],
+        "produccion": [
+          {
+            "t": "Poner en marcha centros para juntar y vender productos del campo.",
+            "que": "El plan habla de centros de acopio, es decir, lugares donde se juntan productos para venderlos. No dice dónde ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. El plan no dice dónde ni cuándo.",
+            "cita": "la Implementación de centros de acopio y comercialización agropecuaria",
+            "pag": 87
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Crear un Fondo Provincial del Agua y un sistema de áreas protegidas.",
+            "que": "El fondo cuidaría el agua y el sistema protegería zonas naturales. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura por gestión ambiental. El plan no dice cuánto costará.",
+            "cita": "la creación del Sistema Provincial de Áreas Protegidas y del Fondo Provincial del Agua",
+            "pag": 87
+          },
+          {
+            "t": "Prevenir incendios en bosques y regular los escombros de construcción.",
+            "que": "Son acciones de cuidado del ambiente. El plan no dice dónde, con qué personal ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura por gestión ambiental. El plan no dice cuánto costará.",
+            "cita": "la prevención de incendios forestales, la regulación de escombreras",
+            "pag": 87
+          }
+        ],
+        "turismo": [
+          {
+            "t": "Construir un Plan Provincial de Turismo y apoyar el turismo deportivo.",
+            "que": "El plan propone hacer un plan provincial de turismo y apoyar el turismo deportivo. No dice cuánto costará ni cuándo estará listo.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. El plan no dice cuánto costará ni en qué plazo.",
+            "cita": "construcción del Plan Provincial de Turismo y potenciación del turismo deportivo",
+            "pag": 89
+          }
+        ],
+        "social": [
+          {
+            "t": "Hacer programas para prevenir y atender la violencia de género.",
+            "que": "El plan dice que habrá programas, pero no dice cuántos ni cuánto costarán. El plan no dice quién los pagará.",
+            "v": "baja",
+            "n": "No es competencia de la Prefectura según la ley.",
+            "cita": "programas dirigidos a la prevención y atención de la violencia de género",
+            "pag": 89
+          },
+          {
+            "t": "Construir vivienda social para familias vulnerables.",
+            "que": "El plan dice que construirá vivienda social, pero no dice cuántas casas ni cuánto costará.",
+            "v": "baja",
+            "n": "La vivienda no es competencia de la Prefectura según la ley.",
+            "cita": "la construcción de vivienda social para sectores vulnerables",
+            "pag": 89
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Crear un comité de científicos para el Geoparque Imbabura.",
+            "que": "Irá dentro de una nueva Subdirección del Geoparque. Reunirá a universidades y especialistas. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura, dentro de su propia estructura. El plan no dice cuándo.",
+            "cita": "Bajo la nueva Subdirección se establecerá el Comité Cientifico del Geoparque Imbabura",
+            "pag": 113
+          },
+          {
+            "t": "Presentar cada año un informe de resultados, obras y gastos.",
+            "que": "Será un informe anual sobre resultados, obras y dinero gastado. El plan no dice cuándo se publicará.",
+            "v": "alta",
+            "n": "Es una obligación de la Prefectura. Sin cifras ni fechas.",
+            "cita": "Se elaborarán y presentarán los informes anuales de rendición de cuentas",
+            "pag": 225
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "Mucho texto es copia del plan de desarrollo provincial y del diagnóstico de la Prefectura, no propuestas nuevas.",
+        "El plan no dice cuánto costará ninguna obra ni en qué plazo. No trae metas con cifras.",
+        "Plan muy largo (228 págs.): se resumieron las 19 páginas con propuestas."
+      ]
+    },
+    {
+      "codFormulario": 11287,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan de la Prefectura: caminos rurales, riego, producción, turismo y apoyo a mujeres. Mezcla temas de salud y seguridad que no son de la Prefectura.",
+      "tabla": {
+        "vial": [
+          {
+            "t": "Arreglar y mejorar las vías rurales de la provincia, con prioridad en rutas productivas y turísticas.",
+            "que": "Mantenimiento, mejoramiento y rehabilitación de la vialidad rural. El plan no dice cuánto costará ni en qué plazo se hará cada vía.",
+            "v": "alta",
+            "n": "Las vías rurales sí son de la Prefectura. Falta saber cuánto costará.",
+            "cita": "mantenimiento, mejoramiento y rehabilitación progresiva de la vialidad rural, priorizando corredores productivos, turísticos y territorios con mayores necesidades de conectividad",
+            "pag": 46
+          }
+        ],
+        "riego": [
+          {
+            "t": "Cambiar poco a poco el riego por gravedad a riego por goteo y aspersión, y arreglar canales.",
+            "que": "Pasar a riego tecnificado y reducir pérdidas de agua, dando prioridad a zonas con más falta de agua. El plan no dice cuántas hectáreas ni cuánto costará.",
+            "v": "alta",
+            "n": "El riego es competencia de la Prefectura. Faltan cifras y costos.",
+            "cita": "tecnificación progresiva de los sistemas de riego, rehabilitación de infraestructura y reducción de pérdidas",
+            "pag": 44
+          }
+        ],
+        "produccion": [
+          {
+            "t": "Dar asistencia técnica y ayudar a agregar valor a productos agropecuarios y artesanales.",
+            "que": "Capacitación, innovación y transformación de productos del campo y artesanías. El plan no dice cuántos productores se beneficiarán ni cuánto costará.",
+            "v": "alta",
+            "n": "Fomentar la producción agropecuaria sí le toca a la Prefectura. Sin cifras.",
+            "cita": "asistencia técnica, innovación, transformación y agregación de valor para productores agropecuarios, artesanales",
+            "pag": 28
+          }
+        ],
+        "turismo": [
+          {
+            "t": "Desarrollar rutas turísticas comunitarias, rurales y culturales en los seis cantones.",
+            "que": "Rutas de turismo comunitario, rural, cultural, gastronómico y de aventura. El plan no dice cuántas rutas se harán ni cuándo.",
+            "v": "alta",
+            "n": "El turismo sí es competencia provincial. Falta saber cuántas rutas.",
+            "cita": "fortalecimiento de circuitos de turismo comunitario, rural, cultural, gastronómico y de aventura que integren los seis cantones",
+            "pag": 45
+          },
+          {
+            "t": "Arreglar accesos, letreros, miradores y senderos de los atractivos turísticos.",
+            "que": "Accesos, señalética, miradores y senderos a atractivos turísticos. El plan no dice dónde ni cuánto costará.",
+            "v": "media",
+            "n": "Accesos y miradores sí; agua y alcantarillado no son de la Prefectura.",
+            "cita": "mejoramiento progresivo de accesos, señalética, miradores, senderos y servicios básicos vinculados a los principales atractivos turísticos",
+            "pag": 45
+          }
+        ],
+        "social": [
+          {
+            "t": "Ampliar Warmi Imbabura, el programa contra la violencia hacia las mujeres, a más territorios.",
+            "que": "Prevención, atención y protección frente a la violencia, con enfoque de género e interculturalidad. El plan no dice cuántas mujeres atenderá ni cuánto costará.",
+            "v": "media",
+            "n": "Puede impulsarlo, pero depende de otras instituciones. Sin cifras.",
+            "cita": "ampliación territorial de la política pública de prevención, atención y protección frente a las violencias",
+            "pag": 35
+          },
+          {
+            "t": "Llevar brigadas móviles de medicina general, odontología y ginecología a comunidades.",
+            "que": "Brigadas que sumarían estos servicios poco a poco. El plan no dice cuántas brigadas habrá ni cuánto costará.",
+            "v": "baja",
+            "n": "La salud le toca al Gobierno nacional, no a la Prefectura.",
+            "cita": "Ampliar las brigadas y unidades móviles de atención preventiva, incorporando progresivamente medicina general, odontología, ginecología",
+            "pag": 35
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Aplicar medidas de prevención del delito en corredores productivos y espacios comunitarios.",
+            "que": "El plan no dice qué medidas concretas ni dónde se harán. La policía y el orden público son del Gobierno nacional.",
+            "v": "media",
+            "n": "La policía no es de la Prefectura. Solo puede aportar prevención.",
+            "cita": "Seguridad situacional en corredores productivos y espacios comunitarios.",
+            "pag": 37
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Cuidar zonas de recarga, microcuencas y fuentes de agua con acuerdos con comunidades.",
+            "que": "Conservación y recuperación de fuentes de agua junto a comunidades y productores. El plan no dice cuántas fuentes ni cuánto costará.",
+            "v": "alta",
+            "n": "Cuencas y agua son competencia provincial. Falta presupuesto.",
+            "cita": "conservación y recuperación de zonas de recarga, microcuencas y fuentes de agua mediante acuerdos con comunidades",
+            "pag": 46
+          }
+        ],
+        "otros": [
+          {
+            "t": "Pedir créditos al Banco de Desarrollo del Ecuador para vías, riego y equipamiento.",
+            "que": "Créditos para proyectos de vialidad, riego y equipamiento. El plan no dice cuánto se pedirá ni cuánto se pagará.",
+            "v": "media",
+            "n": "Depende del banco y de los límites de deuda del país. Sin montos.",
+            "cita": "Acceso a líneas de crédito de inversión e infraestructura con el Banco de Desarrollo del Ecuador",
+            "pag": 50
+          }
+        ]
+      },
+      "metas": [
+        "Período de gestión 2027-2031, es decir cuatro años.",
+        "Destinar al menos el 70% del gasto no financiero a inversión pública y programas sociales.",
+        "Ampliar dos programas de autonomía económica para mujeres en los cuatro años."
+      ],
+      "notas": [
+        "El plan no dice cuánto costará ninguna obra. Las metas reales y el plan de inversión se definirán después.",
+        "La mayoría de metas dicen 'consolidar' o 'ampliar' sin número ni fecha. Muchas frases repiten el plan de desarrollo provincial 2023-2027."
+      ]
+    }
+  ]
+}

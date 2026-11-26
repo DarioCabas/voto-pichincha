@@ -1,0 +1,151 @@
+{
+ "enfoque": "Plan provincial de caminos rurales, puentes, riego solar, créditos y parques de procesamiento. Parte del diagnóstico viene del plan de desarrollo provincial vigente.",
+ "tabla": {
+  "vial": [
+   {
+    "t": "Asfaltar 2.000 km de caminos rurales con asfalto de polímeros.",
+    "que": "Son caminos vecinales de zonas agrícolas. El plan pone 350 millones de dólares: 60% con dinero del Gobierno central y 40% con concesiones y bonos verdes. Obra en 2028-2031.",
+    "v": "media",
+    "n": "Sí le toca a la Prefectura; 40% depende de concesiones y bonos.",
+    "cita": "de 2,000 kilómetros de caminos vecinales con asfalto modificado con polímeros",
+    "pag": 18
+   },
+   {
+    "t": "Construir 75 puentes en pasos de ríos donde los recintos quedan aislados.",
+    "que": "Serán de hormigón y metal en la cuenca baja. Costo de 140 millones de dólares, con dinero del Gobierno central y un fondo no reembolsable de CAF (banco de desarrollo de América Latina). Entrega en 2029-2031.",
+    "v": "media",
+    "n": "Le toca a la Prefectura; parte del dinero depende de CAF.",
+    "cita": "puentes de hormigón armado y estructuras metálicas de alta durabilidad en",
+    "pag": 24
+   }
+  ],
+  "riego": [
+   {
+    "t": "Instalar riego por goteo y aspersión con energía solar en 30.000 fincas.",
+    "que": "Las fincas son unidades de producción agropecuaria. El plan pone 210 millones de dólares y nombra al Banco Mundial como fuente de crédito. Obras de 2027 a 2031.",
+    "v": "media",
+    "n": "Es de la Prefectura; el plan pone al Banco Mundial como fuente.",
+    "cita": "sistemas de riego tecnificado (goteo y aspersión solarizados) en 30,000 Unidades",
+    "pag": 19
+   },
+   {
+    "t": "Perforar 1.500 pozos profundos y arreglar 2.000 albarradas (pozas de agua tradicionales).",
+    "que": "Es agua para la época seca, sobre todo en Pedro Carbo e Isidro Ayora. El plan pone 70 millones de dólares con fondos propios de la Prefectura y dinero del Gobierno central.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura, y el plan dice de dónde sale el dinero.",
+    "cita": "de 1,500 pozos profundos comunitarios y la rehabilitación de 2,000 albarradas",
+    "pag": 19
+   }
+  ],
+  "produccion": [
+   {
+    "t": "Construir 5 plantas para secar, empacar y dar valor a la cosecha.",
+    "que": "Irían en Daule, El Empalme, Naranjal, Milagro y Balzar. El plan pone 50 millones de dólares: 25% la Prefectura y 75% empresas privadas (alianzas público-privadas). Obras de 2027 a 2031.",
+    "v": "media",
+    "n": "La Prefectura pone 25%; el resto depende de empresas privadas.",
+    "cita": "Instalación de 5 complejos de post-cosecha y valor agregado en nodos",
+    "pag": 20
+   },
+   {
+    "t": "Crear un fondo de garantía de 50 millones para créditos a asociaciones agrícolas.",
+    "que": "Los bancos prestan; el fondo cubre las primeras pérdidas. La Prefectura pone 12,5 millones al año, sacados de ahorros en gastos. El plan pone tasas de un dígito, por ejemplo 7%.",
+    "v": "media",
+    "n": "Los créditos los dan los bancos; la Prefectura solo pone la garantía.",
+    "cita": "créditos productivos preferenciales con interés de un sólo dígito a las asociaciones agrícolas y de la Economía Popular y Solidaria (EPS).",
+    "pag": 19
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Plantar caña guadua y árboles nativos en los primeros 50 metros de las orillas de ríos.",
+    "que": "Será en ríos como Daule y Babahoyo. Es parte de un plan de limpieza de ríos de 168 millones de dólares, pagado con un fondo internacional contra el cambio climático y aportes de la Prefectura. El plan no dice cuánto cuesta solo esta parte.",
+    "v": "media",
+    "n": "Es competencia de la Prefectura; parte del dinero viene de fuera.",
+    "cita": "primeros 50 metros de las riberas con Guadua angustifolia (caña guadua) y",
+    "pag": 33
+   }
+  ],
+  "turismo": [
+   {
+    "t": "Construir 25 km de senderos de montaña y miradores de vidrio en Bucay y Naranjito.",
+    "que": "Están en la Cordillera Oriental. El plan pone 25 millones de dólares con fondos de cooperación de España y de la Unión Europea, y el aporte del GAD. Obra prevista 2028-2031. También prevé certificar 120 guías.",
+    "v": "media",
+    "n": "Sí es de la Prefectura, pero depende de fondos de España y Europa.",
+    "cita": "construcción de 25 km de senderos inteligentes, infraestructura pública",
+    "pag": 19
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Bajar el gasto de funcionamiento de la Prefectura del 35% al 22%.",
+    "que": "Es el gasto diario de sueldos y compras. El plan lo pone como meta para el año 4 (2030-2031). No dice cuánto dinero se ahorra.",
+    "v": "alta",
+    "n": "Depende de la misma Prefectura; el plan no dice cuánto ahorra.",
+    "cita": "reduciendo el gasto corriente de la Prefectura del 35% al 22%.",
+    "pag": 19
+   }
+  ],
+  "otros": [
+   {
+    "t": "Reforzar 45 km de muros de piedra en el río Daule en los primeros 90 días.",
+    "que": "Obra de emergencia de mayo a julio de 2027, ante El Niño (lluvias fuertes). Se pagará con un fondo de emergencia de 15 millones de dólares, sacado de gastos de publicidad y eventos. El plan no dice el costo total de los 45 km.",
+    "v": "media",
+    "n": "Gestión de riesgos es compartida con el Gobierno central y los municipios.",
+    "cita": "Reforzamiento y sobreelevación de 45 kilómetros de muros de escollera",
+    "pag": 52
+   }
+  ]
+ },
+ "metas": [
+  "Asfaltar 2.000 km de caminos rurales.",
+  "Construir 75 puentes.",
+  "Riego tecnificado en 30.000 fincas (unidades de producción agropecuaria).",
+  "Perforar 1.500 pozos profundos comunitarios.",
+  "Bajar el gasto de funcionamiento de la Prefectura del 35% al 22%."
+ ],
+ "notas": [
+  "Las cifras no cuadran: hay 2.000 y 2.500 km de vías, y el presupuesto por años suma 450 millones.",
+  "Muchas obras dependen de bancos, préstamos o fondos internacionales que el plan no asegura.",
+  "Plan muy largo (76 págs.): se resumieron las 36 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  2,
+  16,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  27,
+  30,
+  33,
+  35,
+  36,
+  37,
+  39,
+  41,
+  43,
+  44,
+  47,
+  49,
+  50,
+  51,
+  52,
+  53,
+  59,
+  61,
+  63,
+  64,
+  66,
+  69,
+  70,
+  71,
+  72,
+  73,
+  76
+ ],
+ "paginas": 76
+}

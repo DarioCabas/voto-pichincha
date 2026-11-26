@@ -1,0 +1,127 @@
+{
+ "enfoque": "Propone arreglar caminos rurales, modernizar el riego, cuidar páramos y bosques, y apoyar a productores y jóvenes. No dice cuánto costará ni cuándo.",
+ "tabla": {
+  "vial": [
+   {
+    "t": "Planificar y dar mantenimiento a los caminos rurales de la provincia, con reparaciones y nuevas vías.",
+    "que": "Mantenimiento preventivo y correctivo, reparación de carreteras y estudio de nuevas vías, priorizando lo que pidan los vecinos. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: los caminos rurales son su competencia. Falta costo y plazo.",
+    "cita": "Planificar de manera técnica el mejoramiento y buen funcionamiento de la red vial rural, a través del mantenimiento preventivo y correctivo",
+    "pag": 16
+   },
+   {
+    "t": "Estudiar un sistema en que las vías generen su propio dinero para pagar su arreglo.",
+    "que": "El plan dice que hay que analizar técnicamente este esquema. No dice qué tipo de cobro usaría ni cuándo empezaría.",
+    "v": "media",
+    "n": "Solo dice que hay que estudiarlo. Depende de cómo se financie.",
+    "cita": "un esquema de autofinanciamiento vial donde las rutas generen sus propios recursos para operarlas",
+    "pag": 7
+   }
+  ],
+  "riego": [
+   {
+    "t": "Modernizar los sistemas de riego de la provincia y apoyar a quienes los administran.",
+    "que": "Usar el agua con criterios de eficiencia y dar apoyo técnico y operativo a las organizaciones de regantes (las juntas que manejan el agua de riego). El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: el riego es su competencia. Falta costo y plazo.",
+    "cita": "Priorizar la modernización de los sistemas de riego de la provincia del Azuay aplicando los principios de eficiencia hídrica",
+    "pag": 17
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Cuidar páramos, bosques y zonas que guardan el agua, junto con comunidades y ciudadanos.",
+    "que": "Busca proteger las fuentes de agua que alimentan el riego, en coordinación con comunidades, ciudadanía y grupos organizados. El plan no dice con qué dinero ni en qué plazo.",
+    "v": "alta",
+    "n": "Es competencia provincial (cuencas y ambiente). Falta cómo y cuándo.",
+    "cita": "Promover la conservación de los páramos, bosques protectores y zonas de recarga hídrica, así como de los ecosistemas",
+    "pag": 17
+   },
+   {
+    "t": "Hacer planes en cada comunidad para prevenir deslizamientos, incendios y lluvias fuertes.",
+    "que": "Planes hechos con las comunidades y los usuarios de cada sistema de riego, para proteger el riego. El plan no dice cuántos planes habrá ni cuándo.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura trabajar con comunidades. No dice cuántos planes.",
+    "cita": "Elaboración de planes comunitarios de prevención de deslizamientos, incendios y eventos climáticos adversos",
+    "pag": 17
+   }
+  ],
+  "produccion": [
+   {
+    "t": "Dar asistencia técnica a productores del campo y ayudarles a agregar valor a sus productos.",
+    "que": "Asistencia técnica, innovación, trabajo asociado entre productores y mejor preparación de productos antes de venderlos. El plan no dice cuánto costará ni a cuántos productores llegará.",
+    "v": "alta",
+    "n": "Es fomento productivo, competencia de la Prefectura. Falta costo y plazo.",
+    "cita": "Fomentar la asistencia técnica, innovación, asociatividad, incorporación de valor agregado y articulación de cadenas",
+    "pag": 15
+   },
+   {
+    "t": "Abrir mercados para productos del campo: ventas directas y en mercados locales, nacionales e internacionales.",
+    "que": "Alianzas entre productores, empresas, universidades y sector público para vender más. El plan no dice cuánto se venderá ni en qué plazo.",
+    "v": "alta",
+    "n": "Es fomento productivo. Sin metas ni fechas.",
+    "cita": "promoción de circuitos cortos y mercados locales, nacionales e internacionales para el desarrollo del sector agropecuario",
+    "pag": 16
+   },
+   {
+    "t": "Dar capacitación y mentorías a jóvenes emprendedores, y buscar fondos para ellos.",
+    "que": "Programas de financiamiento de fuera del Azuay (nacional e internacional), cursos y acompañamiento para jóvenes. El plan no dice cuántos jóvenes ni cuánto dinero.",
+    "v": "media",
+    "n": "Depende de fondos externos y de otros niveles de gobierno.",
+    "cita": "Promover y fortalecer programas de financiamiento externo nacional e internacional, capacitación técnica, adopción tecnológica, transferencia de conocimientos y mentorías para jóvenes emprendedores",
+    "pag": 16
+   }
+  ],
+  "turismo": [
+   {
+    "t": "Impulsar el turismo rural, comunitario, cultural y ecológico ligado a la producción del campo.",
+    "que": "La Prefectura actuaría como promotora y coordinadora con municipios, juntas parroquiales y Gobierno Nacional. El plan no dice cuánto costará ni qué lugares se incluirán.",
+    "v": "alta",
+    "n": "Es fomento productivo de la Prefectura, pero se comparte con otros niveles.",
+    "cita": "Fomentar el turismo rural, comunitario, cultural y ecológico vinculado a la producción agropecuaria",
+    "pag": 16
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Buscar fondos de cooperación que no se devuelvan y alianzas con empresas del sector público y privado.",
+    "que": "La Prefectura gestionaría programas de fondos no reembolsables (que no hay que devolver) y alianzas público-privadas, coordinando con otros niveles. El plan no dice cuánto se captará ni cuándo.",
+    "v": "media",
+    "n": "Depende de donantes y convenios. El plan no da metas.",
+    "cita": "Promover la gestión activa del Gobierno Provincial del Azuay en los programas de fondos de cooperación no reembolsable y alianzas público-privadas",
+    "pag": 18
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan no pone cifras, costos ni fechas para casi ninguna propuesta.",
+  "La certificación final habla de una precandidata a la Alcaldía de Paute, no de la Prefectura. Revise el documento."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21
+ ],
+ "paginas": 21
+}

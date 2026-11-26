@@ -1,0 +1,110 @@
+{
+ "enfoque": "Arreglar vías rurales, construir y modernizar riego y apoyar a pequeños agricultores para que vendan mejor. El plan no da costos ni fechas.",
+ "tabla": {
+  "vial": [
+   {
+    "t": "Hacer un programa permanente para arreglar y mantener las vías provinciales.",
+    "que": "El plan no dice cuántas vías ni dónde, ni cuánto costará. Dice que los recursos propios de la Prefectura serán la fuente principal.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: son vías provinciales y rurales.",
+    "cita": "Se implementará un programa permanente de rehabilitación y mantenimiento vial.",
+    "pag": 3
+   },
+   {
+    "t": "Convertir los 17 anillos viales del plan de la provincia en corredores para sacar productos.",
+    "que": "Cada corredor tendría un listado de comunidades, productores, mercados y kilómetros de vía. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. Falta el costo de cada corredor.",
+    "cita": "Se propone convertir los 17 anillos viales previstos en el PDOT en corredores económicos y productivos.",
+    "pag": 3
+   }
+  ],
+  "riego": [
+   {
+    "t": "Arreglar y construir sistemas de riego, con reservorios y riego por goteo o aspersión.",
+    "que": "Incluye arreglar sistemas actuales, hacer nuevos, usar tuberías cerradas y reducir pérdidas de agua. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. El plan no dice cuántos sistemas.",
+    "cita": "El agua debe convertirse en un componente central de la política agrícola.",
+    "pag": 4
+   }
+  ],
+  "produccion": [
+   {
+    "t": "Crear un sistema provincial de apoyo a pequeños y medianos agricultores.",
+    "que": "Incluye asistencia técnica, capacitación, semillas certificadas, maquinaria, riego y ayuda para vender. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: apoyo al campo. Falta el presupuesto.",
+    "cita": "Creación de un sistema provincial de apoyo al pequeño y mediano productor.",
+    "pag": 3
+   },
+   {
+    "t": "Crear una marca provincial para productos del campo y artesanías.",
+    "que": "La marca identificaría productos que cumplan ciertos estándares de calidad. El plan no dice cuándo ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. Faltan las reglas de calidad y costos.",
+    "cita": "Crear una marca provincial para productos agropecuarios y artesanales.",
+    "pag": 5
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear una página en internet para seguir el avance de las obras.",
+    "que": "Mostraría ubicación, presupuesto, origen del dinero, avance en porcentaje y fotos de cada obra. El plan no dice cuándo estará lista.",
+    "v": "alta",
+    "n": "Lo puede hacer la Prefectura sola. Falta la fecha de inicio.",
+    "cita": "Se implementará una plataforma digital de información pública que permita a cualquier ciudadano consultar, de manera sencilla,",
+    "pag": 8
+   },
+   {
+    "t": "Hacer una rendición de cuentas pública cada año, con inversión por cantón y parroquia.",
+    "que": "Explicaría cuánto se gastó, qué obras hay y cuánto avanzaron. El plan no dice la fecha exacta de cada jornada.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura, según el propio plan.",
+    "cita": "Se realizará, como mínimo, una jornada pública anual de rendición de cuentas de la Prefectura,",
+    "pag": 7
+   }
+  ],
+  "otros": [
+   {
+    "t": "Pedir créditos y dinero no reembolsable al Banco de Desarrollo del Ecuador (BDE).",
+    "que": "Serían para obras viales con impacto productivo y territorial. El plan no dice cuánto se pedirá ni cuándo llegaría el dinero.",
+    "v": "media",
+    "n": "Depende de bancos y organismos externos. El plan no da montos.",
+    "cita": "Gestionar ante el BDE y organismos multilaterales operaciones de crédito y financiamiento no reembolsable",
+    "pag": 5
+   },
+   {
+    "t": "Buscar dinero de bancos y agencias internacionales con proyectos ya preparados.",
+    "que": "Crearía una unidad para encontrar fondos disponibles. El plan no dice cuánto dinero se conseguiría.",
+    "v": "media",
+    "n": "Depende de donantes externos; la Prefectura presenta los proyectos.",
+    "cita": "El objetivo será presentar proyectos ya estructurados técnicamente, no simplemente",
+    "pag": 6
+   }
+  ]
+ },
+ "metas": [
+  "Para 2031: red vial provincial rehabilitada y mantenida, conectada con zonas productivas.",
+  "Convertir los 17 anillos viales del plan provincial en corredores productivos.",
+  "Una rendición de cuentas pública cada año."
+ ],
+ "notas": [
+  "El plan no da costos ni fechas para sus obras, ni dice cuántas vías ni en qué lugares.",
+  "Muchas acciones son listas generales. Varias dependen de préstamos y de otras instituciones."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "paginas": 10
+}

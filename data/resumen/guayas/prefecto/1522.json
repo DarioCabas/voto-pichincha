@@ -1,0 +1,139 @@
+{
+ "enfoque": "Se basa en el plan de desarrollo provincial 2024-2027 y el plan anual 2026 ya existentes: caminos rurales, riego, producción, ambiente y turismo, con metas a cuatro años.",
+ "tabla": {
+  "vial": [
+   {
+    "t": "Hacer el inventario de los caminos provinciales y arreglar kilómetros cada año.",
+    "que": "Meta al año 4: 1.500 km arreglados, sumados. Incluye mantenimiento y reparación. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: caminos provinciales y rurales.",
+    "cita": "Actualizar el inventario georreferenciado de la red e intervenir km acumulados mediante mantenimiento, rehabilitación o mejoramiento anual.",
+    "pag": 11
+   },
+   {
+    "t": "Revisar puentes y pasos provinciales y arreglar, reforzar o cambiar los priorizados.",
+    "que": "Meta al año 4: 60 puentes o pasos. De los 186 puentes provinciales, 93 están en zonas expuestas a riesgo. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: los puentes provinciales. Falta el costo.",
+    "cita": "Inspeccionar las estructuras registradas; ejecutar reforzamiento, rehabilitación, reposición o instalación en puentes y pasos priorizados al año.",
+    "pag": 11
+   },
+   {
+    "t": "Arreglar 100 puntos viales peligrosos y señalizar 300 km de caminos.",
+    "que": "Se coordinará con la Policía y el ECU 911 en los puntos críticos. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Las obras son suyas; la vigilancia depende de la Policía y ECU 911.",
+    "cita": "Intervenir puntos viales críticos y señalizar, con integración de información de emergencia y coordinación con el Servicio Integrado de Seguridad ECU 911 y la Policía Nacional del Ecuador.",
+    "pag": 11
+   }
+  ],
+  "riego": [
+   {
+    "t": "Actualizar el plan de riego y drenaje y dar ayuda a las juntas de riego registradas.",
+    "que": "Meta al año 4: 88 juntas de riego asistidas, 40 sistemas arreglados y 10.000 hectáreas. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "El riego es competencia de la Prefectura. Falta el presupuesto.",
+    "cita": "Actualizar el Plan Provincial de Riego y Drenaje; brindar asistencia a las juntas registradas;",
+    "pag": 12
+   },
+   {
+    "t": "Arreglar cauces, canales y drenajes, con estudio técnico previo a cada obra.",
+    "que": "Meta al año 4: 300 km. Cada obra debe demostrar que es necesaria, su impacto ambiental y que se podrá mantener. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Riego y cuencas son competencia de la Prefectura.",
+    "cita": "Intervenir km acumulados de cauces, canales o drenajes con sustento técnico;",
+    "pag": 11
+   }
+  ],
+  "produccion": [
+   {
+    "t": "Dar asistencia técnica completa a productores y emprendedores, incluidas mujeres y jóvenes.",
+    "que": "Meta: 20.000 personas y 120 organizaciones. Incluye diagnóstico, mejora técnica, requisitos sanitarios, venta y seguimiento. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "El apoyo productivo es competencia de la Prefectura. Falta el costo.",
+    "cita": "el fomento productivo ofrecerá rutas completas de asistencia: diagnóstico, mejora técnica, requisitos sanitarios, asociatividad, empaque, venta y seguimiento.",
+    "pag": 9
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Plantar árboles nativos y revisar que sigan vivos a los 24 meses.",
+    "que": "Meta al año 4: 400.000 árboles, con al menos 70 % vivos. Solo cuentan los que tienen ubicación en mapa. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Ambiente y cuencas son competencia de la Prefectura.",
+    "cita": "Establecer árboles nativos, sostener viveros comunitarios o institucionales y verificar supervivencia mínima a los 24 meses.",
+    "pag": 13
+   },
+   {
+    "t": "Conservar 2.000 hectáreas con acuerdos y revisar la calidad del agua en 30 puntos.",
+    "que": "Publicar reportes cada seis meses. Meta al año 4: 2.000 hectáreas y 30 puntos de medición. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Ambiente y agua en cuencas son competencia de la Prefectura.",
+    "cita": "Restaurar o conservar mediante acuerdos; operar puntos de monitoreo de calidad de agua y publicar reportes semestrales.",
+    "pag": 13
+   }
+  ],
+  "turismo": [
+   {
+    "t": "Armar 8 rutas turísticas y culturales y apoyar a 200 prestadores, guías o emprendimientos.",
+    "que": "Se medirán visitas, ventas y empleo de cada ruta. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "El turismo es competencia de la Prefectura.",
+    "cita": "Consolidar rutas turísticas y culturales; fortalecer a prestadores, guías, emprendimientos u organizaciones;",
+    "pag": 13
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Poner en línea un portal con todos los proyectos, su costo y su avance.",
+    "que": "Debe estar listo en 180 días y se actualizará cada trimestre con avance físico y financiero. El plan no dice cuánto costará el portal.",
+    "v": "alta",
+    "n": "Depende solo de la Prefectura. Plazo de 180 días.",
+    "cita": "Poner en operación en los primeros 180 días un portal georreferenciado;",
+    "pag": 14
+   }
+  ]
+ },
+ "metas": [
+  "1.500 km de caminos intervenidos, sumados, al año 4.",
+  "60 puentes o pasos intervenidos al año 4.",
+  "100 puntos viales críticos y 300 km señalizados al año 4.",
+  "300 km de cauces, canales o drenajes intervenidos al año 4.",
+  "400.000 árboles establecidos al año 4, con al menos 70 % vivos."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará cada obra. Solo reparte porcentajes del presupuesto entre proyectos.",
+  "Varias metas dependen de convenios con ministerios, municipios o la Policía, según el propio plan."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27
+ ],
+ "paginas": 27
+}

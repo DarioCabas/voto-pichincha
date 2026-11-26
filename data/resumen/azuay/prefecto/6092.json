@@ -1,0 +1,140 @@
+{
+ "enfoque": "Plan sobre agua y riego, caminos rurales, producción agrícola y jóvenes. Casi no dice cuánto costará ni de dónde saldrá el dinero.",
+ "tabla": {
+  "vial": [
+   {
+    "t": "Arreglar y dar mantenimiento permanente a la red vial provincial de caminos rurales.",
+    "que": "Mejorar caminos rurales de tierra y piedra, con mantenimiento permanente. El plan no dice cuánto costará ni en qué plazo.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. El plan no dice cuánto costará ni cuándo.",
+    "cita": "Mejorar progresivamente la red vial provincial mediante programas permanentes de rehabilitación y mantenimiento.",
+    "pag": 14
+   },
+   {
+    "t": "Construir y arreglar puentes en lugares estratégicos del Azuay.",
+    "que": "Los puentes se harán en lugares estratégicos y tomando en cuenta el clima. El plan no dice cuáles, cuántos ni cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. El plan no dice qué puentes ni cuánto costará.",
+    "cita": "Construir y rehabilitar puentes en sectores estratégicos con criterios de resiliencia climática.",
+    "pag": 14
+   }
+  ],
+  "riego": [
+   {
+    "t": "Construir, arreglar y modernizar sistemas de riego comunitario.",
+    "que": "Se harán sistemas de riego para las comunidades con criterios de eficiencia y equidad. El plan no dice cuántos ni cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. El plan no dice cuántos sistemas ni en qué plazo.",
+    "cita": "Construir, rehabilitar y modernizar sistemas de riego comunitario con criterios de",
+    "pag": 7
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Restaurar páramos, bosques y humedales que están dañados.",
+    "que": "Dice que se restaurarán miles de hectáreas de páramos, bosques y humedales con las comunidades. El plan no dice cuántas ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. El plan no dice cuántas hectáreas ni en qué plazo.",
+    "cita": "Restaurar miles de hectáreas de páramos, bosques altoandinos, humedales y zonas de recarga hídrica",
+    "pag": 7
+   },
+   {
+    "t": "Compensar con dinero a comunidades y dueños que cuidan páramos y bosques.",
+    "que": "Un fondo para reconocer a quienes conservan los ecosistemas, con incentivos económicos. El plan no dice cuánto dinero tendrá ni cuándo empieza.",
+    "v": "media",
+    "n": "Le toca a la Prefectura, pero depende de recursos nacionales e internacionales.",
+    "cita": "Implementar el Fondo Provincial de Compensación Ambiental para reconocer el aporte de",
+    "pag": 20
+   }
+  ],
+  "produccion": [
+   {
+    "t": "Construir y equipar centros para juntar y procesar la producción agrícola.",
+    "que": "Serán centros de acopio y transformación de productos del campo. El plan no dice en qué lugares se harán ni cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. El plan no dice dónde se harán ni cuánto costará.",
+    "cita": "Construir y equipar una red provincial de centros de acopio y transformación agroindustrial.",
+    "pag": 11
+   },
+   {
+    "t": "Dar asistencia técnica (asesoría de expertos) de forma permanente a agricultores familiares.",
+    "que": "Aumentar la cobertura de asesoría técnica para la agricultura familiar campesina. El plan no dice a cuántos productores llegará ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. El plan no dice a cuántos productores llegará.",
+    "cita": "Incrementar la cobertura de asistencia técnica permanente a productores de agricultura familiar campesina.",
+    "pag": 11
+   },
+   {
+    "t": "Lograr que más productores locales vendan en compras públicas del Estado.",
+    "que": "Busca que más productores locales vendan alimentos y bienes a entidades públicas. El plan no dice cuántos productores ni en qué plazo.",
+    "v": "media",
+    "n": "Depende de las entidades públicas que compran, no solo de la Prefectura.",
+    "cita": "Incrementar la participación de productores locales en procesos de compras públicas de alimentos y bienes.",
+    "pag": 9
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear una página en internet con datos de presupuesto, compras y obras.",
+    "que": "Los datos del presupuesto, las compras públicas, los proyectos y los indicadores estarán en internet. El plan no dice cuándo estará listo.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. El plan no dice cuándo estará ni cuánto costará.",
+    "cita": "Implementar el Portal Provincial de Datos Abiertos con información actualizada sobre",
+    "pag": 23
+   }
+  ],
+  "otros": [
+   {
+    "t": "Crear un fondo de dinero inicial para negocios de jóvenes.",
+    "que": "Dinero para empezar negocios o ideas de jóvenes. El plan no dice cuánto dinero tendrá ni de dónde saldrá.",
+    "v": "media",
+    "n": "Puede apoyar emprendimientos, pero el plan no dice de dónde saldrá el dinero.",
+    "cita": "Crear un Fondo Provincial de Capital Semilla para financiar iniciativas productivas e innovadoras lideradas por jóvenes.",
+    "pag": 17
+   }
+  ]
+ },
+ "metas": [
+  "Período de gobierno 2027–2031.",
+  "Rendición pública de cuentas cada año.",
+  "Espacios permanentes de diálogo en los quince cantones.",
+  "Restaurar miles de hectáreas de páramos, bosques y humedales en 2027–2031.",
+  "Pacto colectivo hacia el 2035."
+ ],
+ "notas": [
+  "El plan casi no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Muchas metas usan palabras generales como \"mejorar\" o \"fortalecer\" sin decir cuánto, dónde ni para quién."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28
+ ],
+ "paginas": 28
+}

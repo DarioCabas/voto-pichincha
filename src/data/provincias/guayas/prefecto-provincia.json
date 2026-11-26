@@ -1,0 +1,850 @@
+{
+  "canton": "provincia",
+  "candidatos": [
+    {
+      "codFormulario": 11290,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan provincial de caminos rurales, puentes, riego solar, créditos y parques de procesamiento. Parte del diagnóstico viene del plan de desarrollo provincial vigente.",
+      "tabla": {
+        "vial": [
+          {
+            "t": "Asfaltar 2.000 km de caminos rurales con asfalto de polímeros.",
+            "que": "Son caminos vecinales de zonas agrícolas. El plan pone 350 millones de dólares: 60% con dinero del Gobierno central y 40% con concesiones y bonos verdes. Obra en 2028-2031.",
+            "v": "media",
+            "n": "Sí le toca a la Prefectura; 40% depende de concesiones y bonos.",
+            "cita": "de 2,000 kilómetros de caminos vecinales con asfalto modificado con polímeros",
+            "pag": 18
+          },
+          {
+            "t": "Construir 75 puentes en pasos de ríos donde los recintos quedan aislados.",
+            "que": "Serán de hormigón y metal en la cuenca baja. Costo de 140 millones de dólares, con dinero del Gobierno central y un fondo no reembolsable de CAF (banco de desarrollo de América Latina). Entrega en 2029-2031.",
+            "v": "media",
+            "n": "Le toca a la Prefectura; parte del dinero depende de CAF.",
+            "cita": "puentes de hormigón armado y estructuras metálicas de alta durabilidad en",
+            "pag": 24
+          }
+        ],
+        "riego": [
+          {
+            "t": "Instalar riego por goteo y aspersión con energía solar en 30.000 fincas.",
+            "que": "Las fincas son unidades de producción agropecuaria. El plan pone 210 millones de dólares y nombra al Banco Mundial como fuente de crédito. Obras de 2027 a 2031.",
+            "v": "media",
+            "n": "Es de la Prefectura; el plan pone al Banco Mundial como fuente.",
+            "cita": "sistemas de riego tecnificado (goteo y aspersión solarizados) en 30,000 Unidades",
+            "pag": 19
+          },
+          {
+            "t": "Perforar 1.500 pozos profundos y arreglar 2.000 albarradas (pozas de agua tradicionales).",
+            "que": "Es agua para la época seca, sobre todo en Pedro Carbo e Isidro Ayora. El plan pone 70 millones de dólares con fondos propios de la Prefectura y dinero del Gobierno central.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura, y el plan dice de dónde sale el dinero.",
+            "cita": "de 1,500 pozos profundos comunitarios y la rehabilitación de 2,000 albarradas",
+            "pag": 19
+          }
+        ],
+        "produccion": [
+          {
+            "t": "Construir 5 plantas para secar, empacar y dar valor a la cosecha.",
+            "que": "Irían en Daule, El Empalme, Naranjal, Milagro y Balzar. El plan pone 50 millones de dólares: 25% la Prefectura y 75% empresas privadas (alianzas público-privadas). Obras de 2027 a 2031.",
+            "v": "media",
+            "n": "La Prefectura pone 25%; el resto depende de empresas privadas.",
+            "cita": "Instalación de 5 complejos de post-cosecha y valor agregado en nodos",
+            "pag": 20
+          },
+          {
+            "t": "Crear un fondo de garantía de 50 millones para créditos a asociaciones agrícolas.",
+            "que": "Los bancos prestan; el fondo cubre las primeras pérdidas. La Prefectura pone 12,5 millones al año, sacados de ahorros en gastos. El plan pone tasas de un dígito, por ejemplo 7%.",
+            "v": "media",
+            "n": "Los créditos los dan los bancos; la Prefectura solo pone la garantía.",
+            "cita": "créditos productivos preferenciales con interés de un sólo dígito a las asociaciones agrícolas y de la Economía Popular y Solidaria (EPS).",
+            "pag": 19
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Plantar caña guadua y árboles nativos en los primeros 50 metros de las orillas de ríos.",
+            "que": "Será en ríos como Daule y Babahoyo. Es parte de un plan de limpieza de ríos de 168 millones de dólares, pagado con un fondo internacional contra el cambio climático y aportes de la Prefectura. El plan no dice cuánto cuesta solo esta parte.",
+            "v": "media",
+            "n": "Es competencia de la Prefectura; parte del dinero viene de fuera.",
+            "cita": "primeros 50 metros de las riberas con Guadua angustifolia (caña guadua) y",
+            "pag": 33
+          }
+        ],
+        "turismo": [
+          {
+            "t": "Construir 25 km de senderos de montaña y miradores de vidrio en Bucay y Naranjito.",
+            "que": "Están en la Cordillera Oriental. El plan pone 25 millones de dólares con fondos de cooperación de España y de la Unión Europea, y el aporte del GAD. Obra prevista 2028-2031. También prevé certificar 120 guías.",
+            "v": "media",
+            "n": "Sí es de la Prefectura, pero depende de fondos de España y Europa.",
+            "cita": "construcción de 25 km de senderos inteligentes, infraestructura pública",
+            "pag": 19
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Bajar el gasto de funcionamiento de la Prefectura del 35% al 22%.",
+            "que": "Es el gasto diario de sueldos y compras. El plan lo pone como meta para el año 4 (2030-2031). No dice cuánto dinero se ahorra.",
+            "v": "alta",
+            "n": "Depende de la misma Prefectura; el plan no dice cuánto ahorra.",
+            "cita": "reduciendo el gasto corriente de la Prefectura del 35% al 22%.",
+            "pag": 19
+          }
+        ],
+        "otros": [
+          {
+            "t": "Reforzar 45 km de muros de piedra en el río Daule en los primeros 90 días.",
+            "que": "Obra de emergencia de mayo a julio de 2027, ante El Niño (lluvias fuertes). Se pagará con un fondo de emergencia de 15 millones de dólares, sacado de gastos de publicidad y eventos. El plan no dice el costo total de los 45 km.",
+            "v": "media",
+            "n": "Gestión de riesgos es compartida con el Gobierno central y los municipios.",
+            "cita": "Reforzamiento y sobreelevación de 45 kilómetros de muros de escollera",
+            "pag": 52
+          }
+        ]
+      },
+      "metas": [
+        "Asfaltar 2.000 km de caminos rurales.",
+        "Construir 75 puentes.",
+        "Riego tecnificado en 30.000 fincas (unidades de producción agropecuaria).",
+        "Perforar 1.500 pozos profundos comunitarios.",
+        "Bajar el gasto de funcionamiento de la Prefectura del 35% al 22%."
+      ],
+      "notas": [
+        "Las cifras no cuadran: hay 2.000 y 2.500 km de vías, y el presupuesto por años suma 450 millones.",
+        "Muchas obras dependen de bancos, préstamos o fondos internacionales que el plan no asegura.",
+        "Plan muy largo (76 págs.): se resumieron las 36 páginas con propuestas."
+      ]
+    },
+    {
+      "codFormulario": 1522,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Se basa en el plan de desarrollo provincial 2024-2027 y el plan anual 2026 ya existentes: caminos rurales, riego, producción, ambiente y turismo, con metas a cuatro años.",
+      "tabla": {
+        "vial": [
+          {
+            "t": "Hacer el inventario de los caminos provinciales y arreglar kilómetros cada año.",
+            "que": "Meta al año 4: 1.500 km arreglados, sumados. Incluye mantenimiento y reparación. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: caminos provinciales y rurales.",
+            "cita": "Actualizar el inventario georreferenciado de la red e intervenir km acumulados mediante mantenimiento, rehabilitación o mejoramiento anual.",
+            "pag": 11
+          },
+          {
+            "t": "Revisar puentes y pasos provinciales y arreglar, reforzar o cambiar los priorizados.",
+            "que": "Meta al año 4: 60 puentes o pasos. De los 186 puentes provinciales, 93 están en zonas expuestas a riesgo. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: los puentes provinciales. Falta el costo.",
+            "cita": "Inspeccionar las estructuras registradas; ejecutar reforzamiento, rehabilitación, reposición o instalación en puentes y pasos priorizados al año.",
+            "pag": 11
+          },
+          {
+            "t": "Arreglar 100 puntos viales peligrosos y señalizar 300 km de caminos.",
+            "que": "Se coordinará con la Policía y el ECU 911 en los puntos críticos. El plan no dice cuánto costará.",
+            "v": "media",
+            "n": "Las obras son suyas; la vigilancia depende de la Policía y ECU 911.",
+            "cita": "Intervenir puntos viales críticos y señalizar, con integración de información de emergencia y coordinación con el Servicio Integrado de Seguridad ECU 911 y la Policía Nacional del Ecuador.",
+            "pag": 11
+          }
+        ],
+        "riego": [
+          {
+            "t": "Actualizar el plan de riego y drenaje y dar ayuda a las juntas de riego registradas.",
+            "que": "Meta al año 4: 88 juntas de riego asistidas, 40 sistemas arreglados y 10.000 hectáreas. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "El riego es competencia de la Prefectura. Falta el presupuesto.",
+            "cita": "Actualizar el Plan Provincial de Riego y Drenaje; brindar asistencia a las juntas registradas;",
+            "pag": 12
+          },
+          {
+            "t": "Arreglar cauces, canales y drenajes, con estudio técnico previo a cada obra.",
+            "que": "Meta al año 4: 300 km. Cada obra debe demostrar que es necesaria, su impacto ambiental y que se podrá mantener. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Riego y cuencas son competencia de la Prefectura.",
+            "cita": "Intervenir km acumulados de cauces, canales o drenajes con sustento técnico;",
+            "pag": 11
+          }
+        ],
+        "produccion": [
+          {
+            "t": "Dar asistencia técnica completa a productores y emprendedores, incluidas mujeres y jóvenes.",
+            "que": "Meta: 20.000 personas y 120 organizaciones. Incluye diagnóstico, mejora técnica, requisitos sanitarios, venta y seguimiento. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "El apoyo productivo es competencia de la Prefectura. Falta el costo.",
+            "cita": "el fomento productivo ofrecerá rutas completas de asistencia: diagnóstico, mejora técnica, requisitos sanitarios, asociatividad, empaque, venta y seguimiento.",
+            "pag": 9
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Plantar árboles nativos y revisar que sigan vivos a los 24 meses.",
+            "que": "Meta al año 4: 400.000 árboles, con al menos 70 % vivos. Solo cuentan los que tienen ubicación en mapa. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Ambiente y cuencas son competencia de la Prefectura.",
+            "cita": "Establecer árboles nativos, sostener viveros comunitarios o institucionales y verificar supervivencia mínima a los 24 meses.",
+            "pag": 13
+          },
+          {
+            "t": "Conservar 2.000 hectáreas con acuerdos y revisar la calidad del agua en 30 puntos.",
+            "que": "Publicar reportes cada seis meses. Meta al año 4: 2.000 hectáreas y 30 puntos de medición. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Ambiente y agua en cuencas son competencia de la Prefectura.",
+            "cita": "Restaurar o conservar mediante acuerdos; operar puntos de monitoreo de calidad de agua y publicar reportes semestrales.",
+            "pag": 13
+          }
+        ],
+        "turismo": [
+          {
+            "t": "Armar 8 rutas turísticas y culturales y apoyar a 200 prestadores, guías o emprendimientos.",
+            "que": "Se medirán visitas, ventas y empleo de cada ruta. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "El turismo es competencia de la Prefectura.",
+            "cita": "Consolidar rutas turísticas y culturales; fortalecer a prestadores, guías, emprendimientos u organizaciones;",
+            "pag": 13
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Poner en línea un portal con todos los proyectos, su costo y su avance.",
+            "que": "Debe estar listo en 180 días y se actualizará cada trimestre con avance físico y financiero. El plan no dice cuánto costará el portal.",
+            "v": "alta",
+            "n": "Depende solo de la Prefectura. Plazo de 180 días.",
+            "cita": "Poner en operación en los primeros 180 días un portal georreferenciado;",
+            "pag": 14
+          }
+        ]
+      },
+      "metas": [
+        "1.500 km de caminos intervenidos, sumados, al año 4.",
+        "60 puentes o pasos intervenidos al año 4.",
+        "100 puntos viales críticos y 300 km señalizados al año 4.",
+        "300 km de cauces, canales o drenajes intervenidos al año 4.",
+        "400.000 árboles establecidos al año 4, con al menos 70 % vivos."
+      ],
+      "notas": [
+        "El plan no dice cuánto costará cada obra. Solo reparte porcentajes del presupuesto entre proyectos.",
+        "Varias metas dependen de convenios con ministerios, municipios o la Policía, según el propio plan."
+      ]
+    },
+    {
+      "codFormulario": 12128,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan de la Prefectura del Guayas para caminos rurales, canales de riego, ayuda a productores y cuencas. Se basa en el plan de desarrollo provincial 2024-2027.",
+      "tabla": {
+        "vial": [
+          {
+            "t": "Dar mantenimiento, rehabilitación y drenaje a corredores productivos y comunitarios de vías provinciales",
+            "que": "Se pagará con recursos provinciales, transferencias, crédito y convenios. El plan no dice cuánto costará ni cuántos km se arreglarán.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: son vías provinciales fuera de la ciudad.",
+            "cita": "Atender corredores productivos y comunitarios mediante mantenimiento, rehabilitación, drenaje, puentes y seguridad vial.",
+            "pag": 7
+          }
+        ],
+        "riego": [
+          {
+            "t": "Rehabilitar canales y sistemas de riego y fortalecer las juntas de riego",
+            "que": "Se pagará con presupuesto provincial, cooperación y convenios. El plan no dice cuántos sistemas ni hectáreas se beneficiarán ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. El plan no dice cuánto costará.",
+            "cita": "Rehabilitar sistemas, canales y obras complementarias; impulsar eficiencia hídrica y fortalecer juntas de riego.",
+            "pag": 8
+          }
+        ],
+        "produccion": [
+          {
+            "t": "Dar asistencia técnica, ayuda para vender y trabajo en grupo a pequeños y medianos productores",
+            "que": "Usará unidades móviles, alianzas con la academia y ferias. El plan no dice cuántos productores atenderá ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: fomento productivo es su competencia.",
+            "cita": "Acercar asistencia técnica, asociatividad, innovación y comercialización a pequeños y medianos productores.",
+            "pag": 8
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Proteger cuencas, humedales y manglares, y prevenir incendios e inundaciones",
+            "que": "Usará restauración, viveros, monitoreo y alertas tempranas, con fondos ambientales y cooperación. El plan no dice cuántas hectáreas ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: gestión ambiental y cuencas.",
+            "cita": "Proteger cuencas, humedales, manglares y zonas de recarga; prevenir incendios e inundaciones y fortalecer alerta temprana.",
+            "pag": 8
+          }
+        ],
+        "turismo": [
+          {
+            "t": "Promover rutas turísticas rurales, comunitarias y de naturaleza junto con los municipios",
+            "que": "Usará inventario de lugares, señalización coordinada, ferias y capacitación. El plan no dice cuántas rutas se crearán ni cuánto costará.",
+            "v": "media",
+            "n": "Depende de los municipios y de otros actores locales.",
+            "cita": "Fortalecer rutas rurales, comunitarias, gastronómicas y de naturaleza mediante promoción y articulación con municipios y actores.",
+            "pag": 7
+          }
+        ],
+        "social": [
+          {
+            "t": "Repartir la inversión entre cantones con reglas públicas según brechas, población rural, producción y riesgo",
+            "que": "Los criterios se harán públicos. El plan no dice qué cantones recibirán más inversión ni cuánto.",
+            "v": "alta",
+            "n": "Es una regla de la propia Prefectura para repartir su inversión.",
+            "cita": "Distribuir la atención provincial con criterios transparentes de brechas, población rural, producción y riesgo.",
+            "pag": 7
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Publicar en un portal obras, contratos, presupuesto e inversión, con mapa y datos descargables",
+            "que": "Usará portal georreferenciado (con mapa), datos abiertos y tableros. El plan no dice cuándo estará listo ni cuánto costará.",
+            "v": "alta",
+            "n": "Es información que la propia Prefectura debe publicar.",
+            "cita": "Publicar información de obras, contratos, indicadores, presupuesto e inversión; fortalecer cooperación y control social.",
+            "pag": 7
+          }
+        ]
+      },
+      "metas": [
+        "Instalar mesas territoriales en los 25 cantones en los primeros 100 días.",
+        "Mantener el gasto de inversión prioritaria en 68 % en 2027 y en 70 % desde 2028.",
+        "Publicar el indicador de gasto cada trimestre.",
+        "Realizar mesas cantonales de priorización al menos una vez al año en cada cantón.",
+        "Hacer una audiencia de mitad de periodo en 2029."
+      ],
+      "notas": [
+        "El plan no pone costos. Tampoco dice cuántos km de vías, hectáreas de riego o productores se atenderán; sus metas son referencias.",
+        "Varias metas dicen solo \"al 2031\" sin número. Antes de votar, pregunte cuánto costará cada obra."
+      ]
+    },
+    {
+      "codFormulario": 10035,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Caminos rurales, riego, ventas para productores y alertas de inundación. Mezcla también salud, educación y policía, que no son de la Prefectura.",
+      "tabla": {
+        "vial": [
+          {
+            "t": "Arreglar y mantener caminos rurales productivos en 25 cantones, con prioridad en Colimes, Palestina, Santa Lucía y Salitre",
+            "que": "Parte de un plan de vías de 120 millones de dólares, con dinero propio y del BEDE (banco público de desarrollo). Meta: 500 km de vías productivas. Plazo: 2027 a 2031.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: son v��as rurales que unen parroquias y cantones.",
+            "cita": "Programa de Caminos Rurales Productivos — 25 cantones, con prioridad en Colimes, Palestina, Santa Lucía, Salitre, entre otros.",
+            "pag": 17
+          },
+          {
+            "t": "Hacer estudios y diseño de un corredor de buses rápidos entre Guayaquil y Daule",
+            "que": "El plan solo habla de estudios y diseño, no de obra. Aliado: Gobierno Central. El plan no dice cuánto costará ni cuándo empezará la obra.",
+            "v": "baja",
+            "n": "Es transporte urbano entre ciudades; le toca al Gobierno Central y a los municipios.",
+            "cita": "Corredor BRT Provincial Guayaquil–Daule — estudios de factibilidad y diseño definitivo.",
+            "pag": 17
+          }
+        ],
+        "riego": [
+          {
+            "t": "Llevar riego tecnificado a 15.000 hectáreas de agricultura familiar en 15 cantones",
+            "que": "Meta: 15.000 hectáreas con riego tecnificado en 2027 a 2031. Sale de 90 millones de dólares del eje productivo; la mitad aún está por definir con otras entidades.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. Parte del dinero depende de otras entidades.",
+            "cita": "Programa Provincial de Riego Tecnificado para la Agricultura Familiar Campesina — 15.000 ha en 15 cantones.",
+            "pag": 18
+          }
+        ],
+        "produccion": [
+          {
+            "t": "Dar asistencia técnica a 30.000 productoras y productores, y tecnificar 50 juntas de riego",
+            "que": "Meta para 2027 a 2031. Sale del eje productivo de 90 millones de dólares, cuya mitad está por definir. El plan no dice qué incluye cada asistencia.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: fomentar la producción agropecuaria.",
+            "cita": "30.000 productoras y productores registrados con asistencia técnica; 50 juntas de riego tecnificadas",
+            "pag": 59
+          },
+          {
+            "t": "Crear una plataforma en internet para vender productos de productores a compradores",
+            "que": "Conecta productores, pescadores, asociaciones y compradores institucionales. Meta: 5.000 productos. El plan pone 85 millones de dólares para comercialización, sin separar esta plataforma.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: fomentar actividades productivas provinciales.",
+            "cita": "Marketplace Guayas Productivo para conectar productoras, productores, asociaciones, pescadoras y pescadores, emprendimientos y compradores institucionales.",
+            "pag": 18
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Restaurar 5.000 hectáreas de riberas y humedales en 12 cantones de la cuenca baja",
+            "que": "Con apoyo del Ministerio de Ambiente (MAATE) y dos organismos internacionales. Parte de 72 millones de dólares del eje de riesgos, con parte aún por definir. Plazo: 2027 a 2031.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: gestión ambiental y cuencas. Parte del dinero es de otras fuentes.",
+            "cita": "Programa de Restauración de Riberas y Humedales del Guayas (infraestructura verde para regulación hídrica) — 5.000 ha en 12 cantones de cuenca baja.",
+            "pag": 15
+          },
+          {
+            "t": "Crear un sistema de alerta de inundaciones con 120 estaciones y protocolos de evacuación",
+            "que": "Incluye plataforma digital y protocolos para evacuar. Trabaja con la Secretaría de Gestión de Riesgos (SNGRE), el BEDE y la cooperación de Japón. El plan pone 72 millones de dólares para un grupo de proyectos de emergencias, sin separar este.",
+            "v": "media",
+            "n": "Le toca a la Prefectura, pero la gestión de riesgos la comparte con otros niveles de gobierno.",
+            "cita": "Sistema Provincial de Alerta Temprana ante Inundaciones \"Río Seguro\" — 120 estaciones, plataforma digital y protocolos de evacuación.",
+            "pag": 15
+          }
+        ],
+        "turismo": [
+          {
+            "t": "Poner señales y obras turísticas en la Ruta del Guayas y promocionarla",
+            "que": "Aliados: Ministerio de Turismo, la Prefectura y el sector hotelero. Plazo de 12 a 48 meses. El plan no dice cuánto costará este proyecto.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: turismo. El plan no pone costo para este proyecto.",
+            "cita": "Corredor Patrimonial \"Ruta del Guayas\" — señalización, infraestructura turística y promoción.",
+            "pag": 18
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Abrir 15 nuevas unidades de policía (UPC) y crear rondas campesinas",
+            "que": "Aliados: Ministerio del Interior y la Prefectura. El plan no dice cuánto costará ni en qué fecha se abrirán.",
+            "v": "baja",
+            "n": "Le toca a la Policía Nacional, no a la Prefectura.",
+            "cita": "Seguridad Rural Guayas — 15 nuevas UPC y sistema de rondas campesinas.",
+            "pag": 19
+          }
+        ],
+        "social": [
+          {
+            "t": "Entregar tablets a estudiantes de bachillerato con contenido ya cargado",
+            "que": "El plan pone 22,5 millones de dólares para varios proyectos de educación, sin separar las tablets. Meta: 20.000 tablets activas. Aliados: Ministerio de Educación.",
+            "v": "baja",
+            "n": "Le toca al Ministerio de Educación, no a la Prefectura.",
+            "cita": "\"Una Casa, Una Aula Digital\": entrega de tablets a estudiantes de bachillerato con contenido precargado",
+            "pag": 20
+          }
+        ]
+      },
+      "metas": [
+        "500 km de vías productivas intervenidas, 2027 a 2031.",
+        "5.000 hectáreas restauradas, 2027 a 2031.",
+        "15.000 hectáreas con riego tecnificado, 2027 a 2031.",
+        "30.000 productoras y productores con asistencia técnica, 2027 a 2031.",
+        "100% de las obras nuevas con código QR y avance publicado, en corto plazo (hasta 12 meses)."
+      ],
+      "notas": [
+        "Mezcla temas de salud, educación y policía, que no son de la Prefectura. Muchas metas dependen de otras entidades.",
+        "El anexo C da costos totales (1.125 millones de dólares), pero varios proyectos tienen parte del dinero por definir.",
+        "Plan muy largo (64 págs.): se resumieron las 43 páginas con propuestas."
+      ]
+    },
+    {
+      "codFormulario": 7464,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Caminos y puentes rurales, riego, río y manglar, y apoyo a productores. Gran parte del dinero depende de créditos aún no asegurados.",
+      "tabla": {
+        "vial": [
+          {
+            "t": "Construir puentes rurales en comunidades aisladas de los ríos Daule, Chimbo, Bulubulu y Cañar.",
+            "que": "Se harán según un estudio técnico y el dinero disponible. El plan no dice cuántos puentes ni cuánto costarán.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. El plan no dice cuánto cuesta ni cuándo.",
+            "cita": "Construir puentes rurales estratégicos en comunidades aisladas por los ríos Daule, Chimbo, Bulubulu y Cañar,",
+            "pag": 13
+          },
+          {
+            "t": "Construir o arreglar 4 vías de 4 carriles entre cantones, junto con el Ministerio de Transporte.",
+            "que": "Corredores: Guayaquil–Daule–Balzar, Guayaquil–Milagro–El Triunfo, Durán–Naranjal y El Empalme–Colimes. El plan no dice cuánto cuesta ni cuándo terminan.",
+            "v": "media",
+            "n": "Lo hace con el Ministerio de Transporte y con préstamos. El plan no dice cuánto cuesta.",
+            "cita": "Construcción y rehabilitación de 4 ejes viales de 4 carriles que conectan los cantones más productivos y con mayor tráfico de carga",
+            "pag": 13
+          },
+          {
+            "t": "Pavimentar o arreglar 120 km de vías en 10 cantones con más atraso vial.",
+            "que": "Cantones: Colimes, Palestina, Isidro Ayora, Alfredo Baquerizo Moreno, Simón Bolívar, Santa Lucía, Balao, Nobol, Salitre y Lomas de Sargentillo. Meta: 120 km en 2 años.",
+            "v": "media",
+            "n": "Las calles dentro de cada cantón son del Municipio. El plan no dice cuánto cuesta ni cómo se paga.",
+            "cita": "Plan Vial Cantonal 2027–2031: pavimentación o rehabilitación de los 10 cantones con mayor rezago vial",
+            "pag": 13
+          }
+        ],
+        "riego": [
+          {
+            "t": "Ampliar albarradas (reservorios de agua), canales de riego y drenaje en cantones de arroz y ganadería.",
+            "que": "Se hará con un crédito de 130 millones de dólares del Banco de Desarrollo del Ecuador, que el plan dice que está asegurado. El plan no dice en qué cantones exactamente.",
+            "v": "alta",
+            "n": "Es competencia de la Prefectura, y el dinero está contratado con el BDE.",
+            "cita": "Expansión del sistema de albarradas, canales de riego y drenaje en cantones arroceros y ganaderos.",
+            "pag": 14
+          }
+        ],
+        "produccion": [
+          {
+            "t": "Construir 4 centros rurales para juntar, guardar en frío y empacar productos en 4 cantones.",
+            "que": "Búsqueda: vender directo a supermercados y exportadoras, sin intermediarios. Meta: operando entre 2027 y 2029. El plan no dice cuánto cuesta.",
+            "v": "alta",
+            "n": "Es apoyo productivo, competencia de la Prefectura. El plan no dice cuánto cuesta.",
+            "cita": "Construcción de 4 Centros Productivos Rurales con infraestructura de acopio, almacenamiento en frío y embalaje en Naranjal, Balzar, Pedro Carbo y El Empalme.",
+            "pag": 11
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Limpiar el río Guayas, controlar descargas contaminantes y medir la calidad del agua.",
+            "que": "Incluye sacar sedimentos del fondo y limpiar las orillas. Se hará con el Ministerio del Ambiente y la Secretaría del Agua. El plan no dice cuánto cuesta ni en qué plazo.",
+            "v": "alta",
+            "n": "Ríos y cuencas son competencia de la Prefectura. El plan no dice cuánto cuesta.",
+            "cita": "Programa integral de preservación y descontaminación de la cuenca del río Guayas: dragado preventivo, control de vertidos, monitoreo de calidad del agua",
+            "pag": 11
+          },
+          {
+            "t": "Sembrar 500.000 árboles nativos en los 25 cantones entre 2027 y 2031.",
+            "que": "Programa «Pulmones Cantonales». Habrá registro de siembra por cantón. El plan no dice cuánto cuesta.",
+            "v": "alta",
+            "n": "Es gestión ambiental, competencia de la Prefectura. El plan no dice cuánto cuesta.",
+            "cita": "500.000 árboles nativos en los 25 cantones durante el período constitucional 2027-2031.",
+            "pag": 14
+          }
+        ],
+        "turismo": [
+          {
+            "t": "Desarrollar un programa de turismo rural y ecoturismo con los municipios.",
+            "que": "Aprovechará reservas naturales, costas, gastronomía y cultura. Costo previsto: USD 1.200.000 (2027-2031). El plan no dice cuándo empieza.",
+            "v": "alta",
+            "n": "El turismo es competencia de la Prefectura. Trabaja con los municipios.",
+            "cita": "El desarrollo de un programa de turismo rural y ecoturismo, articulado con los municipios y aprovechando las reservas naturales",
+            "pag": 18
+          }
+        ],
+        "social": [
+          {
+            "t": "Construir 4 centros de salud en Pedro Carbo–Colimes, Balzar–El Empalme, Naranjal–El Triunfo y Playas–Balao.",
+            "que": "La Prefectura construiría. El Ministerio de Salud y el Seguro Campesino los operarían. Meta: entrega entre 2028 y 2030. El plan no dice cuánto cuesta cada uno.",
+            "v": "baja",
+            "n": "La salud no es de la Prefectura. La operan el Ministerio de Salud y el Seguro Campesino.",
+            "cita": "Construcción y equipamiento de 4 centros de salud de segundo nivel en zonas estratégicas: norte",
+            "pag": 19
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Construir cuarteles para la Policía, solo con convenio o pago compartido con el Ministerio del Interior.",
+            "que": "La Prefectura pondría dinero junto con el Ministerio del Interior. El plan no dice cuántos cuarteles ni cuánto costarán.",
+            "v": "baja",
+            "n": "La policía no es de la Prefectura. Solo podría ayudar con dinero o convenio.",
+            "cita": "Construcción de Cuarteles Intermedios para la Policía Nacional — exclusivamente en cofinanciamiento o convenio con el Ministerio del Interior",
+            "pag": 24
+          }
+        ]
+      },
+      "metas": [
+        "120 km de vías secundarias pavimentadas o arregladas en 2 años, en 10 cantones.",
+        "1.000.000 de propágulos de mangle sembrados, 2027-2031.",
+        "500.000 árboles nativos en los 25 cantones, 2027-2031.",
+        "4 centros productivos rurales construidos y operando, 2027-2029.",
+        "Bajar entre 10% y 20% el costo de la canasta básica de productos de la provincia, en 2 años."
+      ],
+      "notas": [
+        "El plan dice que 71,1% del dinero depende de créditos y ayudas que todavía hay que conseguir.",
+        "Incluye obras de salud y policía, que no son de la Prefectura. Las metas dependen del presupuesto disponible."
+      ]
+    },
+    {
+      "codFormulario": 583,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Arreglar caminos rurales, dar riego y apoyo a productores, y limpiar ríos. Varias propuestas dependen de la policía, del Gobierno nacional o de bancos.",
+      "tabla": {
+        "vial": [
+          {
+            "t": "Reconstruir 1.400 km de caminos vecinales con cemento asfáltico.",
+            "que": "Unos 350 km por año, desde las vías principales hacia parroquias y recintos. Costo estimado: 98 millones. El plan no dice de dónde saldrá ese dinero.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. El plan da costo y ritmo anual.",
+            "cita": "Reconstrucción de 1.400 km de los caminos vecinales desde las vías principales, hacia las",
+            "pag": 19
+          }
+        ],
+        "riego": [
+          {
+            "t": "Desarrollar un programa de riego tecnificado para pequeños y medianos agricultores.",
+            "que": "Riego por aspersión y microaspersión para más de 10.000 familias rurales. El plan no dice cuánto costará; depende de dinero estatal y de bancos.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura, pero el dinero también depende del Estado.",
+            "cita": "Desarrollar un programa de riego asociativo tecnificado para los pequeños y medianos",
+            "pag": 20
+          }
+        ],
+        "produccion": [
+          {
+            "t": "Construir un gran centro para vender frutas y verduras directo al consumidor.",
+            "que": "Se usará el 5% del presupuesto provincial. Beneficia a pequeños agricultores, sobre todo en Guayaquil. El plan no dice el lugar exacto ni la fecha.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. Falta saber dónde y cuándo.",
+            "cita": "Asignar el 5% del Presupuesto del Gobierno Provincial para la construcción de un gran",
+            "pag": 18
+          },
+          {
+            "t": "Apoyar a pequeños y medianos productores para que se asocien y vendan a mejores mercados.",
+            "que": "El plan no dice a cuántos productores ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. Es apoyo a productores rurales.",
+            "cita": "Apoyar a pequeños y medianos productores para asociarse y acceder a mercados de",
+            "pag": 18
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Controlar la contaminación de los ríos causada por la actividad productiva.",
+            "que": "También se combatirá la quema de monte y maleza con alternativas y normas. El plan no dice cómo ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. El plan no dice cómo lo hará.",
+            "cita": "controlando la contaminación de ríos asociada a la actividad productiva y Combatiendo la quema",
+            "pag": 18
+          },
+          {
+            "t": "Limpiar el fondo del río Guayas y sus afluentes (dragado), por fases.",
+            "que": "Se elegirán tramos prioritarios y se harán estudios antes de cada obra. Se buscará dinero de bancos internacionales. El plan no dice cuánto costará.",
+            "v": "media",
+            "n": "Depende de ministerios y bancos, no solo de la Prefectura.",
+            "cita": "Ejecutar el dragado por fases plurianuales (corto, mediano y largo plazo)",
+            "pag": 15
+          }
+        ],
+        "turismo": [
+          {
+            "t": "Apoyar obras para ecoturismo en áreas protegidas, manglares, senderos y miradores.",
+            "que": "Se capacitará a guías locales en turismo de naturaleza. El plan no dice qué obras se harán ni cuánto costarán.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. Faltan obras y costos concretos.",
+            "cita": "Apoyar el desarrollo de infracstructura para el fortalecimiento del ceoturismo con visitas",
+            "pag": 22
+          }
+        ],
+        "social": [
+          {
+            "t": "Ampliar, mejorar o construir centros de salud y escuelas en zonas alejadas.",
+            "que": "El plan no dice cuántos, dónde ni cuánto costará. Lo haría con convenios con los ministerios de Salud y de Educación.",
+            "v": "baja",
+            "n": "Le toca al Gobierno nacional, no a la Prefectura.",
+            "cita": "mediante la ampliación, mejoramiento o construcción de centros de salud y unidades educativas.",
+            "pag": 17
+          },
+          {
+            "t": "Dar prioridad a sistemas de agua de bajo costo y fácil mantenimiento.",
+            "que": "Apoyo a las juntas que manejan el agua en comunidades y a gobiernos parroquiales. El plan no dice cuánto costará.",
+            "v": "baja",
+            "n": "El agua potable es del Municipio, no de la Prefectura.",
+            "cita": "Priorizar sistemas de agua y sancamiento de bajo costo y fácil mantenimiento.",
+            "pag": 18
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Firmar un convenio con los ministerios del Interior y de Defensa contra el robo de ganado.",
+            "que": "El convenio serviría para combatir el robo de ganado y proteger a la gente en zonas de más inseguridad. El plan no dice cuándo se firmará.",
+            "v": "baja",
+            "n": "La policía y el Ejército son del Gobierno nacional.",
+            "cita": "Convenio de Colaboración entre el Ministerio del Interior, El Ministerio de Defensa y la",
+            "pag": 21
+          }
+        ]
+      },
+      "metas": [
+        "Reconstruir 1.400 km de caminos vecinales, unos 350 km por año.",
+        "Inversión estimada de 98 millones para caminos vecinales.",
+        "Destinar el 5% del presupuesto provincial al centro de venta directa.",
+        "Regar con sistema tecnificado a más de 10.000 familias rurales.",
+        "Beneficiar a más de 5.000 niños del área rural (salud y educación)."
+      ],
+      "notas": [
+        "El plan no dice cuánto costarán la mayoría de propuestas ni cuándo empiezan. Varias dependen de fondos del Estado o de bancos.",
+        "Las cifras no cuadran: habla de 5.200 km de caminos vecinales en un apartado y de 1.400 km en otro."
+      ]
+    },
+    {
+      "codFormulario": 5442,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Repite en buena parte metas del plan anterior de la Prefectura (caminos, riego, árboles, turismo) y agrega caminos productivos y apoyo a productores.",
+      "tabla": {
+        "vial": [
+          {
+            "t": "Mantener 4.000 km de caminos vecinales y rehabilitar 900 km con asfalto.",
+            "que": "Es una meta que viene del plan anterior de la Prefectura (2024-2027). El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+            "v": "alta",
+            "n": "Caminos rurales: sí le toca a la Prefectura. Es continuidad de una meta anterior.",
+            "cita": "Mantener 4.000 km de caminos vecinales; rehabilitar 900 km",
+            "pag": 47
+          },
+          {
+            "t": "Mejorar 1.500 km de caminos productivos, empezando con 100 km en los primeros 100 días.",
+            "que": "El plan dice que empieza con 100 km en 100 días y llega a 1.500 km al cierre. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Caminos rurales: sí le toca a la Prefectura. Falta saber el costo.",
+            "cita": "Meta 1.500 km de Mejoramiento Vial y Caminos Productivos",
+            "pag": 75
+          },
+          {
+            "t": "Ampliar 33 km de vías concesionadas y construir una estación de peaje.",
+            "que": "Lo harían empresas concesionarias con financiamiento externo, no la Prefectura directamente. El plan no dice cuánto costará.",
+            "v": "media",
+            "n": "Depende de empresas privadas y de financiamiento externo.",
+            "cita": "Ampliar 33 km viales; mantener 330 km; construir estación de peaje",
+            "pag": 47
+          }
+        ],
+        "riego": [
+          {
+            "t": "Construir o arreglar 20 km de canales de riego y llegar a 6.358 ha con riego.",
+            "que": "Es una meta del plan anterior, con horizonte 2027. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+            "v": "alta",
+            "n": "El riego es competencia de la Prefectura.",
+            "cita": "Construir/rehabilitar 20 km de canales; incrementar a 6.358 ha",
+            "pag": 47
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Sembrar 506.000 árboles nativos en zonas deforestadas y de protección ambiental.",
+            "que": "Es una meta del plan anterior, con horizonte 2027. El plan no dice cuánto costará ni quién lo paga.",
+            "v": "alta",
+            "n": "La gestión ambiental sí le toca a la Prefectura.",
+            "cita": "Sembrar 506.000 árboles nativos en zonas desforestadas y de",
+            "pag": 46
+          },
+          {
+            "t": "Instalar 40 puntos de control de la calidad del agua y 9 acciones contra la contaminación del río Guayas.",
+            "que": "Parte de un programa de la cuenca del río Guayas que necesita acuerdos con municipios. El plan no dice cuánto costará.",
+            "v": "media",
+            "n": "Depende de convenios con municipios y el Ministerio del Ambiente.",
+            "cita": "Implementar 40 puntos de monitoreo de calidad de agua; 9",
+            "pag": 46
+          }
+        ],
+        "produccion": [
+          {
+            "t": "Mejorar la producción de 346.508 animales del sector pecuario, acuícola y agrícola.",
+            "que": "Busca beneficiar al 70% de pequeños agricultores y fortalecer a 3.051 recolectores. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "El apoyo al campo y la producción sí le toca a la Prefectura.",
+            "cita": "Mejorar producción de 346.508 animales; fortalecer a 3.051",
+            "pag": 47
+          }
+        ],
+        "turismo": [
+          {
+            "t": "Llevar la marca 'Guayas' a 38 ferias y hacer 40 actividades de articulación turística.",
+            "que": "Es una meta del plan anterior, con horizonte 2027. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Turismo y promoción: le toca a la Prefectura.",
+            "cita": "Posicionar la marca 'Guayas' en 38 ferias; ejecutar 40 actividades",
+            "pag": 47
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Ayudar a 25 municipios a formar sus consejos de seguridad ciudadana.",
+            "que": "El plan no dice cuánto costará ni cuándo. La policía y el orden público son del Gobierno nacional.",
+            "v": "media",
+            "n": "La Prefectura solo coordina; la policía no le toca.",
+            "cita": "Fortalecer a 25 GADs Municipales para conformación del Consejo",
+            "pag": 47
+          }
+        ],
+        "social": [
+          {
+            "t": "Construir 2.000 viviendas como parte del plan habitacional.",
+            "que": "El plan admite que va en 2,05% de avance (2025). No dice cuánto costará ni cómo se pagará.",
+            "v": "baja",
+            "n": "La vivienda le toca al Gobierno nacional y a los municipios.",
+            "cita": "Construir 2.000 viviendas como parte del plan habitacional",
+            "pag": 47
+          }
+        ]
+      },
+      "metas": [
+        "Mantener 4.000 km de caminos vecinales y rehabilitar 900 km con asfalto (meta del plan anterior).",
+        "Llegar a 1.500 km de caminos productivos: 100 km en los primeros 100 días.",
+        "Sembrar 506.000 árboles nativos (meta con horizonte 2027).",
+        "Construir o rehabilitar 20 km de canales y llegar a 6.358 ha con riego (horizonte 2027).",
+        "Beneficiar al 70% de pequeños agricultores."
+      ],
+      "notas": [
+        "Gran parte del plan repite metas del plan de desarrollo provincial 2024-2027. Casi todas las propuestas no dicen cuánto cuestan ni de dónde sale el dinero.",
+        "Incluye temas de seguridad y vivienda que son del Gobierno nacional o de los municipios, no de la Prefectura.",
+        "Plan muy largo (94 págs.): se resumieron las 39 páginas con propuestas."
+      ]
+    },
+    {
+      "codFormulario": 11168,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Caminos rurales, riego y apoyo a productores del Guayas, con presupuesto indicativo de USD 887 millones para 2027-2031. Seguridad solo por convenio con la Policía.",
+      "tabla": {
+        "vial": [
+          {
+            "t": "Arreglar la superficie y los desagües de caminos productivos: 1.200 km hasta 2031.",
+            "que": "Se hará en los caminos que sacan la producción del campo. El plan no dice cuánto costará cada kilómetro ni en qué orden se harán.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. Usará un índice de brecha para elegir los caminos.",
+            "cita": "Mejoramiento de la capa de rodadura y construcción de obras de arte y drenaje vial en los corredores producvos prioritarios de la provincia.",
+            "pag": 15
+          }
+        ],
+        "riego": [
+          {
+            "t": "Proteger los 16 sistemas de riego y embalses frente a las inundaciones.",
+            "que": "Todos los sistemas de riego y embalses de la provincia están en zona de inundación, según el plan. Meta: los 16 protegidos hasta 2031. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: el riego provincial es su competencia.",
+            "cita": "Programa de protección y rehabilitación de los 16 sistemas de riego y embalses de la provincia frente al riesgo de inundación y movimientos en masa idencado en el PDOT.",
+            "pag": 17
+          }
+        ],
+        "produccion": [
+          {
+            "t": "Construir centros de acopio, secado y almacenamiento para pequeños productores.",
+            "que": "Meta: 25 centros construidos o equipados hasta 2031. Se darán primero a las cadenas con más pequeños productores. El plan no dice dónde se ubicarán.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: fomentar la producción agropecuaria es su competencia.",
+            "cita": "Centros de acopio, infraestructura de poscosecha, secado, almacenamiento y frío, priorizados por cadena y por volumen de pequeños productores.",
+            "pag": 8
+          },
+          {
+            "t": "Dar asistencia técnica a productores, con técnicos que trabajen en el territorio.",
+            "que": "Meta: 30.000 productores con asistencia técnica sostenida hasta 2031. El eje de fomento productivo y turismo tiene USD 124 millones (indicativo).",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. Es apoyo técnico, no obra.",
+            "cita": "Programa provincial de asistencia técnica y transferencia tecnológica permanente, con técnicos en territorio y no solo eventos de capacitación.",
+            "pag": 15
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Reforestar y restaurar 5.000 hectáreas de riberas y zonas de recarga de agua.",
+            "que": "Prioridad: riberas, zonas de recarga y áreas que protegen caminos y riego. Meta: 5.000 hectáreas hasta 2031. El plan no dice cuánto costará; el eje ambiental tiene USD 62 millones (indicativo).",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: la gestión ambiental provincial es su competencia.",
+            "cita": "Programa provincial de reforestación y restauración de áreas degradadas, con prioridad en riberas, zonas de recarga y áreas de protección de infraestructura hídrica y vial.",
+            "pag": 15
+          }
+        ],
+        "turismo": [
+          {
+            "t": "Crear rutas provinciales de turismo rural con señalización y promoción digital.",
+            "que": "Meta: 10 rutas activas y operando hasta 2031. El plan dice que el turismo rural tendrá presupuesto propio. No dice cuánto costará cada ruta.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. Algunas partes dependen del Ministerio de Turismo y los municipios.",
+            "cita": "Turismo rural con presupuesto propio: rutas provinciales —agroturismo, ruta del arroz y del cacao, turismo uvial, cultura montuvia, gastronomía—, señalización, formación de prestadores y promoción digital",
+            "pag": 19
+          }
+        ]
+      },
+      "metas": [
+        "Red vial provincial inventariada y evaluada al 100% (6.419,75 km) en 2028.",
+        "1.200 km de corredores productivos prioritarios intervenidos hasta 2031.",
+        "40.000 hectáreas nuevas incorporadas a riego hasta 2031.",
+        "30.000 productores con asistencia técnica sostenida hasta 2031.",
+        "Ejecución presupuestaria de al menos 90% cada año."
+      ],
+      "notas": [
+        "La seguridad es competencia de la Policía. La Prefectura solo aporta caminos, energía y cámaras por convenio.",
+        "El presupuesto de USD 887 millones es indicativo: supone el mismo gasto de 2025 cada año. No es costo por obra."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+ "enfoque": "Caminos rurales, riego, cuidado de páramos y agua, y apoyo a productores y turismo. Gran parte del texto copia el plan de desarrollo de la provincia (PDOT).",
+ "tabla": {
+  "vial": [
+   {
+    "t": "Hacer un plan de caminos rurales que conecte zonas agrícolas, turísticas, educativas y de salud.",
+    "que": "El plan incluye mantenimiento, mejora de caminos, drenaje, puentes y prevención de riesgos. No dice cuánto costará en esta parte. En el plan de inversión, caminos vecinales cuestan 14.335.652,20 dólares de 2027 a 2035.",
+    "v": "alta",
+    "n": "Caminos rurales entre parroquias y zonas productivas: le toca a la Prefectura.",
+    "cita": "Priorizar un plan vial rural productivo que conecte zonas agrícolas, turísticas, educativas y de salud",
+    "pag": 35
+   }
+  ],
+  "riego": [
+   {
+    "t": "Construir reservorios para guardar agua de riego y hacer riego por goteo.",
+    "que": "El plan no dice cuánto costará en esta frase. En el plan de inversión, los reservorios cuestan 3.266.663,92 dólares de 2027 a 2035.",
+    "v": "alta",
+    "n": "El riego es competencia de la Prefectura.",
+    "cita": "Implementación de riego por goteo y construcción de reservorios",
+    "pag": 34
+   },
+   {
+    "t": "Modernizar canales de riego y pasar a riego parcelario tecnificado.",
+    "que": "El plan no dice cuánto costará ni cuándo. Meta: 5.000 hectáreas tecnificadas hasta 2028, 15.000 hasta 2031 y 30.000 hasta 2035.",
+    "v": "alta",
+    "n": "El riego es competencia de la Prefectura.",
+    "cita": "Modernizar los sistemas de riego provincial mediante rehabilitación de canales, tecnificación parcelaria",
+    "pag": 34
+   }
+  ],
+  "produccion": [
+   {
+    "t": "Crear centros de acopio y de transformación para productos del campo.",
+    "que": "El plan no dice cuánto costará ni quién los administrará. Meta: 2 centros hasta 2028, 5 hasta 2031 y 8 hasta 2035.",
+    "v": "alta",
+    "n": "Apoyo a productores: sí es competencia de la Prefectura.",
+    "cita": "Fortalecer cadenas de valor agropecuarias, artesanales, turísticas y de economía popular y solidaria mediante centros de acopio",
+    "pag": 35
+   },
+   {
+    "t": "Poner en marcha IMBA, una aplicación para comprar y vender productos del campo sin intermediarios.",
+    "que": "El plan no dice cómo se mantendrá después. En el plan de inversión, IMBA cuesta 100.000 dólares de 2027 a 2035, con alianza público-privada.",
+    "v": "alta",
+    "n": "Apoyo a la venta de productores: sí es competencia de la Prefectura.",
+    "cita": "IMBA es una plataforma digital disponible como aplicación móvil y página web",
+    "pag": 40
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger páramos y recuperar fuentes de agua con un programa provincial.",
+    "que": "El plan no dice cuánto costará. Meta: 10.000 hectáreas de páramo protegidas hasta 2028, 30.000 hasta 2031 y 50.000 hasta 2035.",
+    "v": "alta",
+    "n": "Cuencas y páramos: competencia de la Prefectura.",
+    "cita": "Implementar un programa provincial de seguridad hídrica que articule conservación de fuentes, protección de páramos, monitoreo de calidad de agua",
+    "pag": 34
+   },
+   {
+    "t": "Reforestar zonas degradadas y prevenir incendios forestales en toda la provincia.",
+    "que": "El plan no dice cuánto costará en esta frase. Meta: 5.000 hectáreas reforestadas hasta 2028, 12.000 hasta 2031 y 20.000 hasta 2035.",
+    "v": "alta",
+    "n": "Gestión ambiental provincial: competencia de la Prefectura.",
+    "cita": "Ejecutar un plan provincial de restauración ecológica, reforestación productiva y prevención de incendios forestales",
+    "pag": 34
+   }
+  ],
+  "turismo": [
+   {
+    "t": "Crear una estrategia de turismo sostenible y geoturismo en toda la provincia.",
+    "que": "El plan no dice cuánto costará ni cuándo. Meta: 3 corredores turísticos hasta 2028, 7 hasta 2031 y 12 hasta 2035.",
+    "v": "alta",
+    "n": "El turismo sí es competencia de la Prefectura.",
+    "cita": "Consolidar una estrategia de turismo sostenible y geoturismo provincial, articulando rutas, comunidades, infraestructura turística, promoción digital y capacitación de operadores locales",
+    "pag": 35
+   }
+  ],
+  "social": [
+   {
+    "t": "Hacer un programa para cuidar la cultura: saberes, fiestas, rituales y el idioma kichwa.",
+    "que": "El plan no dice cuánto costará con esta frase. En el plan de inversión, el programa del kichwa cuesta 178.033,28 dólares de 2027 a 2035.",
+    "v": "media",
+    "n": "Cultura: la Prefectura puede hacerlo junto al Ministerio de Cultura.",
+    "cita": "Ejecutar un programa de revitalización cultural provincial que fortalezca, saberes ancestrales, rituales, fiestas",
+    "pag": 35
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Crear una estrategia de convivencia y seguridad comunitaria.",
+    "que": "El plan no dice cuánto costará ni cuándo, ni cómo se hará.",
+    "v": "baja",
+    "n": "La policía y la seguridad no le tocan a la Prefectura.",
+    "cita": "Impulsar una estrategia provincial de convivencia y seguridad comunitaria",
+    "pag": 35
+   }
+  ]
+ },
+ "metas": [
+  "Caminos: 300 km (2027-2028), 800 km acumulados (2029-2031) y 1.500 km acumulados (2032-2035).",
+  "Reservorios para riego: 5 (2027-2028), 15 (2029-2031) y 25 (2032-2035).",
+  "Riego parcelario tecnificado: 5.000 ha, 15.000 ha y 30.000 ha en los mismos plazos.",
+  "Reforestación: 5.000 ha, 12.000 ha y 20.000 ha en los mismos plazos.",
+  "Centros de acopio y transformación: 2, 5 y 8 en los mismos plazos."
+ ],
+ "notas": [
+  "El plan repite fechas distintas (2030, 2035, 2040 y 2060) y copia partes del plan de desarrollo de la provincia (PDOT). Revise el plan completo.",
+  "Muchos proyectos no tienen costo propio. El mismo monto de 3.266.663,92 dólares aparece en cuatro proyectos de riego distintos."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33,
+  34,
+  35,
+  36,
+  37,
+  38,
+  39,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  51,
+  52,
+  53,
+  54
+ ],
+ "paginas": 54
+}

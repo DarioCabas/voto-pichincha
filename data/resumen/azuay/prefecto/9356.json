@@ -1,0 +1,175 @@
+{
+ "enfoque": "Sigue en gran parte el plan de desarrollo provincial ya existente: caminos rurales, riego, cuidado del agua, producción y una Prefectura con informes.",
+ "tabla": {
+  "ambiente": [
+   {
+    "t": "Plantar 1 millón de árboles en el Azuay hasta 2031.",
+    "que": "Meta: 1.000.000 de árboles al 2031, en cuencas del Paute, Jubones y León. Costo referencial: $1.576.800. Depende de fondos propios y convenios.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura; los convenios y la cooperación aún deben aprobarse.",
+    "cita": "referencias como 1 Millón de Árboles para el Azuay, Comunidades por la Vida y Circuitos Cortos",
+    "pag": 148
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Juntar proyectos, contratos, presupuesto y resultados en un solo sistema digital.",
+    "que": "Odoo es la plataforma que la Prefectura ya usa. No reemplaza los sistemas oficiales. El plan no dice cuánto costará ni cuándo estará lista.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura; es su propio sistema interno.",
+    "cita": "El GADPA consolidará sobre Odoo, plataforma ya utilizada institucionalmente, un sistema interoperable que vincule territorio, proyectos",
+    "pag": 209
+   },
+   {
+    "t": "Revisar los avances cada mes y evaluar cada año en público.",
+    "que": "Actualización mensual, revisión cada seis meses y evaluación pública cada año. Evaluación intermedia en 2029 y final en 2031. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura; es control interno y público de sus propias metas.",
+    "cita": "El ciclo de seguimiento comprenderá actualización mensual por las unidades ejecutoras, conciliación trimestral físico-financiera, revisión semestral del Comité de Gestión y evaluación anual pública.",
+    "pag": 43
+   },
+   {
+    "t": "Publicar informes por eje y por territorio, además de la rendición de cuentas anual.",
+    "que": "Informe por eje y por territorio cada seis meses, con lo planeado, gastado y entregado. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura; depende de su propio trabajo.",
+    "cita": "Además del proceso anual, el GADPA publicará reportes por eje y territorio",
+    "pag": 225
+   }
+  ],
+  "produccion": [
+   {
+    "t": "Hacer ferias de productos del campo: ejecutar todas las planificadas hasta 2031.",
+    "que": "Meta: el 100 % de las ferias planificadas hasta 2031. El plan no dice cuántas ferias habrá ni cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: fomentar la producción es su competencia.",
+    "cita": "A 2031, ejecutar el 100 % de ferias agro productivas planificadas",
+    "pag": 213
+   }
+  ],
+  "riego": [
+   {
+    "t": "Unir cada obra de riego con planes de producción, mantenimiento y cuidado del agua.",
+    "que": "Costo de $234.284 en 2027–2028 para intervenir sistemas de riego de organizaciones regantes. El plan no dice cuántos sistemas arreglará.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: el riego es competencia provincial.",
+    "cita": "La política provincial deberá vincular cada inversión en riego con planes productivos, fortalecimiento organizativo, protección de fuentes, reducción de pérdidas y mecanismos de mantenimiento.",
+    "pag": 75
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Hacer prevención y convivencia, sin funciones de policía.",
+    "que": "La Prefectura haría prevención y trabajo con comunidades. La seguridad pública y la Policía son del Gobierno nacional. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Solo prevención. La seguridad y la Policía son del Gobierno nacional.",
+    "cita": "El instrumento deberá concentrar el papel provincial en prevención, convivencia, recuperación comunitaria y coordinación, sin asumir funciones policiales.",
+    "pag": 138
+   }
+  ],
+  "social": [
+   {
+    "t": "Arreglar la casa básica de familias rurales priorizadas.",
+    "que": "Meta: todas las intervenciones programadas y financiadas. Cada hogar tendrá ficha y registro para evitar duplicados. El plan no dice cuántos hogares.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: la vivienda rural es parte de sus funciones.",
+    "cita": "Cada hogar deberá contar con ficha socioeconómica, informe técnico, autorización correspondiente y registro único para evitar duplicidad.",
+    "pag": 215
+   }
+  ],
+  "vial": [
+   {
+    "t": "Asfaltar más kilómetros de vías rurales y darles mantenimiento.",
+    "que": "Meta: 300 km de vías con mantenimiento al 2031. El plan no dice cuántos km asfaltará ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura, en vías rurales. El plan no da el costo total.",
+    "cita": "Ampliar kilómetros asfaltados, incorporar monitoreo vial, desarrollar corredores verdes",
+    "pag": 156
+   },
+   {
+    "t": "Construir, rehabilitar o reforzar puentes que den paso a comunidades y producción.",
+    "que": "Meta: el 100 % de los puentes financiados. El plan no dice cuántos puentes se harán ni cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura si el puente está en vía provincial rural.",
+    "cita": "Se priorizarán estructuras que aseguren continuidad vial, acceso comunitario y salida de la producción",
+    "pag": 178
+   }
+  ]
+ },
+ "metas": [
+  "1.000.000 de árboles plantados al 2031.",
+  "300 km de vías con mantenimiento al 2031.",
+  "100 % de los sistemas de riego programados y financiados, intervenidos.",
+  "Evaluación intermedia en 2029 y evaluación final en 2031.",
+  "Plan Integral de gestión de riesgos aprobado en 2031."
+ ],
+ "notas": [
+  "Gran parte del plan repite el plan de desarrollo de la provincia y planes que aún no terminan. Muchas metas no dicen costo ni fecha.",
+  "Los planes de vías, turismo y riesgos figuran como sin terminar. Sin ellos, las metas viales y de riesgo no tienen base clara.",
+  "Plan muy largo (230 págs.): se resumieron las 60 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  2,
+  13,
+  14,
+  15,
+  16,
+  19,
+  21,
+  22,
+  29,
+  30,
+  32,
+  37,
+  38,
+  39,
+  43,
+  50,
+  61,
+  65,
+  75,
+  112,
+  119,
+  126,
+  127,
+  130,
+  133,
+  134,
+  135,
+  136,
+  137,
+  138,
+  139,
+  141,
+  142,
+  148,
+  156,
+  159,
+  165,
+  166,
+  167,
+  170,
+  173,
+  178,
+  182,
+  183,
+  184,
+  186,
+  201,
+  202,
+  209,
+  210,
+  213,
+  214,
+  215,
+  217,
+  218,
+  219,
+  220,
+  222,
+  225,
+  226
+ ],
+ "paginas": 230
+}

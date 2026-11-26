@@ -1,0 +1,164 @@
+{
+ "enfoque": "Propone arreglar caminos rurales, riego, cuidado de páramos y agua, apoyo a productores y turismo. No dice cuánto costará ni cuándo.",
+ "tabla": {
+  "vial": [
+   {
+    "t": "Arreglar y mejorar vías rurales provinciales que unen comunidades, parroquias y cabeceras cantonales.",
+    "que": "El plan no dice cuántos kilómetros ni cuánto costará. Dice \"progresivamente\", sin fecha. Da prioridad a vías que unen comunidades.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. El plan no dice de dónde saldrá el dinero.",
+    "cita": "Ejecutar progresivamente la rehabilitación y mejoramiento de las vías provinciales rurales, priorizando aquellas que conecten comunidades, parroquias",
+    "pag": 11
+   },
+   {
+    "t": "Dar mantenimiento programado a las vías provinciales: lastre, limpieza de cunetas y arreglo de drenajes.",
+    "que": "El plan no dice con qué frecuencia se hará ni cuánto costará. Incluye también reconformación de vías y compactación.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. Falta el costo.",
+    "cita": "Establecer un sistema programado de mantenimiento preventivo y correctivo de la red vial provincial",
+    "pag": 11
+   },
+   {
+    "t": "Mejorar vías que llevan productos y turistas a zonas agrícolas, ganaderas y turísticas, y a mercados.",
+    "que": "El plan no dice qué vías se harán primero ni cuánto costará. Busca reducir tiempos y costos de transporte.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. Falta plazo y costo.",
+    "cita": "Priorizar el mejoramiento de vías que conectan zonas agrícolas, ganaderas, agroindustriales y turísticas con mercados",
+    "pag": 11
+   },
+   {
+    "t": "Construir, arreglar y mantener puentes, alcantarillas y muros de protección en las vías provinciales.",
+    "que": "El plan no dice en qué lugares ni cuántos puentes se harán, ni cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. Faltan lugares y costos.",
+    "cita": "Construir, rehabilitar y mantener puentes, alcantarillas, cunetas, muros y estructuras de protección",
+    "pag": 11
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Cuidar, recuperar y restaurar páramos y bosques dañados, con un programa permanente.",
+    "que": "El plan no dice qué áreas se atenderán primero ni cuánto costará. Dice que dará prioridad a zonas que cuidan el agua.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. Falta presupuesto y lugares.",
+    "cita": "Implementar un programa permanente de conservación, restauración y recuperación de páramos, bosques",
+    "pag": 9
+   },
+   {
+    "t": "Sembrar árboles con campañas permanentes en zonas dañadas y cerca de fuentes de agua.",
+    "que": "El plan no dice cuántos árboles se sembrarán ni en qué lugares exactos. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. Faltan metas y costos.",
+    "cita": "Desarrollar campañas permanentes de reforestación y restauración ecológica con especies apropiadas",
+    "pag": 11
+   }
+  ],
+  "riego": [
+   {
+    "t": "Arreglar y mantener los sistemas de riego existentes, empezando por la infraestructura más dañada.",
+    "que": "El plan no dice cuántos sistemas se arreglarán ni cuánto costará. Da prioridad a zonas con más potencial productivo.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. Falta el costo.",
+    "cita": "Rehabilitar, mejorar y mantener los sistemas de riego existentes, priorizando infraestructura deteriorada",
+    "pag": 13
+   },
+   {
+    "t": "Hacer obras de riego y drenaje en zonas con buen potencial agrícola pero poca agua.",
+    "que": "El plan dice que se hará según estudios técnicos. No dice dónde, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. Faltan lugares y dinero.",
+    "cita": "Gestionar y ejecutar infraestructura de riego y drenaje en áreas con potencial agropecuario",
+    "pag": 13
+   }
+  ],
+  "produccion": [
+   {
+    "t": "Ayudar a transformar productos del campo para venderlos con más valor.",
+    "que": "El plan no dice qué productos ni cuántos productores recibirán apoyo. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. Es apoyo a productores.",
+    "cita": "Promover procesos de transformación de productos agropecuarios para incrementar su valor agregado",
+    "pag": 13
+   },
+   {
+    "t": "Organizar ferias y ruedas de negocios para vender directo de productores a consumidores.",
+    "que": "El plan no dice cuántas ferias ni en qué lugares. No dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. Falta detalle y costo.",
+    "cita": "Fortalecer mecanismos de comercialización directa entre productores y consumidores mediante ferias",
+    "pag": 13
+   },
+   {
+    "t": "Dar asistencia técnica a las cadenas de leche, cacao, mora y caña de azúcar.",
+    "que": "El plan no dice a cuántos productores llegará ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. Falta costo y plazo.",
+    "cita": "Fortalecer las cadenas de leche, cacao, mora, caña de azúcar y demás productos estratégicos",
+    "pag": 13
+   }
+  ],
+  "turismo": [
+   {
+    "t": "Diseñar rutas turísticas que unan naturaleza, cultura, comida y turismo comunitario.",
+    "que": "El plan no dice qué rutas se harán ni cuánto costará. Incluye promoción y apoyo a prestadores locales.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. Falta plazo.",
+    "cita": "Diseñar y fortalecer rutas y productos turísticos provinciales articulando naturaleza, cultura, producción",
+    "pag": 15
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Usar herramientas digitales para seguir el avance y el dinero de cada obra provincial.",
+    "que": "El plan no dice cuánto costará ni para cuándo estará listo el sistema.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. Falta costo y plazo.",
+    "cita": "Implementar herramientas digitales que permitan monitorear avance físico, presupuestario, contractual y territorial de las obras",
+    "pag": 15
+   },
+   {
+    "t": "Hacer convenios con los siete municipios, las juntas parroquiales y el Gobierno Central para financiar proyectos.",
+    "que": "El plan no dice qué proyectos ni cuánto dinero se conseguirá, ni en qué plazo.",
+    "v": "media",
+    "n": "Depende de otros: municipios y Gobierno Central.",
+    "cita": "Gestionar convenios y alianzas con los siete GAD municipales, gobiernos parroquiales, Gobierno Central",
+    "pag": 15
+   }
+  ]
+ },
+ "metas": [
+  "Informes públicos de avance cada trimestre.",
+  "Rendición pública de cuentas una vez al año.",
+  "Asamblea provincial de participación ciudadana al menos 3 veces al año.",
+  "Audiencias públicas en los cantones cada seis meses.",
+  "Tablero público de metas actualizado cada trimestre."
+ ],
+ "notas": [
+  "El plan no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+  "Muchas propuestas no dicen lugares ni fechas. Parte del texto copia el diagnóstico del plan de desarrollo de la provincia."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20
+ ],
+ "paginas": 20
+}

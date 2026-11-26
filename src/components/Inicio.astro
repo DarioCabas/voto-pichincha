@@ -19,8 +19,14 @@ if (prov === 'pichincha') {
   for (const c of prefectos) indice.push({ n: `${c.prefecto} / ${c.vice}`, p: c.partido, l: c.lista, d: 'Prefectura', u: `/prefectura/#f-l${c.lista.replace(/\W/g, '')}` });
   resumen.prefectura = { listas: prefectos.length, terr: 'toda la provincia', ia: false };
 }
-for (const d of dignidades.filter((x) => x.slug !== 'prefectura')) {
+for (const d of dignidades.filter((x) => x.slug !== 'prefectura' || prov !== 'pichincha')) {
   const ts = territorios(d, prov);
+  if (!d.territorio) {
+    const cands = ts.flatMap((t) => t.cands);
+    resumen[d.slug] = { listas: cands.length, terr: 'toda la provincia', ia: cands.some((c) => c.auto) };
+    for (const c of cands) indice.push({ n: (c.personas ?? []).map((p) => p.nombre).join(', ') || c.titulo, p: c.partido, l: c.lista, d: d.nombre, u: `/${d.slug}/#f-${c.id}` });
+    continue;
+  }
   const unidad = d.territorio === 'sub' ? (d.slug === 'junta-parroquial' ? 'parroquias' : 'circunscripciones') : d.territorio === 'grupo' ? 'listas nacionales' : 'cantones';
   resumen[d.slug] = { listas: ts.reduce((a, t) => a + t.n, 0), terr: `${ts.length} ${unidad}`, ia: ts.some((t) => t.cands.some((c) => c.auto)) };
   for (const t of ts) for (const c of t.cands)

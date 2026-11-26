@@ -9,6 +9,7 @@ const ROOT = path.resolve(__dirname, '..');
 const BASE = 'https://votoinformado.cne.gob.ec/voto-informado';
 
 const DIGNIDADES = [
+  { slug: 'prefecto', cod: 2, nombre: 'PREFECTO Y VICEPREFECTO', ambito: 'P' }, // solo provincia, sin cantón
   { slug: 'alcalde', cod: 4, nombre: 'ALCALDE', ambito: 'C' },
   { slug: 'concejal-urbano', cod: 5, nombre: 'CONCEJALES URBANOS', ambito: 'C' },
   { slug: 'concejal-rural', cod: 3, nombre: 'CONCEJALES RURALES', ambito: 'C' },
@@ -35,7 +36,8 @@ const only = argv;
   });
   const opts = (id) => p.evaluate((id) => [...(document.querySelector('#' + id)?.options ?? [])].slice(1).map((o) => ({ v: o.value, t: o.textContent.trim() })), id);
 
-  for (const d of DIGNIDADES.filter((d) => !only.length || only.includes(d.slug))) {
+  // Pichincha tiene su prefectura curada a mano en data/raw/prefecto.json (otro formato): no se toca
+  for (const d of DIGNIDADES.filter((d) => (!only.length || only.includes(d.slug)) && !(d.slug === 'prefecto' && PROVINCIA === 'PICHINCHA'))) {
     const outJson = path.join(ROOT, 'data/raw', `${PROV}${d.slug}.json`);
     const pdfDir = path.join(ROOT, 'public/planes', PROV + d.slug);
     fs.mkdirSync(pdfDir, { recursive: true });
@@ -51,8 +53,8 @@ const only = argv;
     const pv = (await opts('provincia')).find((o) => o.t === PROVINCIA).v;
     const codProv = String(pv).split(':').pop().trim(); // el select usa "índice: código"
     await p.select('#provincia', pv); await wait(2000);
-    const filtros = [];
-    for (const c of await opts('canton')) {
+    const filtros = d.ambito === 'P' ? [{ canton: { v: null, t: null } }] : [];
+    if (d.ambito !== 'P') for (const c of await opts('canton')) {
       if (!d.sub) { filtros.push({ canton: c }); continue; }
       await p.select('#canton', c.v); await wait(2200);
       for (const s of await opts(d.sub)) filtros.push({ canton: c, sub: s });
@@ -62,21 +64,21 @@ const only = argv;
     // 2) Para cada filtro: buscar, listar organizaciones, abrir cada una y bajar su plan
     for (const f of filtros) {
       orgs = null;
-      await p.goto(dignUrl, { waitUntil: 'networkidle2' }); await p.waitForSelector('#canton', { timeout: 60000 }); await wait(1500);
+      await p.goto(dignUrl, { waitUntil: 'networkidle2' }); await p.waitForSelector('#provincia', { timeout: 60000 }); await wait(1500);
       await p.select('#provincia', pv); await wait(1500);
-      await p.select('#canton', f.canton.v); await wait(1800);
+      if (f.canton.v) { await p.select('#canton', f.canton.v); await wait(1800); }
       if (f.sub) { await p.select('#' + d.sub, f.sub.v); await wait(1500); }
       await p.evaluate(() => [...document.querySelectorAll('button,a')].find((e) => e.innerText.trim() === 'Buscar').click());
       for (let i = 0; i < 30 && !orgs; i++) await wait(500);
-      if (!orgs) { console.log('  sin resultados', f.canton.t, f.sub?.t ?? ''); continue; }
+      if (!orgs) { console.log('  sin resultados', f.canton.t ?? PROVINCIA, f.sub?.t ?? ''); continue; }
       const listUrl = p.url();
-      console.log(`  ${f.canton.t}${f.sub ? ' / ' + f.sub.t : ''}: ${orgs.length} listas`);
+      console.log(`  ${f.canton.t ?? PROVINCIA}${f.sub ? ' / ' + f.sub.t : ''}: ${orgs.length} listas`);
 
       for (const o of orgs) {
         if (done.has(o.codFormulario)) continue;
         cand = null;
         const q = new URL(listUrl).searchParams;
-        const url = `${BASE}/candidatos/140/${o.codFormulario}?partido=${encodeURIComponent(o.nomPartido)}&lista=${encodeURIComponent(o.lisPartido)}&dignidad=${encodeURIComponent(d.nombre)}&codigoDignidad=${d.cod}&ambito=${d.ambito}&origen=inicio&provincia=${codProv}&canton=${q.get('canton')}${q.get(d.sub) ? `&${d.sub}=${q.get(d.sub)}` : ''}&nombreProvincia=${encodeURIComponent(PROVINCIA)}&nombreCanton=${encodeURIComponent(f.canton.t)}`;
+        const url = `${BASE}/candidatos/140/${o.codFormulario}?partido=${encodeURIComponent(o.nomPartido)}&lista=${encodeURIComponent(o.lisPartido)}&dignidad=${encodeURIComponent(d.nombre)}&codigoDignidad=${d.cod}&ambito=${d.ambito}&origen=inicio&provincia=${codProv}${q.get('canton') ? `&canton=${q.get('canton')}` : ''}${q.get(d.sub) ? `&${d.sub}=${q.get(d.sub)}` : ''}&nombreProvincia=${encodeURIComponent(PROVINCIA)}${f.canton.t ? `&nombreCanton=${encodeURIComponent(f.canton.t)}` : ''}`;
         await p.goto(url, { waitUntil: 'networkidle2' });
         for (let i = 0; i < 20 && !cand; i++) await wait(500);
         const plan = cand?.planesTrabajo?.[0];

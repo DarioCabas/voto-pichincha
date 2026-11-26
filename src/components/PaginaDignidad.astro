@@ -9,6 +9,7 @@ import { buttonVariants } from '@/components/ui/button';
 import { cn } from '@/lib/utils';
 import { TEMAS_LOCALES, PROVINCIAS, provPath } from '../data/dignidades.js';
 import { titulo, contextoCanton } from '../lib/datos.js';
+import { temas as TEMAS_PREFECTURA } from '../data/contexto.js';
 
 const { d, ts, t, canton, prov = 'pichincha' } = Astro.props;
 const base = import.meta.env.BASE_URL.replace(/\/$/, '') + provPath(prov);
@@ -16,10 +17,12 @@ const nombreProv = PROVINCIAS.find((p) => p.slug === prov)?.nombre;
 const cantones = [...new Map(ts.map((x) => [x.canton, x.path.split('/')[0]])).entries()];
 const cantonActual = t?.canton ?? canton ?? null;
 const subs = cantonActual && d.territorio === 'sub' ? ts.filter((x) => x.canton === cantonActual) : [];
+const unico = !d.territorio; // prefectura fuera de Pichincha: una sola comparación para toda la provincia
+const temas = d.slug === 'prefectura' ? TEMAS_PREFECTURA : TEMAS_LOCALES;
 const grupo = d.territorio === 'grupo'; // CPCCS: listas nacionales en vez de cantones
 const etiquetaTerr = grupo ? 'Lista' : 'Cantón';
 const etiquetaSub = d.slug === 'junta-parroquial' ? 'Parroquia' : 'Circunscripción';
-const nombreTerr = t ? (t.sub ? `${titulo(t.sub)}, ${titulo(t.canton)}` : titulo(t.canton)) : cantonActual ? titulo(cantonActual) : null;
+const nombreTerr = unico ? null : t ? (t.sub ? `${titulo(t.sub)}, ${titulo(t.canton)}` : titulo(t.canton)) : cantonActual ? titulo(cantonActual) : null;
 const totalListas = ts.reduce((a, x) => a + x.n, 0);
 const ctx = t && d.slug === 'alcaldia' && prov === 'pichincha' ? contextoCanton(t.canton) : [];
 const nCanton = (c) => ts.filter((x) => x.canton === c).reduce((a, x) => a + x.n, 0);
@@ -38,7 +41,9 @@ const unidad = (n) => `${n} ${n === 1 ? 'candidatura' : 'candidaturas'}`;
     {nombreTerr ? <a href={`${base}/${d.slug}/`} class="tap text-muted-foreground">{d.nombre}</a> : <span>{d.nombre}</span>}
     {t?.sub && <><span aria-hidden="true"> / </span><a href={`${base}/${d.slug}/${t.path.split('/')[0]}/`} class="tap text-muted-foreground">{titulo(t.canton)}</a></>}
   </nav>
-  <h1>{d.nombre}{nombreTerr && <span class="text-muted-foreground">{' · '}{nombreTerr}</span>}</h1>
+  {unico && <h1>{d.nombre} de {nombreProv}</h1>}
+  {unico && <p class="mt-1 text-muted-foreground">{unidad(totalListas)}. Cada una lleva un prefecto o prefecta y su viceprefecto o viceprefecta.</p>}
+  {!unico && <h1>{d.nombre}{nombreTerr && <span class="text-muted-foreground">{' · '}{nombreTerr}</span>}</h1>}
 
   <QuePuede dign={d.slug} />
 
@@ -67,7 +72,7 @@ const unidad = (n) => `${n} ${n === 1 ? 'candidatura' : 'candidaturas'}`;
     </section>
   ) : (
     <>
-      <div class="mt-6 flex flex-wrap items-end gap-x-4 gap-y-3">
+      {!unico && <div class="mt-6 flex flex-wrap items-end gap-x-4 gap-y-3">
         <div class="grid gap-1.5 text-sm font-medium">
           <span aria-hidden="true">{etiquetaTerr}</span>
           <SelectorIr client:load etiqueta={etiquetaTerr} valor={`${base}/${d.slug}/${t.path.split('/')[0]}/`} opciones={cantones.map(([c, p]) => ({ valor: `${base}/${d.slug}/${p}/`, texto: `${titulo(c)} (${nCanton(c)})` }))} className="min-w-56" />
@@ -79,7 +84,7 @@ const unidad = (n) => `${n} ${n === 1 ? 'candidatura' : 'candidaturas'}`;
           </div>
         )}
         <p class="pb-1.5 text-sm text-muted-foreground">{unidad(t.n)}</p>
-      </div>
+      </div>}
 
       {ctx.length > 0 && (
         <div class="mt-5 grid gap-2 sm:grid-cols-2 lg:grid-cols-4">
@@ -95,8 +100,8 @@ const unidad = (n) => `${n} ${n === 1 ? 'candidatura' : 'candidaturas'}`;
         </div>
       )}
 
-      <CompareTable candidatos={t.cands} temas={TEMAS_LOCALES} auto={d.modo === 'auto' || t.cands.some((c) => c.auto)} />
-      <Fichas candidatos={t.cands} temas={TEMAS_LOCALES} />
+      <CompareTable candidatos={t.cands} temas={temas} auto={d.modo === 'auto' || t.cands.some((c) => c.auto)} />
+      <Fichas candidatos={t.cands} temas={temas} />
     </>
   )}
 </Layout>

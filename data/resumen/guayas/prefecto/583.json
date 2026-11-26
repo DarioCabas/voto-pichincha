@@ -1,0 +1,142 @@
+{
+ "enfoque": "Arreglar caminos rurales, dar riego y apoyo a productores, y limpiar ríos. Varias propuestas dependen de la policía, del Gobierno nacional o de bancos.",
+ "tabla": {
+  "vial": [
+   {
+    "t": "Reconstruir 1.400 km de caminos vecinales con cemento asfáltico.",
+    "que": "Unos 350 km por año, desde las vías principales hacia parroquias y recintos. Costo estimado: 98 millones. El plan no dice de dónde saldrá ese dinero.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. El plan da costo y ritmo anual.",
+    "cita": "Reconstrucción de 1.400 km de los caminos vecinales desde las vías principales, hacia las",
+    "pag": 19
+   }
+  ],
+  "riego": [
+   {
+    "t": "Desarrollar un programa de riego tecnificado para pequeños y medianos agricultores.",
+    "que": "Riego por aspersión y microaspersión para más de 10.000 familias rurales. El plan no dice cuánto costará; depende de dinero estatal y de bancos.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura, pero el dinero también depende del Estado.",
+    "cita": "Desarrollar un programa de riego asociativo tecnificado para los pequeños y medianos",
+    "pag": 20
+   }
+  ],
+  "produccion": [
+   {
+    "t": "Construir un gran centro para vender frutas y verduras directo al consumidor.",
+    "que": "Se usará el 5% del presupuesto provincial. Beneficia a pequeños agricultores, sobre todo en Guayaquil. El plan no dice el lugar exacto ni la fecha.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. Falta saber dónde y cuándo.",
+    "cita": "Asignar el 5% del Presupuesto del Gobierno Provincial para la construcción de un gran",
+    "pag": 18
+   },
+   {
+    "t": "Apoyar a pequeños y medianos productores para que se asocien y vendan a mejores mercados.",
+    "que": "El plan no dice a cuántos productores ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. Es apoyo a productores rurales.",
+    "cita": "Apoyar a pequeños y medianos productores para asociarse y acceder a mercados de",
+    "pag": 18
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Controlar la contaminación de los ríos causada por la actividad productiva.",
+    "que": "También se combatirá la quema de monte y maleza con alternativas y normas. El plan no dice cómo ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. El plan no dice cómo lo hará.",
+    "cita": "controlando la contaminación de ríos asociada a la actividad productiva y Combatiendo la quema",
+    "pag": 18
+   },
+   {
+    "t": "Limpiar el fondo del río Guayas y sus afluentes (dragado), por fases.",
+    "que": "Se elegirán tramos prioritarios y se harán estudios antes de cada obra. Se buscará dinero de bancos internacionales. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de ministerios y bancos, no solo de la Prefectura.",
+    "cita": "Ejecutar el dragado por fases plurianuales (corto, mediano y largo plazo)",
+    "pag": 15
+   }
+  ],
+  "turismo": [
+   {
+    "t": "Apoyar obras para ecoturismo en áreas protegidas, manglares, senderos y miradores.",
+    "que": "Se capacitará a guías locales en turismo de naturaleza. El plan no dice qué obras se harán ni cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. Faltan obras y costos concretos.",
+    "cita": "Apoyar el desarrollo de infracstructura para el fortalecimiento del ceoturismo con visitas",
+    "pag": 22
+   }
+  ],
+  "social": [
+   {
+    "t": "Ampliar, mejorar o construir centros de salud y escuelas en zonas alejadas.",
+    "que": "El plan no dice cuántos, dónde ni cuánto costará. Lo haría con convenios con los ministerios de Salud y de Educación.",
+    "v": "baja",
+    "n": "Le toca al Gobierno nacional, no a la Prefectura.",
+    "cita": "mediante la ampliación, mejoramiento o construcción de centros de salud y unidades educativas.",
+    "pag": 17
+   },
+   {
+    "t": "Dar prioridad a sistemas de agua de bajo costo y fácil mantenimiento.",
+    "que": "Apoyo a las juntas que manejan el agua en comunidades y a gobiernos parroquiales. El plan no dice cuánto costará.",
+    "v": "baja",
+    "n": "El agua potable es del Municipio, no de la Prefectura.",
+    "cita": "Priorizar sistemas de agua y sancamiento de bajo costo y fácil mantenimiento.",
+    "pag": 18
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Firmar un convenio con los ministerios del Interior y de Defensa contra el robo de ganado.",
+    "que": "El convenio serviría para combatir el robo de ganado y proteger a la gente en zonas de más inseguridad. El plan no dice cuándo se firmará.",
+    "v": "baja",
+    "n": "La policía y el Ejército son del Gobierno nacional.",
+    "cita": "Convenio de Colaboración entre el Ministerio del Interior, El Ministerio de Defensa y la",
+    "pag": 21
+   }
+  ]
+ },
+ "metas": [
+  "Reconstruir 1.400 km de caminos vecinales, unos 350 km por año.",
+  "Inversión estimada de 98 millones para caminos vecinales.",
+  "Destinar el 5% del presupuesto provincial al centro de venta directa.",
+  "Regar con sistema tecnificado a más de 10.000 familias rurales.",
+  "Beneficiar a más de 5.000 niños del área rural (salud y educación)."
+ ],
+ "notas": [
+  "El plan no dice cuánto costarán la mayoría de propuestas ni cuándo empiezan. Varias dependen de fondos del Estado o de bancos.",
+  "Las cifras no cuadran: habla de 5.200 km de caminos vecinales en un apartado y de 1.400 km en otro."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28
+ ],
+ "paginas": 28
+}

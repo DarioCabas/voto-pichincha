@@ -1,0 +1,874 @@
+{
+  "canton": "provincia",
+  "candidatos": [
+    {
+      "codFormulario": 7641,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Propone cuidar caminos rurales, canales de riego y cuencas, y hacer un mapa de fincas. Varias ideas dependen de otros niveles de gobierno.",
+      "tabla": {
+        "vial": [
+          {
+            "t": "Crear un plan para cuidar las vías provinciales: inventario, puentes, drenaje y emergencias.",
+            "que": "Costo de 80.000 dólares, de 2027 a 2031. Se pagaría con ingresos propios, transferencias, contribución especial de mejoras y crédito del Banco de Desarrollo.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: vías rurales provinciales.",
+            "cita": "Plan de Gestión de la Infraestructura Vial Provincial: inventario de activos, gestión de puentes, drenaje, seguridad vial y protocolo de emergencias",
+            "pag": 22
+          },
+          {
+            "t": "Crear 14 microempresas comunitarias para mantener caminos de lastre.",
+            "que": "Costo de 3 millones de dólares, de 2027 a 2031, con transferencias, ingresos propios y cooperación internacional. Meta: 14 microempresas con contrato al 2031.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura, con apoyo de la comunidad.",
+            "cita": "Microempresas viales comunitarias para mantenimiento a nivel de lastre",
+            "pag": 23
+          },
+          {
+            "t": "Crear un plan de emergencias viales para El Niño, con mapa de puntos críticos y señales.",
+            "que": "Costo de 100.000 dólares. Zonas: Girón, Pucará, Santa Isabel (La Cría) y Nabón. El plan dice que solo hay 6 unidades de maquinaria pesada.",
+            "v": "media",
+            "n": "Le toca a la Prefectura en sus vías, pero depende del Gobierno Central y de municipios.",
+            "cita": "Plan de atención a emergencias viales y contingencia ante el fenómeno de El Niño (ENOS)",
+            "pag": 24
+          },
+          {
+            "t": "Cobrar una tasa a camiones de carga pesada para pagar el arreglo de caminos rurales.",
+            "que": "El plan no dice cuánto costará ni cuándo empieza. Sería en el eje Zhumiral - Carmen de Pijilí - San Gerardo y en ejes de alto tráfico.",
+            "v": "media",
+            "n": "La puede empujar, pero el control de camiones es del Gobierno Central.",
+            "cita": "Tasa provincial por tonelaje de carga pesada y contribución especial de mejoras",
+            "pag": 25
+          }
+        ],
+        "riego": [
+          {
+            "t": "Arreglar tuberías, canales y tomas de agua para riego, con prioridad en Jubones y Santiago.",
+            "que": "Costo no claro en el texto. El plan dice que la brecha de inversión en riego es de 400 millones de dólares. Plazo: 2027 a 2031.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura, pero la brecha es de 400 millones de dólares.",
+            "cita": "Rehabilitar, tecnificar y fortalecer socialmente los proyectos del sistema provincial de riego.",
+            "pag": 21
+          }
+        ],
+        "produccion": [
+          {
+            "t": "Hacer un mapa de cada finca y productor para decidir dónde invertir.",
+            "que": "Costo de 1 millón de dólares, de 2027 a 2029, con ingresos propios y cooperación técnica. Meta: catastro listo al 2030.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: fomento agropecuario y planificación.",
+            "cita": "En lo productivo, el catastro agroproductivo guiará cada decisión: riego, vialidad, acopio, crédito y compras públicas.",
+            "pag": 18
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Hacer un plan para cuidar las cuencas hidrográficas del Azuay.",
+            "que": "Costo de 100.000 dólares, de 2027 a 2031, con ingresos propios y cooperación no reembolsable (dinero que no se devuelve). Meta: un plan aprobado.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: cuencas y gestión ambiental.",
+            "cita": "Plan de Gestión Integrada de las cuencas hidrográficas del Azuay",
+            "pag": 22
+          },
+          {
+            "t": "Proteger 10.000 hectáreas de tierra con conservación o pagos por cuidarlas.",
+            "que": "Costo de 500.000 dólares, de 2028 a 2031, con cooperación internacional, fondos verdes e ingresos propios. El plan no dice cuánto recibiría cada dueño.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura, pero depende de dinero de cooperación.",
+            "cita": "Incorporar 10000 ha bajo conservación, restauración o pago por servicios ambientales al 2031",
+            "pag": 31
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Abrir oficinas de la Prefectura en las cuencas del Santiago y del Jubones.",
+            "que": "Costo de 2,5 millones de dólares, de 2027 a 2028, con ingresos propios. Las metas hablan de una sucursal al 2031, no de dos.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: es su propia organización.",
+            "cita": "Desconcentrar la gestión provincial poniendo en operación sucursales de la prefectura en la cuenca del Santiago y en la cuenca del Jubones.",
+            "pag": 21
+          }
+        ]
+      },
+      "metas": [
+        "Conformar 14 microempresas viales comunitarias al 2031.",
+        "Incorporar 10.000 ha a conservación, restauración o pago por servicios ambientales al 2031.",
+        "Operar 15 puntos de monitoreo al 2031.",
+        "Tener el catastro agroproductivo al 2030.",
+        "Digitalizar el 80 % de los trámites de mayor demanda al 2030."
+      ],
+      "notas": [
+        "Las metas dicen una sucursal al 2031, pero los objetivos hablan de dos (Santiago y Jubones). Revise cuántas se abrirán.",
+        "Muchas propuestas dependen del Gobierno Central, de municipios o de préstamos. Algunas no tienen costo ni fecha claros en el texto."
+      ]
+    },
+    {
+      "codFormulario": 75,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Arreglar vías rurales, construir y modernizar riego y apoyar a pequeños agricultores para que vendan mejor. El plan no da costos ni fechas.",
+      "tabla": {
+        "vial": [
+          {
+            "t": "Hacer un programa permanente para arreglar y mantener las vías provinciales.",
+            "que": "El plan no dice cuántas vías ni dónde, ni cuánto costará. Dice que los recursos propios de la Prefectura serán la fuente principal.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: son vías provinciales y rurales.",
+            "cita": "Se implementará un programa permanente de rehabilitación y mantenimiento vial.",
+            "pag": 3
+          },
+          {
+            "t": "Convertir los 17 anillos viales del plan de la provincia en corredores para sacar productos.",
+            "que": "Cada corredor tendría un listado de comunidades, productores, mercados y kilómetros de vía. El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. Falta el costo de cada corredor.",
+            "cita": "Se propone convertir los 17 anillos viales previstos en el PDOT en corredores económicos y productivos.",
+            "pag": 3
+          }
+        ],
+        "riego": [
+          {
+            "t": "Arreglar y construir sistemas de riego, con reservorios y riego por goteo o aspersión.",
+            "que": "Incluye arreglar sistemas actuales, hacer nuevos, usar tuberías cerradas y reducir pérdidas de agua. El plan no dice dónde ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. El plan no dice cuántos sistemas.",
+            "cita": "El agua debe convertirse en un componente central de la política agrícola.",
+            "pag": 4
+          }
+        ],
+        "produccion": [
+          {
+            "t": "Crear un sistema provincial de apoyo a pequeños y medianos agricultores.",
+            "que": "Incluye asistencia técnica, capacitación, semillas certificadas, maquinaria, riego y ayuda para vender. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: apoyo al campo. Falta el presupuesto.",
+            "cita": "Creación de un sistema provincial de apoyo al pequeño y mediano productor.",
+            "pag": 3
+          },
+          {
+            "t": "Crear una marca provincial para productos del campo y artesanías.",
+            "que": "La marca identificaría productos que cumplan ciertos estándares de calidad. El plan no dice cuándo ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. Faltan las reglas de calidad y costos.",
+            "cita": "Crear una marca provincial para productos agropecuarios y artesanales.",
+            "pag": 5
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Crear una página en internet para seguir el avance de las obras.",
+            "que": "Mostraría ubicación, presupuesto, origen del dinero, avance en porcentaje y fotos de cada obra. El plan no dice cuándo estará lista.",
+            "v": "alta",
+            "n": "Lo puede hacer la Prefectura sola. Falta la fecha de inicio.",
+            "cita": "Se implementará una plataforma digital de información pública que permita a cualquier ciudadano consultar, de manera sencilla,",
+            "pag": 8
+          },
+          {
+            "t": "Hacer una rendición de cuentas pública cada año, con inversión por cantón y parroquia.",
+            "que": "Explicaría cuánto se gastó, qué obras hay y cuánto avanzaron. El plan no dice la fecha exacta de cada jornada.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura, según el propio plan.",
+            "cita": "Se realizará, como mínimo, una jornada pública anual de rendición de cuentas de la Prefectura,",
+            "pag": 7
+          }
+        ],
+        "otros": [
+          {
+            "t": "Pedir créditos y dinero no reembolsable al Banco de Desarrollo del Ecuador (BDE).",
+            "que": "Serían para obras viales con impacto productivo y territorial. El plan no dice cuánto se pedirá ni cuándo llegaría el dinero.",
+            "v": "media",
+            "n": "Depende de bancos y organismos externos. El plan no da montos.",
+            "cita": "Gestionar ante el BDE y organismos multilaterales operaciones de crédito y financiamiento no reembolsable",
+            "pag": 5
+          },
+          {
+            "t": "Buscar dinero de bancos y agencias internacionales con proyectos ya preparados.",
+            "que": "Crearía una unidad para encontrar fondos disponibles. El plan no dice cuánto dinero se conseguiría.",
+            "v": "media",
+            "n": "Depende de donantes externos; la Prefectura presenta los proyectos.",
+            "cita": "El objetivo será presentar proyectos ya estructurados técnicamente, no simplemente",
+            "pag": 6
+          }
+        ]
+      },
+      "metas": [
+        "Para 2031: red vial provincial rehabilitada y mantenida, conectada con zonas productivas.",
+        "Convertir los 17 anillos viales del plan provincial en corredores productivos.",
+        "Una rendición de cuentas pública cada año."
+      ],
+      "notas": [
+        "El plan no da costos ni fechas para sus obras, ni dice cuántas vías ni en qué lugares.",
+        "Muchas acciones son listas generales. Varias dependen de préstamos y de otras instituciones."
+      ]
+    },
+    {
+      "codFormulario": 8695,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Propone arreglar caminos rurales, modernizar el riego, cuidar páramos y bosques, y apoyar a productores y jóvenes. No dice cuánto costará ni cuándo.",
+      "tabla": {
+        "vial": [
+          {
+            "t": "Planificar y dar mantenimiento a los caminos rurales de la provincia, con reparaciones y nuevas vías.",
+            "que": "Mantenimiento preventivo y correctivo, reparación de carreteras y estudio de nuevas vías, priorizando lo que pidan los vecinos. El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: los caminos rurales son su competencia. Falta costo y plazo.",
+            "cita": "Planificar de manera técnica el mejoramiento y buen funcionamiento de la red vial rural, a través del mantenimiento preventivo y correctivo",
+            "pag": 16
+          },
+          {
+            "t": "Estudiar un sistema en que las vías generen su propio dinero para pagar su arreglo.",
+            "que": "El plan dice que hay que analizar técnicamente este esquema. No dice qué tipo de cobro usaría ni cuándo empezaría.",
+            "v": "media",
+            "n": "Solo dice que hay que estudiarlo. Depende de cómo se financie.",
+            "cita": "un esquema de autofinanciamiento vial donde las rutas generen sus propios recursos para operarlas",
+            "pag": 7
+          }
+        ],
+        "riego": [
+          {
+            "t": "Modernizar los sistemas de riego de la provincia y apoyar a quienes los administran.",
+            "que": "Usar el agua con criterios de eficiencia y dar apoyo técnico y operativo a las organizaciones de regantes (las juntas que manejan el agua de riego). El plan no dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: el riego es su competencia. Falta costo y plazo.",
+            "cita": "Priorizar la modernización de los sistemas de riego de la provincia del Azuay aplicando los principios de eficiencia hídrica",
+            "pag": 17
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Cuidar páramos, bosques y zonas que guardan el agua, junto con comunidades y ciudadanos.",
+            "que": "Busca proteger las fuentes de agua que alimentan el riego, en coordinación con comunidades, ciudadanía y grupos organizados. El plan no dice con qué dinero ni en qué plazo.",
+            "v": "alta",
+            "n": "Es competencia provincial (cuencas y ambiente). Falta cómo y cuándo.",
+            "cita": "Promover la conservación de los páramos, bosques protectores y zonas de recarga hídrica, así como de los ecosistemas",
+            "pag": 17
+          },
+          {
+            "t": "Hacer planes en cada comunidad para prevenir deslizamientos, incendios y lluvias fuertes.",
+            "que": "Planes hechos con las comunidades y los usuarios de cada sistema de riego, para proteger el riego. El plan no dice cuántos planes habrá ni cuándo.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura trabajar con comunidades. No dice cuántos planes.",
+            "cita": "Elaboración de planes comunitarios de prevención de deslizamientos, incendios y eventos climáticos adversos",
+            "pag": 17
+          }
+        ],
+        "produccion": [
+          {
+            "t": "Dar asistencia técnica a productores del campo y ayudarles a agregar valor a sus productos.",
+            "que": "Asistencia técnica, innovación, trabajo asociado entre productores y mejor preparación de productos antes de venderlos. El plan no dice cuánto costará ni a cuántos productores llegará.",
+            "v": "alta",
+            "n": "Es fomento productivo, competencia de la Prefectura. Falta costo y plazo.",
+            "cita": "Fomentar la asistencia técnica, innovación, asociatividad, incorporación de valor agregado y articulación de cadenas",
+            "pag": 15
+          },
+          {
+            "t": "Abrir mercados para productos del campo: ventas directas y en mercados locales, nacionales e internacionales.",
+            "que": "Alianzas entre productores, empresas, universidades y sector público para vender más. El plan no dice cuánto se venderá ni en qué plazo.",
+            "v": "alta",
+            "n": "Es fomento productivo. Sin metas ni fechas.",
+            "cita": "promoción de circuitos cortos y mercados locales, nacionales e internacionales para el desarrollo del sector agropecuario",
+            "pag": 16
+          },
+          {
+            "t": "Dar capacitación y mentorías a jóvenes emprendedores, y buscar fondos para ellos.",
+            "que": "Programas de financiamiento de fuera del Azuay (nacional e internacional), cursos y acompañamiento para jóvenes. El plan no dice cuántos jóvenes ni cuánto dinero.",
+            "v": "media",
+            "n": "Depende de fondos externos y de otros niveles de gobierno.",
+            "cita": "Promover y fortalecer programas de financiamiento externo nacional e internacional, capacitación técnica, adopción tecnológica, transferencia de conocimientos y mentorías para jóvenes emprendedores",
+            "pag": 16
+          }
+        ],
+        "turismo": [
+          {
+            "t": "Impulsar el turismo rural, comunitario, cultural y ecológico ligado a la producción del campo.",
+            "que": "La Prefectura actuaría como promotora y coordinadora con municipios, juntas parroquiales y Gobierno Nacional. El plan no dice cuánto costará ni qué lugares se incluirán.",
+            "v": "alta",
+            "n": "Es fomento productivo de la Prefectura, pero se comparte con otros niveles.",
+            "cita": "Fomentar el turismo rural, comunitario, cultural y ecológico vinculado a la producción agropecuaria",
+            "pag": 16
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Buscar fondos de cooperación que no se devuelvan y alianzas con empresas del sector público y privado.",
+            "que": "La Prefectura gestionaría programas de fondos no reembolsables (que no hay que devolver) y alianzas público-privadas, coordinando con otros niveles. El plan no dice cuánto se captará ni cuándo.",
+            "v": "media",
+            "n": "Depende de donantes y convenios. El plan no da metas.",
+            "cita": "Promover la gestión activa del Gobierno Provincial del Azuay en los programas de fondos de cooperación no reembolsable y alianzas público-privadas",
+            "pag": 18
+          }
+        ]
+      },
+      "metas": [],
+      "notas": [
+        "El plan no pone cifras, costos ni fechas para casi ninguna propuesta.",
+        "La certificación final habla de una precandidata a la Alcaldía de Paute, no de la Prefectura. Revise el documento."
+      ]
+    },
+    {
+      "codFormulario": 8797,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Arreglar caminos rurales y puentes, mejorar el riego con arreglos concretos, proteger el agua y los bosques, y apoyar a productores y al turismo.",
+      "tabla": {
+        "vial": [
+          {
+            "t": "Hacer un mapa de las vías rurales de la provincia y ordenarlas por importancia.",
+            "que": "Hasta 2027 la Prefectura haría un inventario con mapa de la red provincial. Cada año tendría un plan de mantenimiento con prioridades publicadas. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: son vías fuera de las ciudades.",
+            "cita": "Completar en 2027 el inventario georreferenciado y la jerarquización funcional de la red provincial.",
+            "pag": 9
+          },
+          {
+            "t": "Arreglar 15 vías entre cantones, 20 puentes y 40 puntos críticos.",
+            "que": "Son metas para el período 2027-2031. Incluyen corredores entre cantones, puentes y pasos, y puntos con riesgo de deslizamientos. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. Las vías estatales requieren delegación y recursos.",
+            "cita": "Intervenir al menos 15 corredores cantonales o intercantonales, 20 puentes/pasos y 40 puntos críticos durante el período.",
+            "pag": 9
+          }
+        ],
+        "riego": [
+          {
+            "t": "Arreglar o tecnificar al menos 30 sistemas de riego priorizados.",
+            "que": "Meta de 2.500 hectáreas productivas beneficiadas. Se arreglan las tomas de agua y las conducciones (tuberías y canales). El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. Falta el costo de las obras.",
+            "cita": "Rehabilitar o tecnificar al menos 30 sistemas priorizados y beneficiar al menos 2.500 hectáreas productivas durante el período.",
+            "pag": 10
+          },
+          {
+            "t": "Poner en marcha 20 sistemas para guardar agua en zonas con sequía.",
+            "que": "Son reservorios y soluciones comunitarias para guardar agua en zonas con más falta de agua. El plan no dice cuánto costará ni dónde.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura, en agua y riego.",
+            "cita": "Implementar al menos 20 soluciones de cosecha o almacenamiento de agua en territorios con mayor déficit.",
+            "pag": 10
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Formar y equipar 30 grupos comunitarios para combatir incendios.",
+            "que": "El plan prevé campañas cada año contra incendios. No dice en qué zonas ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: prevención ambiental.",
+            "cita": "Conformar y equipar al menos 30 brigadas comunitarias contra incendios y ejecutar campañas anuales.",
+            "pag": 12
+          }
+        ],
+        "produccion": [
+          {
+            "t": "Dar asesoría técnica y de ventas a 5.000 productores y 100 organizaciones.",
+            "que": "Es una meta del período 2027-2031. Incluye ayuda para producir mejor y para vender. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: apoyo al campo.",
+            "cita": "Brindar asistencia técnica o comercial a al menos 5.000 productores y 100 organizaciones durante el período.",
+            "pag": 13
+          }
+        ],
+        "turismo": [
+          {
+            "t": "Armar 8 rutas turísticas entre cantones y un calendario anual.",
+            "que": "Las rutas unirían cantones con gastronomía, naturaleza, artesanía y cultura. El plan no dice cuánto costará.",
+            "v": "media",
+            "n": "Depende de municipios y del Ministerio de Turismo.",
+            "cita": "Consolidar al menos 8 rutas provinciales o intercantonales y un calendario turístico anual coordinado.",
+            "pag": 13
+          }
+        ],
+        "social": [
+          {
+            "t": "Crear rutas de prevención y ayuda ante la violencia en los 15 cantones.",
+            "que": "Son rutas para derivar casos a quien atiende. El plan no dice quién atiende ni cuánto costará.",
+            "v": "media",
+            "n": "Depende de entidades nacionales y de los municipios.",
+            "cita": "Implementar rutas coordinadas de prevención y derivación en los quince cantones.",
+            "pag": 18
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Crear una oficina provincial de inversiones y cooperación.",
+            "que": "Buscaría inversiones y ayuda de otros países. El plan no dice cuánto dinero llegará ni cuándo.",
+            "v": "media",
+            "n": "La Prefectura puede crearla. Los permisos son de otras entidades.",
+            "cita": "Crear una oficina provincial de inversiones y cooperación.",
+            "pag": 19
+          }
+        ],
+        "otros": [
+          {
+            "t": "Hacer 150 jornadas de prevención y nutrición en salud con convenios.",
+            "que": "Son jornadas preventivas coordinadas. El plan no dice dónde ni cuánto costará. No reemplaza al sistema nacional de salud.",
+            "v": "baja",
+            "n": "La salud es del Gobierno nacional. Solo ayuda con jornadas.",
+            "cita": "Realizar al menos 150 jornadas preventivas coordinadas, sin sustituir al sistema nacional de salud.",
+            "pag": 16
+          }
+        ]
+      },
+      "metas": [
+        "Inventario georreferenciado de la red vial provincial en 2027.",
+        "Intervenir 15 corredores, 20 puentes/pasos y 40 puntos críticos al 2031.",
+        "Rehabilitar o tecnificar 30 sistemas de riego y beneficiar 2.500 hectáreas productivas.",
+        "Conservar o restaurar 2.000 hectáreas estratégicas.",
+        "Brindar asistencia a 5.000 productores y 100 organizaciones."
+      ],
+      "notas": [
+        "El plan no da costos por obra ni dice de dónde saldrá el dinero exacto. Usa fuentes generales como presupuesto y préstamos.",
+        "Varias metas dependen de convenios con municipios, el Ministerio de Turismo u otras entidades."
+      ]
+    },
+    {
+      "codFormulario": 6092,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan sobre agua y riego, caminos rurales, producción agrícola y jóvenes. Casi no dice cuánto costará ni de dónde saldrá el dinero.",
+      "tabla": {
+        "vial": [
+          {
+            "t": "Arreglar y dar mantenimiento permanente a la red vial provincial de caminos rurales.",
+            "que": "Mejorar caminos rurales de tierra y piedra, con mantenimiento permanente. El plan no dice cuánto costará ni en qué plazo.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. El plan no dice cuánto costará ni cuándo.",
+            "cita": "Mejorar progresivamente la red vial provincial mediante programas permanentes de rehabilitación y mantenimiento.",
+            "pag": 14
+          },
+          {
+            "t": "Construir y arreglar puentes en lugares estratégicos del Azuay.",
+            "que": "Los puentes se harán en lugares estratégicos y tomando en cuenta el clima. El plan no dice cuáles, cuántos ni cuánto costarán.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. El plan no dice qué puentes ni cuánto costará.",
+            "cita": "Construir y rehabilitar puentes en sectores estratégicos con criterios de resiliencia climática.",
+            "pag": 14
+          }
+        ],
+        "riego": [
+          {
+            "t": "Construir, arreglar y modernizar sistemas de riego comunitario.",
+            "que": "Se harán sistemas de riego para las comunidades con criterios de eficiencia y equidad. El plan no dice cuántos ni cuánto costarán.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. El plan no dice cuántos sistemas ni en qué plazo.",
+            "cita": "Construir, rehabilitar y modernizar sistemas de riego comunitario con criterios de",
+            "pag": 7
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Restaurar páramos, bosques y humedales que están dañados.",
+            "que": "Dice que se restaurarán miles de hectáreas de páramos, bosques y humedales con las comunidades. El plan no dice cuántas ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. El plan no dice cuántas hectáreas ni en qué plazo.",
+            "cita": "Restaurar miles de hectáreas de páramos, bosques altoandinos, humedales y zonas de recarga hídrica",
+            "pag": 7
+          },
+          {
+            "t": "Compensar con dinero a comunidades y dueños que cuidan páramos y bosques.",
+            "que": "Un fondo para reconocer a quienes conservan los ecosistemas, con incentivos económicos. El plan no dice cuánto dinero tendrá ni cuándo empieza.",
+            "v": "media",
+            "n": "Le toca a la Prefectura, pero depende de recursos nacionales e internacionales.",
+            "cita": "Implementar el Fondo Provincial de Compensación Ambiental para reconocer el aporte de",
+            "pag": 20
+          }
+        ],
+        "produccion": [
+          {
+            "t": "Construir y equipar centros para juntar y procesar la producción agrícola.",
+            "que": "Serán centros de acopio y transformación de productos del campo. El plan no dice en qué lugares se harán ni cuánto costarán.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. El plan no dice dónde se harán ni cuánto costará.",
+            "cita": "Construir y equipar una red provincial de centros de acopio y transformación agroindustrial.",
+            "pag": 11
+          },
+          {
+            "t": "Dar asistencia técnica (asesoría de expertos) de forma permanente a agricultores familiares.",
+            "que": "Aumentar la cobertura de asesoría técnica para la agricultura familiar campesina. El plan no dice a cuántos productores llegará ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. El plan no dice a cuántos productores llegará.",
+            "cita": "Incrementar la cobertura de asistencia técnica permanente a productores de agricultura familiar campesina.",
+            "pag": 11
+          },
+          {
+            "t": "Lograr que más productores locales vendan en compras públicas del Estado.",
+            "que": "Busca que más productores locales vendan alimentos y bienes a entidades públicas. El plan no dice cuántos productores ni en qué plazo.",
+            "v": "media",
+            "n": "Depende de las entidades públicas que compran, no solo de la Prefectura.",
+            "cita": "Incrementar la participación de productores locales en procesos de compras públicas de alimentos y bienes.",
+            "pag": 9
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Crear una página en internet con datos de presupuesto, compras y obras.",
+            "que": "Los datos del presupuesto, las compras públicas, los proyectos y los indicadores estarán en internet. El plan no dice cuándo estará listo.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. El plan no dice cuándo estará ni cuánto costará.",
+            "cita": "Implementar el Portal Provincial de Datos Abiertos con información actualizada sobre",
+            "pag": 23
+          }
+        ],
+        "otros": [
+          {
+            "t": "Crear un fondo de dinero inicial para negocios de jóvenes.",
+            "que": "Dinero para empezar negocios o ideas de jóvenes. El plan no dice cuánto dinero tendrá ni de dónde saldrá.",
+            "v": "media",
+            "n": "Puede apoyar emprendimientos, pero el plan no dice de dónde saldrá el dinero.",
+            "cita": "Crear un Fondo Provincial de Capital Semilla para financiar iniciativas productivas e innovadoras lideradas por jóvenes.",
+            "pag": 17
+          }
+        ]
+      },
+      "metas": [
+        "Período de gobierno 2027–2031.",
+        "Rendición pública de cuentas cada año.",
+        "Espacios permanentes de diálogo en los quince cantones.",
+        "Restaurar miles de hectáreas de páramos, bosques y humedales en 2027–2031.",
+        "Pacto colectivo hacia el 2035."
+      ],
+      "notas": [
+        "El plan casi no dice cuánto costará ninguna propuesta ni de dónde saldrá el dinero.",
+        "Muchas metas usan palabras generales como \"mejorar\" o \"fortalecer\" sin decir cuánto, dónde ni para quién."
+      ]
+    },
+    {
+      "codFormulario": 9356,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Sigue en gran parte el plan de desarrollo provincial ya existente: caminos rurales, riego, cuidado del agua, producción y una Prefectura con informes.",
+      "tabla": {
+        "ambiente": [
+          {
+            "t": "Plantar 1 millón de árboles en el Azuay hasta 2031.",
+            "que": "Meta: 1.000.000 de árboles al 2031, en cuencas del Paute, Jubones y León. Costo referencial: $1.576.800. Depende de fondos propios y convenios.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura; los convenios y la cooperación aún deben aprobarse.",
+            "cita": "referencias como 1 Millón de Árboles para el Azuay, Comunidades por la Vida y Circuitos Cortos",
+            "pag": 148
+          }
+        ],
+        "gobierno": [
+          {
+            "t": "Juntar proyectos, contratos, presupuesto y resultados en un solo sistema digital.",
+            "que": "Odoo es la plataforma que la Prefectura ya usa. No reemplaza los sistemas oficiales. El plan no dice cuánto costará ni cuándo estará lista.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura; es su propio sistema interno.",
+            "cita": "El GADPA consolidará sobre Odoo, plataforma ya utilizada institucionalmente, un sistema interoperable que vincule territorio, proyectos",
+            "pag": 209
+          },
+          {
+            "t": "Revisar los avances cada mes y evaluar cada año en público.",
+            "que": "Actualización mensual, revisión cada seis meses y evaluación pública cada año. Evaluación intermedia en 2029 y final en 2031. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura; es control interno y público de sus propias metas.",
+            "cita": "El ciclo de seguimiento comprenderá actualización mensual por las unidades ejecutoras, conciliación trimestral físico-financiera, revisión semestral del Comité de Gestión y evaluación anual pública.",
+            "pag": 43
+          },
+          {
+            "t": "Publicar informes por eje y por territorio, además de la rendición de cuentas anual.",
+            "que": "Informe por eje y por territorio cada seis meses, con lo planeado, gastado y entregado. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura; depende de su propio trabajo.",
+            "cita": "Además del proceso anual, el GADPA publicará reportes por eje y territorio",
+            "pag": 225
+          }
+        ],
+        "produccion": [
+          {
+            "t": "Hacer ferias de productos del campo: ejecutar todas las planificadas hasta 2031.",
+            "que": "Meta: el 100 % de las ferias planificadas hasta 2031. El plan no dice cuántas ferias habrá ni cuánto costarán.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: fomentar la producción es su competencia.",
+            "cita": "A 2031, ejecutar el 100 % de ferias agro productivas planificadas",
+            "pag": 213
+          }
+        ],
+        "riego": [
+          {
+            "t": "Unir cada obra de riego con planes de producción, mantenimiento y cuidado del agua.",
+            "que": "Costo de $234.284 en 2027–2028 para intervenir sistemas de riego de organizaciones regantes. El plan no dice cuántos sistemas arreglará.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: el riego es competencia provincial.",
+            "cita": "La política provincial deberá vincular cada inversión en riego con planes productivos, fortalecimiento organizativo, protección de fuentes, reducción de pérdidas y mecanismos de mantenimiento.",
+            "pag": 75
+          }
+        ],
+        "seguridad": [
+          {
+            "t": "Hacer prevención y convivencia, sin funciones de policía.",
+            "que": "La Prefectura haría prevención y trabajo con comunidades. La seguridad pública y la Policía son del Gobierno nacional. El plan no dice cuánto costará.",
+            "v": "media",
+            "n": "Solo prevención. La seguridad y la Policía son del Gobierno nacional.",
+            "cita": "El instrumento deberá concentrar el papel provincial en prevención, convivencia, recuperación comunitaria y coordinación, sin asumir funciones policiales.",
+            "pag": 138
+          }
+        ],
+        "social": [
+          {
+            "t": "Arreglar la casa básica de familias rurales priorizadas.",
+            "que": "Meta: todas las intervenciones programadas y financiadas. Cada hogar tendrá ficha y registro para evitar duplicados. El plan no dice cuántos hogares.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura: la vivienda rural es parte de sus funciones.",
+            "cita": "Cada hogar deberá contar con ficha socioeconómica, informe técnico, autorización correspondiente y registro único para evitar duplicidad.",
+            "pag": 215
+          }
+        ],
+        "vial": [
+          {
+            "t": "Asfaltar más kilómetros de vías rurales y darles mantenimiento.",
+            "que": "Meta: 300 km de vías con mantenimiento al 2031. El plan no dice cuántos km asfaltará ni cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura, en vías rurales. El plan no da el costo total.",
+            "cita": "Ampliar kilómetros asfaltados, incorporar monitoreo vial, desarrollar corredores verdes",
+            "pag": 156
+          },
+          {
+            "t": "Construir, rehabilitar o reforzar puentes que den paso a comunidades y producción.",
+            "que": "Meta: el 100 % de los puentes financiados. El plan no dice cuántos puentes se harán ni cuánto costarán.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura si el puente está en vía provincial rural.",
+            "cita": "Se priorizarán estructuras que aseguren continuidad vial, acceso comunitario y salida de la producción",
+            "pag": 178
+          }
+        ]
+      },
+      "metas": [
+        "1.000.000 de árboles plantados al 2031.",
+        "300 km de vías con mantenimiento al 2031.",
+        "100 % de los sistemas de riego programados y financiados, intervenidos.",
+        "Evaluación intermedia en 2029 y evaluación final en 2031.",
+        "Plan Integral de gestión de riesgos aprobado en 2031."
+      ],
+      "notas": [
+        "Gran parte del plan repite el plan de desarrollo de la provincia y planes que aún no terminan. Muchas metas no dicen costo ni fecha.",
+        "Los planes de vías, turismo y riesgos figuran como sin terminar. Sin ellos, las metas viales y de riesgo no tienen base clara.",
+        "Plan muy largo (230 págs.): se resumieron las 60 páginas con propuestas."
+      ]
+    },
+    {
+      "codFormulario": 12208,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Arreglar y mantener caminos rurales, modernizar el riego y vender mejor la producción. Las cifras vienen del diagnóstico provincial (PDOT) y el plan no incluye costos.",
+      "tabla": {
+        "vial": [
+          {
+            "t": "Crear una plataforma digital con el estado de todas las vías rurales del Azuay",
+            "que": "Un mapa en internet con el estado, el tránsito y los puntos críticos de cada vía. El plan no dice cuánto costará ni cuándo estará lista.",
+            "v": "alta",
+            "n": "Es una vía provincial. Depende del trabajo técnico, no de terceros.",
+            "cita": "Se diseñará e implementará una plataforma georreferenciada para integrar inventario, superficie, estado, tránsito",
+            "pag": 20
+          },
+          {
+            "t": "Poner asfalto o tratamiento bituminoso en hasta 160 km de vías productivas hasta 2031",
+            "que": "Las vías se elegirán por estudios y tránsito. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+            "v": "alta",
+            "n": "Es vía provincial, pero el plan no dice cómo se pagará.",
+            "cita": "Meta programática 2031: intervenir acumuladamente 160 km de corredores priorizados con soluciones pavimentadas o tratamientos bituminosos",
+            "pag": 21
+          },
+          {
+            "t": "Mantener caminos sin asfalto con trabajo preventivo por circuitos",
+            "que": "Limpiar cunetas, rellenar huecos y revisar alcantarillas por zonas, con coordinación con juntas parroquiales. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Es vía provincial. Se coordina con las juntas parroquiales.",
+            "cita": "Se implementará programación preventiva por circuitos, control de rendimientos y coordinación con gobiernos parroquiales",
+            "pag": 22
+          }
+        ],
+        "riego": [
+          {
+            "t": "Actualizar el inventario de los 326 sistemas de riego de la provincia",
+            "que": "Registrar canales, usuarios, caudales y pérdidas de cada sistema. El plan dice que se hará de forma progresiva en los primeros años.",
+            "v": "alta",
+            "n": "El riego es competencia provincial. El plan no dice cuánto costará.",
+            "cita": "Se actualizará el inventario provincial de sistemas, infraestructura, usuarios, caudales, pérdidas, riesgos",
+            "pag": 23
+          },
+          {
+            "t": "Arreglar y modernizar canales, tuberías y reservorios de riego según estudios",
+            "que": "Obras para reducir pérdidas de agua y repartirla mejor. Meta: al menos 10 intervenciones. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura, pero cada obra necesita estudios y presupuesto.",
+            "cita": "Se formularán y ejecutarán proyectos de rehabilitación, conducción, almacenamiento, distribución, medición y riego parcelario según estudios",
+            "pag": 23
+          }
+        ],
+        "produccion": [
+          {
+            "t": "Evaluar AgroAzuay, la plataforma provincial de venta de productos, durante 2027",
+            "que": "Revisar en 2027 si la plataforma funciona bien en lo legal, lo financiero y lo comercial. Si funciona, se reestructura. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Es tarea provincial. Los cambios los decide la ley y el Consejo.",
+            "cita": "Durante 2027 se realizará una evaluación jurídica, financiera, administrativa, operativa y comercial de AgroAzuay",
+            "pag": 24
+          },
+          {
+            "t": "Trabajar cadenas de leche, cuy, sombreros, café y frutas para darles más valor",
+            "que": "Mejorar calidad, empaque y venta de estos productos. Meta: al menos 3 cadenas piloto hasta 2029. El plan no dice cuánto costará.",
+            "v": "alta",
+            "n": "Es apoyo productivo, que sí le toca a la Prefectura.",
+            "cita": "Se trabajará inicialmente con leche y derivados, cuy, sombreros y artesanías, café, frutas y derivados",
+            "pag": 25
+          }
+        ],
+        "turismo": [
+          {
+            "t": "Armar rutas turísticas que unan varios cantones o parroquias",
+            "que": "Crear circuitos con productores, artesanías y comida local. Meta: 5 circuitos. El plan no dice cuánto costará.",
+            "v": "media",
+            "n": "Depende de municipios y del ente nacional de turismo.",
+            "cita": "Mapear y priorizar circuitos que conecten varios cantones o parroquias.",
+            "pag": 27
+          }
+        ],
+        "social": [
+          {
+            "t": "Dar prioridad a mujeres rurales en el acceso a asistencia técnica y riego",
+            "que": "Criterios públicos para que mujeres rurales accedan a asistencia, riego y ventas. El plan no dice cuántas mujeres ni cuánto costará.",
+            "v": "alta",
+            "n": "Es apoyo productivo provincial, dentro de sus competencias.",
+            "cita": "Se priorizará la autonomía económica de mujeres rurales mediante criterios transparentes de acceso a asistencia técnica",
+            "pag": 21
+          }
+        ],
+        "otros": [
+          {
+            "t": "Ayudar a vender productos con compradores, ferias y catálogos",
+            "que": "La Prefectura busca compradores y organiza ferias. El plan dice que no garantiza compras ni precios. El costo no está en el plan.",
+            "v": "media",
+            "n": "Depende de compradores privados, que no controla la Prefectura.",
+            "cita": "La Prefectura impulsará inteligencia comercial, ruedas de negocio, alianzas con compradores, catálogos, ferias",
+            "pag": 25
+          }
+        ]
+      },
+      "metas": [
+        "Plataforma vial en línea y actualizada, con visor público.",
+        "Hasta 160 km con asfalto o tratamiento bituminoso acumulados hasta 2031.",
+        "Al menos 450 km de caminos programados para mantenimiento en 2027.",
+        "Al menos 10 intervenciones de riego según viabilidad en el período.",
+        "Al menos 3 cadenas productivas piloto hasta 2029."
+      ],
+      "notas": [
+        "El plan dice que no incluye presupuestos ni fuentes de financiamiento. No sabrás cuánto costará cada obra.",
+        "Gran parte del diagnóstico viene del PDOT provincial. Varias metas dependen de compradores, municipios y el Ministerio."
+      ]
+    },
+    {
+      "codFormulario": 5440,
+      "ia": true,
+      "modelo": "haiku",
+      "enfoque": "Plan para producir más en el campo: riego, vías rurales, ferias, transformación de productos y turismo. Muchas cifras vienen del plan de desarrollo provincial vigente.",
+      "tabla": {
+        "vial": [
+          {
+            "t": "Pavimentar corredores estratégicos y rehabilitar vías provinciales.",
+            "que": "El plan pone como meta 650 km de asfalto hasta 2027, con unos USD 43,73 millones. No dice qué vías ni de dónde saldrá el dinero.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. El plan no dice de dónde saldrá el dinero.",
+            "cita": "Vialidad Provincial (Rehabilitación vial, Pavimentación de corredores estratégicos, Mantenimiento periódico, Mantenimiento rutinario, Drenajes).",
+            "pag": 35
+          },
+          {
+            "t": "Dar prioridad a vías que unan productores, centros de acopio y mercados.",
+            "que": "El plan no dice qué vías, cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Es vialidad provincial, competencia de la Prefectura.",
+            "cita": "Corredores Productivos (Priorizar vías que conecten: productor, centro de acopio y mercado).",
+            "pag": 36
+          }
+        ],
+        "riego": [
+          {
+            "t": "Arreglar conducciones y captaciones de los sistemas de riego.",
+            "que": "El plan dice que 38 % de las conducciones y 21,5 % de las captaciones están en mal estado. No dice cuánto costará ni cuándo.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. El plan no dice cuánto costará.",
+            "cita": "Riego y cuidado de los suelos (Rehabilitación de sistemas, Tecnificación, Reservorios, Conducciones, Captaciones, Riego parcelario).",
+            "pag": 35
+          }
+        ],
+        "produccion": [
+          {
+            "t": "Crear centros de acopio y ferias para vender lo que producen agricultores.",
+            "que": "El plan no dice cuántos centros ni dónde. Pone como meta 10 ferias agroproductivas al año en circuitos cortos.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. El plan no dice cuánto costará.",
+            "cita": "Azuay Comercializa (Centros de acopio, Ferias productivas, Comercialización directa, Marca provincial).",
+            "pag": 34
+          },
+          {
+            "t": "Dar asistencia técnica y mejorar la producción agrícola y pecuaria.",
+            "que": "El plan no dice a cuántos productores llegará ni cuánto costará. Incluye mecanización agrícola.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. El plan no dice a cuántos productores ni cuándo.",
+            "cita": "Azuay Produce (Asistencia técnica, Mejoramiento de producción agrícola y pecuaria, Mecanización agricola, Innovación tecnológica, Fortalecimiento de asociaciones).",
+            "pag": 34
+          },
+          {
+            "t": "Crear centros de transformación de lácteos, frutas y hortalizas.",
+            "que": "El plan no dice dónde se harán ni cuánto costarán. Menciona al Banco de Desarrollo del Ecuador y al Gobierno Nacional como posibles fuentes.",
+            "v": "media",
+            "n": "Depende de bancos y del Gobierno nacional. El plan no dice cuánto costará.",
+            "cita": "Azuay Transforma (Centros de transformación agroindustrial, Lácteos, Frutas y hortalizas, Productos procesados, Valor agregado).",
+            "pag": 34
+          }
+        ],
+        "ambiente": [
+          {
+            "t": "Proteger fuentes de agua, páramos y microcuencas.",
+            "que": "El plan no dice qué zonas ni cuánto costará. Habla de protección de fuentes, páramos y zonas de recarga de agua.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura, por cuencas y gestión ambiental.",
+            "cita": "Provincia del Agua (Protección de fuentes, Páramos, Microcuencas, Zonas de recarga hídrica, Conservación comunitaria).",
+            "pag": 35
+          }
+        ],
+        "turismo": [
+          {
+            "t": "Hacer rutas turísticas, miradores y señalización en zonas rurales.",
+            "que": "El plan no dice qué rutas ni cuánto costará. Menciona la Ruta del Vado al Cajas como ejemplo.",
+            "v": "alta",
+            "n": "Le toca a la Prefectura. El plan no dice cuánto costará.",
+            "cita": "Turismo Rural y Comunitario (Rutas turísticas, Miradores, Señalización, Infraestructura turística, Turismo comunitario, Gastronomía y artesanía).",
+            "pag": 34
+          }
+        ],
+        "social": [
+          {
+            "t": "Dar servicios sociales a adultos mayores, personas con discapacidad y niños.",
+            "que": "Meta: 5.600 familias y 38.500 personas hasta 2027, mediante convenios con municipios y parroquias. El plan no dice cuánto costará.",
+            "v": "media",
+            "n": "Depende de convenios con municipios y parroquias. El plan no dice cuánto costará.",
+            "cita": "Desarrollo Social Rural (Atención a adultos mayores, Personas con discapacidad, Niñez y adolescencia, Mujeres en situación de vulnerabilidad).",
+            "pag": 34
+          }
+        ],
+        "otros": [
+          {
+            "t": "Llevar internet a comunidades rurales, escuelas y centros comunitarios.",
+            "que": "El plan no dice cuántas comunidades ni cuánto costará ni cuándo.",
+            "v": "baja",
+            "n": "No es competencia de la Prefectura. Le toca a otras instituciones.",
+            "cita": "Conectividad Digital Rural (Internet rural, Cobertura en comunidades, Conectividad de escuelas y centros comunitarios, Puntos digitales).",
+            "pag": 36
+          }
+        ]
+      },
+      "metas": [
+        "650 km de vías a nivel de asfalto hasta 2027 (meta de la planificación vigente).",
+        "Fortalecer o capacitar a 672 asociaciones productivas hasta 2027.",
+        "10 ferias agroproductivas al año en circuitos cortos de comercialización.",
+        "Servicios sociales a 5.600 familias y 38.500 personas hasta 2027 (meta acumulada).",
+        "246 asambleas ciudadanas hasta 2027."
+      ],
+      "notas": [
+        "Muchas cifras y metas vienen del PDOT 2024 y del Plan Estratégico vigentes, no son compromisos nuevos del candidato.",
+        "El plan no dice cuánto costará la mayoría de propuestas ni de dónde saldrá el dinero."
+      ]
+    }
+  ]
+}

@@ -13,7 +13,7 @@ Cómo escribir:
 
 Campos:
 - "enfoque": una sola frase (máx. 200 caracteres) con lo principal que propone. Si el plan está copiado de otro cargo, de otro cantón o del plan de desarrollo de la parroquia o del cantón, dilo aquí en palabras simples.
-- "tabla": de 3 a 10 propuestas, las más concretas e importantes, agrupadas en estos temas (solo los que apliquen): movilidad, servicios, ambiente, urbano, seguridad, social, economia, gobierno, otros.
+- "tabla": de 3 a 10 propuestas, las más concretas e importantes, agrupadas en estos temas (solo los que apliquen): {{TEMAS}}.
   - "t": qué hará, en una frase (máx. 110 caracteres). Empieza con un verbo: "Arreglar…", "Construir…", "Crear una ordenanza…".
   - "que": la explicación en 1 o 2 frases (máx. 220 caracteres) con lo que el plan dice de esta propuesta: dónde, cuánto cuesta, cómo se pagará, en qué plazo, a quién beneficia. Si el plan no da esos datos, dilo: "El plan no dice cuánto costará ni cuándo."
   - "v": ¿lo puede cumplir desde este cargo? Compara la propuesta con las competencias de arriba y con lo que el propio plan dice de costos, financiamiento y plazos:

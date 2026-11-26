@@ -1,0 +1,147 @@
+{
+ "enfoque": "Caminos y puentes rurales, riego, río y manglar, y apoyo a productores. Gran parte del dinero depende de créditos aún no asegurados.",
+ "tabla": {
+  "vial": [
+   {
+    "t": "Construir puentes rurales en comunidades aisladas de los ríos Daule, Chimbo, Bulubulu y Cañar.",
+    "que": "Se harán según un estudio técnico y el dinero disponible. El plan no dice cuántos puentes ni cuánto costarán.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. El plan no dice cuánto cuesta ni cuándo.",
+    "cita": "Construir puentes rurales estratégicos en comunidades aisladas por los ríos Daule, Chimbo, Bulubulu y Cañar,",
+    "pag": 13
+   },
+   {
+    "t": "Construir o arreglar 4 vías de 4 carriles entre cantones, junto con el Ministerio de Transporte.",
+    "que": "Corredores: Guayaquil–Daule–Balzar, Guayaquil–Milagro–El Triunfo, Durán–Naranjal y El Empalme–Colimes. El plan no dice cuánto cuesta ni cuándo terminan.",
+    "v": "media",
+    "n": "Lo hace con el Ministerio de Transporte y con préstamos. El plan no dice cuánto cuesta.",
+    "cita": "Construcción y rehabilitación de 4 ejes viales de 4 carriles que conectan los cantones más productivos y con mayor tráfico de carga",
+    "pag": 13
+   },
+   {
+    "t": "Pavimentar o arreglar 120 km de vías en 10 cantones con más atraso vial.",
+    "que": "Cantones: Colimes, Palestina, Isidro Ayora, Alfredo Baquerizo Moreno, Simón Bolívar, Santa Lucía, Balao, Nobol, Salitre y Lomas de Sargentillo. Meta: 120 km en 2 años.",
+    "v": "media",
+    "n": "Las calles dentro de cada cantón son del Municipio. El plan no dice cuánto cuesta ni cómo se paga.",
+    "cita": "Plan Vial Cantonal 2027–2031: pavimentación o rehabilitación de los 10 cantones con mayor rezago vial",
+    "pag": 13
+   }
+  ],
+  "riego": [
+   {
+    "t": "Ampliar albarradas (reservorios de agua), canales de riego y drenaje en cantones de arroz y ganadería.",
+    "que": "Se hará con un crédito de 130 millones de dólares del Banco de Desarrollo del Ecuador, que el plan dice que está asegurado. El plan no dice en qué cantones exactamente.",
+    "v": "alta",
+    "n": "Es competencia de la Prefectura, y el dinero está contratado con el BDE.",
+    "cita": "Expansión del sistema de albarradas, canales de riego y drenaje en cantones arroceros y ganaderos.",
+    "pag": 14
+   }
+  ],
+  "produccion": [
+   {
+    "t": "Construir 4 centros rurales para juntar, guardar en frío y empacar productos en 4 cantones.",
+    "que": "Búsqueda: vender directo a supermercados y exportadoras, sin intermediarios. Meta: operando entre 2027 y 2029. El plan no dice cuánto cuesta.",
+    "v": "alta",
+    "n": "Es apoyo productivo, competencia de la Prefectura. El plan no dice cuánto cuesta.",
+    "cita": "Construcción de 4 Centros Productivos Rurales con infraestructura de acopio, almacenamiento en frío y embalaje en Naranjal, Balzar, Pedro Carbo y El Empalme.",
+    "pag": 11
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Limpiar el río Guayas, controlar descargas contaminantes y medir la calidad del agua.",
+    "que": "Incluye sacar sedimentos del fondo y limpiar las orillas. Se hará con el Ministerio del Ambiente y la Secretaría del Agua. El plan no dice cuánto cuesta ni en qué plazo.",
+    "v": "alta",
+    "n": "Ríos y cuencas son competencia de la Prefectura. El plan no dice cuánto cuesta.",
+    "cita": "Programa integral de preservación y descontaminación de la cuenca del río Guayas: dragado preventivo, control de vertidos, monitoreo de calidad del agua",
+    "pag": 11
+   },
+   {
+    "t": "Sembrar 500.000 árboles nativos en los 25 cantones entre 2027 y 2031.",
+    "que": "Programa «Pulmones Cantonales». Habrá registro de siembra por cantón. El plan no dice cuánto cuesta.",
+    "v": "alta",
+    "n": "Es gestión ambiental, competencia de la Prefectura. El plan no dice cuánto cuesta.",
+    "cita": "500.000 árboles nativos en los 25 cantones durante el período constitucional 2027-2031.",
+    "pag": 14
+   }
+  ],
+  "turismo": [
+   {
+    "t": "Desarrollar un programa de turismo rural y ecoturismo con los municipios.",
+    "que": "Aprovechará reservas naturales, costas, gastronomía y cultura. Costo previsto: USD 1.200.000 (2027-2031). El plan no dice cuándo empieza.",
+    "v": "alta",
+    "n": "El turismo es competencia de la Prefectura. Trabaja con los municipios.",
+    "cita": "El desarrollo de un programa de turismo rural y ecoturismo, articulado con los municipios y aprovechando las reservas naturales",
+    "pag": 18
+   }
+  ],
+  "social": [
+   {
+    "t": "Construir 4 centros de salud en Pedro Carbo–Colimes, Balzar–El Empalme, Naranjal–El Triunfo y Playas–Balao.",
+    "que": "La Prefectura construiría. El Ministerio de Salud y el Seguro Campesino los operarían. Meta: entrega entre 2028 y 2030. El plan no dice cuánto cuesta cada uno.",
+    "v": "baja",
+    "n": "La salud no es de la Prefectura. La operan el Ministerio de Salud y el Seguro Campesino.",
+    "cita": "Construcción y equipamiento de 4 centros de salud de segundo nivel en zonas estratégicas: norte",
+    "pag": 19
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Construir cuarteles para la Policía, solo con convenio o pago compartido con el Ministerio del Interior.",
+    "que": "La Prefectura pondría dinero junto con el Ministerio del Interior. El plan no dice cuántos cuarteles ni cuánto costarán.",
+    "v": "baja",
+    "n": "La policía no es de la Prefectura. Solo podría ayudar con dinero o convenio.",
+    "cita": "Construcción de Cuarteles Intermedios para la Policía Nacional — exclusivamente en cofinanciamiento o convenio con el Ministerio del Interior",
+    "pag": 24
+   }
+  ]
+ },
+ "metas": [
+  "120 km de vías secundarias pavimentadas o arregladas en 2 años, en 10 cantones.",
+  "1.000.000 de propágulos de mangle sembrados, 2027-2031.",
+  "500.000 árboles nativos en los 25 cantones, 2027-2031.",
+  "4 centros productivos rurales construidos y operando, 2027-2029.",
+  "Bajar entre 10% y 20% el costo de la canasta básica de productos de la provincia, en 2 años."
+ ],
+ "notas": [
+  "El plan dice que 71,1% del dinero depende de créditos y ayudas que todavía hay que conseguir.",
+  "Incluye obras de salud y policía, que no son de la Prefectura. Las metas dependen del presupuesto disponible."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25,
+  26,
+  27,
+  28,
+  29,
+  30,
+  31,
+  32,
+  33
+ ],
+ "paginas": 33
+}

@@ -1,0 +1,91 @@
+{
+ "enfoque": "Propone arreglar vías rurales, mejorar el riego, apoyar a productores, cuidar cuencas y promover turismo. No dice cuánto costará ni cuándo.",
+ "tabla": {
+  "vial": [
+   {
+    "t": "Hacer mantenimiento y arreglar las vías rurales que unen comunidades y zonas productivas.",
+    "que": "El plan no dice qué vías, cuánto costará ni cuándo. Da prioridad a las zonas productivas y al acceso a servicios.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. El plan no dice qué caminos.",
+    "cita": "Fortalecer la infraestructura vial provincial mediante programas permanentes de",
+    "pag": 2
+   }
+  ],
+  "riego": [
+   {
+    "t": "Construir, arreglar y modernizar la infraestructura de agua para riego en la provincia.",
+    "que": "El plan no dice cuántas obras, dónde ni cuánto costarán. Habla de planificar, construir, rehabilitar y modernizar.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. El plan no dice cuántas obras hará.",
+    "cita": "Incrementar la cobertura y eficiencia de los sistemas de riego provincial mediante la",
+    "pag": 3
+   }
+  ],
+  "produccion": [
+   {
+    "t": "Dar asistencia técnica y abrir nuevos espacios de venta para productores y emprendedores.",
+    "que": "El plan no dice cuánto costará ni cuándo ni a cuántos productores llegará. Incluye innovación y asociatividad.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura, en apoyo productivo. Falta el detalle.",
+    "cita": "Impulsar el desarrollo económico provincial mediante el fortalecimiento de las cadenas",
+    "pag": 2
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Proteger cuencas y microcuencas y restaurar ecosistemas en la provincia.",
+    "que": "El plan no dice cuánto costará ni cuándo ni en qué zonas. Incluye restauración ecológica y educación ambiental.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. El plan no dice dónde ni cuánto.",
+    "cita": "Proteger y conservar los recursos naturales de la provincia mediante acciones de restauración",
+    "pag": 3
+   }
+  ],
+  "turismo": [
+   {
+    "t": "Promover un turismo sostenible que use el patrimonio natural, cultural e histórico de Imbabura.",
+    "que": "El plan no dice qué lugares, cuánto costará ni cuándo. Menciona corredores turísticos y promoción de la provincia.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. El plan no nombra lugares ni dinero.",
+    "cita": "Promover un modelo de turismo sostenible que integre el patrimonio natural, cultural, histórico",
+    "pag": 3
+   }
+  ],
+  "otros": [
+   {
+    "t": "Hacer obras para prevenir deslizamientos e inundaciones y reducir daños.",
+    "que": "El plan no dice qué obras, dónde ni cuánto costarán. Depende de coordinar con otras instituciones.",
+    "v": "media",
+    "n": "Le toca en parte. Depende de otras instituciones.",
+    "cita": "Fortalecer la gestión integral del riesgo mediante acciones preventivas, obras de mitigación,",
+    "pag": 3
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Hacer asambleas públicas y explicar a la gente cómo se gasta el presupuesto.",
+    "que": "El plan no dice cada cuándo ni cuánto costará. Habla de juntas vecinales y del presupuesto parroquial, no provincial.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura, pero el texto parece de otro nivel.",
+    "cita": "Convocar periódicamente a las comunidades, organizaciones sociales, juntas vecinales y",
+    "pag": 5
+   }
+  ]
+ },
+ "metas": [],
+ "notas": [
+  "El plan no dice costos, plazos ni lugares. Casi todo son frases generales.",
+  "Partes hablan de juntas y presupuesto parroquial, que no son de la Prefectura. Parece copiado de otro plan."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "paginas": 7
+}

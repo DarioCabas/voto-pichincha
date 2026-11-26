@@ -1,0 +1,141 @@
+{
+ "enfoque": "Arreglar caminos rurales y puentes, mejorar el riego con arreglos concretos, proteger el agua y los bosques, y apoyar a productores y al turismo.",
+ "tabla": {
+  "vial": [
+   {
+    "t": "Hacer un mapa de las vías rurales de la provincia y ordenarlas por importancia.",
+    "que": "Hasta 2027 la Prefectura haría un inventario con mapa de la red provincial. Cada año tendría un plan de mantenimiento con prioridades publicadas. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: son vías fuera de las ciudades.",
+    "cita": "Completar en 2027 el inventario georreferenciado y la jerarquización funcional de la red provincial.",
+    "pag": 9
+   },
+   {
+    "t": "Arreglar 15 vías entre cantones, 20 puentes y 40 puntos críticos.",
+    "que": "Son metas para el período 2027-2031. Incluyen corredores entre cantones, puentes y pasos, y puntos con riesgo de deslizamientos. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. Las vías estatales requieren delegación y recursos.",
+    "cita": "Intervenir al menos 15 corredores cantonales o intercantonales, 20 puentes/pasos y 40 puntos críticos durante el período.",
+    "pag": 9
+   }
+  ],
+  "riego": [
+   {
+    "t": "Arreglar o tecnificar al menos 30 sistemas de riego priorizados.",
+    "que": "Meta de 2.500 hectáreas productivas beneficiadas. Se arreglan las tomas de agua y las conducciones (tuberías y canales). El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. Falta el costo de las obras.",
+    "cita": "Rehabilitar o tecnificar al menos 30 sistemas priorizados y beneficiar al menos 2.500 hectáreas productivas durante el período.",
+    "pag": 10
+   },
+   {
+    "t": "Poner en marcha 20 sistemas para guardar agua en zonas con sequía.",
+    "que": "Son reservorios y soluciones comunitarias para guardar agua en zonas con más falta de agua. El plan no dice cuánto costará ni dónde.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura, en agua y riego.",
+    "cita": "Implementar al menos 20 soluciones de cosecha o almacenamiento de agua en territorios con mayor déficit.",
+    "pag": 10
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Formar y equipar 30 grupos comunitarios para combatir incendios.",
+    "que": "El plan prevé campañas cada año contra incendios. No dice en qué zonas ni cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: prevención ambiental.",
+    "cita": "Conformar y equipar al menos 30 brigadas comunitarias contra incendios y ejecutar campañas anuales.",
+    "pag": 12
+   }
+  ],
+  "produccion": [
+   {
+    "t": "Dar asesoría técnica y de ventas a 5.000 productores y 100 organizaciones.",
+    "que": "Es una meta del período 2027-2031. Incluye ayuda para producir mejor y para vender. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: apoyo al campo.",
+    "cita": "Brindar asistencia técnica o comercial a al menos 5.000 productores y 100 organizaciones durante el período.",
+    "pag": 13
+   }
+  ],
+  "turismo": [
+   {
+    "t": "Armar 8 rutas turísticas entre cantones y un calendario anual.",
+    "que": "Las rutas unirían cantones con gastronomía, naturaleza, artesanía y cultura. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de municipios y del Ministerio de Turismo.",
+    "cita": "Consolidar al menos 8 rutas provinciales o intercantonales y un calendario turístico anual coordinado.",
+    "pag": 13
+   }
+  ],
+  "social": [
+   {
+    "t": "Crear rutas de prevención y ayuda ante la violencia en los 15 cantones.",
+    "que": "Son rutas para derivar casos a quien atiende. El plan no dice quién atiende ni cuánto costará.",
+    "v": "media",
+    "n": "Depende de entidades nacionales y de los municipios.",
+    "cita": "Implementar rutas coordinadas de prevención y derivación en los quince cantones.",
+    "pag": 18
+   }
+  ],
+  "gobierno": [
+   {
+    "t": "Crear una oficina provincial de inversiones y cooperación.",
+    "que": "Buscaría inversiones y ayuda de otros países. El plan no dice cuánto dinero llegará ni cuándo.",
+    "v": "media",
+    "n": "La Prefectura puede crearla. Los permisos son de otras entidades.",
+    "cita": "Crear una oficina provincial de inversiones y cooperación.",
+    "pag": 19
+   }
+  ],
+  "otros": [
+   {
+    "t": "Hacer 150 jornadas de prevención y nutrición en salud con convenios.",
+    "que": "Son jornadas preventivas coordinadas. El plan no dice dónde ni cuánto costará. No reemplaza al sistema nacional de salud.",
+    "v": "baja",
+    "n": "La salud es del Gobierno nacional. Solo ayuda con jornadas.",
+    "cita": "Realizar al menos 150 jornadas preventivas coordinadas, sin sustituir al sistema nacional de salud.",
+    "pag": 16
+   }
+  ]
+ },
+ "metas": [
+  "Inventario georreferenciado de la red vial provincial en 2027.",
+  "Intervenir 15 corredores, 20 puentes/pasos y 40 puntos críticos al 2031.",
+  "Rehabilitar o tecnificar 30 sistemas de riego y beneficiar 2.500 hectáreas productivas.",
+  "Conservar o restaurar 2.000 hectáreas estratégicas.",
+  "Brindar asistencia a 5.000 productores y 100 organizaciones."
+ ],
+ "notas": [
+  "El plan no da costos por obra ni dice de dónde saldrá el dinero exacto. Usa fuentes generales como presupuesto y préstamos.",
+  "Varias metas dependen de convenios con municipios, el Ministerio de Turismo u otras entidades."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  24,
+  25
+ ],
+ "paginas": 25
+}

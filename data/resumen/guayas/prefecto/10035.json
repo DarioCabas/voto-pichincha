@@ -1,0 +1,158 @@
+{
+ "enfoque": "Caminos rurales, riego, ventas para productores y alertas de inundación. Mezcla también salud, educación y policía, que no son de la Prefectura.",
+ "tabla": {
+  "vial": [
+   {
+    "t": "Arreglar y mantener caminos rurales productivos en 25 cantones, con prioridad en Colimes, Palestina, Santa Lucía y Salitre",
+    "que": "Parte de un plan de vías de 120 millones de dólares, con dinero propio y del BEDE (banco público de desarrollo). Meta: 500 km de vías productivas. Plazo: 2027 a 2031.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: son v��as rurales que unen parroquias y cantones.",
+    "cita": "Programa de Caminos Rurales Productivos — 25 cantones, con prioridad en Colimes, Palestina, Santa Lucía, Salitre, entre otros.",
+    "pag": 17
+   },
+   {
+    "t": "Hacer estudios y diseño de un corredor de buses rápidos entre Guayaquil y Daule",
+    "que": "El plan solo habla de estudios y diseño, no de obra. Aliado: Gobierno Central. El plan no dice cuánto costará ni cuándo empezará la obra.",
+    "v": "baja",
+    "n": "Es transporte urbano entre ciudades; le toca al Gobierno Central y a los municipios.",
+    "cita": "Corredor BRT Provincial Guayaquil–Daule — estudios de factibilidad y diseño definitivo.",
+    "pag": 17
+   }
+  ],
+  "riego": [
+   {
+    "t": "Llevar riego tecnificado a 15.000 hectáreas de agricultura familiar en 15 cantones",
+    "que": "Meta: 15.000 hectáreas con riego tecnificado en 2027 a 2031. Sale de 90 millones de dólares del eje productivo; la mitad aún está por definir con otras entidades.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura. Parte del dinero depende de otras entidades.",
+    "cita": "Programa Provincial de Riego Tecnificado para la Agricultura Familiar Campesina — 15.000 ha en 15 cantones.",
+    "pag": 18
+   }
+  ],
+  "produccion": [
+   {
+    "t": "Dar asistencia técnica a 30.000 productoras y productores, y tecnificar 50 juntas de riego",
+    "que": "Meta para 2027 a 2031. Sale del eje productivo de 90 millones de dólares, cuya mitad está por definir. El plan no dice qué incluye cada asistencia.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: fomentar la producción agropecuaria.",
+    "cita": "30.000 productoras y productores registrados con asistencia técnica; 50 juntas de riego tecnificadas",
+    "pag": 59
+   },
+   {
+    "t": "Crear una plataforma en internet para vender productos de productores a compradores",
+    "que": "Conecta productores, pescadores, asociaciones y compradores institucionales. Meta: 5.000 productos. El plan pone 85 millones de dólares para comercialización, sin separar esta plataforma.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: fomentar actividades productivas provinciales.",
+    "cita": "Marketplace Guayas Productivo para conectar productoras, productores, asociaciones, pescadoras y pescadores, emprendimientos y compradores institucionales.",
+    "pag": 18
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Restaurar 5.000 hectáreas de riberas y humedales en 12 cantones de la cuenca baja",
+    "que": "Con apoyo del Ministerio de Ambiente (MAATE) y dos organismos internacionales. Parte de 72 millones de dólares del eje de riesgos, con parte aún por definir. Plazo: 2027 a 2031.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: gestión ambiental y cuencas. Parte del dinero es de otras fuentes.",
+    "cita": "Programa de Restauración de Riberas y Humedales del Guayas (infraestructura verde para regulación hídrica) — 5.000 ha en 12 cantones de cuenca baja.",
+    "pag": 15
+   },
+   {
+    "t": "Crear un sistema de alerta de inundaciones con 120 estaciones y protocolos de evacuación",
+    "que": "Incluye plataforma digital y protocolos para evacuar. Trabaja con la Secretaría de Gestión de Riesgos (SNGRE), el BEDE y la cooperación de Japón. El plan pone 72 millones de dólares para un grupo de proyectos de emergencias, sin separar este.",
+    "v": "media",
+    "n": "Le toca a la Prefectura, pero la gestión de riesgos la comparte con otros niveles de gobierno.",
+    "cita": "Sistema Provincial de Alerta Temprana ante Inundaciones \"Río Seguro\" — 120 estaciones, plataforma digital y protocolos de evacuación.",
+    "pag": 15
+   }
+  ],
+  "turismo": [
+   {
+    "t": "Poner señales y obras turísticas en la Ruta del Guayas y promocionarla",
+    "que": "Aliados: Ministerio de Turismo, la Prefectura y el sector hotelero. Plazo de 12 a 48 meses. El plan no dice cuánto costará este proyecto.",
+    "v": "alta",
+    "n": "Le toca a la Prefectura: turismo. El plan no pone costo para este proyecto.",
+    "cita": "Corredor Patrimonial \"Ruta del Guayas\" — señalización, infraestructura turística y promoción.",
+    "pag": 18
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Abrir 15 nuevas unidades de policía (UPC) y crear rondas campesinas",
+    "que": "Aliados: Ministerio del Interior y la Prefectura. El plan no dice cuánto costará ni en qué fecha se abrirán.",
+    "v": "baja",
+    "n": "Le toca a la Policía Nacional, no a la Prefectura.",
+    "cita": "Seguridad Rural Guayas — 15 nuevas UPC y sistema de rondas campesinas.",
+    "pag": 19
+   }
+  ],
+  "social": [
+   {
+    "t": "Entregar tablets a estudiantes de bachillerato con contenido ya cargado",
+    "que": "El plan pone 22,5 millones de dólares para varios proyectos de educación, sin separar las tablets. Meta: 20.000 tablets activas. Aliados: Ministerio de Educación.",
+    "v": "baja",
+    "n": "Le toca al Ministerio de Educación, no a la Prefectura.",
+    "cita": "\"Una Casa, Una Aula Digital\": entrega de tablets a estudiantes de bachillerato con contenido precargado",
+    "pag": 20
+   }
+  ]
+ },
+ "metas": [
+  "500 km de vías productivas intervenidas, 2027 a 2031.",
+  "5.000 hectáreas restauradas, 2027 a 2031.",
+  "15.000 hectáreas con riego tecnificado, 2027 a 2031.",
+  "30.000 productoras y productores con asistencia técnica, 2027 a 2031.",
+  "100% de las obras nuevas con código QR y avance publicado, en corto plazo (hasta 12 meses)."
+ ],
+ "notas": [
+  "Mezcla temas de salud, educación y policía, que no son de la Prefectura. Muchas metas dependen de otras entidades.",
+  "El anexo C da costos totales (1.125 millones de dólares), pero varios proyectos tienen parte del dinero por definir.",
+  "Plan muy largo (64 págs.): se resumieron las 43 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  4,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18,
+  19,
+  20,
+  21,
+  22,
+  23,
+  25,
+  30,
+  31,
+  33,
+  34,
+  37,
+  38,
+  40,
+  41,
+  42,
+  43,
+  44,
+  45,
+  46,
+  47,
+  48,
+  49,
+  50,
+  52,
+  53,
+  54,
+  56,
+  57,
+  58,
+  59,
+  60,
+  61,
+  62,
+  64
+ ],
+ "paginas": 64
+}

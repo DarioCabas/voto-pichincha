@@ -130,7 +130,7 @@ export function Comparacion({ candidatos, temas }: { candidatos: Cand[]; temas: 
                 {cols.map((c) => (
                   <TableHead key={c.id} scope="col" className="h-auto whitespace-normal py-3 align-top">
                     <span className="block text-xs font-semibold text-link">Lista {c.lista}</span>
-                    <a className="block text-[0.95rem] font-semibold text-foreground no-underline hover:underline" href={`#f-${c.id}`}>{c.titulo}</a>
+                    <a className="flex min-h-7 items-center text-[0.95rem] font-semibold text-foreground no-underline hover:underline" href={`#f-${c.id}`}>{c.titulo}</a>
                     {c.subtitulo && <span className="block text-xs font-normal text-muted-foreground">{c.subtitulo}</span>}
                     <span className="block text-xs font-normal uppercase tracking-wide text-muted-foreground">{c.partido}</span>
                     <BarraConteo tabla={c.tabla ?? {}} />

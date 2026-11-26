@@ -1,0 +1,128 @@
+{
+ "enfoque": "Caminos rurales, riego con 600 km de canales, ferias de productores, cuidado de fuentes de agua y turismo comunitario. Casi no dice costos ni plazos.",
+ "tabla": {
+  "vial": [
+   {
+    "t": "Arreglar accesos rurales en los cantones del subtrópico.",
+    "que": "Dice que dará prioridad a accesos rurales del subtrópico. El plan no dice cuántos kilómetros, cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Las vías rurales sí le tocan a la Prefectura. Falta cuánto y cuándo.",
+    "cita": "la rehabilitación prioritaria de accesos rurales en los cantones del subtrópico",
+    "pag": 14
+   }
+  ],
+  "riego": [
+   {
+    "t": "Revestir e intubar 600 km de canales de riego.",
+    "que": "Meta de 600 km de canales para reducir el agua que se pierde por filtración. El plan no dice cuánto costará ni cuándo.",
+    "v": "alta",
+    "n": "Riego sí le toca a la Prefectura. Falta el costo y el plazo.",
+    "cita": "revestimiento e intubación de 600 km de canales para reducir pérdidas de caudal por filtración",
+    "pag": 13
+   },
+   {
+    "t": "Entregar materiales para riego por aspersión en cada parcela.",
+    "que": "Entrega materiales para regar parcelas con aspersión. El plan no dice cuántas parcelas ni cuánto costará.",
+    "v": "alta",
+    "n": "Riego sí le toca a la Prefectura. Falta cuántas parcelas.",
+    "cita": "la entrega de materiales para riego por aspersión parcelario",
+    "pag": 12
+   },
+   {
+    "t": "Construir reservorios comunitarios y pozos en zonas con sequía.",
+    "que": "Guardar agua en depósitos comunitarios y perforar pozos donde hay sequías seguidas. El plan no dice dónde ni cuánto costará.",
+    "v": "alta",
+    "n": "Agua para cultivos sí le toca. Falta lugar y costo.",
+    "cita": "construcción de reservorios comunitarios y perforación técnica de pozos en zonas con sequías recurrentes",
+    "pag": 13
+   }
+  ],
+  "produccion": [
+   {
+    "t": "Equipar las Ferias Agroecológicas Directas para pequeños productores.",
+    "que": "Dar equipo y forma oficial a las ferias para pequeños productores. El plan no dice cuántas ferias habrá ni dónde.",
+    "v": "alta",
+    "n": "Apoyo a productores sí le toca. Falta cuántas ferias y costo.",
+    "cita": "Institucionalización y equipamiento de las Ferias Agroecológicas Directas para pequeños productores",
+    "pag": 14
+   },
+   {
+    "t": "Asesorar a los agricultores para producir más por hectárea.",
+    "que": "Dar apoyo técnico para subir la producción por hectárea y bajar costos. El plan no dice cuántos agricultores ni cuánto costará.",
+    "v": "alta",
+    "n": "Apoyo a la producción sí le toca a la Prefectura.",
+    "cita": "apoyar y asesorar al agricultor para mejorar el rendimiento por hectárea, reduciendo los costos de producción",
+    "pag": 12
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Crear fondos con comunidades y regantes para frenar el avance agrícola sobre fuentes de agua.",
+    "que": "Fondos para detener terrenos de cultivo que avanzan sobre fuentes de agua. El plan no dice cuánto dinero tendrán ni de dónde saldrá.",
+    "v": "alta",
+    "n": "Cuencas y ambiente sí le tocan. Falta el monto.",
+    "cita": "Implementación de Fondos de Conservación Vial y Ambiental co-gestionados con comunidades y juntas de regantes",
+    "pag": 13
+   },
+   {
+    "t": "Diseñar obras de protección en cuencas y laderas con riesgo.",
+    "que": "Diseñar obras para proteger cuencas, microcuencas y laderas de inundaciones y deslizamientos. El plan no dice si las construirá ni cuándo.",
+    "v": "alta",
+    "n": "Obras en cuencas sí le tocan. Solo dice que diseñará.",
+    "cita": "diseño de obras de protección en cuencas, microcuencas y laderas susceptibles a inundaciones y movimientos en masa",
+    "pag": 14
+   }
+  ],
+  "turismo": [
+   {
+    "t": "Crear una Unidad de Turismo para rutas turísticas comunitarias.",
+    "que": "Crea una unidad para apoyar rutas comunitarias y áreas protegidas. El plan no dice cuánto costará ni cuándo estará lista.",
+    "v": "alta",
+    "n": "El turismo sí le toca a la Prefectura. Falta presupuesto.",
+    "cita": "Creación y fortalecimiento de la Unidad de Turismo para el desarrollo de infraestructuras de apoyo",
+    "pag": 14
+   }
+  ],
+  "social": [
+   {
+    "t": "Llevar unidades móviles de atención médica a zonas dispersas.",
+    "que": "Unidades móviles de salud para zonas alejadas de la Sierra y el subtrópico. El plan no dice cuántas ni cuánto costará.",
+    "v": "baja",
+    "n": "La salud le toca al Gobierno nacional, no a la Prefectura.",
+    "cita": "Despliegue de unidades móviles de atención médica comunitaria y salud preventiva en las zonas dispersas",
+    "pag": 14
+   }
+  ]
+ },
+ "metas": [
+  "Revestir e intubar 600 km de canales de riego.",
+  "Informes de ejecución del presupuesto cada seis meses, al órgano legislativo.",
+  "Según el plan, la Minga reduce los costos operativos hasta en un 40%."
+ ],
+ "notas": [
+  "El plan casi no dice cuánto costará cada obra ni en qué plazo se hará.",
+  "Repite diagnósticos y metas del plan de desarrollo provincial (PDOT). Varias propuestas dependen de préstamos y convenios."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10,
+  11,
+  12,
+  13,
+  14,
+  15,
+  16,
+  17,
+  18
+ ],
+ "paginas": 18
+}

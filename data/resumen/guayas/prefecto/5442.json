@@ -1,0 +1,154 @@
+{
+ "enfoque": "Repite en buena parte metas del plan anterior de la Prefectura (caminos, riego, árboles, turismo) y agrega caminos productivos y apoyo a productores.",
+ "tabla": {
+  "vial": [
+   {
+    "t": "Mantener 4.000 km de caminos vecinales y rehabilitar 900 km con asfalto.",
+    "que": "Es una meta que viene del plan anterior de la Prefectura (2024-2027). El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "Caminos rurales: sí le toca a la Prefectura. Es continuidad de una meta anterior.",
+    "cita": "Mantener 4.000 km de caminos vecinales; rehabilitar 900 km",
+    "pag": 47
+   },
+   {
+    "t": "Mejorar 1.500 km de caminos productivos, empezando con 100 km en los primeros 100 días.",
+    "que": "El plan dice que empieza con 100 km en 100 días y llega a 1.500 km al cierre. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Caminos rurales: sí le toca a la Prefectura. Falta saber el costo.",
+    "cita": "Meta 1.500 km de Mejoramiento Vial y Caminos Productivos",
+    "pag": 75
+   },
+   {
+    "t": "Ampliar 33 km de vías concesionadas y construir una estación de peaje.",
+    "que": "Lo harían empresas concesionarias con financiamiento externo, no la Prefectura directamente. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de empresas privadas y de financiamiento externo.",
+    "cita": "Ampliar 33 km viales; mantener 330 km; construir estación de peaje",
+    "pag": 47
+   }
+  ],
+  "riego": [
+   {
+    "t": "Construir o arreglar 20 km de canales de riego y llegar a 6.358 ha con riego.",
+    "que": "Es una meta del plan anterior, con horizonte 2027. El plan no dice cuánto costará ni de dónde saldrá el dinero.",
+    "v": "alta",
+    "n": "El riego es competencia de la Prefectura.",
+    "cita": "Construir/rehabilitar 20 km de canales; incrementar a 6.358 ha",
+    "pag": 47
+   }
+  ],
+  "ambiente": [
+   {
+    "t": "Sembrar 506.000 árboles nativos en zonas deforestadas y de protección ambiental.",
+    "que": "Es una meta del plan anterior, con horizonte 2027. El plan no dice cuánto costará ni quién lo paga.",
+    "v": "alta",
+    "n": "La gestión ambiental sí le toca a la Prefectura.",
+    "cita": "Sembrar 506.000 árboles nativos en zonas desforestadas y de",
+    "pag": 46
+   },
+   {
+    "t": "Instalar 40 puntos de control de la calidad del agua y 9 acciones contra la contaminación del río Guayas.",
+    "que": "Parte de un programa de la cuenca del río Guayas que necesita acuerdos con municipios. El plan no dice cuánto costará.",
+    "v": "media",
+    "n": "Depende de convenios con municipios y el Ministerio del Ambiente.",
+    "cita": "Implementar 40 puntos de monitoreo de calidad de agua; 9",
+    "pag": 46
+   }
+  ],
+  "produccion": [
+   {
+    "t": "Mejorar la producción de 346.508 animales del sector pecuario, acuícola y agrícola.",
+    "que": "Busca beneficiar al 70% de pequeños agricultores y fortalecer a 3.051 recolectores. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "El apoyo al campo y la producción sí le toca a la Prefectura.",
+    "cita": "Mejorar producción de 346.508 animales; fortalecer a 3.051",
+    "pag": 47
+   }
+  ],
+  "turismo": [
+   {
+    "t": "Llevar la marca 'Guayas' a 38 ferias y hacer 40 actividades de articulación turística.",
+    "que": "Es una meta del plan anterior, con horizonte 2027. El plan no dice cuánto costará.",
+    "v": "alta",
+    "n": "Turismo y promoción: le toca a la Prefectura.",
+    "cita": "Posicionar la marca 'Guayas' en 38 ferias; ejecutar 40 actividades",
+    "pag": 47
+   }
+  ],
+  "seguridad": [
+   {
+    "t": "Ayudar a 25 municipios a formar sus consejos de seguridad ciudadana.",
+    "que": "El plan no dice cuánto costará ni cuándo. La policía y el orden público son del Gobierno nacional.",
+    "v": "media",
+    "n": "La Prefectura solo coordina; la policía no le toca.",
+    "cita": "Fortalecer a 25 GADs Municipales para conformación del Consejo",
+    "pag": 47
+   }
+  ],
+  "social": [
+   {
+    "t": "Construir 2.000 viviendas como parte del plan habitacional.",
+    "que": "El plan admite que va en 2,05% de avance (2025). No dice cuánto costará ni cómo se pagará.",
+    "v": "baja",
+    "n": "La vivienda le toca al Gobierno nacional y a los municipios.",
+    "cita": "Construir 2.000 viviendas como parte del plan habitacional",
+    "pag": 47
+   }
+  ]
+ },
+ "metas": [
+  "Mantener 4.000 km de caminos vecinales y rehabilitar 900 km con asfalto (meta del plan anterior).",
+  "Llegar a 1.500 km de caminos productivos: 100 km en los primeros 100 días.",
+  "Sembrar 506.000 árboles nativos (meta con horizonte 2027).",
+  "Construir o rehabilitar 20 km de canales y llegar a 6.358 ha con riego (horizonte 2027).",
+  "Beneficiar al 70% de pequeños agricultores."
+ ],
+ "notas": [
+  "Gran parte del plan repite metas del plan de desarrollo provincial 2024-2027. Casi todas las propuestas no dicen cuánto cuestan ni de dónde sale el dinero.",
+  "Incluye temas de seguridad y vivienda que son del Gobierno nacional o de los municipios, no de la Prefectura.",
+  "Plan muy largo (94 págs.): se resumieron las 39 páginas con propuestas."
+ ],
+ "modelo": "haiku",
+ "leidas": [
+  1,
+  6,
+  9,
+  10,
+  11,
+  13,
+  24,
+  31,
+  36,
+  44,
+  45,
+  46,
+  47,
+  48,
+  52,
+  54,
+  55,
+  59,
+  62,
+  63,
+  65,
+  68,
+  70,
+  72,
+  73,
+  74,
+  75,
+  76,
+  77,
+  78,
+  79,
+  80,
+  81,
+  87,
+  88,
+  89,
+  90,
+  91,
+  93
+ ],
+ "paginas": 94
+}

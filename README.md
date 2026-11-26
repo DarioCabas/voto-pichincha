@@ -41,6 +41,12 @@ Pichincha usa las URL sin prefijo (`/alcaldia/quito/`); Azuay, Cotopaxi y Guayas
 scripts/pipeline.sh azuay/alcalde   # texto → OCR → resumen con claude -p → build
 ```
 
+Prefecturas fuera de Pichincha: `node scripts/scrape-all.cjs --provincia IMBABURA prefecto` y `scripts/pipeline.sh imbabura/prefecto`; se publican en `/<provincia>/prefectura/`. La de Pichincha sigue curada a mano (`data/raw/prefecto.json`, `src/data/prefecto.js`) y el script no la toca.
+
+CPCCS (nacional): `node scripts/scrape-cpccs.cjs` y `scripts/pipeline.sh nacional/cpccs`. Sale en `/cpccs/` y en el menú de todas las provincias, separado por lista (hombres, mujeres, organizaciones sociales).
+
+El navegador para el CNE puede ser Brave: `open -na "Brave Browser" --args --remote-debugging-port=9333 --user-data-dir="$HOME/.brave-cne"`.
+
 ## PDF en producción
 
 `public/planes/` (~1,2 GB) no está en git, así que Vercel no lo publica. Los enlaces a los PDF ("PDF", "Plan, pág. N") usan `PUBLIC_PLANES_URL` como base: sube la carpeta `public/planes/` a un almacenamiento público conservando la ruta `planes/...` y define esa variable en Vercel (por ejemplo `https://<bucket>.r2.dev`). Sin la variable, los enlaces apuntan al mismo sitio, como en local.
